@@ -1,0 +1,32 @@
+{
+	"description": {
+		"name": [
+			"Retool test"
+		],
+		"last updated": "17 January 2022",
+		"minimum version": "2.00.0"
+	},
+
+	"renames": {
+        "Another Test Title": [
+            ["Another Test Title Again", 1]
+        ],
+        "Original Test Title (Disc 1)": [
+            ["Special Original Test Title (Disc 1)", 0],
+            ["Slightly Less Special Original Test Title (Disc 1)", 0]
+        ],
+        "Original Test Title (Disc 2)": [
+            ["Special Original Test Title (Disc 2)", 0],
+            ["Slightly Less Special Original Test Title (Disc 2)", 0]
+        ],
+        "Test Title for Some Reason Rereleased With a Different Name But is Updated": [
+            ["Test Title - Super Mega Ultra Plus Edition", 0],
+            ["Test Title - Definitely Has More Than Plus Edition", 0],
+            ["Test Title - Plus Plus Edition", 0],
+            ["Test Title - Plus Edition", 0],
+            ["Test Title That Matches the Rerelease in USA", 1],
+            ["Test Title", 2],
+            ["Test Title Renamed", 2]
+        ]
+    }
+}

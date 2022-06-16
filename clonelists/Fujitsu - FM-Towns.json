@@ -1,0 +1,41 @@
+{
+	"description": {
+		"name": [
+			"Fujitsu - FM-Towns"
+		],
+		"last updated": "22 May 2022",
+		"minimum version": "2.00"
+	},
+
+	"categories": {
+		"FM Series Software Taikenban CD-ROM": {
+			"match": "short",
+			"categories": ["Applications", "Demos"]
+		}
+	},
+
+	"mias": [
+		"Psychic Detective Series Vol. 2 - Memories (Japan) (DCCS)"
+	],
+
+	"renames": {
+		"Fujitsu Air Warrior": [
+			["Fujitsu Air Warrior V2", 1]
+		],
+		"GNU for Towns Rel. 2": [
+			["GNU for Towns", 2]
+		],
+		"Hyper Address Ver. 2.0": [
+			["Hyper Address", 2]
+		],
+		"Ms. Detective File 1 - Iwami Ginzan Satsujin Jiken (Disc 1)": [
+			["Ms. Detective File 1 - Iwami Ginzan Satsujin Jiken", 0]
+		],
+		"Ms. Detective File 1 - Iwami Ginzan Satsujin Jiken (Disc 2)": [
+			["Ms. Detective File 1 - Iwami Ginzan Satsujin Jiken", 0]
+		],
+		"Super Real Mahjong PII & PIII+": [
+			["Super Real Mahjong PII & PIII", 2]
+		]
+	}
+}
