@@ -1,0 +1,578 @@
+{
+	"description": {
+		"name": [
+			"internal-config.json"
+		],
+		"comments": [
+			"These are defaults that Retool requires, don't modify this file.",
+			"Check user-config.yaml for user-editable settings."
+		],
+		"last updated": "16 June 2022"
+	},
+
+	"ignore_tags": [
+		"\\s?\\(Rev(?: [0-9A-Z].*?)?\\)",
+		"\\s?\\(v[0-9A-Z].*?\\)",
+		"(?<!^)(?<=\\(|\\s)v(?:\\d\\.?)+",
+		"\\s?\\(V[0-9].*?\\)",
+		"(?<!^)\\s?(?:V|- Version )\\d\\.\\d+(?: L(?:evel )?\\d+)?",
+		"\\s?(?!Version Vol\\.|Version \\(|Version$|Version -|Version \\d-)(?: - )?\\(?(?:\\((?:\\w[\\.\\-]?\\s*)*|)[Vv]ersion\\s?(?:[\\d\\.\\-]+)+[A-Za-z]?(?: (?:\\d-?)+)?.*?(?:(?:\\w[\\.\\-]?\\s*)*\\))?",
+		"\\s?\\(DV [0-9].*?\\)",
+		"\\s?\\((?:(?:FA|S)[A-F][ABT]S?(?:, )?)+\\)",
+		"\\s?\\((?:A[BDEFNPS]|B[DFNT]|CX|FT|JE|K[AFIKMRZ]|PN|QA|RC|S[KN]|T[ABCJQ]|V[BEJKLMW]|Y[XW])[ABCDEFGIKJMLNPQSTUVWYZ0-9][DEJPVXYZ]\\)",
+		"\\s?\\(FW[0-9].*?\\)",
+		"\\s?\\(S[CL][EKPU][ADHMNS]-\\d{5}\\)",
+		"\\s?\\([BM][CLR][AEJKTU][BCDMST]-\\d{5}\\)",
+		"\\s?\\([CP][CLU][ACJKS][AMS]-\\d{5}\\)",
+		"\\s?\\(U[CLT][EJUS][BST]-\\d{5}\\)",
+		"\\s?\\((?:(?:[0-9]{1,2}[ABCMRS],? ?)*|R[E]?[-]?[0-9]*)\\)",
+		"\\s?\\((?:\\w*?\\s+)*Alpha(?:\\s\\d+)?\\)",
+		"\\s?\\((?:\\w*?\\s+)*Beta(?:\\s\\d+)?\\)",
+		"\\s?\\((?:\\w*?\\s+)*Proto(?:\\s\\d+)?\\)",
+		"\\s?\\(Prerelease\\)",
+		"\\s?\\(DEBUG\\)",
+		"\\s?\\(DEV\\)",
+		"\\s?\\(Pre-Production\\)",
+		"\\s?\\(Review Code\\)",
+		"\\s?\\(Alt.*?\\)",
+		"\\s?\\(Covermount\\)",
+		"\\s?\\(eShop\\)",
+		"\\s?\\(GBA\\)",
+		"\\s?\\(GB\\)",
+		"\\s?\\(GBC\\)",
+		"\\s?\\(iDS\\)",
+		"\\s?\\(iQue\\)",
+		"\\s?\\(NES\\)",
+		"\\s?\\(SNES\\)",
+		"\\s?\\(EDC\\)",
+		"\\s?\\(No EDC\\)",
+		"\\s?\\(Multi Tap.*?Doukonban\\)",
+		"\\s?\\(Pirate\\)",
+		"\\s?\\(Essentials\\)",
+		"\\s?\\((?:\\w-?\\s*)*?OEM\\)",
+		"\\s?\\(Rerelease\\)",
+		"\\s?\\(Magazine\\)",
+		"\\s?\\(Made in.*?\\)",
+		"\\s?\\((?:\\d{8}|\\d{4}-\\d{2}-\\d{2}|\\d{2}-\\d{2}-\\d{4}|\\d{2}-\\d{2}-\\d{2}|(?:January|February|March|April|May|June|July|August|September|October|November|December), \\d{4})\\)",
+		"\\s?\\((?:[0-9]{1,2}[A-Z](?:[ ,].[0-9]{1,2}[A-Z])*|R[E]{,1}[-]{,1}[0-9]{0,})\\)"
+	],
+
+	"disc_rename": {
+		"(Disc 0": "(Disc ",
+		"(Disco ": "(Disc ",
+		"(Disk ": "(Disc ",
+		"(CD ": "(Disc ",
+		"(Disque ": "(Disc ",
+		"(Lato ": "(Disc ",
+		"(Seite ": "(Disc ",
+		"(Teil ": "(Disc ",
+		"(Disc )": "(Disc 0)",
+		"(Disc A)": "(Disc 1)",
+		"(Disc B)": "(Disc 2)",
+		"(Disc C)": "(Disc 3)",
+		"(Disc D)": "(Disc 4)",
+		"(Disc E)": "(Disc 5)",
+		"(Disc F)": "(Disc 6)",
+		"(Disc G)": "(Disc 7)",
+		"(Disc H)": "(Disc 8)",
+		"(Disc I)": "(Disc 1)",
+		"(Disc II)": "(Disc 2)",
+		"(Disc III)": "(Disc 3)",
+		"(Disc IV)": "(Disc 4)",
+		"(Disc V)": "(Disc 5)",
+		"(Disc VI)": "(Disc 6)",
+		"(Disc VII)": "(Disc 7)",
+		"(Disc VIII)": "(Disc 8)",
+		"(Disc One)": "(Disc 1)",
+		"(Disc Two)": "(Disc 2)",
+		"(Disc Three)": "(Disc 3)",
+		"(Disc Four)": "(Disc 4)",
+		"(Disc Five)": "(Disc 5)",
+		"(Disc Six)": "(Disc 6)",
+		"(Disc Seven)": "(Disc 7)",
+		"(Disc Eight)": "(Disc 8)",
+		"(Disc Uno)": "(Disc 1)",
+		"(Disc Due)": "(Disc 2)",
+		"(Disc Tre)": "(Disc 3)",
+		"(Disc Quattro)": "(Disc 4)",
+		"(Disc Cinque)": "(Disc 5)",
+		"(Disc Sei)": "(Disc 6)",
+		"(Disc Sette)": "(Disc 7)",
+		"(Disc Otto)": "(Disc 8)",
+		"(Disc-": "(Disc ",
+		"(Disc Writer)": "(Disk Writer)"
+	},
+
+	"promote_editions": [
+		"\\s?\\(CGB\\+SGB Enhanced\\)",
+		"\\s?\\(SGB Enhanced.*?\\)",
+		"\\s?\\(NDSi Enhanced\\)",
+		"\\s?\\(Rumble Version\\)",
+		"\\s?\\(Shindou Edition\\)",
+		"\\s?\\(GB Compatible\\)",
+		"\\s?\\(Legit CIA\\)",
+		"\\s?\\(J-Cart\\)",
+		"\\s?\\(Cart Present\\)",
+		"\\s?\\(GPS Receiver Doukonban\\)",
+		"\\s?\\(Microphone Doukonban\\)",
+		"\\s?\\(FM Towns Marty.*?\\)",
+		"\\s?\\(Joypad\\)",
+		"\\s?\\(V.Smile Motion\\)",
+		"\\s?\\(NTSC\\)",
+		"\\s?\\(Aquaprice 2800\\)",
+		"\\s?\\(Artdink Best Choice\\)",
+		"\\s?\\(Best Collection\\)",
+		"\\s?\\(Best of the Best\\)",
+		"\\s?\\(Best Hit Selection\\)",
+		"\\s?\\(Best Wing 2800\\)",
+		"\\s?\\(Bit Corporation\\)",
+		"\\s?\\(BPS the Choice\\)",
+		"\\s?\\(Budget\\)",
+		"\\s?\\(C&E\\)",
+		"\\s?\\(CCE\\)",
+		"\\s?\\(Culture Publishers\\)",
+		"\\s?\\(Cyclone's Best\\)",
+		"\\s?\\(DigiCube Best Selection\\)",
+		"\\s?\\(DSI\\)",
+		"\\s?\\(DX Pack\\)",
+		"\\s?\\(EA Best Hits\\)",
+		"\\s?\\(ebKore Plus\\)",
+		"\\s?\\(ebKore \\+\\)",
+		"\\s?\\(Fukyuuban.*?\\)",
+		"\\s?\\(Game no Kanzume Otokuyou\\)",
+		"\\s?\\(Gluk Video\\)",
+		"\\s?\\(Goliath\\)",
+		"\\s?\\(Greatest Hits\\)",
+		"\\s?\\(Gust Best Price\\)",
+		"\\s?\\(Honkakuha de 1300\\)",
+		"\\s?\\(Hit Squad\\)",
+		"\\s?\\(Hit Squad - Regenerator\\)",
+		"\\s?\\(Hit Squad - Euro Power Pack\\)",
+		"\\s?\\(Idea-Tek\\)",
+		"\\s?\\(IE Institute\\)",
+		"\\s?\\(Imagineer\\)",
+		"\\s?\\(Infinity Plus\\)",
+		"\\s?\\(Kixx\\)",
+		"\\s?\\(Koei the Best\\)",
+		"\\s?\\(Major Wave\\)",
+		"\\s?\\(Mega Hits!\\)",
+		"\\s?\\(Mega Soft\\)",
+		"\\s?\\(NP\\)",
+		"\\s?\\(PlayStation the Best\\)",
+		"\\s?\\(PlayStation the Best for Family\\)",
+		"\\s?\\(PlayStation 2 the Best\\)",
+		"\\s?\\(PlayStation 3 the Best\\)",
+		"\\s?\\(Platinum\\)",
+		"\\s?\\(Premium Pack\\)",
+		"\\s?\\(PSone Books\\)",
+		"\\s?\\(PSP Essentials\\)",
+		"\\s?\\(PSP The Best\\)",
+		"\\s?\\(PSP the Best\\)",
+		"\\s?\\(Renkaban\\)",
+		"\\s?\\(Rockstar Classics\\)",
+		"\\s?\\(Sachen\\)",
+		"\\s?\\(Sold Out Extreme\\)",
+		"\\s?\\(Sold Out Software\\)",
+		"\\s?\\(Spectacular Voyage\\)",
+		"\\s?\\(Super Value 2800\\)",
+		"\\s?\\(Spike Library\\)",
+		"\\s?\\(Spike the Best\\)",
+		"\\s?\\(Super Mega\\)",
+		"\\s?\\(Super Value Set\\)",
+		"\\s?\\(Tatacon Doukon Set\\)",
+		"\\s?\\(TXC\\)",
+		"\\s?\\(Xplosiv\\)",
+		"\\s?\\(Ultimate Hits\\)",
+		"\\s?\\(Value 1500\\)",
+		"\\s?\\(Value Price\\)",
+		"\\s?\\(ValuSoft\\)",
+		"\\s?\\(Vivendi\\)",
+		"\\s\\((?:(?!\\(|Gentei.*?)[\\s\\S])*Gentei.*?\\)",
+		"\\s\\((?:(?!\\(|Tokubetsu-ban.*?)[\\s\\S])*Tokubetsu-ban.*?\\)",
+		"\\s?\\(Controller Set\\)",
+		"\\s?\\(Disk Writer\\)",
+		"\\s?\\(English Logo\\)",
+		"\\s?\\(Chinese Logo\\)",
+		"\\s?\\(Korean Logo\\)",
+		"\\s?\\(No Logo\\)"
+	],
+
+	"demote_editions": [
+		"\\s?\\[b\\]",
+		"\\s?\\(5.25 inch\\)",
+		"\\s?\\(3.5 inch\\)",
+		"\\s?\\(Aftermarket\\)",
+		"\\s?\\(Arcade\\)",
+		"\\s?\\(Debug\\)",
+		"\\s?\\(Debug Version\\)",
+		"\\s?\\(Earlier\\)",
+		"\\s?\\(Early\\)",
+		"\\s?\\(Encrypted CIA\\)",
+		"\\s?\\(FamicomBox\\)",
+		"\\s?\\(Hibaihin\\)",
+		"\\s?\\(Jimakuban\\)",
+		"\\s?\\(Fukikaeban\\)",
+		"\\s?\\(Launch Cart\\)",
+		"\\s?\\(Light Phaser\\)",
+		"\\s?\\(No Cart Present\\)",
+		"\\s?\\(Limited Run Games\\)",
+		"\\s?\\(Not for Resale\\)",
+		"\\s?\\(Not For Resale\\)",
+		"\\s?\\(PAL\\)",
+		"\\s?\\(Reprint\\)",
+		"\\s?\\((?:\\w*,?\\s)*Region Lock\\)",
+		"\\s?\\(Scholastic\\)",
+		"\\s?\\(Sega Channel\\)",
+		"\\s?\\(SegaNet\\)",
+		"\\s?\\(Shokai Seisanban\\)",
+		"\\s?\\(Software Doukonban\\)",
+		"\\s?\\(Software Tantaiban\\)",
+		"\\s?\\(Unl\\)"
+	],
+
+	"modern_editions": [
+		"\\s?\\((?:\\w*?,?\\s)*Switch Version(?:,?\\s\\w*?)*\\)",
+		"\\s?\\((?:\\w*?,?\\s)*Switch Online(?:,?\\s\\w*?)*\\)",
+		"\\s?\\((?:\\w*?,?\\s)*Wii U Virtual Console(?:,?\\s\\w*?)*\\)",
+		"\\s?\\((?:\\w*?,?\\s)*Wii Virtual Console(?:,?\\s\\w*?)*\\)",
+		"\\s?\\((?:\\w*?,?\\s)*3DS Virtual Console(?:,?\\s\\w*?)*\\)",
+		"\\s?\\(NES\\)\\s?\\(Virtual Console\\)",
+		"\\s?\\(SNES\\)\\s?\\(Virtual Console\\)",
+		"\\s?\\(GBA\\)\\s?\\(Virtual Console\\)",
+		"\\s?\\(Virtual Console\\)",
+		"\\s?\\(Wii\\)",
+		"\\s?\\(GameCube.*?\\)",
+		"\\s?\\(Aleste Collection\\)",
+		"\\s?\\(Atari Anthology\\)",
+		"\\s?\\(Bomberman Collection\\)",
+		"\\s?\\(Castlevania Advance Collection\\)",
+		"\\s?\\(Castlevania Anniversary Collection\\)",
+		"\\s?\\(Collection of Mana\\)",
+		"\\s?\\(Collection of SaGa\\)",
+		"\\s?\\(Contra Anniversary Collection\\)",
+		"\\s?\\(Darius Cozmic Collection\\)",
+		"\\s?\\(Disney Classic Games\\)",
+		"\\s?\\(Game & Watch - .*?\\)",
+		"\\s?\\(Genesis Mini\\)",
+		"\\s?\\(Konami Collector's Series\\)",
+		"\\s?\\(Limited Run Games\\)",
+		"\\s?\\(Mega Drive Mini\\)",
+		"\\s?\\(Mega Man Legacy Collection\\)",
+		"\\s?\\(Mega Man X Legacy Collection\\)",
+		"\\s?\\(Mega Man iam8bit 30th Anniversary\\)",
+		"\\s?\\(Namcot Collection.*?\\)",
+		"\\s?\\(Namco Museum Archives Vol [0-9]\\)",
+		"\\s?\\(PC Rerelease\\)",
+		"\\s?\\(Sega Ages\\)",
+		"\\s?\\(SEGA Classic Collection\\)",
+		"\\s?\\(Sega Smash Pack(?: [0-9])?\\)",
+		"\\s?\\(Seiken Densetsu Collection\\)",
+		"\\s?\\(SNK 40th Anniversary Collection\\)",
+		"\\s?\\(Sonic Classic Collection\\)",
+		"\\s?\\(Steam\\)",
+		"\\s?\\(Steam Version\\)",
+		"\\s?\\(The Disney Afternoon Collection\\)",
+		"\\s?\\(e-Reader Edition\\)"
+	],
+
+	"languages": {
+		"English": "En(?:-[A-Z][A-Z])?",
+		"Afrikaans": "Af",
+		"Albanian": "Sq",
+		"Arabic": "Ar",
+		"Bulgarian": "Bg",
+		"Catalan": "Ca",
+		"Chinese": "Zh(?:-Han.)?",
+		"Croatian": "Hr",
+		"Czech": "Cs",
+		"Danish": "Da",
+		"Dutch": "Nl",
+		"Estonian": "Et",
+		"Finnish": "Fi",
+		"French": "Fr",
+		"Gaelic": "Gd",
+		"German": "De",
+		"Greek": "El",
+		"Hebrew": "He",
+		"Hindi": "Hi",
+		"Hungarian": "Hu",
+		"Icelandic": "Is",
+		"Indonesian": "Id",
+		"Italian": "It",
+		"Japanese": "Ja",
+		"Korean": "Ko",
+		"Latvian": "Lv",
+		"Lithuanian": "Lt",
+		"Macedonian": "Mk",
+		"Norwegian": "No",
+		"Polish": "Pl",
+		"Portuguese": "Pt(?:-[A-Z][A-Z])?",
+		"Punjabi": "Pa",
+		"Romanian": "Ro",
+		"Russian": "Ru",
+		"Serbian": "Sr",
+		"Slovak": "Sk",
+		"Slovenian": "Sl",
+		"Spanish": "Es(?:-[A-Z][A-Z])?",
+		"Swedish": "Sv",
+		"Tamil": "Ta",
+		"Thai": "Th",
+		"Turkish": "Tr",
+		"Ukranian": "Uk"
+	},
+
+	"default_region_order": {
+		"USA": {
+			"implied_language": "En",
+			"filter_languages": ["English"]
+		},
+		"World": {
+			"implied_language": "En",
+			"filter_languages": ["English"]
+		},
+		"Canada": {
+			"implied_language": "En",
+			"filter_languages": ["English"]
+		},
+		"UK": {
+			"implied_language": "En",
+			"filter_languages": ["English"]
+		},
+		"Australia": {
+			"implied_language": "En",
+			"filter_languages": ["English"]
+		},
+		"New Zealand": {
+			"implied_language": "En",
+			"filter_languages": ["English"]
+		},
+		"Singapore": {
+			"implied_language": "En",
+			"filter_languages": ["English"]
+		},
+		"Ireland": {
+			"implied_language": "En",
+			"filter_languages": ["English"]
+		},
+		"Europe": {
+			"implied_language": "En",
+			"filter_languages": ["English"]
+		},
+		"Japan": {
+			"implied_language": "Ja",
+			"filter_languages": ["Japanese"]
+		},
+		"Asia": {
+			"implied_language": "En",
+			"filter_languages": ["English", "Chinese", "Japanese"]
+		},
+		"Thailand": {
+			"implied_language": "En",
+			"filter_languages": ["English", "Thai"]
+		},
+		"Spain": {
+			"implied_language": "Es",
+			"filter_languages": ["Spanish"]
+		},
+		"Mexico": {
+			"implied_language": "Es",
+			"filter_languages": ["Spanish"]
+		},
+		"Argentina": {
+			"implied_language": "Es",
+			"filter_languages": ["Spanish"]
+		},
+		"Latin America": {
+			"implied_language": "Es",
+			"filter_languages": ["Spanish", "Portuguese"]
+		},
+		"Brazil": {
+			"implied_language": "Pt",
+			"filter_languages": ["Portuguese"]
+		},
+		"Portugal": {
+			"implied_language": "Pt",
+			"filter_languages": ["Portuguese"]
+		},
+		"France": {
+			"implied_language": "Fr",
+			"filter_languages": ["French"]
+		},
+		"Belgium": {
+			"implied_language": "Fr",
+			"filter_languages": ["French"]
+		},
+		"Netherlands": {
+			"implied_language": "Nl",
+			"filter_languages": ["Dutch"]
+		},
+		"Germany": {
+			"implied_language": "De",
+			"filter_languages": ["German"]
+		},
+		"Austria": {
+			"implied_language": "De",
+			"filter_languages": ["German"]
+		},
+		"Italy": {
+			"implied_language": "It",
+			"filter_languages": ["Italian"]
+		},
+		"Switzerland": {
+			"implied_language": "German",
+			"filter_languages": ["German", "French", "Italian"]
+		},
+		"Hong Kong": {
+			"implied_language": "Zh",
+			"filter_languages": ["Chinese"]
+		},
+		"China": {
+			"implied_language": "Zh",
+			"filter_languages": ["Chinese"]
+		},
+		"Taiwan": {
+			"implied_language": "Zh",
+			"filter_languages": ["Chinese"]
+		},
+		"Korea": {
+			"implied_language": "Ko",
+			"filter_languages": ["Korean"]
+		},
+		"Russia": {
+			"implied_language": "Ru",
+			"filter_languages": ["Russian"]
+		},
+		"Ukraine": {
+			"implied_language": "Ru",
+			"filter_languages": ["Ukrainian", "Russian"]
+		},
+		"Estonia": {
+			"implied_language": "Et",
+			"filter_languages": ["Estonian"]
+		},
+		"Poland": {
+			"implied_language": "Pl",
+			"filter_languages": ["Polish"]
+		},
+		"Latvia": {
+			"implied_language": "Lv",
+			"filter_languages": ["Latvian"]
+		},
+		"Lithuania": {
+			"implied_language": "Lt",
+			"filter_languages": ["Lithuanian"]
+		},
+		"Denmark": {
+			"implied_language": "Da",
+			"filter_languages": ["Danish"]
+		},
+		"Norway": {
+			"implied_language": "No",
+			"filter_languages": ["Norwegian"]
+		},
+		"Sweden": {
+			"implied_language": "Sv",
+			"filter_languages": ["Swedish"]
+		},
+		"Scandinavia": {
+			"implied_language": "En",
+			"filter_languages": ["English", "Danish", "Norwegian", "Swedish"]
+		},
+		"Finland": {
+			"implied_language": "Fi",
+			"filter_languages": ["Finnish"]
+		},
+		"Iceland": {
+			"implied_language": "Is",
+			"filter_languages": ["Icelandic"]
+		},
+		"Hungary": {
+			"implied_language": "Hu",
+			"filter_languages": ["Hungarian"]
+		},
+		"Czech": {
+			"implied_language": "Cs",
+			"filter_languages": ["Czech"]
+		},
+		"Greece": {
+			"implied_language": "El",
+			"filter_languages": ["Greek"]
+		},
+		"Macedonia": {
+			"implied_language": "Mk",
+			"filter_languages": ["Macedonian"]
+		},
+		"India": {
+			"implied_language": "Hi",
+			"filter_languages": ["Hindi", "Tamil"]
+		},
+		"South Africa": {
+			"implied_language": "",
+			"filter_languages": ["Afrikaans", "English"]
+		},
+		"Israel": {
+			"implied_language": "He",
+			"filter_languages": ["Hebrew"]
+		},
+		"Slovakia": {
+			"implied_language": "Sk",
+			"filter_languages": ["Slovakian"]
+		},
+		"Turkey": {
+			"implied_language": "Tr",
+			"filter_languages": ["Turkish"]
+		},
+		"Croatia": {
+			"implied_language": "Hr",
+			"filter_languages": ["Croatian"]
+		},
+		"Slovenia": {
+			"implied_language": "Sl",
+			"filter_languages": ["Slovenian"]
+		},
+		"United Arab Emirates": {
+			"implied_language": "Ar",
+			"filter_languages": ["Arabic"]
+		},
+		"Bulgaria": {
+			"implied_language": "Bg",
+			"filter_languages": ["Bulgarian"]
+		},
+		"Romania": {
+			"implied_language": "Ro",
+			"filter_languages": ["Romanian"]
+		},
+		"Albania": {
+			"implied_language": "Sq",
+			"filter_languages": ["Albanian"]
+		},
+		"Serbia": {
+			"implied_language": "Sr",
+			"filter_languages": ["Serbian"]
+		},
+		"Indonesia": {
+			"implied_language": "Id",
+			"filter_languages": ["Indonesian"]
+		},
+		"Unknown": {
+			"implied_language": "En",
+			"filter_languages": []
+		}
+	},
+
+	"dat_multisource": [
+		"Apple - Macintosh"
+	],
+
+	"download_url": "https://raw.githubusercontent.com/unexpectedpanda/retool/main",
+
+	"user_config": "user-config.yaml",
+
+	"clonelists": {
+		"local_dir": "data/clonelists"
+	},
+
+	"metadata": {
+		"local_dir": "data/metadata"
+	}
+}
