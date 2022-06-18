@@ -7,7 +7,7 @@
 			"These are defaults that Retool requires, don't modify this file.",
 			"Check user-config.yaml for user-editable settings."
 		],
-		"last updated": "16 June 2022"
+		"last updated": "18 June 2022"
 	},
 
 	"ignore_tags": [
@@ -564,7 +564,7 @@
 		"Apple - Macintosh"
 	],
 
-	"clone_list_url": "https://raw.githubusercontent.com/unexpectedpanda/retool-clonelists-metadata/main/",
+	"clone_list_url": "https://raw.githubusercontent.com/unexpectedpanda/retool-clonelists-metadata/main",
 	"program_url": "https://raw.githubusercontent.com/unexpectedpanda/retool/main",
 
 	"user_config": "user-config.yaml",
