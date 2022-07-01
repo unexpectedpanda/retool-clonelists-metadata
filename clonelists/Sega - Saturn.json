@@ -3,7 +3,7 @@
 		"name": [
 			"Sega - Saturn"
 		],
-		"last updated": "10 June 2022",
+		"last updated": "22 April 2022",
 		"minimum version": "0.89"
 	},
 
@@ -92,6 +92,10 @@
 			["Daytona USA C.C.E. Net Link Edition", 0],
 			["Daytona USA - Championship Circuit Edition", 0],
 			["Daytona USA - Circuit Edition", 0]
+		],
+		"Daytona USA C.C.E. Net Link Edition": [
+			["Daytona USA - Championship Circuit Edition", 2],
+			["Daytona USA - Circuit Edition", 2]
 		],
 		"DecAthlete": [
 			["Athlete Kings", 1],
@@ -362,8 +366,10 @@
 			["Sanguozhi Yingjiezhuan", 1]
 		],
 		"Sega Rally Championship": [
-			["Sega Rally Championship Plus Netlink Edition", 0],
-			["Sega Rally Championship Plus", 0]
+			["Sega Rally Championship Plus Netlink Edition", 0]
+		],
+		"Sega Rally Championship Plus Netlink Edition": [
+			["Sega Rally Championship Plus", 1]
 		],
 		"Sega Worldwide Soccer '97": [
 			["Sega Worldwide Soccer 97", 1],

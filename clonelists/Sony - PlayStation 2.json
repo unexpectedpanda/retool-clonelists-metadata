@@ -3,8 +3,8 @@
 		"name": [
 			"Sony - PlayStation 2"
 		],
-		"last updated": "11 June 2022",
-		"minimum version": "2.00"
+		"last updated": "24 June 2022",
+		"minimum version": "0.92"
 	},
 
 	"categories": {
@@ -33,54 +33,6 @@
 			"categories": ["Educational"]
 		}
 	},
-
-	"mias": [
-		"Armored Core - Last Raven (Japan) (Champion Tokubetsu-ban)",
-		"Athens 2004 (Korea)",
-		"Castlevania (Japan) (En,Ja) (Genteiban)",
-		"Code Geass - Hangyaku no Lelouch - Lost Colors (Japan) (v2.00)",
-		"ef - A Fairy Tale of the Two. (Japan)",
-		"FIFA Street 2 (Korea)",
-		"Fire Pro Wrestling Z (Japan) (Toujien Doukon Box Saishuu-ban)",
-		"Fushigi no Umi no Nadia - Dennou Battle - Miss Nautilus Contest (Japan)",
-		"Fushigi no Umi no Nadia - Inherit the Blue Water (Japan) (Collector's Edition)",
-		"Gensou Suikoden III (Japan) (Gensou Suikoden-sai Hakkou Kinen)",
-		"Gran Turismo 3 - A-Spec - Autobacs Tentou Shiyuu Disc (Japan)",
-		"Grandia Xtreme (Japan) (Limited Box)",
-		"Hanjuku Hero 4 - 7-nin no Hanjuku Hero (Japan) (Ginga Hanjuku Bentou)",
-		"High Heat Major League Baseball 2003 (Korea)",
-		"Idol Janshi Suchie-Pai IV (Japan) (Collector's Edition)",
-		"Initial D - Special Stage (Japan) (Koudansha Kenshouhin)",
-		"Initial D - Takahashi Ryousuke no Typing Saisoku Riron (Japan)",
-		"Karat PS2-you Pro Action Replay 2 (Japan) (Unl) (Version 2.23)",
-		"Metal Gear Solid 3 - Snake Eater (Japan) (Kabunushi Goyuutai-ban)",
-		"Metal Gear Solid 3 - Snake Eater (Japan) (Premium Package)",
-		"MLB 06 - The Show (Korea)",
-		"MLB 07 - The Show (Korea)",
-		"NBA Live 07 (Korea)",
-		"Netchuu! Pro Yakyuu 2002 (Japan) (v2.01)",
-		"Ougon Kishi Garo (Japan) (Genteiban)",
-		"Pachi Para 12 - Ooumi to Natsu no Omoide (Japan) (v2.01)",
-		"Phase of Combat - Sentou Kokka Kai Legend (Japan) (Tokusou-ban)",
-		"Plarail - Yume ga Ippai! Plarail de Ikou! (Japan)",
-		"Ponkotsu Roman Daikatsugeki - Bumpy Trot (Japan) (v2.00)",
-		"Pro Yakyuu Spirits 5 (Japan) (v2.00)",
-		"Pop'n Music 10 (Japan) (Controller Set)",
-		"Sega Ages 2500 Series Vol. 22 - Advanced Daisenryaku - Deutsch Dengeki Sakusen (Japan) (v3.00)",
-		"Shibai Michi (Japan)",
-		"Shutokou Battle 01 (Japan) (Taikenban)",
-		"SingStar '80s (Sweden) (v1.00)",
-		"SingStar Store Dromme (Denmark)",
-		"SingStar Summer Party (Denmark)",
-		"Soulcalibur III (Japan) (Taikenban Special Disk)",
-		"Super Puzzle Bobble (Korea)",
-		"Taito Memories - Joukan (Japan) (Eternal Hits)",
-		"Tiger Woods PGA Tour 2004 (Korea)",
-		"Time Crisis 3 (Japan) (With GunCon2)",
-		"Uchuu Senkan Yamato - Ankoku Seidan Teikoku no Gyakushuu (Japan)",
-		"Wizardry Empire III - Haou no Keifu (Japan) (Good Price - Suuryou Genteiban)",
-		"Zeonic Front - Kidou Senshi Gundam 0079 (Japan) (Tokubetsu-ban)"
-	],
 
 	"overrides": {
 		"Dragon Blaze (Europe)": {
@@ -133,7 +85,8 @@
 			["Tsukiyo ni Saraba", 1]
 		],
 		"1945 I & II": [
-			["Psikyo Shooting Collection Vol. 1 - Strikers 1945 I & II", 1]
+			["Psikyo Shooting Collection Vol. 1 - Strikers 1945 I & II", 1],
+			["Strikers 1945 I & II", 1]
 		],
 		"3-nen B-gumi Kinpachi Sensei - Densetsu no Kyoudan ni Tate!": [
 			["3-nen B-gumi Kinpachi Sensei - Densetsu no Kyoudan ni Tate! Kanzenban", 0]
@@ -188,8 +141,8 @@
 		"Ai yori Aoshi": [
 			["SuperLite 2000 Vol. 32 - Ai yori Aoshi", 1]
 		],
-		"Air Ranger 2 - Rescue Helicopter Plus": [
-			["Air Ranger 2 - Rescue Helicopter", 2]
+		"Air Ranger 2 - Rescue Helicopter":[
+			["Air Ranger 2 Plus - Rescue Helicopter", 0]
 		],
 		"AirForce Delta Strike": [
 			["AirForce Delta - Blue Wing Knights", 1],
@@ -302,6 +255,10 @@
 		"ATV Offroad Fury": [
 			["ATV Offroad - All Terrain Vehicle", 1]
 		],
+		"ATV Offroad Fury 4": [
+			["ATV Offroad Fury 4 (Layer 0)", 2],
+			["ATV Offroad Fury 4 (Layer 1)", 2]
+		],
 		"Bakufuu Slash! Kizuna Arashi (EyeToy Camera Doukonban)": [
 			["Bakufuu Slash! Kizuna Arashi", 2]
 		],
@@ -379,6 +336,9 @@
 		],
 		"Bully": [
 			["Canis Canem Edit", 1]
+		],
+		"Burnout 2 - Point of Impact": [
+			["Burnout 2 - Point of Impact (SLES-52968)", 1]
 		],
 		"Bust-A-Bloc": [
 			["Simple 2000 Series Vol. 5 - The Block Kuzushi Hyper", 1]
@@ -487,7 +447,6 @@
 			["Shinsengumi Gunrouden", 1]
 		],
 		"Colosseum - Road to Freedom": [
-			["Gladiator - Road to Freedom - Remix", 0],
 			["Gladiator - Road to Freedom", 1]
 		],
 		"Come on Baby": [
@@ -616,6 +575,9 @@
 		"DekaVoice (Doukonban)": [
 			["DekaVoice", 2]
 		],
+		"Demo Disc Version 2.2 (Demo)": [
+			["Demo Disc Version 2.1 (Demo)", 2]
+		],
 		"Demolition Girl": [
 			["Simple 2000 Series Vol. 50 - The Daibijin", 1]
 		],
@@ -639,9 +601,11 @@
 			["Devil May Cry 2 (Disc 2) (Lucia)", 1]
 		],
 		"Devil May Cry 3 - Dante's Awakening": [
-			["Devil May Cry 3 - Dante's Awakening (Special Edition)", 0],
 			["Devil May Cry 3 - Special Edition", 0],
 			["Devil May Cry 3", 1]
+		],
+		"Devil May Cry 3 - Dante's Awakening (Special Edition)": [
+			["Devil May Cry 3 - Special Edition", 1]
 		],
 		"Di Gi Charat Fantasy Excellent (Premium-ban)": [
 			["Di Gi Charat Fantasy Excellent (Standard-ban)", 2]
@@ -665,6 +629,7 @@
 			["Simple 2000 Series Vol. 11 - The Off-Road Buggy", 2]
 		],
 		"Disaster Report": [
+			["Jeolche Jeolmyeong Dosi", 1],
 			["SOS - The Final Escape", 1],
 			["Zettai Zetsumei Toshi", 1]
 		],
@@ -840,6 +805,14 @@
 		],
 		"Duel Masters": [
 			["Duel Masters - Birth of Super Dragon", 1]
+		],
+		"DVD Player Version 2.14": [
+			["DVD Player Version 3.04", 1],
+			["DVD Player Version 3.00", 2],
+			["DVD Player Version 2.16", 3],
+			["DVD Player Version 2.12", 4],
+			["DVD Player Version 2.10", 5],
+			["DVD Player Version 2.01", 6]
 		],
 		"Dynasty Tactics": [
 			["Samgukji Jeongi", 1],
@@ -1212,7 +1185,8 @@
 		],
 		"GameShark 2 - Video Game Enhancer": [
 			["GameShark 2 V2 - Video Game Enhancer", 0],
-			["GameShark 2 - Video Game Enhancer - V 1.0", 2]
+			["GameShark 2 - Video Game Enhancer - Version 2", 2],
+			["GameShark 2 - Video Game Enhancer - V 1.0", 3]
 		],
 		"Garfield - Saving Arlene": [
 			["Garfield - Arleene o Sukue!", 1]
@@ -1232,6 +1206,9 @@
 		"Ghost in the Shell - Stand Alone Complex": [
 			["Gonggak Gidongdae - Stand Alone Complex", 1]
 		],
+		"Ghost Master - The Gravenville Chronicles": [
+			["Gravenville - Ghost Master Chronicles", 1]
+		],
 		"Gift": [
 			["Giftie", 1]
 		],
@@ -1240,6 +1217,9 @@
 		],
 		"Gitaroo Man": [
 			["Gitaroo Man One", 1]
+		],
+		"Gladiator - Road to Freedom": [
+			["Gladiator - Road to Freedom - Remix", 0]
 		],
 		"Gladiator - Sword of Vengeance": [
 			["Gladiator - Schwert der Rache", 1]
@@ -1293,12 +1273,19 @@
 		"Graffiti Kingdom": [
 			["Rakugaki Oukoku 2 - Maou-jou no Tatakai", 1]
 		],
+		"Grandia Xtreme": [
+			["Grandia Xtreme (Limited Box)", 2]
+		],
 		"Gran Turismo 4 (Doukonban)": [
 			["Gran Turismo 4", 2]
 		],
 		"Gran Turismo 4 - Prologue (Doukonban)": [
 			["Gran Turismo 4 - Prologue (PlayStation 2 Racing Pack)", 1],
 			["Gran Turismo 4 - Prologue", 2]
+		],
+		"Gran Turismo Concept - 2002 Tokyo-Geneva": [
+			["Gran Turismo Concept - 2002 Tokyo-Geneva (SCPS-55903)", 1],
+			["Gran Turismo Concept - 2002 Tokyo-Geneva (SCPS-55902)", 2]
 		],
 		"Great British Football Quiz, The": [
 			["Grande quiz sul calcio italiano, Il", 1],
@@ -1358,6 +1345,7 @@
 			["Hanabi Hyakkei", 2]
 		],
 		"Hanjuku Hero tai 3D": [
+			["Hanjuku Hero tai 3D (Tokudaigou)", 0],
 			["Bansuk Yeongung vs. 3D", 1]
 		],
 		"Hannspree Ten Kate Honda SBK - Superbike World Championship": [
@@ -1407,7 +1395,7 @@
 		"Harukanaru Toki no Naka de 2 (Premium Box)": [
 			["Harukanaru Toki no Naka de 2", 2]
 		],
-		"Harukanaru Toki no Naka de 3 - Izayoiki (Premium Box)": [
+		"Harukanaru Toki no Naka de 3 - Izayoiki (Japan) (Premium Box)": [
 			["Harukanaru Toki no Naka de 3 (Triple Pack)", 2],
 			["Harukanaru Toki no Naka de 3 (History Box)", 3],
 			["Harukanaru Toki no Naka de 3", 4]
@@ -1479,6 +1467,9 @@
 		"Ice Age - Dawn of the Dinosaurs": [
 			["Era Glaciale 3, L' - L'Alba dei Dinosauri", 1],
 			["Ice Age 3 - Dawn of the Dinosaurs", 1]
+		],
+		"Ichigeki Satchuu!! Hoihoi-san": [
+			["Ilgyeok Salchung!! Hoihoi-san", 1]
 		],
 		"Idol Janshi Suchie-Pai IV (Collector's Edition)": [
 			["Idol Janshi Suchie-Pai IV", 2]
@@ -1609,15 +1600,24 @@
 		"Kidou Senshi Z Gundam - A.E.U.G. vs. Titans (Doukonban)": [
 			["Kidou Senshi Z Gundam - A.E.U.G. vs. Titans", 2]
 		],
+		"KimiKiss (ebKore+)": [
+			["KimiKiss", 2]
+		],
 		"Kin'iro no Corda 2 (Premium Box)": [
 			["Kin'iro no Corda 2", 2]
 		],
 		"Kindan no Pet - Seaman - Gasse Hakase no Jikken-tou (Sea-Mic Controller Original Doukonban)": [
 			["Kindan no Pet - Seaman - Gasse Hakase no Jikken-tou (Sea-Mic Controller Doukonban)", 2]
 		],
+		"King of Fighters '98, The - Ultimate Match": [
+			["NeoGeo Online Collection Vol. 10 - The King of Fighters '98 - Ultimate Match", 1]
+		],
 		"King of Fighters 2002, The - Challenge to Ultimate Battle": [
 			["King of Fighters 2002, The (SNK Best Collection)", 1],
 			["King of Fighters 2002, The", 2]
+		],
+		"King of Fighters 2002, The - Unlimited Match": [
+			["King of Fighters 2002, The - Unlimited Match - Tougeki Ver.", 0]
 		],
 		"King of Fighters 2006, The": [
 			["King of Fighters, The - Maximum Impact 2", 1],
@@ -1637,6 +1637,10 @@
 		],
 		"KOF - Maximum Impact": [
 			["King of Fighters, The - Maximum Impact", 1]
+		],
+		"Konjiki no Gashbell!! Go! Go! Mamono Fight!! (Multi Tap (SCPH-70120) Doukonban)": [
+			["Konjiki no Gashbell!! Go! Go! Mamono Fight!! (Multi Tap (SCPH-10090) Doukonban)", 2],
+			["Konjiki no Gashbell!! Go! Go! Mamono Fight!!", 3]
 		],
 		"Konohana 2 - Todokanai Requiem": [
 			["SuperLite 2000 Vol. 6 - Konohana 2 - Todokanai Requiem", 2]
@@ -1682,7 +1686,8 @@
 			["Sidewinder F", 1]
 		],
 		"Lethal Skies II": [
-			["Sidewinder V", 1]
+			["Sidewinder V", 1],
+			["Sidewinder V (Flight Box)", 1]
 		],
 		"Life Line": [
 			["Operator's Side", 1]
@@ -1691,7 +1696,8 @@
 			["Lilie no Atelier Plus - Salburg no Renkinjutsushi 3", 0]
 		],
 		"Linux (for PlayStation 2) Release 1.0 (Disc 1) (Runtime Environment)": [
-			["Linux for PlayStation 2 - Release 1.0 (Disc 1) (Runtime Environment)", 1]
+			["Linux for PlayStation 2 - Release 1.0 (Disc 1) (Runtime Environment)", 1],
+			["PS2 Linux Beta Release 1", 2]
 		],
 		"Linux (for PlayStation 2) Release 1.0 (Disc 2) (Software Packages)": [
 			["Linux for PlayStation 2 - Release 1.0 (Disc 2) (Software Packages)", 1]
@@ -1895,7 +1901,8 @@
 		"Metal Gear Solid 3 - Snake Eater": [
 			["Metal Gear Solid 3 - Subsistence (Disc 1) (Subsistence)", 0],
 			["Metal Gear Solid 3 - Snake Eater (Kabunushi Goyuutai-ban)", 1],
-			["Metal Gear Solid 3 - Snake Eater (Premium Package)", 2]
+			["Metal Gear Solid 3 - Snake Eater (Premium Package)", 2],
+			["Metal Gear Solid 3 - Subsistence", 3]
 		],
 		"Metal Gear Solid 3 - Subsistence (Disc 3) (Existence) (Limited Edition)": [
 			["Metal Gear Solid 3 - Subsistence (Disc 3) (Existence)", 2]
@@ -1904,20 +1911,19 @@
 			["Metal Saga - Sajin no Kusari", 1]
 		],
 		"Metal Slug 3": [
-			["Metal Slug Anthology", 0],
-			["Metal Slug Complete", 0]
+			["Metal Slug Anthology", 0]
 		],
 		"Metal Slug 4": [
-			["Metal Slug Anthology", 0],
-			["Metal Slug Complete", 0]
+			["Metal Slug Anthology", 0]
 		],
 		"Metal Slug 5": [
-			["Metal Slug Anthology", 0],
-			["Metal Slug Complete", 0]
+			["Metal Slug Anthology", 0]
 		],
 		"Metal Slug 6": [
-			["Metal Slug Anthology", 0],
-			["Metal Slug Complete", 0]
+			["Metal Slug Anthology", 0]
+		],
+		"Metal Slug Anthology": [
+			["Metal Slug Complete", 1]
 		],
 		"Metropolismania": [
 			["Simple 2000 Series Vol. 39 - The Boku no Machi-zukuri - Machi-ing Maker++", 1]
@@ -2009,8 +2015,8 @@
 		"Namco Museum 50th Anniversary": [
 			["Namco Museum Arcade Hits!", 1]
 		],
-		"Namco Transmission (Demo)": [
-			["Namco Transmission (Bundled with Soulcalibur II) (Demo)", 1]
+		"Namco Transmission v1.03 (Demo)": [
+			["Namco Transmission v1.03 (Bundled with Soulcalibur II) (Demo)", 2]
 		],
 		"Naruto - Ultimate Ninja": [
 			["Naruto - Narutimate Hero", 1]
@@ -2058,9 +2064,17 @@
 		"Need for Speed - Underground 2 - SHA_DO": [
 			["Need for Speed - Underground 2", 2]
 		],
-		"Neo Angelique - Full Voice": [
-			["Neo Angelique (Premium Box)", 2],
-			["Neo Angelique", 3]
+		"Neo Angelique (Premium Box)": [
+			["Neo Angelique - Full Voice", 1],
+			["Neo Angelique", 2]
+		],
+		"NeoGeo Online Collection Vol. 3 - The King of Fighters - Orochi": [
+			["King of Fighters Collection, The - The Orochi Saga", 0]
+		],
+		"Network Adaptor Start-Up Disc Version 2.50": [
+			["Network Adaptor Start-Up Disc v2.0 (Rev)", 2],
+			["Network Adaptor Start-Up Disc v2.0", 3],
+			["Network Adaptor Start-Up Disc", 4]
 		],
 		"Never 7 - The End of Infinity": [
 			["SuperLite 2000 Vol. 23 - Never 7 - The End of Infinity", 2]
@@ -2157,6 +2171,10 @@
 		"Omoide ni Kawaru Kimi - Memories Off": [
 			["SuperLite 2000 Vol. 20 - Omoide ni Kawaru Kimi - Memories Off", 2]
 		],
+		"One Piece - Pirates Carnival (Multi Tap (SCPH-70120) Doukonban)": [
+			["One Piece - Pirates Carnival (Multi Tap (SCPH-10090) Doukonban)", 2],
+			["One Piece - Pirates Carnival", 3]
+		],
 		"Onimusha - Dawn of Dreams (Disc 1)": [
 			["Shin Onimusha - Dawn of Dreams (Disc 1)", 1]
 		],
@@ -2179,9 +2197,12 @@
 			["Onimusha Buraiden", 1],
 			["Gwimuja Muroejeon", 1]
 		],
-		"Online Start-Up Disc": [
-			["Online Start-Up Disc 4.0 - Broadband Only", 0],
-			["Online Start-Up Disc 4.0", 1]
+		"Online Start-Up Disc 4.0": [
+			["Online Start-Up Disc v3.0", 2],
+			["Online Start-Up Disc v1.0", 3]
+		],
+		"Online Start-Up Disc 4.0 - Broadband Only": [
+			["Online Start-Up Disc v3.5 - Broadband Only", 2]
 		],
 		"Onmyou Taisenki - Byakko Enbu (EyeToy Camera Doukonban)": [
 			["Onmyou Taisenki - Byakko Enbu", 2]
@@ -2267,11 +2288,17 @@
 		"PlayOnline Viewer and Tetra Master": [
 			["PlayOnline Viewer - Tetra Master & Janhourou", 1]
 		],
-		"PlayStation BB Navigator (Disc 1)": [
-			["PlayStation BB Navigator", 0]
+		"PlayStation BB Navigator - Version 0.32": [
+			["PlayStation BB Navigator - Version 0.31", 2],
+			["PlayStation BB Navigator - Version 0.30", 3],
+			["PlayStation BB Navigator - Version 0.20", 4],
+			["PlayStation BB Navigator - Version 0.10 (Disc 1)", 5],
+			["PlayStation BB Navigator - Version 0.10 (Disc 2) (SCPN-60111)", 5],
+			["PlayStation BB Navigator - Version 0.10 (Disc 2) (SCPN-60103)", 6]
 		],
-		"PlayStation BB Navigator (Disc 2)": [
-			["PlayStation BB Navigator", 0]
+		"PlayStation Experience (SCED-51938) (Demo)": [
+			["PlayStation Experience (SCED-51899) (Demo)", 2],
+			["PlayStation Experience (SCED-51148) (Demo)", 3]
 		],
 		"Police 24-7": [
 			["Keisatsukan, The - Shinjuku 24-ji", 1]
@@ -2303,6 +2330,9 @@
 		"Prince of Persia - The Sands of Time": [
 			["Prince of Persia - Jikan no Suna", 1]
 		],
+		"Prince of Persia - Warrior Within": [
+			["Prince of Persia - Kenshi no Kokoro", 1]
+		],
 		"Princess Maker 4": [
 			["Princess Maker 4 (Collector's Edition)", 0]
 		],
@@ -2329,10 +2359,6 @@
 		"Psi-Ops - The Mindgate Conspiracy": [
 			["Psi-Ops - Psychic Operation", 1]
 		],
-		"Psyvariar - Complete Edition (Special Capture Box)": [
-			["Psyvariar - Complete Edition (Special Sound Box)", 2],
-			["Psyvariar - Complete Edition", 3]
-		],
 		"Puyo Pop Fever": [
 			["Puyo Puyo Fever", 1]
 		],
@@ -2354,7 +2380,8 @@
 			["Petit Copter 2", 1]
 		],
 		"Raging Blades": [
-			["Raging Bless - Gouma Mokushiroku", 1]
+			["Raging Bless - Gouma Mokushiroku", 1],
+			["Raging Bless - Hangma Muksirok", 1]
 		],
 		"Ratchet & Clank - Going Commando": [
 			["Ratchet & Clank 2", 1],
@@ -2456,6 +2483,9 @@
 		],
 		"Rogue Galaxy - Director's Cut": [
 			["Rogue Galaxy", 2]
+		],
+		"Roland Garros French Open 2002": [
+			["US Open 2002 - A USTA Event", 1]
 		],
 		"Rollercoaster World": [
 			["Simple 2000 Series Vol. 33 - The Jet Coaster - Yuuenchi o Tsukurou!", 1]
@@ -2616,12 +2646,15 @@
 		"Shepherd's Crossing": [
 			["SuperLite 2000 Vol. 36 - Youkoso Hitsuji-mura", 1]
 		],
-		"Shibai Michi": [
-			["Shibai Michi (USB Mic Doukonban)", 0]
+		"Shibai Michi (USB Mic Doukonban)": [
+			["Shibai Michi", 2]
 		],
 		"Shox": [
 			["Rally Shox", 1],
 			["Shox - Rally Reinvented", 1]
+		],
+		"Shibai Michi": [
+			["Shibai Michi (Doukonban)", 0]
 		],
 		"Shin Megami Tensei - Devil Summoner - Raidou Kuzunoha vs. the Soulless Army": [
 			["Devil Summoner - Kuzunoha Raidou tai Chouriki Heidan", 1]
@@ -2664,12 +2697,18 @@
 		"Shonen Jump's One Piece - Grand Battle": [
 			["One Piece - Grand Battle! Rush", 1]
 		],
-		"Shonen Jump's One Piece - Pirates' Carnival": [
-			["One Piece - Pirates Carnival", 1]
+		"Shonen Jump's One Piece - Pirates' Carnival" :[
+			["One Piece - Pirates Carnival (Multi Tap (SCPH-70120) Doukonban)", 1]
+		],
+		"Sidewinder Max": [
+			["Iron Eagle Max", 1]
 		],
 		"Silent Hill 2": [
 			["Silent Hill 2 - Director's Cut", 0],
 			["Silent Hill 2 - Saigo no Uta", 0]
+		],
+		"Silent Hill 2 - Director's Cut": [
+			["Silent Hill 2 - Saigo no Uta", 1]
 		],
 		"Silent Line - Armored Core": [
 			["Armored Core 3 - Silent Line", 1]
@@ -2779,6 +2818,9 @@
 		"Soccer Mania": [
 			["Football Mania", 1]
 		],
+		"SOCOM - U.S. Navy SEALs": [
+			["SOCOM - U.S. Navy SEALs (SCKA-24008)", 2]
+		],
 		"Soul Nomad & the World Eaters": [
 			["Soul Cradle - Sekai o Kurau Mono", 1]
 		],
@@ -2881,6 +2923,16 @@
 		"Super Bust-A-Move 2": [
 			["Super Puzzle Bobble 2", 1]
 		],
+		"SuperLite 2000 Vol. 8 - Psyvariar - Medium Unit": [
+			["Psyvariar - Complete Edition", 0],
+			["Psyvariar - Complete Edition (Special Capture Box)", 0],
+			["Psyvariar - Complete Edition (Special Sound Box)", 0]
+		],
+		"SuperLite 2000 Vol. 10 - Psyvariar - Revision": [
+			["Psyvariar - Complete Edition", 0],
+			["Psyvariar - Complete Edition (Special Capture Box)", 0],
+			["Psyvariar - Complete Edition (Special Sound Box)", 0]
+		],
 		"Surfing H3O": [
 			["Surfroid - Densetsu no Surfer", 1]
 		],
@@ -2895,6 +2947,9 @@
 			["Marcel Desailly Pro Football", 1],
 			["Mundial 2002 Challenge", 1],
 			["WM Nationalspieler", 1]
+		],
+		"Swap Magic 3 Plus (DVD Version 3.6)": [
+			["Swap Magic 3 Plus (Disc Version 3.6)", 2]
 		],
 		"Swords of Destiny": [
 			["Cheonseong - Swords of Destiny", 1],
@@ -2951,11 +3006,20 @@
 			["Tenchu - La Colere Divine", 1],
 			["Tenchu - La Ira del Cielo", 1]
 		],
+		"Tennis no Oujisama - Smash Hit!": [
+			["Tennis no Oujisama - Smash Hit! (SLPM-65323)", 2],
+			["Tennis no Oujisama - Smash Hit! (SLPM-65322)", 3],
+			["Tennis no Oujisama - Smash Hit! (SLPM-65321)", 4]
+		],
 		"Tengai Makyou II - Manji Maru (Picture Label Shiyou)": [
 			["Tengai Makyou II - Manji Maru", 2]
 		],
 		"Tennis Court Smash": [
 			["Simple 2000 Series Vol. 8 - The Tennis", 1]
+		],
+		"Tennis no Oujisama - Smash Hit! Original Anime Game (SLPM-62359)": [
+			["Tennis no Oujisama - Smash Hit! Original Anime Game (SLPM-62358)", 2],
+			["Tennis no Oujisama - Smash Hit! Original Anime Game (SLPM-62357)", 3]
 		],
 		"Terminator 3 - Rise of the Machines": [
 			["Terminator 3 - La Rebelion de las Maquinas", 1],
@@ -2985,7 +3049,8 @@
 			["Thrillville - Le Parc en Folie", 1],
 			["Thrillville - Verrueckte Achterbahn", 1]
 		],
-		"Thunder Strike - Operation Phoenix": [
+		"Thunderstrike - Operation Phoenix": [
+			["Thunder Strike - Operation Phoenix", 1],
 			["Thunderhawk - Operation Phoenix", 1]
 		],
 		"Tiger Woods PGA Tour 2001": [
@@ -3027,7 +3092,7 @@
 			["Tokyo Xtreme Racer", 1]
 		],
 		"Tokyo Xtreme Racer - Drift": [
-			["Kaidou Battle - Nikkou, Haruna, Rokkou, Hakone", 1]
+			["Kaidou Battle - Nikko, Haruna, Rokko, Hakone", 1]
 		],
 		"Tokyo Xtreme Racer - Drift 2": [
 			["Kaido Racer 2", 1],
@@ -3277,7 +3342,8 @@
 			["This Is Soccer 2005", 1]
 		],
 		"WRC - Rally Evolved": [
-			["WRC avec Sebastien Loeb Edition 2005", 1]
+			["WRC avec Sebastien Loeb Edition 2005", 1],
+			["WRC 5 WT", 2]
 		],
 		"WTA Tour Tennis": [
 			["Pro Tennis WTA Tour", 1]
@@ -3316,6 +3382,9 @@
 		],
 		"XIII": [
 			["XIII - Daitouryou o Koroshita Otoko", 1]
+		],
+		"Xyanide - Resurrection": [
+			["Xyanide", 1]
 		],
 		"Yakuza": [
 			["Ryuu ga Gotoku", 1]
@@ -3363,8 +3432,12 @@
 		],
 		"Zone of the Enders - The 2nd Runner": [
 			["Zone of the Enders - The 2nd Runner - Special Edition", 0],
+			["Zone of the Enders - The 2nd Runner (Special Edition)", 0],
 			["Anubis - Zone of the Enders - Special Edition", 0],
 			["Anubis - Zone of the Enders", 1]
+		],
+		"Zone of the Enders - The 2nd Runner - Special Edition": [
+			["Anubis - Zone of the Enders - Special Edition", 1]
 		],
 		"Zoo Puzzle": [
 			["SuperLite 2000 Vol. 15 - Zooo", 1]

@@ -3,8 +3,8 @@
 		"name": [
 			"Microsoft - Xbox"
 		],
-		"last updated": "11 June 2022",
-		"minimum version": "2.00"
+		"last updated": "20 June 2022",
+		"minimum version": "0.89"
 	},
 
 	"categories": {
@@ -13,18 +13,6 @@
 			"categories": ["Coverdiscs"]
 		}
 	},
-
-	"mias": [
-		"Colin McRae Rally 04 (Asia)",
-		"Ninja Gaiden Black (Japan) (En,Ja)",
-		"Red Dead Revolver (Japan)",
-		"Shin Sangoku Musou 4 (Japan)",
-		"Sphinx and the Cursed Mummy (Korea)",
-		"Xbox Demo Disc Version 3.5 (USA) (ESRB RP-M)",
-		"Xbox Demo Disc Version 4.1 (USA) (ESRB RP-M)",
-		"Xbox Demo Disk Version 9.0 (Europe)",
-		"Xbox Live Starter Kit Disc (Europe) (Rev 1)"
-	],
 
 	"overrides": {
 		"Star Wars - The Clone Wars (Europe)": {
@@ -132,6 +120,9 @@
 		"Black Stone - Magic & Steel": [
 			["Ex-Chaser", 1]
 		],
+		"Braveknight - Leverant Eiyuuden": [
+			["Braveknight - Leverant Yeongungjeon", 1]
+		],
 		"Brian Lara International Cricket 2005": [
 			["Ricky Ponting International Cricket 2005", 1]
 		],
@@ -184,6 +175,9 @@
 		],
 		"Digimon World 4": [
 			["Digimon World X", 1]
+		],
+		"Disney-Pixar Finding Nemo": [
+			["Disney-Pixar Nemo-reul Chajaseo", 1]
 		],
 		"Disney-Pixar The Incredibles": [
 			["Disney-Pixar Die Unglaublichen", 1],

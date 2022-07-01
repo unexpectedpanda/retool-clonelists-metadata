@@ -3,7 +3,7 @@
 		"name": [
 			"Nintendo - Nintendo 64"
 		],
-		"last updated": "24 March 2022",
+		"last updated": "30 June 2022",
 		"minimum version": "0.92"
 	},
 
@@ -17,10 +17,6 @@
 			"categories": ["Applications"]
 		},
 		"GameShark Pro": {
-			"match": "short",
-			"categories": ["Applications"]
-		},
-		"iQue Club": {
 			"match": "short",
 			"categories": ["Applications"]
 		}
@@ -96,9 +92,6 @@
 		"Conker's Bad Fur Day": [
 			["Conker's Bad Fur Day (ECTS 2000)", 1]
 		],
-		"Custom Robo": [
-			["Zuhe Jiqiren", 1]
-		],
 		"Dark Rift": [
 			["Space Dynamites", 1]
 		],
@@ -108,20 +101,10 @@
 		"Donald Duck - Goin' Quackers": [
 			["Donald Duck - Quack Attack", 1]
 		],
-		"Doubutsu no Mori": [
-			["Dongwu Senlin", 1]
-		],
-		"Dr. Mario 64": [
-			["Mario Yisheng", 1]
-		],
 		"Duck Dodgers Starring Daffy Duck": [
 			["Daffy Duck Starring as Duck Dodgers", 1]
 		],
-		"Excitebike 64": [
-			["Yueye Motuo", 1]
-		],
 		"F-Zero X": [
-			["F-Zero X - Weilai Saiche", 1],
 			["F-Zero X (The Legend of Zelda Ocarina of Time Overdump)", 2]
 		],
 		"F1 Pole Position 64": [
@@ -188,8 +171,6 @@
 			["Zelda no Densetsu - Mujura no Kamen", 1]
 		],
 		"Legend of Zelda, The - Ocarina of Time": [
-			["Zelda Chuanshuo Shiguang Zhi Di", 1],
-			["Zelda Chuanshuo Shiguang Zhi Di (Chinese Traditional)", 1],
 			["Zelda no Densetsu - Toki no Ocarina", 1],
 			["Zelda no Densetsu - Toki no Ocarina GC", 2]
 		],
@@ -206,9 +187,6 @@
 		],
 		"Mario Golf": [
 			["Mario Golf 64", 1]
-		],
-		"Mario Kart 64": [
-			["Mario Kadingche", 1]
 		],
 		"Mario Tennis": [
 			["Mario Tennis 64", 1]
@@ -248,8 +226,7 @@
 			["Hyper Olympics in Nagano 64", 1]
 		],
 		"Paper Mario": [
-			["Mario Story", 1],
-			["Zhi Pian Mario", 1]
+			["Mario Story", 1]
 		],
 		"Penny Racers": [
 			["Choro Q 64", 1]
@@ -279,8 +256,7 @@
 		],
 		"Star Fox 64": [
 			["Lylat Wars", 1],
-			["Lylatwars", 1],
-			["Xingji Huohu", 1]
+			["Lylatwars", 1]
 		],
 		"Star Wars - Rogue Squadron": [
 			["Star Wars - Shutsugeki! Rogue Chuutai", 1]
@@ -288,12 +264,8 @@
 		"Star Wars - Shadows of the Empire": [
 			["Star Wars - Teikoku no Kage", 1]
 		],
-		"Super Mario 64": [
-			["Shen You Mario", 1]
-		],
 		"Super Smash Bros.": [
-			["Nintendo All-Star! Dairantou Smash Brothers", 1],
-			["Rentiantang Mingxing - Daluan Dou", 1]
+			["Nintendo All-Star! Dairantou Smash Brothers", 1]
 		],
 		"Superman - The New Superman Aventures": [
 			["Superman", 1]
@@ -317,9 +289,6 @@
 		"Transformers - Beast Wars Transmetals": [
 			["Transformers - Beast Wars Metals 64", 1]
 		],
-		"Tsumi to Batsu - Hoshi no Keishousha": [
-			["Zui Yu Fa Diqiu De Jicheng Zhe", 1]
-		],
 		"Turok - Dinosaur Hunter": [
 			["Jikuu Senshi Turok", 1]
 		],
@@ -333,15 +302,11 @@
 			["King Hill 64 - Extreme Snowboarding", 1],
 			["Twisted Edge - Snowboarding", 1]
 		],
-		"Wave Race 64 - Kawasaki Jet Ski": [
-			["Shuishang Motuo", 1]
-		],
 		"WinBack - Covert Operations": [
 			["Operation WinBack", 1],
 			["WinBack", 1]
 		],
 		"Yoshi's Story": [
-			["Yaoxi Gushi", 1],
 			["Yoshi Story", 1]
 		]
 	}

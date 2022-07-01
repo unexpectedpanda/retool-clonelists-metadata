@@ -3,7 +3,7 @@
 		"name": [
 			"Sega - Master System - Mark III"
 		],
-		"last updated": "15 January 2022",
+		"last updated": "30 June 2022",
 		"minimum version": "0.92"
 	},
 
@@ -47,6 +47,14 @@
 		"Great Golf (World) (Beta)": {
 			"new group": "Great Golf ~ Masters Golf",
 			"match": "full"
+		},
+		"Hang-On & Safari Hunt (USA)": {
+			"new group": "Safari Hunt",
+			"condition": {
+				"region": ["Japan"],
+				"higher than": ["USA"],
+				"else group": "Hang On"
+			}
 		},
 		"Hang On & Safari Hunt (USA) (Beta)": {
 			"new group": "Safari Hunt",
@@ -252,6 +260,9 @@
 		],
 		"Woody Pop - Shinjinrui no Block Kuzushi": [
 			["Super Arkanoid", 1]
+		],
+		"World Cup Italia '90": [
+			["Super Futebol II", 2]
 		],
 		"World Grand Prix": [
 			["Circuit, The", 1]

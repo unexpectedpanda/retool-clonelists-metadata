@@ -3,7 +3,7 @@
 		"name": [
 			"Nintendo - Game Boy Color"
 		],
-		"last updated": "15 May 2022",
+		"last updated": "30 June 2022",
 		"minimum version": "0.92"
 	},
 
@@ -16,7 +16,7 @@
 			"match": "short",
 			"categories": ["Applications"]
 		},
-		"GameShark MX (US)": {
+		"GameShark MX": {
 			"match": "short",
 			"categories": ["Applications"]
 		},
@@ -24,7 +24,7 @@
 			"match": "short",
 			"categories": ["Applications"]
 		},
-		"Orbital Diagnostic System": {
+		"Peugeot - Orbital Diagnostic System": {
 			"match": "short",
 			"categories": ["Applications"]
 		},
@@ -401,16 +401,20 @@
 			["Beach'n Ball", 1]
 		],
 		"Powerpuff Girls, The - Bad Mojo Jojo": [
+			["Powerpuff Girls, The - Bad Mojo Jojo (BJJP)", 1],
 			["Powerpuff Girls, The - L'Affreux Mojo Jojo", 1],
-			["Super Nenas, Las - El Malvado Mojo Jojo", 1]
+			["Super Nenas, Las - El Malvado Mojo Jojo", 1],
+			["Powerpuff Girls, The - Bad Mojo Jojo (BJJX)", 2]
 		],
 		"Powerpuff Girls, The - Battle Him": [
 			["Powerpuff Girls, The - Bulle Contre Lui", 1],
 			["Super Nenas, Las - Lucha Con Ese", 1]
 		],
 		"Powerpuff Girls, The - Paint the Townsville Green": [
+			["Powerpuff Girls, The - Paint the Townsville Green (BPTP)", 1],
 			["Powerpuff Girls, The - Panique a Townsville", 1],
-			["Super Nenas, Las - Panico en Townsville", 1]
+			["Super Nenas, Las - Panico en Townsville", 1],
+			["Powerpuff Girls, The - Paint the Townsville Green (BPTX)", 2]
 		],
 		"Quest - Brian's Journey": [
 			["Jack no Daibouken - Daimaou no Gyakushuu", 1]
@@ -520,6 +524,10 @@
 		],
 		"Wario Land II": [
 			["Wario Land 2", 1]
+		],
+		"Waternet": [
+			["Waternet (Batteryless Generic Save Flash Cartridge Version)", 2],
+			["Waternet (Batteryless Save Flash Cartridge Version)", 3]
 		],
 		"Wetrix": [
 			["Wetrix GB", 1]

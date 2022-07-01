@@ -1,10 +1,10 @@
 {
 	"description": {
 		"name": [
-			"Sony - PlayStation Portable"
+			"Sony - PlayStation Portable (Redump)"
 		],
-		"last updated": "11 June 2022",
-		"minimum version": "2.00"
+		"last updated": "24 June 2022",
+		"minimum version": "0.92"
 	},
 
 	"categories": {
@@ -33,29 +33,6 @@
 			"categories": ["Educational"]
 		}
 	},
-
-	"mias": [
-		"Bleach - Heat the Soul 7 (Korea)",
-		"Burnout Legends (Asia)",
-		"FIFA 11 (France) (v2.01)",
-		"Go!Explore (France) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)",
-		"Gun Showdown (USA) (Beta)",
-		"Killzone - Liberation (USA) (En,Fr,De,Es,It,Nl,Pt,Ru) (DEV)",
-		"Metal Gear Solid - Portable Ops (Korea)",
-		"MLB 09 - The Show (Asia) (Sample)",
-		"NBA 08 (Asia) (Sample)",
-		"Network Utility Disc Ver. 1.00 (Korea)",
-		"Ratchet & Clank - Size Matters (Asia)",
-		"Retail Sampler No. 3 for PSP (Europe)",
-		"Silhwang Powerful Pro Yagu 2011 (Korea)",
-		"SOCOM - U.S. Navy SEALs - Fireteam Bravo 2 (Korea)",
-		"Stealth feat. WipEout Pure Stealth Edition (Japan)",
-		"Tekken 6 (Asia) (En,Ja,Fr,De,Es,It,Ko,Ru)",
-		"Tekken 6 (Korea) (En,Ja,Fr,De,Es,It,Ko,Ru)",
-		"WipEout Pure (Japan) (En,Ja) (Beta)",
-		"World Soccer Winning Eleven 9 - Ubiquitous Evolution (Korea)",
-		"WRC - FIA World Rally Championship (Europe) (En,Fr,De,Es,It,Pt,No,Fi) (Beta)"
-	],
 
 	"removes": {
 		"2 Games in 1! Archer Maclean's Mercury & Mercury Meltdown": {
@@ -183,13 +160,13 @@
 		"Disgaea 2 - Dark Hero Days": [
 			["Makai Senki Disgaea 2 Portable", 1]
 		],
-		"Disney TRON - Evolution": [
-			["TRON - Evolution", 1]
-		],
 		"Disney-Pixar Ratatouille": [
 			["Disney-Pixar Ratatui", 1],
 			["Disney - Pixar Ratatouille", 1],
 			["Disney - Pixar Rottatouille", 1]
+		],
+		"Disney-Pixar Toy Story 3": [
+			["Disney-Pixar Istoriya igrushek - Bol'shoj pobeg", 1]
 		],
 		"Disney-Pixar Up": [
 			["Disney-Pixar Oben", 1],
@@ -520,6 +497,9 @@
 		"PES 2012 - Pro Evolution Soccer": [
 			["World Soccer Winning Eleven 2012", 1]
 		],
+		"PES 2014 - Pro Evolution Soccer": [
+			["World Soccer Winning Eleven 2014", 1]
+		],
 		"Petz - Dogz Family": [
 			["Petz - My Puppy Family", 1]
 		],
@@ -653,7 +633,7 @@
 		"Stealth feat. WipEout Pure Stealth Edition (Demo)": [
 			["Furtif + WipEout Pure (Demo)", 1]
 		],
-		"Storm Lover (Shokai Seisan-ban)": [
+		"Storm Lover (Shokai Seisan-ban)":[
 			["Storm Lover", 2]
 		],
 		"Street Fighter Alpha 3 Max": [

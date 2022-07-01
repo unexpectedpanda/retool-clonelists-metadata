@@ -3,7 +3,7 @@
 		"name": [
 			"Nintendo - Game Boy Advance"
 		],
-		"last updated": "15 May 2022",
+		"last updated": "30 June 2022",
 		"minimum version": "0.92"
 	},
 
@@ -21,10 +21,6 @@
 			"categories": ["Applications"]
 		},
 		"Advanced Music Player": {
-			"match": "short",
-			"categories": ["Applications"]
-		},
-		"AGS Aging Cartridge": {
 			"match": "short",
 			"categories": ["Applications"]
 		},
@@ -102,31 +98,18 @@
 	},
 
 	"removes": {
-		"2 Games in 1 - Alla Ricerca di Nemo + Gli Incredibili - Una 'Normale' Famiglia di Supereroi (Italy) (Es,It+It)": {},
-		"2 Games in 1 - Buscando a Nemo + Los Increibles (Spain) (Es,It+Es)": {},
-		"2 Games in 1 - Die Monster AG + Findet Nemo (Germany)": {},
+		"2 Games in 1 - Cartoon Network Block Party + Cartoon Network Speedway (USA)": {},
+		"2 Games in 1 - Disney Princess + Brother Bear (Europe) (En+En,Fr,De,Es,It,Nl,Sv,Da)": {},
 		"2 Games in 1 - Disney Princess + Lizzie McGuire (Europe)": {},
-		"2 Games in 1 - Disney Princesas + Lizzie McGuire (Spain)": {},
-		"2 Games in 1 - Disney Princesas + El Rey Leon (Spain) (Es+En,Fr,De,Es,It,Nl,Sv,Da)": {},
-		"2 Games in 1 - Disney Princesse + Le Roi Lion (France) (Fr+En,Fr,De,Es,It,Nl,Sv,Da)": {},
-		"2 Games in 1 - Disney Principesse + Il Re Leone (Italy) (It+En,Fr,De,Es,It,Nl,Sv,Da)": {},
-		"2 Games in 1 - Disneys Prinzessinnen + Der Koenig der Loewen (Germany) (De+En,Fr,De,Es,It,Nl,Sv,Da)": {},
 		"2 Games in 1 - Finding Nemo + Finding Nemo - The Continuing Adventures (Europe) (Es,It+En,Es,It,Sv,Da)": {},
 		"2 Games in 1 - Finding Nemo + Finding Nemo - The Continuing Adventures (Europe) (En+En,Es,It,Sv,Da)": {},
 		"2 Games in 1 - Finding Nemo + Finding Nemo - The Continuing Adventures (Europe) (Fr,Nl+Fr,De,Nl)": {},
-		"2 Games in 1 - Findet Nemo + Findet Nemo - Das Abenteuer Geht Weiter (Germany) (De+Fr,De,Nl)": {},
-		"2 Games in 1 - Finding Nemo - The Continuing Adventures + The Incredibles (USA)": {},
 		"2 Games in 1 - Finding Nemo + The Incredibles (Europe)": {},
 		"2 Games in 1 - Finding Nemo + The Incredibles (Europe) (Fr,Nl)": {},
-		"2 Games in 1 - Findet Nemo + Die Unglaublichen (Germany)": {},
 		"2 Games in 1 - Hot Wheels - Velocity X + Hot Wheels - World Race (USA)": {},
 		"2 Games in 1 - Hot Wheels - Velocity X + Hot Wheels - World Race (Europe)": {},
-		"2 Games in 1 - Monsters & Co. + Alla Ricerca di Nemo (Italy) (En,Fr,It+Es,It)": {},
-		"2 Games in 1 - Monsters en Co. + Finding Nemo (Netherlands) (En,Es,Nl+Fr,Nl)": {},
 		"2 Games in 1 - Monsters, Inc. + Finding Nemo (USA)": {},
 		"2 Games in 1 - Monsters, Inc. + Finding Nemo (Europe)": {},
-		"2 Games in 1 - Monstres & Cie + Le Monde de Nemo (France) (En,Fr,It+Fr,Nl)": {},
-		"2 Games in 1 - Monstruos, S.A. + Buscando a Nemo (Spain) (En,Es,Nl+Es,It)": {},
 		"2 Games in 1 - Power Rangers - Ninja Storm + Power Rangers - Time Force (USA) (En,Fr,De+En)": {},
 		"2 Games in 1 - Power Rangers - Ninja Storm + Power Rangers - La Force du Temps (France) (En,Fr,De+Fr)": {},
 		"2 Games in 1 - Power Rangers - Ninja Storm + Power Rangers - Time Force (Europe) (En,Fr,De+En)": {},
@@ -142,6 +125,8 @@
 		"2 Games in 1 - SpongeBob SquarePants - Revenge of the Flying Dutchman + SpongeBob SquarePants - SuperSponge (USA)": {},
 		"2 Games in 1 - SpongeBob SquarePants - Revenge of the Flying Dutchman + SpongeBob SquarePants - SuperSponge (Europe)": {},
 		"2 Games in 1 - The Lion King + Disney Princess (Europe) (En,Fr,De,Es,It,Nl,Sv,Da+En)": {},
+		"2 Games in 1 - SpongeBob SquarePants - SuperSponge + SpongeBob SquarePants - Battle for Bikini Bottom (Europe) (En+En,Fr,De)": {},
+		"2 Games in 1 - SpongeBob SquarePants - SuperSponge + SpongeBob SquarePants - Battle for Bikini Bottom (Europe)": {},
 		"2 Great Games! - Pac-Man World + Ms. Pac-Man - Maze Madness (USA)": {},
 		"2 in 1 Game Pack - Shrek 2 + Shark Tale (USA)": {},
 		"2 in 1 Game Pack - Shrek 2 & Shark Tale (Europe) (En,Fr,De,Es,It,Sv+En,Fr,De,Es,It)": {},
@@ -166,11 +151,51 @@
 		"2 Game Pack! - Uno + Skip-Bo": [
 			["2 Game Pack! - Uno & Skip-Bo", 1]
 		],
+		"2 Games in 1 - Cartoon Network Block Party + Cartoon Network Speedway": [
+			["Double Game! - Cartoon Network Block Party & Cartoon Network Speedway", 1]
+		],
+		"2 Games in 1 - Disney Princess + Brother Bear": [
+			["2 Games in 1 - Disney Princesas + Hermano Oso", 1],
+			["2 Games in 1 - Disney Princesse + Frere des Ours", 1],
+			["2 Games in 1 - Disney Principesse + Koda, Fratello Orso", 1],
+			["2 Games in 1 - Disneys Prinzessinnen + Baerenbrueder", 1]
+		],
+		"2 Games in 1 - Disney Princess + Lizzie McGuire": [
+			["2 Games in 1 - Disney Princesas + Lizzie McGuire", 1]
+		],
+		"2 Games in 1 - Finding Nemo + Finding Nemo - The Continuing Adventures": [
+			["2 Games in 1 - Findet Nemo + Findet Nemo - Das Abenteuer Geht Weiter", 1]
+		],
+		"2 Games in 1 - Finding Nemo + The Incredibles": [
+			["2 Games in 1 - Alla Ricerca di Nemo + Gli Incredibili - Una 'Normale' Famiglia di Supereroi", 1],
+			["2 Games in 1 - Buscando a Nemo + Los Increibles", 1],
+			["2 Games in 1 - Findet Nemo + Die Unglaublichen", 1]
+		],
 		"2 Games in 1 - Golden Nugget Casino + Texas Hold 'em Poker": [
 			["Double Game! - Golden Nugget Casino & Texas Hold 'em Poker", 1]
 		],
+		"2 Games in 1 - Monsters, Inc. + Finding Nemo": [
+			["2 Games in 1 - Die Monster AG + Findet Nemo", 1],
+			["2 Games in 1 - Monsters & Co. + Alla Ricerca di Nemo", 1],
+			["2 Games in 1 - Monsters en Co. + Finding Nemo", 1],
+			["2 Games in 1 - Monstres & Cie + Le Monde de Nemo", 1],
+			["2 Games in 1 - Monstruos, S.A. + Buscando a Nemo", 1]
+		],
 		"2 Games in 1 - Quad Desert Fury + Monster Trucks": [
 			["Double Game! - Quad Desert Fury & Monster Trucks", 1]
+		],
+		"2 Games in 1 - Rugrats - Go Wild + SpongeBob SquarePants - SuperSponge": [
+			["2 Games in 1 - Les Razmoket Rencontrent les Delajungle + SpongeBob SquarePants - SuperSponge", 1]
+		],
+		"2 Games in 1 - Scooby-Doo + Scooby-Doo 2 - Monsters Unleashed": [
+			["2 Games in 1 - Scooby-Doo + Scooby-Doo 2 - Desatado", 1],
+			["2 Games in 1 - Scooby-Doo + Scooby-Doo 2 - Les Monstres Se Dechainent", 1]
+		],
+		"2 Games in 1 - The Lion King + Disney Princess": [
+			["2 Games in 1 - Disney Princesas + El Rey Leon", 1],
+			["2 Games in 1 - Disney Princesse + Le Roi Lion", 1],
+			["2 Games in 1 - Disney Principesse + Il Re Leone", 1],
+			["2 Games in 1 - Disneys Prinzessinnen + Der Koenig der Loewen", 1]
 		],
 		"2 Games in One! - Dr. Mario + Puzzle League": [
 			["2 Games in 1 - Dr. Mario + Puzzle League", 1],
@@ -263,13 +288,6 @@
 		"Breath of Fire II": [
 			["Breath of Fire II - Shimei no Ko", 1]
 		],
-		"Brother Bear": [
-			["2 Games in 1 - Disney Princess + Brother Bear", 0],
-			["2 Games in 1 - Disney Princesas + Hermano Oso", 0],
-			["2 Games in 1 - Disney Princesse + Frere des Ours", 0],
-			["2 Games in 1 - Disney Principesse + Koda, Fratello Orso", 0],
-			["2 Games in 1 - Disneys Prinzessinnen + Baerenbrueder", 0]
-		],
 		"Buffy the Vampire Slayer - Wrath of the Darkhul King": [
 			["Buffy - Im Bann der Daemonen - Koenig Darkhuls Zorn", 1],
 			["Buffy contre les Vampires - La Colere de Darkhul", 1]
@@ -279,14 +297,6 @@
 		],
 		"Cars": [
 			["Cars - Motori Ruggenti", 1]
-		],
-		"Cartoon Network Block Party": [
-			["2 Games in 1 - Cartoon Network Block Party + Cartoon Network Speedway", 0],
-			["Double Game! - Cartoon Network Block Party & Cartoon Network Speedway", 0]
-		],
-		"Cartoon Network Speedway": [
-			["2 Games in 1 - Cartoon Network Block Party + Cartoon Network Speedway", 0],
-			["Double Game! - Cartoon Network Block Party & Cartoon Network Speedway", 0]
 		],
 		"Castlevania - Circle of the Moon": [
 			["Akumajou Dracula - Circle of the Moon", 1],
@@ -394,11 +404,6 @@
 			["Diddy Kong Pilot (2001)", 2]
 		],
 		"Disney Princess": [
-			["2 Games in 1 - Disney Princess + Brother Bear", 0],
-			["2 Games in 1 - Disney Princesas + Hermano Oso", 0],
-			["2 Games in 1 - Disney Princesse + Frere des Ours", 0],
-			["2 Games in 1 - Disney Principesse + Koda, Fratello Orso", 0],
-			["2 Games in 1 - Disneys Prinzessinnen + Baerenbrueder", 0],
 			["Disney Princesas", 1],
 			["Disney Princesse", 1],
 			["Disney Principesse", 1],
@@ -954,6 +959,11 @@
 			["Pokemon - Version Saphir", 1],
 			["Pokemon - Versione Zaffiro", 1]
 		],
+		"Pokemon - Slot 2 Distribution (B5DJ)": [
+			["Pokemon - Slot 2 Distribution (B5CJ)", 2],
+			["Pokemon - Slot 2 Distribution (B5BJ)", 3],
+			["Pokemon - Slot 2 Distribution", 4]
+		],
 		"Pokemon Mystery Dungeon - Red Rescue Team": [
 			["Pokemon Fushigi no Dungeon - Aka no Kyuujotai", 1]
 		],
@@ -1035,8 +1045,6 @@
 			["Mahou no Pumpkin - Ann to Greg no Daibouken", 1]
 		],
 		"SpongeBob SquarePants - SuperSponge": [
-			["2 Games in 1 - SpongeBob SquarePants - SuperSponge + SpongeBob SquarePants - Battle for Bikini Bottom", 0],
-			["2 Games in 1 - Les Razmoket Rencontrent les Delajungle + SpongeBob SquarePants - SuperSponge", 0],
 			["SpongeBob SquarePants - SuperSponge (05-16)", 2],
 			["SpongeBob SquarePants - SuperSponge (07-47)", 3],
 			["SpongeBob SquarePants - SuperSponge (11-34)", 4],

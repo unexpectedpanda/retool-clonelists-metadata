@@ -3,7 +3,7 @@
 		"name": [
 			"Atari - 2600"
 		],
-		"last updated": "7 May 2022",
+		"last updated": "30 June 2022",
 		"minimum version": "0.92"
 	},
 
@@ -20,9 +20,9 @@
 			"match": "short",
 			"categories": ["Applications", "Preproduction"]
 		},
-		"Colours (USA, Europe) (Atari Anthology)": {
-			"match": "full",
-			"categories": ["Applications"]
+		"Colours": {
+			"match": "short",
+			"categories": ["Applications", "Preproduction"]
 		},
 		"Frog Demo": {
 			"match": "short",
@@ -75,6 +75,9 @@
 		],
 		"Dodge 'Em ~ Dodger Cars": [
 			["Dodge 'Em", 1]
+		],
+		"Freeway": [
+			["Bloody Human Freeway", 2]
 		],
 		"Frisco": [
 			["Peter Penguin", 1]

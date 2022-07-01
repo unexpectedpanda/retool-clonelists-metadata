@@ -1,11 +1,11 @@
 {
-	"description": {
-		"name": [
+    "description": {
+        "name": [
 			"Sony - PlayStation"
 		],
-		"last updated": "22 May 2022",
-		"minimum version": "2.00"
-	},
+        "last updated": "25 June 2022",
+		"minimum version": "0.92"
+    },
 
 	"categories": {
 		"Ace Combat 3 - Electrosphere - Direct Audio with AppenDisc": {
@@ -186,19 +186,7 @@
 		}
 	},
 
-	"mias": [
-		"Arc the Lad III (Japan) (Demo 2)",
-		"Artdink Preview (Japan)",
-		"Ehrgeiz - God Bless the Ring (Japan) (Demo 2)",
-		"Karat PS PS2-you Pro Action Replay CDX2 (Japan) (Unl)",
-		"Kosodate Quiz My Angel (Japan) (Rev 1)",
-		"Ore no Shikabane o Koete Yuke (Japan) (Demo)",
-		"Oumagatoki (Japan) (Premium Fan Disc)",
-		"R4 - Ridge Racer Type 4 (Korea)",
-		"Thoroughbred Breeder - Sekai Seiha-hen (Japan) (Rev 1)"
-	],
-
-	"overrides": {
+    "overrides": {
 		"Bishi Bashi Special 2 (Japan)": {
 			"new group": "Bishi Bashi Special 2 (Japan)",
 			"condition": {
@@ -218,14 +206,6 @@
 		},
 		"King's Field (Japan)": {
 			"new group": "King's Field (Japan)"
-		},
-		"Mobile Suit Gundam - Version 2.0 (Japan)": {
-			"new group": "Mobile Suit Gundam - Version 2.0",
-			"match": "full"
-		},
-		"Mobile Suit Gundam - Version 2.0 (Japan) (Limited Edition)": {
-			"new group": "Mobile Suit Gundam - Version 2.0",
-			"match": "full"
 		},
 		"Motor Toon Grand Prix (Japan)": {
 			"new group": "Motor Toon Grand Prix (Japan)"
@@ -347,8 +327,8 @@
 		"SuperLite 1500 Series - Suudoku 3 (Japan)": {}
 	},
 
-	"renames": {
-		"007 - The World Is Not Enough": [
+    "renames": {
+        "007 - The World Is Not Enough": [
 			["007 - Die Welt Ist Nicht Genug", 1],
 			["007 - El Mundo Nunca es Suficiente", 1],
 			["007 - Le Monde ne Suffit Pas", 1]
@@ -385,7 +365,7 @@
 			["Action Man - Mission Xtreme", 1]
 		],
 		"Action Replay 2 - Bonus PSone Codes! (Disc 2)": [
-			["Action Replay 2 (Disc 2) (Bonus PSone Codes!)", 1],
+			["Action Replay 2 Version 2.23 (Disc 2) (Bonus PSone Codes!)", 1],
 			["Action Replay 2 Code Archive Disk (Disc 2) (German Edition)", 1],
 			["Action Replay 2 (Disc 2)", 1]
 		],
@@ -458,7 +438,7 @@
 		"Angelique Duet (Angelique History)": [
 			["Angelique Duet", 2]
 		],
-		"Angelique Special 2 (Angelique History)": [
+		"Angelique Special 2 (Premium Box)": [
 			["Angelique Special 2", 2]
 		],
 		"Ape Escape": [
@@ -534,6 +514,12 @@
 		],
 		"Azure Dreams": [
 			["Other Life Azure Dreams", 1]
+		],
+		"Baby Universe": [
+			["3D-Kaleidoscope - Baby Universe", 1]
+		],
+		"Backstreet Billiards": [
+			["Carom Shot 2", 1]
 		],
 		"Backyard Soccer": [
 			["Junior Sports Football", 1],
@@ -699,7 +685,7 @@
 			["Land Maker", 1]
 		],
 		"BursTrick - Wake Boarding!!": [
-			["Simple 1500 Series Vol. 83 - The Wakeboard - BursTrick Wakeboarding!!", 2]
+			["Simple 1500 Series Vol. 83 - The Wakeboard - BursTrick - Wake Boarding!!", 2]
 		],
 		"Bust A Groove": [
 			["Bust-A-Groove", 1],
@@ -783,6 +769,7 @@
 		"City of Lost Children, The": [
 			["Cite des Enfants Perdus, La", 1],
 			["Ciudad de los Ninos Perdidos, La", 1],
+			["Lost Children - The City of Lost Children", 1],
 			["Stadt der verlorenen Kinder, Die", 1]
 		],
 		"Cleopatra's Fortune": [
@@ -793,6 +780,13 @@
 		],
 		"Clock Tower II - The Struggle Within": [
 			["Clock Tower - Ghost Head", 1]
+		],
+		"Cocktail Harmony": [
+			["Simple 1500 Jitsuyou Series Vol. 06 - Cocktail no Recipe", 2]
+		],
+		"Code Breaker Version 3": [
+			["Code Breaker Version 2", 2],
+			["Code Breaker", 3]
 		],
 		"Codemasters Demo CD (Demo)": [
 			["Codemasters Demo Disk (Demo)", 1]
@@ -832,6 +826,9 @@
 		"Command & Conquer - Red Alert - Retaliation (Disc 2) (Soviet)": [
 			["Command & Conquer - Alarmstufe Rot - Gegenschlag (Disc 2) (Die Sowjets)", 1],
 			["Command & Conquer - Alerte Rouge - Mission Tesla (Disc 2) (Sovietiques)", 1]
+		],
+		"Community Pom - Omoide o Dakishimete": [
+			["Community Pom", 2]
 		],
 		"Contender": [
 			["Dynamite Boxing", 1],
@@ -924,6 +921,9 @@
 		"Defcon 5 - Peace Has a Price...": [
 			["Defcon 5", 1]
 		],
+		"Demo Codemasters (SLED-02246) (Demo)": [
+			["Demo Codemasters (SLED-01725) (Demo)", 2]
+		],
 		"Densetsu-juu no Ana - Monster Complete World Ver. 2": [
 			["SuperLite 1500 Series - Densetsu-juu no Ana - Monster Complete World Ver. 2", 2]
 		],
@@ -944,7 +944,8 @@
 		],
 		"Digimon - Digital Card Battle": [
 			["Digimon Digital Card Battle", 1],
-			["DigimonWorld - Digital Card Arena", 1]
+			["DigimonWorld - Digital Card Arena", 1],
+			["DigimonWorld - Digital Card Battle", 1]
 		],
 		"Digimon Rumble Arena": [
 			["DigimonTamers - Battle Evolution", 1]
@@ -1092,7 +1093,7 @@
 		],
 		"Disney's The Emperor's New Groove": [
 			["Disney's Keizer Kuzco", 1],
-			["Disney Keisarin Uudet Kuviot", 1],
+			["Disneyn Keisarin Uudet Kuviot", 1],
 			["Disney El Emperador y sus Locuras", 1],
 			["Disneys Ein Koenigreich fuer ein Lama", 1],
 			["Disneys Et Kongerike for en Lama", 1],
@@ -1245,9 +1246,13 @@
 		"Epidemic": [
 			["Kileak, The Blood 2 - Reason in Madness", 1]
 		],
+		"Equalizer CDX Version 3.6": [
+			["Equalizer CDX Version 3.4", 2]
+		],
 		"Equalizer Xtreme Ver 4.2": [
 			["Equalizer Xtreme Ver 4.1", 2],
-			["Equalizer Xtreme Ver 1.1", 3]
+			["Equalizer Xtreme Ver 4.0", 4],
+			["Equalizer Xtreme Ver 1.1", 5]
 		],
 		"Equestrian Showcase": [
 			["Alexandra Ledermann 2 - Equitation Competition", 1],
@@ -1293,6 +1298,9 @@
 		"Expendable": [
 			["Millennium Soldier - Expendable", 1]
 		],
+		"Explosive Racing": [
+			["X.Racing", 1]
+		],
 		"Extreme 500": [
 			["Suzuki Alstare Challenge", 1]
 		],
@@ -1322,8 +1330,17 @@
 		"F1 World Grand Prix": [
 			["F1 World Grand Prix - Saison 2000", 1]
 		],
-		"Family Card Games Fun Pack": [
-			["Card Shark", 1]
+		"Fade to Black": [
+			["Fade to Black (SLES-00339)", 1]
+		],
+		"Family Games Compendium (Disc 1)": [
+			["Super Casino Special", 1],
+			["Vegas Casino", 2]
+		],
+		"Family Games Compendium (Disc 2)": [
+			["Card Shark", 1],
+			["Family Card Games Fun Pack", 1],
+			["Trump Shiyou yo!", 1]
 		],
 		"Famires, The": [
 			["SuperLite 1500 Series - The FamiRes", 2]
@@ -1474,7 +1491,8 @@
 		],
 		"Freestyle Boardin' '99": [
 			["Phat Air - Extreme Snowboarding", 1],
-			["Zap! Snowboarding Trix '98", 1]
+			["Zap! Snowboarding Trix '98", 1],
+			["Zap! Snowboarding Trix", 2]
 		],
 		"From TV Animation One Piece - Tobidase Kaizokudan! (PocketStation Doukon)": [
 			["From TV Animation One Piece - Tobidase Kaizokudan!", 2]
@@ -1507,6 +1525,7 @@
 			["SuperLite 1500 Series - The Game Maker", 2]
 		],
 		"Gekioh - Shooting King": [
+			["Arcade Hits - Shienryuu", 1],
 			["Geki-Oh - Shienryuu", 1]
 		],
 		"Gex - Enter the Gecko": [
@@ -1522,6 +1541,9 @@
 		"Ghoul Panic": [
 			["Oh! Bakyuuun", 1]
 		],
+		"GameShark CDX": [
+			["GameShark CDX - Version 3.3", 2]
+		],
 		"Goal Storm": [
 			["World Soccer Winning Eleven", 1]
 		],
@@ -1534,6 +1556,9 @@
 			["Oro e Gloria - La Strada per El Dorado", 1],
 			["Oro y Gloria - La Ruta hacia El Dorado", 1],
 			["Pour l'Or et la Gloire - La Route d'Eldorado", 1]
+		],
+		"GP Challenge": [
+			["Family Games Compendium (Disc 3)", 0]
 		],
 		"Gran Turismo 2 (Arcade Mode)": [
 			["Gran Turismo 2 (Disc 1) (Arcade Mode)", 1],
@@ -1653,6 +1678,12 @@
 		"Independence Day": [
 			["Independence Day - The Game", 1]
 		],
+		"Interactive CD Sampler Pack Volume One (Demo)": [
+			["Interactive CD Sampler Pack Volume One (SCUS-94956) (Demo)", 2]
+		],
+		"Interactive CD Sampler Pack Volume Three (Demo)": [
+			["Interactive CD Sampler Pack Volume Three (SCUS-94177) (Demo)", 2]
+		],
 		"International Moto X": [
 			["International Moto-X", 1]
 		],
@@ -1686,7 +1717,7 @@
 		],
 		"Jarrett & Labonte Stock Car Racing": [
 			["TOCA World Touring Cars", 1],
-			["WTC World Touring Car Championship", 1]
+			["WTC - World Touring Car Championship", 1]
 		],
 		"Jeff Wayne's The War of the Worlds": [
 			["Jeff Wayne's La Guerre des Mondes", 1]
@@ -1735,7 +1766,7 @@
 			["Zeitgeist", 1]
 		],
 		"K-1 Grand Prix": [
-			["Fighting Illusion V - K-1 Grand Prix '99", 1]
+			["Fighting Illusion - K-1 Grand Prix '98", 1]
 		],
 		"K-1 Revenge": [
 			["Fighting Illusion - K-1 Revenge", 1]
@@ -1751,6 +1782,9 @@
 		],
 		"Kagero - Deception II": [
 			["Kagero - Kokumeikan Shinshou", 1]
+		],
+		"Kart Challenge": [
+			["Family Games Compendium (Disc 3)", 0]
 		],
 		"Kartia - The Word of Fate": [
 			["Legend of Kartia", 1],
@@ -1917,6 +1951,9 @@
 		"Machine Head": [
 			["Blam! Machinehead", 1]
 		],
+		"Magical Drop": [
+			["Arcade Hits - Magical Drop", 1]
+		],
 		"Magical Drop III (Disc 1) (Magical Drop III)": [
 			["Magical Drop III - Yokubari Tokudai-gou!", 1]
 		],
@@ -1988,7 +2025,7 @@
 			["Rockman Dash - Hagane no Boukenshin", 1]
 		],
 		"Mega Man Legends 2": [
-			["Rockman Dash 2 - Episode 2 - Ooinaru Isan", 1]
+			["Rockman Dash 2 - Episode 2 - Ooi naru Isan", 1]
 		],
 		"Mega Man X3": [
 			["Rockman X3", 1]
@@ -2043,6 +2080,9 @@
 		],
 		"Misadventures of Tron Bonne, The": [
 			["Tron ni Kobun", 1]
+		],
+		"Mobile Suit Gundam - Version 2.0 (Limited Edition)": [
+			["Mobile Suit Gundam - Version 2.0", 2]
 		],
 		"Mobile Suit Z-Gundam (Disc 1) (Bandai the Best)": [
 			["Mobile Suit Z-Gundam (Disc 1)", 2]
@@ -2384,6 +2424,10 @@
 			["Player Manager - Epoca 98-99", 1],
 			["Player Manager Novanta Nove", 1]
 		],
+		"PlayStation Programmer Tool - Runtime Library Version 3.3": [
+			["PlayStation Programmer Tool - Runtime Library Version 3.0", 2],
+			["PlayStation Programmer Tool - Runtime Library Version 2.6", 3]
+		],
 		"Point Blank": [
 			["GunBullet (GunBullet + GunCon)", 1],
 			["GunBullet", 2]
@@ -2396,6 +2440,9 @@
 		],
 		"Pong - The Next Level": [
 			["Pong", 1]
+		],
+		"Pool Academy": [
+			["Doukyuu re-mix - Billiards Multiple", 1]
 		],
 		"Pool Hustler": [
 			["Doukyuu - Billiard Master", 1]
@@ -2444,6 +2491,9 @@
 		"Pro Backgammon": [
 			["Backgammon", 1]
 		],
+		"Pro Evolution Soccer 2": [
+			["World Soccer Winning Eleven 2002", 1]
+		],
 		"Pro Mahjong Tsuwamono 2": [
 			["Pro Mahjong Tsuwamono 2 (BPV)", 2]
 		],
@@ -2481,6 +2531,9 @@
 		],
 		"Rapid Reload": [
 			["Gunners Heaven", 1]
+		],
+		"Rascal": [
+			["Bubblegun Kid", 1]
 		],
 		"Rat Attack!": [
 			["Rat Attack", 1]
@@ -2593,6 +2646,7 @@
 			["RPG Tkool 3", 1]
 		],
 		"Rush Hour": [
+			["BattleRound USA", 1],
 			["Speedster", 1]
 		],
 		"Saban's Power Rangers - Time Force": [
@@ -2681,6 +2735,9 @@
 		"SimTheme Park": [
 			["Theme Park World", 1]
 		],
+		"Skydiving Extreme": [
+			["Aerodive", 1]
+		],
 		"Smurf Racer!": [
 			["3, 2, 1, Smurf! My First Racing Game", 1]
 		],
@@ -2729,6 +2786,9 @@
 		"Spider-Man 2 - Enter - Electro": [
 			["Spider-Man 2 - La Revanche d'Electro", 1]
 		],
+		"Sports Superbike": [
+			["Family Games Compendium (Disc 3)", 0]
+		],
 		"Spyro 2 - Ripto's Rage!": [
 			["Spyro 2 - Gateway to Glimmer", 1],
 			["Spyro x Sparx - Tondemo Tours", 1]
@@ -2744,6 +2804,7 @@
 			["Star Wars - Episodio I - Jedi Power Battles", 1]
 		],
 		"Star Wars - Episode I - The Phantom Menace (Demo)": [
+			["Star Wars - Episode I - Die Dunkle Bedrohung (Demo)", 1],
 			["Star Wars - Episode I - La Menace Fantome (Demo)", 1],
 			["Star Wars - Episodio I - La Amenaza Fantasma (Demo)", 1]
 		],
@@ -2868,6 +2929,9 @@
 			["Tales of Destiny II (Disc 3)", 1],
 			["Tales of Eternia (Disc 3)", 2]
 		],
+		"Tales of Fandom Vol. 1 - Mint Version": [
+			["Tales of Fandom Vol. 1 - Cless Version", 2]
+		],
 		"Team Losi RC Racer": [
 			["Buggy", 1]
 		],
@@ -2971,6 +3035,7 @@
 			["Tiny Toon Adventures - Toonenstein - Le Chateau hante", 1]
 		],
 		"TNN Motor Sports HardCore 4X4": [
+			["Deka Yonku - Tough the Truck", 1],
 			["Hardcore 4x4", 1]
 		],
 		"TNN Motorsports HardCore TR": [
@@ -3044,6 +3109,9 @@
 		],
 		"Toshinden 4": [
 			["Toushinden Subaru", 1]
+		],
+		"Total Play (SLED-02126) (Demo)": [
+			["Total Play (SLED-01872) (Demo)", 2]
 		],
 		"Tower Dream 2": [
 			["SuperLite 1500 Series - Tower Dream 2", 2]
@@ -3121,9 +3189,6 @@
 		"Vanguard Bandits": [
 			["Epica Stella", 1]
 		],
-		"Vegas Casino": [
-			["Super Casino Special", 1]
-		],
 		"Vegas Games 2000": [
 			["Midnight in Vegas", 1]
 		],
@@ -3150,9 +3215,6 @@
 		"Virtual Golf": [
 			["Tournament Leader", 1]
 		],
-		"Virus - It Is Aware": [
-			["Virus - The Battle Field", 1]
-		],
 		"VR Soccer '96": [
 			["Actua Soccer", 1],
 			["Ran Soccer", 1]
@@ -3162,6 +3224,9 @@
 		],
 		"Wacky Races": [
 			["Chiki Chiki Machine Mou Race - Wacky Races", 1]
+		],
+		"Wai Wai Bowling": [
+			["Family Bowling", 2]
 		],
 		"Walt Disney's The Jungle Book - Rhythm n' Groove": [
 			["Livro da Selva, O - Uma Festa Divertida", 1],
@@ -3243,6 +3308,9 @@
 		"Wizard's Harmony R": [
 			["SuperLite 1500 Series - Wizard's Harmony R", 2]
 		],
+		"Wolf Fang - Kuuga 2001": [
+			["Arcade Hits - Wolf Fang - Kuuga 2001", 1]
+		],
 		"Woody Woodpecker Racing": [
 			["Woody Woodpecker no Go! Go! Racing", 1]
 		],
@@ -3256,6 +3324,9 @@
 			["Frankreich 98 - Die Fussball-WM", 1],
 			["World Cup 98 - Coppa del Mondo", 1]
 		],
+		"World Cup Golf - Professional Edition": [
+			["World Cup Golf - In Hyatt Dorado Beach", 1]
+		],
 		"World League Soccer '98": [
 			["World League Soccer", 1]
 		],
@@ -3264,6 +3335,9 @@
 		],
 		"Wu-Tang - Shaolin Style": [
 			["Wu-Tang - Taste the Pain", 1]
+		],
+		"WWF SmackDown!": [
+			["Exciting Pro Wres", 1]
 		],
 		"WWF SmackDown! 2 - Know Your Role": [
 			["Exciting Pro Wres 2", 1]
@@ -3275,11 +3349,17 @@
 		"X-Men vs. Street Fighter": [
 			["X-Men vs. Street Fighter - EX Edition", 1]
 		],
-		"Xploder CD9000": [
-			["Xploder CD9000 Directors Cut", 1]
+		"Xploder CD9000 Version 4.0": [
+			["Xploder CD9000 Directors Cut", 1],
+			["Xploder CD9000 Version 1", 1],
+			["Xploder CD9000 Version 2.0", 1],
+			["Xploder CD9000 Version 3.0", 1]
 		],
 		"XS Junior League Dodgeball": [
 			["Dotchi de Ball!", 1]
+		],
+		"Yamasa Digi Selection (DX)": [
+			["Yamasa Digi Selection", 2]
 		],
 		"Yeh Yeh Tennis": [
 			["Love Game's - Wai Wai Tennis 2", 1]
@@ -3293,11 +3373,14 @@
 		"YoYo's Puzzle Park": [
 			["Gussun Paradise", 1]
 		],
+		"Yu-Gi-Oh! Forbidden Memories": [
+			["Yu-Gi-Oh! Shin Duel Monsters - Fuuin Sareshi Kioku", 1]
+		],
 		"Yusha - Heaven's Gate": [
 			["Heaven's Gate", 1]
 		],
 		"Zoop - America's Largest Killer of Time!": [
 			["Zoop", 1]
 		]
-	}
+    }
 }
