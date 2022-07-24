@@ -1,11 +1,11 @@
 {
-    "description": {
-        "name": [
+	"description": {
+		"name": [
 			"Sony - PlayStation"
 		],
-        "last updated": "25 June 2022",
-		"minimum version": "0.92"
-    },
+		"last updated": "24 July 2022",
+		"minimum version": "2.00"
+	},
 
 	"categories": {
 		"Ace Combat 3 - Electrosphere - Direct Audio with AppenDisc": {
@@ -186,7 +186,19 @@
 		}
 	},
 
-    "overrides": {
+	"mias": [
+		"Arc the Lad III (Japan) (Demo 2)",
+		"Artdink Preview (Japan)",
+		"Ehrgeiz - God Bless the Ring (Japan) (Demo 2)",
+		"Karat PS PS2-you Pro Action Replay CDX2 (Japan) (Unl)",
+		"Kosodate Quiz My Angel (Japan) (Rev 1)",
+		"Ore no Shikabane o Koete Yuke (Japan) (Demo)",
+		"Oumagatoki (Japan) (Premium Fan Disc)",
+		"R4 - Ridge Racer Type 4 (Korea)",
+		"Thoroughbred Breeder - Sekai Seiha-hen (Japan) (Rev 1)"
+	],
+
+	"overrides": {
 		"Bishi Bashi Special 2 (Japan)": {
 			"new group": "Bishi Bashi Special 2 (Japan)",
 			"condition": {
@@ -206,6 +218,14 @@
 		},
 		"King's Field (Japan)": {
 			"new group": "King's Field (Japan)"
+		},
+		"Mobile Suit Gundam - Version 2.0 (Japan)": {
+			"new group": "Mobile Suit Gundam - Version 2.0",
+			"match": "full"
+		},
+		"Mobile Suit Gundam - Version 2.0 (Japan) (Limited Edition)": {
+			"new group": "Mobile Suit Gundam - Version 2.0",
+			"match": "full"
 		},
 		"Motor Toon Grand Prix (Japan)": {
 			"new group": "Motor Toon Grand Prix (Japan)"
@@ -327,8 +347,8 @@
 		"SuperLite 1500 Series - Suudoku 3 (Japan)": {}
 	},
 
-    "renames": {
-        "007 - The World Is Not Enough": [
+	"renames": {
+		"007 - The World Is Not Enough": [
 			["007 - Die Welt Ist Nicht Genug", 1],
 			["007 - El Mundo Nunca es Suficiente", 1],
 			["007 - Le Monde ne Suffit Pas", 1]
@@ -365,7 +385,7 @@
 			["Action Man - Mission Xtreme", 1]
 		],
 		"Action Replay 2 - Bonus PSone Codes! (Disc 2)": [
-			["Action Replay 2 Version 2.23 (Disc 2) (Bonus PSone Codes!)", 1],
+			["Action Replay 2 (Disc 2) (Bonus PSone Codes!)", 1],
 			["Action Replay 2 Code Archive Disk (Disc 2) (German Edition)", 1],
 			["Action Replay 2 (Disc 2)", 1]
 		],
@@ -781,13 +801,6 @@
 		"Clock Tower II - The Struggle Within": [
 			["Clock Tower - Ghost Head", 1]
 		],
-		"Cocktail Harmony": [
-			["Simple 1500 Jitsuyou Series Vol. 06 - Cocktail no Recipe", 2]
-		],
-		"Code Breaker Version 3": [
-			["Code Breaker Version 2", 2],
-			["Code Breaker", 3]
-		],
 		"Codemasters Demo CD (Demo)": [
 			["Codemasters Demo Disk (Demo)", 1]
 		],
@@ -921,11 +934,8 @@
 		"Defcon 5 - Peace Has a Price...": [
 			["Defcon 5", 1]
 		],
-		"Demo Codemasters (SLED-02246) (Demo)": [
-			["Demo Codemasters (SLED-01725) (Demo)", 2]
-		],
-		"Densetsu-juu no Ana - Monster Complete World Ver. 2": [
-			["SuperLite 1500 Series - Densetsu-juu no Ana - Monster Complete World Ver. 2", 2]
+		"Densetsu-juu no Ana - Monster Complete World": [
+			["SuperLite 1500 Series - Densetsu-juu no Ana - Monster Complete World", 2]
 		],
 		"Descent Maximum": [
 			["Descent II", 1]
@@ -1246,13 +1256,10 @@
 		"Epidemic": [
 			["Kileak, The Blood 2 - Reason in Madness", 1]
 		],
-		"Equalizer CDX Version 3.6": [
-			["Equalizer CDX Version 3.4", 2]
-		],
 		"Equalizer Xtreme Ver 4.2": [
 			["Equalizer Xtreme Ver 4.1", 2],
-			["Equalizer Xtreme Ver 4.0", 4],
-			["Equalizer Xtreme Ver 1.1", 5]
+			["Equalizer Xtreme Ver 4.0", 3],
+			["Equalizer Xtreme Ver 1.1", 4]
 		],
 		"Equestrian Showcase": [
 			["Alexandra Ledermann 2 - Equitation Competition", 1],
@@ -1329,9 +1336,6 @@
 		],
 		"F1 World Grand Prix": [
 			["F1 World Grand Prix - Saison 2000", 1]
-		],
-		"Fade to Black": [
-			["Fade to Black (SLES-00339)", 1]
 		],
 		"Family Games Compendium (Disc 1)": [
 			["Super Casino Special", 1],
@@ -1541,9 +1545,6 @@
 		"Ghoul Panic": [
 			["Oh! Bakyuuun", 1]
 		],
-		"GameShark CDX": [
-			["GameShark CDX - Version 3.3", 2]
-		],
 		"Goal Storm": [
 			["World Soccer Winning Eleven", 1]
 		],
@@ -1677,12 +1678,6 @@
 		],
 		"Independence Day": [
 			["Independence Day - The Game", 1]
-		],
-		"Interactive CD Sampler Pack Volume One (Demo)": [
-			["Interactive CD Sampler Pack Volume One (SCUS-94956) (Demo)", 2]
-		],
-		"Interactive CD Sampler Pack Volume Three (Demo)": [
-			["Interactive CD Sampler Pack Volume Three (SCUS-94177) (Demo)", 2]
 		],
 		"International Moto X": [
 			["International Moto-X", 1]
@@ -2063,9 +2058,6 @@
 		"Mickey's Wild Adventure": [
 			["Topolino e le Sue Avventure", 1]
 		],
-		"Micro Machines V3": [
-			["Micro Machines", 1]
-		],
 		"Mike Tyson Boxing": [
 			["Prince Naseem Boxing", 1]
 		],
@@ -2080,9 +2072,6 @@
 		],
 		"Misadventures of Tron Bonne, The": [
 			["Tron ni Kobun", 1]
-		],
-		"Mobile Suit Gundam - Version 2.0 (Limited Edition)": [
-			["Mobile Suit Gundam - Version 2.0", 2]
 		],
 		"Mobile Suit Z-Gundam (Disc 1) (Bandai the Best)": [
 			["Mobile Suit Z-Gundam (Disc 1)", 2]
@@ -2423,10 +2412,6 @@
 			["Guy Roux Manager '99", 1],
 			["Player Manager - Epoca 98-99", 1],
 			["Player Manager Novanta Nove", 1]
-		],
-		"PlayStation Programmer Tool - Runtime Library Version 3.3": [
-			["PlayStation Programmer Tool - Runtime Library Version 3.0", 2],
-			["PlayStation Programmer Tool - Runtime Library Version 2.6", 3]
 		],
 		"Point Blank": [
 			["GunBullet (GunBullet + GunCon)", 1],
@@ -3110,9 +3095,6 @@
 		"Toshinden 4": [
 			["Toushinden Subaru", 1]
 		],
-		"Total Play (SLED-02126) (Demo)": [
-			["Total Play (SLED-01872) (Demo)", 2]
-		],
 		"Tower Dream 2": [
 			["SuperLite 1500 Series - Tower Dream 2", 2]
 		],
@@ -3214,6 +3196,9 @@
 		],
 		"Virtual Golf": [
 			["Tournament Leader", 1]
+		],
+		"Virus - It Is Aware": [
+			["Virus - The Battle Field", 1]
 		],
 		"VR Soccer '96": [
 			["Actua Soccer", 1],
@@ -3349,11 +3334,8 @@
 		"X-Men vs. Street Fighter": [
 			["X-Men vs. Street Fighter - EX Edition", 1]
 		],
-		"Xploder CD9000 Version 4.0": [
-			["Xploder CD9000 Directors Cut", 1],
-			["Xploder CD9000 Version 1", 1],
-			["Xploder CD9000 Version 2.0", 1],
-			["Xploder CD9000 Version 3.0", 1]
+		"Xploder CD9000": [
+			["Xploder CD9000 Directors Cut", 1]
 		],
 		"XS Junior League Dodgeball": [
 			["Dotchi de Ball!", 1]
@@ -3382,5 +3364,5 @@
 		"Zoop - America's Largest Killer of Time!": [
 			["Zoop", 1]
 		]
-    }
+	}
 }

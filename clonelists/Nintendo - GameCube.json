@@ -6,8 +6,8 @@
 			"Nintendo - GameCube - NKit ISO",
 			"Nintendo - GameCube - NASOs"
 		],
-		"last updated": "09 July 2022",
-		"minimum version": "0.89"
+		"last updated": "24 July 2022",
+		"minimum version": "2.00"
 	},
 
 	"categories": {
@@ -25,10 +25,34 @@
 		}
 	},
 
+	"mias": [
+		"SmaBro DX Event-you Disc (Japan)"
+	],
+
 	"overrides": {
 		"Disney Sports - Football (Europe) (En,Fr,De,Es,It)": {
 			"new group": "Disney Sports - Soccer",
 			"match": "tag free"
+		},
+		"NBA Street V3 (USA)": {
+			"new group": "NBA Street V3",
+			"match": "full"
+		},
+		"NBA Street V3 (Europe) (En,Fr,De)": {
+			"new group": "NBA Street V3",
+			"match": "full"
+		},
+		"NBA Street V3 - Mario de Dunk (Japan)": {
+			"new group": "NBA Street V3",
+			"match": "full"
+		},
+		"Virtua Striker 3 Ver. 2002 (Europe) (En,Fr,De,Es,It)": {
+			"new group": "Virtua Striker 2002",
+			"match": "full"
+		},
+		"Virtua Striker 3 Ver. 2002 (Japan)": {
+			"new group": "Virtua Striker 2002",
+			"match": "full"
 		}
 	},
 
@@ -427,14 +451,11 @@
 			["Battle Houshin", 1]
 		],
 		"Naruto - Clash of Ninja": [
+			["Naruto - Clash of Ninja - European Version", 1],
 			["Naruto - Gekitou Ninja Taisen!", 1]
 		],
 		"Naruto - Clash of Ninja 2": [
-			["Naruto - Clash of Ninja - European Version", 1],
 			["Naruto - Gekitou Ninja Taisen! 2", 1]
-		],
-		"NBA Street V3": [
-			["NBA Street V3 - Mario de Dunk", 1]
 		],
 		"Nickelodeon Avatar - The Last Airbender": [
 			["Nickelodeon Avatar - The Legend of Aang", 1]
@@ -629,9 +650,6 @@
 		],
 		"Virtua Quest": [
 			["Virtua Fighter Cyber Generation - Judgment Six no Yabou", 1]
-		],
-		"Virtua Striker 2002": [
-			["Virtua Striker 3 Ver. 2002", 1]
 		],
 		"WarioWare, Inc. - Mega Party Game$!": [
 			["Atsumare!! Made in Wario", 1]

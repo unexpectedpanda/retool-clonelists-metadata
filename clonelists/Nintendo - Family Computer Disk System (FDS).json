@@ -3,20 +3,12 @@
 		"name": [
 			"Nintendo - Family Computer Disk System (FDS)"
 		],
-		"last updated": "30 June 2022",
+		"last updated": "23 July 2022",
 		"minimum version": "0.92"
 	},
 
 	"categories": {
-		"Disk Hacker - Version 1.0": {
-			"match": "short",
-			"categories": ["Applications"]
-		},
-		"Disk Hacker - Version 1.2": {
-			"match": "short",
-			"categories": ["Applications"]
-		},
-		"Disk Hacker - Version 1.3": {
+		"Disk Hacker": {
 			"match": "short",
 			"categories": ["Applications"]
 		},
@@ -127,10 +119,6 @@
 	},
 
 	"renames": {
-		"Disk Hacker - Version 1.3": [
-			["Disk Hacker - Version 1.2", 2],
-			["Disk Hacker - Version 1.0", 3]
-		],
 		"Golf - Japan Course": [
 			["Golf - Japan Course (Prize Card)", 2]
 		],
@@ -139,10 +127,6 @@
 		],
 		"Link no Bouken - The Legend of Zelda 2 (Collector's Edition)": [
 			["Link no Bouken - The Legend of Zelda 2", 2]
-		],
-		"Nomura no Famicom Trade (FTEJ)": [
-			["Nomura no Famicom Trade (FTBJ)", 2],
-			["Nomura no Famicom Trade (FTAJ)", 3]
 		],
 		"Topple Zip": [
 			["Topple Zip (Project EGG)", 2]

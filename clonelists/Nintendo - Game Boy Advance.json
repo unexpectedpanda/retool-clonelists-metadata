@@ -3,7 +3,7 @@
 		"name": [
 			"Nintendo - Game Boy Advance"
 		],
-		"last updated": "30 June 2022",
+		"last updated": "15 May 2022",
 		"minimum version": "0.92"
 	},
 
@@ -21,6 +21,10 @@
 			"categories": ["Applications"]
 		},
 		"Advanced Music Player": {
+			"match": "short",
+			"categories": ["Applications"]
+		},
+		"AGS Aging Cartridge": {
 			"match": "short",
 			"categories": ["Applications"]
 		},
@@ -98,18 +102,33 @@
 	},
 
 	"removes": {
+		"2 Games in 1 - Alla Ricerca di Nemo + Gli Incredibili - Una 'Normale' Famiglia di Supereroi (Italy) (Es,It+It)": {},
+		"2 Games in 1 - Buscando a Nemo + Los Increibles (Spain) (Es,It+Es)": {},
+		"2 Games in 1 - Die Monster AG + Findet Nemo (Germany)": {},
 		"2 Games in 1 - Cartoon Network Block Party + Cartoon Network Speedway (USA)": {},
 		"2 Games in 1 - Disney Princess + Brother Bear (Europe) (En+En,Fr,De,Es,It,Nl,Sv,Da)": {},
 		"2 Games in 1 - Disney Princess + Lizzie McGuire (Europe)": {},
+		"2 Games in 1 - Disney Princesas + Lizzie McGuire (Spain)": {},
+		"2 Games in 1 - Disney Princesas + El Rey Leon (Spain) (Es+En,Fr,De,Es,It,Nl,Sv,Da)": {},
+		"2 Games in 1 - Disney Princesse + Le Roi Lion (France) (Fr+En,Fr,De,Es,It,Nl,Sv,Da)": {},
+		"2 Games in 1 - Disney Principesse + Il Re Leone (Italy) (It+En,Fr,De,Es,It,Nl,Sv,Da)": {},
+		"2 Games in 1 - Disneys Prinzessinnen + Der Koenig der Loewen (Germany) (De+En,Fr,De,Es,It,Nl,Sv,Da)": {},
 		"2 Games in 1 - Finding Nemo + Finding Nemo - The Continuing Adventures (Europe) (Es,It+En,Es,It,Sv,Da)": {},
 		"2 Games in 1 - Finding Nemo + Finding Nemo - The Continuing Adventures (Europe) (En+En,Es,It,Sv,Da)": {},
 		"2 Games in 1 - Finding Nemo + Finding Nemo - The Continuing Adventures (Europe) (Fr,Nl+Fr,De,Nl)": {},
+		"2 Games in 1 - Findet Nemo + Findet Nemo - Das Abenteuer Geht Weiter (Germany) (De+Fr,De,Nl)": {},
+		"2 Games in 1 - Finding Nemo - The Continuing Adventures + The Incredibles (USA)": {},
 		"2 Games in 1 - Finding Nemo + The Incredibles (Europe)": {},
 		"2 Games in 1 - Finding Nemo + The Incredibles (Europe) (Fr,Nl)": {},
+		"2 Games in 1 - Findet Nemo + Die Unglaublichen (Germany)": {},
 		"2 Games in 1 - Hot Wheels - Velocity X + Hot Wheels - World Race (USA)": {},
 		"2 Games in 1 - Hot Wheels - Velocity X + Hot Wheels - World Race (Europe)": {},
+		"2 Games in 1 - Monsters & Co. + Alla Ricerca di Nemo (Italy) (En,Fr,It+Es,It)": {},
+		"2 Games in 1 - Monsters en Co. + Finding Nemo (Netherlands) (En,Es,Nl+Fr,Nl)": {},
 		"2 Games in 1 - Monsters, Inc. + Finding Nemo (USA)": {},
 		"2 Games in 1 - Monsters, Inc. + Finding Nemo (Europe)": {},
+		"2 Games in 1 - Monstres & Cie + Le Monde de Nemo (France) (En,Fr,It+Fr,Nl)": {},
+		"2 Games in 1 - Monstruos, S.A. + Buscando a Nemo (Spain) (En,Es,Nl+Es,It)": {},
 		"2 Games in 1 - Power Rangers - Ninja Storm + Power Rangers - Time Force (USA) (En,Fr,De+En)": {},
 		"2 Games in 1 - Power Rangers - Ninja Storm + Power Rangers - La Force du Temps (France) (En,Fr,De+Fr)": {},
 		"2 Games in 1 - Power Rangers - Ninja Storm + Power Rangers - Time Force (Europe) (En,Fr,De+En)": {},
@@ -151,51 +170,11 @@
 		"2 Game Pack! - Uno + Skip-Bo": [
 			["2 Game Pack! - Uno & Skip-Bo", 1]
 		],
-		"2 Games in 1 - Cartoon Network Block Party + Cartoon Network Speedway": [
-			["Double Game! - Cartoon Network Block Party & Cartoon Network Speedway", 1]
-		],
-		"2 Games in 1 - Disney Princess + Brother Bear": [
-			["2 Games in 1 - Disney Princesas + Hermano Oso", 1],
-			["2 Games in 1 - Disney Princesse + Frere des Ours", 1],
-			["2 Games in 1 - Disney Principesse + Koda, Fratello Orso", 1],
-			["2 Games in 1 - Disneys Prinzessinnen + Baerenbrueder", 1]
-		],
-		"2 Games in 1 - Disney Princess + Lizzie McGuire": [
-			["2 Games in 1 - Disney Princesas + Lizzie McGuire", 1]
-		],
-		"2 Games in 1 - Finding Nemo + Finding Nemo - The Continuing Adventures": [
-			["2 Games in 1 - Findet Nemo + Findet Nemo - Das Abenteuer Geht Weiter", 1]
-		],
-		"2 Games in 1 - Finding Nemo + The Incredibles": [
-			["2 Games in 1 - Alla Ricerca di Nemo + Gli Incredibili - Una 'Normale' Famiglia di Supereroi", 1],
-			["2 Games in 1 - Buscando a Nemo + Los Increibles", 1],
-			["2 Games in 1 - Findet Nemo + Die Unglaublichen", 1]
-		],
 		"2 Games in 1 - Golden Nugget Casino + Texas Hold 'em Poker": [
 			["Double Game! - Golden Nugget Casino & Texas Hold 'em Poker", 1]
 		],
-		"2 Games in 1 - Monsters, Inc. + Finding Nemo": [
-			["2 Games in 1 - Die Monster AG + Findet Nemo", 1],
-			["2 Games in 1 - Monsters & Co. + Alla Ricerca di Nemo", 1],
-			["2 Games in 1 - Monsters en Co. + Finding Nemo", 1],
-			["2 Games in 1 - Monstres & Cie + Le Monde de Nemo", 1],
-			["2 Games in 1 - Monstruos, S.A. + Buscando a Nemo", 1]
-		],
 		"2 Games in 1 - Quad Desert Fury + Monster Trucks": [
 			["Double Game! - Quad Desert Fury & Monster Trucks", 1]
-		],
-		"2 Games in 1 - Rugrats - Go Wild + SpongeBob SquarePants - SuperSponge": [
-			["2 Games in 1 - Les Razmoket Rencontrent les Delajungle + SpongeBob SquarePants - SuperSponge", 1]
-		],
-		"2 Games in 1 - Scooby-Doo + Scooby-Doo 2 - Monsters Unleashed": [
-			["2 Games in 1 - Scooby-Doo + Scooby-Doo 2 - Desatado", 1],
-			["2 Games in 1 - Scooby-Doo + Scooby-Doo 2 - Les Monstres Se Dechainent", 1]
-		],
-		"2 Games in 1 - The Lion King + Disney Princess": [
-			["2 Games in 1 - Disney Princesas + El Rey Leon", 1],
-			["2 Games in 1 - Disney Princesse + Le Roi Lion", 1],
-			["2 Games in 1 - Disney Principesse + Il Re Leone", 1],
-			["2 Games in 1 - Disneys Prinzessinnen + Der Koenig der Loewen", 1]
 		],
 		"2 Games in One! - Dr. Mario + Puzzle League": [
 			["2 Games in 1 - Dr. Mario + Puzzle League", 1],
@@ -543,14 +522,14 @@
 			["Game & Watch Gallery Advance", 1],
 			["Game Boy Gallery 4", 1]
 		],
-		"Game Boy Advance Video - Cartoon Network Collection - Platinum Edition": [
-			["Game Boy Advance Video - Cartoon Network Collection - Edition Platinum", 1]
+		"Game Boy Advance Video - Cartoon Network Collection - Platinum Edition (Video)": [
+			["Game Boy Advance Video - Cartoon Network Collection - Edition Platinum (Video)", 1]
 		],
-		"Game Boy Advance Video - Cartoon Network Collection - Premium Edition": [
-			["Game Boy Advance Video - Cartoon Network Collection - Edition Premium", 1]
+		"Game Boy Advance Video - Cartoon Network Collection - Premium Edition (Video)": [
+			["Game Boy Advance Video - Cartoon Network Collection - Edition Premium (Video)", 1]
 		],
-		"Game Boy Advance Video - Cartoon Network Collection - Special Edition": [
-			["Game Boy Advance Video - Cartoon Network Collection - Edition Speciale", 1]
+		"Game Boy Advance Video - Cartoon Network Collection - Special Edition (Video)": [
+			["Game Boy Advance Video - Cartoon Network Collection - Edition Speciale (Video)", 1]
 		],
 		"GameShark GBA": [
 			["Action Replay", 1],
@@ -958,11 +937,6 @@
 			["Pokemon - Saphir-Edition", 1],
 			["Pokemon - Version Saphir", 1],
 			["Pokemon - Versione Zaffiro", 1]
-		],
-		"Pokemon - Slot 2 Distribution (B5DJ)": [
-			["Pokemon - Slot 2 Distribution (B5CJ)", 2],
-			["Pokemon - Slot 2 Distribution (B5BJ)", 3],
-			["Pokemon - Slot 2 Distribution", 4]
 		],
 		"Pokemon Mystery Dungeon - Red Rescue Team": [
 			["Pokemon Fushigi no Dungeon - Aka no Kyuujotai", 1]

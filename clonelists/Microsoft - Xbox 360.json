@@ -3,8 +3,8 @@
 		"name": [
 			"Microsoft - Xbox 360"
 		],
-		"last updated": "25 June 2022",
-		"minimum version": "0.92"
+		"last updated": "24 July 2022",
+		"minimum version": "2.00"
 	},
 
 	"categories": {
@@ -13,6 +13,20 @@
 			"categories": ["Bonus Discs", "Video"]
 		}
 	},
+
+	"mias": [
+		"Forza Motorsport 3 - Ultimate Collection (USA) (Disc 1) (Play Disc)",
+		"Forza Motorsport 3 - Ultimate Collection (USA) (Disc 2) (Content Install Disc)",
+		"Infinite Undiscovery (Asia) (Disc 1)",
+		"Infinite Undiscovery (Asia) (Disc 2)",
+		"Kinect Adventures! (Asia) (En,Zh)",
+		"Metal Gear Solid - HD Edition (Japan)",
+		"NBA Live 06 (Asia) (En,Zh)",
+		"Resident Evil 5 (World) (En,Ja,Fr,De,Es,It) (Beta)",
+		"Rock Band - Metal Track Pack (USA)",
+		"Rock Band 3 (USA) (Rev 1)",
+		"Your Shape - Fitness Evolved (Asia) (En,Zh)"
+	],
 
 	"renames": {
 		"007 - Quantum of Solace": [
@@ -95,27 +109,12 @@
 			["Call of Duty - Advanced Warfare (Disc de Juego)", 1],
 			["Call of Duty - Advanced Warfare (Spieldisc)", 1]
 		],
-		"Call of Duty - Black Ops": [
-			["Call of Duty - Black Ops (Jimakuban)", 1],
-			["Call of Duty - Black Ops (Fukikaeban)", 2]
-		],
-		"Call of Duty - Black Ops II": [
-			["Call of Duty - Black Ops II (Jimakuban)", 1]
-		],
 		"Call of Duty - Ghosts (Disc 1) (Game Disc)": [
-			["Call of Duty - Ghosts (Disc 1) (Disc do Jogo)", 1],
 			["Call of Duty - Ghosts (Disc 1) (Disc de Juego)", 1],
 			["Call of Duty - Ghosts (Disc 1) (Disc di Gioco)", 1],
-			["Call of Duty - Ghosts (Disc 1) (Game Disc) (Fukikaeban)", 1],
+			["Call of Duty - Ghosts (Disc 1) (Disc do Jogo)", 1],
 			["Call of Duty - Ghosts (Disc 1) (Igrovoj)", 1],
 			["Call of Duty - Ghosts (Disc 1) (Spieldisc)", 1]
-		],
-		"Call of Duty - Ghosts (Disc 2) (Install Disc)": [
-			["Call of Duty - Ghosts (Disc 2) (Install Disc) (Fukikaeban)", 1]
-		],
-		"Call of Duty - Modern Warfare 3": [
-			["Call of Duty - Modern Warfare 3 (Jimakuban)", 1],
-			["Call of Duty - Modern Warfare 3 (Fukikaeban)", 1]
 		],
 		"Champion Jockey - G1 Jockey & Gallop Racer": [
 			["Champion Jockey - Gallop Racer & GI Jockey", 1]
@@ -239,6 +238,9 @@
 		"FIFA 14": [
 			["FIFA 14 - World Class Soccer", 1]
 		],
+		"FIFA 19 - Legacy Edition": [
+			["FIFA 19 - Edicao Legacy", 1]
+		],
 		"FIFA Soccer 07": [
 			["FIFA 07", 1]
 		],
@@ -266,9 +268,6 @@
 		"FIFA Soccer 13": [
 			["FIFA 13", 1],
 			["FIFA 13 - World Class Soccer", 1]
-		],
-		"FIFA 19 - Legacy Edition": [
-			["FIFA 19 - Edicao Legacy", 1]
 		],
 		"Final Fantasy XI - Online": [
 			["Final Fantasy XI - Online - Ultimate Collection - Seekers Edition", 0]
@@ -450,7 +449,7 @@
 		"Pure": [
 			["Extreme Racing Pure", 1]
 		],
-		"Resident Evil 6 (Disc 1) (Game)": [
+		"Resident Evil 6 ~ Biohazard 6 (Disc 1) (Game)": [
 			["Resident Evil 6 (Disc 1) (Game Disc)", 1]
 		],
 		"Red Dead Redemption": [
@@ -474,9 +473,6 @@
 		"Saints Row IV": [
 			["Saints Row IV - Game of the Century Edition", 0],
 			["Saints Row IV - Ultra Super Ultimate Deluxe Edition", 0]
-		],
-		"Saints Row IV - Game of the Century Edition": [
-			["Saints Row IV - Ultra Super Ultimate Deluxe Edition", 1]
 		],
 		"Samurai Shodown Sen": [
 			["Samurai Spirits Sen", 1]
@@ -508,8 +504,8 @@
 		"Sniper Elite III": [
 			["Sniper Elite III - Ultimate Edition", 0]
 		],
-		"Sniper Elite V2": [
-			["Sniper Elite V2 - Game of the Year Edition", 0]
+		"Sniper Elite": [
+			["Sniper Elite - Game of the Year Edition", 0]
 		],
 		"Sonic's Ultimate Genesis Collection": [
 			["Sega Mega Drive Ultimate Collection", 1]

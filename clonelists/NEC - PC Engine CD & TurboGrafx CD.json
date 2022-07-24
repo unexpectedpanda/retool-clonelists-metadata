@@ -3,8 +3,8 @@
 		"name": [
 			"NEC - PC Engine CD & TurboGrafx CD"
 		],
-		"last updated": "28 November 2021",
-		"minimum version": "0.89"
+		"last updated": "9 May 2022",
+		"minimum version": "2.00"
 	},
 
 	"overrides": {
@@ -18,12 +18,6 @@
 	},
 
 	"renames": {
-		"Alnam no Kiba - Juuzoku Juuni Shinto Densetsu (FABT)": [
-			["Alnam no Kiba - Juuzoku Juuni Shinto Densetsu (FAAT)", 2]
-		],
-		"Bomberman - Panic Bomber (FABT)": [
-			["Bomberman - Panic Bomber (FAAT)", 2]
-		],
 		"Buster Bros.": [
 			["Pomping World", 1]
 		],
@@ -39,32 +33,17 @@
 		"Exile - Wicked Phenomenon": [
 			["Exile II - Janen no Jishou", 1]
 		],
-		"F1 Circus Special - Pole to Win (FAAT, FACT)": [
-			["F1 Circus Special - Pole to Win (FABT)", 2]
-		],
 		"Gate of Thunder + Bonk's Adventure + Bonk's Revenge": [
-			["Gate of Thunder (FACT, FADT)", 1]
-		],
-		"Ginga Ojousama Densetsu Yuna (FAFT)": [
-			["Ginga Ojousama Densetsu Yuna (FAAT, FABT, FACT)", 2]
-		],
-		"Ginga Ojousama Densetsu Yuna 2 - Eien no Princess (FABT)": [
-			["Ginga Ojousama Densetsu Yuna 2 - Eien no Princess (FAAT)", 2]
+			["Gate of Thunder", 1]
 		],
 		"Godzilla": [
 			["Godzilla Bakutou Retsuden", 1]
-		],
-		"Hyper Wars (SABS)": [
-			["Hyper Wars (SAAS)", 2]
 		],
 		"J. B. Harold Murder Club": [
 			["J. B. Harold Series 1 - Murder Club", 1]
 		],
 		"Jack Nicklaus Turbo Golf": [
 			["Jack Nicklaus' World Tour Golf - 162 Holes", 1]
-		],
-		"Kabuki Ittouryoudan (FABT)": [
-			["Kabuki Ittouryoudan (FAAT)", 2]
 		],
 		"Last Alert": [
 			["Red Alert", 1]
@@ -84,10 +63,6 @@
 		"Riot Zone": [
 			["Ookami-teki Monshou - Crest of Wolf", 1]
 		],
-		"Ryuuko no Ken (FACT)": [
-			["Ryuuko no Ken (FABT)", 2],
-			["Ryuuko no Ken (FAAT)", 3]
-		],
 		"Shadow of the Beast": [
 			["Shadow of the Beast - Mashou no Okite", 1]
 		],
@@ -105,9 +80,6 @@
 		],
 		"SydMead's TerraForming": [
 			["TerraForming", 1]
-		],
-		"Tokimeki Memorial": [
-			["Tokimeki Memorial (FABT)", 1]
 		],
 		"Ys Book I & II": [
 			["Ys I & II", 1]

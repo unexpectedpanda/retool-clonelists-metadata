@@ -1,10 +1,10 @@
 {
 	"description": {
 		"name": [
-			"Sony - PlayStation Portable (Redump)"
+			"Sony - PlayStation Portable"
 		],
-		"last updated": "24 June 2022",
-		"minimum version": "0.92"
+		"last updated": "23 July 2022",
+		"minimum version": "2.00"
 	},
 
 	"categories": {
@@ -33,6 +33,29 @@
 			"categories": ["Educational"]
 		}
 	},
+
+	"mias": [
+		"Bleach - Heat the Soul 7 (Korea)",
+		"Burnout Legends (Asia)",
+		"FIFA 11 (France) (v2.01)",
+		"Go!Explore (France) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)",
+		"Gun Showdown (USA) (Beta)",
+		"Killzone - Liberation (USA) (En,Fr,De,Es,It,Nl,Pt,Ru) (DEV)",
+		"Metal Gear Solid - Portable Ops (Korea)",
+		"MLB 09 - The Show (Asia) (Sample)",
+		"NBA 08 (Asia) (Sample)",
+		"Network Utility Disc Ver. 1.00 (Korea)",
+		"Ratchet & Clank - Size Matters (Asia)",
+		"Retail Sampler No. 3 for PSP (Europe)",
+		"Silhwang Powerful Pro Yagu 2011 (Korea)",
+		"SOCOM - U.S. Navy SEALs - Fireteam Bravo 2 (Korea)",
+		"Stealth feat. WipEout Pure Stealth Edition (Japan)",
+		"Tekken 6 (Asia) (En,Ja,Fr,De,Es,It,Ko,Ru)",
+		"Tekken 6 (Korea) (En,Ja,Fr,De,Es,It,Ko,Ru)",
+		"WipEout Pure (Japan) (En,Ja) (Beta)",
+		"World Soccer Winning Eleven 9 - Ubiquitous Evolution (Korea)",
+		"WRC - FIA World Rally Championship (Europe) (En,Fr,De,Es,It,Pt,No,Fi) (Beta)"
+	],
 
 	"removes": {
 		"2 Games in 1! Archer Maclean's Mercury & Mercury Meltdown": {
@@ -133,15 +156,6 @@
 		],
 		"Darkstalkers Chronicle - The Chaos Tower": [
 			["Vampire Chronicle - The Chaos Tower", 1]
-		],
-		"Dead or Alive - Paradise": [
-			["Dead or Alive - Paradise (ULES-01431)", 1],
-			["Dead or Alive - Paradise (ULES-01416)", 2]
-		],
-		"Demo Disc for PSP Vol. 1 (Demo)": [
-			["Demo Disc for PSP Vol. 1 (UCJB-98302) (Demo)", 1],
-			["Demo Disc for PSP Vol. 1 (UCJB-98303) (Demo)", 1],
-			["Demo Disc for PSP Vol. 1 (UCJB-98306) (Demo)", 1]
 		],
 		"Despicable Me - The Game": [
 			["Despicable Me", 1]
@@ -266,10 +280,8 @@
 			["FIFA World Cup Deutsch Taikai 2006", 1],
 			["Mondiali FIFA 2006", 1]
 		],
-		"Final Fantasy - 20th Anniversary Edition (FW6.00)": [
-			["Final Fantasy", 1],
-			["Final Fantasy - 20th Anniversary Edition", 1],
-			["Final Fantasy - 20th Anniversary Edition (FW3.03)", 2]
+		"Final Fantasy - 20th Anniversary Edition": [
+			["Final Fantasy", 1]
 		],
 		"Final Fantasy II - 20th Anniversary Edition": [
 			["Final Fantasy II", 1]
@@ -363,11 +375,9 @@
 			["Everybody's Golf", 1],
 			["Minna no Golf Portable", 1]
 		],
-		"Hot Shots Golf - Open Tee 2 (FW3.96)": [
+		"Hot Shots Golf - Open Tee 2": [
 			["Everybody's Golf 2", 1],
-			["Hot Shots Golf - Open Tee 2", 1],
-			["Minna no Golf Portable 2", 1],
-			["Hot Shots Golf - Open Tee 2 (FW3.80)", 2]
+			["Minna no Golf Portable 2", 1]
 		],
 		"Hot Shots Tennis - Get a Grip": [
 			["Everybody's Tennis", 1]
@@ -380,9 +390,6 @@
 		],
 		"Iron Man 2": [
 			["Iron Man 2 - The Video Game", 1]
-		],
-		"Jak and Daxter - The Lost Frontier": [
-			["Jak and Daxter - The Lost Frontier (UCES-01378)", 1]
 		],
 		"Jikkyou Powerful Pro Yakyuu 2011": [
 			["Silhwang Powerful Pro Yagu 2011", 1]
@@ -573,9 +580,6 @@
 		"SBK - Superbike World Championship": [
 			["SBK 08 - Superbike World Championship", 1]
 		],
-		"SCEJ PSP Browser (UTST-99281)": [
-			["SCEJ PSP Browser (UTST-99261)", 2]
-		],
 		"Secret Agent Clank": [
 			["Clank & Ratchet - Maruhi Mission Ignition!", 1]
 		],
@@ -613,10 +617,6 @@
 		"SOCOM - U.S. Navy SEALs - Fireteam Bravo 2": [
 			["SOCOM - U.S. Navy SEALs - Fireteam Bravo 2 (Press Disc)", 2]
 		],
-		"SOCOM - U.S. Navy SEALs - Fireteam Bravo 2 (Demo) (UCUS-98692)": [
-			["SOCOM - U.S. Navy SEALs - Fireteam Bravo 2 (Demo) (UCUS-98691)", 2],
-			["SOCOM - U.S. Navy SEALs - Fireteam Bravo 2 (Demo) (UCUS-98677)", 3]
-		],
 		"SOCOM - U.S. Navy SEALs - Fireteam Bravo 3": [
 			["SOCOM - U.S. Navy SEALs Portable", 1]
 		],
@@ -633,7 +633,7 @@
 		"Stealth feat. WipEout Pure Stealth Edition (Demo)": [
 			["Furtif + WipEout Pure (Demo)", 1]
 		],
-		"Storm Lover (Shokai Seisan-ban)":[
+		"Storm Lover (Shokai Seisan-ban)": [
 			["Storm Lover", 2]
 		],
 		"Street Fighter Alpha 3 Max": [

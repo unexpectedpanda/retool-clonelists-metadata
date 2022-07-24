@@ -3,11 +3,18 @@
 		"name": [
 			"NEC - PC-98 series"
 		],
-		"last updated": "22 June 2022",
-		"minimum version": "0.89"
+		"last updated": "9 July 2022",
+		"minimum version": "2.00"
 	},
 
-    "renames": {
+	"mias": [
+		"Angel Night - Yamiyo o Kakeru Tenshi-tachi no Monogatari (Japan)",
+		"Ardor Aeternus - Wasureenu Honoo (Japan)",
+		"Logicool Mouseware 8.2J (Japan) (En,Ja)",
+		"Yatsu no Na wa Diamond - His Name Is Diamond (Japan)"
+	],
+
+	"renames": {
         "Brandish": [
             ["Brandish Renewal", 0]
         ],

@@ -3,8 +3,8 @@
 		"name": [
 			"Sega - Dreamcast"
 		],
-		"last updated": "20 June 2022",
-		"minimum version": "0.92"
+		"last updated": "9 July 2022",
+		"minimum version": "2.00"
 	},
 
 	"categories": {
@@ -54,8 +54,27 @@
 		}
 	},
 
+	"mias": [
+		"Xeno Crisis (Japan) (En,Ja,Fr,De,Es,It,Nl,Pt) (Unl)"
+	],
+
+	"overrides": {
+		"Virtua Striker 2 Ver. 2000.1 (Europe) (Beta)": {
+			"new group": "Virtua Striker 2",
+			"match": "full"
+		},
+		"Virtua Striker 2 Ver. 2000.1 (Europe) (En,Ja,Fr,De,Es)": {
+			"new group": "Virtua Striker 2",
+			"match": "full"
+		},
+		"Virtua Striker 2 Ver. 2000.1 (Japan) (En,Ja,Fr,De,Es)": {
+			"new group": "Virtua Striker 2",
+			"match": "full"
+		}
+	},
+
 	"removes": {
-    	"Pro Yakyuu Team de Asobou! (Japan)": {},
+		"Pro Yakyuu Team de Asobou! (Japan)": {},
 		"Pro Yakyuu Team de Asobou Net! (Japan)": {},
 		"Pro Yakyuu Team o Tsukurou! (Japan)": {}
 	},
@@ -129,9 +148,6 @@
 		"Draconus - Cult of the Wyrm": [
 			["Dragons Blood", 1]
 		],
-		"Dreamkey Version 2.0": [
-			["Dreamkey Versao 2.0", 1]
-		],
 		"Ducati World - Racing Challenge": [
 			["Ducati World", 1]
 		],
@@ -183,11 +199,6 @@
 		"JoJo's Bizarre Adventure": [
 			["Jojo no Kimyou na Bouken - Mirai e no Isan for Matching Service", 1],
 			["Jojo no Kimyou na Bouken - Mirai e no Isan", 2]
-		],
-		"JRA PAT for Dreamcast V50 L10": [
-			["JRA PAT for Dreamcast V40 L12", 2],
-			["JRA PAT for Dreamcast V40 L11", 3],
-			["JRA PAT for Dreamcast V40 L10", 4]
 		],
 		"King of Fighters, The - Evolution": [
 			["King of Fighters '99, The - Evolution", 1]
@@ -390,9 +401,6 @@
 		],
 		"Virtua Athlete 2000": [
 			["Virtua Athlete 2K", 1]
-		],
-		"Virtua Striker 2": [
-			["Virtua Striker 2 Ver. 2000.1", 1]
 		],
 		"Virtua Tennis": [
 			["Power Smash - Sega Professional Tennis", 1],
