@@ -330,240 +330,181 @@
 
 	"default_region_order": {
 		"USA": {
-			"implied_language": "En",
-			"filter_languages": ["English"]
+			"implied_language": "English"
 		},
 		"World": {
-			"implied_language": "En",
-			"filter_languages": ["English"]
+			"implied_language": "English"
 		},
 		"Canada": {
-			"implied_language": "En",
-			"filter_languages": ["English"]
+			"implied_language": "English"
 		},
 		"UK": {
-			"implied_language": "En",
-			"filter_languages": ["English"]
+			"implied_language": "English"
 		},
 		"Australia": {
-			"implied_language": "En",
-			"filter_languages": ["English"]
+			"implied_language": "English"
 		},
 		"New Zealand": {
-			"implied_language": "En",
-			"filter_languages": ["English"]
+			"implied_language": "English"
 		},
 		"Singapore": {
-			"implied_language": "En",
-			"filter_languages": ["English"]
+			"implied_language": "English"
 		},
 		"Ireland": {
-			"implied_language": "En",
-			"filter_languages": ["English"]
+			"implied_language": "English"
 		},
 		"Europe": {
-			"implied_language": "En",
-			"filter_languages": ["English"]
+			"implied_language": "English"
 		},
 		"Japan": {
-			"implied_language": "Ja",
-			"filter_languages": ["Japanese"]
+			"implied_language": "Japanese"
 		},
 		"Asia": {
-			"implied_language": "En",
-			"filter_languages": ["English", "Chinese", "Japanese"]
+			"implied_language": "English"
 		},
 		"Thailand": {
-			"implied_language": "En",
-			"filter_languages": ["English", "Thai"]
+			"implied_language": ""
 		},
 		"Spain": {
-			"implied_language": "Es",
-			"filter_languages": ["Spanish"]
+			"implied_language": "Spanish"
 		},
 		"Mexico": {
-			"implied_language": "Es",
-			"filter_languages": ["Spanish"]
+			"implied_language": "Spanish"
 		},
 		"Argentina": {
-			"implied_language": "Es",
-			"filter_languages": ["Spanish"]
+			"implied_language": "Spanish"
 		},
 		"Latin America": {
-			"implied_language": "Es",
-			"filter_languages": ["Spanish", "Portuguese"]
+			"implied_language": ""
 		},
 		"Brazil": {
-			"implied_language": "Pt",
-			"filter_languages": ["Portuguese"]
+			"implied_language": "Portuguese"
 		},
 		"Portugal": {
-			"implied_language": "Pt",
-			"filter_languages": ["Portuguese"]
+			"implied_language": "Portuguese"
 		},
 		"France": {
-			"implied_language": "Fr",
-			"filter_languages": ["French"]
+			"implied_language": "French"
 		},
 		"Belgium": {
-			"implied_language": "Fr",
-			"filter_languages": ["French"]
+			"implied_language": "French"
 		},
 		"Netherlands": {
-			"implied_language": "Nl",
-			"filter_languages": ["Dutch"]
+			"implied_language": "Dutch"
 		},
 		"Germany": {
-			"implied_language": "De",
-			"filter_languages": ["German"]
+			"implied_language": "German"
 		},
 		"Austria": {
-			"implied_language": "De",
-			"filter_languages": ["German"]
+			"implied_language": "German"
 		},
 		"Italy": {
-			"implied_language": "It",
-			"filter_languages": ["Italian"]
+			"implied_language": "Italian"
 		},
 		"Switzerland": {
-			"implied_language": "German",
-			"filter_languages": ["German", "French", "Italian"]
+			"implied_language": ""
 		},
 		"Hong Kong": {
-			"implied_language": "Zh",
-			"filter_languages": ["Chinese"]
+			"implied_language": "Chinese"
 		},
 		"China": {
-			"implied_language": "Zh",
-			"filter_languages": ["Chinese"]
+			"implied_language": "Chinese"
 		},
 		"Taiwan": {
-			"implied_language": "Zh",
-			"filter_languages": ["Chinese"]
+			"implied_language": "Chinese"
 		},
 		"Korea": {
-			"implied_language": "Ko",
-			"filter_languages": ["Korean"]
+			"implied_language": "Korean"
 		},
 		"Russia": {
-			"implied_language": "Ru",
-			"filter_languages": ["Russian"]
+			"implied_language": "Russian"
 		},
 		"Ukraine": {
-			"implied_language": "Ru",
-			"filter_languages": ["Ukrainian", "Russian"]
+			"implied_language": ""
 		},
 		"Estonia": {
-			"implied_language": "Et",
-			"filter_languages": ["Estonian"]
+			"implied_language": "Estonian"
 		},
 		"Poland": {
-			"implied_language": "Pl",
-			"filter_languages": ["Polish"]
+			"implied_language": "Polish"
 		},
 		"Latvia": {
-			"implied_language": "Lv",
-			"filter_languages": ["Latvian"]
+			"implied_language": "Latvian"
 		},
 		"Lithuania": {
-			"implied_language": "Lt",
-			"filter_languages": ["Lithuanian"]
+			"implied_language": "Lithuanian"
 		},
 		"Denmark": {
-			"implied_language": "Da",
-			"filter_languages": ["Danish"]
+			"implied_language": "Danish"
 		},
 		"Norway": {
-			"implied_language": "No",
-			"filter_languages": ["Norwegian"]
+			"implied_language": "Norwegian"
 		},
 		"Sweden": {
-			"implied_language": "Sv",
-			"filter_languages": ["Swedish"]
+			"implied_language": "Swedish"
 		},
 		"Scandinavia": {
-			"implied_language": "En",
-			"filter_languages": ["English", "Danish", "Norwegian", "Swedish"]
+			"implied_language": ""
 		},
 		"Finland": {
-			"implied_language": "Fi",
-			"filter_languages": ["Finnish"]
+			"implied_language": "Finnish"
 		},
 		"Iceland": {
-			"implied_language": "Is",
-			"filter_languages": ["Icelandic"]
+			"implied_language": "Icelandic"
 		},
 		"Hungary": {
-			"implied_language": "Hu",
-			"filter_languages": ["Hungarian"]
+			"implied_language": "Hungarian"
 		},
 		"Czech": {
-			"implied_language": "Cs",
-			"filter_languages": ["Czech"]
+			"implied_language": "Czech"
 		},
 		"Greece": {
-			"implied_language": "El",
-			"filter_languages": ["Greek"]
+			"implied_language": "Greek"
 		},
 		"Macedonia": {
-			"implied_language": "Mk",
-			"filter_languages": ["Macedonian"]
+			"implied_language": "Macedonian"
 		},
 		"India": {
-			"implied_language": "Hi",
-			"filter_languages": ["Hindi", "Tamil"]
+			"implied_language": "English"
 		},
 		"South Africa": {
-			"implied_language": "",
-			"filter_languages": ["Afrikaans", "English"]
+			"implied_language": ""
 		},
 		"Israel": {
-			"implied_language": "He",
-			"filter_languages": ["Hebrew"]
+			"implied_language": "Hebrew"
 		},
 		"Slovakia": {
-			"implied_language": "Sk",
-			"filter_languages": ["Slovakian"]
+			"implied_language": "Slovakian"
 		},
 		"Turkey": {
-			"implied_language": "Tr",
-			"filter_languages": ["Turkish"]
+			"implied_language": "Turkish"
 		},
 		"Croatia": {
-			"implied_language": "Hr",
-			"filter_languages": ["Croatian"]
+			"implied_language": "Croatian"
 		},
 		"Slovenia": {
-			"implied_language": "Sl",
-			"filter_languages": ["Slovenian"]
+			"implied_language": "Slovenian"
 		},
 		"United Arab Emirates": {
-			"implied_language": "Ar",
-			"filter_languages": ["Arabic"]
+			"implied_language": "Arabic"
 		},
 		"Bulgaria": {
-			"implied_language": "Bg",
-			"filter_languages": ["Bulgarian"]
+			"implied_language": "Bulgarian"
 		},
 		"Romania": {
-			"implied_language": "Ro",
-			"filter_languages": ["Romanian"]
+			"implied_language": "Romanian"
 		},
 		"Albania": {
-			"implied_language": "Sq",
-			"filter_languages": ["Albanian"]
+			"implied_language": "Albanian"
 		},
 		"Serbia": {
-			"implied_language": "Sr",
-			"filter_languages": ["Serbian"]
+			"implied_language": "Serbian"
 		},
 		"Indonesia": {
-			"implied_language": "Id",
-			"filter_languages": ["Indonesian"]
+			"implied_language": "Indonesian"
 		},
 		"Unknown": {
-			"implied_language": "En",
-			"filter_languages": []
+			"implied_language": ""
 		}
 	},
 
