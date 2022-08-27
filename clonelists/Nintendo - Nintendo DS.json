@@ -3,7 +3,7 @@
 		"name": [
 			"Nintendo - Nintendo DS"
 		],
-		"last updated": "30 June 2022",
+		"last updated": "26 August 2022",
 		"minimum version": "0.89"
 	},
 
@@ -40,13 +40,13 @@
 
 	"removes": {
 		"3 Game Pack! - Cradle of Rome + Cradle of Athena + Cradle of Egypt (Europe) (En,Fr,De,Es,It,Nl)": {},
-		"Around the World in 80 Days & Fishdom (Germany) (Fr,De)": {},
 		"Ben 10 - Triple Pack (USA) (En,Fr,De,Es,It)": {},
 		"Ben 10 - Triple Pack (Europe) (En,Fr,De,Es,It)": {},
 		"Jewel Link Double Pack (Europe)": {},
 		"Jewel Match & 4 Elements (Germany) (Fr,De)": {},
 		"Kids Learn & Play - Pets & Vets Bundle (USA)": {},
-		"Nickelodeon Team Umizoomi and Dora's Fantastic Flight (USA)": {}
+		"Nickelodeon Team Umizoomi and Dora's Fantastic Flight (USA)": {},
+		"Um die Welt in 80 Tagen & Fishdom (Germany) (Fr,De)": {}
 	},
 
 	"renames": {
@@ -1638,8 +1638,8 @@
 		"May's Mystery - Forbidden Memories": [
 			["Aventures de May, Les - L'Etrange Disparition", 1],
 			["Geheimnis von Dragonville, Das - May's Mystery", 1],
-			["May's Mysteries - The Secret of Dragonville (Easy Interactive)", 1],
-			["May's Mysteries - The Secret of Dragonville (Mastertronic)", 2]
+			["May's Mysteries - The Secret of Dragonville (B8HP)", 1],
+			["May's Mysteries - The Secret of Dragonville (B8HX)", 2]
 		],
 		"Maya": [
 			["Maja", 1],
@@ -2873,7 +2873,7 @@
 		"Time Hollow": [
 			["Time Hollow - Ubawareta Kako o Motomete", 1]
 		],
-		"Times Crossword Challenge, The": [
+		"Times, The - Crossword Challenge": [
 			["Mots Croises 2", 1]
 		],
 		"Tinker Bell": [
@@ -2987,10 +2987,10 @@
 		"Up": [
 			["Carl Jiisan no Soratobu Ie", 1]
 		],
-		"USA Today Crossword Challenge": [
+		"USA Today - Crossword Challenge": [
 			["Kreuzwortraetsel DS - Welt Edition", 1],
 			["Mots Croises", 1],
-			["Sun Crossword Challenge, The", 1]
+			["Sun, The - Crossword Challenge", 1]
 		],
 		"Valkyrie Profile - Covenant of the Plume": [
 			["Valkyrie Profile - Toga o Seou Mono", 1]

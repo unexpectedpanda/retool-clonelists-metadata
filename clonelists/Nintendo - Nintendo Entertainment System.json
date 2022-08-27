@@ -3,16 +3,20 @@
 		"name": [
 			"Nintendo - Nintendo Entertainment System"
 		],
-		"last updated": "17 July 2022",
+		"last updated": "26 August 2022",
 		"minimum version": "0.92"
 	},
 
 	"categories": {
-		"FamicomBox (Menu Cart)": {
+		"240p Test Suite": {
 			"match": "short",
 			"categories": ["Applications"]
 		},
-		"FamicomStation (Menu Cart)": {
+		"cajoNES (Music Program)": {
+			"match": "short",
+			"categories": ["Applications"]
+		},
+		"cajoNES DELUXE! (Music Program)": {
 			"match": "short",
 			"categories": ["Applications"]
 		},
@@ -69,16 +73,33 @@
 
 	"renames": {
 		"1943 - The Battle of Midway": [
-			["1943 - The Battle of Valhalla", 1]
+			["1943 - The Battle of Valhalla", 1],
+			["1942", 1]
 		],
 		"1991 Du Ma Racing": [
 			["1991 Du Ma Racing (Micro Genius)", 2]
+		],
+		"3-in-1 2p Pak (Sly Dog Studios)": [
+			["3-in-1 2p Pak (Rob Bryant's)", 2],
+			["3-in-1 2p Pak", 3]
 		],
 		"3D Block (Hwang Shinwei)": [
 			["3D Block (RCM Group)", 2]
 		],
 		"4 Nin Uchi Mahjong": [
 			["Zhong Guo Mahjong", 1]
+		],
+		"Action 53 Vol. 3 - Revenge of the Twins (Disk 1)": [
+			["Action 53 Vol. 3 - Revenge of the Twins", 0]
+		],
+		"Action 53 Vol. 3 - Revenge of the Twins (Disk 2)": [
+			["Action 53 Vol. 3 - Revenge of the Twins", 0]
+		],
+		"Arkade Rush": [
+			["Arkade Rush (NESDev 2020)", 2]
+		],
+		"Armed for Battle (Limited Edition)": [
+			["Armed for Battle", 2]
 		],
 		"AV Kyuukyoku Mahjong 2 (Ka Sheng)": [
 			["AV Kyuukyoku Mahjong 2 (Ge De)", 2]
@@ -145,6 +166,9 @@
 		"Athletic World": [
 			["Family Trainer 1 - Athletic World", 1]
 		],
+		"Babel Blox (Sly Dog Studios)": [
+			["Babel Blox (Rob Bryant's)", 2]
+		],
 		"Bad Dudes": [
 			["Bad Dudes vs. Dragon Ninja", 1],
 			["Dragon Ninja", 1]
@@ -206,6 +230,10 @@
 		"Black Bass, The": [
 			["Black Bass II, The", 1]
 		],
+		"Black Box Challenge": [
+			["Black Box Challenge (Rob Bryant's)", 2],
+			["Black Box Challenge (Jeffrey Wittenhagen's)", 3]
+		],
 		"Blaster Master": [
 			["Chou-Wakusei Senki - MetaFight", 1]
 		],
@@ -240,6 +268,9 @@
 		],
 		"Buzz & Waldog": [
 			["Koko Adventure", 1]
+		],
+		"cajoNES (Music Program)": [
+			["cajoNES DELUXE! (Music Program)", 0]
 		],
 		"Caltron - 6 in 1": [
 			["HES 6-Pak - Real Player's Pak", 1]
@@ -314,6 +345,9 @@
 		],
 		"Crayon Shin-chan - Ora to Poi Poi": [
 			["Datach - Crayon Shin-chan - Ora to Poi Poi", 2]
+		],
+		"Crypto": [
+			["Crypto (GGJ 2016)", 2]
 		],
 		"Crystalis": [
 			["God Slayer - Haruka Tenkuu no Sonata", 1]
@@ -523,6 +557,9 @@
 		"Heavy Shreddin'": [
 			["Snowboard Challenge", 1]
 		],
+		"Hey Reset": [
+			["Hey Reset (Byte-Off 2019)", 2]
+		],
 		"Holy Diver": [
 			["Holy Diver (Collector's Edition)", 2]
 		],
@@ -562,11 +599,17 @@
 		"James Bond Jr": [
 			["John Smith - Special Agent", 2]
 		],
+		"Jammin Honey": [
+			["Jammin Honey (NESDev 2017)", 2]
+		],
 		"Joe & Mac": [
 			["Joe & Mac - Caveman Ninja", 1]
 		],
 		"Journey to Silius": [
 			["Rough World", 1]
+		],
+		"Juhannussauna 2016": [
+			["Juhannussauna 2016 (Illegal Pirated Copy Version)", 2]
 		],
 		"Kabuki - Quantum Fighter": [
 			["Jigoku Gokuraku Maru", 1]
@@ -633,6 +676,9 @@
 			["Zelda no Densetsu 1 - The Hyrule Fantasy", 1],
 			["Legend of Zelda, The (Collector's Edition)", 2]
 		],
+		"Leggite Luta Livre (Remastered)": [
+			["Leggite Luta Livre", 2]
+		],
 		"Life Force": [
 			["Life Force - Salamander", 1],
 			["Salamander", 1]
@@ -663,6 +709,9 @@
 		],
 		"M.U.S.C.L.E. - Tag Team Match": [
 			["Kinnikuman - Muscle Tag Match", 1]
+		],
+		"Mad Wizard, The - A Candelabra Chronicle": [
+			["Mad Wizard, The - A Candelabra Chronicle (RetroUSB Cartridge)", 2]
 		],
 		"Mafat Conspiracy, The": [
 			["Golgo 13 - Dainishou - Icarus no Nazo", 1]
@@ -745,8 +794,8 @@
 			["Millipede - Kyodai Konchuu no Gyakushuu", 1]
 		],
 		"Mike Tyson's Punch-Out!!": [
-			["Punch-Out!!", 2],
-			["Punch-Out!! (Gold Edition)", 2]
+			["Punch-Out!! Special", 2],
+			["Punch-Out!!", 3]
 		],
 		"Milon's Secret Castle": [
 			["Meikyuu Kumikyoku - Milon no Daibouken", 1]
@@ -759,6 +808,13 @@
 		],
 		"Mr. Gimmick": [
 			["Gimmick!", 1]
+		],
+		"Mr. Splash (Columbia Version)": [
+			["Mr. Splash (Mondo21 Version)", 2],
+			["Mr. Splash (Omake Books Version)", 3]
+		],
+		"Nebs 'n Debs": [
+			["Nebs 'n Debs (Kaizo)", 2]
 		],
 		"NES Open Tournament Golf": [
 			["Mario Open Golf", 1]
@@ -782,6 +838,9 @@
 		],
 		"Ninja Kid": [
 			["Gegege no Kitarou - Youkai Daimakyou", 1]
+		],
+		"Nintencat - The Parody (Sly Dog Studios)": [
+			["Nintencat - The Parody (Rob Bryant's)", 2]
 		],
 		"Nintendo World Cup": [
 			["Nekketsu Koukou Dodgeball-bu - Soccer Hen", 1]
@@ -838,6 +897,10 @@
 		"Pro Wrestling": [
 			["Pro Wres", 1]
 		],
+		"Project Blue": [
+			["Project Blue (Special Edition)", 0],
+			["Project Blue (NESDev 2017)", 2]
+		],
 		"Pyramid": [
 			["Pyramid - Cleopatra Kikiippatsu", 1]
 		],
@@ -848,8 +911,7 @@
 			["Super Adventure Quests", 1]
 		],
 		"Quattro Sports": [
-			["Super Sports Challenge", 1],
-			["Super Sports Challenge (Plug-Thru Cart)", 2]
+			["Super Sports Challenge - Quattro Sports", 1]
 		],
 		"R.B.I. Baseball": [
 			["Pro Yakyuu - Family Stadium", 1]
@@ -888,12 +950,18 @@
 		"Rock 'n' Ball": [
 			["Family Pinball", 1]
 		],
+		"Rock Paper Scissors Lizard Sbock (Build 9b)": [
+			["Rock Paper Scissors Lizard Sbock (NESDev 2016)", 2]
+		],
 		"Rockin' Kats": [
 			["New York Nyankies", 1]
 		],
 		"Rodland": [
 			["Yousei Monogatari - Rod Land", 1],
 			["Rodland Featuring Rit and Tam", 2]
+		],
+		"ROM City Rampage": [
+			["ROM City Rampage (DX)", 0]
 		],
 		"Romance of the Three Kingdoms": [
 			["Sangokushi", 1]
@@ -919,6 +987,9 @@
 			["Blue Shadow", 1],
 			["Yami no Shigotonin Kage", 1]
 		],
+		"Shadowgate": [
+			["Shadowgate (1988-11)", 2]
+		],
 		"Shatterhand": [
 			["Tokkyuu Shirei Solbrain", 1]
 		],
@@ -930,6 +1001,15 @@
 		],
 		"Silent Assault": [
 			["Tu Ji", 1]
+		],
+		"Sir Ababol": [
+			["Sir Ababol (Remastered)", 0]
+		],
+		"Spacey McRacey": [
+			["Spacey McRacey (NESDev 2016)", 2]
+		],
+		"Split Second": [
+			["Split Second (NESDev 2018)", 2]
 		],
 		"Squashed": [
 			["Ninja Jajamaru - Ginga Daisakusen", 1]
@@ -951,6 +1031,9 @@
 		],
 		"Spot - The Video Game": [
 			["Spot", 1]
+		],
+		"Star Evil": [
+			["Star Evil (NESDev 2017)", 2]
 		],
 		"Star Voyager": [
 			["Cosmo Genesis", 1]
@@ -979,6 +1062,9 @@
 		"Super C": [
 			["Probotector II - Return of the Evil Forces", 1],
 			["Super Contra", 1]
+		],
+		"Super City Mayor": [
+			["Super City Mayor (Global Game Jam 2020)", 2]
 		],
 		"Super Dodge Ball": [
 			["Nekketsu Koukou Dodgeball-bu", 1]
@@ -1105,6 +1191,9 @@
 		],
 		"Twin Cobra": [
 			["Kyuukyoku Tiger", 1]
+		],
+		"Twin Dragons": [
+			["Twin Dragons (Limited Edition)", 0]
 		],
 		"Ufouria - The Saga": [
 			["Hebereke", 1]
