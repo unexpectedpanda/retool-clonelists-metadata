@@ -3,7 +3,7 @@
 		"name": [
 			"Nintendo - Game Boy Advance"
 		],
-		"last updated": "30 June 2022",
+		"last updated": "26 August 2022",
 		"minimum version": "0.92"
 	},
 
@@ -68,7 +68,7 @@
 			"match": "short",
 			"categories": ["Applications"]
 		},
-		"Viewpoint (Unknown) (Techo Demo)": {
+		"Viewpoint (World) (Tech Demo)": {
 			"match": "full",
 			"categories": ["Demos"]
 		},
@@ -543,15 +543,6 @@
 			["Game & Watch Gallery Advance", 1],
 			["Game Boy Gallery 4", 1]
 		],
-		"Game Boy Advance Video - Cartoon Network Collection - Platinum Edition": [
-			["Game Boy Advance Video - Cartoon Network Collection - Edition Platinum", 1]
-		],
-		"Game Boy Advance Video - Cartoon Network Collection - Premium Edition": [
-			["Game Boy Advance Video - Cartoon Network Collection - Edition Premium", 1]
-		],
-		"Game Boy Advance Video - Cartoon Network Collection - Special Edition": [
-			["Game Boy Advance Video - Cartoon Network Collection - Edition Speciale", 1]
-		],
 		"GameShark GBA": [
 			["Action Replay", 1],
 			["Action Replay GBX", 2],
@@ -960,9 +951,7 @@
 			["Pokemon - Versione Zaffiro", 1]
 		],
 		"Pokemon - Slot 2 Distribution (B5DJ)": [
-			["Pokemon - Slot 2 Distribution (B5CJ)", 2],
-			["Pokemon - Slot 2 Distribution (B5BJ)", 3],
-			["Pokemon - Slot 2 Distribution", 4]
+			["Pokemon - Slot 2 Distribution", 2]
 		],
 		"Pokemon Mystery Dungeon - Red Rescue Team": [
 			["Pokemon Fushigi no Dungeon - Aka no Kyuujotai", 1]
@@ -1137,6 +1126,10 @@
 		"Top Gear Rally": [
 			["TG Rally", 2]
 		],
+		"Tremblay Island": [
+			["Tremblay Island (Solid State Version)", 2],
+			["Tremblay Island (Kickstarter Edition)", 3]
+		],
 		"Turok Advance (Dark Version)": [
 			["Turok Advance (Bright Version)", 2],
 			["Turok Advance", 3]
@@ -1194,8 +1187,8 @@
 		"Yggdra Union - We'll Never Fight Alone": [
 			["Yggdra Union", 1]
 		],
-		"Yoshi Sample (SDK 3.0) (Demo)": [
-			["Yoshi Sample (Demo)", 2]
+		"Yoshi Sample (SDK 3.0) (Tech Demo) (Demo)": [
+			["Yoshi Sample (Tech Demo) (Demo)", 2]
 		],
 		"Yoshi Topsy-Turvy": [
 			["Yoshi no Banyuuinryoku", 1],
