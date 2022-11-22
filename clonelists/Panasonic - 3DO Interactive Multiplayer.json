@@ -3,11 +3,15 @@
 		"name": [
 			"Panasonic - 3DO Interactive Multiplayer"
 		],
-		"last updated": "20 March 2022",
+		"last updated": "18 September 2022",
 		"minimum version": "0.92"
 	},
 
 	"categories": {
+		"Crime Patrol (3DO Developer Services)": {
+			"match": "short",
+			"categories": ["Preproduction"]
+		},
 		"Panasonic REAL 3DO Interactive Multiplayer - Sampler CD": {
 			"match": "short",
 			"categories": ["Demos", "Multimedia"]
