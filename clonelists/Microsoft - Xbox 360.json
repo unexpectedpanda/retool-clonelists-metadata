@@ -93,6 +93,7 @@
 		"Call of Duty - Advanced Warfare (Game Disc)": [
 			["Call of Duty - Advanced Warfare (Disc di Gioco)", 1],
 			["Call of Duty - Advanced Warfare (Disc de Juego)", 1],
+			["Call of Duty - Advanced Warfare (Disc do Jogo)", 1],
 			["Call of Duty - Advanced Warfare (Spieldisc)", 1]
 		],
 		"Call of Duty - Black Ops": [
@@ -106,6 +107,8 @@
 			["Call of Duty - Ghosts (Disc 1) (Disc do Jogo)", 1],
 			["Call of Duty - Ghosts (Disc 1) (Disc de Juego)", 1],
 			["Call of Duty - Ghosts (Disc 1) (Disc di Gioco)", 1],
+			["Call of Duty - Ghosts (Disc 1) (Disc de Jeu)", 1],
+			["Call of Duty - Ghosts (Disc 1) (Dysk Z Gra)", 1],
 			["Call of Duty - Ghosts (Disc 1) (Game Disc) (Fukikaeban)", 1],
 			["Call of Duty - Ghosts (Disc 1) (Igrovoj)", 1],
 			["Call of Duty - Ghosts (Disc 1) (Spieldisc)", 1]
@@ -148,6 +151,9 @@
 		"Dead or Alive 5": [
 			["Dead or Alive 5 Ultimate", 1]
 		],
+		"Def Jam - Rapstar": [
+			["Def Jam Rapstar", 1]
+		],
 		"Deus Ex - Human Revolution": [
 			["Deus Ex - Human Revolution - Director's Cut (Disc 1)", 0]
 		],
@@ -160,6 +166,9 @@
 		"Disney Infinity 2.0 Edition": [
 			["Disney Infinity 2.0 - Igra bez Granic", 1],
 			["Disney Infinity 2.0 - Play Without Limits", 1]
+		],
+		"Disney Infinity 3.0 Edition": [
+			["Disney Infinity 3.0 - Play Without Limits", 1]
 		],
 		"Disney-Pixar Up": [
 			["Disney-Pixar Oben", 1]
@@ -214,10 +223,12 @@
 		"Elder Scrolls IV, The - Oblivion": [
 			["Elder Scrolls IV, The - Oblivion - Game of the Year Edition (Disc 1)", 0],
 			["Elder Scrolls IV, The - Oblivion - Game of the Year Edition", 0],
+			["Elder Scrolls IV, The - Oblivion - Edition Jeu de L'Annee (Disc 1)", 0],
 			["Elder Scrolls IV, The - Oblivion - Jubilaeumsausgabe (Disc 1)", 0]
 		],
 		"Elder Scrolls IV, The - Shivering Isles": [
 			["Elder Scrolls IV, The - Oblivion - Game of the Year Edition (Disc 2)", 0],
+			["Elder Scrolls IV, The - Oblivion - Edition Jeu de L'Annee (Disc 2)", 0],
 			["Elder Scrolls IV, The - Oblivion - Jubilaeumsausgabe (Disc 2)", 0]
 		],
 		"Enchanted Arms": [
@@ -267,9 +278,16 @@
 			["FIFA 13", 1],
 			["FIFA 13 - World Class Soccer", 1]
 		],
+		"FIFA 18 - Legacy Edition": [
+			["FIFA 18", 1]
+		],
 		"FIFA 19 - Legacy Edition": [
 			["FIFA 19 - Edicao Legacy", 1],
-			["FIFA 19 - Izdanie Legacy", 1]
+			["FIFA 19 - Izdanie Legacy", 1],
+			["FIFA 19", 1]
+		],
+		"Final Fantasy XI - Adoulin no Makyou": [
+			["Final Fantasy XI - Online - Ultimate Collection - Seekers Edition", 0]
 		],
 		"Final Fantasy XI - Online": [
 			["Final Fantasy XI - Online - Ultimate Collection - Seekers Edition", 0]
@@ -288,6 +306,9 @@
 			["Final Fantasy XI - Altana no Shinpei", 1]
 		],
 		"Final Fantasy XI - Vana'diel Collection": [
+			["Final Fantasy XI - Online - Ultimate Collection - Seekers Edition", 0]
+		],
+		"Final Fantasy XI - Vana'diel Collection 2": [
 			["Final Fantasy XI - Online - Ultimate Collection - Seekers Edition", 0]
 		],
 		"Fist of the North Star - Ken's Rage": [
@@ -309,7 +330,8 @@
 			["Padrino, Il", 1]
 		],
 		"Godfather II, The": [
-			["Pate II, Der", 1]
+			["Pate II, Der", 1],
+			["Parrain 2, Le", 1]
 		],
 		"Halo 3 - ODST (Disc 1) (Campaign)": [
 			["Halo 3 - ODST (Disc 1) (Campanha)", 1],
@@ -331,7 +353,8 @@
 			["Injustice - Gods Among Us - Ultimate Edition", 0]
 		],
 		"James Cameron's Avatar - The Game": [
-			["James Cameron's Avatar The Game", 1]
+			["James Cameron's Avatar The Game", 1],
+			["James Cameron's Avatar - Gra Komputerowa", 1]
 		],
 		"Just Cause": [
 			["Just Cause - Viva Revolution", 1]
@@ -601,6 +624,9 @@
 		],
 		"Zoids Assault": [
 			["Zoids Alternative", 1]
+		],
+		"Zone of the Enders HD Collection": [
+			["Zone of the Enders - HD Edition", 1]
 		]
 	}
 }

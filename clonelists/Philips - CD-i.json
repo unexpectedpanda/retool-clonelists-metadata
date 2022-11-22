@@ -3,7 +3,7 @@
 		"name": [
 			"Philips - CD-i"
 		],
-		"last updated": "26 August 2022",
+		"last updated": "21 November 2022",
 		"minimum version": "0.89"
 	},
 
@@ -110,6 +110,12 @@
 		"Earth Rhythms": [
 			["Earth Rhythms - Daichi no Hibiki", 1]
 		],
+		"Fatal Attraction (Disc 1)": [
+			["Liaison Fatale (Disc 1)", 1]
+		],
+		"Fatal Attraction (Disc 2)": [
+			["Liaison Fatale (Disc 2)", 1]
+		],
 		"Football": [
 			["Futbol", 1],
 			["Voetbal", 1]
@@ -128,6 +134,7 @@
 			["Ghost - Nachricht von Sam (Disc 2)", 1]
 		],
 		"Harvest of the Sun - Van Gogh - Une Moisson de Soleils": [
+			["Cosecha del Sol, La - Vincent van Gogh Revivido", 1],
 			["Ernte der Sonne - Vincent van Gogh", 1],
 			["Great Art Series, The - Taiyou o Karitoru Hito - Harvest of the Sun - Vincent van Gogh", 1],
 			["Harvest of the Sun", 1],
@@ -165,9 +172,6 @@
 		"More Dark Fables from Aesop": [
 			["Fables d'Esope II, Les", 1]
 		],
-		"Mother Goose - Hidden Pictures": [
-			["Mother Goose - Images a Trouver", 1]
-		],
 		"Mozart - A Musical Biography": [
 			["Mozart - Een Muzikale Biografie", 1],
 			["Mozart - La Vita e la Musica", 1],
@@ -183,9 +187,11 @@
 			["Open de Palm Springs, L'", 1]
 		],
 		"Patriot Games (Disc 1)": [
+			["Jeux de Guerre (Disc 1)", 1],
 			["Stunde der Patrioten, Die (Disc 1)", 1]
 		],
 		"Patriot Games (Disc 2)": [
+			["Jeux de Guerre (Disc 2)", 1],
 			["Stunde der Patrioten, Die (Disc 2)", 1]
 		],
 		"Pegasus": [
@@ -197,6 +203,7 @@
 		],
 		"Renaissance of Florence, The": [
 			["Great Art Series, The - Florence Renaissance - Renaissance of Florence, The", 1],
+			["Renacimiento de Florencia, El", 1],
 			["Rinascimento a Firenze, Il", 1],
 			["Renaissance a Florence, La", 1],
 			["Renaissance in Florenz, Die", 1],
@@ -213,7 +220,14 @@
 			["Richard Scarry's Allerwitzigste Geschichten aus Schaffenau", 1],
 			["Ville Surprise de Richard Scarry 2, La", 1]
 		],
+		"Private Lesson Series - Classical Guitar": [
+			["Private Lesson Series - Methode de Guitare Classique", 1]
+		],
+		"Private Lesson Series - Jazz Guitar": [
+			["Jazz - Methode de Guitare", 1]
+		],
 		"Private Lesson Series - Rock Guitar - A Beginner's Guide": [
+			["Methode de Guitare Rock avec Paul Personne", 1],
 			["Rock Gitaar - Handleiding voor Beginners", 1]
 		],
 		"Sandy's Circus Adventure": [
@@ -225,15 +239,18 @@
 			["Scotland Yard Interactif", 1]
 		],
 		"Star Trek VI - The Undiscovered Country (Disc 1)": [
-			["Star Trek VI - Das unentdeckte Land (Disc 1)", 1]
+			["Star Trek VI - Das unentdeckte Land (Disc 1)", 1],
+			["Star Trek VI - Terre Inconnue (Disc 1)", 1]
 		],
 		"Star Trek VI - The Undiscovered Country (Disc 2)": [
-			["Star Trek VI - Das unentdeckte Land (Disc 2)", 1]
+			["Star Trek VI - Das unentdeckte Land (Disc 2)", 1],
+			["Star Trek VI - Terre Inconnue (Disc 2)", 1]
 		],
 		"Stickybear Math": [
 			["Stickybear Maths", 1]
 		],
 		"Story Machine - Magic Tales": [
+			["J'Invente Mes Histoires - Histoires Magiques", 1],
 			["Maquina de Cuentos, La - Cuentos Magicos", 1],
 			["Story Maschine - Maerchenzauber", 1],
 			["Verhalen Toverdoos - Magische Vertellingen", 1]
@@ -284,12 +301,18 @@
 		"Video Speedway - The Ultimate Racing Experience": [
 			["Video Speedway - Grand Prix", 1]
 		],
+		"Visit to the Valley of Puebla and the Amparo Museum, A": [
+			["Museo Amparo", 1]
+		],
 		"Voyeur": [
 			["Voyeur ...Don't Get Caught", 1],
 			["Voyeur ...Lass Dich Nicht Erwischen!", 1]
 		],
 		"Wines of France": [
 			["Vins de France, Les", 1]
+		],
+		"World of Impressionism, The": [
+			["Paris Belle Epoque", 1]
 		],
 		"Zelda - The Wand of Gamelon": [
 			["Zelda - De Toverstaf van Gamelon", 1],
