@@ -23,7 +23,7 @@
         "\\s?\\(Prerelease\\)",
         "\\s?\\(DEBUG\\)",
         "\\s?\\(DEV\\)",
-		"\\s?\\(Export\\)",
+        "\\s?\\(Export\\)",
         "\\s?\\(Pre-Production\\)",
         "\\s?\\(Review (Code|Kit [0-9]+)\\)",
         "\\s?\\(Alt.*?\\)",
