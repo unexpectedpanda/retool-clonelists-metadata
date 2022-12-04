@@ -3,30 +3,120 @@
 		"name": [
 			"Retool test"
 		],
-		"last updated": "17 January 2022",
+		"last updated": "24 September 2022",
 		"minimum version": "2.00.0"
 	},
 
+	"mias": [
+		"Test Title Let's Do It Again (USA, Brazil)"
+	],
+
 	"renames": {
-        "Another Test Title": [
-            ["Another Test Title Again", 1]
-        ],
-        "Original Test Title (Disc 1)": [
-            ["Special Original Test Title (Disc 1)", 0],
-            ["Slightly Less Special Original Test Title (Disc 1)", 0]
-        ],
-        "Original Test Title (Disc 2)": [
-            ["Special Original Test Title (Disc 2)", 0],
-            ["Slightly Less Special Original Test Title (Disc 2)", 0]
-        ],
-        "Test Title for Some Reason Rereleased With a Different Name But is Updated": [
-            ["Test Title - Super Mega Ultra Plus Edition", 0],
-            ["Test Title - Definitely Has More Than Plus Edition", 0],
-            ["Test Title - Plus Plus Edition", 0],
-            ["Test Title - Plus Edition", 0],
-            ["Test Title That Matches the Rerelease in USA", 1],
-            ["Test Title", 2],
-            ["Test Title Renamed", 2]
-        ]
-    }
+		"Another Test Title": [
+			{"title": "Another Test Title"},
+			{"title": "Another Test Title Again"}
+		],
+		"Original Test Title (Disc 1)": [
+			{"title": "Original Test Title (Disc 1)"},
+			{"superset": "Special Original Test Title (Disc 1)", "priority": 1},
+			{"superset": "Slightly Less Special Original Test Title (Disc 1)", "priority": 2}
+		],
+		"Original Test Title (Disc 2)": [
+			{"title": "Original Test Title (Disc 2)"},
+			{"superset": "Special Original Test Title (Disc 2)", "priority": 1},
+			{"superset": "Slightly Less Special Original Test Title (Disc 2)", "priority": 2}
+		],
+		"Test Title for Some Reason Rereleased With a Different Name But is Updated": [
+			{"title": "Test Title for Some Reason Rereleased With a Different Name But is Updated"},
+			{"title": "Test Title That Matches the Rerelease in USA"},
+			{"title": "Test Title", "priority": 2},
+			{"title": "Test Title Renamed", "priority": 2},
+			{"superset": "Test Title - Super Mega Ultra Plus Edition", "priority": 1},
+			{"superset": "Test Title - Definitely Has More Than Plus Edition", "priority": 2},
+			{"superset": "Test Title - Plus Plus Edition", "priority": 3},
+			{"superset": "Test Title - Plus Edition", "priority": 4}
+		],
+		"Title A": [
+			{"title": "Title A"},
+			{"compilation": "Title A + Title B", "title_position": 1},
+			{"compilation": "Title A + Title D", "title_position": 1}
+		],
+		"Title B": [
+			{"compilation": "Title A + Title B", "title_position": 2},
+			{"compilation": "Title B + Title C", "title_position": 1}
+		],
+		"Title C": [
+			{"title": "Title C"},
+			{"compilation": "Title B + Title C", "title_position": 2}
+		],
+		"Title D": [
+			{"title": "Title D"},
+			{"compilation": "Title A + Title D", "title_position": 2}
+		],
+		"Title E": [
+			{"title": "Title E"},
+			{"compilation": "2 Games in 1 - Title E I & II", "title_position": 1}
+		],
+		"Title E II": [
+			{"title": "Title E II"},
+			{"title": "Title E II International"},
+			{"compilation": "2 Games in 1 - Title E I & II", "title_position": 2}
+		],
+		"Title F": [
+			{"title": "Title F"},
+			{"compilation": "Title F + Title H", "title_position": 1}
+		],
+		"Title G": [
+			{"title": "Title G"},
+			{"compilation": "Title G + Title H", "title_position": 1}
+		],
+		"Title H": [
+			{"compilation": "Title F + Title H", "title_position": 2},
+			{"compilation": "Title G + Title H", "title_position": 2}
+		],
+		"Title I": [
+			{"title": "Title I"},
+			{"compilation": "Title I + Title M", "title_position": 1}
+		],
+		"Title J": [
+			{"title": "Title J"},
+			{"compilation": "Title J + Title K", "title_position": 1},
+			{"compilation": "Title J + Title K + Title L", "title_position": 1}
+		],
+		"Title K": [
+			{"title": "Title K"},
+			{"compilation": "Title J + Title K", "title_position": 2},
+			{"compilation": "Title J + Title K + Title L", "title_position": 2}
+		],
+		"Title L": [
+			{"title": "Title L"},
+			{"compilation": "Title J + Title K + Title L", "title_position": 3},
+			{"compilation": "Title L + Title M", "title_position": 1}
+		],
+		"Title M": [
+			{"title": "Title M"},
+			{"compilation": "Title I + Title M", "title_position": 2},
+			{"compilation": "Title L + Title M", "title_position": 2}
+		],
+		"Title N (Disc 1)": [
+			{"title": "Title N (Disc 1) (Super Edition)"},
+			{"title": "Title N (Disc 1)", "priority": 2},
+			{"compilation": "Every Title All At Once"}
+		],
+		"Title N (Disc 2)": [
+			{"title": "Title N (Disc 2) (Super Edition)"},
+			{"title": "Title N (Disc 2)", "priority": 2},
+			{"compilation": "Every Title All At Once"}
+		],
+		"Title O (Disc 1)": [
+			{"title": "Title O (Disc 1) (Chartreuse Edition)"},
+			{"title": "Title O (Disc 1)", "priority": 2},
+			{"compilation": "Every Title All At Once"}
+		],
+		"Title O (Disc 2)": [
+			{"title": "Title O (Disc 2) (Chartreuse Edition)"},
+			{"title": "Title O (Disc 2)", "priority": 2},
+			{"compilation": "Every Title All At Once"}
+		]
+	}
 }

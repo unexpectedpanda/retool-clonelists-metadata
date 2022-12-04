@@ -1,0 +1,289 @@
+{
+	"description": {
+		"name": [
+			"Sega - Master System - Mark III"
+		],
+		"last updated": "30 June 2022",
+		"minimum version": "2.00"
+	},
+
+	"categories": {
+		"Color & Switch Test": {
+			"match": "short",
+			"categories": ["Applications", "Preproduction"]
+		},
+		"Sega Graphic Board": {
+			"match": "short",
+			"categories": ["Applications", "Preproduction"]
+		}
+	},
+
+	"overrides": {
+		"Great Baseball (Japan)": {
+			"new group": "Great Baseball (Japan)",
+			"match": "full"
+		},
+		"Great Golf (World) (Beta)": {
+			"new group": "Great Golf ~ Masters Golf",
+			"match": "full"
+		}
+	},
+
+	"renames": {
+		"Alex Kidd - High-Tech World": [
+			{"title": "Alex Kidd - High-Tech World"},
+			{"title": "Anmitsu Hime"}
+		],
+		"Alex Kidd in Miracle World": [
+			{"title": "Alex Kidd in Miracle World"},
+			{"title": "Alex Kido"},
+			{"title": "Alex Kidd no Miracle World"}
+		],
+		"Argos no Juujiken": [
+			{"title": "Argos no Juujiken"},
+			{"title": "Alocos"}
+		],
+		"Astro Warrior": [
+			{"title": "Astro Warrior"},
+			{"compilation": "Astro Warrior & Pit Pot", "title_position": 1},
+			{"compilation": "Hang On & Astro Warrior", "title_position": 2}
+		],
+		"Black Belt": [
+			{"title": "Black Belt"},
+			{"title": "Hokuto no Ken"},
+			{"title": "Northen Ken"}
+		],
+		"Blade Eagle 3-D": [
+			{"title": "Blade Eagle 3-D"},
+			{"title": "Blade Eagle"}
+		],
+		"Bubble Bobble": [
+			{"title": "Bubble Bobble"},
+			{"title": "Bubble Bobble"},
+			{"title": "Final Bubble Bobble"}
+		],
+		"California Games II": [
+			{"title": "California Games II"},
+			{"title": "Jogos de Verao II"}
+		],
+		"Cyborg Hunter": [
+			{"title": "Cyborg Hunter"},
+			{"title": "Chouon Senshi Borgman"}
+		],
+		"Dinosaur Dooley, The": [
+			{"title": "Dinosaur Dooley, The"},
+			{"title": "Agigongnyong Dooly", "priority": 2}
+		],
+		"F-16 Fighter": [
+			{"title": "F-16 Fighter"},
+			{"title": "F-16 Fighting Falcon", "priority": 2}
+		],
+		"Fantasy Zone - The Maze": [
+			{"title": "Fantasy Zone - The Maze"},
+			{"title": "Opa Opa"}
+		],
+		"Fantasy Zone II": [
+			{"title": "Fantasy Zone II"},
+			{"title": "Fantasy Zone II - Opa-Opa no Namida"}
+		],
+		"Ghost House": [
+			{"title": "Ghost House"},
+			{"title": "Yuyryeong-ui Jip"}
+		],
+		"Global Defense": [
+			{"title": "Global Defense"},
+			{"title": "SDI"}
+		],
+		"Golfamania": [
+			{"title": "Golfamania"},
+			{"title": "Super Golf", "priority": 2}
+		],
+		"Golvellius - Valley of Doom": [
+			{"title": "Golvellius - Valley of Doom"},
+			{"title": "Maou Golvellius"}
+		],
+		"Great Basketball": [
+			{"title": "Great Basketball"},
+			{"title": "94-Nen Super Basketball"}
+		],
+		"Hang On": [
+			{"title": "Hang On"},
+			{"compilation": "Hang On & Astro Warrior", "title_position": 1},
+			{"compilation": "Hang On & Safari Hunt", "title_position": 1}
+		],
+		"James 'Buster' Douglas Knockout Boxing": [
+			{"title": "James 'Buster' Douglas Knockout Boxing"},
+			{"title": "George Foreman's KO Boxing"},
+			{"title": "Heavyweight Champ", "priority": 2}
+		],
+		"Kenseiden": [
+			{"title": "Kenseiden"},
+			{"title": "Hwarang-ui Geom"}
+		],
+		"Kung Fu Kid": [
+			{"title": "Kung Fu Kid"},
+			{"title": "Makai Retsuden"}
+		],
+		"Lord of the Sword": [
+			{"title": "Lord of the Sword"},
+			{"title": "Lord of Sword"}
+		],
+		"Marksman Shooting": [
+			{"compilation": "Marksman Shooting & Trap Shooting", "title_position": 1},
+			{"compilation": "Marksman Shooting & Trap Shooting & Safari Hunt", "title_position": 1}
+		],
+		"Master of Darkness": [
+			{"title": "Master of Darkness"},
+			{"title": "Vampire", "priority": 2}
+		],
+		"Maze Hunter 3-D": [
+			{"title": "Maze Hunter 3-D"},
+			{"title": "Maze Walker"}
+		],
+		"Miracle Warriors - Seal of the Dark Lord": [
+			{"title": "Miracle Warriors - Seal of the Dark Lord"},
+			{"title": "Haja no Fuuin"}
+		],
+		"Missile Defense 3-D": [
+			{"title": "Missile Defense 3-D"}
+		],
+		"My Hero": [
+			{"title": "My Hero"},
+			{"title": "Action Boy"},
+			{"title": "Seishun Scandal"},
+			{"title": "Ttoriui Moheom"}
+		],
+		"Ninja, The": [
+			{"title": "Ninja, The"},
+			{"title": "Ninja"}
+		],
+		"Paperboy": [
+			{"title": "Paperboy"},
+			{"title": "Paper Boy"}
+		],
+		"Parlour Games": [
+			{"title": "Parlour Games"},
+			{"title": "Family Games"}
+		],
+		"Penguin Land": [
+			{"title": "Penguin Land"},
+			{"title": "Astro Adventure"},
+			{"title": "Doki Doki Penguin Land - Uchuu Daibouken"}
+		],
+		"Pit Pot": [
+			{"title": "Fushigi no Oshiro Pit Pot"},
+			{"compilation": "Astro Warrior & Pit Pot", "title_position": 2}
+		],
+		"Power Strike": [
+			{"title": "Power Strike"},
+			{"title": "Aleste"}
+		],
+		"Pro Wrestling": [
+			{"title": "Pro Wrestling"},
+			{"title": "Gokuaku Doumei Dump Matsumoto"}
+		],
+		"Quartet": [
+			{"title": "Quartet"},
+			{"title": "Double Target - Cynthia no Nemuri"}
+		],
+		"Rambo - First Blood Part II": [
+			{"title": "Rambo - First Blood Part II"},
+			{"title": "Ashura"},
+			{"title": "Secret Command"},
+			{"title": "Shangwei Mingling"}
+		],
+		"Reggie Jackson Baseball": [
+			{"title": "Reggie Jackson Baseball"},
+			{"title": "American Baseball"}
+		],
+		"Safari Hunt": [
+			{"compilation": "Hang On & Safari Hunt", "title_position": 2},
+			{"compilation": "Marksman Shooting & Trap Shooting & Safari Hunt", "title_position": 3}
+		],
+		"Shadow Dancer - The Secret of Shinobi": [
+			{"title": "Shadow Dancer - The Secret of Shinobi"},
+			{"title": "Shadow Dancer"}
+		],
+		"Sky Jaguar": [
+			{"title": "Sky Jaguar"},
+			{"title": "Sky Jaguar (Clover)", "priority": 2}
+		],
+		"Slap Shot": [
+			{"title": "Slap Shot"},
+			{"title": "Slap Shoot", "priority": 2}
+		],
+		"Sonic The Hedgehog": [
+			{"title": "Sonic The Hedgehog"}
+		],
+		"Space Harrier 3-D": [
+			{"title": "Space Harrier 3-D"},
+			{"title": "Space Harrier 3D"}
+		],
+		"SpellCaster": [
+			{"title": "SpellCaster"},
+			{"title": "Kujaku Ou"}
+		],
+		"Strider": [
+			{"title": "Strider"},
+			{"title": "Strider, The"}
+		],
+		"Super Tennis": [
+			{"title": "Super Tennis"},
+			{"title": "Great Tennis"}
+		],
+		"Tecmo World Cup '93": [
+			{"title": "Tecmo World Cup '93"},
+			{"title": "Tecmo World Cup '92", "priority": 2}
+		],
+		"Teddy Boy": [
+			{"title": "Teddy Boy"},
+			{"title": "Teddy Boy Blues"},
+			{"title": "Teddy Boy Blues (Ep-MyCard)", "priority": 2}
+		],
+		"Tom and Jerry - The Movie": [
+			{"title": "Tom and Jerry - The Movie"},
+			{"title": "Tom & Jerry", "priority": 2}
+		],
+		"TransBot": [
+			{"title": "TransBot"},
+			{"title": "Astro Flash"}
+		],
+		"Trap Shooting": [
+			{"compilation": "Marksman Shooting & Trap Shooting", "title_position": 2},
+			{"compilation": "Marksman Shooting & Trap Shooting & Safari Hunt", "title_position": 2}
+		],
+		"Walter Payton Football": [
+			{"title": "Walter Payton Football"},
+			{"title": "American Pro Football"}
+		],
+		"Wonder Boy III - The Dragon's Trap": [
+			{"title": "Wonder Boy III - The Dragon's Trap"},
+			{"title": "Turma da Monica em O Resgate"}
+		],
+		"Wonder Boy in Monster Land": [
+			{"title": "Wonder Boy in Monster Land"},
+			{"title": "Monica no Castelo do Dragao"},
+			{"title": "Super Wonder Boy - Monster World"}
+		],
+		"Woody Pop - Shinjinrui no Block Kuzushi": [
+			{"title": "Woody Pop - Shinjinrui no Block Kuzushi"},
+			{"title": "Super Arkanoid"}
+		],
+		"World Cup Italia '90": [
+			{"title": "World Cup Italia '90"},
+			{"title": "Super Futebol II", "priority": 2}
+		],
+		"World Grand Prix": [
+			{"title": "World Grand Prix"},
+			{"title": "Circuit, The"}
+		],
+		"World Soccer": [
+			{"title": "World Soccer"},
+			{"title": "Sports Pad Soccer"}
+		],
+		"Ys - The Vanished Omens": [
+			{"title": "Ys - The Vanished Omens"},
+			{"title": "Ys"}
+		]
+	}
+}

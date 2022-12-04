@@ -1,0 +1,27 @@
+{
+	"description": {
+		"name": [
+			"Atari - 5200"
+		],
+		"last updated": "22 October 2021",
+		"minimum version": "2.00"
+	},
+
+	"categories": {
+		"Atari PAM.*": {
+			"match": "regex",
+			"categories": ["Applications"]
+		}
+	},
+
+	"renames": {
+		"Rescue on Fractalus!": [
+			{"title": "Rescue on Fractalus!"},
+			{"title": "Behind Jaggi Lines!", "priority": 2}
+		],
+		"Super Pac-Man": [
+			{"title": "Super Pac-Man"},
+			{"title": "Super Pacman", "priority": 2}
+		]
+	}
+}

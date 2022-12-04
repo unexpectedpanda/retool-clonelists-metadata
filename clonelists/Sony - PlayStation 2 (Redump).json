@@ -1,0 +1,4381 @@
+{
+	"description": {
+		"name": [
+			"Sony - PlayStation 2 (Redump)"
+		],
+		"last updated": "25 July 2022",
+		"minimum version": "2.00"
+	},
+
+	"categories": {
+		"Arc the Lad - Jeongryeongui Hwanghon - Premiere Disc (Korea)": {
+			"match": "full",
+			"categories": ["Promo", "Video"]
+		},
+		"Jak and Daxter Complete Trilogy": {
+			"match": "short",
+			"categories": ["Video"]
+		},
+		"Konami Kids Playground -.*": {
+			"match": "regex",
+			"categories": ["Educational, Games"]
+		}
+	},
+
+	"mias": [
+		"Armored Core - Last Raven (Japan) (Champion Tokubetsu-ban)",
+		"Castlevania (Japan) (En,Ja) (Genteiban)",
+		"Code Geass - Hangyaku no Lelouch - Lost Colors (Japan) (v2.00)",
+		"Fire Pro Wrestling Z (Japan) (Toujien Doukon Box Saishuu-ban)",
+		"Gran Turismo - Subaru Driving Simulator Version (Japan)",
+		"Gran Turismo 3 - A-Spec - Autobacs Tentou Shiyuu Disc (Japan)",
+		"Grandia Xtreme (Japan) (Limited Box)",
+		"Hanjuku Hero 4 - 7-nin no Hanjuku Hero (Japan) (Ginga Hanjuku Bentou)",
+		"Idol Janshi Suchie-Pai IV (Japan) (Collector's Edition)",
+		"Karat PS2-you Pro Action Replay 2 (Japan) (Unl) (Version 2.23)",
+		"LEGO Super Soccer Adventure (Europe) (Proto)",
+		"Netchuu! Pro Yakyuu 2002 (Japan) (v2.01)",
+		"Nickelodeon SpongeBob SquarePants - Revenge of the Flying Dutchman (USA) (Beta)",
+		"Ougon Kishi Garo (Japan) (Genteiban)",
+		"Pachi Para 12 - Ooumi to Natsu no Omoide (Japan) (v2.01)",
+		"Phase of Combat - Sentou Kokka Kai Legend (Japan) (Tokusou-ban)",
+		"Ponkotsu Roman Daikatsugeki - Bumpy Trot (Japan) (v2.00)",
+		"Pop'n Music 10 (Japan) (Controller Set)",
+		"Pro Yakyuu Spirits 5 (Japan) (v2.00)",
+		"Sega Ages 2500 Series Vol. 22 - Advanced Daisenryaku - Deutsch Dengeki Sakusen (Japan) (v3.00)",
+		"Simple 2000 Series - The Daemiin (Korea)",
+		"SingStar '80s (Sweden) (v1.00)",
+		"Soulcalibur III (Japan) (Taikenban Special Disk)",
+		"Taito Memories - Joukan (Japan) (Eternal Hits)",
+		"Time Crisis 3 (Japan) (With GunCon2)",
+		"Uchuu Senkan Yamato - Ankoku Seidan Teikoku no Gyakushuu (Japan)",
+		"Wizardry Empire III - Haou no Keifu (Japan) (Good Price - Suuryou Genteiban)",
+		"Zeonic Front - Kidou Senshi Gundam 0079 (Japan) (Tokubetsu-ban)",
+		"ef - A Fairy Tale of the Two. (Japan)"
+	],
+
+	"overrides": {
+		"Micro Machines V4 \\((USA|Europe)\\)(.*?)": {
+			"new group": "Micro Machines V4",
+			"match": "regex"
+		},
+		"MLB 2003 (Japan)": {
+			"new group": "MLB 2004",
+			"match": "tag free"
+		},
+		"MLB 2004 (Japan)": {
+			"new group": "MLB 2005",
+			"match": "tag free"
+		},
+		"NBA Street V3 \\((USA|Europe|Japan|Korea)\\)(.*)?": {
+			"new group": "NBA Street V3",
+			"match": "regex"
+		}
+	},
+
+	"renames": {
+		"007 - From Russia with Love": [
+			{"title": "007 - From Russia with Love"},
+			{"title": "007 - Russia yori Ai o Komete"}
+		],
+		"007 - Quantum of Solace": [
+			{"title": "007 - Quantum of Solace"},
+			{"title": "007 - Nagusame no Houshuu"}
+		],
+		"10.000 Bullets": [
+			{"title": "10.000 Bullets"},
+			{"title": "Tsukiyo ni Saraba"}
+		],
+		"1945 I & II": [
+			{"title": "1945 I & II"},
+			{"title": "Psikyo Shooting Collection Vol. 1 - Strikers 1945 I & II"},
+			{"title": "Strikers 1945 I & II"}
+		],
+		"3-nen B-gumi Kinpachi Sensei - Densetsu no Kyoudan ni Tate!": [
+			{"title": "3-nen B-gumi Kinpachi Sensei - Densetsu no Kyoudan ni Tate!"},
+			{"superset": "3-nen B-gumi Kinpachi Sensei - Densetsu no Kyoudan ni Tate! Kanzenban"}
+		],
+		"A-Train 6": [
+			{"title": "A-Train 6"},
+			{"title": "A6 - A Ressha de Ikou 6"}
+		],
+		"AC-DC Live - Rock Band Track Pack": [
+			{"title": "AC-DC Live - Rock Band Track Pack"},
+			{"title": "AC-DC Live - Rock Band"}
+		],
+		"Ace Combat 04 - Shattered Skies": [
+			{"title": "Ace Combat 04 - Shattered Skies"},
+			{"title": "Ace Combat - Distant Thunder"}
+		],
+		"Ace Combat 5 - The Unsung War": [
+			{"title": "Ace Combat 5 - The Unsung War"},
+			{"title": "Ace Combat - Squadron Leader"}
+		],
+		"Ace Combat Zero - The Belkan War": [
+			{"title": "Ace Combat Zero - The Belkan War"},
+			{"title": "Ace Combat - The Belkan War"}
+		],
+		"Aces of War": [
+			{"title": "Aces of War"},
+			{"title": "Reishiki Kanjou Sentouki"}
+		],
+		"Action Replay 2 (Disc 1)": [
+			{"title": "Action Replay 2 (Disc 1)"},
+			{"title": "Action Replay 2 (Disc 1) (German Edition)"}
+		],
+		"Action Replay Ultimate Codes for Use with Grand Theft Auto - Vice City": [
+			{"title": "Action Replay Ultimate Codes for Use with Grand Theft Auto - Vice City"},
+			{"title": "CD avec les Codes Action Replay Exclusivement pour les Jeux Grand Theft Auto III et Grand Theft Auto - Vice City"}
+		],
+		"Action Replay Ultimate Codes for Use with Lara Croft Tomb Raider - The Angel of Darkness": [
+			{"title": "Action Replay Ultimate Codes for Use with Lara Croft Tomb Raider - The Angel of Darkness"},
+			{"title": "CD avec les Codes Action Replay Exclusivement pour le Jeu Lara Croft Tomb Raider - The Angel of Darkness"},
+			{"title": "Ultimate Cheats fuer Lara Croft Tomb Raider - The Angel of Darkness"}
+		],
+		"Action Replay Ultimate Codes for Use with True Crime - Streets of LA": [
+			{"title": "Action Replay Ultimate Codes for Use with True Crime - Streets of LA"},
+			{"title": "CD avec les Codes Action Replay Exclusivement pour le Jeu True Crime - Streets of LA"}
+		],
+		"Adventures of Cookie & Cream, The": [
+			{"title": "Adventures of Cookie & Cream, The"},
+			{"title": "Kuri Kuri Mix"}
+		],
+		"Adiboo and the Energy Thieves": [
+			{"title": "Adiboo and the Energy Thieves"},
+			{"title": "Energy Thieves, The"}
+		],
+		"Adventures of Darwin, The": [
+			{"title": "Adventures of Darwin, The"},
+			{"title": "Darwin"},
+			{"title": "Simple 2000 Series Vol. 99 - The Genshijin"}
+		],
+		"Aero Elite - Combat Academy": [
+			{"title": "Aero Elite - Combat Academy"},
+			{"title": "Aero Dancing 4 - New Generation"}
+		],
+		"AFL Live 2004": [
+			{"title": "AFL Live 2004"},
+			{"title": "AFL Live 2004 - Aussie Rules Football"}
+		],
+		"Ai yori Aoshi": [
+			{"title": "Ai yori Aoshi"},
+			{"title": "SuperLite 2000 Vol. 32 - Ai yori Aoshi"}
+		],
+		"Air Ranger 2 - Rescue Helicopter": [
+			{"title": "Air Ranger 2 - Rescue Helicopter"},
+			{"superset": "Air Ranger 2 Plus - Rescue Helicopter"}
+		],
+		"AirForce Delta Strike": [
+			{"title": "AirForce Delta Strike"},
+			{"title": "AirForce Delta - Blue Wing Knights"},
+			{"title": "Deadly Skies III"}
+		],
+		"Alarm for Cobra 11 - Vol. II": [
+			{"title": "Alarm for Cobra 11 - Vol. II"},
+			{"title": "Alarm for Cobra 11 Vol. 2 - Hot Pursuit"}
+		],
+		"Alex Ferguson's Player Manager 2001": [
+			{"title": "Alex Ferguson's Player Manager 2001"},
+			{"title": "DSF Fussball Manager 2002"},
+			{"title": "Guy Roux Manager 2002"}
+		],
+		"Alfa Romeo Racing Italiano": [
+			{"title": "Alfa Romeo Racing Italiano"},
+			{"title": "SCAR - Squadra Corse Alfa Romeo"}
+		],
+		"All-Star Fighters": [
+			{"title": "All-Star Fighters"},
+			{"title": "Simple 2000 Series Vol. 91 - The All Star Kakutousai"}
+		],
+		"Alpine Racer 3": [
+			{"title": "Alpine Racer 3"},
+			{"title": "Downhill Racer"}
+		],
+		"Altered Beast": [
+			{"title": "Altered Beast"},
+			{"title": "Juuouki - Project Altered Beast"},
+			{"title": "Shouwangji - Project Altered Beast"}
+		],
+		"Amagoushi no Yakata": [
+			{"title": "Amagoushi no Yakata"},
+			{"title": "Amagoushi no Yakata - Ichiyanagi Nagomu, Saisho no Junan", "priority": 2}
+		],
+		"American Idol": [
+			{"title": "American Idol"},
+			{"title": "Pop Idol"},
+			{"title": "Deutschland sucht den SuperStar"}
+		],
+		"AMF Xtreme Bowling": [
+			{"title": "AMF Xtreme Bowling"},
+			{"title": "AMF Xtreme Bowling 2006"}
+		],
+		"Angelique Etoile (Premium Box)": [
+			{"title": "Angelique Etoile (Premium Box)"},
+			{"title": "Angelique Etoile", "priority": 2}
+		],
+		"Angelique Trois (Premium Box)": [
+			{"title": "Angelique Trois (Premium Box)"},
+			{"title": "Angelique Trois", "priority": 2}
+		],
+		"Another Century's Episode 2": [
+			{"title": "Another Century's Episode 2"},
+			{"superset": "Another Century's Episode 2 - Special Vocal Version"}
+		],
+		"Ape Escape - Pumped & Primed": [
+			{"title": "Ape Escape - Pumped & Primed"},
+			{"title": "Gacha Mecha Stadium - Saru Battle"},
+			{"title": "Shenqi Jiqi Jingjichang - Bibohou Zhongji Rezhan"}
+		],
+		"Ape Escape 2": [
+			{"title": "Ape Escape 2"},
+			{"title": "Saru! Get You! 2"}
+		],
+		"Ape Escape 3": [
+			{"title": "Ape Escape 3"},
+			{"title": "Saru! Get You! 3"},
+			{"title": "Zhuo Hou La 3"}
+		],
+		"Aqua Aqua": [
+			{"title": "Aqua Aqua"},
+			{"title": "Aqua Aqua - Wetrix 2"},
+			{"title": "Aquaqua"}
+		],
+		"Ar tonelico - Melody of Elemia": [
+			{"title": "Ar tonelico - Melody of Elemia"},
+			{"title": "Ar tonelico - Sekai no Owari de Utai Tsuzukeru Shoujo"}
+		],
+		"Ar tonelico II - Melody of Metafalica": [
+			{"title": "Ar tonelico II - Melody of Metafalica"},
+			{"title": "Ar tonelico II - Sekai ni Hibiku Shoujo-tachi no Metafalica"}
+		],
+		"Arc the Lad - End of Darkness": [
+			{"title": "Arc the Lad - End of Darkness"},
+			{"title": "Arc the Lad - Generation"}
+		],
+		"Arc the Lad - Twilight of the Spirits": [
+			{"title": "Arc the Lad - Twilight of the Spirits"},
+			{"title": "Arc - Twilight of the Spirits"},
+			{"title": "Arc the Lad - Seirei no Tasogare (Premium Box)"},
+			{"title": "Arc the Lad - Jeongryeongui Hwanghon"},
+			{"title": "Arc the Lad - Jing Ling Zhi Huang Hun"},
+			{"title": "Arc the Lad - Seirei no Tasogare", "priority": 2}
+		],
+		"Army Men - Air Attack 2": [
+			{"title": "Army Men - Air Attack 2"},
+			{"title": "Army Men - Air Attack - Blade's Revenge"}
+		],
+		"Armored Core - Last Raven": [
+			{"title": "Armored Core - Last Raven"},
+			{"title": "Armored Core - Last Raven (Machine Side Box)"}
+		],
+		"Arthur and the Invisibles - The Game": [
+			{"title": "Arthur and the Invisibles - The Game"},
+			{"title": "Arthur and the Minimoys"}
+		],
+		"Artlist Collection - The Dog Island": [
+			{"title": "Artlist Collection - The Dog Island"},
+			{"title": "Artlist Collection - The Dog Island - Hitotsu no Hana no Monogatari"}
+		],
+		"Asterix & Obelix - Kick Buttix": [
+			{"title": "Asterix & Obelix - Kick Buttix"},
+			{"title": "Asterix & Obelix XXL"}
+		],
+		"Asterix at the Olympic Games": [
+			{"title": "Asterix at the Olympic Games"},
+			{"title": "Asterix aux Jeux Olympiques"}
+		],
+		"Astro Boy": [
+			{"title": "Astro Boy"},
+			{"title": "Astro Boy - Tetsuwan Atom"},
+			{"title": "Astro Boy Atom"}
+		],
+		"Atelier Iris - Eternal Mana": [
+			{"title": "Atelier Iris - Eternal Mana"},
+			{"title": "Iris no Atelier - Eternal Mana"}
+		],
+		"Atelier Iris 2 - The Azoth of Destiny": [
+			{"title": "Atelier Iris 2 - The Azoth of Destiny"},
+			{"title": "Iris no Atelier - Eternal Mana 2"}
+		],
+		"Atelier Iris 3 - Grand Phantasm": [
+			{"title": "Atelier Iris 3 - Grand Phantasm"},
+			{"title": "Iris no Atelier - Grand Fantasm"}
+		],
+		"Auto Modellista - U.S.-Tuned": [
+			{"title": "Auto Modellista - U.S.-Tuned"},
+			{"title": "Auto Modellista", "priority": 2}
+		],
+		"ATV Offroad Fury": [
+			{"title": "ATV Offroad Fury"},
+			{"title": "ATV Offroad - All Terrain Vehicle"}
+		],
+		"ATV Offroad Fury 4": [
+			{"title": "ATV Offroad Fury 4"},
+			{"title": "ATV Offroad Fury 4 (Layer 0)", "priority": 2},
+			{"title": "ATV Offroad Fury 4 (Layer 1)", "priority": 2}
+		],
+		"Bakufuu Slash! Kizuna Arashi (EyeToy Camera Doukonban)": [
+			{"title": "Bakufuu Slash! Kizuna Arashi (EyeToy Camera Doukonban)"},
+			{"title": "Bakufuu Slash! Kizuna Arashi", "priority": 2}
+		],
+		"Bad Boys - Miami Takedown": [
+			{"title": "Bad Boys - Miami Takedown"},
+			{"title": "Bad Boys II"}
+		],
+		"Basketball Xciting": [
+			{"title": "Basketball Xciting"},
+			{"title": "Simple 2000 Series Vol. 30 - The Street Basketball - 3 on 3"}
+		],
+		"BCV - Battle Construction Vehicles": [
+			{"title": "BCV - Battle Construction Vehicles"},
+			{"title": "Kensetsu Juuki Kenka Battle - Buchigire Kongou!!"}
+		],
+		"Billiards Xciting": [
+			{"title": "Billiards Xciting"},
+			{"title": "Simple 2000 Series Vol. 14 - The Billiard"}
+		],
+		"Beat Down - Fists of Vengeance": [
+			{"title": "Beat Down - Fists of Vengeance"},
+			{"title": "Beat Down"}
+		],
+		"Berserk - Millennium Falcon-hen - Seima Senki no Shou": [
+			{"title": "Berserk - Millennium Falcon-hen - Seima Senki no Shou"},
+			{"title": "Berserk - Millennium Falcon-hen - Seima Senki no Shou (Branded Box - Rakuin no Hako)", "priority": 2}
+		],
+		"Big Mutha Truckers": [
+			{"title": "Big Mutha Truckers"},
+			{"title": "Bakusou Convoy Densetsu - Otoko Hanamichi America Roman"}
+		],
+		"Big Mutha Truckers 2": [
+			{"title": "Big Mutha Truckers 2"},
+			{"title": "Big Mutha Truckers 2 - Truck Me Harder"}
+		],
+		"Blood Will Tell - Tezuka Osamu's Dororo": [
+			{"title": "Blood Will Tell - Tezuka Osamu's Dororo"},
+			{"title": "Dororo"},
+			{"title": "Duo Luo Luo"}
+		],
+		"Boboboubo Boubobo - Atsumare!! Taikan Boubobo (Doukonban)": [
+			{"title": "Boboboubo Boubobo - Atsumare!! Taikan Boubobo (Doukonban)"},
+			{"title": "Boboboubo Boubobo - Atsumare!! Taikan Boubobo", "priority": 2}
+		],
+		"Bode Miller Alpine Skiing": [
+			{"title": "Bode Miller Alpine Skiing"},
+			{"title": "Alpine Skiing 2006 featuring Bode Miller"}
+		],
+		"Bombastic": [
+			{"title": "Bombastic"},
+			{"title": "XI [sai] - XI-Go"},
+			{"title": "XI5 - Aqui Ohyeongje"},
+			{"title": "XIGO - Zuihou de Touzi"}
+		],
+		"Bomberman Hardball": [
+			{"title": "Bomberman Hardball"},
+			{"title": "Bomberman Battles"}
+		],
+		"Bowling Xciting": [
+			{"title": "Bowling Xciting"},
+			{"title": "Simple 2000 Series Vol. 24 - The Bowling Hyper"}
+		],
+		"Boxing Champions": [
+			{"title": "Boxing Champions"},
+			{"title": "Simple 2000 Series Vol. 7 - The Boxing - Real Fist Fighter"}
+		],
+		"Breath of Fire - Dragon Quarter": [
+			{"title": "Breath of Fire - Dragon Quarter"},
+			{"title": "Breath of Fire V - Dragon Quarter"}
+		],
+		"Brian Lara International Cricket 2005": [
+			{"title": "Brian Lara International Cricket 2005"},
+			{"title": "Ricky Ponting International Cricket 2005"}
+		],
+		"Brian Lara International Cricket 2007": [
+			{"title": "Brian Lara International Cricket 2007"},
+			{"title": "Ricky Ponting International Cricket 2007"}
+		],
+		"Broken Sword - The Sleeping Dragon": [
+			{"title": "Broken Sword - The Sleeping Dragon"},
+			{"title": "Baphomets Fluch - Der Schlafende Drache"},
+			{"title": "Chevaliers de Baphomet, Les - Le Manuscrit de Voynich"}
+		],
+		"Brothers in Arms - Earned in Blood": [
+			{"title": "Brothers in Arms - Earned in Blood"},
+			{"title": "Brothers in Arms - Meiyo no Daishou"}
+		],
+		"Buccaneer": [
+			{"title": "Buccaneer"},
+			{"title": "Simple 2000 Series Vol. 96 - The Kaizoku - Gaikotsu Ippai-rates!"}
+		],
+		"Bujingai - The Forsaken City": [
+			{"title": "Bujingai - The Forsaken City"},
+			{"title": "Bujingai"},
+			{"title": "Bujingai - Swordmaster"},
+			{"title": "Muinga"}
+		],
+		"Bully": [
+			{"title": "Bully"},
+			{"title": "Canis Canem Edit"}
+		],
+		"Bust-A-Bloc": [
+			{"title": "Bust-A-Bloc"},
+			{"title": "Simple 2000 Series Vol. 5 - The Block Kuzushi Hyper"}
+		],
+		"Buzz! Brain of the World": [
+			{"title": "Buzz! Brain of the World"},
+			{"title": "Buzz! Brain of Oz"},
+			{"title": "Buzz! Brain of Switzerland"},
+			{"title": "Buzz! Brain of the UK"},
+			{"title": "Buzz! De Slimste van Nederland"},
+			{"title": "Buzz! Deutschlands Superquiz"},
+			{"title": "Buzz! Il Quizzone Nazionale"},
+			{"title": "Buzz! Le Plus Malin des Francais"},
+			{"title": "Buzz! Norgesmester"},
+			{"title": "Buzz! Que Sabes de tu Pais"}
+		],
+		"Buzz! The Big Quiz": [
+			{"title": "Buzz! The Big Quiz"},
+			{"title": "Buzz! Das grosse Quiz"},
+			{"title": "Buzz! El Gran Reto"},
+			{"title": "Buzz! Il Superquiz"},
+			{"title": "Buzz! Le Grand Quiz"},
+			{"title": "Buzz! O Grande Quiz"},
+			{"title": "Buzz! Suuri Tietovisa"}
+		],
+		"Buzz! The Hollywood Quiz": [
+			{"title": "Buzz! The Hollywood Quiz"},
+			{"title": "Buzz! Hollywood"},
+			{"title": "Buzz! Hollywood Leffavisa"},
+			{"title": "Buzz! Hollywood Quiz"}
+		],
+		"Buzz! The Mega Quiz": [
+			{"title": "Buzz! The Mega Quiz"},
+			{"title": "Big! Mega Quiz, The"},
+			{"title": "Buzz! Das Mega-Quiz"},
+			{"title": "Buzz! Le Mega Quiz"},
+			{"title": "Buzz! El Mega Concurso"},
+			{"title": "Buzz! Megavisa"},
+			{"title": "Buzz! O Mega Quiz"},
+			{"title": "Buzz! The Maha Quiz"}
+		],
+		"Buzz! The Pop Quiz": [
+			{"title": "Buzz! The Pop Quiz"},
+			{"title": "Buzz! Pop Quiz"}
+		],
+		"Buzz! The Schools Quiz": [
+			{"title": "Buzz! The Schools Quiz"},
+			{"title": "Buzz! Escuela de Talentos"}
+		],
+		"Buzz! The Sports Quiz": [
+			{"title": "Buzz! The Sports Quiz"},
+			{"title": "Buzz! Das Sport-Quiz"},
+			{"title": "Buzz! El Gran Concurso de Deportes"},
+			{"title": "Buzz! Sporttivisa"},
+			{"title": "Buzz! Le Quiz du Sport"},
+			{"title": "Buzz! O Quiz Desportivo"}
+		],
+		"Cabela's Dangerous Hunts 2009": [
+			{"title": "Cabela's Dangerous Hunts 2009"},
+			{"title": "Cabela's Dangerous Adventures"}
+		],
+		"Call of Duty 2 - Big Red One": [
+			{"title": "Call of Duty 2 - Big Red One"},
+			{"superset": "Call of Duty 2 - Big Red One (Collector's Edition)"}
+		],
+		"Capcom Classics Collection Vol. 1": [
+			{"title": "Capcom Classics Collection Vol. 1"},
+			{"title": "Capcom Classics Collection"}
+		],
+		"Capcom Fighting Evolution": [
+			{"title": "Capcom Fighting Evolution"},
+			{"title": "Capcom Fighting Jam"}
+		],
+		"Capcom vs. SNK 2 - Mark of the Millennium 2001": [
+			{"title": "Capcom vs. SNK 2 - Mark of the Millennium 2001"},
+			{"title": "Capcom vs. SNK 2 - Millionaire Fighting 2001"}
+		],
+		"Car Racing Challenge": [
+			{"title": "Car Racing Challenge"},
+			{"title": "Simple 2000 Series Vol. 68 - The Tousou Highway - Nagoya-Tokyo"}
+		],
+		"Castle Shikigami 2": [
+			{"title": "Castle Shikigami 2"},
+			{"title": "Shikigami no Shiro II"},
+			{"title": "Siksin-ui Seong"}
+		],
+		"Castlevania - Curse of Darkness": [
+			{"title": "Castlevania - Curse of Darkness"},
+			{"title": "Akumajou Dracula - Yami no Juin"}
+		],
+		"Castlevania - Lament of Innocence": [
+			{"title": "Castlevania - Lament of Innocence"},
+			{"title": "Castlevania"}
+		],
+		"Castleween": [
+			{"title": "Castleween"},
+			{"title": "Mahou no Pumpkin - Ann to Greg no Daibouken"}
+		],
+		"Champions of Norrath": [
+			{"title": "Champions of Norrath"},
+			{"title": "Champions of Norrath - Realms of Everquest"}
+		],
+		"Championship Manager 5": [
+			{"title": "Championship Manager 5"},
+			{"title": "Entraineur 5, L' - Saison 04-05"},
+			{"title": "Scudetto 5"}
+		],
+		"Check-i-TV (Kyou kara Check! Pack)": [
+			{"title": "Check-i-TV (Kyou kara Check! Pack)"},
+			{"title": "Check-i-TV", "priority": 2}
+		],
+		"Choro Q HG (Jenny Hi-Grade Box)": [
+			{"title": "Choro Q HG (Jenny Hi-Grade Box)"},
+			{"title": "Choro Q HG", "priority": 2}
+		],
+		"Chou Kousoku Mahjong": [
+			{"title": "Chou Kousoku Mahjong"},
+			{"superset": "Chou Kousoku Mahjong Plus"}
+		],
+		"Chronicles of Narnia, The - The Lion, the Witch and the Wardrobe": [
+			{"title": "Chronicles of Narnia, The - The Lion, the Witch and the Wardrobe"},
+			{"title": "Cronache di Narnia, Le - Il leone, la strega e l'armadio"},
+			{"title": "Cronicas de Narnia, Las - El Leon, la Bruja y el Armario"},
+			{"title": "Chroniken von Narnia, Die - Der Koenig von Narnia"},
+			{"title": "Narnia-koku Monogatari - Dai-1-shou - Lion to Majo"},
+			{"title": "Opowiesci z Narnii - Lew, Czarownica i Stara Szafa"}
+		],
+		"Code of the Samurai": [
+			{"title": "Code of the Samurai"},
+			{"title": "Shinsengumi Gunrouden"}
+		],
+		"Colosseum - Road to Freedom": [
+			{"title": "Colosseum - Road to Freedom"},
+			{"title": "Gladiator - Road to Freedom"},
+			{"superset": "Gladiator - Road to Freedom - Remix"}
+		],
+		"Come on Baby": [
+			{"title": "Come on Baby"},
+			{"title": "Simple 2000 Series Vol. 94 - The Aka-Champion - Come on Baby"}
+		],
+		"Conflict - Desert Storm": [
+			{"title": "Conflict - Desert Storm"},
+			{"title": "Conflict Delta - Wangan Sensou 1991"}
+		],
+		"Conflict - Desert Storm II - Back to Baghdad": [
+			{"title": "Conflict - Desert Storm II - Back to Baghdad"},
+			{"title": "Conflict - Desert Storm II"},
+			{"title": "Conflict Delta II - Wangan Sensou 1991"}
+		],
+		"Conflict - Global Terror": [
+			{"title": "Conflict - Global Terror"},
+			{"title": "Conflict - Global Storm"}
+		],
+		"Conflict Zone - Modern War Strategy": [
+			{"title": "Conflict Zone - Modern War Strategy"},
+			{"title": "Conflict Zone"}
+		],
+		"Contra - Shattered Soldier": [
+			{"title": "Contra - Shattered Soldier"},
+			{"title": "Jin Hondura"},
+			{"title": "Shin Contra"}
+		],
+		"Cool Shot": [
+			{"title": "Cool Shot"},
+			{"title": "Cool Shot - Yukawa Keiko no Professional Billiard"}
+		],
+		"Corvette Evolution GT": [
+			{"title": "Corvette Evolution GT"},
+			{"title": "Evolution GT"}
+		],
+		"Counter Terrorist Special Forces - Fire for Effect": [
+			{"title": "Counter Terrorist Special Forces - Fire for Effect"},
+			{"title": "Counter Terrorist Special Forces - Terror Taisaku Tokushu Butai - Nemesis no Shuurai"}
+		],
+		"Covert Command": [
+			{"title": "Covert Command"},
+			{"title": "Simple 2000 Series Vol. 102 - The Hohei - Senjou no Inu-tachi"}
+		],
+		"Crash Bandicoot - The Wrath of Cortex": [
+			{"title": "Crash Bandicoot - The Wrath of Cortex"},
+			{"title": "Crash Bandicoot - Mawangui Buwhal"},
+			{"title": "Crash Bandicoot 4 - Sakuretsu! Majin Power"}
+		],
+		"Crash Nitro Kart": [
+			{"title": "Crash Nitro Kart"},
+			{"title": "Crash Bandicoot - Bakusou! Nitro Kart"}
+		],
+		"Crash Tag Team Racing": [
+			{"title": "Crash Tag Team Racing"},
+			{"title": "Crash Bandicoot - Gatchanko World"}
+		],
+		"Crash Twinsanity": [
+			{"title": "Crash Twinsanity"},
+			{"title": "Crash Bandicoot 5 - Eeee Crash to Cortex no Yabou!"}
+		],
+		"Crazy Frog Arcade Racer": [
+			{"title": "Crazy Frog Arcade Racer"},
+			{"title": "Crazy Frog Racer 2"}
+		],
+		"Crimson Sea 2": [
+			{"title": "Crimson Sea 2"},
+			{"title": "Kurenai no Umi 2 - Crimson Sea"}
+		],
+		"Crouching Tiger, Hidden Dragon": [
+			{"title": "Crouching Tiger, Hidden Dragon"},
+			{"title": "Gako Zouryuu - Crouching Tiger, Hidden Dragon"}
+		],
+		"CSI - Crime Scene Investigation - 3 Dimensions of Murder": [
+			{"title": "CSI - Crime Scene Investigation - 3 Dimensions of Murder"},
+			{"title": "CSI - Crime Scene Investigation"}
+		],
+		"Culdcept": [
+			{"title": "Culdcept"},
+			{"title": "Culdcept II Expansion"}
+		],
+		"Cy Girls (Disc 1) (Ice)": [
+			{"title": "Cy Girls (Disc 1) (Ice)"},
+			{"title": "Cy Girls (Ice Disc)"},
+			{"title": "Cool Girl (Disc 1) (Ice Side)"}
+		],
+		"Cy Girls (Disc 2) (Aska)": [
+			{"title": "Cy Girls (Disc 2) (Aska)"},
+			{"title": "Cy Girls (Aska Disc)"},
+			{"title": "Cool Girl (Disc 2) (Aska Side)"}
+		],
+		"Cyber Troopers - Virtual-On Marz": [
+			{"title": "Cyber Troopers - Virtual-On Marz"},
+			{"title": "Dennou Senki - Virtual-On Marz"}
+		],
+		"Dai Senryaku VII - Modern Military Tactics Exceed": [
+			{"title": "Dai Senryaku VII - Modern Military Tactics Exceed"},
+			{"title": "Daisenryaku VII - Exceed"}
+		],
+		"Dance Dance Revolution Extreme": [
+			{"title": "Dance Dance Revolution Extreme"},
+			{"title": "Dancing Stage Fusion"}
+		],
+		"Dance Dance Revolution Extreme 2": [
+			{"title": "Dance Dance Revolution Extreme 2"},
+			{"title": "Dance Dance Revolution Strike"},
+			{"title": "Dancing Stage Max"}
+		],
+		"Dance Dance Revolution SuperNova": [
+			{"title": "Dance Dance Revolution SuperNova"},
+			{"title": "Dancing Stage SuperNova"}
+		],
+		"Dance Dance Revolution SuperNova 2": [
+			{"title": "Dance Dance Revolution SuperNova 2"},
+			{"title": "Dancing Stage SuperNova 2"}
+		],
+		"Dance-UK": [
+			{"title": "Dance-UK"},
+			{"title": "All Music Dance!"},
+			{"title": "Dance Europe"}
+		],
+		"Dance-UK XL": [
+			{"title": "Dance-UK XL"},
+			{"title": "Dance-UK XL Lite", "priority": 2}
+		],
+		"Dark Cloud 2": [
+			{"title": "Dark Cloud 2"},
+			{"title": "Dark Chronicle"}
+		],
+		"Dawn of Mana": [
+			{"title": "Dawn of Mana"},
+			{"title": "Seiken Densetsu 4"}
+		],
+		"DDRMAX - Dance Dance Revolution": [
+			{"title": "DDRMAX - Dance Dance Revolution"},
+			{"title": "Dancing Stage MegaMix"},
+			{"title": "DDRMAX - Dance Dance Revolution 6th MIX"}
+		],
+		"DDRMAX2 - Dance Dance Revolution": [
+			{"title": "DDRMAX2 - Dance Dance Revolution"},
+			{"title": "DDRMAX2 - Dance Dance Revolution 7th MIX"}
+		],
+		"Dead or Alive 2": [
+			{"title": "Dead or Alive 2"},
+			{"superset": "DOA2 - Hardcore"}
+		],
+		"Deadly Strike": [
+			{"title": "Deadly Strike"},
+			{"title": "Simple 2000 Series Ultimate Vol. 16 - Sengoku VS Gendai"}
+		],
+		"Death by Degrees": [
+			{"title": "Death by Degrees"},
+			{"title": "Death by Degrees - Tekken - Nina Willams"},
+			{"title": "Tekken's Nina Williams in - Death by Degrees"}
+		],
+		"Deep Water": [
+			{"title": "Deep Water"},
+			{"title": "Simple 2000 Series Vol. 54 - The Daikaijuu"}
+		],
+		"Defender": [
+			{"title": "Defender"},
+			{"title": "Defender - For All Mankind"}
+		],
+		"DekaVoice (Doukonban)": [
+			{"title": "DekaVoice (Doukonban)"},
+			{"title": "DekaVoice", "priority": 2}
+		],
+		"Demolition Girl": [
+			{"title": "Demolition Girl"},
+			{"title": "Simple 2000 Series Vol. 50 - The Daibijin"}
+		],
+		"Demon Chaos": [
+			{"title": "Demon Chaos"},
+			{"title": "Ikusagami"},
+			{"title": "Jeonsin - Ikusagami"}
+		],
+		"Densha de Go! 3 - Tsuukin-hen": [
+			{"title": "Densha de Go! 3 - Tsuukin-hen"},
+			{"title": "Simple 2000 Series Vol. 22 - The Tsuukin Densha Untenshi - Densha de Go! 3 - Tsuukin-hen", "priority": 2}
+		],
+		"Detonator": [
+			{"title": "Detonator"},
+			{"title": "BuileBaku"}
+		],
+		"Deus Ex - The Conspiracy": [
+			{"title": "Deus Ex - The Conspiracy"},
+			{"title": "Deus Ex"}
+		],
+		"Devil May Cry 2 (Disc 1)": [
+			{"title": "Devil May Cry 2 (Disc 1)"},
+			{"title": "Devil May Cry 2 (Disc 1) (Dante)"}
+		],
+		"Devil May Cry 2 (Disc 2)": [
+			{"title": "Devil May Cry 2 (Disc 2)"},
+			{"title": "Devil May Cry 2 (Disc 2) (Lucia)"}
+		],
+		"Devil May Cry 3 - Dante's Awakening": [
+			{"title": "Devil May Cry 3 - Dante's Awakening"},
+			{"title": "Devil May Cry 3"},
+			{"superset": "Devil May Cry 3 - Dante's Awakening (Special Edition)"},
+			{"superset": "Devil May Cry 3 - Special Edition"}
+		],
+		"Di Gi Charat Fantasy Excellent (Premium-ban)": [
+			{"title": "Di Gi Charat Fantasy Excellent (Premium-ban)"},
+			{"title": "Di Gi Charat Fantasy Excellent (Standard-ban)", "priority": 2}
+		],
+		"Digimon Rumble Arena 2": [
+			{"title": "Digimon Rumble Arena 2"},
+			{"title": "Digimon Battle Chronicle"}
+		],
+		"Digimon World 4": [
+			{"title": "Digimon World 4"},
+			{"title": "Digimon World X"}
+		],
+		"Digimon World - Data Squad": [
+			{"title": "Digimon World - Data Squad"},
+			{"title": "Digimon Savers - Another Mission"}
+		],
+		"Digital Hitz Factory": [
+			{"title": "Digital Hitz Factory"},
+			{"title": "Music 3000"}
+		],
+		"Dino Stalker": [
+			{"title": "Dino Stalker"},
+			{"title": "Gun Survivor 3 - Dino Crisis"}
+		],
+		"Dirt Track Devils": [
+			{"title": "Dirt Track Devils"},
+			{"title": "Simple 2000 Series Vol. 11 - The Off-Road Buggy", "priority": 2}
+		],
+		"Disaster Report": [
+			{"title": "Disaster Report"},
+			{"title": "Jeolche Jeolmyeong Dosi"},
+			{"title": "SOS - The Final Escape"},
+			{"title": "Zettai Zetsumei Toshi"}
+		],
+		"Disgaea - Hour of Darkness": [
+			{"title": "Disgaea - Hour of Darkness"},
+			{"title": "Makai Senki Disgaea"}
+		],
+		"Disgaea 2 - Cursed Memories": [
+			{"title": "Disgaea 2 - Cursed Memories"},
+			{"title": "Makai Senki Disgaea 2"}
+		],
+		"Disney Golf": [
+			{"title": "Disney Golf"},
+			{"title": "Disney Golf Classic"}
+		],
+		"Disney Presents Piglet's Big Game": [
+			{"title": "Disney Presents Piglet's Big Game"},
+			{"title": "Disney's Piglet's Big Game"},
+			{"title": "Disneys Ferkels grosses Abenteuer-Spiel"},
+			{"title": "Disney's Knorretje Kleine Grote Held"},
+			{"title": "Disney Piglet el Gran Juego"},
+			{"title": "Disney Pimpi, Piccolo Grande Eroe"},
+			{"title": "Disney Les Aventures de Porcinet"}
+		],
+		"Disney Think Fast": [
+			{"title": "Disney Think Fast"},
+			{"title": "Disney Otvechaj - ne zevaj!"}
+		],
+		"Disney-Pixar Cars": [
+			{"title": "Disney-Pixar Cars"},
+			{"title": "Disney-Pixar Bilar"}
+		],
+		"Disney-Pixar Cars - Mater-National Championship": [
+			{"title": "Disney-Pixar Cars - Mater-National Championship"},
+			{"title": "Disney-Pixar Cars - Hook International"},
+			{"title": "Disney-Pixar Cars - La Copa Internacional de Mate"},
+			{"title": "Disney-Pixar Cars - La Coppa Internazionale di Carl Attrezzi"}
+		],
+		"Disney-Pixar Finding Nemo": [
+			{"title": "Disney-Pixar Finding Nemo"},
+			{"title": "Disney-Pixar A Procura de Nemo"},
+			{"title": "Disney-Pixar Alla Ricerca di Nemo"}
+		],
+		"Disney-Pixar Monsters, Inc.": [
+			{"title": "Disney-Pixar Monsters, Inc."},
+			{"title": "Disney-Pixar Monsters, Inc. - Monstros e Companhia - Ilha Assustadora"},
+			{"title": "Disney-Pixar Monsters, Inc. - Scare Island"},
+			{"title": "Disney-Pixar Monsters & Co. - L'Isola dello Spavento"},
+			{"title": "Disney-Pixar Monsterit Oy - Saeikkysaari"},
+			{"title": "Disney-Pixar Monsters en Co. - Schrik Eiland"},
+			{"title": "Disney-Pixar Monsters, Inc. - Skraemmaroen"},
+			{"title": "Disney-Pixar Monsters, Inc. - Skraemmeoen"},
+			{"title": "Disney-Pixar Monstres & Cie - L'ile de l'Epouvante"},
+			{"title": "Disney-Pixar Monstruos, S.A. - Isla de los Sustos"},
+			{"title": "Disney-Pixar Die Monster AG - Schreckens-Insel"}
+		],
+		"Disney-Pixar The Incredibles": [
+			{"title": "Disney-Pixar The Incredibles"},
+			{"title": "Disney-Pixar Gli Incredibili"},
+			{"title": "Disney-Pixar Los Increibles"},
+			{"title": "Disney-Pixar Die Unglaublichen"},
+			{"title": "Incredibles, The - Os Super-Herois"}
+		],
+		"Disney-Pixar Up": [
+			{"title": "Disney-Pixar Up"},
+			{"title": "Disney-Pixar Psila ston Ourano"},
+			{"title": "Disney-Pixar Oben"}
+		],
+		"Disney-Pixar WALL-E": [
+			{"title": "Disney-Pixar WALL-E"},
+			{"title": "Disney-Pixar WALL-E - Der Letzte raeumt die Erde auf"}
+		],
+		"Disney's Chicken Little": [
+			{"title": "Disney's Chicken Little"},
+			{"title": "Chicken Little"},
+			{"title": "Disney Chicken Little"},
+			{"title": "Disneys Himmel und Huhn"}
+		],
+		"Disney's Chicken Little - Ace in Action": [
+			{"title": "Disney's Chicken Little - Ace in Action"},
+			{"title": "Disneys Himmel und Huhn - Ace in Action"},
+			{"title": "Disney Chicken Little - As en Accion"},
+			{"title": "Disney Chicken Little - Asso Spaziale!"},
+			{"title": "Disney Chicken Little - Aventures Intergalactiques"}
+		],
+		"Disney's Donald Duck - Goin' Quackers": [
+			{"title": "Disney's Donald Duck - Goin' Quackers"},
+			{"title": "Disney's Donald Duck - Quack Attack"},
+			{"title": "Disney's Donald Duck - Rescue Daisakusen!!"}
+		],
+		"Disney's PK - Out of the Shadows": [
+			{"title": "Disney's PK - Out of the Shadows"},
+			{"title": "Disney's Donald Duck PK"}
+		],
+		"Disney's Tarzan - Untamed": [
+			{"title": "Disney's Tarzan - Untamed"},
+			{"title": "Disney's Tarzan - Freeride"}
+		],
+		"Disney's Winnie the Pooh's Rumbly Tumbly Adventure": [
+			{"title": "Disney's Winnie the Pooh's Rumbly Tumbly Adventure"},
+			{"title": "Disney Urodzinowe Przygody Kubusia"}
+		],
+		"DJbox (Premium Kit)": [
+			{"title": "DJbox (Premium Kit)"},
+			{"title": "DJbox", "priority": 2}
+		],
+		"DNA - Dark Native Apostle": [
+			{"title": "DNA - Dark Native Apostle"},
+			{"title": "D.N.A. - Dark Native Apostle"}
+		],
+		"Dodgeball": [
+			{"title": "Dodgeball"},
+			{"title": "Simple 2000 Series Vol. 49 - The Dodgeball - World Champion Dodge Baller"}
+		],
+		"Dot Hack Fraegment (Senkou Release-ban)": [
+			{"title": "Dot Hack Fraegment (Senkou Release-ban)"},
+			{"title": "Dot Hack Fraegment", "priority": 2}
+		],
+		"Dot Hack G.U. Vol. 1 - Rebirth": [
+			{"title": "Dot Hack G.U. Vol. 1 - Rebirth"},
+			{"title": "Dot Hack G.U. Vol. 1 - Saitan"}
+		],
+		"Dot Hack G.U. Vol. 2 - Reminisce": [
+			{"title": "Dot Hack G.U. Vol. 2 - Reminisce"},
+			{"title": "Dot Hack G.U. Vol. 2 - Kimi Omou Koe"}
+		],
+		"Dot Hack G.U. Vol. 3 - Redemption": [
+			{"title": "Dot Hack G.U. Vol. 3 - Redemption"},
+			{"title": "Dot Hack G.U. Vol. 3 - Aruku You na Hayasa de"}
+		],
+		"Dot Hack Part 1 - Infection": [
+			{"title": "Dot Hack Part 1 - Infection"},
+			{"title": "Dot Hack Kansen Kakudai Vol. 1"},
+			{"title": "Dot Hack Vol. 1 - Infection"}
+		],
+		"Dot Hack Part 2 - Mutation": [
+			{"title": "Dot Hack Part 2 - Mutation"},
+			{"title": "Dot Hack Akusei Hen'i Vol. 2"},
+			{"title": "Dot Hack Vol. 2 - Mutation"}
+		],
+		"Dot Hack Part 3 - Outbreak": [
+			{"title": "Dot Hack Part 3 - Outbreak"},
+			{"title": "Dot Hack Shinshoku Osen Vol. 3"},
+			{"title": "Dot Hack Vol. 3 - Outbreak"}
+		],
+		"Dot Hack Part 4 - Quarantine": [
+			{"title": "Dot Hack Part 4 - Quarantine"},
+			{"title": "Dot Hack Zettai Houi Vol. 4"}
+		],
+		"Downhill Domination": [
+			{"title": "Downhill Domination"},
+			{"title": "Bakusou Mountain Bikers"}
+		],
+		"Dr. Seuss' The Cat in the Hat": [
+			{"title": "Dr. Seuss' The Cat in the Hat"},
+			{"title": "Cat in the Hat, The"}
+		],
+		"Dragon Ball Z - Budokai": [
+			{"title": "Dragon Ball Z - Budokai"},
+			{"title": "Dragon Ball Z"}
+		],
+		"Dragon Ball Z - Budokai 2": [
+			{"title": "Dragon Ball Z - Budokai 2"},
+			{"title": "Dragon Ball Z 2"},
+			{"superset": "Dragon Ball Z 2V"}
+		],
+		"Dragon Ball Z - Budokai 3": [
+			{"title": "Dragon Ball Z - Budokai 3"},
+			{"title": "Dragon Ball Z 3"},
+			{"superset": "Dragon Ball Z - Budokai 3 - Collector's Edition"}
+		],
+		"Dragon Ball Z - Budokai Tenkaichi": [
+			{"title": "Dragon Ball Z - Budokai Tenkaichi"},
+			{"title": "Dragon Ball Z - Sparking!"}
+		],
+		"Dragon Ball Z - Budokai Tenkaichi 2": [
+			{"title": "Dragon Ball Z - Budokai Tenkaichi 2"},
+			{"title": "Dragon Ball Z - Sparking! Neo"}
+		],
+		"Dragon Ball Z - Budokai Tenkaichi 3": [
+			{"title": "Dragon Ball Z - Budokai Tenkaichi 3"},
+			{"title": "Dragon Ball Z - Sparking! Meteor"}
+		],
+		"Dragon Blaze": [
+			{"title": "Dragon Blaze"},
+			{"compilation": "Psikyo Shooting Collection Vol. 3 - Sol Divide & Dragon Blaze", "title_position": 2}
+		],
+		"Dragon Quest VIII - Journey of the Cursed King": [
+			{"title": "Dragon Quest VIII - Journey of the Cursed King"},
+			{"title": "Dragon Quest - The Journey of the Cursed King"},
+			{"title": "Dragon Quest VIII - Sora to Umi to Daichi to Norowareshi Himegimi"}
+		],
+		"Dragon Sisters": [
+			{"title": "Dragon Sisters"},
+			{"title": "Simple 2000 Series Vol. 87 - The Nadeshiko"}
+		],
+		"Drakengard": [
+			{"title": "Drakengard"},
+			{"title": "Drag-on Dragoon"}
+		],
+		"Drakengard 2": [
+			{"title": "Drakengard 2"},
+			{"title": "Drag-on Dragoon 2 - Fuuin no Aka, Haitoku no Kuro"}
+		],
+		"DreamWorks Madagascar - Escape 2 Africa": [
+			{"title": "DreamWorks Madagascar - Escape 2 Africa"},
+			{"title": "DreamWorks Madagaskar 2"}
+		],
+		"DreamWorks Over the Hedge": [
+			{"title": "DreamWorks Over the Hedge"},
+			{"title": "DreamWorks La Gang del Bosco"},
+			{"title": "DreamWorks Vecinos Invasores"},
+			{"title": "Pa Andra Sidan Haecken"}
+		],
+		"DreamWorks Shark Tale": [
+			{"title": "DreamWorks Shark Tale"},
+			{"title": "DreamWorks Shark Tale - Hajar som Hajar"}
+		],
+		"Driver - Parallel Lines (Limited Edition)": [
+			{"title": "Driver - Parallel Lines (Limited Edition)"},
+			{"title": "Driver - Parallel Lines", "priority": 2}
+		],
+		"Duel Masters": [
+			{"title": "Duel Masters"},
+			{"title": "Duel Masters - Birth of Super Dragon"}
+		],
+		"Dynasty Tactics": [
+			{"title": "Dynasty Tactics"},
+			{"title": "Samgukji Jeongi"},
+			{"title": "San Guo Zhi Zhan Ji"},
+			{"title": "Sangokushi Senki"}
+		],
+		"Dynasty Tactics 2": [
+			{"title": "Dynasty Tactics 2"},
+			{"title": "Samgukji Jeongi 2"},
+			{"title": "Sangokushi Senki 2 (Treasure Box)"},
+			{"title": "Sangokushi Senki 2", "priority": 2}
+		],
+		"Dynasty Warriors - Gundam 2": [
+			{"title": "Dynasty Warriors - Gundam 2"},
+			{"title": "Gundam Musou 2"}
+		],
+		"Dynasty Warriors 2": [
+			{"title": "Dynasty Warriors 2"},
+			{"title": "Jin Samguk Mussang"},
+			{"title": "Shin Sangoku Musou (Series Collection Joukan)"},
+			{"title": "Shin Sangoku Musou", "priority": 2}
+		],
+		"Dynasty Warriors 3": [
+			{"title": "Dynasty Warriors 3"},
+			{"title": "Jin Samguk Mussang 2"},
+			{"title": "Shin Sangoku Musou 2 (Series Collection Joukan)"},
+			{"title": "Zhen Sanguo Wushuang 2"},
+			{"title": "Zhen San Guo Wu Shuang 2"},
+			{"title": "Shin Sangoku Musou 2", "priority": 2}
+		],
+		"Dynasty Warriors 3 - Xtreme Legends": [
+			{"title": "Dynasty Warriors 3 - Xtreme Legends"},
+			{"title": "Jin Samguk Mussang 2 - Maengjangjeon"},
+			{"title": "Shin Sangoku Musou 2 - Moushouden (Series Collection Joukan)"},
+			{"title": "Shin Sangoku Musou 2 - Moushouden", "priority": 2}
+		],
+		"Dynasty Warriors 4": [
+			{"title": "Dynasty Warriors 4"},
+			{"title": "Jin Samguk Mussang 3"},
+			{"title": "Shin Sangoku Musou 3 (Series Collection Joukan)"},
+			{"title": "Shin Sangoku Musou 3 - Empires (Premium Box)", "priority": 2},
+			{"title": "Shin Sangoku Musou 3", "priority": 3}
+		],
+		"Dynasty Warriors 4 - Empires": [
+			{"title": "Dynasty Warriors 4 - Empires"},
+			{"title": "Jin Samguk Mussang 3 - Empires"},
+			{"title": "Shin Sangoku Musou 3 - Empires"}
+		],
+		"Dynasty Warriors 4 - Xtreme Legends": [
+			{"title": "Dynasty Warriors 4 - Xtreme Legends"},
+			{"title": "Jin Samguk Mussang 3 - Maengjangjeon"},
+			{"title": "Shin Sangoku Musou 3 - Moushouden (Series Collection Joukan)"},
+			{"title": "Shin Sangoku Musou 3 - Moushouden", "priority": 2}
+		],
+		"Dynasty Warriors 5": [
+			{"title": "Dynasty Warriors 5"},
+			{"title": "Jin Samguk Mussang 4"},
+			{"title": "Shin Sangoku Musou 4"}
+		],
+		"Dynasty Warriors 5 - Empires": [
+			{"title": "Dynasty Warriors 5 - Empires"},
+			{"title": "Shin Sangoku Musou 4 - Empires (Super Premium Box)"},
+			{"title": "Shin Sangoku Musou 4 - Empires", "priority": 2}
+		],
+		"Dynasty Warriors 5 - Xtreme Legends": [
+			{"title": "Dynasty Warriors 5 - Xtreme Legends"},
+			{"title": "Jin Samguk Mussang 4 - Maengjangjeon"},
+			{"title": "Shin Sangoku Musou 4 - Moushouden (Super Premium Box)"},
+			{"title": "Shin Sangoku Musou 4 - Moushouden", "priority": 2}
+		],
+		"E.O.E - Eve of Extinction": [
+			{"title": "E.O.E - Eve of Extinction"},
+			{"title": "E.O.E - Eve of Extinction - Houkai no Zen'ya"}
+		],
+		"Eagle Eye Golf": [
+			{"title": "Eagle Eye Golf"},
+			{"title": "Enjoy Golf!"}
+		],
+		"Echo Night - Beyond": [
+			{"title": "Echo Night - Beyond"},
+			{"title": "Nebula - Echo Night"}
+		],
+		"Egg Mania - Eggstreme Madness": [
+			{"title": "Egg Mania - Eggstreme Madness"},
+			{"title": "Eggo Mania"},
+			{"title": "Egg Mania - Tsukande! Mawashite! Dossun Puzzle!!"}
+		],
+		"Energy Airforce - Aim Strike!": [
+			{"title": "Energy Airforce - Aim Strike!"},
+			{"title": "Energy Airforce AimStrike!"}
+		],
+		"Enthusia - Professional Racing": [
+			{"title": "Enthusia - Professional Racing"},
+			{"title": "Enthusia Professional Racing"}
+		],
+		"Escape from Monkey Island": [
+			{"title": "Escape from Monkey Island"},
+			{"title": "Flucht von Monkey Island"},
+			{"title": "Fuga da Monkey Island"},
+			{"title": "Fuga de Monkey Island, La"}
+		],
+		"ESPN International Track & Field": [
+			{"title": "ESPN International Track & Field"},
+			{"title": "Ganbare! Nippon! Olympic 2000"}
+		],
+		"ESPN International Winter Sports 2002": [
+			{"title": "ESPN International Winter Sports 2002"},
+			{"title": "ESPN International Winter Sports"},
+			{"title": "Hyper Sports 2002 Winter"}
+		],
+		"ESPN NBA 2Night 2002": [
+			{"title": "ESPN NBA 2Night 2002"},
+			{"title": "NBA 2Night 2002"}
+		],
+		"ESPN Winter X Games Snowboarding": [
+			{"title": "ESPN Winter X Games Snowboarding"},
+			{"title": "Winter X Games Snowboarding"}
+		],
+		"ESPN X Games Skateboarding": [
+			{"title": "ESPN X Games Skateboarding"},
+			{"title": "X Games Skateboarding"}
+		],
+		"Eternal Poison": [
+			{"title": "Eternal Poison"},
+			{"title": "Poison Pink"}
+		],
+		"Eternal Quest": [
+			{"title": "Eternal Quest"},
+			{"title": "Simple 2000 Series Vol. 20 - The Dungeon RPG - Shinobi - Mamono no Sumu Shiro"}
+		],
+		"Eureka Seven Vol. 1 - The New Wave": [
+			{"title": "Eureka Seven Vol. 1 - The New Wave"},
+			{"title": "Eureka Seven TR1 - New Wave Graduation"},
+			{"title": "Eureka Seven TR1 - New Wave", "priority": 2}
+		],
+		"Eureka Seven Vol. 2 - The New Vision": [
+			{"title": "Eureka Seven Vol. 2 - The New Vision"},
+			{"title": "Eureka Seven - New Vision"}
+		],
+		"Eve - Burst Error Plus (Premium DVD-Box)": [
+			{"title": "Eve - Burst Error Plus (Premium DVD-Box)"},
+			{"title": "Eve - Burst Error Plus", "priority": 2}
+		],
+		"Ever 17 - The Out of Infinity Premium Edition": [
+			{"title": "Ever 17 - The Out of Infinity Premium Edition"},
+			{"title": "Ever 17 - The Out of Infinity", "priority": 4},
+			{"title": "SuperLite 2000 Vol. 24 - Ever 17 - The Out of Infinity - Premium Edition", "priority": 2}
+		],
+		"Evil Dead - A Fistful of Boomstick": [
+			{"title": "Evil Dead - A Fistful of Boomstick"},
+			{"title": "Evil Dead - A Fistful of Boomstick (Special Movie Edition)", "priority": 2}
+		],
+		"EX Jinsei Game (Doukonban)": [
+			{"title": "EX Jinsei Game (Doukonban)"},
+			{"title": "EX Jinsei Game", "priority": 2}
+		],
+		"EyeToy - Groove": [
+			{"title": "EyeToy - Groove"},
+			{"title": "EyeToy - Furi Furi Dance Tengoku (EyeToy Camera Doukonban)"},
+			{"title": "EyeToy - Furi Furi Dance Tengoku", "priority": 2}
+		],
+		"EyeToy - Monkey Mania": [
+			{"title": "EyeToy - Monkey Mania"},
+			{"title": "EyeToy - Saru EyeToy - Oosawagi! Ukkiuki Game Tenkomori!!"}
+		],
+		"EyeToy - Operation Spy": [
+			{"title": "EyeToy - Operation Spy"},
+			{"title": "SpyToy"}
+		],
+		"EyeToy - Play": [
+			{"title": "EyeToy - Play"},
+			{"title": "EyeToy - Play (Doukonban)"}
+		],
+		"EyeToy - Play 2 (Doukonban)": [
+			{"title": "EyeToy - Play 2 (Doukonban)"},
+			{"title": "EyeToy - Play 2", "priority": 2}
+		],
+		"Fantastic 4": [
+			{"title": "Fantastic 4"},
+			{"title": "Fantastici 4, I"}
+		],
+		"Fantavision": [
+			{"title": "Fantavision"},
+			{"title": "Fantavision - For You and Me"}
+		],
+		"Fahrenheit": [
+			{"title": "Fahrenheit"},
+			{"title": "Indigo Prophecy"}
+		],
+		"Fatal Frame": [
+			{"title": "Fatal Frame"},
+			{"title": "Project Zero"},
+			{"title": "Zero"}
+		],
+		"Fatal Frame II - Crimson Butterfly": [
+			{"title": "Fatal Frame II - Crimson Butterfly"},
+			{"title": "Project Zero II - Crimson Butterfly"},
+			{"title": "Zero - Akai Chou"}
+		],
+		"Fatal Frame III - The Tormented": [
+			{"title": "Fatal Frame III - The Tormented"},
+			{"title": "Project Zero 3"},
+			{"title": "Zero - Shisei no Koe"}
+		],
+		"Fatal Fury - Battle Archives Volume 2": [
+			{"title": "Fatal Fury - Battle Archives Volume 2"},
+			{"title": "NeoGeo Online Collection Vol. 6 - Garou Densetsu Battle Archives 2"}
+		],
+		"Fate-stay night - Realta Nua": [
+			{"title": "Fate-stay night - Realta Nua"},
+			{"superset": "Fate-stay night - Realta Nua (Extra Edition)"}
+		],
+		"FIFA 2001": [
+			{"title": "FIFA 2001"},
+			{"title": "FIFA 2001 - World Championship"}
+		],
+		"FIFA Soccer 06": [
+			{"title": "FIFA Soccer 06"},
+			{"title": "FIFA 06"}
+		],
+		"FIFA Soccer 07": [
+			{"title": "FIFA Soccer 07"},
+			{"title": "FIFA 07"}
+		],
+		"FIFA Soccer 08": [
+			{"title": "FIFA Soccer 08"},
+			{"title": "FIFA 08"}
+		],
+		"FIFA Soccer 09": [
+			{"title": "FIFA Soccer 09"},
+			{"title": "FIFA 09"},
+			{"title": "FIFA 09 - World Class Soccer"}
+		],
+		"FIFA Soccer 10": [
+			{"title": "FIFA Soccer 10"},
+			{"title": "FIFA 10"},
+			{"title": "FIFA 10 - World Class Soccer"}
+		],
+		"FIFA Soccer 11": [
+			{"title": "FIFA Soccer 11"},
+			{"title": "FIFA 11"}
+		],
+		"FIFA Soccer 12": [
+			{"title": "FIFA Soccer 12"},
+			{"title": "FIFA 12"}
+		],
+		"FIFA Soccer 2002": [
+			{"title": "FIFA Soccer 2002"},
+			{"title": "FIFA 2002 - Road to FIFA World Cup"},
+			{"title": "FIFA Football 2002"}
+		],
+		"FIFA Soccer 2003": [
+			{"title": "FIFA Soccer 2003"},
+			{"title": "FIFA 2003 - Europe Soccer"},
+			{"title": "FIFA Football 2003"}
+		],
+		"FIFA Soccer 2004": [
+			{"title": "FIFA Soccer 2004"},
+			{"title": "FIFA Football 2004"}
+		],
+		"FIFA Soccer 2005": [
+			{"title": "FIFA Soccer 2005"},
+			{"title": "FIFA Football 2005"}
+		],
+		"Fighting Angels": [
+			{"title": "Fighting Angels"},
+			{"title": "Simple 2000 Series Vol. 55 - The Catfight - Meneko Densetsu"}
+		],
+		"Fighting Fury": [
+			{"title": "Fighting Fury"},
+			{"title": "Grappler Baki - Baki Saikyou Retsuden"}
+		],
+		"Final Fantasy X": [
+			{"title": "Final Fantasy X"},
+			{"title": "Final Fantasy X International"}
+		],
+		"Final Fantasy XI - All in One Pack 2004": [
+			{"title": "Final Fantasy XI - All in One Pack 2004"},
+			{"superset": "Final Fantasy XI - Online - Vana'diel Collection 2008"},
+			{"superset": "Final Fantasy XI - Vana'diel Collection", "priority": 2}
+		],
+		"Final Fantasy XI - Online": [
+			{"title": "Final Fantasy XI - Online"},
+			{"title": "Final Fantasy XI - Entry Disc 2005", "priority": 2},
+			{"title": "Final Fantasy XI - PlayOnline Entry Disc", "priority": 3},
+			{"superset": "Final Fantasy XI - Online - Vana'diel Collection 2008"},
+			{"superset": "Final Fantasy XI - Vana'diel Collection", "priority": 2}
+		],
+		"Final Fantasy XI - Online - Chains of Promathia": [
+			{"title": "Final Fantasy XI - Online - Chains of Promathia"},
+			{"title": "Final Fantasy XI - Promathia no Jubaku"},
+			{"superset": "Final Fantasy XI - Online - Vana'diel Collection 2008"},
+			{"superset": "Final Fantasy XI - Vana'diel Collection", "priority": 2}
+		],
+		"Final Fantasy XI - Online - Treasures of Aht Urhgan": [
+			{"title": "Final Fantasy XI - Online - Treasures of Aht Urhgan"},
+			{"title": "Final Fantasy XI - All in One Pack 2006"},
+			{"title": "Final Fantasy XI - Aht Urhgan no Hihou"},
+			{"superset": "Final Fantasy XI - Online - Vana'diel Collection 2008"},
+			{"superset": "Final Fantasy XI - Vana'diel Collection", "priority": 2}
+		],
+		"Final Fantasy XI - Online - Wings of the Goddess Expansion Pack": [
+			{"title": "Final Fantasy XI - Online - Wings of the Goddess Expansion Pack"},
+			{"title": "Final Fantasy XI - Altana no Shinpei"},
+			{"superset": "Final Fantasy XI - Online - Vana'diel Collection 2008"},
+			{"superset": "Final Fantasy XI - Vana'diel Collection", "priority": 2}
+		],
+		"Final Fantasy XI - Zilart no Gen'ei (All in One Pack 2003)": [
+			{"title": "Final Fantasy XI - Zilart no Gen'ei (All in One Pack 2003)"},
+			{"title": "Final Fantasy XI - Zilart no Gen'ei", "priority": 2}
+		],
+		"Final Fantasy XII": [
+			{"title": "Final Fantasy XII"},
+			{"superset": "Final Fantasy XII International - Zodiac Job System"}
+		],
+		"Finny the Fish & the Seven Waters": [
+			{"title": "Finny the Fish & the Seven Waters"},
+			{"title": "Uo - 7-tsu no Mizu to Densetsu no Nushi"},
+			{"title": "Yu Zi - Qiang Jiu Shui Tang Da Zuo Zhan"}
+		],
+		"Fire Pro Wrestling Z (Toujien Doukon Box Saishuu-ban)": [
+			{"title": "Fire Pro Wrestling Z (Toujien Doukon Box Saishuu-ban)"},
+			{"title": "Fire Pro Wrestling Z", "priority": 2}
+		],
+		"First Kiss Stories (Special CD Doukonban)": [
+			{"title": "First Kiss Stories (Special CD Doukonban)"},
+			{"title": "First Kiss Stories", "priority": 2}
+		],
+		"Fisherman's Bass Club": [
+			{"title": "Fisherman's Bass Club"},
+			{"title": "Bass Master Fishing"},
+			{"title": "Simple 2000 Series Vol. 3 - The Bass Fishing"}
+		],
+		"Fitness Fun": [
+			{"title": "Fitness Fun"},
+			{"title": "Simple 2000 Series Ultimate Vol. 18 - Love - Aerobi"}
+		],
+		"Fire Heroes": [
+			{"title": "Fire Heroes"},
+			{"title": "Hard Luck - Return of the Heroes"}
+		],
+		"FlatOut": [
+			{"title": "FlatOut"},
+			{"title": "Racing Game - Chuui!!!!"}
+		],
+		"Flipnic - Ultimate Pinball": [
+			{"title": "Flipnic - Ultimate Pinball"},
+			{"title": "Flipnic"}
+		],
+		"Flying Circus - RC Copter Adventure Championship (Propo-gata Controller Doukonban)": [
+			{"title": "Flying Circus - RC Copter Adventure Championship (Propo-gata Controller Doukonban)"},
+			{"title": "Flying Circus - RC Copter Adventure Championship", "priority": 2}
+		],
+		"Forbidden Siren 2": [
+			{"title": "Forbidden Siren 2"},
+			{"title": "Si Hun Qu"},
+			{"title": "Siren 2"}
+		],
+		"Ford Bold Moves Street Racing": [
+			{"title": "Ford Bold Moves Street Racing"},
+			{"title": "Ford Street Racing"},
+			{"title": "Ford Street Racing XR Edition"}
+		],
+		"Ford Racing - Off Road": [
+			{"title": "Ford Racing - Off Road"},
+			{"title": "Off Road"}
+		],
+		"Forever Kingdom": [
+			{"title": "Forever Kingdom"},
+			{"title": "Evergrace II"}
+		],
+		"Forty 4 Party": [
+			{"title": "Forty 4 Party"},
+			{"title": "Simple 2000 Series Vol. 2 - The Party Game"}
+		],
+		"Freekstyle": [
+			{"title": "Freekstyle"},
+			{"title": "Freekstyle Motocross"}
+		],
+		"Friends - The One with All the Trivia": [
+			{"title": "Friends - The One with All the Trivia"},
+			{"title": "Friends - Celui Qui Repond A Toutes les Questions"},
+			{"title": "Friends - Das Trivia Game"}
+		],
+		"Frogger Beyond": [
+			{"title": "Frogger Beyond"},
+			{"title": "Frogger"}
+		],
+		"Fugitive Hunter - War on Terror": [
+			{"title": "Fugitive Hunter - War on Terror"},
+			{"title": "10 Most Wanted"},
+			{"title": "America's 10 Most Wanted"}
+		],
+		"Full Spectrum Warrior - Ten Hammers": [
+			{"title": "Full Spectrum Warrior - Ten Hammers"},
+			{"title": "Full Spectrum Warrior 2 - Ten Hammers"}
+		],
+		"Fullmetal Alchemist 2 - Curse of the Crimson Elixir": [
+			{"title": "Fullmetal Alchemist 2 - Curse of the Crimson Elixir"},
+			{"title": "Hagane no Renkinjutsushi 2 - Akaki Elixir no Akuma"}
+		],
+		"Fullmetal Alchemist and the Broken Angel": [
+			{"title": "Fullmetal Alchemist and the Broken Angel"},
+			{"title": "Hagane no Renkinjutsushi - Tobenai Tenshi"}
+		],
+		"Fullmetal Alchemist - Dream Carnival": [
+			{"title": "Fullmetal Alchemist - Dream Carnival"},
+			{"title": "Hagane no Renkinjutsushi - Dream Carnival"}
+		],
+		"Fushigi no Umi no Nadia - Inherit the Blue Water (Collector's Edition)": [
+			{"title": "Fushigi no Umi no Nadia - Inherit the Blue Water (Collector's Edition)"},
+			{"title": "Fushigi no Umi no Nadia - Inherit the Blue Water", "priority": 2}
+		],
+		"Fuuun Bakumatsuden": [
+			{"title": "Fuuun Bakumatsuden"},
+			{"title": "Pungun Sinseonjo"}
+		],
+		"G-Taste Mahjong (Special Ban)": [
+			{"title": "G-Taste Mahjong (Special Ban)"},
+			{"title": "G-Taste Mahjong", "priority": 2}
+		],
+		"G1 Jockey": [
+			{"title": "G1 Jockey"},
+			{"title": "GI Jockey 2 2001"}
+		],
+		"G1 Jockey 3": [
+			{"title": "G1 Jockey 3"},
+			{"title": "GI Jockey 3"},
+			{"title": "GI Jockey 3 - 2005-nendoban", "priority": 3}
+		],
+		"G1 Jockey 4": [
+			{"title": "G1 Jockey 4"},
+			{"title": "GI Jockey 4 (Twin Pack)"},
+			{"title": "GI Jockey 4", "priority": 2}
+		],
+		"Gadget Racers": [
+			{"title": "Gadget Racers"},
+			{"title": "Choro Q HG 3"},
+			{"title": "Penny Racers"}
+		],
+		"Galactic Wrestling featuring Ultimate Muscle - The Kinnikuman Legacy": [
+			{"title": "Galactic Wrestling featuring Ultimate Muscle - The Kinnikuman Legacy"},
+			{"title": "Kinnikuman Generations"}
+		],
+		"Gallop Racer 2001": [
+			{"title": "Gallop Racer 2001"},
+			{"title": "Gallop Racer 5"}
+		],
+		"Gallop Racer 2003 - A New Breed": [
+			{"title": "Gallop Racer 2003 - A New Breed"},
+			{"title": "Attheraces Presents Gallop Racer"},
+			{"title": "Gallop Racer 6 - Revolution"}
+		],
+		"Gallop Racer 2004": [
+			{"title": "Gallop Racer 2004"},
+			{"title": "Gallop Racer - Lucky 7"},
+			{"title": "Gallop Racer 2"}
+		],
+		"Gallop Racer 2006": [
+			{"title": "Gallop Racer 2006"},
+			{"title": "Gallop Racer 8 - Live Horse Racing"}
+		],
+		"GameShark 2 - Video Game Enhancer": [
+			{"title": "GameShark 2 - Video Game Enhancer"},
+			{"title": "GameShark 2 - Video Game Enhancer - V 1.0", "priority": 2}
+		],
+		"Garfield - Saving Arlene": [
+			{"title": "Garfield - Saving Arlene"},
+			{"title": "Garfield - Arleene o Sukue!"}
+		],
+		"Garouden - Breakblow": [
+			{"title": "Garouden - Breakblow"},
+			{"title": "Arangjeon - Breakblow"}
+		],
+		"Generation of Chaos III - Toki no Fuuin (Eikyuu Hozon Box)": [
+			{"title": "Generation of Chaos III - Toki no Fuuin (Eikyuu Hozon Box)"},
+			{"title": "Generation of Chaos III - Toki no Fuuin", "priority": 2}
+		],
+		"Genji - Dawn of the Samurai": [
+			{"title": "Genji - Dawn of the Samurai"},
+			{"title": "Genji"}
+		],
+		"George of the Jungle and the Search for the Secret": [
+			{"title": "George of the Jungle and the Search for the Secret"},
+			{"title": "George of the Jungle"}
+		],
+		"Ghost in the Shell - Stand Alone Complex": [
+			{"title": "Ghost in the Shell - Stand Alone Complex"},
+			{"title": "Gonggak Gidongdae - Stand Alone Complex"}
+		],
+		"Ghost Master - The Gravenville Chronicles": [
+			{"title": "Ghost Master - The Gravenville Chronicles"},
+			{"title": "Gravenville - Ghost Master Chronicles"}
+		],
+		"Gift": [
+			{"title": "Gift"},
+			{"title": "Giftie"}
+		],
+		"GigaWing Generations": [
+			{"title": "GigaWing Generations"},
+			{"title": "Yokushin - GigaWing Generations"}
+		],
+		"Gitaroo Man": [
+			{"title": "Gitaroo Man"},
+			{"title": "Gitaroo Man One"}
+		],
+		"Gladiator - Sword of Vengeance": [
+			{"title": "Gladiator - Sword of Vengeance"},
+			{"title": "Gladiator - Schwert der Rache"}
+		],
+		"Glass Rose": [
+			{"title": "Glass Rose"},
+			{"title": "Garasu no Bara"}
+		],
+		"Global Defence Force": [
+			{"title": "Global Defence Force"},
+			{"title": "Simple 2000 Series Vol. 81 - The Chikyuu Boueigun 2"}
+		],
+		"Global Defence Force Tactics": [
+			{"title": "Global Defence Force Tactics"},
+			{"title": "Simple 2000 Series Vol. 103 - The Chikyuu Boueigun Tactics"}
+		],
+		"Global Touring Challenge - Africa": [
+			{"title": "Global Touring Challenge - Africa"},
+			{"title": "GTC Africa"}
+		],
+		"Go Go Copter - Remote Control Helicopter": [
+			{"title": "Go Go Copter - Remote Control Helicopter"},
+			{"title": "Petit Copter"}
+		],
+		"Go Go Golf": [
+			{"title": "Go Go Golf"},
+			{"title": "Magical Sports GoGoGolf"}
+		],
+		"God of War": [
+			{"title": "God of War"},
+			{"title": "God of War - Yeonghonui Banyeokja"}
+		],
+		"God of War II": [
+			{"title": "God of War II"},
+			{"title": "God of War II - Shuuen e no Jokyoku"}
+		],
+		"Godfather, The - The Game (Limited Edition)": [
+			{"title": "Godfather, The - The Game (Limited Edition)"},
+			{"title": "Godfather, The"},
+			{"title": "Padrino, El"},
+			{"title": "Padrino, Il"},
+			{"title": "Parrain, Le"},
+			{"title": "Pate, Der"},
+			{"title": "Godfather, The - The Game", "priority": 2}
+		],
+		"Godzilla - Save the Earth": [
+			{"title": "Godzilla - Save the Earth"},
+			{"title": "Godzilla - Kaijuu Dairantou - Chikyuu Saishuu Kessen"}
+		],
+		"GoldenEye - Rogue Agent": [
+			{"title": "GoldenEye - Rogue Agent"},
+			{"title": "GoldenEye - Agente Corrupto"},
+			{"title": "GoldenEye - Au Service du Mal"},
+			{"title": "GoldenEye - Dark Agent"}
+		],
+		"Golf Paradise": [
+			{"title": "Golf Paradise"},
+			{"superset": "Golf Paradise DX"}
+		],
+		"Gradius III and IV": [
+			{"title": "Gradius III and IV"},
+			{"title": "Gradius III and IV - Fukkatsu no Shinwa"}
+		],
+		"Graffiti Kingdom": [
+			{"title": "Graffiti Kingdom"},
+			{"title": "Rakugaki Oukoku 2 - Maou-jou no Tatakai"}
+		],
+		"Grandia Xtreme": [
+			{"title": "Grandia Xtreme"},
+			{"title": "Grandia Xtreme (Limited Box)", "priority": 2}
+		],
+		"Gran Turismo 4 (Doukonban)": [
+			{"title": "Gran Turismo 4 (Doukonban)"},
+			{"title": "Gran Turismo 4", "priority": 2}
+		],
+		"Gran Turismo 4 - Prologue (Doukonban)": [
+			{"title": "Gran Turismo 4 - Prologue (Doukonban)"},
+			{"title": "Gran Turismo 4 - Prologue (PlayStation 2 Racing Pack)"},
+			{"title": "Gran Turismo 4 - Prologue", "priority": 2}
+		],
+		"Great British Football Quiz, The": [
+			{"title": "Great British Football Quiz, The"},
+			{"title": "Grande quiz sul calcio italiano, Il"},
+			{"title": "Grosse deutsche Fussball-Quiz, Das"},
+			{"title": "Grote Nederlandse Voetbalquiz, De"},
+			{"title": "Maxi Quiz du Foot Francais"}
+		],
+		"Great Escape, The": [
+			{"title": "Great Escape, The"},
+			{"title": "Daidassou - The Great Escape"}
+		],
+		"Gregory Horror Show": [
+			{"title": "Gregory Horror Show"},
+			{"title": "Gregory Horror Show - Soul Collector"}
+		],
+		"Growlanser Generations (Disc 1) (Growlanser II - The Sense of Justice)": [
+			{"title": "Growlanser Generations (Disc 1) (Growlanser II - The Sense of Justice)"},
+			{"title": "Growlanser II - The Sense of Justice (Deluxe Pack)"},
+			{"title": "Growlanser II - The Sense of Justice", "priority": 2}
+		],
+		"Growlanser Generations (Disc 2) (Growlanser III - The Dual Darkness)": [
+			{"title": "Growlanser Generations (Disc 2) (Growlanser III - The Dual Darkness)"},
+			{"title": "Growlanser III - The Dual Darkness (Moe-Moe Lucky Pack)"},
+			{"title": "Growlanser III - The Dual Darkness", "priority": 2}
+		],
+		"Growlanser IV - Wayfarer of the Time (Deluxe Pack)": [
+			{"title": "Growlanser IV - Wayfarer of the Time (Deluxe Pack)"},
+			{"title": "Growlanser IV - Wayfarer of the Time", "priority": 2}
+		],
+		"Guilty Gear X2": [
+			{"title": "Guilty Gear X2"},
+			{"title": "Guilty Gear XX - The Midnight Carnival"}
+		],
+		"Guilty Gear X2 Reload - The Midnight Carnival": [
+			{"title": "Guilty Gear X2 Reload - The Midnight Carnival"},
+			{"title": "Guilty Gear XX Reload - The Midnight Carnival"}
+		],
+		"Guilty Gear XX Accent Core Plus (Append Ban)": [
+			{"title": "Guilty Gear XX Accent Core Plus (Append Ban)"},
+			{"superset": "Guilty Gear XX Accent Core Plus"}
+		],
+		"Guitar Hero - Smash Hits": [
+			{"title": "Guitar Hero - Smash Hits"},
+			{"title": "Guitar Hero - Greatest Hits"}
+		],
+		"Guitar Hero Encore - Rocks the 80s": [
+			{"title": "Guitar Hero Encore - Rocks the 80s"},
+			{"title": "Guitar Hero - Rocks the 80s"}
+		],
+		"Gunbird Special Edition": [
+			{"title": "Gunbird Special Edition"},
+			{"title": "Gunbird 1 & 2"},
+			{"title": "Gunbird - Premium Package"}
+		],
+		"Guncom 2": [
+			{"title": "Guncom 2"},
+			{"title": "Death Crimson OX+"}
+		],
+		"Gungrave (Limited Edition)": [
+			{"title": "Gungrave (Limited Edition)"},
+			{"title": "GunGrave", "priority": 2}
+		],
+		"Gungrave - Overdose": [
+			{"title": "Gungrave - Overdose"},
+			{"title": "Gungrave O.D."}
+		],
+		"Hanjuku Hero 4 - 7-nin no Hanjuku Hero": [
+			{"title": "Hanjuku Hero 4 - 7-nin no Hanjuku Hero"},
+			{"superset": "Hanjuku Hero 4 - 7-nin no Hanjuku Hero (Ginga Hanjuku Bentou)"}
+		],
+		"Hanabi Hyakkei (Tokutenban)": [
+			{"title": "Hanabi Hyakkei (Tokutenban)"},
+			{"title": "Hanabi Hyakkei", "priority": 2}
+		],
+		"Hanjuku Hero tai 3D": [
+			{"title": "Hanjuku Hero tai 3D"},
+			{"title": "Bansuk Yeongung vs. 3D"},
+			{"superset": "Hanjuku Hero tai 3D (Tokudaigou)"}
+		],
+		"Hannspree Ten Kate Honda SBK - Superbike World Championship": [
+			{"title": "Hannspree Ten Kate Honda SBK - Superbike World Championship"},
+			{"title": "SBK-07 - Superbike World Championship"}
+		],
+		"Hard Hitter Tennis": [
+			{"title": "Hard Hitter Tennis"},
+			{"title": "Centre Court - Hard Hitter"},
+			{"title": "Hard Hitter"}
+		],
+		"Hard Knock High": [
+			{"title": "Hard Knock High"},
+			{"title": "Simple 2000 Series Vol. 107 - The Honoo no Kakutou Banchou"}
+		],
+		"Hardware - Online Arena": [
+			{"title": "Hardware - Online Arena"},
+			{"title": "Gangcheol Gigap Sadan - Online Battlefield"}
+		],
+		"Harley-Davidson Motorcycles - Race to the Rally": [
+			{"title": "Harley-Davidson Motorcycles - Race to the Rally"},
+			{"title": "Harley-Davidson Motor Cycles"}
+		],
+		"Harry Potter and the Chamber of Secrets": [
+			{"title": "Harry Potter and the Chamber of Secrets"},
+			{"title": "Harry Potter e a Camara dos Segredos"},
+			{"title": "Harry Potter e la Camera dei Segreti"},
+			{"title": "Harry Potter en de Geheime Kamer"},
+			{"title": "Harry Potter et la Chambre des Secrets"},
+			{"title": "Harry Potter ja Salaisuuksien Kammio"},
+			{"title": "Harry Potter och Hemligheternas Kammare"},
+			{"title": "Harry Potter og Mysteriekammeret"},
+			{"title": "Harry Potter to Himitsu no Heya"},
+			{"title": "Harry Potter und die Kammer des Schreckens"},
+			{"title": "Harry Potter y la Camara Secreta"},
+			{"title": "Harry Potter to Himitsu no Heya (Coca-Cola Kenshouhin)", "priority": 2}
+		],
+		"Harry Potter and the Order of the Phoenix": [
+			{"title": "Harry Potter and the Order of the Phoenix"},
+			{"title": "Harry Potter to Fushichou no Kishidan"}
+		],
+		"Harry Potter and the Prisoner of Azkaban": [
+			{"title": "Harry Potter and the Prisoner of Azkaban"},
+			{"title": "Harry Potter i Wiezien Azkabanu"},
+			{"title": "Harry Potter to Azkaban no Shuujin"}
+		],
+		"Harry Potter and the Sorcerer's Stone": [
+			{"title": "Harry Potter and the Sorcerer's Stone"},
+			{"title": "Harry Potter and the Philosopher's Stone"},
+			{"title": "Harry Potter to Kenja no Ishi"}
+		],
+		"Harukanaru Toki no Naka de - Hachiyou-shou (Premium Box)": [
+			{"title": "Harukanaru Toki no Naka de - Hachiyou-shou (Premium Box)"},
+			{"title": "Harukanaru Toki no Naka de - Hachiyou-shou (History Box)", "priority": 2},
+			{"title": "Harukanaru Toki no Naka de - Hachiyou-shou", "priority": 3}
+		],
+		"Harukanaru Toki no Naka de 2 (Premium Box)": [
+			{"title": "Harukanaru Toki no Naka de 2 (Premium Box)"},
+			{"title": "Harukanaru Toki no Naka de 2", "priority": 2}
+		],
+		"Harukanaru Toki no Naka de 3 - Izayoiki (Premium Box)": [
+			{"title": "Harukanaru Toki no Naka de 3 - Izayoiki (Premium Box)"},
+			{"title": "Harukanaru Toki no Naka de 3 (Triple Pack)", "priority": 2},
+			{"title": "Harukanaru Toki no Naka de 3 (History Box)", "priority": 3},
+			{"title": "Harukanaru Toki no Naka de 3", "priority": 4}
+		],
+		"Harukanaru Toki no Naka de 3 - Izayoiki (Triple Pack)": [
+			{"title": "Harukanaru Toki no Naka de 3 - Izayoiki (Triple Pack)"},
+			{"title": "Harukanaru Toki no Naka de 3 - Izayoiki", "priority": 2}
+		],
+		"Harukanaru Toki no Naka de 3 - Unmei no Labyrinth (Triple Pack)": [
+			{"title": "Harukanaru Toki no Naka de 3 - Unmei no Labyrinth (Triple Pack)"},
+			{"title": "Harukanaru Toki no Naka de 3 - Unmei no Labyrinth", "priority": 2}
+		],
+		"Hasbro Family Game Night": [
+			{"title": "Hasbro Family Game Night"},
+			{"title": "Hasbro Familien-Spieleabend"},
+			{"title": "Hasbro Family Party"}
+		],
+		"Harvest Moon - A Wonderful Life - Special Edition": [
+			{"title": "Harvest Moon - A Wonderful Life - Special Edition"},
+			{"title": "Bokujou Monogatari - Oh! Wonderful Life"}
+		],
+		"Harvest Moon - Save the Homeland": [
+			{"title": "Harvest Moon - Save the Homeland"},
+			{"title": "Bokujou Monogatari 3 - Heart ni Hi o Tsukete"}
+		],
+		"Haunting Ground": [
+			{"title": "Haunting Ground"},
+			{"title": "Demento"}
+		],
+		"Hawk Kawasaki Racing": [
+			{"title": "Hawk Kawasaki Racing"},
+			{"title": "Hawk Superbike Racing"}
+		],
+		"Heartbeat Boxing": [
+			{"title": "Heartbeat Boxing"},
+			{"title": "Simple 2000 Series Ultimate Vol. 6 - Love - Upper!"}
+		],
+		"Heavenly Guardian": [
+			{"title": "Heavenly Guardian"},
+			{"title": "Legend of Sayuki"},
+			{"title": "Yukinko Daisenpuu - Sayuki to Koyuki no Hie Hie Daisoudou"}
+		],
+		"Higurashi no Naku Koro ni - Matsuri - Kakera Asobi (Append-ban)": [
+			{"title": "Higurashi no Naku Koro ni - Matsuri - Kakera Asobi (Append-ban)"},
+			{"superset": "Higurashi no Naku Koro ni - Matsuri - Kakera Asobi"}
+		],
+		"Hiiro no Kakera - Tamayori-hime Kitan": [
+			{"title": "Hiiro no Kakera - Tamayori-hime Kitan"},
+			{"superset": "Hiiro no Kakera - Tamayori-hime Kitan (Aizou-ban)"}
+		],
+		"Hitman 2 - Silent Assassin": [
+			{"title": "Hitman 2 - Silent Assassin"},
+			{"title": "Hitman - Silent Assassin"}
+		],
+		"Hobbit, The - The Prelude to the Lord of the Rings": [
+			{"title": "Hobbit, The - The Prelude to the Lord of the Rings"},
+			{"title": "Hobbit - Predystoriya Sagi Vlastelin Kolets"}
+		],
+		"Horsez": [
+			{"title": "Horsez"},
+			{"title": "Pippa Funnell - Take the Reins"}
+		],
+		"Hot Shots Golf 3": [
+			{"title": "Hot Shots Golf 3"},
+			{"title": "Minna no Golf 3"}
+		],
+		"Hot Shots Golf Fore!": [
+			{"title": "Hot Shots Golf Fore!"},
+			{"title": "Everybody's Golf"},
+			{"title": "Everybody's Golf 4"}
+		],
+		"Hot Shots Tennis": [
+			{"title": "Hot Shots Tennis"},
+			{"title": "Everybody's Tennis"},
+			{"title": "Minna no Tennis"}
+		],
+		"Houshin Engi 2": [
+			{"title": "Houshin Engi 2"},
+			{"title": "Bongsin Yeonui 2"}
+		],
+		"HSX - HyperSonic.Xtreme": [
+			{"title": "HSX - HyperSonic.Xtreme"},
+			{"title": "G-Surfers"}
+		],
+		"Hyper Street Fighter II - The Anniversary Edition (CapKore)": [
+			{"title": "Hyper Street Fighter II - The Anniversary Edition (CapKore)"},
+			{"title": "Hyper Street Fighter II - The Anniversary Edition", "priority": 2}
+		],
+		"Ice Age - Dawn of the Dinosaurs": [
+			{"title": "Ice Age - Dawn of the Dinosaurs"},
+			{"title": "Era Glaciale 3, L' - L'Alba dei Dinosauri"},
+			{"title": "Ice Age 3 - Dawn of the Dinosaurs"}
+		],
+		"Ichigeki Satchuu!! Hoihoi-san": [
+			{"title": "Ichigeki Satchuu!! Hoihoi-san"},
+			{"title": "Ilgyeok Salchung!! Hoihoi-san"}
+		],
+		"Idol Janshi Suchie-Pai IV (Collector's Edition)": [
+			{"title": "Idol Janshi Suchie-Pai IV (Collector's Edition)"},
+			{"title": "Idol Janshi Suchie-Pai IV", "priority": 2}
+		],
+		"IndyCar Series featuring the Indianapolis 500": [
+			{"title": "IndyCar Series featuring the Indianapolis 500"},
+			{"title": "IndyCar Series"}
+		],
+		"Indiana Jones and the Emperor's Tomb": [
+			{"title": "Indiana Jones and the Emperor's Tomb"},
+			{"title": "Indiana Jones e la Tomba dell'Imperatore"},
+			{"title": "Indiana Jones et le Tombeau de l'Empereur"},
+			{"title": "Indiana Jones y la Tumba del Emperador"},
+			{"title": "Indiana Jones und die Legende der Kaisergruft"}
+		],
+		"Initial D - Special Stage": [
+			{"title": "Initial D - Special Stage"},
+			{"title": "Initial D - Special Stage (Koudansha Kenshouhin)", "priority": 2}
+		],
+		"Innocent Life - A Futuristic Harvest Moon - Special Edition": [
+			{"title": "Innocent Life - A Futuristic Harvest Moon - Special Edition"},
+			{"title": "Shin Bokujou Monogatari - Pure - Innocent Life"}
+		],
+		"Intellivision Lives!": [
+			{"title": "Intellivision Lives!"},
+			{"title": "Intellivision Lives - The History of Video Gaming"}
+		],
+		"Inuyasha - Feudal Combat": [
+			{"title": "Inuyasha - Feudal Combat"},
+			{"title": "Inuyasha - Ougi Ranbu"}
+		],
+		"Inuyasha - The Secret of the Cursed Mask": [
+			{"title": "Inuyasha - The Secret of the Cursed Mask"},
+			{"title": "Inuyasha - Juso no Kamen"}
+		],
+		"Iron Aces 2 - Birds of Prey": [
+			{"title": "Iron Aces 2 - Birds of Prey"},
+			{"title": "Kuusen"}
+		],
+		"Iron Man": [
+			{"title": "Iron Man"},
+			{"title": "Iron Man - The Official Videogame"}
+		],
+		"Iron Sea": [
+			{"title": "Iron Sea"},
+			{"title": "Simple 2000 Series Vol. 51 - The Senkan"}
+		],
+		"J.League Winning Eleven 8 - Asia Championship": [
+			{"title": "J.League Winning Eleven 8 - Asia Championship"},
+			{"title": "K-League Winning Eleven 8 - Asia Championship"},
+			{"title": "World Soccer Winning Eleven 8 - Asia Championship"}
+		],
+		"Jacked": [
+			{"title": "Jacked"},
+			{"title": "Simple 2000 Series Vol. 111 - The Itadaki Rider - Omae no Bike wa Ore no Mono & Jacked"}
+		],
+		"Jade Cocoon 2": [
+			{"title": "Jade Cocoon 2"},
+			{"title": "Tamamayu Monogatari 2 - Horobi no Mushi"}
+		],
+		"Jak and Daxter - The Precursor Legacy": [
+			{"title": "Jak and Daxter - The Precursor Legacy"},
+			{"title": "Jak x Daxter - Kyuu Sekai no Isan"}
+		],
+		"Jak II": [
+			{"title": "Jak II"},
+			{"title": "Jak II - Jak x Daxter 2"},
+			{"title": "Jak II - Renegade"}
+		],
+		"Jak X - Combat Racing": [
+			{"title": "Jak X - Combat Racing"},
+			{"title": "Jak X"}
+		],
+		"Jet Ion GP": [
+			{"title": "Jet Ion GP"},
+			{"title": "Hresvelgr - International Edition"}
+		],
+		"Jet Li - Rise to Honor": [
+			{"title": "Jet Li - Rise to Honor"},
+			{"title": "Jet Li - Rise to Honour"}
+		],
+		"Jissen Pachi-Slot Hisshouhou! Sammy's Collection 2 DX": [
+			{"title": "Jissen Pachi-Slot Hisshouhou! Sammy's Collection 2 DX"},
+			{"title": "Jissen Pachi-Slot Hisshouhou! Sammy's Collection 2", "priority": 2}
+		],
+		"Jissen Pachi-Slot Hisshouhou! Savanna Park DX": [
+			{"title": "Jissen Pachi-Slot Hisshouhou! Savanna Park DX"},
+			{"title": "Jissen Pachi-Slot Hisshouhou! Savanna Park", "priority": 2}
+		],
+		"Juiced": [
+			{"title": "Juiced"},
+			{"title": "Juiced - Tuned Car Densetsu"}
+		],
+		"Juiced 2 - Hot Import Nights": [
+			{"title": "Juiced 2 - Hot Import Nights"},
+			{"title": "Drift Nights - Juiced 2"}
+		],
+		"Jurassic Park - Operation Genesis": [
+			{"title": "Jurassic Park - Operation Genesis"},
+			{"title": "Keiei Simulation - Jurassic Park"}
+		],
+		"K-1 Premium Dynamite!!": [
+			{"title": "K-1 Premium Dynamite!!"},
+			{"title": "K-1 Premium 2004 Dynamite!!"}
+		],
+		"K-1 World GP": [
+			{"title": "K-1 World GP"},
+			{"title": "K-1 World GP 2005"}
+		],
+		"K-1 World Grand Prix": [
+			{"title": "K-1 World Grand Prix"},
+			{"title": "K-1 World Grand Prix 2002"}
+		],
+		"Kaido Racer": [
+			{"title": "Kaido Racer"},
+			{"title": "Kaidou Battle 2 - Chain Reaction"}
+		],
+		"Kaiketsu Zorori - Mezase! Itazura King (Doukonban)": [
+			{"title": "Kaiketsu Zorori - Mezase! Itazura King (Doukonban)"},
+			{"title": "Kaiketsu Zorori - Mezase! Itazura King", "priority": 2}
+		],
+		"Kamaitachi no Yoru 2 - Kangoku-jima no Warabe-uta (Special Box)": [
+			{"title": "Kamaitachi no Yoru 2 - Kangoku-jima no Warabe-uta (Special Box)"},
+			{"title": "Kamaitachi no Yoru 2 - Kangoku-jima no Warabe-uta", "priority": 2},
+			{"title": "Kamaitachi no Yoru 2 - Kangoku-jima no Warabe-uta - Special Eizou", "priority": 3}
+		],
+		"Kamen Rider Hibiki": [
+			{"title": "Kamen Rider Hibiki"},
+			{"superset": "Kamen Rider Hibiki - Taiko no Tatsujin Special Version"}
+		],
+		"Kanon (Best-ban)": [
+			{"title": "Kanon (Best-ban)"},
+			{"title": "Kanon", "priority": 2}
+		],
+		"Karaoke Revolution": [
+			{"title": "Karaoke Revolution"},
+			{"title": "Karaoke Stage"}
+		],
+		"Karaoke Revolution Party": [
+			{"title": "Karaoke Revolution Party"},
+			{"title": "Karaoke Stage 2"}
+		],
+		"Kelly Slater's Pro Surfer": [
+			{"title": "Kelly Slater's Pro Surfer"},
+			{"title": "Kelly Slater's Pro Surfer 2003"}
+		],
+		"Kengo - Master of Bushido": [
+			{"title": "Kengo - Master of Bushido"},
+			{"title": "Kengou"}
+		],
+		"Keroro Gunsou - Mero Mero Battle Royale": [
+			{"title": "Keroro Gunsou - Mero Mero Battle Royale"},
+			{"title": "Gaeguri Jungsa Keroro - Bulkkottwineun Battle Royale Z"}
+		],
+		"Kessen": [
+			{"title": "Kessen"},
+			{"title": "Gyeoljeon"}
+		],
+		"Kessen II": [
+			{"title": "Kessen II"},
+			{"title": "Gyeoljeon II"}
+		],
+		"Mobile Suit Gundam - Lost War Chronicles (Limited Box)": [
+			{"title": "Mobile Suit Gundam - Lost War Chronicles (Limited Box)"},
+			{"title": "Mobile Suit Gundam - Lost War Chronicles", "priority": 2}
+		],
+		"Kidou Senshi Z Gundam - A.E.U.G. vs. Titans (Doukonban)": [
+			{"title": "Kidou Senshi Z Gundam - A.E.U.G. vs. Titans (Doukonban)"},
+			{"title": "Kidou Senshi Z Gundam - A.E.U.G. vs. Titans", "priority": 2}
+		],
+		"Kin'iro no Corda 2 (Premium Box)": [
+			{"title": "Kin'iro no Corda 2 (Premium Box)"},
+			{"title": "Kin'iro no Corda 2", "priority": 2}
+		],
+		"Kindan no Pet - Seaman - Gasse Hakase no Jikken-tou (Sea-Mic Controller Original Doukonban)": [
+			{"title": "Kindan no Pet - Seaman - Gasse Hakase no Jikken-tou (Sea-Mic Controller Original Doukonban)"},
+			{"title": "Kindan no Pet - Seaman - Gasse Hakase no Jikken-tou (Sea-Mic Controller Doukonban)", "priority": 2}
+		],
+		"King of Fighters '98, The - Ultimate Match": [
+			{"title": "King of Fighters '98, The - Ultimate Match"},
+			{"title": "NeoGeo Online Collection Vol. 10 - The King of Fighters '98 - Ultimate Match"}
+		],
+		"King of Fighters 2000, The": [
+			{"title": "King of Fighters 2000, The"},
+			{"compilation": "King of Fighters 2000-2001, The"},
+			{"compilation": "NeoGeo Online Collection Vol. 7 - The King of Fighters - Nests"}
+		],
+		"King of Fighters 2001, The": [
+			{"title": "King of Fighters 2001, The"},
+			{"compilation": "King of Fighters 2000-2001, The"},
+			{"compilation": "NeoGeo Online Collection Vol. 7 - The King of Fighters - Nests"}
+		],
+		"King of Fighters 2002, The - Challenge to Ultimate Battle": [
+			{"title": "King of Fighters 2002, The - Challenge to Ultimate Battle"},
+			{"title": "King of Fighters 2002, The (SNK Best Collection)"},
+			{"title": "King of Fighters 2002, The", "priority": 2}
+		],
+		"King of Fighters 2002, The - Unlimited Match": [
+			{"title": "King of Fighters 2002, The - Unlimited Match"},
+			{"superset": "King of Fighters 2002, The - Unlimited Match - Tougeki Ver."}
+		],
+		"King of Fighters 2006, The": [
+			{"title": "King of Fighters 2006, The"},
+			{"title": "King of Fighters, The - Maximum Impact 2"},
+			{"title": "KOF2 - Maximum Impact II"}
+		],
+		"King's Field - The Ancient City": [
+			{"title": "King's Field - The Ancient City"},
+			{"title": "King's Field IV"}
+		],
+		"Kingdom Hearts - Final Mix (Platinum Limited)": [
+			{"title": "Kingdom Hearts - Final Mix (Platinum Limited)"},
+			{"title": "Kingdom Hearts - Final Mix", "priority": 2}
+		],
+		"Kishin Houkou Demonbane": [
+			{"title": "Kishin Houkou Demonbane"},
+			{"title": "Kishin Houkou Demonbane (Kadokawa the Best)", "priority": 2}
+		],
+		"Klonoa 2 - Lunatea's Veil": [
+			{"title": "Klonoa 2 - Lunatea's Veil"},
+			{"title": "Kaze no Klonoa 2 - Sekai ga Nozonda Wasuremono"}
+		],
+		"KOF - Maximum Impact": [
+			{"title": "KOF - Maximum Impact"},
+			{"title": "King of Fighters, The - Maximum Impact"}
+		],
+		"Konohana 2 - Todokanai Requiem": [
+			{"title": "Konohana 2 - Todokanai Requiem"},
+			{"title": "SuperLite 2000 Vol. 6 - Konohana 2 - Todokanai Requiem", "priority": 2}
+		],
+		"Kowloon Youma Gakuenki (Deluxe Pack)": [
+			{"title": "Kowloon Youma Gakuenki (Deluxe Pack)"},
+			{"title": "Kowloon Youma Gakuenki", "priority": 2}
+		],
+		"Kuon": [
+			{"title": "Kuon"},
+			{"title": "Guwon"}
+		],
+		"Kyou kara Maou! Hajimari no Tabi (Premium Box)": [
+			{"title": "Kyou kara Maou! Hajimari no Tabi (Premium Box)"},
+			{"title": "Kyou kara Maou! Hajimari no Tabi", "priority": 2}
+		],
+		"La Pucelle - Tactics": [
+			{"title": "La Pucelle - Tactics"},
+			{"title": "La Pucelle - Hikari no Seijo Densetsu"},
+			{"title": "La Pucelle - Hikari no Seijo Densetsu - 2-shuume Hajimemashita.", "priority": 2}
+		],
+		"Lara Croft Tomb Raider - The Angel of Darkness": [
+			{"title": "Lara Croft Tomb Raider - The Angel of Darkness"},
+			{"title": "Lara Croft Tomb Raider - Utsukushiki Toubousha"}
+		],
+		"Last Escort 2 - Shin'ya no Amai Toge (Gorgeous-ban)": [
+			{"title": "Last Escort 2 - Shin'ya no Amai Toge (Gorgeous-ban)"},
+			{"title": "Last Escort 2 - Shin'ya no Amai Toge", "priority": 2}
+		],
+		"League Series Baseball 2": [
+			{"title": "League Series Baseball 2"},
+			{"title": "Magical Sports 2001 Koushien"}
+		],
+		"Legaia 2 - Duel Saga": [
+			{"title": "Legaia 2 - Duel Saga"},
+			{"title": "Legaia - Duel Saga"}
+		],
+		"Legacy of Kain - Soul Reaver 2": [
+			{"title": "Legacy of Kain - Soul Reaver 2"},
+			{"title": "Soul Reaver 2"}
+		],
+		"Lemony Snicket's A Series of Unfortunate Events": [
+			{"title": "Lemony Snicket's A Series of Unfortunate Events"},
+			{"title": "Desastreuses Aventures des Orphelins Baudelaire, Les - D'Apres Lemony Snicket"},
+			{"title": "Lemony Snicket - Raetselhafte Ereignisse"},
+			{"title": "Lemony Snicket Una Serie di Sfortunati Eventi"},
+			{"title": "Una Serie de Catastroficas Desdichas de Lemony Snicket"}
+		],
+		"Let's Make a Soccer Team!": [
+			{"title": "Let's Make a Soccer Team!"},
+			{"title": "Pro Soccer Club o Tsukurou! Europe Championship"}
+		],
+		"Lethal Skies - Elite Pilot - Team SW": [
+			{"title": "Lethal Skies - Elite Pilot - Team SW"},
+			{"title": "Sidewinder F"}
+		],
+		"Lethal Skies II": [
+			{"title": "Lethal Skies II"},
+			{"title": "Sidewinder V"},
+			{"title": "Sidewinder V (Flight Box)"}
+		],
+		"Life Line": [
+			{"title": "Life Line"},
+			{"title": "Operator's Side"}
+		],
+		"Lilie no Atelier - Salburg no Renkinjutsushi 3": [
+			{"title": "Lilie no Atelier - Salburg no Renkinjutsushi 3"},
+			{"superset": "Lilie no Atelier Plus - Salburg no Renkinjutsushi 3"}
+		],
+		"Linux (for PlayStation 2) Release 1.0 (Disc 1) (Runtime Environment)": [
+			{"title": "Linux (for PlayStation 2) Release 1.0 (Disc 1) (Runtime Environment)"},
+			{"title": "Linux for PlayStation 2 - Release 1.0 (Disc 1) (Runtime Environment)"},
+			{"title": "PS2 Linux Beta Release 1", "priority": 2}
+		],
+		"Linux (for PlayStation 2) Release 1.0 (Disc 2) (Software Packages)": [
+			{"title": "Linux (for PlayStation 2) Release 1.0 (Disc 2) (Software Packages)"},
+			{"title": "Linux for PlayStation 2 - Release 1.0 (Disc 2) (Software Packages)"}
+		],
+		"LMA Manager 2002": [
+			{"title": "LMA Manager 2002"},
+			{"title": "BDFL Manager 2002"},
+			{"title": "Football Manager Campionato 2002"},
+			{"title": "Manager de Liga 2002"},
+			{"title": "Roger Lemerre - La Selection des Champions 2002"}
+		],
+		"LMA Manager 2003": [
+			{"title": "LMA Manager 2003"},
+			{"title": "BDFL Manager 2003"},
+			{"title": "Football Manager Campionato 2003"},
+			{"title": "Manager de Liga 2003"},
+			{"title": "Roger Lemerre - La Selection des Champions 2003"}
+		],
+		"LMA Manager 2004": [
+			{"title": "LMA Manager 2004"},
+			{"title": "BDFL Manager 2004"},
+			{"title": "Football Manager Campionato 2004"},
+			{"title": "Manager de Liga 2004"},
+			{"title": "Roger Lemerre - La Selection des Champions 2004"}
+		],
+		"LMA Manager 2005": [
+			{"title": "LMA Manager 2005"},
+			{"title": "BDFL Manager 2005"},
+			{"title": "Football Manager Campionato 2005"},
+			{"title": "Manager de Liga 2005"},
+			{"title": "Roger Lemerre - La Selection des Champions 2005"}
+		],
+		"London Racer II": [
+			{"title": "London Racer II"},
+			{"title": "Paris-Marseille Racing II"}
+		],
+		"Lord of the Rings, The - The Return of the King": [
+			{"title": "Lord of the Rings, The - The Return of the King"},
+			{"title": "Herr der Ringe, Der - Die Rueckkehr des Koenigs"},
+			{"title": "Lord of the Rings, The - Ou no Kikan"},
+			{"title": "Seigneur des Anneaux, Le - Le Retour du Roi"},
+			{"title": "Senor de los Anillos, El - El Retorno del Rey"},
+			{"title": "Signore degli Anelli, Il - Il ritorno del Re"}
+		],
+		"Lord of the Rings, The - The Third Age": [
+			{"title": "Lord of the Rings, The - The Third Age"},
+			{"title": "Lord of the Rings, The - Nakatsu Kuni Daisanki"},
+			{"title": "Herr der Ringe, Der - Das dritte Zeitalter"},
+			{"title": "Seigneur des Anneaux, Le - Le Tiers Age"},
+			{"title": "Senor de los Anillos, El - La Tercera Edad"},
+			{"title": "Signore degli Anelli, Il - La Terza Era"}
+		],
+		"Lord of the Rings, The - The Two Towers": [
+			{"title": "Lord of the Rings, The - The Two Towers"},
+			{"title": "Lord of the Rings, The - Futatsu no Tou (Collectors Box)"},
+			{"title": "Herr der Ringe, Der - Die zwei Tuerme"},
+			{"title": "Seigneur des Anneaux, Le - Les Deux Tours"},
+			{"title": "Senor de los Anillos, El - Las Dos Torres"},
+			{"title": "Signore degli Anelli, Il - Le Due Torri"},
+			{"title": "Lord of the Rings, The - Futatsu no Tou", "priority": 2}
+		],
+		"Love Songs - Idol ga Classmate": [
+			{"title": "Love Songs - Idol ga Classmate"},
+			{"title": "Simple 2000 Series Ultimate Vol. 10 - Love - Songs - Idol ga Classmate", "priority": 2}
+		],
+		"Lowrider": [
+			{"title": "Lowrider"},
+			{"title": "LowRider - Round the World"}
+		],
+		"Lupin the 3rd - Treasure of the Sorcerer King": [
+			{"title": "Lupin the 3rd - Treasure of the Sorcerer King"},
+			{"title": "Avventure di Lupin III, Le - Il Tesoro del Re Stregone"},
+			{"title": "Lupin Sansei - Majutsu-ou no Isan"}
+		],
+		"Mad Maestro!": [
+			{"title": "Mad Maestro!"},
+			{"title": "Bravo Music"}
+		],
+		"Madden NFL 07": [
+			{"title": "Madden NFL 07"},
+			{"superset": "Madden NFL 07 (Hall of Fame Edition)"}
+		],
+		"Madden NFL 08": [
+			{"title": "Madden NFL 08"},
+			{"title": "Madden NFL 08 en Espanol"}
+		],
+		"Madden NFL 2001": [
+			{"title": "Madden NFL 2001"},
+			{"title": "Madden NFL Super Bowl 2001"}
+		],
+		"Madden NFL 2002": [
+			{"title": "Madden NFL 2002"},
+			{"title": "Madden NFL Super Bowl 2002"}
+		],
+		"Madden NFL 2003": [
+			{"title": "Madden NFL 2003"},
+			{"title": "Madden NFL Super Bowl 2003"}
+		],
+		"Madden NFL 2005": [
+			{"title": "Madden NFL 2005"},
+			{"title": "Madden NFL Super Bowl 2005"},
+			{"superset": "Madden NFL 2005 (Collector's Edition)"}
+		],
+		"Maestromusic II, The (Doukonban)": [
+			{"title": "Maestromusic II, The (Doukonban)"},
+			{"title": "Maestromusic II, The", "priority": 2}
+		],
+		"Made Man - Confessions of the Family Blood": [
+			{"title": "Made Man - Confessions of the Family Blood"},
+			{"title": "Made Man"}
+		],
+		"Magic Pengel - The Quest for Color": [
+			{"title": "Magic Pengel - The Quest for Color"},
+			{"title": "Garakuta Meisaku Gekijou - Rakugaki Oukoku"}
+		],
+		"MAGIX Music Maker (Deluxe Edition)": [
+			{"title": "MAGIX Music Maker (Deluxe Edition)"},
+			{"title": "MAGIX Music Maker"},
+			{"title": "MAGIX Music Maker - Rocks Your Console", "priority": 2}
+		],
+		"Magna Carta - Tears of Blood": [
+			{"title": "Magna Carta - Tears of Blood"},
+			{"title": "Magna Carta"},
+			{"title": "Magna Carta - Jinhongui Seongheun"},
+			{"title": "Magna Carta - Lacrime di Sangue"},
+			{"title": "Magna Carta - Les Larmes de Sang"}
+		],
+		"Mahjong Party - Idol to Mahjong Shoubu": [
+			{"title": "Mahjong Party - Idol to Mahjong Shoubu"},
+			{"title": "Mahjong Party - Gen Shuizhe Meinue Dajiquan"}
+		],
+		"Major League Baseball 2K5": [
+			{"title": "Major League Baseball 2K5"},
+			{"superset": "Major League Baseball 2K5 - World Series Edition"}
+		],
+		"Maken Shao - Demon Sword": [
+			{"title": "Maken Shao - Demon Sword"},
+			{"title": "Maken Shao"}
+		],
+		"Mana Khemia - Alchemists of Al-Revis": [
+			{"title": "Mana Khemia - Alchemists of Al-Revis"},
+			{"title": "Mana-Khemia - Gakuen no Renkinjutsushi-tachi"}
+		],
+		"Mana Khemia 2 - Fall of Alchemy": [
+			{"title": "Mana Khemia 2 - Fall of Alchemy"},
+			{"title": "Mana-Khemia 2 - Ochita Gakuen to Renkinjutsushi-tachi"}
+		],
+		"Mashed - Fully Loaded": [
+			{"title": "Mashed - Fully Loaded"},
+			{"title": "Drive to Survive"},
+			{"title": "Simple 2000 Series Ultimate Vol. 28 - Tousou! Kenka Grand Prix - Drive to Survive"}
+		],
+		"Master Chess": [
+			{"title": "Master Chess"},
+			{"title": "Simple 2000 Honkaku Shikou Series Vol. 3 - The Chess"}
+		],
+		"Mat Hoffman's Pro BMX 2": [
+			{"title": "Mat Hoffman's Pro BMX 2"},
+			{"title": "Mat Hoffman's Pro BMX 2003"}
+		],
+		"Maximo - Ghosts to Glory": [
+			{"title": "Maximo - Ghosts to Glory"},
+			{"title": "Maximo"}
+		],
+		"Maximo vs Army of Zin": [
+			{"title": "Maximo vs Army of Zin"},
+			{"title": "Makai Eiyuuki Maximo - Machine Monster no Yabou"}
+		],
+		"Maxxed Out Racing": [
+			{"title": "Maxxed Out Racing"},
+			{"title": "Simple 2000 Series Ultimate Vol. 3 - Saisoku! Zokusha King - Butchigiri Densetsu"}
+		],
+		"Maxxed Out Racing Nitro": [
+			{"title": "Maxxed Out Racing Nitro"},
+			{"title": "Simple 2000 Series Ultimate Vol. 30 - Kourin! Zokusha God - Butchigiri I Love You"}
+		],
+		"Maze Action": [
+			{"title": "Maze Action"},
+			{"title": "Simple 2000 Series Ultimate Vol. 8 - Gekitou! Meiro King"}
+		],
+		"Medal of Honor - European Assault": [
+			{"title": "Medal of Honor - European Assault"},
+			{"title": "Medal of Honor - Europe Kyoushuu"},
+			{"title": "Medal of Honor - Les Faucons de Guerre"}
+		],
+		"Medal of Honor - Frontline": [
+			{"title": "Medal of Honor - Frontline"},
+			{"title": "Medal of Honor - En Premiere Ligne"},
+			{"title": "Medal of Honor - Shijou Saidai no Sakusen"}
+		],
+		"Medal of Honor - Rising Sun": [
+			{"title": "Medal of Honor - Rising Sun"},
+			{"title": "Medal of Honor - Soleil Levant"}
+		],
+		"Mega Man X - Command Mission": [
+			{"title": "Mega Man X - Command Mission"},
+			{"title": "Rockman X - Command Mission"}
+		],
+		"Mega Man X7": [
+			{"title": "Mega Man X7"},
+			{"title": "Rockman X7"}
+		],
+		"Mega Man X8": [
+			{"title": "Mega Man X8"},
+			{"title": "Rockman X8"}
+		],
+		"Memories Off": [
+			{"title": "Memories Off"},
+			{"superset": "SuperLite 2000 Vol. 22 - Memories Off Duet"}
+		],
+		"Memories Off - Sorekara": [
+			{"title": "Memories Off - Sorekara"},
+			{"title": "SuperLite 2000 Vol. 33 - Memories Off - Sorekara", "priority": 2}
+		],
+		"Memories Off - After Rain Vol. 1 - Orizuru (Special Edition)": [
+			{"title": "Memories Off - After Rain Vol. 1 - Orizuru (Special Edition)"},
+			{"title": "SuperLite 2000 Vol. 37 - Memories Off - After Rain Vol. 1 - Orizuru", "priority": 2},
+			{"title": "Memories Off - After Rain Vol. 1 - Orizuru", "priority": 3}
+		],
+		"Memories Off - After Rain Vol. 2 - Souen (Special Edition)": [
+			{"title": "Memories Off - After Rain Vol. 2 - Souen (Special Edition)"},
+			{"title": "SuperLite 2000 Vol. 38 - Memories Off - After Rain Vol. 2 - Souen", "priority": 2},
+			{"title": "Memories Off - After Rain Vol. 2 - Souen", "priority": 3}
+		],
+		"Memories Off - After Rain Vol. 3 - Sotsugyou (Special Edition)": [
+			{"title": "Memories Off - After Rain Vol. 3 - Sotsugyou (Special Edition)"},
+			{"title": "SuperLite 2000 Vol. 40 - Memories Off - After Rain Vol. 3 - Sotsugyou", "priority": 2},
+			{"title": "Memories Off - After Rain Vol. 3 - Sotsugyou", "priority": 3}
+		],
+		"Memories Off Mix": [
+			{"title": "Memories Off Mix"},
+			{"title": "SuperLite 2000 Vol. 29 - Memories Off Mix", "priority": 2}
+		],
+		"Mercenaries 2 - World in Flames": [
+			{"title": "Mercenaries 2 - World in Flames"},
+			{"title": "Mercenaries 2 - Inferno di Fuoco"},
+			{"title": "Mercenaries 2 - L'enfer des Favelas"}
+		],
+		"Mermaid Prism": [
+			{"title": "Mermaid Prism"},
+			{"title": "Simple 2000 Series Vol. 122 - Onna no Ko Sen'you - The Ningyo-hime Monogatari - Mermaid Prism", "priority": 2}
+		],
+		"Metal Gear & Metal Gear 2 - Solid Snake": [
+			{"title": "Metal Gear & Metal Gear 2 - Solid Snake"},
+			{"superset": "Metal Gear Solid 3 - Subsistence (Disc 2) (Persistence)"}
+		],
+		"Metal Gear Solid 2 - Sons of Liberty": [
+			{"title": "Metal Gear Solid 2 - Sons of Liberty"},
+			{"title": "Metal Gear Solid 2 - Sons of Liberty (Daini-kai Metal Gear Solid-sai Hakkou Kinen)", "priority": 2},
+			{"title": "Metal Gear Solid 2 - Sons of Liberty (Premium Package)", "priority": 3},
+			{"superset": "Metal Gear Solid 2 - Substance"}
+		],
+		"Metal Gear Solid 3 - Snake Eater": [
+			{"title": "Metal Gear Solid 3 - Snake Eater"},
+			{"title": "Metal Gear Solid 3 - Snake Eater (Kabunushi Goyuutai-ban)"},
+			{"title": "Metal Gear Solid 3 - Snake Eater (Premium Package)", "priority": 2},
+			{"title": "Metal Gear Solid 3 - Subsistence", "priority": 3},
+			{"superset": "Metal Gear Solid 3 - Subsistence (Disc 1) (Subsistence)"}
+		],
+		"Metal Gear Solid 3 - Subsistence (Disc 3) (Existence) (Limited Edition)": [
+			{"title": "Metal Gear Solid 3 - Subsistence (Disc 3) (Existence) (Limited Edition)"},
+			{"title": "Metal Gear Solid 3 - Subsistence (Disc 3) (Existence)", "priority": 2}
+		],
+		"Metal Saga": [
+			{"title": "Metal Saga"},
+			{"title": "Metal Saga - Sajin no Kusari"}
+		],
+		"Metal Slug": [
+			{"compilation": "Metal Slug Anthology"},
+			{"compilation": "Metal Slug Complete"}
+		],
+		"Metal Slug 2": [
+			{"compilation": "Metal Slug Anthology"},
+			{"compilation": "Metal Slug Complete"}
+		],
+		"Metal Slug 3": [
+			{"title": "Metal Slug 3"},
+			{"compilation": "Metal Slug Anthology"},
+			{"compilation": "Metal Slug Complete"}
+		],
+		"Metal Slug 4": [
+			{"title": "Metal Slug 4"},
+			{"compilation": "Metal Slug Anthology"},
+			{"compilation": "Metal Slug Complete"}
+		],
+		"Metal Slug 5": [
+			{"title": "Metal Slug 5"},
+			{"compilation": "Metal Slug Anthology"},
+			{"compilation": "Metal Slug Complete"}
+		],
+		"Metal Slug 6": [
+			{"title": "Metal Slug 6"},
+			{"compilation": "Metal Slug Anthology"},
+			{"compilation": "Metal Slug Complete"}
+		],
+		"Metal Slug X": [
+			{"compilation": "Metal Slug Anthology"},
+			{"compilation": "Metal Slug Complete"}
+		],
+		"Metropolismania": [
+			{"title": "Metropolismania"},
+			{"title": "Simple 2000 Series Vol. 39 - The Boku no Machi-zukuri - Machi-ing Maker++"}
+		],
+		"Metropolismania 2": [
+			{"title": "Metropolismania 2"},
+			{"title": "Simple 2000 Series Vol. 121 - The Boku no Machi-zukuri 2 - Machi-ing Maker 2.1"},
+			{"title": "Machi-ing Maker 2 - Zoku Boku no Machi-zukuri", "priority": 2}
+		],
+		"Michigan - Report from Hell": [
+			{"title": "Michigan - Report from Hell"},
+			{"title": "Michigan"}
+		],
+		"Midnight Club 3 - DUB Edition": [
+			{"title": "Midnight Club 3 - DUB Edition"},
+			{"superset": "Midnight Club 3 - DUB Edition Remix"}
+		],
+		"Minority Report - Everybody Runs": [
+			{"title": "Minority Report - Everybody Runs"},
+			{"title": "Minority Report - Le Futur vous Rattrape"}
+		],
+		"Mister Mosquito": [
+			{"title": "Mister Mosquito"},
+			{"title": "Mr Moskeeto"}
+		],
+		"Mobile Light Force 2": [
+			{"title": "Mobile Light Force 2"},
+			{"title": "Shikigami no Shiro"}
+		],
+		"Mobile Suit Gundam - Encounters in Space": [
+			{"title": "Mobile Suit Gundam - Encounters in Space"},
+			{"title": "Gidong Jeonsa Gundam - Haehu-ui Uju"},
+			{"title": "Kidou Senshi Gundam - Meguriai Sora (Gundam the Best)"},
+			{"title": "Kidou Senshi Gundam - Meguriai Sora (Doukonban)", "priority": 2},
+			{"title": "Kidou Senshi Gundam - Meguriai Sora (Limited Box)", "priority": 3}
+		],
+		"Mobile Suit Gundam - Federation vs. Zeon": [
+			{"title": "Mobile Suit Gundam - Federation vs. Zeon"},
+			{"title": "Kidou Senshi Gundam - Renpou vs. Zeon DX"}
+		],
+		"Mobile Suit Gundam Seed - Never Ending Tomorrow": [
+			{"title": "Mobile Suit Gundam Seed - Never Ending Tomorrow"},
+			{"title": "Kidou Senshi Gundam Seed - Owaranai Ashita e"},
+			{"title": "Mobile Suit Gundam Seed"}
+		],
+		"Mobile Suit Gundam - Gundam vs. Zeta Gundam": [
+			{"title": "Mobile Suit Gundam - Gundam vs. Zeta Gundam"},
+			{"title": "Kidou Senshi Gundam - Gundam vs. Z Gundam"}
+		],
+		"Mobile Suit Gundam - Journey to Jaburo": [
+			{"title": "Mobile Suit Gundam - Journey to Jaburo"},
+			{"title": "Kidou Senshi Gundam"}
+		],
+		"Mobile Suit Gundam - Zeonic Front": [
+			{"title": "Mobile Suit Gundam - Zeonic Front"},
+			{"title": "Zeonic Front - Kidou Senshi Gundam 0079"}
+		],
+		"Monochrome": [
+			{"title": "Monochrome"},
+			{"title": "SuperLite 2000 Vol. 35 - Monochrome", "priority": 2}
+		],
+		"Monster Attack": [
+			{"title": "Monster Attack"},
+			{"title": "Simple 2000 Series Vol. 31 - The Chikyuu Boueigun"}
+		],
+		"Monster Rancher 3": [
+			{"title": "Monster Rancher 3"},
+			{"title": "Monster Farm"}
+		],
+		"Monster Rancher 4": [
+			{"title": "Monster Rancher 4"},
+			{"title": "Monster Farm 4"}
+		],
+		"Monster Rancher Evo": [
+			{"title": "Monster Rancher Evo"},
+			{"title": "Monster Farm 5 - Circus Caravan"}
+		],
+		"Mortal Kombat - Armageddon (Premium Edition)": [
+			{"title": "Mortal Kombat - Armageddon (Premium Edition)"},
+			{"title": "Mortal Kombat - Armageddon", "priority": 2}
+		],
+		"Motorbike King": [
+			{"title": "Motorbike King"},
+			{"title": "Simple 2000 Series Ultimate Vol. 13 - Kyousou! Tansha King - Kattobi! Bari Bari Densetsu"}
+		],
+		"Mountain Bike Adrenaline": [
+			{"title": "Mountain Bike Adrenaline"},
+			{"title": "Mountain Bike Adrenaline featuring Salomon"}
+		],
+		"Mr. Golf": [
+			{"title": "Mr. Golf"},
+			{"title": "Golful Golf"}
+		],
+		"MTV Music Generator 3 - This Is the Remix": [
+			{"title": "MTV Music Generator 3 - This Is the Remix"},
+			{"title": "MTV Music Generator 3"}
+		],
+		"Musashi - Samurai Legend": [
+			{"title": "Musashi - Samurai Legend"},
+			{"title": "Musashiden II - Blademaster"}
+		],
+		"MX vs. ATV Untamed": [
+			{"title": "MX vs. ATV Untamed"},
+			{"title": "MX vs. ATV Extreme Limite"}
+		],
+		"MX World Tour featuring Jamie Little": [
+			{"title": "MX World Tour featuring Jamie Little"},
+			{"title": "MX World Tour"}
+		],
+		"Mystic Heroes": [
+			{"title": "Mystic Heroes"},
+			{"title": "Chou Battle Houshin"},
+			{"title": "Super Battle Bongsin"}
+		],
+		"Namco Museum 50th Anniversary": [
+			{"title": "Namco Museum 50th Anniversary"},
+			{"title": "Namco Museum Arcade Hits!"}
+		],
+		"Namco Transmission (Demo)": [
+			{"title": "Namco Transmission (Demo)"},
+			{"title": "Namco Transmission (Bundled with Soulcalibur II) (Demo)"}
+		],
+		"Naruto - Ultimate Ninja": [
+			{"title": "Naruto - Ultimate Ninja"},
+			{"title": "Naruto - Narutimate Hero"}
+		],
+		"Naruto - Ultimate Ninja 2": [
+			{"title": "Naruto - Ultimate Ninja 2"},
+			{"title": "Naruto - Narutimate Hero 2"}
+		],
+		"Naruto - Ultimate Ninja 3": [
+			{"title": "Naruto - Ultimate Ninja 3"},
+			{"title": "Naruto - Narutimate Hero 3"}
+		],
+		"Naruto - Uzumaki Chronicles": [
+			{"title": "Naruto - Uzumaki Chronicles"},
+			{"title": "Naruto - Uzumaki Injeon"},
+			{"title": "Naruto - Uzumaki Ninden"}
+		],
+		"Naruto - Uzumaki Chronicles 2": [
+			{"title": "Naruto - Uzumaki Chronicles 2"},
+			{"title": "Naruto - Konoha Spirits!!"}
+		],
+		"Naruto Shippuden - Ultimate Ninja 4": [
+			{"title": "Naruto Shippuden - Ultimate Ninja 4"},
+			{"title": "Naruto Shippuuden - Narutimate Accel"}
+		],
+		"Naruto Shippuden - Ultimate Ninja 5": [
+			{"title": "Naruto Shippuden - Ultimate Ninja 5"},
+			{"title": "Naruto Shippuuden - Narutimate Accel 2"}
+		],
+		"Naval Ops - Commander": [
+			{"title": "Naval Ops - Commander"},
+			{"title": "Kurogane no Houkou 2 - Warship Commander"}
+		],
+		"Naval Ops - Warship Gunner": [
+			{"title": "Naval Ops - Warship Gunner"},
+			{"title": "Kurogane no Houkou 2 - Warship Gunner"}
+		],
+		"NBA 08 featuring the Life Vol. 3": [
+			{"title": "NBA 08 featuring the Life Vol. 3"},
+			{"title": "NBA 08"}
+		],
+		"NBA Street Vol. 2": [
+			{"title": "NBA Street Vol. 2"},
+			{"title": "NBA Street 2 - Dunk Tengoku"}
+		],
+		"Need for Speed - Carbon": [
+			{"title": "Need for Speed - Carbon"},
+			{"superset": "Need for Speed - Carbon - Collector's Edition"}
+		],
+		"Need for Speed - Most Wanted": [
+			{"title": "Need for Speed - Most Wanted"},
+			{"superset": "Need for Speed - Most Wanted - Black Edition"}
+		],
+		"Need for Speed - Underground J": [
+			{"title": "Need for Speed - Underground J"},
+			{"title": "Need for Speed - Underground", "priority": 2}
+		],
+		"Need for Speed - Underground 2 - SHA_DO": [
+			{"title": "Need for Speed - Underground 2 - SHA_DO"},
+			{"title": "Need for Speed - Underground 2", "priority": 2}
+		],
+		"Neo Angelique (Premium Box)": [
+			{"title": "Neo Angelique (Premium Box)"},
+			{"title": "Neo Angelique - Full Voice"},
+			{"title": "Neo Angelique", "priority": 2}
+		],
+		"NeoGeo Online Collection Vol. 3 - The King of Fighters - Orochi": [
+			{"title": "NeoGeo Online Collection Vol. 3 - The King of Fighters - Orochi"},
+			{"superset": "King of Fighters Collection, The - The Orochi Saga"}
+		],
+		"Never 7 - The End of Infinity": [
+			{"title": "Never 7 - The End of Infinity"},
+			{"title": "SuperLite 2000 Vol. 23 - Never 7 - The End of Infinity", "priority": 2}
+		],
+		"Nickelodeon Avatar - The Last Airbender": [
+			{"title": "Nickelodeon Avatar - The Last Airbender"},
+			{"title": "Nickelodeon Avatar - The Legend of Aang"}
+		],
+		"Nickelodeon Avatar - The Last Airbender - Into the Inferno": [
+			{"title": "Nickelodeon Avatar - The Last Airbender - Into the Inferno"},
+			{"title": "Nickelodeon Avatar - The Legend of Aang - Into the Inferno"}
+		],
+		"Nickelodeon Avatar - The Last Airbender - The Burning Earth": [
+			{"title": "Nickelodeon Avatar - The Last Airbender - The Burning Earth"},
+			{"title": "Nickelodeon Avatar - The Legend of Aang - The Burning Earth"}
+		],
+		"Nickelodeon Barnyard": [
+			{"title": "Nickelodeon Barnyard"},
+			{"title": "Nick - Der tierisch verrueckte Bauernhof"}
+		],
+		"Nickelodeon Jimmy Neutron - Boy Genius": [
+			{"title": "Nickelodeon Jimmy Neutron - Boy Genius"},
+			{"title": "Nickelodeon Jimmy Neutron - Der mutige Erfinder"}
+		],
+		"Nickelodeon Jimmy Neutron - Boy Genius - Jet Fusion": [
+			{"title": "Nickelodeon Jimmy Neutron - Boy Genius - Jet Fusion"},
+			{"title": "Nickelodeon The Adventures of Jimmy Neutron - Boy Genius - Jet Fusion"}
+		],
+		"Nickelodeon Rugrats - Royal Ransom": [
+			{"title": "Nickelodeon Rugrats - Royal Ransom"},
+			{"title": "Nickelodeon Rugrats - Rescate Real"},
+			{"title": "Nickelodeon Les Razmoket - La Rancon Royale"}
+		],
+		"Nickelodeon SpongeBob SquarePants - Lights, Camera, Pants!": [
+			{"title": "Nickelodeon SpongeBob SquarePants - Lights, Camera, Pants!"},
+			{"title": "Nickelodeon SpongeBob SquarePants - Licht uit, Camera aan!"},
+			{"title": "Nickelodeon Bob Esponja - Luces, Camara, Esponja!"},
+			{"title": "Nickelodeon Bob L'eponge - Silence on Tourne!"},
+			{"title": "Nickelodeon SpongeBob - Ciak si Gira!"},
+			{"title": "Nickelodeon SpongeBob Schwammkopf - Film ab!"},
+			{"title": "Nickelodeon Svampbob Fyrkant - Tystnad, Tagning, Tvaettsvamp!"}
+		],
+		"Nickelodeon SpongeBob SquarePants - The Movie": [
+			{"title": "Nickelodeon SpongeBob SquarePants - The Movie"},
+			{"title": "Nickelodeon SpongeBob - Il Film"},
+			{"title": "Nickelodeon SpongeBob Schwammkopf - Der Film"},
+			{"title": "Nickelodeon Bob Esponja - La Pelicula"}
+		],
+		"Nicktoons - Attack of the Toybots": [
+			{"title": "Nicktoons - Attack of the Toybots"},
+			{"title": "Nickelodeon SpongeBob and Friends - Attack of the Toybots"}
+		],
+		"Nicktoons - Battle for Volcano Island": [
+			{"title": "Nicktoons - Battle for Volcano Island"},
+			{"title": "Nickelodeon SpongeBob and Friends - Battle for Volcano Island"}
+		],
+		"Nicktoons Movin'": [
+			{"title": "Nicktoons Movin'"},
+			{"title": "Nickelodeon SpongeBob SquarePants - Movin' with Friends"}
+		],
+		"Nickelodeon SpongeBob SquarePants - Battle for Bikini Bottom": [
+			{"title": "Nickelodeon SpongeBob SquarePants - Battle for Bikini Bottom"},
+			{"title": "Nickelodeon Bob L'eponge - La Bataille de Bikini Bottom"},
+			{"title": "Nickelodeon SpongeBob Schwammkopf - Schlacht um Bikini Bottom"}
+		],
+		"Nickelodeon SpongeBob SquarePants - Creature from the Krusty Krab": [
+			{"title": "Nickelodeon SpongeBob SquarePants - Creature from the Krusty Krab"},
+			{"title": "Nickelodeon Spongebob SquarePants"}
+		],
+		"Nicktoons Unite!": [
+			{"title": "Nicktoons Unite!"},
+			{"title": "Nickelodeon SpongeBob SquarePants and Friends Unite!"}
+		],
+		"Nightmare of Druaga, The - Fushigino Dungeon": [
+			{"title": "Nightmare of Druaga, The - Fushigino Dungeon"},
+			{"title": "Nightmare of Druaga, The - Fushigi no Dungeon"}
+		],
+		"Nightshade": [
+			{"title": "Nightshade"},
+			{"title": "Kunoichi"}
+		],
+		"Nobunaga's Ambition - Iron Triangle": [
+			{"title": "Nobunaga's Ambition - Iron Triangle"},
+			{"title": "Nobunaga no Yabou - Kakushin"},
+			{"title": "Nobunaga no Yabou - Kakushin with Power-Up Kit"}
+		],
+		"Nobunaga's Ambition - Rise to Power": [
+			{"title": "Nobunaga's Ambition - Rise to Power"},
+			{"title": "Nobunaga no Yabou - Tenka Sousei"},
+			{"title": "Nobunaga no Yabou - Tenka Sousei with Power-Up Kit", "priority": 2}
+		],
+		"Nobunaga no Yabou - Ranseiki with Power-Up Kit": [
+			{"title": "Nobunaga no Yabou - Ranseiki with Power-Up Kit"},
+			{"title": "Nobunaga no Yabou - Ranseiki", "priority": 2}
+		],
+		"Nobunaga no Yabou - Soutenroku with Power-Up Kit": [
+			{"title": "Nobunaga no Yabou - Soutenroku with Power-Up Kit"},
+			{"title": "Nobunaga no Yabou - Soutenroku", "priority": 2}
+		],
+		"NPPL Championship Paintball 2009": [
+			{"title": "NPPL Championship Paintball 2009"},
+			{"title": "Millennium European Paintball Series, The - Championship Paintball 2009"}
+		],
+		"NRA Gun Club": [
+			{"title": "NRA Gun Club"},
+			{"title": "Gun Club"}
+		],
+		"ObsCure - The Aftermath": [
+			{"title": "ObsCure - The Aftermath"},
+			{"title": "ObsCure II"}
+		],
+		"Offroad Extreme!": [
+			{"title": "Offroad Extreme!"},
+			{"superset": "Offroad Extreme! Special Edition"}
+		],
+		"Okage - Shadow King": [
+			{"title": "Okage - Shadow King"},
+			{"title": "Boku to Maou"}
+		],
+		"Omoide ni Kawaru Kimi - Memories Off": [
+			{"title": "Omoide ni Kawaru Kimi - Memories Off"},
+			{"title": "SuperLite 2000 Vol. 20 - Omoide ni Kawaru Kimi - Memories Off", "priority": 2}
+		],
+		"Onimusha - Dawn of Dreams (Disc 1)": [
+			{"title": "Onimusha - Dawn of Dreams (Disc 1)"},
+			{"title": "Shin Onimusha - Dawn of Dreams (Disc 1)"}
+		],
+		"Onimusha - Dawn of Dreams (Disc 2)": [
+			{"title": "Onimusha - Dawn of Dreams (Disc 2)"},
+			{"title": "Shin Onimusha - Dawn of Dreams (Disc 2)"}
+		],
+		"Onimusha - Warlords": [
+			{"title": "Onimusha - Warlords"},
+			{"title": "Onimusha"}
+		],
+		"Onimusha 2 - Samurai's Destiny": [
+			{"title": "Onimusha 2 - Samurai's Destiny"},
+			{"title": "Gwimuja 2"},
+			{"title": "Onimusha 2"},
+			{"title": "Onimusha 2 (Shokai Press-ban)", "priority": 2}
+		],
+		"Onimusha 3 - Demon Siege": [
+			{"title": "Onimusha 3 - Demon Siege"},
+			{"title": "Gwimuja 3"},
+			{"title": "Onimusha 3"}
+		],
+		"Onimusha - Blade Warriors": [
+			{"title": "Onimusha - Blade Warriors"},
+			{"title": "Onimusha Buraiden"},
+			{"title": "Gwimuja Muroejeon"}
+		],
+		"Online Start-Up Disc": [
+			{"title": "Online Start-Up Disc"},
+			{"title": "Online Start-Up Disc 4.0"},
+			{"title": "Online Start-Up Disc - Broadband Only"},
+			{"superset": "Online Start-Up Disc 4.0 - Broadband Only"}
+		],
+		"Onmyou Taisenki - Byakko Enbu (EyeToy Camera Doukonban)": [
+			{"title": "Onmyou Taisenki - Byakko Enbu (EyeToy Camera Doukonban)"},
+			{"title": "Onmyou Taisenki - Byakko Enbu", "priority": 2}
+		],
+		"Orphen - Scion of Sorcery": [
+			{"title": "Orphen - Scion of Sorcery"},
+			{"title": "Sorcerous Stabber Orphen"}
+		],
+		"Outlaw Volleyball Remixed": [
+			{"title": "Outlaw Volleyball Remixed"},
+			{"title": "Outlaw Volleyball", "priority": 2}
+		],
+		"P.T.O. IV - Pacific Theater of Operations": [
+			{"title": "P.T.O. IV - Pacific Theater of Operations"},
+			{"title": "Teitoku no Ketsudan IV"}
+		],
+		"Pac-Man World Rally": [
+			{"title": "Pac-Man World Rally"},
+			{"title": "Pac-Man Rally"}
+		],
+		"Paparazzi": [
+			{"title": "Paparazzi"},
+			{"title": "Simple 2000 Series Vol. 53 - The Camera Kozou"}
+		],
+		"Party Carnival": [
+			{"title": "Party Carnival"},
+			{"title": "Simple 2000 Series Vol. 89 - The Party Game 2"}
+		],
+		"Party Girls": [
+			{"title": "Party Girls"},
+			{"title": "Simple 2000 Series Vol. 63 - Mogitate Mizugi! Onna Mamire no - The Suiei Taikai"}
+		],
+		"Persona 3 FES (Append-ban)": [
+			{"title": "Persona 3 FES (Append-ban)"},
+			{"superset": "Shin Megami Tensei - Persona 3 FES"}
+		],
+		"PES 2008 - Pro Evolution Soccer": [
+			{"title": "PES 2008 - Pro Evolution Soccer"},
+			{"title": "World Soccer Winning Eleven 2008"}
+		],
+		"PES 2009 - Pro Evolution Soccer": [
+			{"title": "PES 2009 - Pro Evolution Soccer"},
+			{"title": "World Soccer Winning Eleven 2009"}
+		],
+		"PES 2010 - Pro Evolution Soccer": [
+			{"title": "PES 2010 - Pro Evolution Soccer"},
+			{"title": "World Soccer Winning Eleven 2010"}
+		],
+		"PES 2011 - Pro Evolution Soccer": [
+			{"title": "PES 2011 - Pro Evolution Soccer"},
+			{"title": "World Soccer Winning Eleven 2011"}
+		],
+		"PES 2012 - Pro Evolution Soccer": [
+			{"title": "PES 2012 - Pro Evolution Soccer"},
+			{"title": "World Soccer Winning Eleven 2012"}
+		],
+		"Petz - Catz 2": [
+			{"title": "Petz - Catz 2"},
+			{"title": "Catz"}
+		],
+		"Petz - Dogz 2": [
+			{"title": "Petz - Dogz 2"},
+			{"title": "Dogz"}
+		],
+		"Petz - Horsez 2": [
+			{"title": "Petz - Horsez 2"},
+			{"title": "Pippa Funnell - Ranch Rescue"}
+		],
+		"Phantasy Star Universe - Ambition of the Illuminus": [
+			{"title": "Phantasy Star Universe - Ambition of the Illuminus"},
+			{"title": "Phantasy Star Universe - Illuminus no Yabou"}
+		],
+		"Phantom Brave": [
+			{"title": "Phantom Brave"},
+			{"title": "Phantom Brave - 2-shuume Hajimemashita.", "priority": 2}
+		],
+		"Phase of Combat - Sentou Kokka Kai Legend (Tokusou-ban)": [
+			{"title": "Phase of Combat - Sentou Kokka Kai Legend (Tokusou-ban)"},
+			{"title": "Phase of Combat - Sentou Kokka Kai Legend", "priority": 2}
+		],
+		"Pinball": [
+			{"title": "Pinball"},
+			{"title": "American Arcade"}
+		],
+		"Pinball Fun": [
+			{"title": "Pinball Fun"},
+			{"title": "Simple 2000 Series Vol. 26 - The Pinball x3"}
+		],
+		"Pinball Hall of Fame - The Gottlieb Collection": [
+			{"title": "Pinball Hall of Fame - The Gottlieb Collection"},
+			{"superset": "Gottlieb Pinball Classics"}
+		],
+		"Pink Pong": [
+			{"title": "Pink Pong"},
+			{"title": "Simple 2000 Series Ultimate Vol. 15 - Love - Ping Pong!"}
+		],
+		"Pipe Mania": [
+			{"title": "Pipe Mania"},
+			{"title": "Tube Mania"}
+		],
+		"Piposaru 2001": [
+			{"title": "Piposaru 2001"},
+			{"title": "Gen Houzi Wan Ba! Shouwu Zuta Nao Fantian!!"}
+		],
+		"Pirates - Legend of the Black Buccaneer": [
+			{"title": "Pirates - Legend of the Black Buccaneer"},
+			{"title": "Black Buccaneer"}
+		],
+		"PlayOnline Viewer and Tetra Master": [
+			{"title": "PlayOnline Viewer and Tetra Master"},
+			{"title": "PlayOnline Viewer - Tetra Master & Janhourou"}
+		],
+		"PlayStation BB Navigator (Disc 1)": [
+			{"title": "PlayStation BB Navigator (Disc 1)"},
+			{"superset": "PlayStation BB Navigator"}
+		],
+		"PlayStation BB Navigator (Disc 2)": [
+			{"title": "PlayStation BB Navigator (Disc 2)"},
+			{"superset": "PlayStation BB Navigator"}
+		],
+		"Police 24-7": [
+			{"title": "Police 24-7"},
+			{"title": "Keisatsukan, The - Shinjuku 24-ji"}
+		],
+		"Police Chase Down": [
+			{"title": "Police Chase Down"},
+			{"title": "Simple 2000 Series Ultimate Vol. 7 - Saikyou! Shirobai King - Security Police"}
+		],
+		"Pool Paradise": [
+			{"title": "Pool Paradise"},
+			{"title": "Pool Paradise - International Edition"}
+		],
+		"Pop Star Academy": [
+			{"title": "Pop Star Academy"},
+			{"title": "Star Academy"}
+		],
+		"Power Drome": [
+			{"title": "Power Drome"},
+			{"title": "Powerdrome"}
+		],
+		"Power Rangers - Dino Thunder": [
+			{"title": "Power Rangers - Dino Thunder"},
+			{"title": "Power Rangers - Dino Tonnerre"}
+		],
+		"Power Rangers - Super Legends - 15th Anniversary": [
+			{"title": "Power Rangers - Super Legends - 15th Anniversary"},
+			{"title": "Power Rangers - Super Legends"}
+		],
+		"Pride FC - Fighting Championships": [
+			{"title": "Pride FC - Fighting Championships"},
+			{"title": "Pride"}
+		],
+		"Primal": [
+			{"title": "Primal"},
+			{"title": "Saints - Seinaru Mamono"}
+		],
+		"Prince of Persia - The Sands of Time": [
+			{"title": "Prince of Persia - The Sands of Time"},
+			{"title": "Prince of Persia - Jikan no Suna"}
+		],
+		"Prince of Persia - Warrior Within": [
+			{"title": "Prince of Persia - Warrior Within"},
+			{"title": "Prince of Persia - Kenshi no Kokoro"}
+		],
+		"Princess Maker 4": [
+			{"title": "Princess Maker 4"},
+			{"superset": "Princess Maker 4 (Collector's Edition)"}
+		],
+		"Pro Evolution Soccer": [
+			{"title": "Pro Evolution Soccer"},
+			{"title": "World Soccer Winning Eleven 5"}
+		],
+		"Pro Race Driver": [
+			{"title": "Pro Race Driver"},
+			{"title": "DTM Race Driver"},
+			{"title": "TOCA Race Driver"},
+			{"title": "V8 Supercars Australia - Race Driver"}
+		],
+		"Pro Yakyuu Spirits 2004 Climax": [
+			{"title": "Pro Yakyuu Spirits 2004 Climax"},
+			{"title": "Pro Yakyuu Spirits 2004", "priority": 2}
+		],
+		"Professional Drift - D1 Grand Prix Series 2005": [
+			{"title": "Professional Drift - D1 Grand Prix Series 2005"},
+			{"title": "Professional Drift - D1 Grand Prix Series", "priority": 2}
+		],
+		"Project Minerva": [
+			{"title": "Project Minerva"},
+			{"superset": "Project Minerva Professional"}
+		],
+		"ProStroke Golf - World Tour 2007": [
+			{"title": "ProStroke Golf - World Tour 2007"},
+			{"title": "ProStroke Golf"}
+		],
+		"Psi-Ops - The Mindgate Conspiracy": [
+			{"title": "Psi-Ops - The Mindgate Conspiracy"},
+			{"title": "Psi-Ops - Psychic Operation"}
+		],
+		"Puyo Pop Fever": [
+			{"title": "Puyo Pop Fever"},
+			{"title": "Puyo Puyo Fever"}
+		],
+		"Puzzle Maniacs": [
+			{"title": "Puzzle Maniacs"},
+			{"title": "Simple 2000 Series Vol. 23 - The Puzzle Collection 2,000-mon"}
+		],
+		"Q-Ball - Billiards Master": [
+			{"title": "Q-Ball - Billiards Master"},
+			{"title": "Doukyuu - Billiard Master 2"},
+			{"title": "Pool Master"}
+		],
+		"R-Racing Evolution": [
+			{"title": "R-Racing Evolution"},
+			{"title": "R-Racing"},
+			{"title": "R-Racing Evolution - Life in the Fast Lane"}
+		],
+		"Radio Helicopter": [
+			{"title": "Radio Helicopter"},
+			{"title": "Simple 2000 Series Vol. 35 - The Helicopter"}
+		],
+		"Radio Helicopter II": [
+			{"title": "Radio Helicopter II"},
+			{"title": "Petit Copter 2"}
+		],
+		"Raging Blades": [
+			{"title": "Raging Blades"},
+			{"title": "Raging Bless - Gouma Mokushiroku"},
+			{"title": "Raging Bless - Hangma Muksirok"}
+		],
+		"Ratchet & Clank - Going Commando": [
+			{"title": "Ratchet & Clank - Going Commando"},
+			{"title": "Ratchet & Clank 2"},
+			{"title": "Ratchet & Clank 2 - Gagaga! Ginga no Commando-ssu"}
+		],
+		"Ratchet & Clank - Size Matters": [
+			{"title": "Ratchet & Clank - Size Matters"},
+			{"title": "Ratchet & Clank 5 - Gekitotsu! Dodeka Ginga no Miri Miri Gundan"}
+		],
+		"Ratchet - Deadlocked": [
+			{"title": "Ratchet - Deadlocked"},
+			{"title": "Ratchet - Gladiator"},
+			{"title": "Ratchet & Clank 4th - Giri Giri Ginga no Giga Battle (Special Gift Package)"},
+			{"title": "Ratchet & Clank 4th - Giri Giri Ginga no Giga Battle", "priority": 2}
+		],
+		"Ratchet & Clank - Up Your Arsenal": [
+			{"title": "Ratchet & Clank - Up Your Arsenal"},
+			{"title": "Ratchet & Clank 3"},
+			{"title": "Ratchet & Clank 3 - Totsugeki! Galactic Rangers"}
+		],
+		"Raw Danger": [
+			{"title": "Raw Danger"},
+			{"title": "Zettai Zetsumei Toshi 2 - Itetsuita Kioku-tachi"}
+		],
+		"Rayman 2 - Revolution": [
+			{"title": "Rayman 2 - Revolution"},
+			{"title": "Rayman Revolution"}
+		],
+		"Rayman Arena": [
+			{"title": "Rayman Arena"},
+			{"title": "Rayman M"}
+		],
+		"Real Pool": [
+			{"title": "Real Pool"},
+			{"title": "EX Billiards"},
+			{"title": "International Cue Club"}
+		],
+		"Realm of the Dead": [
+			{"title": "Realm of the Dead"},
+			{"title": "Bakuen Kakusei - Neverland Senki Zero"}
+		],
+		"Red Ninja - End of Honor": [
+			{"title": "Red Ninja - End of Honor"},
+			{"title": "Red Ninja - End of Honour"},
+			{"title": "Red Ninja - Kekka no Mai"}
+		],
+		"RedCard 20-03": [
+			{"title": "RedCard 20-03"},
+			{"title": "RedCard"}
+		],
+		"Reel Fishing III": [
+			{"title": "Reel Fishing III"},
+			{"title": "Fish Eyes 3 - Kioku no Hahen-tachi"}
+		],
+		"Remember11 - The Age of Infinity": [
+			{"title": "Remember11 - The Age of Infinity"},
+			{"title": "SuperLite 2000 Vol. 31 - Remember11 - The Age of Infinity", "priority": 2}
+		],
+		"Resident Evil - Code - Veronica X": [
+			{"title": "Resident Evil - Code - Veronica X"},
+			{"title": "Biohazard - Code - Veronica - Kanzenban"}
+		],
+		"Resident Evil - Dead Aim": [
+			{"title": "Resident Evil - Dead Aim"},
+			{"title": "Gun Survivor 4 - Biohazard - Heroes Never Die"}
+		],
+		"Resident Evil - Outbreak": [
+			{"title": "Resident Evil - Outbreak"},
+			{"title": "Biohazard - Outbreak"}
+		],
+		"Resident Evil - Outbreak - File 2": [
+			{"title": "Resident Evil - Outbreak - File 2"},
+			{"title": "Biohazard - Outbreak - File 2"}
+		],
+		"Resident Evil - Survivor 2 - Code - Veronica": [
+			{"title": "Resident Evil - Survivor 2 - Code - Veronica"},
+			{"title": "Gun Survivor 2 - Biohazard - Code - Veronica (With GunCon2)"},
+			{"title": "Gun Survivor 2 - Biohazard - Code - Veronica", "priority": 2}
+		],
+		"Resident Evil 4": [
+			{"title": "Resident Evil 4"},
+			{"title": "Biohazard 4"}
+		],
+		"Ribbit King": [
+			{"title": "Ribbit King"},
+			{"title": "Kero Kero King Super DX"}
+		],
+		"Riding Star": [
+			{"title": "Riding Star"},
+			{"title": "Paard & Pony - Topruiter"}
+		],
+		"Ripuru no Tamago - Apprentice Magician": [
+			{"title": "Ripuru no Tamago - Apprentice Magician"},
+			{"title": "Simple 2000 Series Vol. 74 - Onna no Ko Sen'you - The Oujisama to Romance - Ripuru no Tamago", "priority": 2}
+		],
+		"River King - A Wonderful Journey": [
+			{"title": "River King - A Wonderful Journey"},
+			{"title": "Harvest Fishing"},
+			{"title": "Kawa no Nushi Tsuri - Wonderful Journey"}
+		],
+		"RLH - Run Like Hell": [
+			{"title": "RLH - Run Like Hell"},
+			{"title": "Run Like Hell"}
+		],
+		"Road Rage 3": [
+			{"title": "Road Rage 3"},
+			{"title": "Touge 3"}
+		],
+		"Road Trip": [
+			{"title": "Road Trip"},
+			{"title": "Road Trip Adventure"}
+		],
+		"Robot Alchemic Drive": [
+			{"title": "Robot Alchemic Drive"},
+			{"title": "Gigantic Drive"}
+		],
+		"Robot Warlords": [
+			{"title": "Robot Warlords"},
+			{"title": "Velvet File"}
+		],
+		"Rock Band - Track Pack Volume 1": [
+			{"title": "Rock Band - Track Pack Volume 1"},
+			{"title": "Rock Band - Song Pack 1"}
+		],
+		"Rock Band - Track Pack Volume 2": [
+			{"title": "Rock Band - Track Pack Volume 2"},
+			{"title": "Rock Band - Song Pack 2"}
+		],
+		"Rogue Galaxy - Director's Cut": [
+			{"title": "Rogue Galaxy - Director's Cut"},
+			{"title": "Rogue Galaxy", "priority": 2}
+		],
+		"Roland Garros French Open 2002": [
+			{"title": "Roland Garros French Open 2002"},
+			{"title": "US Open 2002 - A USTA Event"}
+		],
+		"Rollercoaster World": [
+			{"title": "Rollercoaster World"},
+			{"title": "Simple 2000 Series Vol. 33 - The Jet Coaster - Yuuenchi o Tsukurou!"}
+		],
+		"Romance of the Three Kingdoms IX": [
+			{"title": "Romance of the Three Kingdoms IX"},
+			{"title": "Sangokushi IX with Power-Up Kit"},
+			{"title": "Sangokushi IX", "priority": 2}
+		],
+		"Romance of the Three Kingdoms VII": [
+			{"title": "Romance of the Three Kingdoms VII"},
+			{"title": "Sangokushi VII"}
+		],
+		"Romance of the Three Kingdoms VIII": [
+			{"title": "Romance of the Three Kingdoms VIII"},
+			{"title": "Sangokushi VIII with Power-Up Kit"},
+			{"title": "Sangokushi VIII", "priority": 2}
+		],
+		"Romance of the Three Kingdoms X": [
+			{"title": "Romance of the Three Kingdoms X"},
+			{"title": "Sangokushi X"}
+		],
+		"Romance of the Three Kingdoms XI": [
+			{"title": "Romance of the Three Kingdoms XI"},
+			{"title": "Sangokushi 11 with Power-Up Kit"},
+			{"title": "Sangokushi 11", "priority": 2}
+		],
+		"Romancing SaGa": [
+			{"title": "Romancing SaGa"},
+			{"title": "Romancing SaGa - Minstrel Song"}
+		],
+		"RPG Maker II": [
+			{"title": "RPG Maker II"},
+			{"title": "RPG Tkool 5"}
+		],
+		"RPG Maker 3": [
+			{"title": "RPG Maker 3"},
+			{"title": "RPG Tkool"}
+		],
+		"RSII - Riding Spirits": [
+			{"title": "RSII - Riding Spirits"},
+			{"title": "RSII - Riding Spirits 2"}
+		],
+		"Rugby League 2": [
+			{"title": "Rugby League 2"},
+			{"superset": "Rugby League 2 - World Cup Edition"}
+		],
+		"Runabout 3 - Neo Age": [
+			{"title": "Runabout 3 - Neo Age"},
+			{"title": "Simple 2000 Series Ultimate Vol. 9 - Bakusou! Manhattan - Runabout 3 - Neo Age"}
+		],
+		"Rygar - The Legendary Adventure": [
+			{"title": "Rygar - The Legendary Adventure"},
+			{"title": "Argus no Senshi"},
+			{"title": "Argus Zhanshi"},
+			{"title": "Argus-ui Jeonsa"}
+		],
+		"Ryuu ga Gotoku 2 (Disc 1)": [
+			{"title": "Ryuu ga Gotoku 2 (Disc 1)"},
+			{"superset": "Ryuu ga Gotoku 2"},
+			{"superset": "Yakuza 2"}
+		],
+		"Ryuu ga Gotoku 2 (Disc 2)": [
+			{"title": "Ryuu ga Gotoku 2 (Disc 2)"},
+			{"superset": "Ryuu ga Gotoku 2"},
+			{"superset": "Yakuza 2"}
+		],
+		"Saint Seiya - The Hades": [
+			{"title": "Saint Seiya - The Hades"},
+			{"title": "Saint Seiya - Meiou Hades Juunikyuu-hen"}
+		],
+		"Saint Seiya - The Sanctuary": [
+			{"title": "Saint Seiya - The Sanctuary"},
+			{"title": "Saint Seiya - Sanctuary Juunikyuu-hen"}
+		],
+		"Sakura Taisen - Atsuki Chishio ni": [
+			{"title": "Sakura Taisen - Atsuki Chishio ni"},
+			{"title": "Yinghua Dazhan - Chire Zhi Xue"}
+		],
+		"Sakura Taisen 3 - Paris wa Moeteiru ka (Shokai Press-ban)": [
+			{"title": "Sakura Taisen 3 - Paris wa Moeteiru ka (Shokai Press-ban)"},
+			{"title": "Sakura Daejeon 3 - Paris-neun Bultago Issneunga"}
+		],
+		"Sakura Taisen V Episode 0 - Kouya no Samurai Musume": [
+			{"title": "Sakura Taisen V Episode 0 - Kouya no Samurai Musume"},
+			{"title": "Sakura Daejeon V Episode 0 - Hwangya-ui Samurai Agassi"},
+			{"title": "Yinghua Dazhan V Episode 0 - Huangye de Shaonue Wushi"}
+		],
+		"Sakura Wars - So Long, My Love (Disc 2) (Japanese Voice Over)": [
+			{"title": "Sakura Wars - So Long, My Love (Disc 2) (Japanese Voice Over)"},
+			{"title": "Sakura Taisen V - Saraba Itoshiki Hito yo"}
+		],
+		"Samurai Champloo - Sidetracked": [
+			{"title": "Samurai Champloo - Sidetracked"},
+			{"title": "Samurai Champloo"}
+		],
+		"Samurai Shodown": [
+			{"compilation": "Samurai Shodown Anthology"}
+		],
+		"Samurai Shodown II": [
+			{"compilation": "Samurai Shodown Anthology"}
+		],
+		"Samurai Shodown III": [
+			{"compilation": "Samurai Shodown Anthology"}
+		],
+		"Samurai Shodown V": [
+			{"title": "Samurai Shodown V"},
+			{"title": "Samurai Spirits Zero"},
+			{"compilation": "Samurai Shodown Anthology"}
+		],
+		"Samurai Shodown VI": [
+			{"title": "Samurai Spirits - Tenka-ichi Kenkakuden"},
+			{"compilation": "Samurai Shodown Anthology"}
+		],
+		"Samurai Warriors": [
+			{"title": "Samurai Warriors"},
+			{"title": "Jeonguk Mussang"},
+			{"title": "Sengoku Musou"}
+		],
+		"Samurai Warriors - Xtreme Legends": [
+			{"title": "Samurai Warriors - Xtreme Legends"},
+			{"title": "Sengoku Musou - Moushouden"}
+		],
+		"Samurai Warriors 2": [
+			{"title": "Samurai Warriors 2"},
+			{"title": "Sengoku Musou 2"}
+		],
+		"Samurai Warriors 2 - Empires": [
+			{"title": "Samurai Warriors 2 - Empires"},
+			{"title": "Sengoku Musou 2 - Empires"}
+		],
+		"Samurai Warriors 2 - Xtreme Legends": [
+			{"title": "Samurai Warriors 2 - Xtreme Legends"},
+			{"title": "Sengoku Musou 2 - Moushouden"}
+		],
+		"Samurai Western": [
+			{"title": "Samurai Western"},
+			{"title": "Samurai Western - Katsugeki Samurai-dou"}
+		],
+		"Saru! Get You! Million Monkeys": [
+			{"title": "Saru! Get You! Million Monkeys"},
+			{"title": "Zhuo Hou La - Baiwan Houjun Jingbao Da Chuji"}
+		],
+		"Saturday Night Speedway": [
+			{"title": "Saturday Night Speedway"},
+			{"title": "Stock Car Speedway"}
+		],
+		"SBK - Superbike World Championship": [
+			{"title": "SBK - Superbike World Championship"},
+			{"title": "SBK 08 - Superbike World Championship"}
+		],
+		"Scooby-Doo! Night of 100 Frights": [
+			{"title": "Scooby-Doo! Night of 100 Frights"},
+			{"title": "Scooby-Doo! La Nuit des 100 Frissons"},
+			{"title": "Scooby-Doo! Nacht der 100 Schrecken"}
+		],
+		"Score International Baja 1000 - The Official Game": [
+			{"title": "Score International Baja 1000 - The Official Game"},
+			{"title": "Score International Baja 1000 - World Championship Off Road Racing"}
+		],
+		"SD Gundam Force - Showdown!": [
+			{"title": "SD Gundam Force - Showdown!"},
+			{"title": "SD Gundam Force - Daikessen! Jigen Kaizoku De Scar!!"}
+		],
+		"Seed, The - Warzone": [
+			{"title": "Seed, The - Warzone"},
+			{"title": "Seed, The"}
+		],
+		"Sega Bass Fishing Duel": [
+			{"title": "Sega Bass Fishing Duel"},
+			{"title": "Get Bass Battle"}
+		],
+		"Sega Genesis Collection": [
+			{"title": "Sega Genesis Collection"},
+			{"title": "Sega Mega Drive Collection"}
+		],
+		"Sega Sports Tennis": [
+			{"title": "Sega Sports Tennis"},
+			{"title": "Power Smash 2"},
+			{"title": "Virtua Tennis 2 - Sega Professional Tennis"}
+		],
+		"Sega Superstars (Doukonban)": [
+			{"title": "Sega Superstars (Doukonban)"},
+			{"title": "Sega Superstars", "priority": 2}
+		],
+		"Seek and Destroy": [
+			{"title": "Seek and Destroy"},
+			{"title": "Shin Combat Choro Q"}
+		],
+		"Shadow of Destiny": [
+			{"title": "Shadow of Destiny"},
+			{"title": "Shadow of Memories"}
+		],
+		"Shadow of the Colossus": [
+			{"title": "Shadow of the Colossus"},
+			{"title": "Wander to Kyozou"},
+			{"title": "Wang Da Yu Ju Xiang"}
+		],
+		"Shadow Hearts - Covenant (Disc 1)": [
+			{"title": "Shadow Hearts - Covenant (Disc 1)"},
+			{"title": "Shadow Hearts II (Disc 1)"},
+			{"superset": "Shadow Hearts II - Director's Cut (Disc 1)"}
+		],
+		"Shadow Hearts - Covenant (Disc 2)": [
+			{"title": "Shadow Hearts - Covenant (Disc 2)"},
+			{"title": "Shadow Hearts II (Disc 2)"},
+			{"superset": "Shadow Hearts II - Director's Cut (Disc 2)"}
+		],
+		"Shadow Hearts - From the New World (Premium Box)": [
+			{"title": "Shadow Hearts - From the New World (Premium Box)"},
+			{"title": "Shadow Hearts - From the New World", "priority": 2}
+		],
+		"Shepherd's Crossing": [
+			{"title": "Shepherd's Crossing"},
+			{"title": "SuperLite 2000 Vol. 36 - Youkoso Hitsuji-mura"}
+		],
+		"Shibai Michi": [
+			{"title": "Shibai Michi"},
+			{"superset": "Shibai Michi (Doukonban)"}
+		],
+		"Shox": [
+			{"title": "Shox"},
+			{"title": "Rally Shox"},
+			{"title": "Shox - Rally Reinvented"}
+		],
+		"Shin Megami Tensei - Devil Summoner - Raidou Kuzunoha vs. the Soulless Army": [
+			{"title": "Shin Megami Tensei - Devil Summoner - Raidou Kuzunoha vs. the Soulless Army"},
+			{"title": "Devil Summoner - Kuzunoha Raidou tai Chouriki Heidan"}
+		],
+		"Shin Megami Tensei - Devil Summoner 2 - Raidou Kuzunoha vs. King Abaddon": [
+			{"title": "Shin Megami Tensei - Devil Summoner 2 - Raidou Kuzunoha vs. King Abaddon"},
+			{"title": "Devil Summoner - Kuzunoha Raidou tai Abaddon-ou"}
+		],
+		"Shin Megami Tensei - Digital Devil Saga": [
+			{"title": "Shin Megami Tensei - Digital Devil Saga"},
+			{"title": "Digital Devil Saga - Avatar Tuner"}
+		],
+		"Shin Megami Tensei - Digital Devil Saga 2": [
+			{"title": "Shin Megami Tensei - Digital Devil Saga 2"},
+			{"title": "Digital Devil Saga - Avatar Tuner 2"}
+		],
+		"Shin Megami Tensei - Nocturne": [
+			{"title": "Shin Megami Tensei - Nocturne"},
+			{"title": "Shin Megami Tensei III - Nocturne Maniax - Chronicle Edition"},
+			{"title": "Shin Megami Tensei - Lucifer's Call"},
+			{"title": "Jin Yeosin Jeonsaeng III - Nocturne Maniax"},
+			{"title": "Jin Yeosin Jeonsaeng III - Nocturne", "priority": 2},
+			{"title": "Shin Megami Tensei III - Nocturne Maniax", "priority": 2},
+			{"title": "Shin Megami Tensei III - Nocturne", "priority": 3},
+			{"title": "Shin Megami Tensei III - Nocturne (Tsutaya Original Version)", "priority": 3},
+			{"title": "Shin Megami Tensei III - Nocturne (Deluxe Pack)", "priority": 4}
+		],
+		"Shin Megami Tensei - Persona 3": [
+			{"title": "Shin Megami Tensei - Persona 3"},
+			{"title": "P3 - Persona 3"},
+			{"title": "Persona 3"},
+			{"superset": "Shin Megami Tensei - Persona 3 FES"},
+			{"superset": "Persona 3 FES"}
+		],
+		"Shin Megami Tensei - Persona 4": [
+			{"title": "Shin Megami Tensei - Persona 4"},
+			{"title": "Persona 4"},
+			{"title": "Yeosin Jeonsaeng Persona 4"}
+		],
+		"Shin Sangoku Musou 5 Special (Disc 1)": [
+			{"title": "Shin Sangoku Musou 5 Special (Disc 1)"},
+			{"superset": "Dynasty Warriors 6"},
+			{"superset": "Jin Samguk Mussang 5 Special"},
+			{"superset": "Zhen San Guo Wu Shuang 5 Special"}
+		],
+		"Shin Sangoku Musou 5 Special (Disc 2)": [
+			{"title": "Shin Sangoku Musou 5 Special (Disc 2)"},
+			{"superset": "Dynasty Warriors 6"},
+			{"superset": "Jin Samguk Mussang 5 Special"},
+			{"superset": "Zhen San Guo Wu Shuang 5 Special"}
+		],
+		"Shinobido - Way of the Ninja": [
+			{"title": "Shinobido - Way of the Ninja"},
+			{"title": "Shinobi-dou - Imashime"}
+		],
+		"Shogun's Blade": [
+			{"title": "Shogun's Blade"},
+			{"title": "Simple 2000 Series Vol. 47 - The Kassen Sekigahara"}
+		],
+		"Shonen Jump's One Piece - Grand Battle": [
+			{"title": "Shonen Jump's One Piece - Grand Battle"},
+			{"title": "One Piece - Grand Battle! Rush"}
+		],
+		"Shonen Jump's One Piece - Pirates' Carnival": [
+			{"title": "Shonen Jump's One Piece - Pirates' Carnival"},
+			{"title": "One Piece - Pirates Carnival"}
+		],
+		"Sidewinder Max": [
+			{"title": "Sidewinder Max"},
+			{"title": "Iron Eagle Max"}
+		],
+		"Silent Hill 2": [
+			{"title": "Silent Hill 2"},
+			{"superset": "Silent Hill 2 (USA) (En,Ja,Fr,De,Es,It) (v2.01)", "match": "full"},
+			{"superset": "Silent Hill 2 - Director's Cut"},
+			{"superset": "Silent Hill 2 - Saigo no Uta"}
+		],
+		"Silent Line - Armored Core": [
+			{"title": "Silent Line - Armored Core"},
+			{"title": "Armored Core 3 - Silent Line"}
+		],
+		"Silent Scope 2 - Dark Silhouette": [
+			{"title": "Silent Scope 2 - Dark Silhouette"},
+			{"title": "Silent Scope 2 - Fatal Judgement"},
+			{"title": "Silent Scope 2 - Innocent Sweeper"}
+		],
+		"Simple Outlaws DX Gaiden - Chou Saisoku! Zokusha King Bore Up - Butchigiri Densetsu 2": [
+			{"title": "Simple Outlaws DX Gaiden - Chou Saisoku! Zokusha King Bore Up - Butchigiri Densetsu 2"},
+			{"superset": "Simple 2000 Series Ultimate Vol. 25 - Chou Saisoku! Zokusha King Bore Up no Bore Up - Butchigiri Densetsu 2 Kai"}
+		],
+		"Simpsons Game, The": [
+			{"title": "Simpsons Game, The"},
+			{"title": "Simpson, Les - Le Jeu"},
+			{"title": "Simpsons, Die - Das Spiel"}
+		],
+		"Sims, The": [
+			{"title": "Sims, The"},
+			{"title": "SimPeople - Ochanoma Gekijou"}
+		],
+		"SingStar Die groessten Solokuenstler": [
+			{"title": "SingStar Die groessten Solokuenstler"},
+			{"title": "SingStar Polskie Hity"}
+		],
+		"SingStar Legends": [
+			{"title": "SingStar Legends"},
+			{"title": "SingStar Legendat"}
+		],
+		"SingStar Party": [
+			{"title": "SingStar Party"},
+			{"title": "SingStar NRJ Music Tour"}
+		],
+		"SingStar Pop": [
+			{"title": "SingStar Pop"},
+			{"title": "SingStar Norske Hits"},
+			{"title": "SingStar Popworld"},
+			{"title": "SingStar Radio 105"},
+			{"title": "SingStar Svenska Hits"},
+			{"title": "SingStar The Dome"}
+		],
+		"SingStar Pop 2009": [
+			{"title": "SingStar Pop 2009"},
+			{"title": "SingStar Svenska Stjaernor"},
+			{"title": "SingStar SuomiPop"}
+		],
+		"SingStar Pop Hits": [
+			{"title": "SingStar Pop Hits"},
+			{"title": "SingStar Pop Hits - 40 Principales"},
+			{"title": "SingStar ESKA - Hity na Czasie"}
+		],
+		"SingStar Rocks!": [
+			{"title": "SingStar Rocks!"},
+			{"title": "SingStar Rocks! TMF"},
+			{"title": "SingStar Rocks! with RTE 2fm"}
+		],
+		"SingStar Singalong with Disney": [
+			{"title": "SingStar Singalong with Disney"},
+			{"title": "SingStar Best of Disney"},
+			{"title": "SingStar - Chansons Magiques de Disney"},
+			{"title": "SingStar Canciones Disney"},
+			{"title": "SingStar Cancoes Disney"},
+			{"title": "SingStar e la Magia Disney"},
+			{"title": "SingStar Sjung med Disney"},
+			{"title": "SingStar Syng med Disney"},
+			{"title": "SingStar Zingt met Disney"}
+		],
+		"SingStar Summer Party": [
+			{"title": "SingStar Summer Party"},
+			{"title": "SingStar Party Hits"},
+			{"title": "SingStar Wakacyjna Impreza!"}
+		],
+		"Siren": [
+			{"title": "Siren"},
+			{"title": "Forbidden Siren"},
+			{"title": "Si Hun Qu 2"}
+		],
+		"Ski-Doo Snow X Racing": [
+			{"title": "Ski-Doo Snow X Racing"},
+			{"title": "SXR - Snow X Racing"}
+		],
+		"Sky Odyssey": [
+			{"title": "Sky Odyssey"},
+			{"title": "Sky Odyssey, The"}
+		],
+		"Sly Cooper and the Thievius Raccoonus": [
+			{"title": "Sly Cooper and the Thievius Raccoonus"},
+			{"title": "Kaitou Sly Cooper"},
+			{"title": "Sly Cooper - Jeonseolui Bibeobseoreul Chajaseo"},
+			{"title": "Sly Raccoon"}
+		],
+		"Sly 2 - Band of Thieves": [
+			{"title": "Sly 2 - Band of Thieves"},
+			{"title": "Kaitou Sly Cooper 2"}
+		],
+		"Sly 3 - Honor Among Thieves": [
+			{"title": "Sly 3 - Honor Among Thieves"},
+			{"title": "Sly 3 - Honour Among Thieves"}
+		],
+		"Smash Court Tennis - Pro Tournament": [
+			{"title": "Smash Court Tennis - Pro Tournament"},
+			{"title": "Smash Court Pro Tournament"}
+		],
+		"Smash Court Tennis - Pro Tournament 2": [
+			{"title": "Smash Court Tennis - Pro Tournament 2"},
+			{"title": "Smash Court Pro Tournament 2"}
+		],
+		"Smuggler's Run": [
+			{"title": "Smuggler's Run"},
+			{"title": "Crazy Bump's - Kattobi Car Battle!"}
+		],
+		"Sniper 2, The": [
+			{"title": "Sniper 2, The"},
+			{"title": "Simple 2000 Series Vol. 16 - The Sniper 2 - Akumu no Juudan"}
+		],
+		"Snowboard Racer 2": [
+			{"title": "Snowboard Racer 2"},
+			{"title": "Simple 2000 Series Vol. 6 - The Snowboard"}
+		],
+		"Soccer America - International Cup": [
+			{"title": "Soccer America - International Cup"},
+			{"title": "Greatest Striker"},
+			{"title": "International League Soccer"}
+		],
+		"Soccer Life!": [
+			{"title": "Soccer Life!"},
+			{"title": "Soccer Life! We are Challengers to Europe"}
+		],
+		"Soccer Life 2": [
+			{"title": "Soccer Life 2"},
+			{"title": "Soccer Life 2 - We are Challengers to Europe"}
+		],
+		"Soccer Mania": [
+			{"title": "Soccer Mania"},
+			{"title": "Football Mania"}
+		],
+		"Sol Divide": [
+			{"title": "Sol Divide"},
+			{"compilation": "Psikyo Shooting Collection Vol. 3 - Sol Divide & Dragon Blaze", "title_position": 1}
+		],
+		"Soul Nomad & the World Eaters": [
+			{"title": "Soul Nomad & the World Eaters"},
+			{"title": "Soul Cradle - Sekai o Kurau Mono"}
+		],
+		"Space Channel 5 - Special Edition (Disc 1)": [
+			{"title": "Space Channel 5 - Special Edition (Disc 1)"},
+			{"title": "Space Channel 5"}
+		],
+		"Space Channel 5 - Special Edition (Disc 2)": [
+			{"title": "Space Channel 5 - Special Edition (Disc 2)"},
+			{"title": "Space Channel 5 Part 2"}
+		],
+		"Space Invaders - Invasion Day": [
+			{"title": "Space Invaders - Invasion Day"},
+			{"title": "Simple 2000 Series Vol. 52 - The Chikyuu Shinryakugun - Space Raiders"}
+		],
+		"Space War Attack": [
+			{"title": "Space War Attack"},
+			{"title": "Simple 2000 Series Vol. 78 - The Uchuu Daisensou"}
+		],
+		"Spartan - Total Warrior": [
+			{"title": "Spartan - Total Warrior"},
+			{"title": "Spartan - Kodai Greece Eiyuuden"}
+		],
+		"Spawn - Armageddon": [
+			{"title": "Spawn - Armageddon"},
+			{"title": "Spawn - Unmei no Kusari"}
+		],
+		"Special Forces": [
+			{"title": "Special Forces"},
+			{"title": "Simple 2000 Series Vol. 108 - The Nihon Tokushu Butai - Kyouaku Hanzai Rettou 24-ji"}
+		],
+		"Spectral Force Chronicle (10-shuunen Kinen Box)": [
+			{"title": "Spectral Force Chronicle (10-shuunen Kinen Box)"},
+			{"title": "Spectral Force Chronicle", "priority": 2}
+		],
+		"Splashdown - Rides Gone Wild": [
+			{"title": "Splashdown - Rides Gone Wild"},
+			{"title": "Splashdown 2 - Rides Gone Wild"}
+		],
+		"Splatter Master": [
+			{"title": "Splatter Master"},
+			{"title": "Simple 2000 Series Vol. 64 - The Splatter Action"}
+		],
+		"SSX": [
+			{"title": "SSX"},
+			{"title": "X-treme Racing SSX"}
+		],
+		"Star Ocean - Till the End of Time (Disc 1)": [
+			{"title": "Star Ocean - Till the End of Time (Disc 1)"},
+			{"title": "Star Ocean - Till the End of Time - Director's Cut (Disc 1)"},
+			{"title": "Star Ocean - Till the End of Time", "priority": 2}
+		],
+		"Star Ocean - Till the End of Time (Disc 2)": [
+			{"title": "Star Ocean - Till the End of Time (Disc 2)"},
+			{"title": "Star Ocean - Till the End of Time - Director's Cut (Disc 2)"}
+		],
+		"Star Wars - Bounty Hunter": [
+			{"title": "Star Wars - Bounty Hunter"},
+			{"title": "Star Wars - Jango Fett"}
+		],
+		"Star Wars - Episode III - Revenge of the Sith": [
+			{"title": "Star Wars - Episode III - Revenge of the Sith"},
+			{"title": "Star Wars - Episode III - Die Rache der Sith"},
+			{"title": "Star Wars - Episode III - La Revanche des Sith"},
+			{"title": "Star Wars - Episode III - Sith no Fukushuu"}
+		],
+		"Star Wars - The Clone Wars": [
+			{"title": "Star Wars - The Clone Wars"},
+			{"title": "Star Wars - La Guerra dei Cloni"},
+			{"title": "Star Wars - Las Guerras Clon"}
+		],
+		"Steambot Chronicles": [
+			{"title": "Steambot Chronicles"},
+			{"title": "Ponkotsu Roman Daikatsugeki - Bumpy Trot"}
+		],
+		"Steel Dragon EX": [
+			{"title": "Steel Dragon EX"},
+			{"title": "Simple 2000 Series Vol. 37 - The Shooting - Double Shienryuu"}
+		],
+		"Stella Deus - The Gate of Eternity": [
+			{"title": "Stella Deus - The Gate of Eternity"},
+			{"title": "Stella Deus"}
+		],
+		"Street Boyz": [
+			{"title": "Street Boyz"},
+			{"title": "Simple 2000 Series Ultimate Vol. 21 - Kenka Joutou! Yankee Banchou - Shouwa 99-nen no Densetsu"}
+		],
+		"Street Fighter Alpha Anthology": [
+			{"title": "Street Fighter Alpha Anthology"},
+			{"title": "Street Fighter Zero - Fighter's Generation"}
+		],
+		"Street Golfer": [
+			{"title": "Street Golfer"},
+			{"title": "Simple 2000 Series Ultimate Vol. 12 - Street Golfer"}
+		],
+		"Stretch Panic": [
+			{"title": "Stretch Panic"},
+			{"title": "Freak Out"},
+			{"title": "Hippa Linda"}
+		],
+		"Suikoden III": [
+			{"title": "Suikoden III"},
+			{"title": "Gensou Suikoden III (Gensou Suikoden-sai Hakkou Kinen)"},
+			{"title": "Gensou Suikoden III", "priority": 2}
+		],
+		"Suikoden IV": [
+			{"title": "Suikoden IV"},
+			{"title": "Gensou Suikoden IV"}
+		],
+		"Suikoden V": [
+			{"title": "Suikoden V"},
+			{"title": "Gensou Suikoden V"}
+		],
+		"Suikoden Tactics": [
+			{"title": "Suikoden Tactics"},
+			{"title": "Rhapsodia"}
+		],
+		"Summer Athletics - The Ultimate Challenge": [
+			{"title": "Summer Athletics - The Ultimate Challenge"},
+			{"title": "Summer Athletics"}
+		],
+		"Super Trucks Racing": [
+			{"title": "Super Trucks Racing"},
+			{"title": "Super Trucks"}
+		],
+		"Super Bust-A-Move": [
+			{"title": "Super Bust-A-Move"},
+			{"title": "Super Puzzle Bobble"}
+		],
+		"Super Bust-A-Move 2": [
+			{"title": "Super Bust-A-Move 2"},
+			{"title": "Super Puzzle Bobble 2"}
+		],
+		"SuperLite 2000 Vol. 8 - Psyvariar - Medium Unit": [
+			{"title": "SuperLite 2000 Vol. 8 - Psyvariar - Medium Unit"},
+			{"compilation": "Psyvariar - Complete Edition", "priority": 1},
+			{"compilation": "Psyvariar - Complete Edition (Special Capture Box)", "priority": 2},
+			{"compilation": "Psyvariar - Complete Edition (Special Sound Box)", "priority": 3}
+		],
+		"SuperLite 2000 Vol. 10 - Psyvariar - Revision": [
+			{"title": "SuperLite 2000 Vol. 10 - Psyvariar - Revision"},
+			{"compilation": "Psyvariar - Complete Edition", "priority": 1},
+			{"compilation": "Psyvariar - Complete Edition (Special Capture Box)", "priority": 2},
+			{"compilation": "Psyvariar - Complete Edition (Special Sound Box)", "priority": 3}
+		],
+		"Surfing H3O": [
+			{"title": "Surfing H3O"},
+			{"title": "Surfroid - Densetsu no Surfer"}
+		],
+		"Suzuki TT Superbikes - Real Road Racing": [
+			{"title": "Suzuki TT Superbikes - Real Road Racing"},
+			{"title": "TT Superbikes"},
+			{"title": "TT Superbikes - Real Road Racing"}
+		],
+		"Suzuki TT Superbikes - Real Road Racing Championship": [
+			{"title": "Suzuki TT Superbikes - Real Road Racing Championship"},
+			{"title": "TT Superbikes - Real Road Racing Championship"}
+		],
+		"Sven-Goeran Eriksson's World Challenge": [
+			{"title": "Sven-Goeran Eriksson's World Challenge"},
+			{"title": "Marcel Desailly Pro Football"},
+			{"title": "Mundial 2002 Challenge"},
+			{"title": "WM Nationalspieler"}
+		],
+		"Swap Magic 3 Plus (DVD)": [
+			{"title": "Swap Magic 3 Plus (DVD)"},
+			{"title": "Swap Magic 3 Plus (Disc)", "priority": 2}
+		],
+		"Swords of Destiny": [
+			{"title": "Swords of Destiny"},
+			{"title": "Cheonseong - Swords of Destiny"},
+			{"title": "Tensei - Swords of Destiny"}
+		],
+		"Sword of Etheria, The": [
+			{"title": "Sword of Etheria, The"},
+			{"title": "Oz"}
+		],
+		"Sword of the Samurai": [
+			{"title": "Sword of the Samurai"},
+			{"title": "Kengou 2"},
+			{"title": "Geomho 2"}
+		],
+		"Taiko Drum Master": [
+			{"title": "Taiko Drum Master"},
+			{"title": "Taiko no Tatsujin - Taiko Drum Master"}
+		],
+		"Taisen Hot Gimmick - Axes-jong": [
+			{"title": "Taisen Hot Gimmick - Axes-jong"},
+			{"superset": "Taisen Hot Gimmick - Axes-jong (Special-ban)"}
+		],
+		"Taisen Hot Gimmick - Cosplay-jong": [
+			{"title": "Taisen Hot Gimmick - Cosplay-jong"},
+			{"superset": "Taisen Hot Gimmick - Cosplay-jong (Special-ban)"}
+		],
+		"Taito Memories - Gekan (Eternal Hits)": [
+			{"title": "Taito Memories - Gekan (Eternal Hits)"},
+			{"title": "Taito Memories - Gekan", "priority": 2},
+			{"title": "Taito Memories - Gekan (Taito Best)", "priority": 3}
+		],
+		"Taito Memories - Joukan (Eternal Hits)": [
+			{"title": "Taito Memories - Joukan (Eternal Hits)"},
+			{"title": "Taito Memories - Joukan", "priority": 2},
+			{"title": "Taito Memories - Joukan (Taito Best)", "priority": 3}
+		],
+		"Tak and the Power of Juju": [
+			{"title": "Tak and the Power of Juju"},
+			{"title": "Tak & Le Pouvoir de Juju"},
+			{"title": "Tak e la Magia Juju"},
+			{"title": "Tak und die Macht des Juju"},
+			{"title": "Tak y el Poder Juju"}
+		],
+		"Tales of Destiny": [
+			{"title": "Tales of Destiny"},
+			{"superset": "Tales of Destiny - Director's Cut"}
+		],
+		"Tank Elite": [
+			{"title": "Tank Elite"},
+			{"title": "Simple 2000 Series Vol. 32 - The Sensha"}
+		],
+		"Taxi Rider": [
+			{"title": "Taxi Rider"},
+			{"title": "Simple 2000 Series Vol. 48 - The Taxi - Untenshu wa Kimi da"}
+		],
+		"TearRingSaga Series - Berwick Saga - Lazberia Chronicle Chapter 174 (Premium Box)": [
+			{"title": "TearRingSaga Series - Berwick Saga - Lazberia Chronicle Chapter 174 (Premium Box)"},
+			{"title": "TearRingSaga Series - Berwick Saga - Lazberia Chronicle Chapter 174", "priority": 2}
+		],
+		"Tenchu - Fatal Shadows": [
+			{"title": "Tenchu - Fatal Shadows"},
+			{"title": "Tenchu Kurenai"},
+			{"title": "Tianzhu Hong"}
+		],
+		"Tenchu - Wrath of Heaven": [
+			{"title": "Tenchu - Wrath of Heaven"},
+			{"title": "Tenchu 3"},
+			{"title": "Tenchu - La Colere Divine"},
+			{"title": "Tenchu - La Ira del Cielo"}
+		],
+		"Tengai Makyou II - Manji Maru (Picture Label Shiyou)": [
+			{"title": "Tengai Makyou II - Manji Maru (Picture Label Shiyou)"},
+			{"title": "Tengai Makyou II - Manji Maru", "priority": 2}
+		],
+		"Tennis Court Smash": [
+			{"title": "Tennis Court Smash"},
+			{"title": "Simple 2000 Series Vol. 8 - The Tennis"}
+		],
+		"Terminator 3 - Rise of the Machines": [
+			{"title": "Terminator 3 - Rise of the Machines"},
+			{"title": "Terminator 3 - La Rebelion de las Maquinas"},
+			{"title": "Terminator 3 - Le Macchine Ribelli"},
+			{"title": "Terminator 3 - Le Soulevement des Machines"},
+			{"title": "Terminator 3 - Rebellion der Maschinen"}
+		],
+		"Test Drive": [
+			{"title": "Test Drive"},
+			{"title": "TD Overdrive - The Brotherhood of Speed"}
+		],
+		"Test Drive - Eve of Destruction": [
+			{"title": "Test Drive - Eve of Destruction"},
+			{"title": "Driven to Destruction"}
+		],
+		"Test Drive Off-Road - Wide Open": [
+			{"title": "Test Drive Off-Road - Wide Open"},
+			{"title": "Off-Road - Wide Open"}
+		],
+		"Theme Park Roller Coaster": [
+			{"title": "Theme Park Roller Coaster"},
+			{"title": "Theme Park 2001"},
+			{"title": "Theme Park World"}
+		],
+		"Thing, The": [
+			{"title": "Thing, The"},
+			{"title": "Yuusei kara no Buttai X - Episode II"}
+		],
+		"Thrillville - Off the Rails": [
+			{"title": "Thrillville - Off the Rails"},
+			{"title": "Thrillville - Fuera de Control"},
+			{"title": "Thrillville - Fuori dai Binari"},
+			{"title": "Thrillville - Le Parc en Folie"},
+			{"title": "Thrillville - Verrueckte Achterbahn"}
+		],
+		"Thunderstrike - Operation Phoenix": [
+			{"title": "Thunderstrike - Operation Phoenix"},
+			{"title": "Thunder Strike - Operation Phoenix"},
+			{"title": "Thunderhawk - Operation Phoenix"}
+		],
+		"Tiger Woods PGA Tour 2001": [
+			{"title": "Tiger Woods PGA Tour 2001"},
+			{"title": "Tiger Woods USA Tour 2001"}
+		],
+		"Tiger Woods PGA Tour 2002": [
+			{"title": "Tiger Woods PGA Tour 2002"},
+			{"title": "Tiger Woods USA Tour 2002"}
+		],
+		"Tim Burton's The Nightmare Before Christmas - Oogie's Revenge": [
+			{"title": "Tim Burton's The Nightmare Before Christmas - Oogie's Revenge"},
+			{"title": "Tim Burton's The Nightmare Before Christmas - Boogie no Gyakushuu"}
+		],
+		"Time Crisis - Crisis Zone": [
+			{"title": "Time Crisis - Crisis Zone"},
+			{"title": "Crisis Zone"}
+		],
+		"Time Crisis II (With GunCon2)": [
+			{"title": "Time Crisis II (With GunCon2)"},
+			{"title": "Time Crisis II", "priority": 2}
+		],
+		"Time Crisis 3 (With GunCon2)": [
+			{"title": "Time Crisis 3 (With GunCon2)"},
+			{"title": "Time Crisis 3", "priority": 2}
+		],
+		"TOCA Race Driver 2": [
+			{"title": "TOCA Race Driver 2"},
+			{"title": "TOCA Race Driver 2 - Ultimate Racing Simulator"},
+			{"title": "V8 Supercars Australia 2"},
+			{"title": "DTM Race Driver 2", "priority": 2}
+		],
+		"TOCA Race Driver 3 - The Ultimate Racing Simulator": [
+			{"title": "TOCA Race Driver 3 - The Ultimate Racing Simulator"},
+			{"title": "TOCA Race Driver 3"},
+			{"title": "V8 Supercars Australia 3"},
+			{"title": "DTM Race Driver 3", "priority": 2}
+		],
+		"Tokobot Plus - Mysteries of the Karakuri": [
+			{"title": "Tokobot Plus - Mysteries of the Karakuri"},
+			{"title": "Korobot Adventure"}
+		],
+		"Tokyo Road Race": [
+			{"title": "Tokyo Road Race"},
+			{"title": "Battle Gear 2"}
+		],
+		"Tokyo Xtreme Racer - Zero": [
+			{"title": "Tokyo Xtreme Racer - Zero"},
+			{"title": "Shutokou Battle 0"},
+			{"title": "Tokyo Xtreme Racer"}
+		],
+		"Tokyo Xtreme Racer - Drift": [
+			{"title": "Tokyo Xtreme Racer - Drift"},
+			{"title": "Kaidou Battle - Nikko, Haruna, Rokko, Hakone"}
+		],
+		"Tokyo Xtreme Racer - Drift 2": [
+			{"title": "Tokyo Xtreme Racer - Drift 2"},
+			{"title": "Kaido Racer 2"},
+			{"title": "Kaidou - Touge no Densetsu"}
+		],
+		"Tokyo Xtreme Racer 3": [
+			{"title": "Tokyo Xtreme Racer 3"},
+			{"title": "Shutokou Battle 01"}
+		],
+		"Tom and Jerry in War of the Whiskers": [
+			{"title": "Tom and Jerry in War of the Whiskers"},
+			{"title": "Tom to Jerry - Hige Hige Daisensou"}
+		],
+		"Tom Clancy's Splinter Cell - Double Agent": [
+			{"title": "Tom Clancy's Splinter Cell - Double Agent"},
+			{"title": "Tom Clancy's Splinter Cell - Nijuu Spy"}
+		],
+		"Tony Hawk's American Wasteland": [
+			{"title": "Tony Hawk's American Wasteland"},
+			{"superset": "Tony Hawk's American Wasteland (Collector's Edition)"}
+		],
+		"Tony Hawk's Pro Skater 4": [
+			{"title": "Tony Hawk's Pro Skater 4"},
+			{"title": "Tony Hawk's Pro Skater 2003"}
+		],
+		"Top Gear Dare Devil": [
+			{"title": "Top Gear Dare Devil"},
+			{"title": "TG DareDevil"}
+		],
+		"Top Gun - Combat Zones": [
+			{"title": "Top Gun - Combat Zones"},
+			{"title": "Top Gun - Ace of the Sky"}
+		],
+		"Torrente 3 - The Protector": [
+			{"title": "Torrente 3 - The Protector"},
+			{"title": "Torrente 3 - El Protector"}
+		],
+		"Total Overdose - A Gunslinger's Tale in Mexico": [
+			{"title": "Total Overdose - A Gunslinger's Tale in Mexico"},
+			{"title": "Total Overdose"}
+		],
+		"Tourist Trophy": [
+			{"title": "Tourist Trophy"},
+			{"title": "Tourist Trophy - The Real Riding Simulator"}
+		],
+		"Trapt": [
+			{"title": "Trapt"},
+			{"title": "Kagero II - Dark Illusion"}
+		],
+		"Transformers": [
+			{"title": "Transformers"},
+			{"superset": "Transformers (Director's Cut)"}
+		],
+		"Tsugunai - Atonement": [
+			{"title": "Tsugunai - Atonement"},
+			{"title": "Tsugunai"}
+		],
+		"Twenty 2 Party": [
+			{"title": "Twenty 2 Party"},
+			{"title": "Simple 2000 Series Vol. 18 - The Party Sugoroku"}
+		],
+		"Typing Namidabashi - Ashita no Joe Touda (USB Keyboard Doukonban)": [
+			{"title": "Typing Namidabashi - Ashita no Joe Touda (USB Keyboard Doukonban)"},
+			{"title": "Typing Namidabashi - Ashita no Joe Touda", "priority": 2}
+		],
+		"Typing Ren'ai Hakusho - Boys Be... (Keyboard Set)": [
+			{"title": "Typing Ren'ai Hakusho - Boys Be... (Keyboard Set)"},
+			{"title": "Typing Ren'ai Hakusho - Boys Be...", "priority": 2}
+		],
+		"U-Move Super Sports": [
+			{"title": "U-Move Super Sports"},
+			{"title": "Let's Play Sports!"}
+		],
+		"Uchuujin tte Naani": [
+			{"title": "Uchuujin tte Naani"},
+			{"title": "Simple 2000 Series Vol. 59 - The Uchuujin to Hanasou! Uchuujin tte Naani", "priority": 2}
+		],
+		"UFC - Ultimate Fighting Championship - Sudden Impact": [
+			{"title": "UFC - Ultimate Fighting Championship - Sudden Impact"},
+			{"title": "UFC 2004"}
+		],
+		"UFC - Throwdown": [
+			{"title": "UFC - Throwdown"},
+			{"title": "UFC - Ultimate Fighting Championship 2 - Tapout"}
+		],
+		"Ultimate Casino": [
+			{"title": "Ultimate Casino"},
+			{"title": "Simple 2000 Honkaku Shikou Series Vol. 6 - The Card - Blackjack, Daifugou, Draw Poker, Speed, Page One, etc."}
+		],
+		"Ultimate Mind Games": [
+			{"title": "Ultimate Mind Games"},
+			{"title": "Simple 2000 Series Vol. 10 - The Table Game Sekai-hen - Chess, Backgammon, Diamond, Gunjin Shougi, etc."}
+		],
+		"Ultimate Codes for Medal of Honor - Frontline": [
+			{"title": "Ultimate Codes for Medal of Honor - Frontline"},
+			{"title": "Action Replay Ultimate Cheats for Medal of Honor - Frontline"}
+		],
+		"Ultimate Spider-Man": [
+			{"title": "Ultimate Spider-Man"},
+			{"superset": "Ultimate Spider-Man (Limited Edition)"}
+		],
+		"Unlimited Saga (Limited Edition)": [
+			{"title": "Unlimited Saga (Limited Edition)"},
+			{"title": "Unlimited Saga", "priority": 2}
+		],
+		"Under the Skin": [
+			{"title": "Under the Skin"},
+			{"title": "Meiwaku Seijin - Panic Maker"}
+		],
+		"Unison - Rebels of Rhythm & Dance": [
+			{"title": "Unison - Rebels of Rhythm & Dance"},
+			{"title": "Unison"}
+		],
+		"Urban Chaos - Riot Response": [
+			{"title": "Urban Chaos - Riot Response"},
+			{"title": "Urban Chaos"}
+		],
+		"Venus & Braves - Majo to Megami to Horobi no Yogen (Premium Box)": [
+			{"title": "Venus & Braves - Majo to Megami to Horobi no Yogen (Premium Box)"},
+			{"title": "Venus & Braves - Majo to Megami to Horobi no Yogen", "priority": 2}
+		],
+		"Victorious Boxers - Ippo's Road to Glory": [
+			{"title": "Victorious Boxers - Ippo's Road to Glory"},
+			{"title": "Hajime no Ippo - Victorious Boxers"}
+		],
+		"Victorious Boxers 2 - Fighting Spirit": [
+			{"title": "Victorious Boxers 2 - Fighting Spirit"},
+			{"title": "Hajime no Ippo All Stars"}
+		],
+		"Viewtiful Joe": [
+			{"title": "Viewtiful Joe"},
+			{"title": "Viewtiful Joe - A New Hope"},
+			{"title": "Viewtiful Joe - Aratanaru Kibou"}
+		],
+		"Viewtiful Joe 2": [
+			{"title": "Viewtiful Joe 2"},
+			{"title": "Viewtiful Joe 2 - Black Film no Nazo"}
+		],
+		"Virtua Fighter - 10th Anniversary Edition": [
+			{"title": "Virtua Fighter - 10th Anniversary Edition"},
+			{"title": "Virtua Fighter - 10th Anniversary Fukkoku-ban"}
+		],
+		"Virtua Pro Football": [
+			{"title": "Virtua Pro Football"},
+			{"title": "World Football Climax"}
+		],
+		"Virtua Quest": [
+			{"title": "Virtua Quest"},
+			{"title": "Virtua Fighter - Cyber Generation - Judgment Six no Yabou"}
+		],
+		"Volleyball Challenge": [
+			{"title": "Volleyball Challenge"},
+			{"title": "Simple 2000 Series Vol. 41 - The Volleyball"}
+		],
+		"Volleyball Xciting": [
+			{"title": "Volleyball Xciting"},
+			{"title": "SuperLite 2000 Vol. 18 - Waku Waku Volley 2"}
+		],
+		"Waga Ryuu o Miyo - Pride of the Dragon Peace": [
+			{"title": "Waga Ryuu o Miyo - Pride of the Dragon Peace"},
+			{"title": "Kan Wo Long Xian Shen Wei"}
+		],
+		"Walt Disney's The Jungle Book - Rhythm n' Groove": [
+			{"title": "Walt Disney's The Jungle Book - Rhythm n' Groove"},
+			{"title": "Walt Disney's The Jungle Book - Groove Party"}
+		],
+		"Warriors Orochi": [
+			{"title": "Warriors Orochi"},
+			{"title": "Musou Orochi"}
+		],
+		"Warriors Orochi 2": [
+			{"title": "Warriors Orochi 2"},
+			{"title": "Musou Orochi - Maou Sairin"},
+			{"title": "Mussang Orochi - Mawang Jaerim"}
+		],
+		"Warship Gunner 2": [
+			{"title": "Warship Gunner 2"},
+			{"title": "Warship Gunner 2 - Kurogane no Houkou"}
+		],
+		"Wave Rally": [
+			{"title": "Wave Rally"},
+			{"title": "Jet Ski Riders"}
+		],
+		"We Love Katamari": [
+			{"title": "We Love Katamari"},
+			{"title": "Minna Daisuki Katamari Damacy"}
+		],
+		"Weakest Link, The": [
+			{"title": "Weakest Link, The"},
+			{"title": "Maillon Faible, Le"}
+		],
+		"Way of the Samurai": [
+			{"title": "Way of the Samurai"},
+			{"title": "Samurai"},
+			{"title": "Samurai Kanzenban"}
+		],
+		"Way of the Samurai 2": [
+			{"title": "Way of the Samurai 2"},
+			{"title": "Samurai-dou 2 - Kettouban"},
+			{"title": "Samurai-dou 2 - Way of the Samurai 2", "priority": 2}
+		],
+		"Who Wants to Be a Millionaire - 2nd Edition": [
+			{"title": "Who Wants to Be a Millionaire - 2nd Edition"},
+			{"title": "Qui Veut Gagner des Millions - Seconde Edition"},
+			{"title": "Wer wird Millionaer - 2. Edition"}
+		],
+		"Who Wants to Be a Millionaire - Party Edition": [
+			{"title": "Who Wants to Be a Millionaire - Party Edition"},
+			{"title": "Chi Vuol Essere Milionario Party Edition"},
+			{"title": "Wer wird Millionaer - Party Edition"}
+		],
+		"Wild Arms 3": [
+			{"title": "Wild Arms 3"},
+			{"title": "Wild Arms - Advanced 3rd (Premium Box)"},
+			{"title": "Wild Arms - Advanced 3rd", "priority": 2}
+		],
+		"Wild Arms 4": [
+			{"title": "Wild Arms 4"},
+			{"title": "Wild Arms - The 4th Detonator"}
+		],
+		"Wild Arms 5": [
+			{"title": "Wild Arms 5"},
+			{"title": "Wild Arms - The Vth Vanguard"}
+		],
+		"WinBack - Covert Operations": [
+			{"title": "WinBack - Covert Operations"},
+			{"title": "Operation WinBack"},
+			{"title": "WinBack"}
+		],
+		"WinBack 2 - Project Poseidon": [
+			{"title": "WinBack 2 - Project Poseidon"},
+			{"title": "Operation WinBack 2 - Project Poseidon"}
+		],
+		"Winning Eleven - Pro Evolution Soccer 2007": [
+			{"title": "Winning Eleven - Pro Evolution Soccer 2007"},
+			{"title": "Pro Evolution Soccer 6"}
+		],
+		"Winning Post 4 Maximum": [
+			{"title": "Winning Post 4 Maximum"},
+			{"superset": "Winning Post 4 Maximum 2001"}
+		],
+		"Winning Post 5 Maximum 2002": [
+			{"title": "Winning Post 5 Maximum 2002"},
+			{"superset": "Winning Post 5 Maximum 2003"}
+		],
+		"Winning Post 6 - 2005-nendoban": [
+			{"title": "Winning Post 6 - 2005-nendoban"},
+			{"title": "Winning Post 6", "priority": 2}
+		],
+		"Winning Post 7 Maximum 2007": [
+			{"title": "Winning Post 7 Maximum 2007"},
+			{"title": "Winning Post 7 Maximum 2006", "priority": 2},
+			{"title": "Winning Post 7", "priority": 3}
+		],
+		"Winter Sports 2008 - The Ultimate Challenge": [
+			{"title": "Winter Sports 2008 - The Ultimate Challenge"},
+			{"title": "RTL Winter Sports 2008 - The Ultimate Challenge"}
+		],
+		"Winter Sports 2 - The Next Challenge": [
+			{"title": "Winter Sports 2 - The Next Challenge"},
+			{"title": "Winter Sports 2009 - The Next Challenge"}
+		],
+		"Winter X Games Snowboarding 2": [
+			{"title": "Winter X Games Snowboarding 2"},
+			{"title": "ESPN Winter X Games Snowboarding 2002"},
+			{"title": "Winter X Games Snowboarding 2002"}
+		],
+		"Women's Volleyball Championship": [
+			{"title": "Women's Volleyball Championship"},
+			{"title": "FIVB Volleyball World Cup - Venus Evolution"}
+		],
+		"World Fighting": [
+			{"title": "World Fighting"},
+			{"title": "Simple 2000 Series Vol. 42 - The Ishu Kakutougi"}
+		],
+		"World of Outlaws - Sprint Cars 2002": [
+			{"title": "World of Outlaws - Sprint Cars 2002"},
+			{"title": "World of Outlaws - Sprint Cars"}
+		],
+		"World Soccer Winning Eleven 6 - International": [
+			{"title": "World Soccer Winning Eleven 6 - International"},
+			{"title": "Pro Evolution Soccer 2"}
+		],
+		"World Soccer Winning Eleven 7 - International": [
+			{"title": "World Soccer Winning Eleven 7 - International"},
+			{"title": "Pro Evolution Soccer 3"}
+		],
+		"World Soccer Winning Eleven 8 - International": [
+			{"title": "World Soccer Winning Eleven 8 - International"},
+			{"title": "Pro Evolution Soccer 4"}
+		],
+		"World Soccer Winning Eleven 9": [
+			{"title": "World Soccer Winning Eleven 9"},
+			{"title": "Pro Evolution Soccer 5"}
+		],
+		"World Super Police": [
+			{"title": "World Super Police"},
+			{"title": "Kousoku Kidoutai - World Super Police"}
+		],
+		"World Tour Soccer 2002": [
+			{"title": "World Tour Soccer 2002"},
+			{"title": "Monde des Bleus 2002, Le"},
+			{"title": "This Is Football 2002"}
+		],
+		"World Tour Soccer 2003": [
+			{"title": "World Tour Soccer 2003"},
+			{"title": "Monde des Bleus 2003, Le - Un Nouveau Defi"},
+			{"title": "This Is Football 2003"},
+			{"title": "This Is Football - Segye Choegang Chukgu 2003"},
+			{"title": "This Is Football - Soccer Sekai Senki 2003"}
+		],
+		"World Tour Soccer 2005": [
+			{"title": "World Tour Soccer 2005"},
+			{"title": "LMB Nouvelle Generation"},
+			{"title": "This Is Football 2004"},
+			{"title": "This Is Soccer 2004"}
+		],
+		"World Tour Soccer 2006": [
+			{"title": "World Tour Soccer 2006"},
+			{"title": "Monde des Bleus 2005, Le"},
+			{"title": "This Is Football 2005"},
+			{"title": "This Is Soccer 2005"}
+		],
+		"WRC - Rally Evolved": [
+			{"title": "WRC - Rally Evolved"},
+			{"title": "WRC avec Sebastien Loeb Edition 2005"},
+			{"title": "WRC 5 WT", "priority": 2}
+		],
+		"WTA Tour Tennis": [
+			{"title": "WTA Tour Tennis"},
+			{"title": "Pro Tennis WTA Tour"}
+		],
+		"WWE SmackDown! Shut Your Mouth": [
+			{"title": "WWE SmackDown! Shut Your Mouth"},
+			{"title": "Exciting Pro Wres 4"}
+		],
+		"WWE SmackDown! vs. Raw": [
+			{"title": "WWE SmackDown! vs. Raw"},
+			{"title": "Exciting Pro Wres 6 - WWE SmackDown! vs. Raw"}
+		],
+		"WWE SmackDown! vs. Raw 2006": [
+			{"title": "WWE SmackDown! vs. Raw 2006"},
+			{"title": "Exciting Pro Wres 7 - WWE SmackDown! vs. Raw 2006"}
+		],
+		"X-treme Express - World Grand Prix": [
+			{"title": "X-treme Express - World Grand Prix"},
+			{"title": "Tetsu One - Densha de Battle!"},
+			{"title": "Tetsu One - Jeoncharo Battle! World Grand Prix"}
+		],
+		"X Squad": [
+			{"title": "X Squad"},
+			{"title": "CrossFire"}
+		],
+		"X2 - Wolverine's Revenge": [
+			{"title": "X2 - Wolverine's Revenge"},
+			{"title": "X-Men 2 - La Vengeance de Wolverine"},
+			{"title": "X-Men 2 - Wolverine's Revenge"}
+		],
+		"Xenosaga Episode I - Der Wille zur Macht (Premium Box)": [
+			{"title": "Xenosaga Episode I - Der Wille zur Macht (Premium Box)"},
+			{"title": "Xenosaga Episode I - Der Wille zur Macht", "priority": 2},
+			{"superset": "Xenosaga Episode I Reloaded - Der Wille zur Macht"}
+		],
+		"Xenosaga Episode II - Jenseits von Gut und Boese (Disc 1)": [
+			{"title": "Xenosaga Episode II - Jenseits von Gut und Boese (Disc 1)"},
+			{"title": "Xenosaga Episode II - Jenseits von Gut und Bose (Disc 1) (Premium Box)"},
+			{"title": "Xenosaga Episode II - Jenseits von Gut und Bose (Disc 1)", "priority": 2}
+		],
+		"Xenosaga Episode II - Jenseits von Gut und Boese (Disc 2)": [
+			{"title": "Xenosaga Episode II - Jenseits von Gut und Boese (Disc 2)"},
+			{"title": "Xenosaga Episode II - Jenseits von Gut und Bose (Disc 2) (Premium Box)"},
+			{"title": "Xenosaga Episode II - Jenseits von Gut und Bose (Disc 2)", "priority": 2}
+		],
+		"XIII": [
+			{"title": "XIII"},
+			{"title": "XIII - Daitouryou o Koroshita Otoko"}
+		],
+		"Xyanide - Resurrection": [
+			{"title": "Xyanide - Resurrection"},
+			{"title": "Xyanide"}
+		],
+		"Yakuza": [
+			{"title": "Yakuza"},
+			{"title": "Ryuu ga Gotoku"}
+		],
+		"Yakuza Fury": [
+			{"title": "Yakuza Fury"},
+			{"title": "Simple 2000 Series Vol. 72 - The Ninkyou"}
+		],
+		"Yamasa Digi World 4 - Penguin Paradise, Crazy Shaman R, Zakzak Senryoubako R, Destroyer XX, King Pulsar": [
+			{"title": "Yamasa Digi World 4 - Penguin Paradise, Crazy Shaman R, Zakzak Senryoubako R, Destroyer XX, King Pulsar"},
+			{"superset": "Yamasa Digi World 4 DX - Penguin Paradise, Crazy Shaman R, Zakzak Senryoubako R, Destroyer XX, King Pulsar"}
+		],
+		"Yanya Caballista - City Skater": [
+			{"title": "Yanya Caballista - City Skater"},
+			{"title": "Yanya! Caballista featuring Gawoo"}
+		],
+		"Yoake no Mariko (Performance Pack)": [
+			{"title": "Yoake no Mariko (Performance Pack)"},
+			{"title": "Yoake no Mariko", "priority": 2}
+		],
+		"Yoake no Mariko 2nd Act (Performance Pack)": [
+			{"title": "Yoake no Mariko 2nd Act (Performance Pack)"},
+			{"title": "Yoake no Mariko 2nd Act", "priority": 2}
+		],
+		"Yoshitsune Eiyuuden - The Story of Hero Yoshitsune": [
+			{"title": "Yoshitsune Eiyuuden - The Story of Hero Yoshitsune"},
+			{"title": "Yoshitsune Yeongungjeon"}
+		],
+		"Yu-Gi-Oh! GX - The Beginning of Destiny": [
+			{"title": "Yu-Gi-Oh! GX - The Beginning of Destiny"},
+			{"title": "Yu-Gi-Oh! Duel Monsters GX - Tag Force Evolution"},
+			{"title": "Yu-Gi-Oh! GX - Tag Force Evolution"}
+		],
+		"Zapper - One Wicked Cricket": [
+			{"title": "Zapper - One Wicked Cricket"},
+			{"title": "Zapper"}
+		],
+		"Zombie Attack": [
+			{"title": "Zombie Attack"},
+			{"title": "Simple 2000 Series Vol. 65 - The Kyonshii Panic"}
+		],
+		"Zombie Hunters 2": [
+			{"title": "Zombie Hunters 2"},
+			{"title": "Simple 2000 Series Vol. 90 - The OneeChambara 2"},
+			{"superset": "Simple 2000 Series Vol. 101 - The OneeChampon - The Nee-chan 2 Tokubetsu-hen"}
+		],
+		"Zombie Virus": [
+			{"title": "Zombie Virus"},
+			{"title": "Simple 2000 Series Vol. 95 - The Zombie vs. Kyuukyuusha"}
+		],
+		"Zombie Zone": [
+			{"title": "Zombie Zone"},
+			{"title": "Simple 2000 Series Vol. 61 - The OneeChambara"}
+		],
+		"Zone of the Enders": [
+			{"title": "Zone of the Enders"},
+			{"title": "Zone of the Enders - Z.O.E"}
+		],
+		"Zone of the Enders - The 2nd Runner": [
+			{"title": "Zone of the Enders - The 2nd Runner"},
+			{"title": "Anubis - Zone of the Enders"},
+			{"superset": "Zone of the Enders - The 2nd Runner - Special Edition"},
+			{"superset": "Zone of the Enders - The 2nd Runner (Special Edition)"},
+			{"superset": "Anubis - Zone of the Enders - Special Edition"}
+		],
+		"Zoo Puzzle": [
+			{"title": "Zoo Puzzle"},
+			{"title": "SuperLite 2000 Vol. 15 - Zooo"}
+		]
+	}
+}

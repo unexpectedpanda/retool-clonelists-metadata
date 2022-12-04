@@ -1,0 +1,513 @@
+{
+	"description": {
+		"name": [
+			"Sega - Dreamcast"
+		],
+		"last updated": "9 July 2022",
+		"minimum version": "2.00"
+	},
+
+	"categories": {
+		"Checkicco no Miru CD": {
+			"match": "short",
+			"categories": ["Audio"]
+		},
+		"D2 - Original Sound Track": {
+			"match": "short",
+			"categories": ["Audio"]
+		},
+		"dps - Heartbreak Diary": {
+			"match": "short",
+			"categories": ["Audio"]
+		},
+		"Hang the DJ": {
+			"match": "short",
+			"categories": ["Audio"]
+		},
+		"Himitsu - Original Sound Track": {
+			"match": "short",
+			"categories": ["Audio"]
+		},
+		"Kita e. White Illumination - Pure Songs and Pictures": {
+			"match": "short",
+			"categories": ["Audio"]
+		},
+		"Project Berkley": {
+			"match": "short",
+			"categories": ["Demos"]
+		},
+		"Sakura Taisen 3 - Paris wa Moeteiru ka - Sakura Taisen 3 Movie Disc": {
+			"match": "short",
+			"categories": ["Video"]
+		},
+		"Snappers - 09 Chairs": {
+			"match": "short",
+			"categories": ["Audio"]
+		},
+		"Space Channel 5 Theme Music - Mexican Flyer": {
+			"match": "short",
+			"categories": ["Audio"]
+		},
+		"Virtua Fighter History & VF4": {
+			"match": "short",
+			"categories": ["Video"]
+		}
+	},
+
+	"mias": [
+		"Tough Guy (USA, Japan) (Unl)"
+	],
+
+	"overrides": {
+		"Virtua Striker 2 Ver\\. 2000\\.1 \\((Europe|Japan)\\)(.*)?": {
+			"new group": "Virtua Striker 2",
+			"match": "regex"
+		}
+	},
+
+	"renames": {
+		"90 Minutes - Sega Championship Football": [
+			{"title": "90 Minutes - Sega Championship Football"},
+			{"title": "J.League Spectacle Soccer"}
+		],
+		"AeroWings": [
+			{"title": "AeroWings"},
+			{"title": "Aero Dancing featuring Blue Impulse"}
+		],
+		"AeroWings 2 - Airstrike": [
+			{"title": "AeroWings 2 - Airstrike"},
+			{"title": "Aero Dancing F"}
+		],
+		"AirForce Delta": [
+			{"title": "AirForce Delta"},
+			{"title": "Deadly Skies"}
+		],
+		"Atsumare! Guru Guru Onsen": [
+			{"title": "Atsumare! Guru Guru Onsen"},
+			{"superset": "Atsumare! Guru Guru Onsen BB"}
+		],
+		"Bangai-O": [
+			{"title": "Bangai-O"},
+			{"title": "Bakuretsu Muteki Bangaioh"}
+		],
+		"Bust-A-Move 4": [
+			{"title": "Bust-A-Move 4"},
+			{"title": "Puzzle Bobble 4"}
+		],
+		"Cannon Spike": [
+			{"title": "Cannon Spike"},
+			{"title": "Gunspike"}
+		],
+		"Capcom vs. SNK": [
+			{"title": "Capcom vs. SNK"},
+			{"title": "Capcom vs. SNK - Millennium Fight 2000"}
+		],
+		"ChuChu Rocket!": [
+			{"title": "ChuChu Rocket!"},
+			{"title": "Chu-Chu Rocket!"}
+		],
+		"Coaster Works": [
+			{"title": "Coaster Works"},
+			{"title": "Jet Coaster Dream"}
+		],
+		"Cyber Troopers - Virtual-On - Oratorio Tangram": [
+			{"title": "Cyber Troopers - Virtual-On - Oratorio Tangram"},
+			{"title": "Dennou Senki - Virtual-On - Oratorio Tangram"}
+		],
+		"D2 (Disc 1)": [
+			{"title": "D2 (Disc 1)"},
+			{"title": "D2 - D no Shokutaku 2 (Disc 1)"}
+		],
+		"D2 (Disc 2)": [
+			{"title": "D2 (Disc 2)"},
+			{"title": "D2 - D no Shokutaku 2 (Disc 2)"}
+		],
+		"D2 (Disc 3)": [
+			{"title": "D2 (Disc 3)"},
+			{"title": "D2 - D no Shokutaku 2 (Disc 3)"}
+		],
+		"D2 (Disc 4)": [
+			{"title": "D2 (Disc 4)"},
+			{"title": "D2 - D no Shokutaku 2 (Disc 4)"}
+		],
+		"Daytona USA": [
+			{"title": "Daytona USA"},
+			{"title": "Daytona USA 2001"}
+		],
+		"Disney-Pixar Buzz Lightyear of Star Command": [
+			{"title": "Disney-Pixar Buzz Lightyear of Star Command"},
+			{"title": "Disney-Pixar Captain Buzz Lightyear - Star Command"},
+			{"title": "Disney-Pixar Les Aventures de Buzz L'Eclair"}
+		],
+		"Disney-Pixar Toy Story 2 - Buzz Lightyear to the Rescue!": [
+			{"title": "Disney-Pixar Toy Story 2 - Buzz Lightyear to the Rescue!"},
+			{"title": "Disney-Pixar Toy Story 2 - Buzz l'Eclair a la Rescousse!"},
+			{"title": "Disney-Pixar Toy Story 2 - Buzz Lightyear eilt zur Hilfe!"}
+		],
+		"Disney's 102 Dalmatians - Puppies to the Rescue": [
+			{"title": "Disney's 102 Dalmatians - Puppies to the Rescue"},
+			{"title": "102 Dalmatians - Puppies to the Rescue"}
+		],
+		"Disney's Donald Duck - Goin' Quackers": [
+			{"title": "Disney's Donald Duck - Goin' Quackers"},
+			{"title": "Disney's Donald Duck - Quack Attack"}
+		],
+		"Draconus - Cult of the Wyrm": [
+			{"title": "Draconus - Cult of the Wyrm"},
+			{"title": "Dragons Blood"}
+		],
+		"Ducati World - Racing Challenge": [
+			{"title": "Ducati World - Racing Challenge"},
+			{"title": "Ducati World"}
+		],
+		"Dynamite Cop!": [
+			{"title": "Dynamite Cop!"},
+			{"title": "Dynamite Cop"},
+			{"title": "Dynamite Deka 2"}
+		],
+		"ESPN International Track & Field": [
+			{"title": "ESPN International Track & Field"},
+			{"title": "Ganbare! Nippon! Olympic 2000"}
+		],
+		"Ever 17 - The Out of Infinity": [
+			{"title": "Ever 17 - The Out of Infinity"},
+			{"superset": "Ever 17 - The Out of Infinity - Premium Edition"}
+		],
+		"Evolution - The World of Sacred Device": [
+			{"title": "Evolution - The World of Sacred Device"},
+			{"title": "Shinki Sekai Evolution"}
+		],
+		"Evolution 2 - Far Off Promise": [
+			{"title": "Evolution 2 - Far Off Promise"},
+			{"title": "Shinki Sekai Evolution 2 - Tooi Yakusoku"}
+		],
+		"Expendable": [
+			{"title": "Expendable"},
+			{"title": "Millennium Soldier - Expendable"},
+			{"title": "Seitai Heiki Expendable"}
+		],
+		"F355 Challenge - Passione Rossa": [
+			{"title": "F355 Challenge - Passione Rossa"},
+			{"title": "F355 Challenge"}
+		],
+		"Fatal Fury - Mark of the Wolves": [
+			{"title": "Fatal Fury - Mark of the Wolves"},
+			{"title": "Garou - Mark of the Wolves"}
+		],
+		"F1 World Grand Prix": [
+			{"title": "F1 World Grand Prix"},
+			{"title": "F1 World Grand Prix for Dreamcast"}
+		],
+		"Flag to Flag": [
+			{"title": "Flag to Flag"},
+			{"title": "Super Speed Racing"}
+		],
+		"Incoming": [
+			{"title": "Incoming"},
+			{"title": "Incoming - Jinrui Saishuu Kessen"}
+		],
+		"Industrial Spy - Operation Espionage": [
+			{"title": "Industrial Spy - Operation Espionage"},
+			{"title": "Espion-Age-nts"}
+		],
+		"Iron Aces": [
+			{"title": "Iron Aces"},
+			{"title": "Imperial no Taka - Fighter of Zero"}
+		],
+		"Jet Grind Radio": [
+			{"title": "Jet Grind Radio"},
+			{"title": "Jet Set Radio"},
+			{"superset": "De La Jet Set Radio"}
+		],
+		"JoJo's Bizarre Adventure": [
+			{"title": "JoJo's Bizarre Adventure"},
+			{"title": "Jojo no Kimyou na Bouken - Mirai e no Isan for Matching Service"},
+			{"title": "Jojo no Kimyou na Bouken - Mirai e no Isan", "priority": 2}
+		],
+		"King of Fighters, The - Evolution": [
+			{"title": "King of Fighters, The - Evolution"},
+			{"title": "King of Fighters '99, The - Evolution"}
+		],
+		"Last Blade 2, The - Heart of the Samurai": [
+			{"title": "Last Blade 2, The - Heart of the Samurai"},
+			{"title": "Bakumatsu Roman Daini Maku - Gekka no Kenshi - Final Edition"}
+		],
+		"Marvel vs. Capcom 2": [
+			{"title": "Marvel vs. Capcom 2"},
+			{"title": "Marvel vs. Capcom 2 - New Age of Heroes"}
+		],
+		"Monaco Grand Prix": [
+			{"title": "Monaco Grand Prix"},
+			{"title": "Monaco Grand Prix Racing Simulation 2"},
+			{"title": "Racing Simulation 2 - Monaco Grand Prix On-Line"},
+			{"title": "Racing Simulation - Monaco Grand Prix", "priority": 2}
+		],
+		"Next Tetris, The - On-Line Edition": [
+			{"title": "Next Tetris, The - On-Line Edition"},
+			{"title": "Next Tetris, The"}
+		],
+		"Omikron - The Nomad Soul": [
+			{"title": "Omikron - The Nomad Soul"},
+			{"title": "Nomad Soul, The"}
+		],
+		"PenPen TriIcelon": [
+			{"title": "PenPen TriIcelon"},
+			{"title": "PenPen"}
+		],
+		"Plasma Sword - Nightmare of Bilstein": [
+			{"title": "Plasma Sword - Nightmare of Bilstein"},
+			{"title": "Star Gladiator 2 - Nightmare of Bilstein"}
+		],
+		"POD - Speedzone": [
+			{"title": "POD - Speedzone"},
+			{"title": "POD 2 - Multiplayer Online"}
+		],
+		"Pro Yakyuu Team de Asobou!": [
+			{"title": "Pro Yakyuu Team de Asobou Net!"},
+			{"title": "Pro Yakyuu Team de Asobou!", "priority": 2},
+			{"compilation": "Pro Yakyuu Team o Tsukurou! & Asobou!"}
+		],
+		"Pro Yakyuu Team o Tsukurou!": [
+			{"title": "Pro Yakyuu Team o Tsukurou!"},
+			{"compilation": "Pro Yakyuu Team o Tsukurou! & Asobou!"}
+		],
+		"Project Justice": [
+			{"title": "Project Justice"},
+			{"title": "Moero! Justice Gakuen"},
+			{"title": "Project Justice - Rival Schools 2"}
+		],
+		"Rayman 2 - The Great Escape": [
+			{"title": "Rayman 2 - The Great Escape"},
+			{"title": "Rayman - Kaizokusen kara no Dasshutsu!"}
+		],
+		"Razor Freestyle Scooter": [
+			{"title": "Razor Freestyle Scooter"},
+			{"title": "Freestyle Scooter"}
+		],
+		"Ready 2 Rumble Boxing": [
+			{"title": "Ready 2 Rumble Boxing"},
+			{"title": "Ready 2 Rumble Boxing - Uchikome Warai no Megaton Punch!!"}
+		],
+		"Record of Lodoss War": [
+			{"title": "Record of Lodoss War"},
+			{"title": "Record of Lodoss War - The Advent of Cardice"}
+		],
+		"Reel Fishing + Wild": [
+			{"title": "Reel Fishing + Wild"},
+			{"title": "Fish Eyes + Wild"}
+		],
+		"Resident Evil 2 (Disc 1)": [
+			{"title": "Resident Evil 2 (Disc 1)"},
+			{"title": "Biohazard 2 - Value Plus (Disc 1)"}
+		],
+		"Resident Evil 2 (Disc 2)": [
+			{"title": "Resident Evil 2 (Disc 2)"},
+			{"title": "Biohazard 2 - Value Plus (Disc 2)"}
+		],
+		"Resident Evil 3 - Nemesis": [
+			{"title": "Resident Evil 3 - Nemesis"},
+			{"title": "Biohazard 3 - Last Escape"}
+		],
+		"Resident Evil - Code - Veronica (Disc 1)": [
+			{"title": "Resident Evil - Code - Veronica (Disc 1)"},
+			{"title": "Biohazard - Code - Veronica (Disc 1)"}
+		],
+		"Resident Evil - Code - Veronica (Disc 2)": [
+			{"title": "Resident Evil - Code - Veronica (Disc 2)"},
+			{"title": "Biohazard - Code - Veronica (Disc 2)"}
+		],
+		"Ring, The - Terror's Realm": [
+			{"title": "Ring, The - Terror's Realm"},
+			{"title": "Ring, The"}
+		],
+		"Rippin' Riders": [
+			{"title": "Rippin' Riders"},
+			{"title": "Cool Boarders Burrrn!"},
+			{"title": "Snow Surfers"}
+		],
+		"Rush Rush Rally Racing": [
+			{"title": "Rush Rush Rally Racing"},
+			{"superset": "Rush Rush Rally Reloaded"}
+		],
+		"Sangokushi VI": [
+			{"title": "Sangokushi VI"},
+			{"superset": "Sangokushi VI with Power-Up Kit"}
+		],
+		"Seaman": [
+			{"title": "Seaman"},
+			{"title": "Kindan no Pet - Seaman - Gasse Hakase no Jikken-tou"},
+			{"title": "Kindan no Pet - Seaman - Gasse Hakase no Jikken-tou (2001-nen Taiouban)", "priority": 2}
+		],
+		"Sega Bass Fishing": [
+			{"title": "Sega Bass Fishing"},
+			{"title": "Get Bass"}
+		],
+		"Sega Bass Fishing 2": [
+			{"title": "Sega Bass Fishing 2"},
+			{"title": "Get Bass 2"}
+		],
+		"Sega GT": [
+			{"title": "Sega GT"},
+			{"title": "Sega GT - Homologation Special"}
+		],
+		"Sega Worldwide Soccer 2000": [
+			{"title": "Sega Worldwide Soccer 2000"},
+			{"superset": "Sega Worldwide Soccer 2000 - Euro Edition"}
+		],
+		"Seventh Cross Evolution": [
+			{"title": "Seventh Cross Evolution"},
+			{"title": "Seventh Cross"}
+		],
+		"Shenmue (Disc 1)": [
+			{"title": "Shenmue (Disc 1)"},
+			{"title": "US Shenmue (Disc 1)"},
+			{"title": "Shenmue - Ichishou Yokosuka (Disc 1)", "priority": 2}
+		],
+		"Shenmue (Disc 2)": [
+			{"title": "Shenmue (Disc 2)"},
+			{"title": "US Shenmue (Disc 2)"},
+			{"title": "Shenmue - Ichishou Yokosuka (Disc 2)", "priority": 2}
+		],
+		"Shenmue (Disc 3)": [
+			{"title": "Shenmue (Disc 3)"},
+			{"title": "US Shenmue (Disc 3)"},
+			{"title": "Shenmue - Ichishou Yokosuka (Disc 3)", "priority": 2}
+		],
+		"Shenmue (Shenmue Passport)": [
+			{"title": "Shenmue (Shenmue Passport)"},
+			{"title": "US Shenmue (Shenmue Passport)"},
+			{"title": "Shenmue - Ichishou Yokosuka (Shenmue Passport)", "priority": 2}
+		],
+		"Skies of Arcadia (Disc 1)": [
+			{"title": "Skies of Arcadia (Disc 1)"},
+			{"title": "Eternal Arcadia (Disc 1)"}
+		],
+		"Skies of Arcadia (Disc 2)": [
+			{"title": "Skies of Arcadia (Disc 2)"},
+			{"title": "Eternal Arcadia (Disc 2)"}
+		],
+		"Sonic Adventure": [
+			{"title": "Sonic Adventure"},
+			{"title": "Sonic Adventure - Limited Edition", "priority": 2},
+			{"superset": "Sonic Adventure International"}
+		],
+		"Street Fighter Alpha 3": [
+			{"title": "Street Fighter Alpha 3"},
+			{"title": "Street Fighter Zero 3 - Saikyo-ryu Dojo for Matching Service"},
+			{"title": "Street Fighter Zero 3 - Saikyo-ryu Dojo", "priority": 2}
+		],
+		"Street Fighter III - 3rd Strike": [
+			{"title": "Street Fighter III - 3rd Strike"},
+			{"title": "Street Fighter III - 3rd Strike - Fight for the Future"}
+		],
+		"Street Fighter III - Double Impact": [
+			{"title": "Street Fighter III - Double Impact"},
+			{"title": "Street Fighter III - W Impact"}
+		],
+		"Striker Pro 2000": [
+			{"title": "Striker Pro 2000"},
+			{"title": "Super Euro Soccer 2000"},
+			{"title": "UEFA Striker"}
+		],
+		"Super Magnetic Neo": [
+			{"title": "Super Magnetic Neo"},
+			{"title": "Super Magnetic Niuniu"}
+		],
+		"Super Runabout": [
+			{"title": "Super Runabout"},
+			{"superset": "Super Runabout - San Francisco Edition"}
+		],
+		"Suzuki Alstare - Extreme Racing": [
+			{"title": "Suzuki Alstare - Extreme Racing"},
+			{"title": "Redline Racer"}
+		],
+		"Sword of the Berserk - Guts' Rage": [
+			{"title": "Sword of the Berserk - Guts' Rage"},
+			{"title": "Berserk - Millennium Falcon-hen - Wasurebana no Shou"}
+		],
+		"Tech Romancer": [
+			{"title": "Tech Romancer"},
+			{"title": "Choukou Senki Kikaioh for Matching Service"},
+			{"title": "Choukou Senki Kikaioh", "priority": 2}
+		],
+		"Tee Off": [
+			{"title": "Tee Off"},
+			{"title": "Golf Shiyou yo"}
+		],
+		"Tennis 2K2": [
+			{"title": "Tennis 2K2"},
+			{"title": "Power Smash 2 - Sega Professional Tennis"},
+			{"title": "Virtua Tennis 2 - Sega Professional Tennis"}
+		],
+		"Test Drive Le Mans": [
+			{"title": "Test Drive Le Mans"},
+			{"title": "Le Mans 24 Hours"}
+		],
+		"Test Drive V-Rally": [
+			{"title": "Test Drive V-Rally"},
+			{"title": "V-Rally 2 - Expert Edition"}
+		],
+		"Time Stalkers": [
+			{"title": "Time Stalkers"},
+			{"title": "Climax Landers"}
+		],
+		"TNN Motorsports Hardcore Heat": [
+			{"title": "TNN Motorsports Hardcore Heat"},
+			{"title": "Buggy Heat"}
+		],
+		"Tokyo Xtreme Racer": [
+			{"title": "Tokyo Xtreme Racer"},
+			{"title": "Shutokou Battle"},
+			{"title": "Tokyo Highway Challenge"}
+		],
+		"Tokyo Xtreme Racer 2": [
+			{"title": "Tokyo Xtreme Racer 2"},
+			{"title": "Shutokou Battle 2"},
+			{"title": "Tokyo Highway Challenge 2"}
+		],
+		"Tom Clancy's Rainbow Six with Eagle Watch Missions": [
+			{"title": "Tom Clancy's Rainbow Six with Eagle Watch Missions"},
+			{"title": "Tom Clancy's Rainbow Six incl. Eagle Watch Missions"}
+		],
+		"Tomb Raider - The Last Revelation": [
+			{"title": "Tomb Raider - The Last Revelation"},
+			{"title": "Tomb Raider - La Revelation Finale"},
+			{"title": "Tomb Raider IV - The Last Revelation"}
+		],
+		"Tomb Raider Chronicles": [
+			{"title": "Tomb Raider Chronicles"},
+			{"title": "Tomb Raider Chronicles - La Leggenda di Lara Croft"},
+			{"title": "Tomb Raider - Die Chronik"},
+			{"title": "Tomb Raider - Sur les Traces de Lara Croft"}
+		],
+		"Tony Hawk's Pro Skater": [
+			{"title": "Tony Hawk's Pro Skater"},
+			{"title": "Tony Hawk's Skateboarding"}
+		],
+		"Toy Commander": [
+			{"title": "Toy Commander"},
+			{"title": "Totsugeki! Teketeke!! Toy Ranger"}
+		],
+		"Vigilante 8 - 2nd Offense": [
+			{"title": "Vigilante 8 - 2nd Offense"},
+			{"title": "Vigilante 8 - 2nd Battle"}
+		],
+		"Virtua Athlete 2000": [
+			{"title": "Virtua Athlete 2000"},
+			{"title": "Virtua Athlete 2K"}
+		],
+		"Virtua Tennis": [
+			{"title": "Virtua Tennis"},
+			{"title": "Power Smash - Sega Professional Tennis"},
+			{"title": "Virtua Tennis - Sega Professional Tennis"}
+		],
+		"Who Wants to Be a Millionaire": [
+			{"title": "Who Wants to Be a Millionaire"},
+			{"title": "Qui Veut Gagner des Millions"}
+		],
+		"Xtreme Sports": [
+			{"title": "Xtreme Sports"},
+			{"title": "Sega Extreme Sports"}
+		]
+	}
+}

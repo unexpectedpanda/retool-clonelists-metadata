@@ -1,0 +1,292 @@
+{
+	"description": {
+		"name": [
+			"Nintendo - Nintendo 3DS (Digital)"
+		],
+		"last updated": "9 April 2021",
+		"minimum version": "2.00"
+	},
+
+	"renames": {
+		"101 Pony Pets 3D": [
+			{"title": "101 Pony Pets 3D"},
+			{"title": "Pony Pets 3D"}
+		],
+		"2 Fast 4 Gnomz": [
+			{"title": "2 Fast 4 Gnomz"},
+			{"title": "Gekiyaba Runner"}
+		],
+		"3D Fantasy Zone - Opa-Opa Bros.": [
+			{"title": "3D Fantasy Zone - Opa-Opa Bros."},
+			{"title": "3D Fantasy Zone"}
+		],
+		"3D Streets of Rage 2": [
+			{"title": "3D Streets of Rage 2"},
+			{"title": "3D Bare Knuckle II - Shitou e no Requiem"}
+		],
+		"AeternoBlade": [
+			{"title": "AeternoBlade"},
+			{"title": "Time Avenger"}
+		],
+		"Attack of the Friday Monsters! A Tokyo Tale": [
+			{"title": "Attack of the Friday Monsters! A Tokyo Tale"},
+			{"title": "Guild02 - Kaijuu ga Deru Kinyoubi"}
+		],
+		"Attack on Titan - Humanity in Chains": [
+			{"title": "Attack on Titan - Humanity in Chains"},
+			{"title": "Shingeki no Kyojin - Humanity in Chains"}
+		],
+		"Azure Striker Gunvolt": [
+			{"title": "Azure Striker Gunvolt"},
+			{"title": "Armed Blue - Gunvolt"}
+		],
+		"Bike Rider DX": [
+			{"title": "Bike Rider DX"},
+			{"title": "Chari-Sou DX"}
+		],
+		"BOXBOY!": [
+			{"title": "BOXBOY!"},
+			{"title": "Hako Boy!"}
+		],
+		"Chibi-Robo! Photo Finder": [
+			{"title": "Chibi-Robo! Photo Finder"},
+			{"title": "Chibi-Robo! Let's Go, Photo!"}
+		],
+		"Crashmo": [
+			{"title": "Crashmo"},
+			{"title": "Fallblox"},
+			{"title": "Hikuotsu"}
+		],
+		"Dillon's Rolling Western": [
+			{"title": "Dillon's Rolling Western"},
+			{"title": "Rolling Western, The"}
+		],
+		"Dillon's Rolling Western - The Last Ranger": [
+			{"title": "Dillon's Rolling Western - The Last Ranger"},
+			{"title": "Rolling Western, The - Saigo no Youjinbou"}
+		],
+		"F-Zero - Maximum Velocity": [
+			{"title": "F-Zero - Maximum Velocity"},
+			{"title": "F-Zero for Game Boy Advance"}
+		],
+		"Fire Emblem - The Sacred Stones": [
+			{"title": "Fire Emblem - The Sacred Stones"},
+			{"title": "Fire Emblem - Seima no Kouseki"}
+		],
+		"Flipnote Studio 3D": [
+			{"title": "Flipnote Studio 3D"},
+			{"title": "Ugoku Memo Chou 3D"}
+		],
+		"Fluidity - Spin Cycle": [
+			{"title": "Fluidity - Spin Cycle"},
+			{"title": "Hydroventure - Spin Cycle"}
+		],
+		"Gunman Clive": [
+			{"title": "Gunman Clive"},
+			{"title": "Gumman Story"},
+			{"title": "Gunman Story"}
+		],
+		"Gunman Clive 2": [
+			{"title": "Gunman Clive 2"},
+			{"title": "Gumman Story 2"}
+		],
+		"Iron Combat - War in the Air": [
+			{"title": "Iron Combat - War in the Air"},
+			{"title": "Rinkou no Lantse"}
+		],
+		"Japanese Rail Sim 3D - Journey in Suburbs #1": [
+			{"title": "Japanese Rail Sim 3D - Journey in Suburbs #1"},
+			{"title": "Tetsudou Nippon! Rosen Tabi - Nagaragawa Tetsudou Hen"}
+		],
+		"Johnny's Payday Panic": [
+			{"title": "Johnny's Payday Panic"},
+			{"title": "Gekidou! Arbeiter Koji"}
+		],
+		"Kersploosh!": [
+			{"title": "Kersploosh!"},
+			{"title": "Splash or Crash"}
+		],
+		"Ketzal's Corridors": [
+			{"title": "Ketzal's Corridors"},
+			{"title": "SpeedThru - Potzol's Puzzle"}
+		],
+		"Kirby & The Amazing Mirror": [
+			{"title": "Kirby & The Amazing Mirror"},
+			{"title": "Hoshi no Kirby - Kagami no Daimeikyuu"}
+		],
+		"Legend of Dark Witch, The": [
+			{"title": "Legend of Dark Witch, The"},
+			{"title": "Legend of Dark Witch, The - Chronicle 2D ACT"}
+		],
+		"Legend of Zelda, The - The Minish Cap": [
+			{"title": "Legend of Zelda, The - The Minish Cap"},
+			{"title": "Zelda no Densetsu - Fushigi no Boushi"}
+		],
+		"Luigi's Mansion - Dark Moon": [
+			{"title": "Luigi's Mansion - Dark Moon"},
+			{"title": "Luigi's Mansion 2"}
+		],
+		"Mario Kart - Super Circuit": [
+			{"title": "Mario Kart - Super Circuit"},
+			{"title": "Mario Kart Advance"}
+		],
+		"Mario and Donkey Kong - Minis on the Move": [
+			{"title": "Mario and Donkey Kong - Minis on the Move"},
+			{"title": "Mario and Donkey Kong - Mini Mini Carnival"}
+		],
+		"Mutant Mudds": [
+			{"title": "Mutant Mudds"},
+			{"title": "Mud Attack! Max vs Dorodoro Seijin"}
+		],
+		"New Super Mario Bros. 2": [
+			{"title": "New Super Mario Bros. 2"},
+			{"superset": "New Super Mario Bros. 2 Gold Edition"},
+			{"superset": "New Super Mario Bros. 2 Special Edition"}
+		],
+		"Ninja Usagimaru - The Gem of Blessings": [
+			{"title": "Ninja Usagimaru - The Gem of Blessings"},
+			{"title": "Shippuu no Usagi-Maru - Megumi no Tama to Fuuma no Shirushi"}
+		],
+		"Nintendo Badge Arcade": [
+			{"title": "Nintendo Badge Arcade"},
+			{"title": "Home Menu ni Kazareru Badge Toreru Center"}
+		],
+		"Photos with Animal Crossing": [
+			{"title": "Photos with Animal Crossing"},
+			{"title": "Isshoni Photo Doubutsu no Mori"}
+		],
+		"Photos with Mario": [
+			{"title": "Photos with Mario"},
+			{"title": "Isshoni Photo Super Mario"}
+		],
+		"Pocket Card Jockey": [
+			{"title": "Pocket Card Jockey"},
+			{"title": "SolitiBa"}
+		],
+		"Pokedex 3D": [
+			{"title": "Pokedex 3D"},
+			{"title": "Pokedex", "priority": 2}
+		],
+		"Pokemon Link - Battle!": [
+			{"title": "Pokemon Link - Battle!"},
+			{"title": "Pokemon Battle Trozei"}
+		],
+		"Proun+": [
+			{"title": "Proun+"},
+			{"title": "Loop Line Racing"}
+		],
+		"Pushmo": [
+			{"title": "Pushmo"},
+			{"title": "Hikuosu"},
+			{"title": "Pullblox"}
+		],
+		"PUZZLEBOX setup": [
+			{"title": "PUZZLEBOX setup"},
+			{"title": "Puzzle Bottle"}
+		],
+		"Quell Memento": [
+			{"title": "Quell Memento"},
+			{"title": "Shizuku Memory"}
+		],
+		"Rabi Laby 3": [
+			{"title": "Rabi Laby 3"},
+			{"title": "Rabi x Rabi - Episode 3"}
+		],
+		"Sadame": [
+			{"title": "Sadame"},
+			{"title": "Ishi Sengokuden Sadame"}
+		],
+		"Sakura Samurai - Art of the Sword": [
+			{"title": "Sakura Samurai - Art of the Sword"},
+			{"title": "Hana Samurai - Art of the Sword"}
+		],
+		"Shovel Knight": [
+			{"title": "Shovel Knight"},
+			{"superset": "Shovel Knight + Shovel Knight - Plague of Shadows"}
+		],
+		"Skater Cat": [
+			{"title": "Skater Cat"},
+			{"title": "peakvox - Mew Mew Train"}
+		],
+		"SmileBASIC": [
+			{"title": "SmileBASIC"},
+			{"title": "Puchikon No. 3 SmileBASIC"}
+		],
+		"Soccer Up Online": [
+			{"title": "Soccer Up Online"},
+			{"title": "Football Up Online"}
+		],
+		"Sparkle Snapshots 3D": [
+			{"title": "Sparkle Snapshots 3D"},
+			{"title": "Deco Photo 3D"},
+			{"title": "Foto-Zauber 3D"}
+		],
+		"Stretchmo": [
+			{"title": "Stretchmo"},
+			{"title": "Fullblox"},
+			{"title": "Hikudasu - Hippa Land"}
+		],
+		"Swapnote": [
+			{"title": "Swapnote"},
+			{"title": "Nintendo Letter Box"}
+		],
+		"Tangram Attack": [
+			{"title": "Tangram Attack"},
+			{"title": "Tangram Style"}
+		],
+		"THE DENPA MEN - They Came By Wave": [
+			{"title": "THE DENPA MEN - They Came By Wave"},
+			{"title": "DENPA MEN, The - They Came By Wave"},
+			{"title": "Denpa Ningen no RPG"}
+		],
+		"THE DENPA MEN 3 - The Rise of Digitoll": [
+			{"title": "THE DENPA MEN 3 - The Rise of Digitoll"},
+			{"title": "Denpa Ningen no RPG 3"}
+		],
+		"Thorium Wars - Attack of the Skyfighter": [
+			{"title": "Thorium Wars - Attack of the Skyfighter"},
+			{"title": "Sky Fighters - Thorium Sensou, The"}
+		],
+		"Tokyo Crash Mobs": [
+			{"title": "Tokyo Crash Mobs"},
+			{"title": "Gyouretsu NageLoop"}
+		],
+		"Tomodachi Life": [
+			{"title": "Tomodachi Life"},
+			{"title": "Tomodachi Collection - Shin Seikatsu"}
+		],
+		"Tomodachi Life - Move-In Version": [
+			{"title": "Tomodachi Life - Move-In Version"},
+			{"title": "Tomodachi Life - Welcome Version"}
+		],
+		"Van Helsing Sniper Zx100": [
+			{"title": "Van Helsing Sniper Zx100"},
+			{"title": "Vampire Sniper"}
+		],
+		"Wario Land 4": [
+			{"title": "Wario Land 4"},
+			{"title": "Wario Land Advance - Youki no Otakara"}
+		],
+		"WarioWare, Inc. - Mega Microgame$!": [
+			{"title": "WarioWare, Inc. - Mega Microgame$!"},
+			{"title": "Made in Wario"},
+			{"title": "Wario Ware, Inc - Minigame Mania"}
+		],
+		"Witch & Hero": [
+			{"title": "Witch & Hero"},
+			{"title": "Majo to Yuusha"}
+		],
+		"Yoshi's Island - Super Mario Advance 3": [
+			{"title": "Yoshi's Island - Super Mario Advance 3"},
+			{"title": "Super Mario Advance 3 - Yoshi's Island + Mario Brothers"}
+		],
+		"Yumi's Odd Odyssey": [
+			{"title": "Yumi's Odd Odyssey"},
+			{"title": "Sayonara Umihara Kawase"}
+		],
+		"Zen Pinball": [
+			{"title": "Zen Pinball"},
+			{"title": "Zen Pinball 3D"}
+		]
+	}
+}

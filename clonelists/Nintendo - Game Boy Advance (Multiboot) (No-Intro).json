@@ -1,0 +1,16 @@
+{
+	"description": {
+		"name": [
+			"Nintendo - Game Boy Advance (Multiboot)"
+		],
+		"last updated": "24 March 2021",
+		"minimum version": "2.00"
+	},
+
+	"renames": {
+		"Puyo Pop - Endless Version": [
+			{"title": "Puyo Pop - Endless Version"},
+			{"title": "Minna de Puyo Puyo - Toko Puyo Genteiban", "priority": 2}
+		]
+	}
+}

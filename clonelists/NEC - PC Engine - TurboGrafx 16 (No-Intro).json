@@ -1,0 +1,208 @@
+{
+	"description": {
+		"name": [
+			"NEC - PC Engine - TurboGrafx 16"
+		],
+		"last updated": "10 May 2021",
+		"minimum version": "2.00"
+	},
+
+	"categories": {
+		"Ten no Koe Bank": {
+			"match": "short",
+			"categories": ["Applications"]
+		}
+	},
+
+	"renames": {
+		"Air Zonk": [
+			{"title": "Air Zonk"},
+			{"title": "PC Denjin - Punkic Cyborgs"}
+		],
+		"Blazing Lazers": [
+			{"title": "Blazing Lazers"},
+			{"title": "Gunhed"}
+		],
+		"Bloody Wolf": [
+			{"title": "Bloody Wolf"},
+			{"title": "Narazumono Sentou Butai - Bloody Wolf"}
+		],
+		"Bonk 3 - Bonk's Big Adventure": [
+			{"title": "Bonk 3 - Bonk's Big Adventure"},
+			{"title": "PC Genjin 3 - Pithecanthropus Computerurus"}
+		],
+		"Bonk's Adventure": [
+			{"title": "Bonk's Adventure"},
+			{"title": "PC Genjin - Pithecanthropus Computerurus"}
+		],
+		"Bonk's Revenge": [
+			{"title": "Bonk's Revenge"},
+			{"title": "PC Genjin 2 - Pithecanthropus Computerurus"}
+		],
+		"Boxyboy": [
+			{"title": "Boxyboy"},
+			{"title": "Soukoban World"}
+		],
+		"Bravoman": [
+			{"title": "Bravoman"},
+			{"title": "Chouzetsurinjin Bravoman"}
+		],
+		"Chase H.Q.": [
+			{"title": "Chase H.Q."},
+			{"title": "Taito Chase H.Q."}
+		],
+		"Chew-Man-Fu": [
+			{"title": "Chew-Man-Fu"},
+			{"title": "Be Ball"}
+		],
+		"China Warrior": [
+			{"title": "China Warrior"},
+			{"title": "Kung Fu, The"}
+		],
+		"Cratermaze": [
+			{"title": "Cratermaze"},
+			{"title": "Doraemon - Meikyuu Daisakusen"}
+		],
+		"Dead Moon": [
+			{"title": "Dead Moon"},
+			{"title": "Dead Moon - Getsu Sekai no Akumu"}
+		],
+		"Deep Blue": [
+			{"title": "Deep Blue"},
+			{"title": "Deep Blue - Kaitei Shinwa"}
+		],
+		"Devil's Crush": [
+			{"title": "Devil's Crush"},
+			{"title": "Devil Crash - Naxat Pinball"}
+		],
+		"Dragon's Curse": [
+			{"title": "Dragon's Curse"},
+			{"title": "Adventure Island"}
+		],
+		"Drop Off": [
+			{"title": "Drop Off"},
+			{"title": "Drop Rock Hora Hora"}
+		],
+		"Galaga '90": [
+			{"title": "Galaga '90"},
+			{"title": "Galaga '88"}
+		],
+		"Hit the Ice - VHL - The Official Video Hockey League": [
+			{"title": "Hit the Ice - VHL - The Official Video Hockey League"},
+			{"title": "Hit the Ice - VHL - The Video Hockey League"}
+		],
+		"J.J. & Jeff": [
+			{"title": "J.J. & Jeff"},
+			{"title": "Kato-chan Ken-chan"}
+		],
+		"Jack Nicklaus' Turbo Golf": [
+			{"title": "Jack Nicklaus' Turbo Golf"},
+			{"title": "Jack Nicklaus - Championship Golf"}
+		],
+		"Jackie Chan's Action Kung Fu": [
+			{"title": "Jackie Chan's Action Kung Fu"},
+			{"title": "Jackie Chan"}
+		],
+		"Keith Courage in Alpha Zones": [
+			{"title": "Keith Courage in Alpha Zones"},
+			{"title": "Mashin Eiyuuden Wataru"}
+		],
+		"Legendary Axe, The": [
+			{"title": "Legendary Axe, The"},
+			{"title": "Makyou Densetsu"}
+		],
+		"Legendary Axe II": [
+			{"title": "Legendary Axe II"},
+			{"title": "Ankoku Densetsu"}
+		],
+		"Military Madness": [
+			{"title": "Military Madness"},
+			{"title": "Nectaris"}
+		],
+		"New Adventure Island": [
+			{"title": "New Adventure Island"},
+			{"title": "Takahashi Meijin no Shin Bouken-jima"}
+		],
+		"Ninja Spirit": [
+			{"title": "Ninja Spirit"},
+			{"title": "Saigo no Nindou - Ninja Spirit"}
+		],
+		"Psychosis": [
+			{"title": "Psychosis"},
+			{"title": "Paranoia"}
+		],
+		"R-Type I": [
+			{"title": "R-Type I"},
+			{"superset": "R-Type"}
+		],
+		"R-Type II": [
+			{"title": "R-Type II"},
+			{"superset": "R-Type"}
+		],
+		"Samurai-Ghost": [
+			{"title": "Samurai-Ghost"},
+			{"title": "Genpei Toumaden - Kan no Ni"}
+		],
+		"Shockman": [
+			{"title": "Shockman"},
+			{"title": "Kaizou Choujin Shubibinman 2 - Aratanaru Teki"}
+		],
+		"SideArms": [
+			{"title": "SideArms"},
+			{"title": "SideArms - Hyper Dyne"}
+		],
+		"Sinistron": [
+			{"title": "Sinistron"},
+			{"title": "Violent Soldier"}
+		],
+		"Somer Assault": [
+			{"title": "Somer Assault"},
+			{"title": "Mesopotamia"}
+		],
+		"Sonic Spike - World Championship Beach Volleyball": [
+			{"title": "Sonic Spike - World Championship Beach Volleyball"},
+			{"title": "World Beach Volley"}
+		],
+		"Super Volleyball": [
+			{"title": "Super Volleyball"},
+			{"title": "Super Volley Ball"}
+		],
+		"Takin' It to the Hoop": [
+			{"title": "Takin' It to the Hoop"},
+			{"title": "USA Pro Basketball"}
+		],
+		"Tiger Road": [
+			{"title": "Tiger Road"},
+			{"title": "Tora e no Michi"}
+		],
+		"Time Cruise": [
+			{"title": "Time Cruise"},
+			{"title": "Time Cruise II"}
+		],
+		"Timeball": [
+			{"title": "Timeball"},
+			{"title": "Blodia"}
+		],
+		"Tricky Kick": [
+			{"title": "Tricky Kick"},
+			{"title": "Tricky"}
+		],
+		"Victory Run": [
+			{"title": "Victory Run"},
+			{"title": "Victory Run - Eikou no 13,000km"}
+		],
+		"World Class Baseball": [
+			{"title": "World Class Baseball"},
+			{"title": "All Star Power League"},
+			{"title": "Power League", "priority": 2}
+		],
+		"World Court Tennis": [
+			{"title": "World Court Tennis"},
+			{"title": "Pro Tennis - World Court"}
+		],
+		"World Sports Competition": [
+			{"title": "World Sports Competition"},
+			{"title": "Power Sports"}
+		]
+	}
+}

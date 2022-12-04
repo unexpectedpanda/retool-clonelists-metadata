@@ -1,0 +1,20 @@
+{
+	"description": {
+		"name": [
+			"Microsoft - MSX2"
+		],
+		"last updated": "9 April 2021",
+		"minimum version": "2.00"
+	},
+
+	"renames": {
+		"Gekitotsu Pennant Race 2 (English Menu)": [
+			{"title": "Gekitotsu Pennant Race 2 (English Menu)"},
+			{"title": "Gekitotsu Pennant Race 2", "priority": 2}
+		],
+		"Ouke no Tani - El Giza no Fuuin": [
+			{"title": "Ouke no Tani - El Giza no Fuuin"},
+			{"title": "Ouke no Tani - El Giza no Fuuin - Edit Contest Yuushuu Sakuhinshuu", "priority": 2}
+		]
+	}
+}

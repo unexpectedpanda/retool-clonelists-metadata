@@ -1,0 +1,843 @@
+{
+	"description": {
+		"name": [
+			"Nintendo - GameCube",
+			"Nintendo - GameCube - NKit GCZ",
+			"Nintendo - GameCube - NKit ISO",
+			"Nintendo - GameCube - NASOs"
+		],
+		"last updated": "24 July 2022",
+		"minimum version": "2.00"
+	},
+
+	"categories": {
+		"Kidou Senshi Gundam - Senshi-tachi no Kiseki - Kadokawa Shoten Rengou Kikaku Tokubetsu-hen": {
+			"match": "short",
+			"categories": ["Promotional"]
+		},
+		"Ribbit King Plus! (Bonus Disc)": {
+			"match": "short",
+			"categories": ["Video"]
+		},
+		"SmaBro DX Event-you Disc": {
+			"match": "short",
+			"categories": ["Promotional"]
+		}
+	},
+
+	"mias": [
+		"SmaBro DX Event-you Disc (Japan)"
+	],
+
+	"overrides": {
+		"Disney Sports - Football \\(Europe\\)(.*)?": {
+			"new group": "Disney Sports - Soccer",
+			"match": "regex"
+		},
+		"NBA Street V3( - Mario de Dunk)? \\((Europe|Japan|USA)\\)(.*)?": {
+			"new group": "NBA Street V3",
+			"match": "regex"
+		},
+		"Virtua Striker 3 Ver\\. 2002 \\((Europe|Japan)\\)(.*)?": {
+			"new group": "Virtua Striker 2002",
+			"match": "regex"
+		}
+	},
+
+	"renames": {
+		"007 - Agent Under Fire": [
+			{"title": "007 - Agent Under Fire"},
+			{"title": "007 - Agent im Kreuzfeuer"},
+			{"title": "007 - Espion pour Cible"}
+		],
+		"007 - Everything or Nothing": [
+			{"title": "007 - Everything or Nothing"},
+			{"title": "007 - Alles oder Nichts"},
+			{"title": "007 - Quitte ou Double"},
+			{"title": "007 - Todo o Nada"}
+		],
+		"007 - From Russia with Love": [
+			{"title": "007 - From Russia with Love"},
+			{"title": "007 - Bons Baisers de Russie"},
+			{"title": "007 - Liebesgruesse aus Moskau"}
+		],
+		"1080 Avalanche": [
+			{"title": "1080 Avalanche"},
+			{"title": "1080 Silver Storm"}
+		],
+		"Action Replay Ultimate Cheats for Use with Pokemon Colosseum": [
+			{"title": "Action Replay Ultimate Cheats for Use with Pokemon Colosseum"},
+			{"title": "Action Replay Ultimate Cheats fuer Pokemon Colosseum"}
+		],
+		"Action Replay Ultimate Codes for Use with Enter the Matrix": [
+			{"title": "Action Replay Ultimate Codes for Use with Enter the Matrix"},
+			{"title": "Action Replay Ultimate Cheats for Use with Enter the Matrix"},
+			{"title": "Action Replay Ultimate Cheats fuer Enter the Matrix"}
+		],
+		"Action Replay Ultimate Codes for Use with Final Fantasy - Crystal Chronicles": [
+			{"title": "Action Replay Ultimate Codes for Use with Final Fantasy - Crystal Chronicles"},
+			{"title": "Action Replay Ultimative Cheatcodes fuer Final Fantasy - Crystal Chronicles"}
+		],
+		"Action Replay Ultimate Codes Max Pack": [
+			{"title": "Action Replay Ultimate Codes Max Pack"},
+			{"title": "Action Replay Ultimative Cheats Greatest Hits 2003"}
+		],
+		"Amazing Island": [
+			{"title": "Amazing Island"},
+			{"title": "Kaijuu no Shima - Amazing Island"}
+		],
+		"Animal Crossing": [
+			{"title": "Animal Crossing"},
+			{"title": "Doubutsu no Mori +"}
+		],
+		"Auto Modellista": [
+			{"title": "Auto Modellista"},
+			{"title": "Auto Modellista - U.S.-tuned"}
+		],
+		"Bad Boys - Miami Takedown": [
+			{"title": "Bad Boys - Miami Takedown"},
+			{"title": "Bad Boys II"}
+		],
+		"Baten Kaitos - Eternal Wings and the Lost Ocean (Disc 1)": [
+			{"title": "Baten Kaitos - Eternal Wings and the Lost Ocean (Disc 1)"},
+			{"title": "Baten Kaitos - Owaranai Tsubasa to Ushinawareta Umi (Disc 1)"}
+		],
+		"Baten Kaitos - Eternal Wings and the Lost Ocean (Disc 2)": [
+			{"title": "Baten Kaitos - Eternal Wings and the Lost Ocean (Disc 2)"},
+			{"title": "Baten Kaitos - Owaranai Tsubasa to Ushinawareta Umi (Disc 2)"}
+		],
+		"Baten Kaitos Origins (Disc 1)": [
+			{"title": "Baten Kaitos Origins (Disc 1)"},
+			{"title": "Baten Kaitos II - Hajimari no Tsubasa to Kamigami no Shishi (Disc 1)"}
+		],
+		"Baten Kaitos Origins (Disc 2)": [
+			{"title": "Baten Kaitos Origins (Disc 2)"},
+			{"title": "Baten Kaitos II - Hajimari no Tsubasa to Kamigami no Shishi (Disc 2)"}
+		],
+		"Battalion Wars": [
+			{"title": "Battalion Wars"},
+			{"title": "Totsugeki!! Famicom Wars"}
+		],
+		"Beyblade VForce - Super Tournament Battle": [
+			{"title": "Beyblade VForce - Super Tournament Battle"},
+			{"title": "Bakuten Shoot Beyblade 2002 - Nettou! Magne Tag Battle!"}
+		],
+		"Billy Hatcher and the Giant Egg": [
+			{"title": "Billy Hatcher and the Giant Egg"},
+			{"title": "Giant Egg - Billy Hatcher no Daibouken"}
+		],
+		"Bloody Roar - Primal Fury": [
+			{"title": "Bloody Roar - Primal Fury"},
+			{"title": "Bloody Roar - Extreme"}
+		],
+		"Buffy the Vampire Slayer - Chaos Bleeds": [
+			{"title": "Buffy the Vampire Slayer - Chaos Bleeds"},
+			{"title": "Buffy contre les Vampires - Chaos Bleeds"},
+			{"title": "Buffy im Bann der Daemonen - Chaos Bleeds"}
+		],
+		"Bust-A-Move 3000": [
+			{"title": "Bust-A-Move 3000"},
+			{"title": "Super Bust-A-Move All Stars"},
+			{"title": "Super Puzzle Bobble All Stars"}
+		],
+		"Capcom vs. SNK 2 EO": [
+			{"title": "Capcom vs. SNK 2 EO"},
+			{"title": "Capcom vs. SNK 2 EO - Millionaire Fighting 2001"}
+		],
+		"Chaos Field": [
+			{"title": "Chaos Field"},
+			{"title": "Chaos Field Expanded"}
+		],
+		"Chibi-Robo! Plug into Adventure!": [
+			{"title": "Chibi-Robo! Plug into Adventure!"},
+			{"title": "Chibi-Robo!"},
+			{"title": "ChibiRobo!"}
+		],
+		"Chronicles of Narnia, The - The Lion, the Witch and the Wardrobe": [
+			{"title": "Chronicles of Narnia, The - The Lion, the Witch and the Wardrobe"},
+			{"title": "Chroniken von Narnia, Die - Der Koenig von Narnia"},
+			{"title": "Monde de Narnia, Le - Chapitre 1 - Le Lion, la Sorciere Blanche et l'Armoire Magique"}
+		],
+		"Codename - Kids Next Door - Operation - V.I.D.E.O.G.A.M.E.": [
+			{"title": "Codename - Kids Next Door - Operation - V.I.D.E.O.G.A.M.E."},
+			{"title": "Codename - Kids Next Door - Operation - V.I.D.E.O.S.P.I.E.L."}
+		],
+		"Conflict - Desert Storm II - Back to Baghdad": [
+			{"title": "Conflict - Desert Storm II - Back to Baghdad"},
+			{"title": "Conflict - Desert Storm II"}
+		],
+		"Crash Bandicoot - The Wrath of Cortex": [
+			{"title": "Crash Bandicoot - The Wrath of Cortex"},
+			{"title": "Crash Bandicoot 4 - Sakuretsu! Majin Power"}
+		],
+		"Crash Nitro Kart": [
+			{"title": "Crash Nitro Kart"},
+			{"title": "Crash Bandicoot - Bakusou! Nitro Kart"}
+		],
+		"Crash Tag Team Racing": [
+			{"title": "Crash Tag Team Racing"},
+			{"title": "Crash Bandicoot - Gatchanko World"}
+		],
+		"Cubivore - Survival of the Fittest": [
+			{"title": "Cubivore - Survival of the Fittest"},
+			{"title": "Doubutsu Banchou"}
+		],
+		"Custom Robo": [
+			{"title": "Custom Robo"},
+			{"title": "Custom Robo - Battle Revolution"}
+		],
+		"Dakar 2 - The World's Ultimate Rally": [
+			{"title": "Dakar 2 - The World's Ultimate Rally"},
+			{"title": "Dakar 2"}
+		],
+		"Dance Dance Revolution - Mario Mix": [
+			{"title": "Dance Dance Revolution - Mario Mix"},
+			{"title": "Dance Dance Revolution with Mario"},
+			{"title": "Dancing Stage Mario Mix"}
+		],
+		"Defender": [
+			{"title": "Defender"},
+			{"title": "Defender - For All Mankind"}
+		],
+		"Digimon Rumble Arena 2": [
+			{"title": "Digimon Rumble Arena 2"},
+			{"title": "Digimon Battle Chronicle"}
+		],
+		"Digimon World 4": [
+			{"title": "Digimon World 4"},
+			{"title": "Digimon World X"}
+		],
+		"Disney-Pixar Finding Nemo": [
+			{"title": "Disney-Pixar Finding Nemo"},
+			{"title": "Disney-Pixar Buscando a Nemo"},
+			{"title": "Disney-Pixar Findet Nemo"},
+			{"title": "Disney-Pixar Le Monde de Nemo"},
+			{"title": "Disney-Pixar Nemo-reul Chajaseo"},
+			{"title": "2 Games in 1 - Disney-Pixar Die Unglaublichen + Disney-Pixar Findet Nemo (Disc 2)", "priority": 2},
+			{"title": "2 Games in 1 - Disney-Pixar Les Indestructibles + Disney-Pixar Le Monde de Nemo (Disc 2) (Le Monde de Nemo)", "priority": 2}
+		],
+		"Disney-Pixar The Incredibles": [
+			{"title": "Disney-Pixar The Incredibles"},
+			{"title": "Disney-Pixar Die Unglaublichen"},
+			{"title": "Disney-Pixar Les Indestructibles"},
+			{"title": "Disney-Pixar Mr. Incredible"},
+			{"title": "2 Games in 1 - Disney-Pixar Die Unglaublichen + Disney-Pixar Findet Nemo (Disc 1)", "priority": 2},
+			{"title": "2 Games in 1 - Disney-Pixar Les Indestructibles + Disney-Pixar Le Monde de Nemo (Disc 1) (Les Indestructibles)", "priority": 2}
+		],
+		"Disney-Pixar The Incredibles - Rise of the Underminer": [
+			{"title": "Disney-Pixar The Incredibles - Rise of the Underminer"},
+			{"title": "Disney-Pixar Mr. Incredible - Kyouteki Underminer Toujou"}
+		],
+		"Disney's Chicken Little": [
+			{"title": "Disney's Chicken Little"},
+			{"title": "Disney Chicken Little"},
+			{"title": "Disneys Himmel und Huhn"}
+		],
+		"Disney's Donald Duck - Goin' Quackers": [
+			{"title": "Disney's Donald Duck - Goin' Quackers"},
+			{"title": "Disney's Donald Duck - Quack Attack"}
+		],
+		"Disney's Hide & Sneak": [
+			{"title": "Disney's Hide & Sneak"},
+			{"title": "Disney's Mickey to Minnie Trick & Chase"}
+		],
+		"Disney's Magical Mirror Starring Mickey Mouse": [
+			{"title": "Disney's Magical Mirror Starring Mickey Mouse"},
+			{"title": "Disney's Mickey Mouse no Fushigi na Kagami"}
+		],
+		"Disney's Party": [
+			{"title": "Disney's Party"},
+			{"title": "Disney's Magical Park"}
+		],
+		"Disney's Piglet's Big Game": [
+			{"title": "Disney's Piglet's Big Game"},
+			{"title": "Disney Les Aventures de Porcinet"},
+			{"title": "Disneys Ferkels grosses Abenteuer-Spiel"}
+		],
+		"Disney's PK - Out of the Shadows": [
+			{"title": "Disney's PK - Out of the Shadows"},
+			{"title": "Disney's Donald Duck PK"}
+		],
+		"Disney's Tarzan - Untamed": [
+			{"title": "Disney's Tarzan - Untamed"},
+			{"title": "Disney's Tarzan - Freeride"}
+		],
+		"Disney Sports - Football": [
+			{"title": "Disney Sports - Football"},
+			{"title": "Disney Sports - American Football"}
+		],
+		"Donkey Konga 2": [
+			{"title": "Donkey Konga 2"},
+			{"title": "Donkey Konga 2 - Hit Song Parade"}
+		],
+		"Doshin the Giant": [
+			{"title": "Doshin the Giant"},
+			{"title": "Kyojin no Doshin"}
+		],
+		"Dragon's Lair 3D - Return to the Lair": [
+			{"title": "Dragon's Lair 3D - Return to the Lair"},
+			{"title": "Dragon's Lair 3D - Special Edition"}
+		],
+		"Dragon Ball Z - Budokai": [
+			{"title": "Dragon Ball Z - Budokai"},
+			{"title": "Dragon Ball Z"}
+		],
+		"DreamWorks Over the Hedge": [
+			{"title": "DreamWorks Over the Hedge"},
+			{"title": "DreamWorks Ab durch die Hecke"},
+			{"title": "DreamWorks Nos Voisins, les Hommes"}
+		],
+		"DreamWorks Shark Tale": [
+			{"title": "DreamWorks Shark Tale"},
+			{"title": "DreamWorks Gang de Requins"},
+			{"title": "DreamWorks Grosse Haie - Kleine Fische"}
+		],
+		"Egg Mania - Eggstreme Madness": [
+			{"title": "Egg Mania - Eggstreme Madness"},
+			{"title": "Egg Mania - Tsukande! Mawashite! Dossun Puzzle!!"},
+			{"title": "Eggo Mania"}
+		],
+		"ESPN International Winter Sports 2002": [
+			{"title": "ESPN International Winter Sports 2002"},
+			{"title": "ESPN International Winter Sports"},
+			{"title": "Hyper Sports 2002 Winter"}
+		],
+		"Eternal Darkness - Sanity's Requiem": [
+			{"title": "Eternal Darkness - Sanity's Requiem"},
+			{"title": "Eternal Darkness - Manekareta 13-nin"}
+		],
+		"Evolution Worlds": [
+			{"title": "Evolution Worlds"},
+			{"title": "Shinki Sekai Evolutia"}
+		],
+		"Fantastic 4": [
+			{"title": "Fantastic 4"},
+			{"title": "4 Fantastiques, Les"},
+			{"title": "Fantastici 4, I"}
+		],
+		"FIFA Soccer 06": [
+			{"title": "FIFA Soccer 06"},
+			{"title": "FIFA 06"}
+		],
+		"FIFA Soccer 07": [
+			{"title": "FIFA Soccer 07"},
+			{"title": "FIFA 07"}
+		],
+		"FIFA Soccer 2002": [
+			{"title": "FIFA Soccer 2002"},
+			{"title": "FIFA 2002 - Road to FIFA World Cup"}
+		],
+		"FIFA Soccer 2003": [
+			{"title": "FIFA Soccer 2003"},
+			{"title": "FIFA 2003"},
+			{"title": "FIFA Football 2003"}
+		],
+		"FIFA Soccer 2004": [
+			{"title": "FIFA Soccer 2004"},
+			{"title": "FIFA Football 2004"}
+		],
+		"FIFA Soccer 2005": [
+			{"title": "FIFA Soccer 2005"},
+			{"title": "FIFA Football 2005"}
+		],
+		"FIFA World Cup Germany 2006": [
+			{"title": "FIFA World Cup Germany 2006"},
+			{"title": "FIFA Fussball-Weltmeisterschaft Deutschland 2006"}
+		],
+		"Fire Emblem - Path of Radiance": [
+			{"title": "Fire Emblem - Path of Radiance"},
+			{"title": "Fire Emblem - Souen no Kiseki"}
+		],
+		"Freestyle Street Soccer": [
+			{"title": "Freestyle Street Soccer"},
+			{"title": "Urban Freestyle Soccer"}
+		],
+		"Frogger Beyond": [
+			{"title": "Frogger Beyond"},
+			{"title": "Frogger"}
+		],
+		"Godzilla - Destroy All Monsters Melee": [
+			{"title": "Godzilla - Destroy All Monsters Melee"},
+			{"title": "Godzilla - Kaijuu Dairantou"}
+		],
+		"GoldenEye - Rogue Agent (Disc 1)": [
+			{"title": "GoldenEye - Rogue Agent (Disc 1)"},
+			{"title": "GoldenEye - Agente Corrupto (Disc 1)"},
+			{"title": "GoldenEye - Dark Agent (Disc 1)"}
+		],
+		"GoldenEye - Rogue Agent (Disc 2)": [
+			{"title": "GoldenEye - Rogue Agent (Disc 2)"},
+			{"title": "GoldenEye - Agente Corrupto (Disc 2)"},
+			{"title": "GoldenEye - Dark Agent (Disc 2)"}
+		],
+		"Harry Potter and the Chamber of Secrets": [
+			{"title": "Harry Potter and the Chamber of Secrets"},
+			{"title": "Harry Potter to Himitsu no Heya"}
+		],
+		"Harry Potter and the Goblet of Fire": [
+			{"title": "Harry Potter and the Goblet of Fire"},
+			{"title": "Harry Potter e il Calice di Fuoco"},
+			{"title": "Harry Potter en de Vuurbeker"},
+			{"title": "Harry Potter et la Coupe de Feu"},
+			{"title": "Harry Potter och den flammande baegaren"},
+			{"title": "Harry Potter to Honoo no Goblet"},
+			{"title": "Harry Potter und der Feuerkelch"},
+			{"title": "Harry Potter y el Caliz de Fuego"}
+		],
+		"Harry Potter and the Prisoner of Azkaban": [
+			{"title": "Harry Potter and the Prisoner of Azkaban"},
+			{"title": "Harry Potter e il Prigioniero di Azkaban"},
+			{"title": "Harry Potter en de gevangene van Azkaban"},
+			{"title": "Harry Potter et le Prisonnier d'Azkaban"},
+			{"title": "Harry Potter och fangen fran Azkaban"},
+			{"title": "Harry Potter to Azkaban no Shuujin"},
+			{"title": "Harry Potter und der Gefangene von Askaban"},
+			{"title": "Harry Potter y el prisionero de Azkaban"}
+		],
+		"Harry Potter and the Sorcerer's Stone": [
+			{"title": "Harry Potter and the Sorcerer's Stone"},
+			{"title": "Harry Potter and the Philosopher's Stone"},
+			{"title": "Harry Potter to Kenja no Ishi"}
+		],
+		"Harvest Moon - A Wonderful Life": [
+			{"title": "Harvest Moon - A Wonderful Life"},
+			{"title": "Bokujou Monogatari - Wonderful Life"}
+		],
+		"Harvest Moon - Another Wonderful Life": [
+			{"title": "Harvest Moon - Another Wonderful Life"},
+			{"title": "Bokujou Monogatari - Wonderful Life for Girl"}
+		],
+		"Harvest Moon - Magical Melody": [
+			{"title": "Harvest Moon - Magical Melody"},
+			{"title": "Bokujou Monogatari - Shiawase no Uta for World"},
+			{"title": "Bokujou Monogatari - Shiawase no Uta", "priority": 2}
+		],
+		"International Superstar Soccer 2": [
+			{"title": "International Superstar Soccer 2"},
+			{"title": "Jikkyou World Soccer 2002"}
+		],
+		"Kirby Air Ride": [
+			{"title": "Kirby Air Ride"},
+			{"title": "Kirby's Airride"}
+		],
+		"Legend of Zelda, The - Collector's Edition": [
+			{"title": "Legend of Zelda, The - Collector's Edition"},
+			{"title": "Zelda Collection"}
+		],
+		"Legend of Zelda, The - Four Swords Adventures": [
+			{"title": "Legend of Zelda, The - Four Swords Adventures"},
+			{"title": "Zelda no Densetsu - 4-tsu no Tsurugi+"}
+		],
+		"Legend of Zelda, The - Ocarina of Time & Master Quest": [
+			{"title": "Legend of Zelda, The - Ocarina of Time & Master Quest"},
+			{"title": "Zelda no Densetsu - Toki no Ocarina GC"}
+		],
+		"Legend of Zelda, The - The Wind Waker": [
+			{"title": "Legend of Zelda, The - The Wind Waker"},
+			{"title": "Zelda no Densetsu - Kaze no Takuto"}
+		],
+		"Legend of Zelda, The - Twilight Princess": [
+			{"title": "Legend of Zelda, The - Twilight Princess"},
+			{"title": "Zelda no Densetsu - Twilight Princess"}
+		],
+		"Lemony Snicket's A Series of Unfortunate Events": [
+			{"title": "Lemony Snicket's A Series of Unfortunate Events"},
+			{"title": "Desastreuses Aventures des Orphelins Baudelaire, Les - D'Apres Lemony Snicket"},
+			{"title": "Lemony Snicket - Raetselhafte Ereignisse"},
+			{"title": "Una Serie de Catastroficas Desdichas de Lemony Snicket"}
+		],
+		"Lord of the Rings, The - The Return of the King": [
+			{"title": "Lord of the Rings, The - The Return of the King"},
+			{"title": "Herr der Ringe, Der - Die Rueckkehr des Koenigs"},
+			{"title": "Lord of the Rings - Ou no Kikan"},
+			{"title": "Senor de los Anillos, El - El Retorno del Rey"},
+			{"title": "Seigneur des Anneaux, Le - Le Retour du Roi"},
+			{"title": "Signore degli Anelli, Il - Il ritorno del Re"}
+		],
+		"Lord of the Rings, The - The Third Age (Disc 1)": [
+			{"title": "Lord of the Rings, The - The Third Age (Disc 1)"},
+			{"title": "Herr der Ringe, Der - Das dritte Zeitalter (Disc 1)"},
+			{"title": "Lord of the Rings - Nakatsu Kuni Daisanki (Disc 1)"},
+			{"title": "Seigneur des Anneaux, Le - Le Tiers Age (Disc 1)"},
+			{"title": "Senor de los Anillos, El - La Tercera Edad (Disc 1)"}
+		],
+		"Lord of the Rings, The - The Third Age (Disc 2)": [
+			{"title": "Lord of the Rings, The - The Third Age (Disc 2)"},
+			{"title": "Herr der Ringe, Der - Das dritte Zeitalter (Disc 2)"},
+			{"title": "Lord of the Rings - Nakatsu Kuni Daisanki (Disc 2)"},
+			{"title": "Seigneur des Anneaux, Le - Le Tiers Age (Disc 2)"},
+			{"title": "Senor de los Anillos, El - La Tercera Edad (Disc 2)"}
+		],
+		"Lord of the Rings, The - The Two Towers": [
+			{"title": "Lord of the Rings, The - The Two Towers"},
+			{"title": "Herr der Ringe, Der - Die zwei Tuerme"},
+			{"title": "Lord of the Rings - Futatsu no Tou"},
+			{"title": "Seigneur des Anneaux, Le - Les Deux Tours"},
+			{"title": "Senor de los Anillos, El - Las Dos Torres"},
+			{"title": "Signore degli Anelli, Il - Le Due Torri"}
+		],
+		"Lost Kingdoms": [
+			{"title": "Lost Kingdoms"},
+			{"title": "Rune"}
+		],
+		"Lost Kingdoms II": [
+			{"title": "Lost Kingdoms II"},
+			{"title": "Rune II - Koruten no Kagi no Himitsu"}
+		],
+		"Luigi's Mansion": [
+			{"title": "Luigi's Mansion"},
+			{"title": "Luigi Mansion"}
+		],
+		"Mario Golf - Toadstool Tour": [
+			{"title": "Mario Golf - Toadstool Tour"},
+			{"title": "Mario Golf - Family Tour"}
+		],
+		"Mario Power Tennis": [
+			{"title": "Mario Power Tennis"},
+			{"title": "Mario Tennis GC"}
+		],
+		"Mario Superstar Baseball": [
+			{"title": "Mario Superstar Baseball"},
+			{"title": "Super Mario Stadium - Miracle Baseball"}
+		],
+		"Marvel Nemesis - Rise of the Imperfects": [
+			{"title": "Marvel Nemesis - Rise of the Imperfects"},
+			{"title": "Marvel Nemesis - L'Avenement des Imparfaits"}
+		],
+		"Medabots Infinity": [
+			{"title": "Medabots Infinity"},
+			{"title": "Medarot Brave"}
+		],
+		"Medal of Honor - European Assault": [
+			{"title": "Medal of Honor - European Assault"},
+			{"title": "Medal of Honor - Europa Kyoushuu"},
+			{"title": "Medal of Honor - Les Faucons de Guerre"}
+		],
+		"Medal of Honor - Frontline": [
+			{"title": "Medal of Honor - Frontline"},
+			{"title": "Medal of Honor - En Premiere Ligne"}
+		],
+		"Medal of Honor - Rising Sun (Disc 1)": [
+			{"title": "Medal of Honor - Rising Sun (Disc 1)"},
+			{"title": "Medal of Honor - Soleil Levant (Disc 1)"}
+		],
+		"Medal of Honor - Rising Sun (Disc 2)": [
+			{"title": "Medal of Honor - Rising Sun (Disc 2)"},
+			{"title": "Medal of Honor - Soleil Levant (Disc 2)"}
+		],
+		"Mega Man Network Transmission": [
+			{"title": "Mega Man Network Transmission"},
+			{"title": "Rockman EXE Transmission"}
+		],
+		"Mega Man X - Command Mission": [
+			{"title": "Mega Man X - Command Mission"},
+			{"title": "Rockman X - Command Mission"}
+		],
+		"Metroid Prime 2 - Echoes": [
+			{"title": "Metroid Prime 2 - Echoes"},
+			{"title": "Metroid Prime 2 - Dark Echoes"}
+		],
+		"Minority Report - Everybody Runs": [
+			{"title": "Minority Report - Everybody Runs"},
+			{"title": "Minority Report - Le Futur vous Rattrape"}
+		],
+		"Monopoly Party": [
+			{"title": "Monopoly Party"},
+			{"title": "Monopoly - Mezase!! Daifugou Jinsei!!"}
+		],
+		"Mystic Heroes": [
+			{"title": "Mystic Heroes"},
+			{"title": "Battle Houshin"}
+		],
+		"Naruto - Clash of Ninja": [
+			{"title": "Naruto - Clash of Ninja"},
+			{"title": "Naruto - Clash of Ninja - European Version"},
+			{"title": "Naruto - Gekitou Ninja Taisen!"}
+		],
+		"Naruto - Clash of Ninja 2": [
+			{"title": "Naruto - Clash of Ninja 2"},
+			{"title": "Naruto - Gekitou Ninja Taisen! 2"}
+		],
+		"Nickelodeon Avatar - The Last Airbender": [
+			{"title": "Nickelodeon Avatar - The Last Airbender"},
+			{"title": "Nickelodeon Avatar - The Legend of Aang"}
+		],
+		"Nickelodeon Barnyard": [
+			{"title": "Nickelodeon Barnyard"},
+			{"title": "Tierisch verrueckte Bauernhof, Der"}
+		],
+		"Nickelodeon Jimmy Neutron - Boy Genius": [
+			{"title": "Nickelodeon Jimmy Neutron - Boy Genius"},
+			{"title": "Nickelodeon Jimmy Neutron - Der mutige Erfinder"}
+		],
+		"Nickelodeon Rugrats - Royal Ransom": [
+			{"title": "Nickelodeon Rugrats - Royal Ransom"},
+			{"title": "Nickelodeon Les Razmoket - La Rancon Royale"}
+		],
+		"Nickelodeon SpongeBob SquarePants - Battle for Bikini Bottom": [
+			{"title": "Nickelodeon SpongeBob SquarePants - Battle for Bikini Bottom"},
+			{"title": "2 Games in 1 - Nickelodeon SpongeBob Schwammkopf - Der Film + Nickelodeon SpongeBob Schwammkopf - Schlacht um Bikini Bottom (Disc 2)"}
+		],
+		"Nickelodeon SpongeBob SquarePants - Creature from the Krusty Krab": [
+			{"title": "Nickelodeon SpongeBob SquarePants - Creature from the Krusty Krab"},
+			{"title": "Nickelodeon Bob L'eponge - La Creature du Crabe Croustillant"},
+			{"title": "Nick SpongeBob Schwammkopf - Die Kreatur aus der Krossen Krabbe"},
+			{"title": "Nickelodeon SpongeBob SquarePants - Creatuur van de Krokante Krab"}
+		],
+		"Nickelodeon SpongeBob SquarePants - Lights, Camera, Pants!": [
+			{"title": "Nickelodeon SpongeBob SquarePants - Lights, Camera, Pants!"},
+			{"title": "Nickelodeon Bob L'eponge - Silence on Tourne!"},
+			{"title": "Nickelodeon SpongeBob Schwammkopf - Film ab!"},
+			{"title": "Nickelodeon SpongeBob SquarePants - Licht uit, Camera aan!"}
+		],
+		"Nickelodeon SpongeBob SquarePants - The Movie": [
+			{"title": "Nickelodeon SpongeBob SquarePants - The Movie"},
+			{"title": "2 Games in 1 - Bob L'eponge - Le Film + Tak 2 - Le Sceptre des Reves (Disc 1) (Bob L'eponge - Le Film)"},
+			{"title": "2 Games in 1 - Nickelodeon SpongeBob Schwammkopf - Der Film + Nickelodeon SpongeBob Schwammkopf - Schlacht um Bikini Bottom (Disc 1)"},
+			{"title": "Nickelodeon SpongeBob Schwammkopf - Der Film", "priority": 2},
+			{"title": "2 Games in 1 - Nickelodeon SpongeBob Schwammkopf - Der Film + Nickelodeon Tak 2 - Der Stab der Traeume (Disc 1)", "priority": 3}
+		],
+		"Tak and the Power of Juju": [
+			{"title": "Tak and the Power of Juju"},
+			{"title": "Tak & Le Pouvoir de Juju"},
+			{"title": "Tak und die Macht des Juju"}
+		],
+		"Nickelodeon Tak 2 - The Staff of Dreams": [
+			{"title": "Nickelodeon Tak 2 - The Staff of Dreams"},
+			{"title": "Nickelodeon Tak 2 - Der Stab der Traeume"},
+			{"title": "Nickelodeon Tak 2 - Le Sceptre des Reves"},
+			{"title": "2 Games in 1 - Bob L'eponge - Le Film + Tak 2 - Le Sceptre des Reves (Disc 2) (Tak 2 - Le Sceptre des Reves)", "priority": 2},
+			{"title": "2 Games in 1 - Nickelodeon SpongeBob Schwammkopf - Der Film + Nickelodeon Tak 2 - Der Stab der Traeume (Disc 2)", "priority": 2}
+		],
+		"Nicktoons Unite!": [
+			{"title": "Nicktoons Unite!"},
+			{"title": "Nickelodeon SpongeBob SquarePants and Friends Unite!"}
+		],
+		"Paper Mario - The Thousand-Year Door": [
+			{"title": "Paper Mario - The Thousand-Year Door"},
+			{"title": "Paper Mario RPG"}
+		],
+		"Phantasy Star Online Episode I & II": [
+			{"title": "Phantasy Star Online Episode I & II"},
+			{"superset": "Phantasy Star Online Episode I & II Plus"}
+		],
+		"Pokemon Channel": [
+			{"title": "Pokemon Channel"},
+			{"title": "Pokemon Channel - Pikachu to Issho!"}
+		],
+		"Pokemon XD - Gale of Darkness": [
+			{"title": "Pokemon XD - Gale of Darkness"},
+			{"title": "Pokemon XD - Yami no Kaze Dark Lugia"}
+		],
+		"Power Rangers - Dino Thunder": [
+			{"title": "Power Rangers - Dino Thunder"},
+			{"title": "Power Rangers - Dino Tonnerre"}
+		],
+		"Puyo Pop Fever": [
+			{"title": "Puyo Pop Fever"},
+			{"title": "Puyo Puyo Fever"}
+		],
+		"R-Racing Evolution": [
+			{"title": "R-Racing Evolution"},
+			{"title": "R-Racing"},
+			{"title": "R-Racing Evolution - Life in the Fast Lane"}
+		],
+		"Rave Master": [
+			{"title": "Rave Master"},
+			{"title": "Groove Adventure Rave - Fighting Live"}
+		],
+		"RedCard 20-03": [
+			{"title": "RedCard 20-03"},
+			{"title": "RedCard"}
+		],
+		"Resident Evil (Disc 1)": [
+			{"title": "Resident Evil (Disc 1)"},
+			{"title": "Biohazard (Disc 1)"}
+		],
+		"Resident Evil (Disc 2)": [
+			{"title": "Resident Evil (Disc 2)"},
+			{"title": "Biohazard (Disc 2)"}
+		],
+		"Resident Evil - Code - Veronica X (Disc 1)": [
+			{"title": "Resident Evil - Code - Veronica X (Disc 1)"},
+			{"title": "Biohazard - Code - Veronica - Kanzenban (Disc 1)"}
+		],
+		"Resident Evil - Code - Veronica X (Disc 2)": [
+			{"title": "Resident Evil - Code - Veronica X (Disc 2)"},
+			{"title": "Biohazard - Code - Veronica - Kanzenban (Disc 2)"}
+		],
+		"Resident Evil 2": [
+			{"title": "Resident Evil 2"},
+			{"title": "Biohazard 2"}
+		],
+		"Resident Evil 3 - Nemesis": [
+			{"title": "Resident Evil 3 - Nemesis"},
+			{"title": "Biohazard 3 - Last Escape"}
+		],
+		"Resident Evil 4 (Disc 1)": [
+			{"title": "Resident Evil 4 (Disc 1)"},
+			{"title": "Biohazard 4 (Disc 1)"}
+		],
+		"Resident Evil 4 (Disc 2)": [
+			{"title": "Resident Evil 4 (Disc 2)"},
+			{"title": "Biohazard 4 (Disc 2)"}
+		],
+		"Resident Evil Zero (Disc 1)": [
+			{"title": "Resident Evil Zero (Disc 1)"},
+			{"title": "Biohazard Zero (Disc 1)"}
+		],
+		"Resident Evil Zero (Disc 2)": [
+			{"title": "Resident Evil Zero (Disc 2)"},
+			{"title": "Biohazard Zero (Disc 2)"}
+		],
+		"Ribbit King": [
+			{"title": "Ribbit King"},
+			{"title": "Kero Kero King DX"}
+		],
+		"Road Trip - The Arcade Edition": [
+			{"title": "Road Trip - The Arcade Edition"},
+			{"title": "Choro Q!"},
+			{"title": "Gadget Racers"}
+		],
+		"Scooby-Doo! Mystery Mayhem": [
+			{"title": "Scooby-Doo! Mystery Mayhem"},
+			{"title": "Scooby-Doo! Fluch der Folianten"},
+			{"title": "Scooby-Doo! Le Livre des Tenebres"}
+		],
+		"Scooby-Doo! Night of 100 Frights": [
+			{"title": "Scooby-Doo! Night of 100 Frights"},
+			{"title": "Scooby-Doo! La Nuit des 100 Frissons"},
+			{"title": "Scooby-Doo! Nacht der 100 Schrecken"}
+		],
+		"Shonen Jump's One Piece - Grand Battle": [
+			{"title": "Shonen Jump's One Piece - Grand Battle"},
+			{"title": "One Piece - Grand Battle! Rush"}
+		],
+		"Shonen Jump's One Piece - Pirates' Carnival": [
+			{"title": "Shonen Jump's One Piece - Pirates' Carnival"},
+			{"title": "One Piece - Pirates Carnival"}
+		],
+		"Skies of Arcadia Legends": [
+			{"title": "Skies of Arcadia Legends"},
+			{"title": "Eternal Arcadia Legends"}
+		],
+		"Sonic Adventure DX - Director's Cut": [
+			{"title": "Sonic Adventure DX - Director's Cut"},
+			{"title": "Sonic Adventure DX"}
+		],
+		"Spirits & Spells": [
+			{"title": "Spirits & Spells"},
+			{"title": "Castleween"},
+			{"title": "Mahou no Pumpkin - An to Greg no Daibouken"}
+		],
+		"SSX On Tour": [
+			{"title": "SSX On Tour"},
+			{"title": "SSX On Tour with Mario"}
+		],
+		"Star Wars - Rogue Squadron II - Rogue Leader": [
+			{"title": "Star Wars - Rogue Squadron II - Rogue Leader"},
+			{"title": "Star Wars - Rogue Squadron II"}
+		],
+		"Star Wars - Rogue Squadron III - Rebel Strike": [
+			{"title": "Star Wars - Rogue Squadron III - Rebel Strike"},
+			{"title": "Star Wars - Rogue Squadron III"}
+		],
+		"Star Wars - The Clone Wars": [
+			{"title": "Star Wars - The Clone Wars"},
+			{"title": "Star Wars - La Guerra dei Cloni"},
+			{"title": "Star Wars - Las Guerras Clon"}
+		],
+		"Summoner - A Goddess Reborn": [
+			{"title": "Summoner - A Goddess Reborn"},
+			{"title": "Summoner - La Deesse Reincarnee"}
+		],
+		"Super Mario Strikers": [
+			{"title": "Super Mario Strikers"},
+			{"title": "Mario Smash Football"}
+		],
+		"Super Smash Bros. Melee": [
+			{"title": "Super Smash Bros. Melee"},
+			{"title": "Dairantou Smash Brothers DX"}
+		],
+		"Swingerz Golf": [
+			{"title": "Swingerz Golf"},
+			{"title": "Ace Golf"},
+			{"title": "Wai Wai Golf"}
+		],
+		"TimeSplitters - Future Perfect": [
+			{"title": "TimeSplitters - Future Perfect"},
+			{"title": "TimeSplitters - Futuro Perfecto"}
+		],
+		"Top Gun - Combat Zones": [
+			{"title": "Top Gun - Combat Zones"},
+			{"title": "Top Gun - Ace of the Sky"}
+		],
+		"Ultimate Codes for Use with The Legend of Zelda - The Wind Waker": [
+			{"title": "Ultimate Codes for Use with The Legend of Zelda - The Wind Waker"},
+			{"title": "CD avec les Codes Action Replay Exclusivement pour le Jeu The Legend of Zelda - The Wind Waker"},
+			{"title": "Ultimate Cheats for Use with The Legend of Zelda - The Wind Waker"},
+			{"title": "Ultimate Cheats fuer The Legend of Zelda - The Wind Waker"}
+		],
+		"UFC - Throwdown": [
+			{"title": "UFC - Throwdown"},
+			{"title": "UFC - Ultimate Fighting Championship 2 - Tapout - Final Spec"}
+		],
+		"Ultimate Codes for Use with Metroid Prime": [
+			{"title": "Ultimate Codes for Use with Metroid Prime"},
+			{"title": "Ultimate Cheats for Use with Metroid Prime"}
+		],
+		"Ultimate Muscle - Legends vs. New Generation": [
+			{"title": "Ultimate Muscle - Legends vs. New Generation"},
+			{"title": "Kinnikuman Nisei - Shinsedai Choujin vs. Densetsu Choujin"}
+		],
+		"Universal Studios Theme Park Adventure": [
+			{"title": "Universal Studios Theme Park Adventure"},
+			{"title": "Universal Studios Japan Adventure"}
+		],
+		"Viewtiful Joe Revival": [
+			{"title": "Viewtiful Joe Revival"},
+			{"title": "Viewtiful Joe", "priority": 2}
+		],
+		"Viewtiful Joe - Red Hot Rumble": [
+			{"title": "Viewtiful Joe - Red Hot Rumble"},
+			{"title": "Viewtiful Joe - Battle Carnival"}
+		],
+		"Viewtiful Joe 2": [
+			{"title": "Viewtiful Joe 2"},
+			{"title": "Viewtiful Joe 2 - Black Film no Nazo"}
+		],
+		"Virtua Quest": [
+			{"title": "Virtua Quest"},
+			{"title": "Virtua Fighter Cyber Generation - Judgment Six no Yabou"}
+		],
+		"WarioWare, Inc. - Mega Party Game$!": [
+			{"title": "WarioWare, Inc. - Mega Party Game$!"},
+			{"title": "Atsumare!! Made in Wario"}
+		],
+		"WTA Tour Tennis": [
+			{"title": "WTA Tour Tennis"},
+			{"title": "Pro Tennis WTA Tour"},
+			{"title": "WTA Tour Tennis Pro Evolution"}
+		],
+		"X-Men Legends II - Rise of Apocalypse": [
+			{"title": "X-Men Legends II - Rise of Apocalypse"},
+			{"title": "X-Men Legends II - El Ascenso de Apocalipsis"}
+		],
+		"X2 - Wolverine's Revenge": [
+			{"title": "X2 - Wolverine's Revenge"},
+			{"title": "X-Men 2 - Wolverine's Revenge"}
+		],
+		"Yu-Gi-Oh! The Falsebound Kingdom": [
+			{"title": "Yu-Gi-Oh! The Falsebound Kingdom"},
+			{"title": "Yu-Gi-Oh! Falsebound Kingdom - Kyokou ni Tozasareta Oukoku"}
+		],
+		"Zatch Bell! Mamodo Battles": [
+			{"title": "Zatch Bell! Mamodo Battles"},
+			{"title": "Konjiki no Gashbell!! Yuujou Tag Battle 2"}
+		],
+		"Zoids - Battle Legends": [
+			{"title": "Zoids - Battle Legends"},
+			{"title": "Zoids vs. II"}
+		]
+	}
+}

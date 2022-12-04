@@ -1,0 +1,63 @@
+{
+	"description": {
+		"name": [
+			"SNK Neo Geo Pocket Color"
+		],
+		"last updated": "2 January 2022",
+		"minimum version": "2.00"
+	},
+
+	"categories": {
+		"PP-AA01 - Pusher - Program - Hontai Controller Gawa": {
+			"match": "short",
+			"categories": ["Applications"]
+		}
+	},
+
+	"renames": {
+		"Big Bang Pro Wrestling": [
+			{"title": "Big Bang Pro Wrestling"},
+			{"title": "Wrestling Madness", "priority": 2}
+		],
+		"Bust-A-Move Pocket": [
+			{"title": "Bust-A-Move Pocket"},
+			{"title": "Puzzle Bobble Mini"}
+		],
+		"Dive Alert - Becky's Version": [
+			{"title": "Dive Alert - Becky's Version"},
+			{"title": "Dive Alert - Rebecca Hen"}
+		],
+		"Dive Alert - Matt's Version": [
+			{"title": "Dive Alert - Matt's Version"},
+			{"title": "Dive Alert - Burn Hen"}
+		],
+		"Evolution - Eternal Dungeons": [
+			{"title": "Evolution - Eternal Dungeons"},
+			{"title": "Shinki Sekai Evolution - Hateshinai Dungeon"}
+		],
+		"Last Blade, The - Beyond the Destiny": [
+			{"title": "Last Blade, The - Beyond the Destiny"},
+			{"title": "Bakumatsu Rouman Tokubetsu Hen - Gekka no Kenshi - Tsuki ni Saku Hana, Chiri Yuku Hana"}
+		],
+		"Picture Puzzle": [
+			{"title": "Picture Puzzle"},
+			{"title": "Oekaki Puzzle"}
+		],
+		"Puzzle Link": [
+			{"title": "Puzzle Link"},
+			{"title": "Renketsu Puzzle Tsunagete Pon! Color"}
+		],
+		"Puzzle Link 2": [
+			{"title": "Puzzle Link 2"},
+			{"title": "Tsunagete Pon! 2"}
+		],
+		"SNK vs. Capcom - Card Fighters' Clash - Capcom Version": [
+			{"title": "SNK vs. Capcom - Card Fighters' Clash - Capcom Version"},
+			{"title": "SNK vs. Capcom - Gekitotsu Card Fighters - Capcom Supporter Version"}
+		],
+		"SNK vs. Capcom - Card Fighters' Clash - SNK Version": [
+			{"title": "SNK vs. Capcom - Card Fighters' Clash - SNK Version"},
+			{"title": "SNK vs. Capcom - Gekitotsu Card Fighters - SNK Supporter Version"}
+		]
+	}
+}

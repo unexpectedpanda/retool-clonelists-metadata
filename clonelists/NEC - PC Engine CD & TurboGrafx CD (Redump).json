@@ -1,0 +1,110 @@
+{
+	"description": {
+		"name": [
+			"NEC - PC Engine CD & TurboGrafx CD"
+		],
+		"last updated": "9 May 2022",
+		"minimum version": "2.00"
+	},
+
+	"renames": {
+		"Bonk's Adventure": [
+			{"compilation": "Gate of Thunder + Bonk's Adventure + Bonk's Revenge", "title_position": 2}
+		],
+		"Bonk's Revenge": [
+			{"compilation": "Gate of Thunder + Bonk's Adventure + Bonk's Revenge", "title_position": 3}
+		],
+		"Buster Bros.": [
+			{"title": "Buster Bros."},
+			{"title": "Pomping World"}
+		],
+		"Cosmic Fantasy 2": [
+			{"title": "Cosmic Fantasy 2"},
+			{"title": "Cosmic Fantasy 2 - Bouken Shounen Ban"}
+		],
+		"Dynastic Hero, The": [
+			{"title": "Dynastic Hero, The"},
+			{"title": "Chou Eiyuu Densetsu - Dynastic Hero"}
+		],
+		"Exile": [
+			{"title": "Exile"},
+			{"title": "Exile - Toki no Hasama e"}
+		],
+		"Exile - Wicked Phenomenon": [
+			{"title": "Exile - Wicked Phenomenon"},
+			{"title": "Exile II - Janen no Jishou"}
+		],
+		"Gate of Thunder": [
+			{"title": "Gate of Thunder"},
+			{"compilation": "Gate of Thunder + Bonk's Adventure + Bonk's Revenge", "title_position": 1}
+		],
+		"Godzilla": [
+			{"title": "Godzilla"},
+			{"title": "Godzilla Bakutou Retsuden"}
+		],
+		"J. B. Harold Murder Club": [
+			{"title": "J. B. Harold Murder Club"},
+			{"title": "J. B. Harold Series 1 - Murder Club"}
+		],
+		"Jack Nicklaus Turbo Golf": [
+			{"title": "Jack Nicklaus Turbo Golf"},
+			{"title": "Jack Nicklaus' World Tour Golf - 162 Holes"}
+		],
+		"Last Alert": [
+			{"title": "Last Alert"},
+			{"title": "Red Alert"}
+		],
+		"Lords of the Rising Sun": [
+			{"title": "Lords of the Rising Sun"},
+			{"title": "Rising Sun"}
+		],
+		"Lords of Thunder": [
+			{"title": "Lords of Thunder"},
+			{"title": "Winds of Thunder"}
+		],
+		"Magical Dinosaur Tour": [
+			{"title": "Magical Dinosaur Tour"},
+			{"title": "Magical Saurus Tour"}
+		],
+		"Monster Lair": [
+			{"title": "Monster Lair"},
+			{"title": "Wonder Boy III - Monster Lair"}
+		],
+		"Riot Zone": [
+			{"title": "Riot Zone"},
+			{"title": "Ookami-teki Monshou - Crest of Wolf"}
+		],
+		"Shadow of the Beast": [
+			{"title": "Shadow of the Beast"},
+			{"title": "Shadow of the Beast - Mashou no Okite"}
+		],
+		"Sherlock Holmes - Consulting Detective - Volume 2": [
+			{"title": "Sherlock Holmes - Consulting Detective - Volume 2"},
+			{"title": "Sherlock Holmes - Consulting Detective Vol. II"}
+		],
+		"Shape Shifter": [
+			{"title": "Shape Shifter"},
+			{"title": "Makai Eiyuuden - Shape Shifter"}
+		],
+		"Splash Lake": [
+			{"title": "Splash Lake"},
+			{"title": "Splash Lake - Ostrich Daibouken"}
+		],
+		"Super Air Zonk - Rockabilly-Paradise": [
+			{"title": "Super Air Zonk - Rockabilly-Paradise"},
+			{"title": "CD Denjin - Rockabilly Tengoku"}
+		],
+		"SydMead's TerraForming": [
+			{"title": "SydMead's TerraForming"},
+			{"title": "TerraForming"}
+		],
+		"Ys Book I & II": [
+			{"title": "Ys Book I & II"},
+			{"title": "Ys I & II"}
+		],
+		"Ys III - Wanderers from Ys": [
+			{"title": "Ys III - Wanderers from Ys"},
+			{"title": "Ys III"}
+		]
+	}
+}

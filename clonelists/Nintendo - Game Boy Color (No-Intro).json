@@ -1,0 +1,695 @@
+{
+	"description": {
+		"name": [
+			"Nintendo - Game Boy Color"
+		],
+		"last updated": "30 June 2022",
+		"minimum version": "2.00"
+	},
+
+	"categories": {
+		"Action Replay Online": {
+			"match": "short",
+			"categories": ["Applications"]
+		},
+		"CGB Test Cartridge": {
+			"match": "short",
+			"categories": ["Applications"]
+		},
+		"GameShark MX": {
+			"match": "short",
+			"categories": ["Applications"]
+		},
+		"GameShark Online": {
+			"match": "short",
+			"categories": ["Applications"]
+		},
+		"Peugeot - Orbital Diagnostic System": {
+			"match": "short",
+			"categories": ["Applications"]
+		},
+		"Sewing Machine Operation Software": {
+			"match": "short",
+			"categories": ["Applications"]
+		}
+	},
+
+	"overrides": {
+		"Game Boy Gallery 3 (Japan) (SGB Enhanced) (GB Compatible)": {
+			"new group": "Game & Watch Gallery 3",
+			"match": "full"
+		}
+	},
+
+	"renames": {
+		"102 Dalmatians - Puppies to the Rescue": [
+			{"title": "102 Dalmatians - Puppies to the Rescue"},
+			{"title": "102 Dalmatas - Cachorros Al Rescate"},
+			{"title": "102 Dalmatiens a la Rescousse, Les"},
+			{"title": "102 Dalmatiner"}
+		],
+		"31-in-1 Mighty Mix (31B-001, Sachen)": [
+			{"title": "31-in-1 Mighty Mix (31B-001, Sachen)"},
+			{"title": "31 in 1 (31B-001, Sachen)"}
+		],
+		"AirForce Delta": [
+			{"title": "AirForce Delta"},
+			{"title": "Deadly Skies"}
+		],
+		"All Star Tennis 2000 (AZTP)": [
+			{"title": "All Star Tennis 2000 (AZTP)"},
+			{"title": "All Star Tennis 2000 (AZTX)", "priority": 2},
+			{"title": "All Star Tennis 2000", "priority": 2}
+		],
+		"Azure Dreams": [
+			{"title": "Azure Dreams"},
+			{"title": "Other Life - Azure Dreams GB"}
+		],
+		"Ballistic": [
+			{"title": "Ballistic"},
+			{"title": "Puzz Loop"}
+		],
+		"Barbie - Ocean Discovery": [
+			{"title": "Barbie - Ocean Discovery"},
+			{"title": "Barbie - Aventura Submarina"},
+			{"title": "Barbie - Avventure nell'Oceano"},
+			{"title": "Barbie - Chasse au Tresor Sous-Marine"},
+			{"title": "Barbie - Diepzee Avontuur"},
+			{"title": "Barbie - Meeres Abenteuer"}
+		],
+		"Barca Total 2000": [
+			{"title": "Barca Total 2000"},
+			{"title": "David O'Leary's Total Soccer 2000", "priority": 2}
+		],
+		"Batman Beyond - Return of the Joker": [
+			{"title": "Batman Beyond - Return of the Joker"},
+			{"title": "Batman of the Future - Return of the Joker"}
+		],
+		"Blaster Master - Enemy Below": [
+			{"title": "Blaster Master - Enemy Below"},
+			{"title": "MetaFight EX"}
+		],
+		"Boarder Zone": [
+			{"title": "Boarder Zone"},
+			{"title": "Supreme Snowboarding"}
+		],
+		"Bomberman Max - Blue Champion": [
+			{"title": "Bomberman Max - Blue Champion"},
+			{"title": "Bomberman Max - Hikari no Yuusha"}
+		],
+		"Bomberman Max - Red Challenger": [
+			{"title": "Bomberman Max - Red Challenger"},
+			{"title": "Bomberman Max - Yami no Senshi"}
+		],
+		"Bugs Bunny in - Crazy Castle 4": [
+			{"title": "Bugs Bunny in - Crazy Castle 4"},
+			{"title": "Bugs Bunny - Crazy Castle 4"},
+			{"title": "Bugs Bunny et le Chateau des Catastrophes"}
+		],
+		"Bust-A-Move 4": [
+			{"title": "Bust-A-Move 4"},
+			{"title": "Puzzle Bobble 4"}
+		],
+		"Bust-A-Move Millennium": [
+			{"title": "Bust-A-Move Millennium"},
+			{"title": "Puzzle Bobble Millennium"}
+		],
+		"Buzz Lightyear of Star Command": [
+			{"title": "Buzz Lightyear of Star Command"},
+			{"title": "Aventures de Buzz l'Eclair, Les"},
+			{"title": "Captain Buzz Lightyear - Star Command"}
+		],
+		"Chase H.Q. - Secret Police": [
+			{"title": "Chase H.Q. - Secret Police"},
+			{"title": "Taito Memorial - Chase H.Q. - Secret Police"}
+		],
+		"Classic Bubble Bobble": [
+			{"title": "Classic Bubble Bobble"},
+			{"title": "Taito Memorial - Bubble Bobble"}
+		],
+		"Daffy Duck - Fowl Play": [
+			{"title": "Daffy Duck - Fowl Play"},
+			{"title": "Daffy Duck - Subette Koron de Oogane Mochi"}
+		],
+		"Deja Vu I & II - The Casebooks of Ace Harding": [
+			{"title": "Deja Vu I & II - The Casebooks of Ace Harding"},
+			{"title": "Deja Vu I & II"}
+		],
+		"Dexter's Laboratory - Robot Rampage": [
+			{"title": "Dexter's Laboratory - Robot Rampage"},
+			{"title": "Elevator Action EX"}
+		],
+		"Diva Starz - Mall Mania": [
+			{"title": "Diva Starz - Mall Mania"},
+			{"title": "Diva Starz"}
+		],
+		"Donald Duck - Goin' Quackers": [
+			{"title": "Donald Duck - Goin' Quackers"},
+			{"title": "Donald Duck - Daisy o Sukue!"},
+			{"title": "Donald Duck - Quack Attack"}
+		],
+		"Donkey Kong Country": [
+			{"title": "Donkey Kong Country"},
+			{"title": "Donkey Kong 2001"}
+		],
+		"Doug's Big Game": [
+			{"title": "Doug's Big Game"},
+			{"title": "Doug - La Grande Aventure"}
+		],
+		"Dragon Ball Z - Legendary Super Warriors": [
+			{"title": "Dragon Ball Z - Legendary Super Warriors"},
+			{"title": "Dragon Ball Z - Densetsu no Chou Senshi-tachi"},
+			{"title": "Dragon Ball Z - Guerreros de Leyenda"},
+			{"title": "Dragon Ball Z - I Leggendari Super Guerrieri"},
+			{"title": "Dragon Ball Z - Legendaere Superkaempfer"},
+			{"title": "Dragon Ball Z - Les Guerriers Legendaires"},
+			{"title": "Dragon Ball Z - Densetsu no Chou Senshi-tachi (All Unlocked)", "priority": 2},
+			{"title": "Dragon Ball Z - Guerreros de Leyenda (All Unlocked)", "priority": 2},
+			{"title": "Dragon Ball Z - I Leggendari Super Guerrieri (All Unlocked)", "priority": 2},
+			{"title": "Dragon Ball Z - Legendaere Superkaempfer (All Unlocked)", "priority": 2},
+			{"title": "Dragon Ball Z - Legendary Super Warriors (All Unlocked)", "priority": 2},
+			{"title": "Dragon Ball Z - Les Guerriers Legendaires (All Unlocked)", "priority": 2}
+		],
+		"Dragon Dance": [
+			{"title": "Dragon Dance"},
+			{"title": "Pocket Color Block"}
+		],
+		"Dragon Warrior I & II": [
+			{"title": "Dragon Warrior I & II"},
+			{"title": "Dragon Quest I & II"}
+		],
+		"Dragon Warrior III": [
+			{"title": "Dragon Warrior III"},
+			{"title": "Dragon Quest III - Soshite Densetsu e..."}
+		],
+		"Dragon Warrior Monsters": [
+			{"title": "Dragon Warrior Monsters"},
+			{"title": "Dragon Quest Monsters"},
+			{"title": "Dragon Quest Monsters - Terry no Wonderland"}
+		],
+		"Dragon Warrior Monsters 2 - Cobi's Journey": [
+			{"title": "Dragon Warrior Monsters 2 - Cobi's Journey"},
+			{"title": "Dragon Quest Monsters 2 - Maruta no Fushigi na Kagi - Ruka no Tabidachi"}
+		],
+		"Dragon Warrior Monsters 2 - Tara's Adventure": [
+			{"title": "Dragon Warrior Monsters 2 - Tara's Adventure"},
+			{"title": "Dragon Quest Monsters 2 - Maruta no Fushigi na Kagi - Iru no Bouken"}
+		],
+		"Driver - You are the Wheelman": [
+			{"title": "Driver - You are the Wheelman"},
+			{"title": "Driver"}
+		],
+		"ESPN International Track & Field": [
+			{"title": "ESPN International Track & Field"},
+			{"title": "Ganbare! Nippon! Olympic 2000"},
+			{"title": "International Track & Field - Summer Games"}
+		],
+		"F.A. Premier League Stars 2001, The": [
+			{"title": "F.A. Premier League Stars 2001, The"},
+			{"title": "Bundesliga Stars 2001"},
+			{"title": "LNF Stars 2001"}
+		],
+		"Game & Watch Gallery 2": [
+			{"title": "Game & Watch Gallery 2"},
+			{"title": "Game Boy Gallery 2"},
+			{"title": "Game Boy Gallery 3"}
+		],
+		"Game & Watch Gallery 3": [
+			{"title": "Game & Watch Gallery 3"},
+			{"title": "Game Boy Gallery 4"}
+		],
+		"GameShark Online": [
+			{"title": "GameShark Online"},
+			{"title": "Action Replay Online"}
+		],
+		"Gex 3 - Deep Pocket Gecko": [
+			{"title": "Gex 3 - Deep Pocket Gecko"},
+			{"title": "Gex 3 - Deep Cover Gecko"}
+		],
+		"Gift": [
+			{"title": "Gift"},
+			{"title": "Gifty"}
+		],
+		"Gobs of Games": [
+			{"title": "Gobs of Games"},
+			{"title": "Games Frenzy"}
+		],
+		"Golden Goal": [
+			{"title": "Golden Goal"},
+			{"title": "Pro Foot"},
+			{"title": "Three Lions", "priority": 2}
+		],
+		"Golf Daisuki!": [
+			{"title": "Golf Daisuki!"},
+			{"title": "Pocket Golf!", "priority": 2}
+		],
+		"Golf Ou - The King of Golf": [
+			{"title": "Golf Ou - The King of Golf"},
+			{"title": "Golf King", "priority": 2},
+			{"title": "Supershot Golf Robot", "priority": 2}
+		],
+		"Grinch, The": [
+			{"title": "Grinch, The"},
+			{"title": "Grinch"}
+		],
+		"Hamtaro - Ham-Hams Unite!": [
+			{"title": "Hamtaro - Ham-Hams Unite!"},
+			{"title": "Tottoko Hamutarou 2 - Hamu-chan Zu Daishuugou Dechu"}
+		],
+		"Harry Potter and the Sorcerer's Stone": [
+			{"title": "Harry Potter and the Sorcerer's Stone"},
+			{"title": "Harry Potter to Kenja no Ishi"}
+		],
+		"Harvest Moon 2 GBC": [
+			{"title": "Harvest Moon 2 GBC"},
+			{"title": "Bokujou Monogatari 2 GB"}
+		],
+		"Harvest Moon 3 GBC": [
+			{"title": "Harvest Moon 3 GBC"},
+			{"title": "Bokujou Monogatari 3 GB - Boy Meets Girl"}
+		],
+		"Harvest Moon GBC": [
+			{"title": "Harvest Moon GBC"},
+			{"title": "Harvest Moon GB"}
+		],
+		"Hexcite - The Shapes of Victory": [
+			{"title": "Hexcite - The Shapes of Victory"},
+			{"title": "Glocal Hexcite"},
+			{"title": "Hexcite", "priority": 2}
+		],
+		"Hole in One Golf": [
+			{"title": "Hole in One Golf"},
+			{"title": "Golf de Ohasuta"}
+		],
+		"International Rally": [
+			{"title": "International Rally"},
+			{"title": "Cross Country Racing"},
+			{"title": "It's a World Rally"}
+		],
+		"International Superstar Soccer 2000": [
+			{"title": "International Superstar Soccer 2000"},
+			{"title": "World Soccer GB 2000"}
+		],
+		"International Superstar Soccer 99": [
+			{"title": "International Superstar Soccer 99"},
+			{"title": "World Soccer GB 2"}
+		],
+		"International Track & Field": [
+			{"title": "International Track & Field"},
+			{"title": "Hyper Olympic Series - Track & Field GB"}
+		],
+		"John Romero's Daikatana": [
+			{"title": "John Romero's Daikatana"},
+			{"title": "Daikatana"},
+			{"title": "Daikatana GB"}
+		],
+		"Kelly Club": [
+			{"title": "Kelly Club"},
+			{"title": "Shelly Club"}
+		],
+		"Kirby - Tilt 'n' Tumble": [
+			{"title": "Kirby - Tilt 'n' Tumble"},
+			{"title": "Korokoro Kirby"}
+		],
+		"Las Vegas Cool Hand": [
+			{"title": "Las Vegas Cool Hand"},
+			{"title": "Cool Hand"}
+		],
+		"Legend of Zelda, The - Link's Awakening DX": [
+			{"title": "Legend of Zelda, The - Link's Awakening DX"},
+			{"title": "Zelda no Densetsu - Yume o Miru Shima DX"}
+		],
+		"Legend of Zelda, The - Oracle of Ages": [
+			{"title": "Legend of Zelda, The - Oracle of Ages"},
+			{"title": "Zelda no Densetsu - Fushigi no Kinomi - Jikuu no Shou"}
+		],
+		"Legend of Zelda, The - Oracle of Seasons": [
+			{"title": "Legend of Zelda, The - Oracle of Seasons"},
+			{"title": "Zelda no Densetsu - Fushigi no Kinomi - Daichi no Shou"}
+		],
+		"Legend of the River King 2": [
+			{"title": "Legend of the River King 2"},
+			{"title": "Kawa no Nushi Tsuri 4"}
+		],
+		"Legend of the River King GBC": [
+			{"title": "Legend of the River King GBC"},
+			{"title": "Legend of the River King GB"}
+		],
+		"Lemmings & Oh No! More Lemmings": [
+			{"title": "Lemmings & Oh No! More Lemmings"},
+			{"title": "Lemmings VS"}
+		],
+		"Lil' Monster": [
+			{"title": "Lil' Monster"},
+			{"title": "Gem Gem Monster"}
+		],
+		"Lion King, The - Simba's Mighty Adventure": [
+			{"title": "Lion King, The - Simba's Mighty Adventure"},
+			{"title": "Koenig der Loewen, Der - Simbas grosses Abenteuer"},
+			{"title": "Roi Lion, Le - La Formidable Aventure de Simba"}
+		],
+		"Looney Tunes - Carrot Crazy": [
+			{"title": "Looney Tunes - Carrot Crazy"},
+			{"title": "Bugs Bunny & Lola Bunny - Operation Carrot Patch"}
+		],
+		"Looney Tunes - Twouble!": [
+			{"title": "Looney Tunes - Twouble!"},
+			{"title": "Sylvester & Tweety - Breakfast on the Run"}
+		],
+		"Looney Tunes Collector - Alert!": [
+			{"title": "Looney Tunes Collector - Alert!"},
+			{"title": "Looney Tunes Collector - Martian Alert!"},
+			{"title": "Looney Tunes Collector - Martian Quest!"}
+		],
+		"Lufia - The Legend Returns": [
+			{"title": "Lufia - The Legend Returns"},
+			{"title": "Estpolis Denki - Yomigaeru Densetsu"}
+		],
+		"Magical Tetris Challenge": [
+			{"title": "Magical Tetris Challenge"},
+			{"title": "Tetris Adventure - Susume Mickey to Nakama-tachi"}
+		],
+		"Mario Golf": [
+			{"title": "Mario Golf"},
+			{"title": "Mario Golf GB"}
+		],
+		"Mario Tennis": [
+			{"title": "Mario Tennis"},
+			{"title": "Mario Tennis GB"}
+		],
+		"Marvin Strikes Back!": [
+			{"title": "Marvin Strikes Back!"},
+			{"title": "Looney Tunes Collector - Martian Revenge!"}
+		],
+		"Mega Man Xtreme": [
+			{"title": "Mega Man Xtreme"},
+			{"title": "Rockman X - Cyber Mission"}
+		],
+		"Mega Man Xtreme 2": [
+			{"title": "Mega Man Xtreme 2"},
+			{"title": "Rockman X2 - Soul Eraser"}
+		],
+		"Metal Gear Solid": [
+			{"title": "Metal Gear Solid"},
+			{"title": "Metal Gear - Ghost Babel"}
+		],
+		"Metal Walker": [
+			{"title": "Metal Walker"},
+			{"title": "Bakusou Senki Metal Walker GB - Koutetsu no Yuujou"}
+		],
+		"Mia Hamm Soccer Shootout": [
+			{"title": "Mia Hamm Soccer Shootout"},
+			{"title": "European Super League"}
+		],
+		"Millennium Winter Sports": [
+			{"title": "Millennium Winter Sports"},
+			{"title": "Hyper Olympic - Winter 2000"},
+			{"title": "Konami Winter Games"}
+		],
+		"Monkey Puncher": [
+			{"title": "Monkey Puncher"},
+			{"title": "Saru Puncher"}
+		],
+		"Monster Rancher Battle Card GB": [
+			{"title": "Monster Rancher Battle Card GB"},
+			{"title": "Monster Farm Battle Card GB"}
+		],
+		"Monster Rancher Explorer": [
+			{"title": "Monster Rancher Explorer"},
+			{"title": "Solomon"}
+		],
+		"Monsters, Inc.": [
+			{"title": "Monsters, Inc."},
+			{"title": "Monster AG, Die"}
+		],
+		"Moomin's Tale": [
+			{"title": "Moomin's Tale"},
+			{"title": "Moomin no Daibouken"}
+		],
+		"Motocross Maniacs 2": [
+			{"title": "Motocross Maniacs 2"},
+			{"title": "Crazy Bikers"}
+		],
+		"Ms. Pac-Man - Special Color Edition": [
+			{"title": "Ms. Pac-Man - Special Color Edition"},
+			{"title": "Ms. Pac-Man - Special Colour Edition"}
+		],
+		"Mummy, The": [
+			{"title": "Mummy, The"},
+			{"title": "Hamunaptra - Ushinawareta Sabaku no Miyako"}
+		],
+		"NBA in the Zone": [
+			{"title": "NBA in the Zone"},
+			{"title": "NBA Pro 99"}
+		],
+		"Pac-Man - Special Color Edition": [
+			{"title": "Pac-Man - Special Color Edition"},
+			{"title": "Pac-Man - Special Colour Edition"}
+		],
+		"Papyrus": [
+			{"title": "Papyrus"},
+			{"title": "Visiteurs, Les"}
+		],
+		"Pitfall - Beyond the Jungle": [
+			{"title": "Pitfall - Beyond the Jungle"},
+			{"title": "Pitfall GB"}
+		],
+		"Player Manager 2001": [
+			{"title": "Player Manager 2001"},
+			{"title": "Anpfiff - Der RTL Fussball-Manager"}
+		],
+		"Pocket Racing": [
+			{"title": "Pocket Racing"},
+			{"title": "Pocket GT"}
+		],
+		"Pokemon - Crystal Version": [
+			{"title": "Pokemon - Crystal Version"},
+			{"title": "Pocket Monsters - Crystal Version"},
+			{"title": "Pokemon - Edicion Cristal"},
+			{"title": "Pokemon - Kristall-Edition"},
+			{"title": "Pokemon - Version Cristal"},
+			{"title": "Pokemon - Versione Cristallo"}
+		],
+		"Pokemon - Gold Version": [
+			{"title": "Pokemon - Gold Version"},
+			{"title": "Pocket Monsters Geum"},
+			{"title": "Pocket Monsters Kin"},
+			{"title": "Pokemon - Edicion Oro"},
+			{"title": "Pokemon - Goldene Edition"},
+			{"title": "Pokemon - Version Or"},
+			{"title": "Pokemon - Versione Oro"}
+		],
+		"Pokemon - Silver Version": [
+			{"title": "Pokemon - Silver Version"},
+			{"title": "Pocket Monsters Eun"},
+			{"title": "Pocket Monsters Gin"},
+			{"title": "Pokemon - Edicion Plata"},
+			{"title": "Pokemon - Silberne Edition"},
+			{"title": "Pokemon - Version Argent"},
+			{"title": "Pokemon - Versione Argento"}
+		],
+		"Pokemon Puzzle Challenge": [
+			{"title": "Pokemon Puzzle Challenge"},
+			{"title": "Pokemon de Panepon"}
+		],
+		"Pokemon Trading Card Game": [
+			{"title": "Pokemon Trading Card Game"},
+			{"title": "Pokemon Card GB"}
+		],
+		"Polaris SnoCross": [
+			{"title": "Polaris SnoCross"},
+			{"title": "SnowCross"}
+		],
+		"Power Spike - Pro Beach Volleyball": [
+			{"title": "Power Spike - Pro Beach Volleyball"},
+			{"title": "Beach'n Ball"}
+		],
+		"Powerpuff Girls, The - Bad Mojo Jojo": [
+			{"title": "Powerpuff Girls, The - Bad Mojo Jojo"},
+			{"title": "Powerpuff Girls, The - L'Affreux Mojo Jojo"},
+			{"title": "Super Nenas, Las - El Malvado Mojo Jojo"}
+		],
+		"Powerpuff Girls, The - Battle Him": [
+			{"title": "Powerpuff Girls, The - Battle Him"},
+			{"title": "Powerpuff Girls, The - Bulle Contre Lui"},
+			{"title": "Super Nenas, Las - Lucha Con Ese"}
+		],
+		"Powerpuff Girls, The - Paint the Townsville Green": [
+			{"title": "Powerpuff Girls, The - Paint the Townsville Green"},
+			{"title": "Powerpuff Girls, The - Panique a Townsville"},
+			{"title": "Super Nenas, Las - Panico en Townsville"}
+		],
+		"Quest - Brian's Journey": [
+			{"title": "Quest - Brian's Journey"},
+			{"title": "Jack no Daibouken - Daimaou no Gyakushuu"}
+		],
+		"Quest - Fantasy Challenge": [
+			{"title": "Quest - Fantasy Challenge"},
+			{"title": "Holy Magic Century"}
+		],
+		"Rayman": [
+			{"title": "Rayman"},
+			{"title": "Rayman - Mister Dark no Wana"}
+		],
+		"Rayman 2": [
+			{"title": "Rayman 2"},
+			{"title": "Rayman 2 Forever"}
+		],
+		"Rats!": [
+			{"title": "Rats!"},
+			{"title": "Reservoir Rat"}
+		],
+		"Razor Freestyle Scooter": [
+			{"title": "Razor Freestyle Scooter"},
+			{"title": "Freestyle Scooter"}
+		],
+		"Resident Evil Gaiden": [
+			{"title": "Resident Evil Gaiden"},
+			{"title": "Biohazard Gaiden"}
+		],
+		"Revelations - The Demon Slayer": [
+			{"title": "Revelations - The Demon Slayer"},
+			{"title": "Megami Tensei Gaiden - Last Bible"}
+		],
+		"Robopon - Sun Version": [
+			{"title": "Robopon - Sun Version"},
+			{"title": "Robot Poncots - Sun Version"}
+		],
+		"Rocket Power - Gettin' Air": [
+			{"title": "Rocket Power - Gettin' Air"},
+			{"title": "Rocket Power - La Glisse de l'Extreme"}
+		],
+		"Ronaldo V-Soccer": [
+			{"title": "Ronaldo V-Soccer"},
+			{"title": "Ronaldo V-Football"},
+			{"title": "UEFA 2000", "priority": 2}
+		],
+		"Rugrats - Time Travelers": [
+			{"title": "Rugrats - Time Travelers"},
+			{"title": "Razmoket, Les - Voyage dans le Temps"}
+		],
+		"Rugrats - Totally Angelica": [
+			{"title": "Rugrats - Totally Angelica"},
+			{"title": "Razmoket, Les - 100% Angelica"},
+			{"title": "Rugrats - Typisch Angelica"}
+		],
+		"Rugrats in Paris - The Movie": [
+			{"title": "Rugrats in Paris - The Movie"},
+			{"title": "Razmoket a Paris, Les - Le Film"},
+			{"title": "Rugrats en Paris - La pelicula"}
+		],
+		"Sgt. Rock - On the Frontline": [
+			{"title": "Sgt. Rock - On the Frontline"},
+			{"title": "Front Line - The Next Mission"}
+		],
+		"Shadowgate Classic": [
+			{"title": "Shadowgate Classic"},
+			{"title": "Shadowgate Return"}
+		],
+		"Space Invaders": [
+			{"title": "Space Invaders"},
+			{"title": "Space Invaders X"}
+		],
+		"Space Marauder": [
+			{"title": "Space Marauder"},
+			{"title": "Burai Senshi Color"}
+		],
+		"Star Heritage (Password Version)": [
+			{"title": "Star Heritage (Password Version)"},
+			{"title": "Star Heritage (SRAM Version)", "priority": 2}
+		],
+		"Survival Kids": [
+			{"title": "Survival Kids"},
+			{"title": "Stranded Kids"},
+			{"title": "Survival Kids - Kotou no Boukensha"}
+		],
+		"Test Drive Le Mans": [
+			{"title": "Test Drive Le Mans"},
+			{"title": "Le Mans 24 Hours"}
+		],
+		"Test Drive Off-Road 3": [
+			{"title": "Test Drive Off-Road 3"},
+			{"title": "4x4 World Trophy"}
+		],
+		"Thunder Blast Man": [
+			{"title": "Thunder Blast Man"},
+			{"title": "Rocman X Gold + 4 in 1 (1B-002, 4B-003, Sachen)"}
+		],
+		"TNN Outdoors Fishing Champ": [
+			{"title": "TNN Outdoors Fishing Champ"},
+			{"title": "Super Black Bass Pocket 3"},
+			{"title": "EuroSport Pro Champ Fishing", "priority": 2}
+		],
+		"Tom and Jerry - Mouse Hunt": [
+			{"title": "Tom and Jerry - Mouse Hunt"},
+			{"title": "Tom and Jerry - Mousehunt"}
+		],
+		"Top Gear Pocket": [
+			{"title": "Top Gear Pocket"},
+			{"title": "Top Gear Rally"}
+		],
+		"Top Gear Pocket 2": [
+			{"title": "Top Gear Pocket 2"},
+			{"title": "Top Gear Rally 2"},
+			{"title": "TG Rally 2", "priority": 2}
+		],
+		"Trick Boarder": [
+			{"title": "Trick Boarder"},
+			{"title": "Trickboarder GP"}
+		],
+		"Turok 2 - Seeds of Evil": [
+			{"title": "Turok 2 - Seeds of Evil"},
+			{"title": "Turok 2 - Jikku Senshi"}
+		],
+		"Tweety's High-Flying Adventure": [
+			{"title": "Tweety's High-Flying Adventure"},
+			{"title": "Titi - Le Tour du Monde en 80 Chats"},
+			{"title": "Tweety Sekaiisshuu - 80 Hiki no Neko o Sagase!"}
+		],
+		"Ultimate Surfing": [
+			{"title": "Ultimate Surfing"},
+			{"title": "Naminori Yarou!"}
+		],
+		"V-Rally - Edition 99": [
+			{"title": "V-Rally - Edition 99"},
+			{"title": "V-Rally - Championship Edition"}
+		],
+		"Wacky Races": [
+			{"title": "Wacky Races"},
+			{"title": "Chiki Chiki Machine Mou Race"}
+		],
+		"Wario Land II": [
+			{"title": "Wario Land II"},
+			{"title": "Wario Land 2"}
+		],
+		"Waternet": [
+			{"title": "Waternet"},
+			{"title": "Waternet (Batteryless Generic Save Flash Cartridge Version)", "priority": 2},
+			{"title": "Waternet (Batteryless Save Flash Cartridge Version)", "priority": 3}
+		],
+		"Wetrix": [
+			{"title": "Wetrix"},
+			{"title": "Wetrix GB"}
+		],
+		"Winnie the Pooh - Adventures in the 100 Acre Wood": [
+			{"title": "Winnie the Pooh - Adventures in the 100 Acre Wood"},
+			{"title": "Atsumete Asobu Kuma no Pooh-san - Mori no Takaramono"}
+		],
+		"Woody Woodpecker Racing": [
+			{"title": "Woody Woodpecker Racing"},
+			{"title": "Woody Woodpecker no Go! Go! Racing"}
+		],
+		"Yogi Bear - Great Balloon Blast": [
+			{"title": "Yogi Bear - Great Balloon Blast"},
+			{"title": "Pop'n Pop"}
+		],
+		"Yu-Gi-Oh! - Dark Duel Stories": [
+			{"title": "Yu-Gi-Oh! - Dark Duel Stories"},
+			{"title": "Yu-Gi-Oh! - Das Dunkle Duell"},
+			{"title": "Yu-Gi-Oh! - Duel des Tenebres"},
+			{"title": "Yu-Gi-Oh! - Duelo en las Tinieblas"},
+			{"title": "Yu-Gi-Oh! - Racconti Oscuri"},
+			{"title": "Yu-Gi-Oh! Duel Monsters III - Tri Holy God Advant"}
+		]
+	}
+}

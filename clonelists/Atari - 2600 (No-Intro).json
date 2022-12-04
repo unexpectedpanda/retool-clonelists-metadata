@@ -1,0 +1,169 @@
+{
+	"description": {
+		"name": [
+			"Atari - 2600"
+		],
+		"last updated": "30 June 2022",
+		"minimum version": "2.00"
+	},
+
+	"categories": {
+		"BASIC Programming": {
+			"match": "short",
+			"categories": ["Applications"]
+		},
+		"Color Bar Generator": {
+			"match": "short",
+			"categories": ["Applications"]
+		},
+		"Colors": {
+			"match": "short",
+			"categories": ["Applications", "Preproduction"]
+		},
+		"Colours": {
+			"match": "short",
+			"categories": ["Applications", "Preproduction"]
+		},
+		"Frog Demo": {
+			"match": "short",
+			"categories": ["Demos"]
+		},
+		"Kid Vid Voice Module (Audio Tapes)": {
+			"match": "short",
+			"categories": ["BIOS"]
+		},
+		"Sound": {
+			"match": "short",
+			"categories": ["Applications", "Preproduction"]
+		}
+	},
+
+	"renames": {
+		"Air-Sea Battle ~ Target Fun": [
+			{"title": "Air-Sea Battle ~ Target Fun"},
+			{"title": "Air-Sea Battle"}
+		],
+		"Alien's Return": [
+			{"title": "Alien's Return"},
+			{"title": "Col 'N'", "priority": 2}
+		],
+		"Alpha Beam with Ernie": [
+			{"title": "Alpha Beam with Ernie"},
+			{"title": "Alpha Beam", "priority": 2}
+		],
+		"Assault": [
+			{"title": "Assault"},
+			{"title": "Sky Alien ~ Assault"}
+		],
+		"Boxing": [
+			{"title": "Boxing"},
+			{"title": "Boxen"}
+		],
+		"Breakout ~ Breakaway IV": [
+			{"title": "Breakout ~ Breakaway IV"},
+			{"title": "Breakout"}
+		],
+		"Casino ~ Poker Plus": [
+			{"title": "Casino ~ Poker Plus"},
+			{"title": "Casino"}
+		],
+		"Challenge": [
+			{"title": "Challenge"},
+			{"title": "Mein Weg"}
+		],
+		"Championship Soccer ~ Soccer": [
+			{"title": "Championship Soccer ~ Soccer"},
+			{"title": "Championship Soccer"}
+		],
+		"Colours": [
+			{"title": "Colours"},
+			{"title": "Colors"}
+		],
+		"Combat ~ Tank-Plus": [
+			{"title": "Combat ~ Tank-Plus"},
+			{"title": "Combat"},
+			{"title": "Tank AI", "priority": 2}
+		],
+		"Dodge 'Em ~ Dodger Cars": [
+			{"title": "Dodge 'Em ~ Dodger Cars"},
+			{"title": "Dodge 'Em"}
+		],
+		"Freeway": [
+			{"title": "Freeway"},
+			{"title": "Bloody Human Freeway", "priority": 2}
+		],
+		"Frisco": [
+			{"title": "Frisco"},
+			{"title": "Peter Penguin"}
+		],
+		"G.I. Joe - Cobra Strike": [
+			{"title": "G.I. Joe - Cobra Strike"},
+			{"title": "Action Man - Action Force"}
+		],
+		"I.Q. 180": [
+			{"title": "I.Q. 180"},
+			{"title": "I.Q. Memory Teaser"}
+		],
+		"Laser Gates": [
+			{"title": "Laser Gates"},
+			{"title": "Laaser Voley"}
+		],
+		"Missile War ~ Astro War": [
+			{"title": "Missile War ~ Astro War"},
+			{"title": "Astrowar"}
+		],
+		"Open Sesame": [
+			{"title": "Open Sesame"},
+			{"title": "Abre-te, Sesamo!"},
+			{"title": "Apples and Dolls"}
+		],
+		"Outlaw ~ Gunslinger": [
+			{"title": "Outlaw ~ Gunslinger"},
+			{"title": "Outlaw"}
+		],
+		"Racing Car": [
+			{"title": "Racing Car"},
+			{"title": "Hell Driver"}
+		],
+		"Radar": [
+			{"title": "Radar"},
+			{"title": "Exocet"}
+		],
+		"Rubik's Cube": [
+			{"title": "Rubik's Cube"},
+			{"title": "Atari Video Cube", "priority": 2}
+		],
+		"Sea Hawk": [
+			{"title": "Sea Hawk"},
+			{"title": "Seahawk"}
+		],
+		"Sea Hunt ~ Scuba Diver": [
+			{"title": "Sea Hunt ~ Scuba Diver"},
+			{"title": "Skindiver"}
+		],
+		"Sea Monster": [
+			{"title": "Sea Monster"},
+			{"title": "O Monstro Marinho"}
+		],
+		"Space Tunnel": [
+			{"title": "Space Tunnel"},
+			{"title": "Tunnel de L'Espace, Le"}
+		],
+		"Squirrel ~ O Esquilo": [
+			{"title": "Squirrel ~ O Esquilo"},
+			{"title": "Snail against Squirrel"}
+		],
+		"Stunt Man": [
+			{"title": "Stunt Man"},
+			{"title": "Nightmare"}
+		],
+		"Tanks But no Tanks": [
+			{"title": "Tanks But no Tanks"},
+			{"title": "Phantom Tank"}
+		],
+		"Wall-Defender": [
+			{"title": "Wall-Defender"},
+			{"title": "Wall Break"}
+		]
+	}
+}

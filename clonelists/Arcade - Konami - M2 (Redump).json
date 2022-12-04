@@ -1,0 +1,20 @@
+{
+	"description": {
+		"name": [
+			"Arcade - Konami - M2"
+		],
+		"last updated": "9 April 2021",
+		"minimum version": "2.00"
+	},
+
+	"renames": {
+		"Battle Tryst (JAC)": [
+			{"title": "Battle Tryst (JAC)"},
+			{"title": "Battle Tryst (JAA)", "priority": 2}
+		],
+		"Total Vice (EAD)": [
+			{"title": "Total Vice (EAD)"},
+			{"title": "Total Vice (AAB)", "priority": 2}
+		]
+	}
+}

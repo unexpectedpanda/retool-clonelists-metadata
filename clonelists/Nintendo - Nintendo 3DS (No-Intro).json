@@ -1,0 +1,961 @@
+{
+	"description": {
+		"name": [
+			"Nintendo - Nintendo 3DS"
+		],
+		"last updated": "23 July 2022",
+		"minimum version": "2.00"
+	},
+
+	"renames": {
+		"3D Game Collection - 55-in-1": [
+			{"title": "3D Game Collection - 55-in-1"},
+			{"title": "3D Game Collection - 55-en-1"}
+		],
+		"50 Classic Games 3D": [
+			{"title": "50 Classic Games 3D"},
+			{"title": "50 Classic Games"}
+		],
+		"Ace Combat - Assault Horizon Legacy": [
+			{"title": "Ace Combat - Assault Horizon Legacy"},
+			{"title": "Ace Combat 3D - Cross Rumble"}
+		],
+		"Ace Combat - Assault Horizon Legacy+": [
+			{"title": "Ace Combat - Assault Horizon Legacy+"},
+			{"title": "Ace Combat 3D - Cross Rumble+"}
+		],
+		"Adventure Time - The Secret of the Nameless Kingdom": [
+			{"title": "Adventure Time - The Secret of the Nameless Kingdom"},
+			{"title": "Adventure Time - Nameless Oukoku no Sannin no Princess"}
+		],
+		"Adventures of Tintin, The - The Game": [
+			{"title": "Adventures of Tintin, The - The Game"},
+			{"title": "Adventures of Tintin, The - The Secret of the Unicorn"},
+			{"title": "Tintin no Bouken - Unicorn-Gou no Himitsu"}
+		],
+		"American Mensa Academy": [
+			{"title": "American Mensa Academy"},
+			{"title": "Mensa Academy"}
+		],
+		"Angler's Club - Ultimate Bass Fishing 3D": [
+			{"title": "Angler's Club - Ultimate Bass Fishing 3D"},
+			{"title": "Fishing 3D"}
+		],
+		"Animal Crossing - Happy Home Designer": [
+			{"title": "Animal Crossing - Happy Home Designer"},
+			{"title": "Doubutsu no Mori - Happy Home Designer"}
+		],
+		"Animal Crossing - New Leaf": [
+			{"title": "Animal Crossing - New Leaf"},
+			{"title": "Tobidase Doubutsu no Mori"},
+			{"title": "Twieonawayo Dongmul-ui Sup"}
+		],
+		"Animal Crossing - New Leaf - Welcome Amiibo": [
+			{"title": "Animal Crossing - New Leaf - Welcome Amiibo"},
+			{"title": "Tobidase Doubutsu no Mori - amiibo+"},
+			{"title": "Twieonawayo Dongmul-ui Sup amiibo+"}
+		],
+		"Art Academy - Lessons for Everyone": [
+			{"title": "Art Academy - Lessons for Everyone"},
+			{"title": "New Art Academy"},
+			{"title": "Shin Egokoro Kyoushitsu"}
+		],
+		"Asphalt 3D": [
+			{"title": "Asphalt 3D"},
+			{"title": "Asphalt 3D - Nitro Racing"}
+		],
+		"Azure Striker Gunvolt - Striker Pack": [
+			{"title": "Azure Striker Gunvolt - Striker Pack"},
+			{"title": "Armed Blue Gunvolt - Striker Pack"}
+		],
+		"Barbie - Groom and Glam Pups": [
+			{"title": "Barbie - Groom and Glam Pups"},
+			{"title": "Barbie - Fun & Fashion Dogs"}
+		],
+		"Brain Age - Concentration Training": [
+			{"title": "Brain Age - Concentration Training"},
+			{"title": "Dr. Kawashima's Devilish Brain Training - Can You Stay Focused"},
+			{"title": "Tohoku Daigaku Karei Igaku Kenkyuusho - Kawashima Ryuuta Kyouju Kanshuu - Monosugoku Nou wo Kitaeru 5-Funkan no Oni Training"}
+		],
+		"Big Hero 6 - Battle in the Bay": [
+			{"title": "Big Hero 6 - Battle in the Bay"},
+			{"title": "Disney Baymax - Heroes Battle"}
+		],
+		"Brain Training 3D": [
+			{"title": "Brain Training 3D"},
+			{"title": "Kuukan Sagashimono Kei Nouryoku Kaihatsu - 3D Nou Training"}
+		],
+		"Bravely Default": [
+			{"title": "Bravely Default"},
+			{"title": "Bravely Default - For the Sequel"}
+		],
+		"Bust-A-Move Universe": [
+			{"title": "Bust-A-Move Universe"},
+			{"title": "Puzzle Bobble Universe"},
+			{"title": "Tobidasu! Puzzle Bobble 3D"}
+		],
+		"Captain Toad - Treasure Tracker": [
+			{"title": "Captain Toad - Treasure Tracker"},
+			{"title": "Susume! Kinopio Taichou"}
+		],
+		"Castlevania - Lords of Shadow - Mirror of Fate": [
+			{"title": "Castlevania - Lords of Shadow - Mirror of Fate"},
+			{"title": "Castlevania - Lords of Shadow - Sadame no Makyou"}
+		],
+		"Chibi-Robo! Zip Lash": [
+			{"title": "Chibi-Robo! Zip Lash"},
+			{"title": "Nagenawa Action! Guruguru! Chibi Robo!"}
+		],
+		"Code Name - S.T.E.A.M.": [
+			{"title": "Code Name - S.T.E.A.M."},
+			{"title": "Code Name - S.T.E.A.M. - Lincoln VS Alien"}
+		],
+		"Conception II - Children of the Seven Stars": [
+			{"title": "Conception II - Children of the Seven Stars"},
+			{"title": "Conception II - Shichisei no Michibiki to Mazuru no Akumu"}
+		],
+		"Cooking Mama - Sweet Shop": [
+			{"title": "Cooking Mama - Sweet Shop"},
+			{"title": "Cooking Mama - Watashi no Sweets Shop"}
+		],
+		"Cooking Mama 4 - Kitchen Magic": [
+			{"title": "Cooking Mama 4 - Kitchen Magic"},
+			{"title": "Cooking Mama 4"}
+		],
+		"Cooking Mama 5 - Bon Appetit!": [
+			{"title": "Cooking Mama 5 - Bon Appetit!"},
+			{"title": "Cooking Mama - Bon Appetit!"},
+			{"title": "Cooking Mama 5"}
+		],
+		"Corpse Party": [
+			{"title": "Corpse Party"},
+			{"title": "Corpse Party - Blood Covered - Repeated Fear"}
+		],
+		"Crush 3D": [
+			{"title": "Crush 3D"},
+			{"title": "Nightmare Puzzle - Crush 3D"}
+		],
+		"Deca Sports Extreme": [
+			{"title": "Deca Sports Extreme"},
+			{"title": "Deca Sporta - 3D Sports"},
+			{"title": "Sports Island 3D"}
+		],
+		"Detective Pikachu": [
+			{"title": "Detective Pikachu"},
+			{"title": "Meitantei Pikachu"}
+		],
+		"Dillon's Dead-Heat Breakers": [
+			{"title": "Dillon's Dead-Heat Breakers"},
+			{"title": "Dead Heat Breakers, The"}
+		],
+		"Disney Epic Mickey - Power of Illusion": [
+			{"title": "Disney Epic Mickey - Power of Illusion"},
+			{"title": "Disney Epic Mickey - Mickey no Fushigi na Bouken"}
+		],
+		"Disney Frozen - Olaf's Quest": [
+			{"title": "Disney Frozen - Olaf's Quest"},
+			{"title": "Disney Anna to Yuki no Joou - Olaf no Okurimono"}
+		],
+		"Disney Infinity - Toy Box Challenge": [
+			{"title": "Disney Infinity - Toy Box Challenge"},
+			{"title": "Disney Infinity"}
+		],
+		"Disney Magical World": [
+			{"title": "Disney Magical World"},
+			{"title": "Disney Magic Castle - My Happy Life"}
+		],
+		"Disney Magical World 2": [
+			{"title": "Disney Magical World 2"},
+			{"title": "Disney Magic Castle - My Happy Life 2"}
+		],
+		"Doctor Lautrec and the Forgotten Knights": [
+			{"title": "Doctor Lautrec and the Forgotten Knights"},
+			{"title": "Doctor Lautrec to Boukyaku no Kishidan"}
+		],
+		"Donkey Kong Country Returns 3D": [
+			{"title": "Donkey Kong Country Returns 3D"},
+			{"title": "Donkey Kong Returns 3D"}
+		],
+		"DoraKazu - Nobita no Suuji Daibouken": [
+			{"title": "DoraKazu - Nobita no Suuji Daibouken"},
+			{"title": "Doraemon - Nobita's Number Adventure"}
+		],
+		"Dragon Ball Z - Extreme Butoden": [
+			{"title": "Dragon Ball Z - Extreme Butoden"},
+			{"title": "Dragon Ball Z - Extreme Butouden"}
+		],
+		"Dragon Quest VII - Fragments of the Forgotten Past": [
+			{"title": "Dragon Quest VII - Fragments of the Forgotten Past"},
+			{"title": "Dragon Quest VII - Eden no Senshi-tachi"}
+		],
+		"Dragon Quest VIII - Journey of the Cursed King": [
+			{"title": "Dragon Quest VIII - Journey of the Cursed King"},
+			{"title": "Dragon Quest VIII - Sora to Umi to Daichi to Norowareshi Himegimi"}
+		],
+		"Driver - Renegade": [
+			{"title": "Driver - Renegade"},
+			{"title": "Driver - Renegade 3D"}
+		],
+		"DualPenSports": [
+			{"title": "DualPenSports"},
+			{"title": "Touch! Double Pen Sports"}
+		],
+		"Etrian Mystery Dungeon": [
+			{"title": "Etrian Mystery Dungeon"},
+			{"title": "Sekaiju to Fushigi no Dungeon"}
+		],
+		"Etrian Odyssey 2 Untold - The Fafnir Knight": [
+			{"title": "Etrian Odyssey 2 Untold - The Fafnir Knight"},
+			{"title": "Shin Sekaiju no Meikyuu 2 - Fafnir no Kishi"}
+		],
+		"Etrian Odyssey IV - Legends of the Titan": [
+			{"title": "Etrian Odyssey IV - Legends of the Titan"},
+			{"title": "Sekaiju no Meikyuu IV - Denshou no Kyoshin"}
+		],
+		"Etrian Odyssey Nexus": [
+			{"title": "Etrian Odyssey Nexus"},
+			{"title": "Sekaiju no Meikyuu X"}
+		],
+		"Etrian Odyssey Untold - The Millennium Girl": [
+			{"title": "Etrian Odyssey Untold - The Millennium Girl"},
+			{"title": "Shin Sekaiju no Meikyuu - Millennium no Shoujo"}
+		],
+		"Etrian Odyssey V - Beyond the Myth": [
+			{"title": "Etrian Odyssey V - Beyond the Myth"},
+			{"title": "Sekaiju no Meikyuu V - Nagaki Shinwa no Hate"}
+		],
+		"Ever Oasis": [
+			{"title": "Ever Oasis"},
+			{"title": "Ever Oasis - Seirei to Tanebito no Mirage"}
+		],
+		"Farming Simulator 14": [
+			{"title": "Farming Simulator 14"},
+			{"title": "Farming Simulator 14 - Pocket Nouen 2"}
+		],
+		"Farming Simulator 18": [
+			{"title": "Farming Simulator 18"},
+			{"title": "Farming Simulator 18 - Pocket Nouen 4"}
+		],
+		"Farming Simulator 2012 3D": [
+			{"title": "Farming Simulator 2012 3D"},
+			{"title": "Farming Simulator 3D - Pocket Nouen"}
+		],
+		"FIFA Soccer 12": [
+			{"title": "FIFA Soccer 12"},
+			{"title": "FIFA 12"}
+		],
+		"FIFA Soccer 13": [
+			{"title": "FIFA Soccer 13"},
+			{"title": "FIFA 13"}
+		],
+		"Fire Emblem - Awakening": [
+			{"title": "Fire Emblem - Awakening"},
+			{"title": "Fire Emblem - Kakusei"}
+		],
+		"Fire Emblem Echoes - Shadows of Valentia": [
+			{"title": "Fire Emblem Echoes - Shadows of Valentia"},
+			{"title": "Fire Emblem Echoes - Mou Hitori no Eiyuu Ou"},
+			{"title": "Fire Emblem Echoes - Tto Hanaui Yeongungwang"}
+		],
+		"Fire Emblem Fates - Birthright": [
+			{"title": "Fire Emblem Fates - Birthright"},
+			{"title": "Fire Emblem If - Byakuya Oukoku"},
+			{"compilation": "Fire Emblem Fates - Special Edition"},
+			{"compilation": "Fire Emblem If - Special Edition"},
+			{"compilation": "Fire Emblem If"}
+		],
+		"Fire Emblem Fates - Conquest": [
+			{"title": "Fire Emblem Fates - Conquest"},
+			{"title": "Fire Emblem If - Anya Oukoku"},
+			{"compilation": "Fire Emblem Fates - Special Edition"},
+			{"compilation": "Fire Emblem If - Special Edition"},
+			{"compilation": "Fire Emblem If"}
+		],
+		"Fossil Fighters - Frontier": [
+			{"title": "Fossil Fighters - Frontier"},
+			{"title": "Kaseki Horider - Mugen Gear"}
+		],
+		"Funky Barn 3D": [
+			{"title": "Funky Barn 3D"},
+			{"title": "Happy Animal Bokujou"}
+		],
+		"Gabrielle's Ghostly Groove 3D": [
+			{"title": "Gabrielle's Ghostly Groove 3D"},
+			{"title": "Ushimitsu Monstruo - Linze to Mahou no Rhythm"}
+		],
+		"Gardening Mama 2 - Forest Friends": [
+			{"title": "Gardening Mama 2 - Forest Friends"},
+			{"title": "Gardening Mama - Forest Friends"},
+			{"title": "Gardening Mama - Mama to Mori no Nakama-tachi"}
+		],
+		"Girls' Fashion Shoot": [
+			{"title": "Girls' Fashion Shoot"},
+			{"title": "Nicola Kanshuu - Model Oshare Audition 2"}
+		],
+		"Hakuoki - Memories of the Shinsengumi": [
+			{"title": "Hakuoki - Memories of the Shinsengumi"},
+			{"title": "Hakuouki 3D"}
+		],
+		"Harvest Moon 3D - The Lost Valley": [
+			{"title": "Harvest Moon 3D - The Lost Valley"},
+			{"title": "Harvest Moon - The Lost Valley"}
+		],
+		"Harvest Moon 3D - A New Beginning": [
+			{"title": "Harvest Moon 3D - A New Beginning"},
+			{"title": "Bokujou Monogatari - Hajimari no Daichi"}
+		],
+		"Hatsune Miku - Project Mirai DX": [
+			{"title": "Hatsune Miku - Project Mirai DX"},
+			{"title": "Hatsune Miku - Project Mirai Deluxe"}
+		],
+		"Heavy Fire - The Chosen Few 3D": [
+			{"title": "Heavy Fire - The Chosen Few 3D"},
+			{"title": "Heavy Fire - The Chosen Few"}
+		],
+		"Hello Kitty & Friends - Rock n' World Tour": [
+			{"title": "Hello Kitty & Friends - Rock n' World Tour"},
+			{"title": "Hello Kitty to Sanrio Characters - World Rock Tour"}
+		],
+		"Hello Kitty Picnic with Sanrio Friends": [
+			{"title": "Hello Kitty Picnic with Sanrio Friends"},
+			{"title": "Hello Kitty Picnic with Sanrio Characters"}
+		],
+		"Hello Kitty and the Apron of Magic - Rhythm Cooking": [
+			{"title": "Hello Kitty and the Apron of Magic - Rhythm Cooking"},
+			{"title": "Hello Kitty to Mahou no Apron - Rhythm Cooking"}
+		],
+		"Horses 3D": [
+			{"title": "Horses 3D"},
+			{"title": "Imagine - Champion Rider 3D"}
+		],
+		"Hyrule Warriors Legends": [
+			{"title": "Hyrule Warriors Legends"},
+			{"title": "Zelda Musou - Hyrule All-Stars"}
+		],
+		"Ice Age - Continental Drift - Arctic Games": [
+			{"title": "Ice Age - Continental Drift - Arctic Games"},
+			{"title": "Ice Age 4 - Continental Drift - Arctic Games"},
+			{"title": "L'Era Glaciale 4 - Continenti alla Deriva - Giochi Polari"}
+		],
+		"Imagine - Babyz": [
+			{"title": "Imagine - Babyz"},
+			{"title": "Imagine - Babies 3D"}
+		],
+		"Imagine - Fashion Designer": [
+			{"title": "Imagine - Fashion Designer"},
+			{"title": "Girls Fashion 3D - Mezase! Top Stylist"},
+			{"title": "Imagine - Fashion Designer 3D"}
+		],
+		"Imagine - Fashion Life": [
+			{"title": "Imagine - Fashion Life"},
+			{"title": "Imagine - Fashion World 3D"}
+		],
+		"Inazuma Eleven GO - Chrono Stones - Thunderflash": [
+			{"title": "Inazuma Eleven GO - Chrono Stones - Thunderflash"},
+			{"title": "Inazuma Eleven Go 2 - Chrono Stone - Raimei"}
+		],
+		"Inazuma Eleven GO - Chrono Stones - Wildfire": [
+			{"title": "Inazuma Eleven GO - Chrono Stones - Wildfire"},
+			{"title": "Inazuma Eleven Go 2 - Chrono Stone - Neppuu"}
+		],
+		"Inazuma Eleven Go - Light": [
+			{"title": "Inazuma Eleven Go - Light"},
+			{"title": "Inazuma Eleven Go - Shine"}
+		],
+		"Inazuma Eleven Go - Shadow": [
+			{"title": "Inazuma Eleven Go - Shadow"},
+			{"title": "Inazuma Eleven Go - Dark"}
+		],
+		"Jake Hunter Detective Story - Ghost of the Dusk": [
+			{"title": "Jake Hunter Detective Story - Ghost of the Dusk"},
+			{"title": "Tantei Jinguuji Saburou - Ghost of the Dusk"}
+		],
+		"James Noir's Hollywood Crimes": [
+			{"title": "James Noir's Hollywood Crimes"},
+			{"title": "James Noir's Hollywood Crimes 3D"}
+		],
+		"Jewel Master - Atlantis 3D": [
+			{"title": "Jewel Master - Atlantis 3D"},
+			{"title": "Jewel Master"},
+			{"title": "Jewel Link - Legends of Atlantis 3D", "priority": 2}
+		],
+		"Junior Classic Games 3D": [
+			{"title": "Junior Classic Games 3D"},
+			{"title": "Junior Games 3D"}
+		],
+		"Kid Icarus - Uprising": [
+			{"title": "Kid Icarus - Uprising"},
+			{"title": "Shin Hikari Shinwa - Palutena no Kagami"}
+		],
+		"Kirby - Planet Robobot": [
+			{"title": "Kirby - Planet Robobot"},
+			{"title": "Byeol-ui Kirby - Robobot Planet"},
+			{"title": "Hoshi no Kirby - Robobo Planet"}
+		],
+		"Kirby - Triple Deluxe": [
+			{"title": "Kirby - Triple Deluxe"},
+			{"title": "Byeorui Kirby - Triple Deluxe"},
+			{"title": "Hoshi no Kirby - Triple Deluxe"}
+		],
+		"Kirby Battle Royale": [
+			{"title": "Kirby Battle Royale"},
+			{"title": "Kirby Battle Deluxe"}
+		],
+		"Kirby's Extra Epic Yarn": [
+			{"title": "Kirby's Extra Epic Yarn"},
+			{"title": "Keito no Kirby Plus"}
+		],
+		"Langrisser Re - Incarnation -TENSEI-": [
+			{"title": "Langrisser Re - Incarnation -TENSEI-"},
+			{"title": "Langrisser - Re - Incarnation Tensei"}
+		],
+		"Layton's Mystery Journey - Katrielle and the Millionaires' Conspiracy": [
+			{"title": "Layton's Mystery Journey - Katrielle and the Millionaires' Conspiracy"},
+			{"title": "Layton's Mystery Journey - Katrielle to Daifugou no Inbou"}
+		],
+		"LBX - Little Battlers eXperience": [
+			{"title": "LBX - Little Battlers eXperience"},
+			{"title": "Danball Senki Baku Boost"}
+		],
+		"Legend of Zelda, The - A Link Between Worlds": [
+			{"title": "Legend of Zelda, The - A Link Between Worlds"},
+			{"title": "Zelda Jeonseol Sindeul-ui Triforce 2"},
+			{"title": "Zelda no Densetsu - Kamigami no Triforce 2"}
+		],
+		"Legend of Zelda, The - Majora's Mask 3D": [
+			{"title": "Legend of Zelda, The - Majora's Mask 3D"},
+			{"title": "Zelda Jeonseol Majora Gamyeon 3D"},
+			{"title": "Zelda no Densetsu - Mujura no Kamen 3D"}
+		],
+		"Legend of Zelda, The - Ocarina of Time 3D": [
+			{"title": "Legend of Zelda, The - Ocarina of Time 3D"},
+			{"title": "Zelda no Densetsu - Toki no Ocarina 3D"}
+		],
+		"Legend of Zelda, The - Tri Force Heroes": [
+			{"title": "Legend of Zelda, The - Tri Force Heroes"},
+			{"title": "Zelda no Densetsu - Tri Force 3-Juushi"},
+			{"title": "Zelda no Densetsu - Triforce 3-Juushi"}
+		],
+		"LEGO Batman 3 - Beyond Gotham": [
+			{"title": "LEGO Batman 3 - Beyond Gotham"},
+			{"title": "LEGO Batman 3 - Au-dela de Gotham"},
+			{"title": "LEGO Batman 3 - Gotham e Oltre"},
+			{"title": "LEGO Batman 3 - Jenseits von Gotham"},
+			{"title": "LEGO Batman 3 - The Game - Gotham kara Uchuu e"}
+		],
+		"LEGO Marvel Avengers": [
+			{"title": "LEGO Marvel Avengers"},
+			{"title": "LEGO Marvel Vengadores"}
+		],
+		"LEGO Marvel Super Heroes - Universe in Peril (English-only Audio)": [
+			{"title": "LEGO Marvel Super Heroes - Universe in Peril (English-only Audio)"},
+			{"title": "LEGO Marvel Super Heroes - Universe in Peril"},
+			{"title": "LEGO Marvel Super Heroes - L'Univers en Peril"},
+			{"title": "LEGO Marvel Super Heroes - The Game"},
+			{"title": "LEGO Marvel Super Heroes - Universo en Peligro"},
+			{"title": "LEGO Marvel Super Heroes - Universum in Gefahr"},
+			{"title": "LEGO Marvel Super Heroes - Universe in Peril (Spanish-only Audio)", "priority": 2}
+		],
+		"LEGO Movie Videogame, The": [
+			{"title": "LEGO Movie Videogame, The"},
+			{"title": "Grande LEGO Aventure - Le Jeu Video, La"},
+			{"title": "LEGO Pelicula el Videojuego, La"}
+		],
+		"LEGO Ninjago - Shadow of Ronin": [
+			{"title": "LEGO Ninjago - Shadow of Ronin"},
+			{"title": "LEGO Ninjago - L'Ombre de Ronin"},
+			{"title": "LEGO Ninjago - La Sombra de Ronin"},
+			{"title": "LEGO Ninjago - Schatten des Ronin"},
+			{"title": "LEGO Ninjago Ronin no Kage"}
+		],
+		"LEGO Star Wars - The Force Awakens": [
+			{"title": "LEGO Star Wars - The Force Awakens"},
+			{"title": "LEGO Star Wars - Das Erwachen der Macht"},
+			{"title": "LEGO Star Wars - El Despertar de la Fuerza"},
+			{"title": "LEGO Star Wars - Force no Kakusei"},
+			{"title": "LEGO Star Wars - Il Risveglio della Forza"},
+			{"title": "LEGO Star Wars - Le Reveil de la Force"}
+		],
+		"LEGO The Hobbit": [
+			{"title": "LEGO The Hobbit"},
+			{"title": "LEGO Der Hobbit"},
+			{"title": "LEGO El Hobbit"}
+		],
+		"LEGO The Lord of the Rings": [
+			{"title": "LEGO The Lord of the Rings"},
+			{"title": "LEGO Der Herr der Ringe"},
+			{"title": "LEGO El Senor de los Anillos"},
+			{"title": "LEGO Le Seigneur des Anneaux"}
+		],
+		"Lord of Magna - Maiden Heaven": [
+			{"title": "Lord of Magna - Maiden Heaven"},
+			{"title": "Kinki no Magna"}
+		],
+		"Lost Heroes 2": [
+			{"title": "Lost Heroes 2"},
+			{"superset": "Lost Heroes 2 (Premium Edition)"}
+		],
+		"Luigi's Mansion": [
+			{"title": "Luigi's Mansion"},
+			{"title": "Luigi Mansion"}
+		],
+		"Luigi's Mansion - Dark Moon": [
+			{"title": "Luigi's Mansion - Dark Moon"},
+			{"title": "Luigi's Mansion 2"},
+			{"title": "Luigi Mansion 2"}
+		],
+		"Madagascar 3 - The Video Game": [
+			{"title": "Madagascar 3 - The Video Game"},
+			{"title": "Madagascar 3"},
+			{"title": "Madagascar 3 - Europe's Most Wanted"}
+		],
+		"Mahjong Cub3D": [
+			{"title": "Mahjong Cub3D"},
+			{"title": "Shanghai 3D Cube"}
+		],
+		"MapleStory - Unmei no Shoujo": [
+			{"title": "MapleStory - Unmei no Shoujo"},
+			{"title": "MapleStory - The Girl's Fate"}
+		],
+		"Mario & Luigi - Bowser's Inside Story + Bowser Jr.'s Journey": [
+			{"title": "Mario & Luigi - Bowser's Inside Story + Bowser Jr.'s Journey"},
+			{"title": "Mario & Luigi RPG3 DX"}
+		],
+		"Mario & Luigi - Dream Team": [
+			{"title": "Mario & Luigi - Dream Team"},
+			{"title": "Mario & Luigi - Dream Team Bros."},
+			{"title": "Mario & Luigi RPG 4 - Dream Adventure"}
+		],
+		"Mario & Luigi - Paper Jam": [
+			{"title": "Mario & Luigi - Paper Jam"},
+			{"title": "Mario & Luigi - Paper Jam Bros."},
+			{"title": "Mario & Luigi RPG - Paper Mario MIX"}
+		],
+		"Mario & Luigi - Superstar Saga + Bowser's Minions": [
+			{"title": "Mario & Luigi - Superstar Saga + Bowser's Minions"},
+			{"title": "Mario & Luigi - RPG1 DX"}
+		],
+		"Mario & Sonic at the London 2012 Olympic Games": [
+			{"title": "Mario & Sonic at the London 2012 Olympic Games"},
+			{"title": "Mario & Sonic at London Olympics"},
+			{"title": "Mariowa Sonic London Olympic"}
+		],
+		"Mario & Sonic at the Rio 2016 Olympic Games": [
+			{"title": "Mario & Sonic at the Rio 2016 Olympic Games"},
+			{"title": "Mario & Sonic at Rio Olympics"}
+		],
+		"Mario Party - The Top 100": [
+			{"title": "Mario Party - The Top 100"},
+			{"title": "Mario Party 100 - Mini Game Collection"}
+		],
+		"Mega Man Legacy Collection": [
+			{"title": "Mega Man Legacy Collection"},
+			{"title": "Rockman Classics Collection"}
+		],
+		"Moco Moco Friends": [
+			{"title": "Moco Moco Friends"},
+			{"title": "Minarai Majo to MocoMoco Friends"}
+		],
+		"Monster Hunter 3 Ultimate": [
+			{"title": "Monster Hunter 3 Ultimate"},
+			{"title": "Monster Hunter 3G"}
+		],
+		"Monster Hunter 4 Ultimate": [
+			{"title": "Monster Hunter 4 Ultimate"},
+			{"title": "Monster Hunter 4G"}
+		],
+		"Monster Hunter Generations": [
+			{"title": "Monster Hunter Generations"},
+			{"title": "Monster Hunter X"}
+		],
+		"Naruto Powerful Shippuden": [
+			{"title": "Naruto Powerful Shippuden"},
+			{"title": "Naruto SD Powerful Shippuden"}
+		],
+		"Naruto Shippuden 3D - The New Era": [
+			{"title": "Naruto Shippuden 3D - The New Era"},
+			{"title": "Naruto Shippuden - Shinobi Rittai Emaki! Saikyou Ninkai Kessen!!"}
+		],
+		"Nekketsu Kouha Kunio-Kun Special": [
+			{"title": "Nekketsu Kouha Kunio-Kun Special"},
+			{"title": "Yeolhyeolgyeongpa Kunio-Kun Special"}
+		],
+		"Nikoli's Pencil Puzzle": [
+			{"title": "Nikoli's Pencil Puzzle"},
+			{"title": "Sudoku - The Puzzle Game Collection"},
+			{"title": "Sudoku to 3-Tsu no Puzzle - Nikoli no Puzzle Variety"}
+		],
+		"Nintendo presents - New Style Boutique 3 - Styling Star": [
+			{"title": "Nintendo presents - New Style Boutique 3 - Styling Star"},
+			{"title": "Girls Mode 4 - Star & Stylist"}
+		],
+		"Nintendogs + Cats - Golden Retriever & New Friends": [
+			{"title": "Nintendogs + Cats - Golden Retriever & New Friends"},
+			{"title": "Nintendogs + Cats - Shiba & New Friends"}
+		],
+		"One Piece - Romance Dawn": [
+			{"title": "One Piece - Romance Dawn"},
+			{"title": "One Piece - Romance Dawn - Bouken no Yoake"}
+		],
+		"Pac-Man and the Ghostly Adventures": [
+			{"title": "Pac-Man and the Ghostly Adventures"},
+			{"title": "Pac-World"}
+		],
+		"Pac-Man and the Ghostly Adventures 2": [
+			{"title": "Pac-Man and the Ghostly Adventures 2"},
+			{"title": "Pac-World 2"}
+		],
+		"Paper Mario - Sticker Star": [
+			{"title": "Paper Mario - Sticker Star"},
+			{"title": "Paper Mario - Super Seal"}
+		],
+		"Paws & Claws - Pampered Pets Resort 3D": [
+			{"title": "Paws & Claws - Pampered Pets Resort 3D"},
+			{"title": "Pets Paradise Resort 3D"}
+		],
+		"Petz Beach": [
+			{"title": "Petz Beach"},
+			{"title": "Oshare de Kawaii! Koinu to Asobo! Umi-Hen"}
+		],
+		"Petz Countryside": [
+			{"title": "Petz Countryside"},
+			{"title": "Oshare de Kawaii! Koinu to Asobo! Machi-Hen"}
+		],
+		"Phonics Fun with Biff, Chip & Kipper Vol. 1": [
+			{"title": "Phonics Fun with Biff, Chip & Kipper Vol. 1"},
+			{"title": "Kipper no Eigo Kyoushitsu - Floppys Phonics Vol. 1 - Kipper-Hen"}
+		],
+		"Phonics Fun with Biff, Chip & Kipper Vol. 2": [
+			{"title": "Phonics Fun with Biff, Chip & Kipper Vol. 2"},
+			{"title": "Kipper no Eigo Kyoushitsu - Floppys Phonics Vol. 2 - Biff-Hen"}
+		],
+		"Phonics Fun with Biff, Chip & Kipper Vol. 3": [
+			{"title": "Phonics Fun with Biff, Chip & Kipper Vol. 3"},
+			{"title": "Kipper no Eigo Kyoushitsu - Floppys Phonics Vol. 3 - Chip-Hen"}
+		],
+		"Picross 3D - Round 2": [
+			{"title": "Picross 3D - Round 2"},
+			{"title": "Katachi Shinhakken! Rittai Picross 2"}
+		],
+		"Pinball Hall of Fame - The Williams' Collection": [
+			{"title": "Pinball Hall of Fame - The Williams' Collection"},
+			{"title": "Pinball Hall of Fame 3D - The Williams' Collection"}
+		],
+		"Pokemon Moon": [
+			{"title": "Pokemon Moon"},
+			{"title": "Pocket Monsters Moon"}
+		],
+		"Pokemon Mystery Dungeon - Gates to Infinity": [
+			{"title": "Pokemon Mystery Dungeon - Gates to Infinity"},
+			{"title": "Pokemon Fushigi no Dungeon - Magnagate to Mugendai Meikyuu"}
+		],
+		"Pokemon Rumble Blast": [
+			{"title": "Pokemon Rumble Blast"},
+			{"title": "Super Pokemon Rumble"},
+			{"title": "Super Pokemon Scramble"}
+		],
+		"Pokemon Rumble World": [
+			{"title": "Pokemon Rumble World"},
+			{"title": "Minna no Pokemon Scramble"},
+			{"title": "Pokemon Rumble World (trunk, 34356M)", "priority": 2},
+			{"title": "Pokemon Rumble World (trunk, 34961M)", "priority": 3},
+			{"title": "Pokemon Rumble World (branches-TPC20150716, 36474)", "priority": 4}
+		],
+		"Pokemon Sun": [
+			{"title": "Pokemon Sun"},
+			{"title": "Pocket Monsters Sun"}
+		],
+		"Pokemon Super Mystery Dungeon": [
+			{"title": "Pokemon Super Mystery Dungeon"},
+			{"title": "Pokemon Chou Fushigi no Dungeon"}
+		],
+		"Pokemon Ultra Moon": [
+			{"title": "Pokemon Ultra Moon"},
+			{"title": "Pocket Monsters Ultra Moon"}
+		],
+		"Pokemon Ultra Sun": [
+			{"title": "Pokemon Ultra Sun"},
+			{"title": "Pocket Monster - Ultra Sun"},
+			{"title": "Pocket Monsters Ultra Sun"}
+		],
+		"Poochy & Yoshi's Woolly World": [
+			{"title": "Poochy & Yoshi's Woolly World"},
+			{"title": "Poochy to! Yoshi Wool World"}
+		],
+		"Pro Evolution Soccer 2011 3D": [
+			{"title": "Pro Evolution Soccer 2011 3D"},
+			{"title": "Winning Eleven 3D Soccer"}
+		],
+		"Pro Evolution Soccer 2012 3D": [
+			{"title": "Pro Evolution Soccer 2012 3D"},
+			{"title": "World Soccer Winning Eleven 2012"}
+		],
+		"Pro Evolution Soccer 2013 3D": [
+			{"title": "Pro Evolution Soccer 2013 3D"},
+			{"title": "World Soccer Winning Eleven 2013"}
+		],
+		"Professor Layton and the Azran Legacy": [
+			{"title": "Professor Layton and the Azran Legacy"},
+			{"title": "Layton Kyouju to Choubunmei A no Isan"},
+			{"title": "Profesor Layton y el Legado de los Ashalanti, El"},
+			{"title": "Professeur Layton et l'Heritage des Aslantes"},
+			{"title": "Professor Layton e l'Eredita' degli Aslant, Il"},
+			{"title": "Professor Layton en de Erfenis van de Azran"},
+			{"title": "Professor Layton und das Vermaechtnis von Aslant"}
+		],
+		"Professor Layton and the Miracle Mask": [
+			{"title": "Professor Layton and the Miracle Mask"},
+			{"title": "Layton Kyouju to Kiseki no Kamen"},
+			{"title": "Profesor Layton y la Mascara de los Prodigios, El"},
+			{"title": "Professeur Layton et le Masque des Miracles"},
+			{"title": "Professor Layton e la Maschera dei Miracoli, Il"},
+			{"title": "Professor Layton en het Masker der Wonderen"},
+			{"title": "Professor Layton und die Maske der Wunder"}
+		],
+		"Professor Layton vs. Phoenix Wright - Ace Attorney": [
+			{"title": "Professor Layton vs. Phoenix Wright - Ace Attorney"},
+			{"title": "Layton Kyouju vs Gyakuten Saiban"},
+			{"title": "Professor Layton vs Phoenix Wright - Ace Attorney"}
+		],
+		"Project X Zone 2": [
+			{"title": "Project X Zone 2"},
+			{"title": "Project Cross Zone 2"},
+			{"title": "Project X Zone 2 - Brave New World"},
+			{"title": "Project X Zone 2 - Brave New World (Original Game Sound Edition)", "priority": 2}
+		],
+		"Puppies 3D": [
+			{"title": "Puppies 3D"},
+			{"title": "Kawaii Koinu 3D"},
+			{"title": "Puppies World 3D"}
+		],
+		"Puzzle & Dragons Z + Puzzle & Dragons Super Mario Bros. Edition": [
+			{"title": "Puzzle & Dragons Z + Puzzle & Dragons Super Mario Bros. Edition"},
+			{"title": "Puzzle & Dragons - Super Mario Bros. Edition"}
+		],
+		"Rabbids - Travel in Time 3D": [
+			{"title": "Rabbids - Travel in Time 3D"},
+			{"title": "Rabbids 3D"},
+			{"title": "Rabbids Time Travel"}
+		],
+		"Reel Fishing Paradise 3D": [
+			{"title": "Reel Fishing Paradise 3D"},
+			{"title": "Fish Eyes 3D"}
+		],
+		"Resident Evil - Revelations": [
+			{"title": "Resident Evil - Revelations"},
+			{"title": "Biohazard - Revelations"}
+		],
+		"Resident Evil - The Mercenaries 3D": [
+			{"title": "Resident Evil - The Mercenaries 3D"},
+			{"title": "Biohazard - The Mercenaries 3D"}
+		],
+		"Return to PopoloCrois - A Story of Seasons Fairytale": [
+			{"title": "Return to PopoloCrois - A Story of Seasons Fairytale"},
+			{"title": "Popolocrois - Bokujou Monogatari"}
+		],
+		"Rhythm Paradise Megamix": [
+			{"title": "Rhythm Paradise Megamix"},
+			{"title": "Rhythm Tengoku - The Best+"}
+		],
+		"Rhythm Thief & the Emperor's Treasure": [
+			{"title": "Rhythm Thief & the Emperor's Treasure"},
+			{"title": "Rhythm Kaitou R - Koutei Napoleon no Isan"}
+		],
+		"Riding Stables 3D - Rivals in the Saddle": [
+			{"title": "Riding Stables 3D - Rivals in the Saddle"},
+			{"title": "Riding Stables 3D", "priority": 2}
+		],
+		"River City - Rival Showdown": [
+			{"title": "River City - Rival Showdown"},
+			{"title": "Downtown Nekketsu Monogatari SP"}
+		],
+		"River City - Tokyo Rumble": [
+			{"title": "River City - Tokyo Rumble"},
+			{"title": "Nekketsu Kouha Kunio-Kun SP - Rantou Kyousoukyoku"},
+			{"title": "Yeolhyeolgyeongpa Kunio-Kun SP - Nantu Hyeopjugog"}
+		],
+		"RPG Maker Fes": [
+			{"title": "RPG Maker Fes"},
+			{"title": "RPG Tsukuru Fes"}
+		],
+		"Samurai Warriors - Chronicles": [
+			{"title": "Samurai Warriors - Chronicles"},
+			{"title": "Sengoku Musou Chronicle"}
+		],
+		"SEGA 3D Classics Collection": [
+			{"title": "SEGA 3D Classics Collection"},
+			{"title": "SEGA 3D Fukkoku Archives 2"}
+		],
+		"Senran Kagura 2 - Deep Crimson": [
+			{"title": "Senran Kagura 2 - Deep Crimson"},
+			{"title": "Senran Kagura 2 - Shinku"}
+		],
+		"Senran Kagura Burst": [
+			{"title": "Senran Kagura Burst"},
+			{"title": "Senran Kagura Burst - Guren no Shoujo-tachi"}
+		],
+		"Shantae and the Pirate's Curse": [
+			{"title": "Shantae and the Pirate's Curse"},
+			{"title": "Shantae - Kaizoku no Noroi"}
+		],
+		"Sherlock Holmes - The Mystery of the Frozen City": [
+			{"title": "Sherlock Holmes - The Mystery of the Frozen City"},
+			{"title": "Sherlock Holmes Puzzle City"}
+		],
+		"Shifting World": [
+			{"title": "Shifting World"},
+			{"title": "Shifting World - Shiro to Kuro no Meikyuu"}
+		],
+		"Shin Megami Tensei - Devil Summoner - Soul Hackers": [
+			{"title": "Shin Megami Tensei - Devil Summoner - Soul Hackers"},
+			{"title": "Devil Summoner - Soul Hackers"}
+		],
+		"Shin Megami Tensei - Devil Survivor 2 Record Breaker": [
+			{"title": "Shin Megami Tensei - Devil Survivor 2 Record Breaker"},
+			{"title": "Devil Survivor 2 - Break Record"}
+		],
+		"Shin Megami Tensei - Devil Survivor Overclocked": [
+			{"title": "Shin Megami Tensei - Devil Survivor Overclocked"},
+			{"title": "Devil Survivor - Over Clock"}
+		],
+		"Shin Megami Tensei - Strange Journey Redux": [
+			{"title": "Shin Megami Tensei - Strange Journey Redux"},
+			{"title": "Shin Megami Tensei - Deep Strange Journey"}
+		],
+		"Shin Megami Tensei IV - Apocalypse": [
+			{"title": "Shin Megami Tensei IV - Apocalypse"},
+			{"title": "Shin Megami Tensei IV - Final"}
+		],
+		"Shinobi": [
+			{"title": "Shinobi"},
+			{"title": "Shinobi 3D"}
+		],
+		"Skylanders - Spyro's Adventure": [
+			{"title": "Skylanders - Spyro's Adventure"},
+			{"title": "Skylanders - Spyro no Daibouken"}
+		],
+		"Sonic Boom - Fire & Ice": [
+			{"title": "Sonic Boom - Fire & Ice"},
+			{"title": "Sonic Toon - Fire & Ice"}
+		],
+		"Sonic Boom - Shattered Crystal": [
+			{"title": "Sonic Boom - Shattered Crystal"},
+			{"title": "Sonic Toon - Island Adventure"}
+		],
+		"Sonic Generations": [
+			{"title": "Sonic Generations"},
+			{"title": "Sonic Generations - Ao no Bouken"}
+		],
+		"Spider-Man - Edge of Time": [
+			{"title": "Spider-Man - Edge of Time"},
+			{"title": "Spider-Man - Aux Frontieres du Temps"}
+		],
+		"Spirit Camera - The Cursed Memoir": [
+			{"title": "Spirit Camera - The Cursed Memoir"},
+			{"title": "Shinrei Camera - Tsuiteru Techou"}
+		],
+		"SpongeBob SquigglePants": [
+			{"title": "SpongeBob SquigglePants"},
+			{"title": "SpongeBob SquigglePants 3D"}
+		],
+		"Story of Seasons": [
+			{"title": "Story of Seasons"},
+			{"title": "Bokujou Monogatari - Tsunagaru Shin Tenchi"}
+		],
+		"Story of Seasons - Trio of Towns": [
+			{"title": "Story of Seasons - Trio of Towns"},
+			{"title": "Bokujou Monogatari - 3-tsu no Sato no Taisetsu na Tomodachi"}
+		],
+		"Style Savvy - Fashion Forward": [
+			{"title": "Style Savvy - Fashion Forward"},
+			{"title": "Girls Mode 3 - Kirakira Code"},
+			{"title": "Nintendo presents - New Style Boutique 2 - Fashion Forward"}
+		],
+		"Style Savvy - Trendsetters": [
+			{"title": "Style Savvy - Trendsetters"},
+			{"title": "Nintendo presents - New Style Boutique"},
+			{"title": "Wagamama Fashion - GirlsMode - Yokubari Sengen! Tokimeki Up!"},
+			{"title": "Wagamama Fashion - GirlsMode - Yokubari Sengen", "priority": 2}
+		],
+		"Sudoku + 7 Other Complex Puzzles by Nikoli": [
+			{"title": "Sudoku + 7 Other Complex Puzzles by Nikoli"},
+			{"title": "Nikoli no Sudoku 3D - 8-tsu no Puzzle de 1000-mon"}
+		],
+		"Super Black Bass 3D": [
+			{"title": "Super Black Bass 3D"},
+			{"title": "Super Black Bass - 3D Fight"}
+		],
+		"Super Smash Bros. for Nintendo 3DS": [
+			{"title": "Super Smash Bros. for Nintendo 3DS"},
+			{"title": "Dairantou Smash Bros. for Nintendo 3DS"},
+			{"title": "Dairantou Smash Brothers for Nintendo 3DS"}
+		],
+		"Sushi Striker - The Way of Sushido": [
+			{"title": "Sushi Striker - The Way of Sushido"},
+			{"title": "Choukaiten Sushi Striker - The Way of Sushido"}
+		],
+		"Tetris Axis": [
+			{"title": "Tetris Axis"},
+			{"title": "Tetris"}
+		],
+		"Tomodachi Life": [
+			{"title": "Tomodachi Life"},
+			{"title": "Chin-gumoa Apateu"},
+			{"title": "Tomodachi Collection - Shin Seikatsu"}
+		],
+		"Travel Adventures with Hello Kitty": [
+			{"title": "Travel Adventures with Hello Kitty"},
+			{"title": "Around the World with Hello Kitty & Friends"},
+			{"title": "Hello Kitty to Sekai Ryokou! Iron na Kuni e Odekake Shimasho"}
+		],
+		"Ultimate NES Remix": [
+			{"title": "Ultimate NES Remix"},
+			{"title": "Famicom Remix Best Choice"}
+		],
+		"WarioWare Gold": [
+			{"title": "WarioWare Gold"},
+			{"title": "Made in Wario Gorgeous"}
+		],
+		"Whitakers Present, The - Milton & Friends 3D": [
+			{"title": "Whitakers Present, The - Milton & Friends 3D"},
+			{"title": "My Foal 3D", "priority": 2}
+		],
+		"Yo-Kai Watch": [
+			{"title": "Yo-Kai Watch"},
+			{"title": "Youkai Watch"}
+		],
+		"Yo-Kai Watch 2 - Bony Spirits": [
+			{"title": "Yo-Kai Watch 2 - Bony Spirits"},
+			{"title": "Youkai Watch 2 - Ganso"},
+			{"title": "Yo-Kai Watch Wonjo"}
+		],
+		"Yo-Kai Watch 2 - Fleshy Souls": [
+			{"title": "Yo-Kai Watch 2 - Fleshy Souls"},
+			{"title": "Youkai Watch 2 - Honke"}
+		],
+		"Yo-Kai Watch 2 - Psychic Specters": [
+			{"title": "Yo-Kai Watch 2 - Psychic Specters"},
+			{"title": "Youkai Watch 2 - Shinuchi"}
+		],
+		"Yo-Kai Watch 3": [
+			{"title": "Yo-Kai Watch 3"},
+			{"title": "Youkai Watch 3 - Sukiyaki"}
+		],
+		"Yu-Gi-Oh! Zexal - World Duel Carnival": [
+			{"title": "Yu-Gi-Oh! Zexal - World Duel Carnival"},
+			{"title": "Yu-Gi-Oh! Zexal - Gekitotsu! Duel Carnival!"}
+		],
+		"Zero Escape - Virtue's Last Reward": [
+			{"title": "Zero Escape - Virtue's Last Reward"},
+			{"title": "Kyokugen Dasshutsu ADV - Zennin Shiboudesu"}
+		],
+		"Zero Escape - Zero Time Dilemma": [
+			{"title": "Zero Escape - Zero Time Dilemma"},
+			{"title": "Zero Escape - Toki no Dilemma"}
+		],
+		"Zoo Resort 3D": [
+			{"title": "Zoo Resort 3D"},
+			{"title": "Animal Resort - Dobutsuen o Tsukurou!!"}
+		]
+	}
+}

@@ -1,0 +1,370 @@
+{
+	"description": {
+		"name": [
+			"Philips - CD-i (Redump)"
+		],
+		"last updated": "25 July 2022",
+		"minimum version": "2.00"
+	},
+
+	"mias": [
+		"Language Director - Espanol - Level 1 (Europe) (Disc 2)",
+		"Language Director - Guided Tour - Espanol - Level 1 (Europe)",
+		"Nobelia (USA, Europe) (Unl)",
+		"Partager l'Espace (France)"
+	],
+
+	"renames": {
+		"7th Guest, The (Disc 1) (The Game)": [
+			{"title": "7th Guest, The (Disc 1) (The Game)"},
+			{"title": "7th Guest, The"},
+			{"title": "7th Guest, The (Disc 1) (Das Spiel)"},
+			{"title": "7th Guest, The (Disc 1) (Le Jeu)"}
+		],
+		"Alice in Wonderland": [
+			{"title": "Alice in Wonderland"},
+			{"title": "Alice au Pays des Merveilles"}
+		],
+		"Around Atlanta - The Olympic City": [
+			{"title": "Around Atlanta - The Olympic City"},
+			{"title": "Around Atlanta"}
+		],
+		"Asterix - Caesar's Challenge": [
+			{"title": "Asterix - Caesar's Challenge"},
+			{"title": "Asterix - El Desafio de Cesar"},
+			{"title": "Asterix - De Uitdaging van Caesar"},
+			{"title": "Asterix - Die grosse Reise"},
+			{"title": "Asterix - La Sfida di Cesare"},
+			{"title": "Asterix - Le Defi de Cesar"},
+			{"title": "Asterix - O Desafio de Cesar"}
+		],
+		"Beauty & the Beast": [
+			{"title": "Beauty & the Beast"},
+			{"title": "Belle et la Bete, La"},
+			{"title": "Schoene und das Tier, Die"}
+		],
+		"Berenstain Bears, The - On Their Own": [
+			{"title": "Berenstain Bears, The - On Their Own"},
+			{"title": "Berenstain-Baeren, Die - Selbst ist der Baer"},
+			{"title": "Berenstain Bears, The - Bij de Berenstain Beren Thuis - Thuis en bij Jou"},
+			{"title": "Ours Berenstain, Les - Comme des Grands"}
+		],
+		"Bertelsmann Universallexikon (Fuer CD-i Player mit Digital Video Cartridge)": [
+			{"title": "Bertelsmann Universallexikon (Fuer CD-i Player mit Digital Video Cartridge)"},
+			{"title": "Bertelsmann Universal Lexikon"}
+		],
+		"Bose - Home Cinema Sound System - Demonstration Disc": [
+			{"title": "Bose - Home Cinema Sound System - Demonstration Disc"},
+			{"title": "Bose Home Cinema Sound System Demonstration Disc"}
+		],
+		"Burn-Cycle (Disc 1) (The Game)": [
+			{"title": "Burn-Cycle (Disc 1) (The Game)"},
+			{"title": "Burn-Cycle (Das Spiel)"},
+			{"title": "Burn-Cycle (El Juego)"},
+			{"title": "Burn-Cycle (Il Gioco)"},
+			{"title": "Burn-Cycle (Jeu)"},
+			{"title": "Burn-Cycle", "priority": 2}
+		],
+		"Centurion - Building the Winning Company": [
+			{"title": "Centurion - Building the Winning Company"},
+			{"title": "Centurion - Werken aan The Winning Company - Deel I"}
+		],
+		"Child is Born, A": [
+			{"title": "Child is Born, A"},
+			{"title": "Grote Wonder, Het - A Child is Born"},
+			{"title": "Kind Entsteht, Ein - A Child is Born"},
+			{"title": "Naitre - A Child is Born"},
+			{"title": "Nasce un Bambino"}
+		],
+		"Clue": [
+			{"title": "Clue"},
+			{"title": "Cluedo"}
+		],
+		"Clue - The Mysteries Continue": [
+			{"title": "Clue - The Mysteries Continue"},
+			{"title": "Cluedo - The Mystery Continues"}
+		],
+		"Compton's Interactive Encyclopedia (1995) (Digital Video)": [
+			{"title": "Compton's Interactive Encyclopedia (1995) (Digital Video)"},
+			{"title": "Compton's Interactive Encyclopedia (1995)", "priority": 2},
+			{"title": "Compton's Interactive Encyclopedia", "priority": 3}
+		],
+		"Crayon Factory, The": [
+			{"title": "Crayon Factory, The"},
+			{"title": "Krijtjesfabriek, De"},
+			{"title": "Malstiftfabrik, Die"},
+			{"title": "Usine aux Crayons, L'"}
+		],
+		"Creation with Digital Video (Green)": [
+			{"title": "Creation with Digital Video (Green)"},
+			{"title": "Creation with Digital Video (Red)", "priority": 2}
+		],
+		"Creation with MediaMogul (Blue)": [
+			{"title": "Creation with MediaMogul (Blue)"},
+			{"title": "Creation with MediaMogul (Grey)", "priority": 2}
+		],
+		"Dark Fables of Aesop, The": [
+			{"title": "Dark Fables of Aesop, The"},
+			{"title": "Duistere Fabels van Aesopus, De"},
+			{"title": "Geheimnisvollen Fabeln von Aesop, Die"},
+			{"title": "Fables d'Esope I, Les"},
+			{"title": "Fabulas de Esopo, Las"},
+			{"title": "Meer Duistere Fabels van Aesopus"},
+			{"title": "Weitere Geheimnisvolle Fabeln von Aesop"}
+		],
+		"Dictionnaire Hachette Multimedia (1995) (Version Digital Video)": [
+			{"title": "Dictionnaire Hachette Multimedia (1995) (Version Digital Video)"},
+			{"title": "Dictionnaire Hachette Multimedia (1995)", "priority": 2},
+			{"title": "Dictionnaire Hachette Multimedia", "priority": 3}
+		],
+		"Dutch Masters of the Seventeenth Century": [
+			{"title": "Dutch Masters of the Seventeenth Century"},
+			{"title": "Hollandse Meesters uit de Zeventiende Eeuw"},
+			{"title": "Maestros Holandeses del Siglo XVII, Los"},
+			{"title": "Maestri Olandesi del Seicento, I"},
+			{"title": "Maitres de la Peinture Hollandaise, Les"},
+			{"title": "Niederlaendischen Meister des 17. Jahrhunderts, Die"}
+		],
+		"Earth Command": [
+			{"title": "Earth Command"},
+			{"title": "Comando Tierra"}
+		],
+		"Earth Rhythms": [
+			{"title": "Earth Rhythms"},
+			{"title": "Earth Rhythms - Daichi no Hibiki"}
+		],
+		"Ghost (Disc 1)": [
+			{"title": "Ghost (Disc 1)"},
+			{"title": "Ghost - Nachricht von Sam (Disc 1)"}
+		],
+		"Ghost (Disc 2)": [
+			{"title": "Ghost (Disc 2)"},
+			{"title": "Ghost - Nachricht von Sam (Disc 2)"}
+		],
+		"Harvest of the Sun - Van Gogh - Une Moisson de Soleils": [
+			{"title": "Harvest of the Sun - Van Gogh - Une Moisson de Soleils"},
+			{"title": "Ernte der Sonne - Vincent van Gogh"},
+			{"title": "Great Art Series, The - Taiyou o Karitoru Hito - Harvest of the Sun - Vincent van Gogh"},
+			{"title": "Harvest of the Sun"},
+			{"title": "Oogst van de Zon"},
+			{"title": "Raccolto del Sole, Il - Van Gogh"}
+		],
+		"How the Rhinoceros Got His Skin": [
+			{"title": "How the Rhinoceros Got His Skin"},
+			{"title": "Wie das Rhinozeros zu seiner Haut kam"},
+			{"title": "How the Rhino Got His Skin", "priority": 2}
+		],
+		"Impressionnistes Francais, Les": [
+			{"title": "Impressionnistes Francais, Les"},
+			{"title": "Franceses Impresionistas, Los"},
+			{"title": "Franse Impressionisten, De"},
+			{"title": "Franzoesischen Impressionisten, Die"},
+			{"title": "Gli Impressionisti Francesi"}
+		],
+		"International Tennis Open": [
+			{"title": "International Tennis Open"},
+			{"superset": "International Tennis Open (Simultaneous 2 Player Game)"},
+			{"superset": "International Tennis Open (Versione 2 Giocatori)"}
+		],
+		"Jazz Giants - From Big Band to Bossa Nova": [
+			{"title": "Jazz Giants - From Big Band to Bossa Nova"},
+			{"title": "Geants du Jazz, Les"}
+		],
+		"Labyrinth of Crete": [
+			{"title": "Labyrinth of Crete"},
+			{"title": "Labyrinth von Kreta"}
+		],
+		"Link - The Faces of Evil": [
+			{"title": "Link - The Faces of Evil"},
+			{"title": "Link - De Gezichten van het Kwaad"},
+			{"title": "Link - Die Fratzen des Boesen"}
+		],
+		"Mad Dog II - The Lost Gold": [
+			{"title": "Mad Dog II - The Lost Gold"},
+			{"title": "Mad Dog 2 - Le Tresor Perdu"}
+		],
+		"Marco Polo (Disc 1) (The Game)": [
+			{"title": "Marco Polo (Disc 1) (The Game)"},
+			{"title": "Marco Polo (Disc 1) (Le Jeu)"}
+		],
+		"Marco Polo (Disc 2) (The Documentation)": [
+			{"title": "Marco Polo (Disc 2) (The Documentation)"},
+			{"title": "Marco Polo (Disc 2) (La Documentation)"}
+		],
+		"More Dark Fables from Aesop": [
+			{"title": "More Dark Fables from Aesop"},
+			{"title": "Fables d'Esope II, Les"}
+		],
+		"Mother Goose - Hidden Pictures": [
+			{"title": "Mother Goose - Hidden Pictures"},
+			{"title": "Mother Goose - Images a Trouver"}
+		],
+		"Mozart - A Musical Biography": [
+			{"title": "Mozart - A Musical Biography"},
+			{"title": "Mozart - Een Muzikale Biografie"},
+			{"title": "Mozart - La Vita e la Musica"},
+			{"title": "Mozart - Sono Ongaku to Shougai - A Musical Biography"},
+			{"title": "Mozart - Eine Musikalische Biographie", "priority": 2}
+		],
+		"Paint School I": [
+			{"title": "Paint School I"},
+			{"title": "Malarskolan"},
+			{"title": "Nuri e Asobi I - Paint School I"},
+			{"title": "Schilderschool"}
+		],
+		"Palm Springs Open, The": [
+			{"title": "Palm Springs Open, The"},
+			{"title": "Open de Palm Springs, L'"}
+		],
+		"Patriot Games (Disc 1)": [
+			{"title": "Patriot Games (Disc 1)"},
+			{"title": "Stunde der Patrioten, Die (Disc 1)"}
+		],
+		"Patriot Games (Disc 2)": [
+			{"title": "Patriot Games (Disc 2)"},
+			{"title": "Stunde der Patrioten, Die (Disc 2)"}
+		],
+		"Pegasus": [
+			{"title": "Pegasus"},
+			{"title": "Pegase"}
+		],
+		"Portrait of a City - Venice": [
+			{"title": "Portrait of a City - Venice"},
+			{"title": "Portrait d'une Ville - Venise"},
+			{"title": "Ritratto di Citta - Venezia"}
+		],
+		"Renaissance of Florence, The": [
+			{"title": "Renaissance of Florence, The"},
+			{"title": "Great Art Series, The - Florence Renaissance - Renaissance of Florence, The"},
+			{"title": "Rinascimento a Firenze, Il"},
+			{"title": "Renaissance a Florence, La"},
+			{"title": "Renaissance in Florenz, Die"},
+			{"title": "Renaissance van Florence, De"}
+		],
+		"Richard Scarry's Best Neighborhood Disc Ever!": [
+			{"title": "Richard Scarry's Best Neighborhood Disc Ever!"},
+			{"title": "Barrio mas Divertido de Richard Scarry, El"},
+			{"title": "Citta piu Felice del Mondo! di Richard Scarry, La"},
+			{"title": "Richard Scarry's Allerbeste Buurt Disc!"},
+			{"title": "Ville Surprise de Richard Scarry 1, La"}
+		],
+		"Richard Scarry's Busiest Neighborhood Disc Ever!": [
+			{"title": "Richard Scarry's Busiest Neighborhood Disc Ever!"},
+			{"title": "Richard Scarry's Allerdrukste Buurt Disc!"},
+			{"title": "Richard Scarry's Allerwitzigste Geschichten aus Schaffenau"},
+			{"title": "Ville Surprise de Richard Scarry 2, La"}
+		],
+		"Private Lesson Series - Rock Guitar - A Beginner's Guide": [
+			{"title": "Private Lesson Series - Rock Guitar - A Beginner's Guide"},
+			{"title": "Rock Gitaar - Handleiding voor Beginners"}
+		],
+		"Sandy's Circus Adventure": [
+			{"title": "Sandy's Circus Adventure"},
+			{"title": "Aventures de Sandy au Cirque, Les"},
+			{"title": "Sandy's Circus Avontuur"},
+			{"title": "Sandy's Zirkus Abenteuer"}
+		],
+		"Scotland Yard Interactive": [
+			{"title": "Scotland Yard Interactive"},
+			{"title": "Scotland Yard Interactif"}
+		],
+		"St. Petersbourg et les Tresors de l'Ermitage - The Art of the Czars": [
+			{"title": "St. Petersbourg et les Tresors de l'Ermitage - The Art of the Czars"},
+			{"title": "Arte degli Zar, L' - San Pietroburgo e i Tesori dell'Ermitage"}
+		],
+		"Star Trek VI - The Undiscovered Country (Disc 1)": [
+			{"title": "Star Trek VI - The Undiscovered Country (Disc 1)"},
+			{"title": "Star Trek VI - Das unentdeckte Land (Disc 1)"}
+		],
+		"Star Trek VI - The Undiscovered Country (Disc 2)": [
+			{"title": "Star Trek VI - The Undiscovered Country (Disc 2)"},
+			{"title": "Star Trek VI - Das unentdeckte Land (Disc 2)"}
+		],
+		"Stickybear Math": [
+			{"title": "Stickybear Math"},
+			{"title": "Stickybear Maths"}
+		],
+		"Story Machine - Magic Tales": [
+			{"title": "Story Machine - Magic Tales"},
+			{"title": "Maquina de Cuentos, La - Cuentos Magicos"},
+			{"title": "Story Maschine - Maerchenzauber"},
+			{"title": "Verhalen Toverdoos - Magische Vertellingen"}
+		],
+		"Story Machine - Star Dreams": [
+			{"title": "Story Machine - Star Dreams"},
+			{"title": "Macchina delle Favole, La - Racconti Spaziali"},
+			{"title": "Story Maschine - Galaxis"}
+		],
+		"Tesoro dell'Isola dei Giochi, Il": [
+			{"title": "Tesoro dell'Isola dei Giochi, Il"},
+			{"title": "Tresor de l'Ile aux Jeux, Le"}
+		],
+		"Thunder in Paradise (Disc 1) (The Game)": [
+			{"title": "Thunder in Paradise (Disc 1) (The Game)"},
+			{"title": "Caraibes Offshore"},
+			{"title": "Thunder in Paradise"}
+		],
+		"Tim & Bear at the Airport": [
+			{"title": "Tim & Bear at the Airport"},
+			{"title": "Tim & Baer auf dem Flughafen"},
+			{"title": "Tim & Beer op het Vliegveld"},
+			{"title": "Tim et Ted a l'Aeroport"}
+		],
+		"Tim & Bear at the Harbour": [
+			{"title": "Tim & Bear at the Harbour"},
+			{"title": "Tim & Baer im Hafen"},
+			{"title": "Tim & Beer in de Haven"},
+			{"title": "Tim et Ted au Port"}
+		],
+		"Tim et Ted a l'Hopital": [
+			{"title": "Tim et Ted a l'Hopital"},
+			{"title": "Tim & Baer im Krankenhaus"},
+			{"title": "Tim & Beer in het Ziekenhuis"}
+		],
+		"Tim & Bear at the Movies": [
+			{"title": "Tim & Bear at the Movies"},
+			{"title": "Tim & Baer beim Film"},
+			{"title": "Tim & Beer bij de Film"},
+			{"title": "Tim et Ted au Cinema"}
+		],
+		"Time Life Presents - 35mm Photography": [
+			{"title": "Time Life Presents - 35mm Photography"},
+			{"title": "Time Life Presenta - 35mm Fotografia"},
+			{"title": "Time Life Presenta - La Fotografia in 35mm"},
+			{"title": "Time Life Presente - La Photographie 24 x 36 mm"},
+			{"title": "Time-Life Praesentiert - Kleinbild-Fotografie"}
+		],
+		"Tom - Magic Picture Show": [
+			{"title": "Tom - Magic Picture Show"},
+			{"title": "Tom - Il Dizionario Magico"}
+		],
+		"Treasures of the Smithsonian": [
+			{"title": "Treasures of the Smithsonian"},
+			{"title": "Tresors du Smithsonian"}
+		],
+		"Video Speedway - The Ultimate Racing Experience": [
+			{"title": "Video Speedway - The Ultimate Racing Experience"},
+			{"title": "Video Speedway - Grand Prix"}
+		],
+		"Voyeur": [
+			{"title": "Voyeur"},
+			{"title": "Voyeur ...Don't Get Caught"},
+			{"title": "Voyeur ...Lass Dich Nicht Erwischen!"}
+		],
+		"Wines of France": [
+			{"title": "Wines of France"},
+			{"title": "Vins de France, Les"}
+		],
+		"Zelda - The Wand of Gamelon": [
+			{"title": "Zelda - The Wand of Gamelon"},
+			{"title": "Zelda - De Toverstaf van Gamelon"},
+			{"title": "Zelda - Der Zauberstab von Gamelon"}
+		],
+		"Zombie Dinos from Planet Zeltoid": [
+			{"title": "Zombie Dinos from Planet Zeltoid"},
+			{"title": "Zombie Dinos de la Planete Zeltoide"},
+			{"title": "Zombie Dinos van de Planeet Zeltoid"},
+			{"title": "Zombie Dinos vom Planeten Zeltoid"}
+		]
+	}
+}

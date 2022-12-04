@@ -1,0 +1,22 @@
+{
+	"description": {
+		"name": [
+			"Commodore - Amiga CD"
+		],
+		"last updated": "25 July 2022",
+		"minimum version": "2.00"
+	},
+
+	"mias": [
+		"Astro Blox Revisited (Poland)",
+		"ZGR3D (Poland)"
+	],
+
+	"renames": {
+		"Reflections 4.2": [
+			{"title": "Reflections 4.2"},
+			{"title": "Reflections 3.0 Zubehoer", "priority": 2},
+			{"title": "Reflections 4", "priority": 2}
+		]
+	}
+}

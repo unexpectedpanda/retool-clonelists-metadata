@@ -1,0 +1,23 @@
+{
+	"description": {
+		"name": [
+			"Commodore - Amiga CD32"
+		],
+		"last updated": "9 April 2021",
+		"minimum version": "2.00"
+	},
+
+	"renames": {
+		"F17 Challenge": [
+			{"compilation": "Project-X & F17 Challenge", "title_position": 1}
+		],
+		"Project-X": [
+			{"compilation": "Project-X & Ultimate Body Blows", "title_position": 1},
+			{"compilation": "Project-X & F17 Challenge", "title_position": 1}
+		],
+		"Ultimate Body Blows": [
+			{"title": "Ultimate Body Blows"},
+			{"compilation": "Project-X & Ultimate Body Blows", "title_position": 1}
+		]
+	}
+}

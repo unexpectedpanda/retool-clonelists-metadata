@@ -1,0 +1,51 @@
+{
+	"description": {
+		"name": [
+			"GCE - Vectrex"
+		],
+		"last updated": "22 October 2021",
+		"minimum version": "2.00"
+	},
+
+	"categories": {
+		"Engine Analyzer": {
+			"match": "short",
+			"categories": ["Applications", "Preproduction"]
+		},
+		"RA+A Spectrum I+ Stress Tester": {
+			"match": "short",
+			"categories": ["Applications", "Preproduction"]
+		},
+		"Test Cartridge": {
+			"match": "short",
+			"categories": ["Applications", "Preproduction"]
+		}
+	},
+
+	"renames": {
+		"Blitz! - Action Football (881B27C5)": [
+			{"title": "Blitz! - Action Football (881B27C5)"},
+			{"title": "Blitz! - Action Football (0F11CE0C)", "priority": 2}
+		],
+		"Mail Plane (DA1AC0DB)": [
+			{"title": "Mail Plane (DA1AC0DB)"},
+			{"title": "Mail Plane", "priority": 2}
+		],
+		"Mine Storm II": [
+			{"title": "Mine Storm II"},
+			{"title": "Mine Storm", "priority": 1}
+		],
+		"Pole Position (A00ED3D6)": [
+			{"title": "Pole Position (A00ED3D6)"},
+			{"title": "Pole Position (C10F37D8)", "priority": 2}
+		],
+		"Star Trek - The Motion Picture": [
+			{"title": "Star Trek - The Motion Picture"},
+			{"title": "Star Ship", "priority": 1}
+		],
+		"WebWars": [
+			{"title": "WebWars"},
+			{"title": "WebWarp", "priority": 1}
+		]
+	}
+}

@@ -1,0 +1,32 @@
+{
+	"description": {
+		"name": [
+			"Nintendo - Virtual Boy"
+		],
+		"last updated": "9 April 2021",
+		"minimum version": "2.00"
+	},
+
+	"renames": {
+		"Galactic Pinball": [
+			{"title": "Galactic Pinball"},
+			{"title": "Space Pinball", "priority": 2}
+		],
+		"Golf": [
+			{"title": "Golf"},
+			{"title": "T&E Virtual Golf"}
+		],
+		"Jack Bros.": [
+			{"title": "Jack Bros."},
+			{"title": "Jack Bros. no Meiro de Hiihoo!"}
+		],
+		"Panic Bomber": [
+			{"title": "Panic Bomber"},
+			{"title": "Tobidase! Panibon"}
+		],
+		"Virtual League Baseball": [
+			{"title": "Virtual League Baseball"},
+			{"title": "Virtual Pro Yakyuu '95"}
+		]
+	}
+}

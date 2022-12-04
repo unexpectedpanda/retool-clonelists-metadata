@@ -1,0 +1,4122 @@
+{
+	"description": {
+		"name": [
+			"Nintendo - Nintendo DS"
+		],
+		"last updated": "23 July 2022",
+		"minimum version": "2.00"
+	},
+
+	"overrides": {
+		"America's Next Top Model (USA)": {
+			"new group": "America's Next Top Model (USA)",
+			"match": "full"
+		},
+		"America's Next Top Model (Europe) (En,De)": {
+			"new group": "America's Next Top Model (USA)",
+			"match": "full"
+		},
+		"Avatar - The Legend of Aang \\(Korea\\)(.*)?": {
+			"new group": "Avatar - The Last Airbender - Into the Inferno",
+			"match": "regex"
+		},
+		"Deal or No Deal (USA)": {
+			"new group": "Deal or No Deal (USA)",
+			"match": "full"
+		},
+		"Imagine - Champion Rider (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)": {
+			"new group": "Ener-G - Horse Riders",
+			"match": "full"
+		},
+		"Junior Brain Trainer (Europe) (Fr,Nl,Sv,No,Da,Fi)": {
+			"new group": "Junior Brain Trainer - Math Edition",
+			"match": "full"
+		},
+		"Top Model \\(United Kingdom\\)(.*)?": {
+			"new group": "America's Next Top Model (USA)",
+			"match": "regex"
+		}
+	},
+
+	"renames": {
+		"007 - Quantum of Solace": [
+			{"title": "007 - Quantum of Solace"},
+			{"title": "007 - Ein Quantum Trost"}
+		],
+		"1 vs 100": [
+			{"title": "1 vs 100"},
+			{"title": "1 contre 100"},
+			{"title": "1 gegen 100"}
+		],
+		"100 All-Time Favorites": [
+			{"title": "100 All-Time Favorites"},
+			{"title": "Master All Classics"}
+		],
+		"100 Classic Books": [
+			{"title": "100 Classic Books"},
+			{"title": "100 Classic Book Collection"},
+			{"title": "100 Livres Classiques"},
+			{"title": "Bibliothek der Klassischen Buecher"},
+			{"title": "DS Bungaku Zenshuu"}
+		],
+		"101 in 1 Sports Megamix": [
+			{"title": "101 in 1 Sports Megamix"},
+			{"title": "Dondake Sports 101"}
+		],
+		"123 Sesame Street - Ready, Set, Grover! - With Elmo - The Videogame": [
+			{"title": "123 Sesame Street - Ready, Set, Grover! - With Elmo - The Videogame"},
+			{"title": "Sesame Street - Ready, Set, Grover!"}
+		],
+		"18 Classic Card Games": [
+			{"title": "18 Classic Card Games"},
+			{"title": "18 Card Games"}
+		],
+		"2 Game Pack! - Monster Trucks Mayhem + ATV - Thunder Ridge Riders": [
+			{"title": "2 Game Pack! - Monster Trucks Mayhem + ATV - Thunder Ridge Riders"},
+			{"title": "2 Games on 1 Card - Monster Trucks Mayhem & ATV - Thunder Ridge Riders"}
+		],
+		"3 Game Pack! - Uno + Skip-Bo + Uno Free Fall": [
+			{"title": "3 Game Pack! - Uno + Skip-Bo + Uno Free Fall"},
+			{"title": "3 Game Pack! - Uno & Skip-Bo & Uno Free Fall"}
+		],
+		"4 Elements": [
+			{"title": "4 Elements"},
+			{"compilation": "Jewel Match & 4 Elements", "title_position": 2}
+		],
+		"50 Classic Games": [
+			{"title": "50 Classic Games"},
+			{"title": "Classic Games - The Premium Selection"},
+			{"title": "50 Jeux Incontournables"}
+		],
+		"Ace Attorney Investigations - Miles Edgeworth": [
+			{"title": "Ace Attorney Investigations - Miles Edgeworth"},
+			{"title": "Gyakuten Kenji"}
+		],
+		"Action Replay DS": [
+			{"title": "Action Replay DS"},
+			{"title": "Pro Action Replay DS"}
+		],
+		"Addy - Do You Speak English": [
+			{"title": "Addy - Do You Speak English"},
+			{"title": "Adi l'Entraineur - Objectif Anglais"}
+		],
+		"Adibou Aventure - J'Explore le Corps Humain": [
+			{"title": "Adibou Aventure - J'Explore le Corps Humain"},
+			{"title": "Addy Junior - Mein Koerper"}
+		],
+		"Advance Wars - Days of Ruin": [
+			{"title": "Advance Wars - Days of Ruin"},
+			{"title": "Advance Wars - Dark Conflict"}
+		],
+		"Advance Wars - Dual Strike": [
+			{"title": "Advance Wars - Dual Strike"},
+			{"title": "Famicom Wars DS"}
+		],
+		"Again - Interactive Crime Novel": [
+			{"title": "Again - Interactive Crime Novel"},
+			{"title": "Again - FBI Chou Shinri Sousakan"}
+		],
+		"Air Traffic Chaos": [
+			{"title": "Air Traffic Chaos"},
+			{"title": "Boku wa Koukuu Kanseikan DS - Air Traffic Controller"},
+			{"title": "I Am an... Air Traffic Controller by DS"}
+		],
+		"Akogare Girls Collection - Suteki ni Nurse Days": [
+			{"title": "Akogare Girls Collection - Suteki ni Nurse Days"},
+			{"title": "Princess Angel - Baeguiui Cheonsa"}
+		],
+		"All Star Cheer Squad": [
+			{"title": "All Star Cheer Squad"},
+			{"title": "All Star Cheerleader"}
+		],
+		"American Dragon - Jake Long - Attack of the Dark Dragon": [
+			{"title": "American Dragon - Jake Long - Attack of the Dark Dragon"},
+			{"title": "American Dragon - Jake Long"}
+		],
+		"Animal Crossing - Wild World": [
+			{"title": "Animal Crossing - Wild World"},
+			{"title": "Nolleooseyo Dongmurui Sup"},
+			{"title": "Oide yo Doubutsu no Mori"}
+		],
+		"Animal Paradise": [
+			{"title": "Animal Paradise"},
+			{"title": "Hana Deka Club - Animal Paradise"}
+		],
+		"AniMates!": [
+			{"title": "AniMates!"},
+			{"title": "My Little Flufties"}
+		],
+		"Ankh - Curse of the Scarab King": [
+			{"title": "Ankh - Curse of the Scarab King"},
+			{"title": "Ankh - Der Fluch des Skarabaeenkoenigs"},
+			{"title": "Ankh - La Malediction du Roi Scarabee"}
+		],
+		"Apollo Justice - Ace Attorney": [
+			{"title": "Apollo Justice - Ace Attorney"},
+			{"title": "Gyakuten Saiban 4"}
+		],
+		"Aquarium by DS": [
+			{"title": "Aquarium by DS"},
+			{"title": "Kokoro ga Uruou - Birei Aquarium DS - Tetra, Guppy, Angelfish"}
+		],
+		"Are You Smarter than a 5th Grader": [
+			{"title": "Are You Smarter than a 5th Grader"},
+			{"title": "Are You Smarter than a 10 Year Old - The Official Nintendo DS Game"},
+			{"title": "Das weiss doch jedes Kind!"}
+		],
+		"Art Academy": [
+			{"title": "Art Academy"},
+			{"title": "Egokoro Kyoushitsu DS"},
+			{"title": "Sumeun Sojireul Kkaeuneun - Geurimgyosil"}
+		],
+		"Arthur and the Invisibles - The Game": [
+			{"title": "Arthur and the Invisibles - The Game"},
+			{"title": "Arthur and the Minimoys"}
+		],
+		"Astrology DS - The Stars in Your Hands": [
+			{"title": "Astrology DS - The Stars in Your Hands"},
+			{"title": "Russel Grant's Astrology"}
+		],
+		"Atelier Annie - Alchemists of Sera Island": [
+			{"title": "Atelier Annie - Alchemists of Sera Island"},
+			{"title": "Annie no Atelier - Sera-tou no Renkinjutsushi"}
+		],
+		"Avatar - The Last Airbender": [
+			{"title": "Avatar - The Last Airbender"},
+			{"title": "Avatar - The Legend of Aang"}
+		],
+		"Avatar - The Last Airbender - Into the Inferno": [
+			{"title": "Avatar - The Last Airbender - Into the Inferno"},
+			{"title": "Avatar - The Legend of Aang - Into the Inferno"}
+		],
+		"Avatar - The Last Airbender - The Burning Earth": [
+			{"title": "Avatar - The Last Airbender - The Burning Earth"},
+			{"title": "Avatar - Der Herr der Elemente - Die Erde Brennt"},
+			{"title": "Avatar - The Legend of Aang - The Burning Earth"}
+		],
+		"B. Sokal Syberia": [
+			{"title": "B. Sokal Syberia"},
+			{"title": "Syberia"}
+		],
+		"Baby Pals": [
+			{"title": "Baby Pals"},
+			{"title": "Konnichiwa Akachan"}
+		],
+		"Back at the Barnyard - Slop Bucket Games": [
+			{"title": "Back at the Barnyard - Slop Bucket Games"},
+			{"title": "Back at the Barnyard - Barnyard Games"},
+			{"title": "Barnyard - Verrueckte Bauernhof-Spiele"}
+		],
+		"Backgammon": [
+			{"title": "Backgammon"},
+			{"title": "Eindeloos Backgammon"}
+		],
+		"Bakugan - Battle Brawlers": [
+			{"title": "Bakugan - Battle Brawlers"},
+			{"title": "Bakugan - Battle Brawlers (B6RP)"},
+			{"superset": "Bakugan - Battle Brawlers (Toys'R'Us)"}
+		],
+		"Bakugan - Defenders of the Core": [
+			{"title": "Bakugan - Defenders of the Core"},
+			{"title": "Bakugan Battle Brawlers DS - Defender of the Core"}
+		],
+		"Battle of Giants - Dinosaurs": [
+			{"title": "Battle of Giants - Dinosaurs"},
+			{"title": "Combat of Giants - Dinosaurs"}
+		],
+		"Battle of Giants - Dragons": [
+			{"title": "Battle of Giants - Dragons"},
+			{"title": "Combat of Giants - Dragons"}
+		],
+		"Battle of Giants - Mutant Insects": [
+			{"title": "Battle of Giants - Mutant Insects"},
+			{"title": "Combat of Giants - Mutant Insects"}
+		],
+		"Bee Game, The": [
+			{"title": "Bee Game, The"},
+			{"title": "Biene Maja, Die - Klatschmohnwiese in Gefahr"}
+		],
+		"Bee Movie Game": [
+			{"title": "Bee Movie Game"},
+			{"title": "Bee Movie - Das Game"},
+			{"title": "Bee Movie - Le Jeu"}
+		],
+		"Beetle King": [
+			{"title": "Beetle King"},
+			{"title": "Simple DS Series Vol. 3 - The Mushitori Oukoku - Shinshu Hakken! Nokogiri Kabuto!"}
+		],
+		"Ben 10 - Alien Force": [
+			{"title": "Ben 10 - Alien Force"},
+			{"compilation": "Ben 10 - Triple Pack"}
+		],
+		"Ben 10 - Alien Force - Vilgax Attacks": [
+			{"title": "Ben 10 - Alien Force - Vilgax Attacks"},
+			{"compilation": "Ben 10 - Triple Pack"}
+		],
+		"Ben 10 - Protector of Earth": [
+			{"title": "Ben 10 - Protector of Earth"},
+			{"compilation": "Ben 10 - Triple Pack"}
+		],
+		"Bermuda Triangle - Saving the Coral": [
+			{"title": "Bermuda Triangle - Saving the Coral"},
+			{"title": "Bermuda Triangle"}
+		],
+		"Best Friends - My Horse": [
+			{"title": "Best Friends - Mijn Paard"},
+			{"compilation": "2 in 1 - My Pet School + Best Friends - My Horse", "title_position": 2}
+		],
+		"Best Friends Tonight": [
+			{"title": "Best Friends Tonight"},
+			{"title": "BFF TV"}
+		],
+		"Beyblade - Metal Masters": [
+			{"title": "Beyblade - Metal Masters"},
+			{"title": "Beyblade - Metal Masters - Nightmare Rex"},
+			{"title": "Metal Beyblade 2 - Big Bang Bladers"},
+			{"title": "Metal Fight Beyblade - Choujou Kessen! - Big Bang Bladers"},
+			{"title": "Beyblade - Metal Masters (Collector's Edition)", "priority": 2},
+			{"title": "Beyblade - Metal Masters (Best Buy Exclusive)", "priority": 3},
+			{"title": "Beyblade - Metal Masters (Target Exclusive)", "priority": 4},
+			{"title": "Beyblade - Metal Masters (Toys'R'Us Exclusive)", "priority": 5}
+		],
+		"Beyblade - Metal Fusion": [
+			{"title": "Beyblade - Metal Fusion"},
+			{"title": "Beyblade Metal Fusion - Cyber Pegasus"},
+			{"title": "Metal Beyblade - Cyber Pegasis"},
+			{"title": "Metal Fight Beyblade - Bakutan! Cyber Pegasis"},
+			{"title": "Beyblade - Metal Fusion (Collector's Edition)", "priority": 2},
+			{"title": "Beyblade - Metal Fusion (Toys'R'Us Exclusive)", "priority": 3},
+			{"title": "Beyblade - Metal Fusion (Walmart Exclusive)", "priority": 4}
+		],
+		"Bibi & Tina - Das Grosse Unwetter": [
+			{"title": "Bibi & Tina - Das Grosse Unwetter"},
+			{"compilation": "2 in 1 - Best Of Bibi Und Tina - Die Grosse Schnitzeljagd + Das Grosse Unwetter", "title_positon": 2}
+		],
+		"Bibi & Tina - Die Grosse Schnitzeljagd": [
+			{"title": "Bibi & Tina - Die Grosse Schnitzeljagd"},
+			{"compilation": "2 in 1 - Best Of Bibi Und Tina - Die Grosse Schnitzeljagd + Das Grosse Unwetter", "title_positon": 1}
+		],
+		"Bibi Blocksberg - Neustadt im Hex-Chaos": [
+			{"title": "Bibi Blocksberg - Neustadt im Hex-Chaos"},
+			{"compilation": "2 in 1 - Best of Bibi Blocksberg - Neustadt im Hex-Chaos + Das Gestohlene Hexbuch", "title_position": 1}
+		],
+		"Bibi Blocksberg - Das Gestohlene Hexbuch": [
+			{"title": "Bibi Blocksberg - Das Gestohlene Hexbuch"},
+			{"compilation": "2 in 1 - Best of Bibi Blocksberg - Neustadt im Hex-Chaos + Das Gestohlene Hexbuch", "title_position": 2}
+		],
+		"Big Brain Academy": [
+			{"title": "Big Brain Academy"},
+			{"title": "Mallangmallang Dunoegyosil"},
+			{"title": "Yawaraka Atama Juku"}
+		],
+		"Big League Sports - Summer": [
+			{"title": "Big League Sports - Summer"},
+			{"title": "World Championship Sports - Summer"}
+		],
+		"Biggest Loser, The": [
+			{"title": "Biggest Loser, The"},
+			{"title": "Biggest Loser USA, The"}
+		],
+		"Billiard Action": [
+			{"title": "Billiard Action"},
+			{"title": "Simple DS Series Vol. 2 - The Billiard"}
+		],
+		"Bleach - Dark Souls": [
+			{"title": "Bleach - Dark Souls"},
+			{"title": "Bleach DS 2nd - Kokui Hirameku Requiem"}
+		],
+		"Bleach - The Blade of Fate": [
+			{"title": "Bleach - The Blade of Fate"},
+			{"title": "Bleach DS - Souten ni Kakeru Unmei"}
+		],
+		"Blue Dragon - Awakened Shadow": [
+			{"title": "Blue Dragon - Awakened Shadow"},
+			{"title": "Blue Dragon - Ikai no Kyojuu"}
+		],
+		"Boing! Docomodake DS": [
+			{"title": "Boing! Docomodake DS"},
+			{"title": "Pororon! Docomodake DS"}
+		],
+		"Bolt - Be-Awesome Edition": [
+			{"title": "Bolt - Be-Awesome Edition"},
+			{"title": "Bolt", "priority": 2}
+		],
+		"Bomberman 2": [
+			{"title": "Bomberman 2"},
+			{"title": "Custom Battler Bomberman"}
+		],
+		"Bomberman Land Touch!": [
+			{"title": "Bomberman Land Touch!"},
+			{"title": "Touch! Bomberman Land"}
+		],
+		"Bomberman Land Touch! 2": [
+			{"title": "Bomberman Land Touch! 2"},
+			{"title": "Touch! Bomberman Land - Star Bomber no Miracle World"}
+		],
+		"Brain Age - Train Your Brain in Minutes a Day!": [
+			{"title": "Brain Age - Train Your Brain in Minutes a Day!"},
+			{"title": "Dr Kawashima's Brain Training - How Old Is Your Brain"},
+			{"title": "Maeilmaeil - DS Dunoe Training"},
+			{"title": "Tohoku Daigaku Mirai Kagaku Gijutsu Kyoudou Kenkyuu Center - Kawashima Ryuuta Kyouju Kanshuu - Nou o Kitaeru Otona no DS Training"}
+		],
+		"Brain Age 2 - More Training in Minutes a Day!": [
+			{"title": "Brain Age 2 - More Training in Minutes a Day!"},
+			{"title": "Maeilmaeil Deoukdeo! - DS Dunoe Training"},
+			{"title": "More Brain Training from Dr Kawashima - How Old Is Your Brain"},
+			{"title": "Tohoku Daigaku Mirai Kagaku Gijutsu Kyoudou Kenkyuu Center - Kawashima Ryuuta Kyouju Kanshuu - Motto Nou o Kitaeru Otona no DS Training"}
+		],
+		"Brain Assist": [
+			{"title": "Brain Assist"},
+			{"title": "Unou Nouryoku Check Machine - Touch de Unoo! DS"}
+		],
+		"Brain Boost - Beta Wave": [
+			{"title": "Brain Boost - Beta Wave"},
+			{"title": "Professor's Brain Trainer, The - Logic"},
+			{"title": "Shichida Shiki Training - Unou Tanren Unotan DS - Shun Kan Shoubu! Shuuchuuryoku"}
+		],
+		"Brain Boost - Gamma Wave": [
+			{"title": "Brain Boost - Gamma Wave"},
+			{"title": "Professor's Brain Trainer, The - Memory"},
+			{"title": "Shichida Shiki Training - Unou Tanren Unotan DS - Shun Kan Shoubu! Kiokuryoku"}
+		],
+		"Brain Buster - Puzzle Pak": [
+			{"title": "Brain Buster - Puzzle Pak"},
+			{"title": "Relaxation Puzzle Game - Nemurenai Yoru to Puzzle no Hi ni wa...."}
+		],
+		"Brain Voyage": [
+			{"title": "Brain Voyage"},
+			{"title": "Dr Reiner Knizia's Brainbenders"}
+		],
+		"Brainstorm Series - Treasure Chase": [
+			{"title": "Brainstorm Series - Treasure Chase"},
+			{"title": "Know How 2"}
+		],
+		"Bratz Kidz - Slumber Party": [
+			{"title": "Bratz Kidz - Slumber Party"},
+			{"title": "Bratz Kidz - Party"}
+		],
+		"Break 'em All": [
+			{"title": "Break 'em All"},
+			{"title": "Brick 'em All DS"},
+			{"title": "Simple DS Series Vol. 4 - The Block Kuzushi"}
+		],
+		"Bubble Bobble Revolution": [
+			{"title": "Bubble Bobble Revolution"},
+			{"title": "Bubble Bobble DS"}
+		],
+		"Build-A-Bear Workshop - Where Best Friends Are Made": [
+			{"title": "Build-A-Bear Workshop - Where Best Friends Are Made"},
+			{"title": "Build-A-Bear Workshop - Ou Se Font les Meilleurs Amis"}
+		],
+		"Bust-A-Move DS": [
+			{"title": "Bust-A-Move DS"},
+			{"title": "Hippatte!! Puzzle Bobble"}
+		],
+		"Camping Mama - Outdoor Adventures": [
+			{"title": "Camping Mama - Outdoor Adventures"},
+			{"title": "Camping Mama + Papa"},
+			{"title": "Cooking Mama World - Outdoor Adventures"},
+			{"compilation": "Cooking Mama World - Combo Pack - Volume 1"},
+			{"compilation": "Mama's Combo Pack - Volume 1"}
+		],
+		"Captain Tsubasa - New Kick Off": [
+			{"title": "Captain Tsubasa - New Kick Off"},
+			{"title": "Captain Tsubasa - Gekitou no Kiseki"}
+		],
+		"Cars": [
+			{"title": "Cars"},
+			{"title": "Cars - Motori Ruggenti"}
+		],
+		"Cars - Mater-National Championship": [
+			{"title": "Cars - Mater-National Championship"},
+			{"title": "Cars - Hook International"},
+			{"title": "Cars - La Copa Internacional de Mate"},
+			{"title": "Cars - La Coppa Internazionale di Carl Attrezzi"}
+		],
+		"Castlevania - Dawn of Sorrow": [
+			{"title": "Castlevania - Dawn of Sorrow"},
+			{"title": "Akumajou Dracula - Sougetsu no Juujika"}
+		],
+		"Castlevania - Order of Ecclesia": [
+			{"title": "Castlevania - Order of Ecclesia"},
+			{"title": "Akumajou Dracula - Ubawareta Kokuin"}
+		],
+		"Castlevania - Portrait of Ruin": [
+			{"title": "Castlevania - Portrait of Ruin"},
+			{"title": "Akumajou Dracula - Gallery of Labyrinth"}
+		],
+		"Catan": [
+			{"title": "Catan"},
+			{"title": "Kolonisten van Catan, De"}
+		],
+		"Cats & Dogs - The Revenge of Kitty Galore": [
+			{"title": "Cats & Dogs - The Revenge of Kitty Galore"},
+			{"title": "Cats & Dogs - The Revenge of Kitty Galore - The Videogame"}
+		],
+		"Cesar Millan's Dog Whisperer": [
+			{"title": "Cesar Millan's Dog Whisperer"},
+			{"title": "My Dog Coach - Understand Your Dog with Cesar Millan"}
+		],
+		"Challenge Me - Brain Puzzles": [
+			{"title": "Challenge Me - Brain Puzzles"},
+			{"title": "DS Puzzler - Nanpure Fan & Oekaki Logic"}
+		],
+		"Challenge Me - Math Workout": [
+			{"title": "Challenge Me - Math Workout"},
+			{"title": "Challenge Me - Maths Workout"},
+			{"title": "Sansuu Olympic Iinkai Kouan - Suuji de Kitaeru Nouryoku Training - Algo & Trinca"}
+		],
+		"Chameleon - To Dye For!": [
+			{"title": "Chameleon - To Dye For!"},
+			{"title": "Kameleon"},
+			{"title": "KuruKuru Chameleon DS"}
+		],
+		"Championship Pony": [
+			{"title": "Championship Pony"},
+			{"title": "Mary King's Riding School"}
+		],
+		"Charm Girls Club - My Fashion Mall": [
+			{"title": "Charm Girls Club - My Fashion Mall"},
+			{"title": "Charm Girls Club - Watashi no Fashion Mall"}
+		],
+		"Charm Girls Club - My Fashion Show": [
+			{"title": "Charm Girls Club - My Fashion Show"},
+			{"title": "Charm Girls Club - Watashi no Fashion Show"}
+		],
+		"Cheer We Go": [
+			{"title": "Cheer We Go"},
+			{"title": "Kirakira Rhythm Collection"}
+		],
+		"Chess": [
+			{"title": "Chess"},
+			{"title": "Schaakmat!"},
+			{"title": "Schach"}
+		],
+		"Chibi-Robo! - Park Patrol": [
+			{"title": "Chibi-Robo! - Park Patrol"},
+			{"title": "Sakasete! Chibi-Robo!"}
+		],
+		"Chicken Hunter": [
+			{"title": "Chicken Hunter"},
+			{"title": "Moorhuhn DS"}
+		],
+		"Chicken Little - Ace in Action": [
+			{"title": "Chicken Little - Ace in Action"},
+			{"title": "Chicken Little - Uchuu Saikyou no Team"}
+		],
+		"Children of Mana": [
+			{"title": "Children of Mana"},
+			{"title": "Seiken Densetsu DS - Children of Mana"}
+		],
+		"Chou Gekijouban Keroro Gunsou - Gekishin Dragon Warriors de Arimasu!": [
+			{"title": "Chou Gekijouban Keroro Gunsou - Gekishin Dragon Warriors de Arimasu!"},
+			{"title": "Cho Geukjangpan Gaeguri Jungsa Keroro the Movie - Dragon Warriors"}
+		],
+		"Chou Gekijouban Keroro Gunsou 3 - Tenkuu Daibouken de Arimasu!": [
+			{"title": "Chou Gekijouban Keroro Gunsou 3 - Tenkuu Daibouken de Arimasu!"},
+			{"title": "Cho Geukjangpan Gaeguri Jungsa Keroro the Movie - Cheongongdaemoheom"}
+		],
+		"Chronicles of Narnia, The - Prince Caspian": [
+			{"title": "Chronicles of Narnia, The - Prince Caspian"},
+			{"title": "Narnia Koku Monogatari Dai-2 Shou - Caspian Ouji no Tsunobue"}
+		],
+		"Chronicles of Narnia, The - The Lion, the Witch and the Wardrobe": [
+			{"title": "Chronicles of Narnia, The - The Lion, the Witch and the Wardrobe"},
+			{"title": "Narnia Koku Monogatari Dai-1 Shou - Lion to Majo"}
+		],
+		"Chuugaku Junbi - 5 Kyouka Kanpeki DS (TCJJ, Not for Resale)": [
+			{"title": "Chuugaku Junbi - 5 Kyouka Kanpeki DS (TCJJ, Not for Resale)"},
+			{"title": "Chuugaku Junbi - 5 Kyouka Kanpeki DS (TACJ, Not for Resale)", "priority": 2}
+		],
+		"Classic Action - Devilish": [
+			{"title": "Classic Action - Devilish"},
+			{"title": "Devilish"},
+			{"title": "Devilish - Ball Bounder"}
+		],
+		"Classic Word Games": [
+			{"title": "Classic Word Games"},
+			{"title": "Bravissi-Mots"}
+		],
+		"Clique, The - Diss and Make Up": [
+			{"title": "Clique, The - Diss and Make Up"},
+			{"title": "Clique, The - Queen Teen"}
+		],
+		"Clubhouse Games": [
+			{"title": "Clubhouse Games"},
+			{"title": "42 All-Time Classics"},
+			{"title": "Daredemo Asobi Taizen"},
+			{"title": "Wi-Fi Taiou - Sekai no Daredemo Asobi Taizen"}
+		],
+		"Club Penguin - Elite Penguin Force": [
+			{"title": "Club Penguin - Elite Penguin Force"},
+			{"title": "Club Penguin - Cuerpo de Pinguinos de Elite"},
+			{"title": "Club Penguin - Force d'Elite"}
+		],
+		"Cocoto - Kart Racer": [
+			{"title": "Cocoto - Kart Racer"},
+			{"title": "Minna de Wai Wai - Cocoto Kart"},
+			{"title": "Cocoto Racers", "priority": 2}
+		],
+		"Code de la Route - Edition 2008": [
+			{"title": "Code de la Route - Edition 2008"},
+			{"title": "Code de la Route", "priority": 2}
+		],
+		"CodeBreaker DS": [
+			{"title": "CodeBreaker DS"},
+			{"title": "CodeBreaker DS Lite", "priority": 2}
+		],
+		"Color Cross": [
+			{"title": "Color Cross"},
+			{"title": "Colour Cross", "priority": 2}
+		],
+		"Contra 4": [
+			{"title": "Contra 4"},
+			{"title": "Contra - Dual Spirits"}
+		],
+		"Cookie & Cream": [
+			{"title": "Cookie & Cream"},
+			{"title": "Kurikuri DS - Otasuke Island"}
+		],
+		"Cookie Shop - Create Your Dream Shop": [
+			{"title": "Cookie Shop - Create Your Dream Shop"},
+			{"title": "Chocoken no Omise - Patissier & Sweets Shop Game"},
+			{"title": "Cookie Shop - Crea la Tienda de tus Suenos"}
+		],
+		"Cooking Mama": [
+			{"title": "Cooking Mama"},
+			{"compilation": "Cooking Mama World - Combo Pack - Volume 1"},
+			{"compilation": "Mama's Combo Pack - Volume 1"}
+		],
+		"Cooking Mama 2 - Dinner with Friends": [
+			{"title": "Cooking Mama 2 - Dinner with Friends"},
+			{"title": "Cooking Mama 2"}
+		],
+		"Cooking Mama 3 - Shop & Chop": [
+			{"title": "Cooking Mama 3 - Shop & Chop"},
+			{"title": "Cooking Mama 3"},
+			{"compilation": "Cooking Mama World - Combo Pack - Volume 2"},
+			{"compilation": "Mama's Combo Pack - Volume 2"}
+
+		],
+		"Cooking Mama World - Hobbies & Fun": [
+			{"title": "Cooking Mama World - Hobbies & Fun"},
+			{"compilation": "Cooking Mama World - Combo Pack - Volume 2"},
+			{"compilation": "Mama's Combo Pack - Volume 2"}
+		],
+		"Corvette Evolution GT": [
+			{"title": "Corvette Evolution GT"},
+			{"title": "Evolution GT"}
+		],
+		"Cosmetic Paradise": [
+			{"title": "Cosmetic Paradise"},
+			{"title": "Cosmetick Paradise"},
+			{"title": "Makeup Princess"}
+		],
+		"Cosmetick Paradise - Princess Life": [
+			{"title": "Cosmetick Paradise - Princess Life"},
+			{"title": "Makeup Princess 2 - Princess Life"}
+		],
+		"Cradle of Rome": [
+			{"title": "Cradle of Rome"},
+			{"title": "Jewel Master - Cradle of Rome"},
+			{"compilation": "2 Games in 1 - Jewel Master - Cradle of Egypt + Mahjongg - Ancient Egypt", "title_position": 1},
+			{"compilation": "3 Game Pack! - Cradle of Rome + Cradle of Athena + Cradle of Egypt", "title_position": 1},
+			{"compilation": "Double Pack - Cradle of Rome + Cradle of Egypt", "title_position": 1}
+		],
+		"Crafting Mama": [
+			{"title": "Crafting Mama"},
+			{"title": "Cooking Mama World - Hobbies & Fun"},
+			{"title": "Craft Mama"}
+		],
+		"Crash Boom Bang!": [
+			{"title": "Crash Boom Bang!"},
+			{"title": "Crash Bandicoot Festival"}
+		],
+		"Crayon Shin-chan - Arashi o Yobu Cinemaland Kachinko Gachinko Daikatsugeki!": [
+			{"title": "Crayon Shin-chan - Arashi o Yobu Cinemaland Kachinko Gachinko Daikatsugeki!"},
+			{"title": "Jjangguneun Monmallyeo - Cinemaland Chalkak Chalkak Daesodong!"},
+			{"title": "Shin chan - Aventuras de Cine!"}
+		],
+		"Crayon Shin-chan - Arashi o Yobu Nendororoon Daihenshin!": [
+			{"title": "Crayon Shin-chan - Arashi o Yobu Nendororoon Daihenshin!"},
+			{"title": "Jjangguneun Monmallyeo - Mallangmallang Gomuchalheuk Daebyeonsin!"},
+			{"title": "Shin chan contra los Plastas!"}
+		],
+		"Crayon Shin-chan - Obaka Dainin Den - Susume! Kasukabe Ninja Tai!": [
+			{"title": "Crayon Shin-chan - Obaka Dainin Den - Susume! Kasukabe Ninja Tai!"},
+			{"title": "Jjangguneun Monmallyeo - Buriburi - Tteogip Maeul Daemoheom!"}
+		],
+		"Crayon Shin-chan - Shock Gahn! - Densetsu o Yobu Omake Daiketsusen!!": [
+			{"title": "Crayon Shin-chan - Shock Gahn! - Densetsu o Yobu Omake Daiketsusen!!"},
+			{"title": "Jjangguneun Monmallyeo - Won Peulleoseu Won! - Shock Seong Land Daegyeoljeon!!"}
+		],
+		"Crayon Shin-chan DS - Arashi o Yobu Nutte Crayoon Daisakusen!": [
+			{"title": "Crayon Shin-chan DS - Arashi o Yobu Nutte Crayoon Daisakusen!"},
+			{"title": "Jjangguneun Monmallyeo DS - Alssongdalssong Crayon Daejakjeon!"},
+			{"title": "Shin chan Flipa en Colores!"},
+			{"title": "Shin chan e i Colori Magici!"}
+		],
+		"Crazy Chicken - Star Karts": [
+			{"title": "Crazy Chicken - Star Karts"},
+			{"title": "Moorhuhn - Star Karts"}
+		],
+		"Crazy Chicken Adventure - The Pharaoh's Treasure": [
+			{"title": "Crazy Chicken Adventure - The Pharaoh's Treasure"},
+			{"title": "Moorhuhn Adventure - The Pharaoh's Treasure"}
+		],
+		"Crazy Chicken Jump'n Run - Atlantis Quest": [
+			{"title": "Crazy Chicken Jump'n Run - Atlantis Quest"},
+			{"title": "Moorhuhn Jump'n Run - Atlantis"}
+		],
+		"Crazy School Games": [
+			{"title": "Crazy School Games"},
+			{"title": "Eindeloos Games Top 10"}
+		],
+		"Crime Lab - Body of Evidence": [
+			{"title": "Crime Lab - Body of Evidence"},
+			{"title": "Art of Murder - FBI Top Secret"}
+		],
+		"Croods, The - Prehistoric Party!": [
+			{"title": "Croods, The - Prehistoric Party!"},
+			{"compilation": "Combo Pack - Madagascar 3 - Europe's Most Wanted + Croods, The - Prehistoric Party!", "title_position": 2}
+		],
+		"CrossworDS": [
+			{"title": "CrossworDS"},
+			{"title": "Nintendo Presents - Crossword Collection"}
+		],
+		"Curling DS": [
+			{"title": "Curling DS"},
+			{"title": "Nihon Curling Kyoukai Kounin - Minna no DS Curling"}
+		],
+		"Custom Robo Arena": [
+			{"title": "Custom Robo Arena"},
+			{"title": "Gekitou! Custom Robo"}
+		],
+		"Dark Spire, The": [
+			{"title": "Dark Spire, The"},
+			{"title": "Genmu no Tou to Tsurugi no Okite"}
+		],
+		"Dawn of Discovery": [
+			{"title": "Dawn of Discovery"},
+			{"title": "Anno - Create a New World"}
+		],
+		"Deal or No Deal - The Banker Is Back!": [
+			{"title": "Deal or No Deal - The Banker Is Back!"},
+			{"title": "Deal or No Deal - Der Banker Schlaegt Zurueck"}
+		],
+		"Deal or No Deal - The Official Nintendo DS Game": [
+			{"title": "Deal or No Deal - The Official Nintendo DS Game"},
+			{"title": "A Prendre ou a Laisser - Le Jeu Officiel"},
+			{"title": "Affari Tuoi"},
+			{"title": "Deal or No Deal"}
+		],
+		"Deca Sports DS": [
+			{"title": "Deca Sports DS"},
+			{"title": "Deca Sporta - DS de Sports '10' Shumoku!"},
+			{"title": "Sports Island DS"}
+		],
+		"Deep Sea Aquarium by DS": [
+			{"title": "Deep Sea Aquarium by DS"},
+			{"title": "Deep Aquarium - Kiseki no Shinkai"}
+		],
+		"Dementium - The Ward": [
+			{"title": "Dementium - The Ward"},
+			{"title": "Heisa Byoutou - Dementium"}
+		],
+		"Dementium II": [
+			{"title": "Dementium II"},
+			{"title": "Tozasareta Byoutou - Dementium II"}
+		],
+		"Despicable Me - The Game - Minion Mayhem": [
+			{"title": "Despicable Me - The Game - Minion Mayhem"},
+			{"title": "Despicable Me - Minion Mayhem"}
+		],
+		"Diary Girl": [
+			{"title": "Diary Girl"},
+			{"title": "Winx Club - Secret Diary 2009"}
+		],
+		"Diddy Kong Racing DS": [
+			{"title": "Diddy Kong Racing DS"},
+			{"title": "Diddy Kong Racing (Climax, 2004-05-31)", "priority": 2},
+			{"title": "Diddy Kong Racing (Climax, 2004-05-27)", "priority": 3}
+		],
+		"Digging For Dinosaurs": [
+			{"compilation": "2 Game Pack - My Amusement Park + Digging for Dinosaurs", "title_position": 2}
+		],
+		"Digimon World DS": [
+			{"title": "Digimon World DS"},
+			{"title": "Digimon Story"}
+		],
+		"Digimon World - Dawn": [
+			{"title": "Digimon World - Dawn"},
+			{"title": "Digimon Story - Sunburst"}
+		],
+		"Digimon World - Dusk": [
+			{"title": "Digimon World - Dusk"},
+			{"title": "Digimon Story - Moonlight"}
+		],
+		"Digimon World Championship": [
+			{"title": "Digimon World Championship"},
+			{"title": "Digimon Championship"}
+		],
+		"Diner Dash - Sizzle & Serve": [
+			{"title": "Diner Dash - Sizzle & Serve"},
+			{"title": "Diner Dash"}
+		],
+		"Dino Master - Dig, Discover, Duel": [
+			{"title": "Dino Master - Dig, Discover, Duel"},
+			{"title": "Kyouryuu Taisen Dino Champ - Saikyou DNA Hakkutsu Daisakusen"}
+		],
+		"Dino Pets - The Virtual Pet Game": [
+			{"title": "Dino Pets - The Virtual Pet Game"},
+			{"title": "101 Dino Pets"}
+		],
+		"Dinosaur King": [
+			{"title": "Dinosaur King"},
+			{"title": "Kodai Ouja Kyouryuu King - 7-tsu no Kakera"}
+		],
+		"DiRT 2": [
+			{"title": "DiRT 2"},
+			{"title": "Colin McRae - DiRT 2"}
+		],
+		"Discovery Kids - Dolphin Discovery": [
+			{"title": "Discovery Kids - Dolphin Discovery"},
+			{"title": "Long Vacation - Iruka to Watashi"},
+			{"title": "My Pet Dolphin 2"}
+		],
+		"Discovery Kids - Kitten Corner": [
+			{"title": "Discovery Kids - Kitten Corner"},
+			{"title": "My Pet Kitten"}
+		],
+		"Discovery Kids - Parrot Pals": [
+			{"title": "Discovery Kids - Parrot Pals"},
+			{"title": "My Pet Parrot"},
+			{"title": "Oshaberi Oumu"}
+		],
+		"Discovery Kids - Pony Paradise": [
+			{"title": "Discovery Kids - Pony Paradise"},
+			{"title": "My Pet Pony"}
+		],
+		"Discovery Kids - Puppy Playtime": [
+			{"title": "Discovery Kids - Puppy Playtime"},
+			{"title": "My Pet Puppy"}
+		],
+		"Discovery Kids - Snake Safari": [
+			{"title": "Discovery Kids - Snake Safari"},
+			{"title": "My Dangerous Pet - Snake"}
+		],
+		"Discovery Kids - Spider Quest": [
+			{"title": "Discovery Kids - Spider Quest"},
+			{"title": "My Dangerous Pet - Spider"}
+		],
+		"Disgaea DS": [
+			{"title": "Disgaea DS"},
+			{"title": "Makai Senki Disgaea - Makai no Ouji to Akai Tsuki"}
+		],
+		"Disney Big Hero 6 - Battle in the Bay": [
+			{"title": "Disney Big Hero 6 - Battle in the Bay"},
+			{"compilation": "Disney Two Pack - Frozen Olaf's Quest + Big Hero 6 - Battle in the Bay", "title_position": 2}
+		],
+		"Disney Friends": [
+			{"title": "Disney Friends"},
+			{"title": "Mes Amis Disney"},
+			{"title": "Tus Amigos de Disney"}
+		],
+		"Disney Frozen - Olaf's Quest": [
+			{"title": "Disney Frozen - Olaf's Quest"},
+			{"compilation": "Disney Two Pack - Frozen Olaf's Quest + Big Hero 6 - Battle in the Bay", "title_position": 1}
+		],
+		"Disney Princess - Magical Jewels": [
+			{"title": "Disney Princess - Magical Jewels"},
+			{"title": "Disney Princess - Mahou no Jewel"}
+		],
+		"Diva Girls - Divas on Ice": [
+			{"title": "Diva Girls - Divas on Ice"},
+			{"title": "Diva Girls - Princess on Ice 2"}
+		],
+		"DK - Jungle Climber": [
+			{"title": "DK - Jungle Climber"},
+			{"title": "Donkey Kong - Jungle Climber"}
+		],
+		"Dog Trainer 2 (Cheat Cartridge)": [
+			{"title": "Dog Trainer 2 (Cheat Cartridge)"},
+			{"title": "Dog Trainer (Cheat Cartridge)", "priority": 2}
+		],
+		"Dogz": [
+			{"title": "Dogz"},
+			{"title": "Kawaii Koinu DS"}
+		],
+		"Dokapon Journey": [
+			{"title": "Dokapon Journey"},
+			{"title": "Dokapon Journey! - Nakayoku Kenka Shite"}
+		],
+		"Dora & Kai-Lan's Pet Shelter": [
+			{"title": "Dora & Kai-Lan's Pet Shelter"},
+			{"title": "Dora & Friends' - Pet Shelter"}
+		],
+		"Dora Puppy": [
+			{"title": "Dora Puppy"},
+			{"title": "Dora the Explorer - Dora Puppy"}
+		],
+		"Draglade": [
+			{"title": "Draglade"},
+			{"title": "Custom Beat Battle - Draglade"}
+		],
+		"Dragon Ball - Origins": [
+			{"title": "Dragon Ball - Origins"},
+			{"title": "Dragon Ball DS"}
+		],
+		"Dragon Ball - Origins 2": [
+			{"title": "Dragon Ball - Origins 2"},
+			{"title": "Dragon Ball DS 2 - Totsugeki! Red Ribbon Gun"}
+		],
+		"Dragon Ball Z - Attack of the Saiyans": [
+			{"title": "Dragon Ball Z - Attack of the Saiyans"},
+			{"title": "Dragon Ball Kai - Saiyajin Raishuu"}
+		],
+		"Dragon Ball Z - Harukanaru Densetsu": [
+			{"title": "Dragon Ball Z - Harukanaru Densetsu"},
+			{"title": "Dragon Ball Z - Goku Densetsu"},
+			{"title": "Dragon Ball Z - Harukanaru Gokuu Densetsu"}
+		],
+		"Dragon Ball Z - Supersonic Warriors 2": [
+			{"title": "Dragon Ball Z - Supersonic Warriors 2"},
+			{"title": "Dragon Ball Z - Bukuu Ressen"}
+		],
+		"Dragon Quest Heroes - Rocket Slime": [
+			{"title": "Dragon Quest Heroes - Rocket Slime"},
+			{"title": "Slime Morimori Dragon Quest 2 - Daisensha to Shippo Dan"}
+		],
+		"Dragon Quest IV - Chapters of the Chosen": [
+			{"title": "Dragon Quest IV - Chapters of the Chosen"},
+			{"title": "Dragon Quest - The Chapters of the Chosen"},
+			{"title": "Dragon Quest IV - Michibikareshi Mono-tachi"}
+		],
+		"Dragon Quest IX - Sentinels of the Starry Skies": [
+			{"title": "Dragon Quest IX - Sentinels of the Starry Skies"},
+			{"title": "Dragon Quest IX - Hoshizora no Mamoribito"}
+		],
+		"Dragon Quest Monsters - Joker 2": [
+			{"title": "Dragon Quest Monsters - Joker 2"},
+			{"title": "Dragon Quest Monsters - Joker 2 - Professional"}
+		],
+		"Dragon Quest V - Hand of the Heavenly Bride": [
+			{"title": "Dragon Quest V - Hand of the Heavenly Bride"},
+			{"title": "Dragon Quest - The Hand of the Heavenly Bride"},
+			{"title": "Dragon Quest V - Tenkuu no Hanayome"}
+		],
+		"Dragon Quest VI - Realms of Revelation": [
+			{"title": "Dragon Quest VI - Realms of Revelation"},
+			{"title": "Dragon Quest VI - Maboroshi no Daichi"}
+		],
+		"Drawn to Life": [
+			{"title": "Drawn to Life"},
+			{"title": "Drawn to Life - Kamisama no Marionette"},
+			{"title": "Geuryeora, Touch! - Naega Mandeuneun Sesang"},
+			{"compilation": "Drawn to Life - Collection"}
+		],
+		"Drawn to Life - SpongeBob SquarePants Edition": [
+			{"title": "Drawn to Life - SpongeBob SquarePants Edition"},
+			{"title": "Drawn to Life - Edicion Bob Esponja"},
+			{"title": "Geuryeora, Touch! - SpongeBob Nemobaji"}
+		],
+		"Drawn to Life - The Next Chapter": [
+			{"title": "Drawn to Life - The Next Chapter"},
+			{"compilation": "Drawn to Life - Collection"}
+		],
+		"Dreamer Series - Babysitter": [
+			{"title": "Dreamer Series - Babysitter"},
+			{"title": "Let's Play Mums"}
+		],
+		"Dreamer Series - Horse Trainer": [
+			{"title": "Dreamer Series - Horse Trainer"},
+			{"title": "Anky's Ruiterschool"},
+			{"title": "Deine Reitschule"},
+			{"title": "Mi Escuela de Equitacion"}
+		],
+		"Dreamer Series - Pop Star": [
+			{"title": "Dreamer Series - Pop Star"},
+			{"title": "Music Star - I Wanna Be a Popstar"},
+			{"title": "Vie d'Emma, La - Super Star"}
+		],
+		"Dreamer Series - Puppy Trainer": [
+			{"title": "Dreamer Series - Puppy Trainer"},
+			{"title": "My Dogs Paradise"},
+			{"title": "Emily - My Dog Paradise", "priority": 2}
+		],
+		"Dreamer Series - Shop Owner": [
+			{"title": "Dreamer Series - Shop Owner"},
+			{"title": "Let's Play Shops"}
+		],
+		"Dreamer Series - Teacher": [
+			{"title": "Dreamer Series - Teacher"},
+			{"title": "Let's Play Schools"}
+		],
+		"Dreamer Series - Zoo Keeper": [
+			{"title": "Dreamer Series - Zoo Keeper"},
+			{"title": "Mein Eigener Tierbaby-Zoo"}
+		],
+		"Drivers Ed Portable": [
+			{"title": "Drivers Ed Portable"},
+			{"title": "CNAE Aprende con Nosotros - Driver's Ed"},
+			{"title": "Drivers' Ed Portable"}
+		],
+		"Drone Tactics": [
+			{"title": "Drone Tactics"},
+			{"title": "Konchuu Wars"}
+		],
+		"Dungeon Explorer - Warriors of Ancient Arts": [
+			{"title": "Dungeon Explorer - Warriors of Ancient Arts"},
+			{"title": "Dungeon Explorer"},
+			{"title": "Dungeon Explorer - Jashin no Ryouiki"}
+		],
+		"Dynasty Warriors DS - Fighter's Battle": [
+			{"title": "Dynasty Warriors DS - Fighter's Battle"},
+			{"title": "Jin Samguk Mussang DS - Fighter's Battle"},
+			{"title": "Shin Sangoku Musou DS - Fighter's Battle"}
+		],
+		"Easy Piano": [
+			{"title": "Easy Piano"},
+			{"title": "Easy Piano - Learn, Play & Compose"}
+		],
+		"Eco-Creatures - Save the Forest": [
+			{"title": "Eco-Creatures - Save the Forest"},
+			{"title": "Ecolis"},
+			{"title": "Ecolis - Save the Forest"}
+		],
+		"Eijukugo Target 1000 DS": [
+			{"title": "Eijukugo Target 1000 DS"},
+			{"title": "Jeoldaepiryo - Yeongsugeo 1000 DS"}
+		],
+		"Elebits - The Adventures of Kai and Zero": [
+			{"title": "Elebits - The Adventures of Kai and Zero"},
+			{"title": "Elebits - Kai to Zero no Fushigi na Tabi"},
+			{"title": "Elebits - Kaiwa Zeroui Sinbihan Yeohaeng"},
+			{"title": "Eledees - The Adventures of Kai and Zero"}
+		],
+		"Elite Beat Agents": [
+			{"title": "Elite Beat Agents"},
+			{"title": "Dowajwo! Rhythm Hero"}
+		],
+		"Elvenland": [
+			{"title": "Elvenland"},
+			{"title": "Jewel Land", "priority": 2}
+		],
+		"Emergency! - Disaster Rescue Squad": [
+			{"title": "Emergency! - Disaster Rescue Squad"},
+			{"title": "Emergency"},
+			{"title": "Emergency DS"}
+		],
+		"Emily Archer - The Curse of King Tut's Tomb": [
+			{"title": "Emily Archer - The Curse of King Tut's Tomb"},
+			{"title": "Malediction de Toutankhamon, La - Enigmes & Objets Caches"}
+		],
+		"Enchanted": [
+			{"title": "Enchanted"},
+			{"title": "Mahou ni Kakerarete"}
+		],
+		"Englisch Macht Spass - Eine Reise nach London!": [
+			{"compilation": "2 in 1 - Music for Kids + Englisch Macht Spass - Eine Reise nach London!", "title_position": 2}
+		],
+		"Ener-G - Dance Squad": [
+			{"title": "Ener-G - Dance Squad"},
+			{"title": "Imagine - Modern Dancer"}
+		],
+		"English Buddy": [
+			{"title": "English Buddy"},
+			{"title": "Englisch Buddy"}
+		],
+		"English Training - Have Fun Improving Your Skills": [
+			{"title": "English Training - Have Fun Improving Your Skills"},
+			{"title": "Deutgo Sseugo Chinhaejineun - DS Yeongeo Sammaegyeong"},
+			{"title": "Eigo ga Nigate na Otona no DS Training - Eigo Zuke"}
+		],
+		"Equestrian Training": [
+			{"title": "Equestrian Training"},
+			{"title": "Equitation - Galops 1 a 4"}
+		],
+		"Essential Sudoku DS": [
+			{"title": "Essential Sudoku DS"},
+			{"title": "Simple DS Series Vol. 7 - The Illust Puzzle & Suuji Puzzle"}
+		],
+		"Etrian Odyssey": [
+			{"title": "Etrian Odyssey"},
+			{"title": "Sekaiju no Meikyuu"}
+		],
+		"Etrian Odyssey II - Heroes of Lagaard": [
+			{"title": "Etrian Odyssey II - Heroes of Lagaard"},
+			{"title": "Sekaiju no Meikyuu II - Shoou no Seihai"}
+		],
+		"Etrian Odyssey III - The Drowned City": [
+			{"title": "Etrian Odyssey III - The Drowned City"},
+			{"title": "Sekaiju no Meikyuu III - Seikai no Raihousha"}
+		],
+		"Exit DS": [
+			{"title": "Exit DS"},
+			{"title": "Bisanggu - Exit DS"},
+			{"title": "Hijouguchi - Exit DS"}
+		],
+		"Fairyland - Melody Magic": [
+			{"title": "Fairyland - Melody Magic"},
+			{"title": "Princess Melody"}
+		],
+		"Family Park Tycoon": [
+			{"title": "Family Park Tycoon"},
+			{"title": "Rollercoaster Park"}
+		],
+		"Fantasy Aquarium by DS": [
+			{"title": "Fantasy Aquarium by DS"},
+			{"title": "Kokoro ga Uruou - Birei Aquarium DS - Kujira, Iruka, Penguin"}
+		],
+		"Fashion Studio - Paris Collection": [
+			{"title": "Fashion Studio - Paris Collection"},
+			{"title": "My Paris Fashion House"}
+		],
+		"Fashion Week Jr. - Designer": [
+			{"title": "Fashion Week Jr. - Designer"},
+			{"title": "Fashion Designer - High Fashion"}
+		],
+		"Fee Lili-Rose, La - La Magie des Fees": [
+			{"title": "Fee Lili-Rose, La - La Magie des Fees"},
+			{"title": "Prinses Lillifee"},
+			{"title": "Prinzessin Lillifee - Feenzauber"}
+		],
+		"Fee Lili-Rose 2, La - Mon Monde Merveilleux": [
+			{"title": "Fee Lili-Rose 2, La - Mon Monde Merveilleux"},
+			{"title": "Princess Lillifee - My Wonderful World"},
+			{"title": "Prinzessin Lillifee - Meine Wunderbare Welt"}
+		],
+		"Feel the Magic - XY-XX": [
+			{"title": "Feel the Magic - XY-XX"},
+			{"title": "Kimi no Tame Nara Shineru"},
+			{"title": "Project Rub"}
+		],
+		"Ferrari Challenge - Trofeo Pirelli": [
+			{"title": "Ferrari Challenge - Trofeo Pirelli"},
+			{"title": "Ferrari Challenge - Trofeo Pirelli - European Series"}
+		],
+		"FIFA Soccer 06": [
+			{"title": "FIFA Soccer 06"},
+			{"title": "FIFA 06"}
+		],
+		"FIFA Soccer 07": [
+			{"title": "FIFA Soccer 07"},
+			{"title": "FIFA 07"}
+		],
+		"FIFA Soccer 08": [
+			{"title": "FIFA Soccer 08"},
+			{"title": "FIFA 08"}
+		],
+		"FIFA Soccer 09": [
+			{"title": "FIFA Soccer 09"},
+			{"title": "FIFA 09"}
+		],
+		"FIFA Soccer 10": [
+			{"title": "FIFA Soccer 10"},
+			{"title": "FIFA 10"}
+		],
+		"FIFA Soccer 11": [
+			{"title": "FIFA Soccer 11"},
+			{"title": "FIFA 11"}
+		],
+		"Final Fantasy - The 4 Heroes of Light": [
+			{"title": "Final Fantasy - The 4 Heroes of Light"},
+			{"title": "Hikari no 4 Senshi - Final Fantasy Gaiden"}
+		],
+		"Final Fantasy Fables - Chocobo Tales": [
+			{"title": "Final Fantasy Fables - Chocobo Tales"},
+			{"title": "Chocobo to Mahou no Ehon"}
+		],
+		"Final Fantasy Tactics A2 - Grimoire of the Rift": [
+			{"title": "Final Fantasy Tactics A2 - Grimoire of the Rift"},
+			{"title": "Final Fantasy Tactics A2 - Fuuketsu no Grimoire"}
+		],
+		"Finding Nemo - Escape to the Big Blue": [
+			{"title": "Finding Nemo - Escape to the Big Blue"},
+			{"title": "Findet Nemo - Flucht in den Ozean"},
+			{"title": "Finding Nemo - Touch de Nemo"},
+			{"superset": "Finding Nemo - Escape to the Big Blue - Special Edition"}
+		],
+		"Fire Emblem - Shadow Dragon": [
+			{"title": "Fire Emblem - Shadow Dragon"},
+			{"title": "Fire Emblem - Shin Ankoku Ryuu to Hikari no Ken"}
+		],
+		"Flash Focus - Vision Training in Minutes a Day": [
+			{"title": "Flash Focus - Vision Training in Minutes a Day"},
+			{"title": "Miru Chikara o Jissen de Kitaeru - DS Medikara Training"},
+			{"title": "Sight Training - Enjoy Exercising and Relaxing Your Eyes"},
+			{"title": "Sumeoinneun Nunui Him - DS Allyeok Training"}
+		],
+		"Flower, Sun and Rain - Murder and Mystery in Paradise": [
+			{"title": "Flower, Sun and Rain - Murder and Mystery in Paradise"},
+			{"title": "Hana to Taiyou to Ame to - Owaranai Rakuen"}
+		],
+		"Flunkerne Pirater": [
+			{"title": "Flunkerne Pirater"},
+			{"title": "Flunkene Pirater"}
+		],
+		"Flushed Away": [
+			{"title": "Flushed Away"},
+			{"title": "Simple DS Series Vol. 17 - The Nezumi no Action Game - Mouse Town Roddy to Rita no Daibouken"}
+		],
+		"Fossil Fighters": [
+			{"title": "Fossil Fighters"},
+			{"title": "Bokura wa Kaseki Horider"}
+		],
+		"Fossil Fighters Champions": [
+			{"title": "Fossil Fighters Champions"},
+			{"title": "Super Kaseki Horider"}
+		],
+		"Fossil League - Dino Tournament Championship": [
+			{"title": "Fossil League - Dino Tournament Championship"},
+			{"title": "Kyouryuu Ouja Ketteisen - Kyouryuu Grand Prix"}
+		],
+		"Foto Frenzy - Spot the Difference": [
+			{"title": "Foto Frenzy - Spot the Difference"},
+			{"title": "Finde die Unterschiede - Foto Frenzy"}
+		],
+		"Freddie Flintoff's Power Play Cricket": [
+			{"title": "Freddie Flintoff's Power Play Cricket"},
+			{"title": "Shane Watson's Power Play Cricket 2011"}
+		],
+		"Freedom Wings": [
+			{"title": "Freedom Wings"},
+			{"title": "Ore no Sentouki"}
+		],
+		"Freshly-Picked - Tingle's Rosy Rupeeland": [
+			{"title": "Freshly-Picked - Tingle's Rosy Rupeeland"},
+			{"title": "Mogitate Tingle no Barairo Rupee Land"}
+		],
+		"Fritz Chess": [
+			{"title": "Fritz Chess"},
+			{"title": "Fritz"}
+		],
+		"From the Abyss": [
+			{"title": "From the Abyss"},
+			{"title": "Migungui Gunju"}
+		],
+		"Front Mission": [
+			{"title": "Front Mission"},
+			{"title": "Front Mission 1st"}
+		],
+		"Fuehrerschein Coach 2008": [
+			{"title": "Fuehrerschein Coach 2008"},
+			{"title": "Autoescuela Trainer"}
+		],
+		"Fuehrerschein-Trainer": [
+			{"title": "Fuehrerschein-Trainer"},
+			{"title": "Driver License Trainer Espana"},
+			{"title": "Driver License Trainer Italia"}
+		],
+		"Fullmetal Alchemist - Dual Sympathy": [
+			{"title": "Fullmetal Alchemist - Dual Sympathy"},
+			{"title": "Hagane no Renkinjutsushi - Dual Sympathy"}
+		],
+		"Game Hits!": [
+			{"title": "Game Hits!"},
+			{"title": "Game Hits"}
+		],
+		"Garfield - A Tail of Two Kitties": [
+			{"title": "Garfield - A Tail of Two Kitties"},
+			{"title": "Garfield 2"}
+		],
+		"Gem Quest - 4 Elements": [
+			{"title": "Gem Quest - 4 Elements"},
+			{"title": "4 Elements"}
+		],
+		"George of the Jungle and the Search for the Secret": [
+			{"title": "George of the Jungle and the Search for the Secret"},
+			{"title": "George of the Jungle"}
+		],
+		"Ghost Trick - Phantom Detective": [
+			{"title": "Ghost Trick - Phantom Detective"},
+			{"title": "Ghost Trick"}
+		],
+		"Girl Time - Everything You Need for a Hip, Happening Life!": [
+			{"title": "Girl Time - Everything You Need for a Hip, Happening Life!"},
+			{"title": "Element Girls"},
+			{"title": "Element Girls - Love, Fashion & Friends"}
+		],
+		"Glory Days 2": [
+			{"title": "Glory Days 2"},
+			{"title": "Glory Days - Yuugeki no Hero"}
+		],
+		"Glory of Heracles": [
+			{"title": "Glory of Heracles"},
+			{"title": "Heracles no Eikou - Tamashii no Shoumei"}
+		],
+		"Godzilla Unleashed - Double Smash": [
+			{"title": "Godzilla Unleashed - Double Smash"},
+			{"title": "Godzilla Unleashed"}
+		],
+		"Golden Compass, The": [
+			{"title": "Golden Compass, The"},
+			{"title": "Golden Compass, The - The Official Videogame"},
+			{"title": "Lyra no Bouken - Ougon no Rashinban"}
+		],
+		"Golden Sun - Dark Dawn": [
+			{"title": "Golden Sun - Dark Dawn"},
+			{"title": "Ougon no Taiyou - Shikkoku Naru Yoake"}
+		],
+		"GoldenEye - Rogue Agent": [
+			{"title": "GoldenEye - Rogue Agent"},
+			{"title": "GoldenEye - Au Service du Mal"},
+			{"title": "GoldenEye - Dark Agent DS"}
+		],
+		"Gourmet Chef - Cook Your Way to Fame": [
+			{"title": "Gourmet Chef - Cook Your Way to Fame"},
+			{"title": "Imagine - My Restaurant"}
+		],
+		"Grid": [
+			{"title": "Grid"},
+			{"title": "Race Driver - Grid"}
+		],
+		"Gunpey DS - Music x Puzzle": [
+			{"title": "Gunpey DS - Music x Puzzle"},
+			{"title": "Oto o Tsunagou! Gunpey-Rebirth"}
+		],
+		"Guru Guru": [
+			{"title": "Guru Guru"},
+			{"title": "Guruguru Nagetto"}
+		],
+		"Hamsterz Life": [
+			{"title": "Hamsterz Life"},
+			{"title": "Love Love Hamster"}
+		],
+		"Happy Bakery": [
+			{"title": "Happy Bakery"},
+			{"title": "Panpaka Panya-san"}
+		],
+		"Happy Cooking": [
+			{"title": "Happy Cooking"},
+			{"title": "Happy Cooking - Touch Pen de Tanoshiku Oryouri"},
+			{"title": "My Happy Kitchen"}
+		],
+		"Happy Feet Two": [
+			{"title": "Happy Feet Two"},
+			{"title": "Happy Feet 2"}
+		],
+		"Happy My Sweets": [
+			{"title": "Happy My Sweets"},
+			{"title": "Princess Bakery"}
+		],
+		"Harry Potter and the Goblet of Fire": [
+			{"title": "Harry Potter and the Goblet of Fire"},
+			{"title": "Harry Potter to Honoo no Goblet"}
+		],
+		"Harry Potter and the Half-Blood Prince": [
+			{"title": "Harry Potter and the Half-Blood Prince"},
+			{"title": "Harry Potter to Nazo no Prince"},
+			{"title": "Harry Potter und der Halbblut-Prinz"},
+			{"title": "Harry Potterwa Honhyeorwangja"}
+		],
+		"Harry Potter and the Order of the Phoenix": [
+			{"title": "Harry Potter and the Order of the Phoenix"},
+			{"title": "Harry Potter to Fushichou no Kishidan"}
+		],
+		"Harvest Moon DS": [
+			{"title": "Harvest Moon DS"},
+			{"title": "Bokujou Monogatari - Colobockle Station"},
+			{"title": "Mokjjangiyagi - Colobockle Station"}
+		],
+		"Harvest Moon DS - Grand Bazaar": [
+			{"title": "Harvest Moon DS - Grand Bazaar"},
+			{"title": "Bokujou Monogatari - Youkoso! Kaze no Bazaar e"}
+		],
+		"Harvest Moon DS - Island of Happiness": [
+			{"title": "Harvest Moon DS - Island of Happiness"},
+			{"title": "Bokujou Monogatari - Kimi to Sodatsu Shima"},
+			{"title": "Mokjjangiyagi - Neowa hamkke Jaraneun Seom"}
+		],
+		"Harvest Moon DS - Sunshine Islands": [
+			{"title": "Harvest Moon DS - Sunshine Islands"},
+			{"title": "Bokujou Monogatari - KiraKira Taiyou to Nakama-tachi"}
+		],
+		"Harvest Moon DS - The Tale of Two Towns": [
+			{"title": "Harvest Moon DS - The Tale of Two Towns"},
+			{"title": "Bokujou Monogatari - Futago no Mura"},
+			{"title": "Harvest Moon - The Tale of Two Towns"}
+		],
+		"Harvest Moon DS Cute": [
+			{"title": "Harvest Moon DS Cute"},
+			{"title": "Bokujou Monogatari - Colobockle Station for Girl"},
+			{"title": "Mokjjangiyagi - Colobockle Station for Girl"}
+		],
+		"Heavy Armor Brigade": [
+			{"title": "Heavy Armor Brigade"},
+			{"title": "Tank Beat 2 - Gekitotsu! Duits-gun vs. Rengougun"},
+			{"title": "Tank Beat 2 - Gyeokdol! Jeoncha Daejeon"}
+		],
+		"Hello Kitty - Daily": [
+			{"title": "Hello Kitty - Daily"},
+			{"title": "Mainichi Suteki! - Hello Kitty no Life Kit"}
+		],
+		"Hello Kitty - Party": [
+			{"title": "Hello Kitty - Party"},
+			{"title": "Happy Party with Hello Kitty & Friends!"},
+			{"title": "DS-PICO Series - Sanrio no Party e Ikou! - Oryouri, Oshare, Okaimono"}
+		],
+		"Hero's Saga - Laevatein Tactics": [
+			{"title": "Hero's Saga - Laevatein Tactics"},
+			{"title": "Eiyuu Senki - Laevatein"}
+		],
+		"Heroes of Mana": [
+			{"title": "Heroes of Mana"},
+			{"title": "Seiken Densetsu - Heroes of Mana"}
+		],
+		"Hi! Hamtaro - Ham-Ham Challenge": [
+			{"title": "Hi! Hamtaro - Ham-Ham Challenge"},
+			{"title": "Annyeong! Haemtori - Haemtoriwa BanggaBangga Chingudeul"},
+			{"title": "Tottoko Hamutaro Haai! - Ham-chans no Ham Ham Challenge! Atsumare Haai!"}
+		],
+		"Hidden Mysteries - Buckingham Palace - Secrets of Kings and Queens": [
+			{"title": "Hidden Mysteries - Buckingham Palace - Secrets of Kings and Queens"},
+			{"title": "Hidden Mysteries - Buckingham Palace"},
+			{"title": "Hidden Mysteries - Buckingham Palace - Auf den Spuren der Royals"}
+		],
+		"Hidden Mysteries - Salem Secrets - Witch Trials of 1692": [
+			{"title": "Hidden Mysteries - Salem Secrets - Witch Trials of 1692"},
+			{"title": "Hidden Mysteries - Salem Secrets"}
+		],
+		"Hidden Mysteries - Titanic": [
+			{"title": "Hidden Mysteries - Titanic"},
+			{"title": "Hidden Mysteries - Titanic - Secrets of the Fateful Voyage"}
+		],
+		"Hidden Objects - Mystery Stories": [
+			{"title": "Hidden Objects - Mystery Stories"},
+			{"title": "Hidden Objects - The Big Journey"},
+			{"title": "Mystery Stories"}
+		],
+		"HMH Vokabeltrainer - Englisch": [
+			{"title": "HMH Vokabeltrainer - Englisch"},
+			{"title": "Nathan Anglais - Methode Pratique"}
+		],
+		"Honeycomb Beat": [
+			{"title": "Honeycomb Beat"},
+			{"title": "Nounai Kakusei Honeycomb Beat"}
+		],
+		"Hop": [
+			{"title": "Hop"},
+			{"title": "Hop - The Movie"}
+		],
+		"Horse Life": [
+			{"title": "Horse Life"},
+			{"title": "Whitaker Family Presents, The - Horse Life"}
+		],
+		"Horse & Foal - My Riding Stables": [
+			{"title": "Horse & Foal - My Riding Stables"},
+			{"title": "Paard & Pony - Mijn Paardenstal"},
+			{"title": "Pferd & Pony - Mein Gestuet", "priority": 2},
+			{"compilation": "2 in 1 - My Riding Stables + My Riding Stables - Life with Horses", "title_position": 1},
+			{"compilation": "2 in 1 - My Riding Stables + My Western Horse", "title_position": 1},
+			{"compilation": "3 in 1 - Horses"},
+			{"compilation": "3 in 1 - My Riding Stables - Life with Horses + My Pet Hotel 2 & + My Pet School", "title_position": 1},
+			{"compilation": "3 in 1 - My Riding Stables + My Pet School + My Western Horse", "title_position": 1}
+		],
+		"Horse Life - Adventures": [
+			{"title": "Horse Life - Adventures"},
+			{"title": "Ellen Whitaker's Horse Life"}
+		],
+		"Horsez": [
+			{"title": "Horsez"},
+			{"title": "Pippa Funnell"}
+		],
+		"Hoshigami - Ruining Blue Earth - Remix": [
+			{"title": "Hoshigami - Ruining Blue Earth - Remix"},
+			{"title": "Hoshigami"}
+		],
+		"Hotel Deluxe - Greif nach den Sternen": [
+			{"title": "Hotel Deluxe - Greif nach den Sternen"},
+			{"title": "Hotel Deluxe"},
+			{"title": "Real Stories - Mon Hotel de Reve"}
+		],
+		"Hotel Dusk - Room 215": [
+			{"title": "Hotel Dusk - Room 215"},
+			{"title": "Hotel Duskui Bimil"},
+			{"title": "Wish Room - Tenshi no Kioku"}
+		],
+		"How to Train Your Dragon": [
+			{"title": "How to Train Your Dragon"},
+			{"title": "Drachenzaehmen Leicht Gemacht"}
+		],
+		"Hugo - Trollakademin 1 - Den Forsvunna Jatten": [
+			{"title": "Hugo - Trollakademin 1 - Den Forsvunna Jatten"},
+			{"title": "Hugo - Den forsvundne Kaempe"}
+		],
+		"Hugo - Trollakademin 2 - Jakten pa Kristallkartan": [
+			{"title": "Hugo - Trollakademin 2 - Jakten pa Kristallkartan"},
+			{"title": "Hugo - Kampen om Krystalkortet"}
+		],
+		"Hugo - Zauberei im Trollwald": [
+			{"title": "Hugo - Zauberei im Trollwald"},
+			{"title": "Hugo - Magic in the Trollwoods"}
+		],
+		"Huis Anubis, Het - Het Geheim van Osiris": [
+			{"title": "Huis Anubis, Het - Het Geheim van Osiris"},
+			{"title": "Haus Anubis, Das - Das Geheimnis des Osiris"}
+		],
+		"I Love Babies": [
+			{"title": "I Love Babies"},
+			{"title": "My Little Baby"},
+			{"compilation": "2 in 1 - My Little Baby + My Boyfriend", "title_position": 1}
+		],
+		"I Love Puppies": [
+			{"title": "I Love Puppies"},
+			{"title": "I Love Dogs - My Cute Puppies"}
+		],
+		"I Spy - Fun House": [
+			{"title": "I Spy - Fun House"},
+			{"compilation": "I Spy - Game Pack"}
+		],
+		"I Spy - Universe": [
+			{"title": "I Spy - Universe"},
+			{"compilation": "I Spy - Game Pack"}
+		],
+		"Ice Age - Dawn of the Dinosaurs": [
+			{"title": "Ice Age - Dawn of the Dinosaurs"},
+			{"title": "Era Glaciale 3, L' - L'Alba dei Dinosauri"},
+			{"title": "Ice Age 3 - Dawn of the Dinosaurs"}
+		],
+		"Ice Age 2 - The Meltdown": [
+			{"title": "Ice Age 2 - The Meltdown"},
+			{"title": "Ice Age 2"}
+		],
+		"Ice Age 4 - Continental Drift - Arctic Games": [
+			{"title": "Ice Age 4 - Continental Drift - Arctic Games"},
+			{"title": "Era Glaciale 4, L' - Continenti alla Deriva - Giochi Polari"}
+		],
+		"Imagine - Animal Doctor": [
+			{"title": "Imagine - Animal Doctor"},
+			{"title": "Imagine - Pet Vet"}
+		],
+		"Imagine - Animal Doctor Care Center": [
+			{"title": "Imagine - Animal Doctor Care Center"},
+			{"title": "Imagine - Rescue Vet"}
+		],
+		"Imagine - Babysitters": [
+			{"title": "Imagine - Babysitters"},
+			{"title": "Imagine - Baby Club"}
+		],
+		"Imagine - Babyz": [
+			{"title": "Imagine - Babyz"},
+			{"title": "Imagine - Babies"}
+		],
+		"Imagine - Babyz Fashion": [
+			{"title": "Imagine - Babyz Fashion"},
+			{"title": "Baby Fashion Star"}
+		],
+		"Imagine - Ballet Star": [
+			{"title": "Imagine - Ballet Star"},
+			{"title": "Imagine - Ballet Dancer"},
+			{"title": "Princess Ballerina - Yumemiru 4-nin no Prima Donna"}
+		],
+		"Imagine - Boutique Owner": [
+			{"title": "Imagine - Boutique Owner"},
+			{"title": "Imagine - My Boutique"}
+		],
+		"Imagine - Detective": [
+			{"title": "Imagine - Detective"},
+			{"title": "Imagine - Detective Adventures"}
+		],
+		"Imagine - Family Doctor": [
+			{"title": "Imagine - Family Doctor"},
+			{"title": "Imagine - Doctor"}
+		],
+		"Imagine - Fashion Designer - New York": [
+			{"title": "Imagine - Fashion Designer - New York"},
+			{"title": "Imagine - Fashion Model"}
+		],
+		"Imagine - Fashion Designer - World Tour": [
+			{"title": "Imagine - Fashion Designer - World Tour"},
+			{"title": "Girls Life - Fashion Addict"}
+		],
+		"Imagine - Fashion Stylist": [
+			{"title": "Imagine - Fashion Stylist"},
+			{"title": "Imagine - Fashion Paradise"}
+		],
+		"Imagine - Figure Skater": [
+			{"title": "Imagine - Figure Skater"},
+			{"title": "Figure Skating - Eunban wiui Yojeong"},
+			{"title": "KuruKuru Princess - Figure de KiraKira Koori no Angel"}
+		],
+		"Imagine - Gymnast": [
+			{"title": "Imagine - Gymnast"},
+			{"title": "Ener-G - Gym Rockets"}
+		],
+		"Imagine - Ice Champions": [
+			{"title": "Imagine - Ice Champions"},
+			{"title": "KuruKuru Princess - Yume no White Quartet"}
+		],
+		"Imagine - Makeup Artist": [
+			{"title": "Imagine - Makeup Artist"},
+			{"title": "Cosmetick Paradise - Make no Kiseki"},
+			{"title": "Make-up Paradise"}
+		],
+		"Imagine - Master Chef": [
+			{"title": "Imagine - Master Chef"},
+			{"title": "Edamoto Naomi no Shiawase Kitchen - Kakushi Aji wa Anata ga Kimete ne"},
+			{"title": "Imagine - Happy Cooking"}
+		],
+		"Imagine - Reporter": [
+			{"title": "Imagine - Reporter"},
+			{"title": "Imagine - Journalist"}
+		],
+		"Imagine - Resort Owner": [
+			{"title": "Imagine - Resort Owner"},
+			{"title": "Imagine - Dream Resort"}
+		],
+		"Imagine - Rock Star": [
+			{"title": "Imagine - Rock Star"},
+			{"title": "Imagine - Girl Band"}
+		],
+		"Imagine - Salon Stylist": [
+			{"title": "Imagine - Salon Stylist"},
+			{"title": "Imagine - Beauty Stylist"}
+		],
+		"Imagine - Sweet 16": [
+			{"title": "Imagine - Sweet 16"},
+			{"title": "Sweet 16"}
+		],
+		"Imagine - Teacher - Class Trip": [
+			{"title": "Imagine - Teacher - Class Trip"},
+			{"title": "Imagine - Teacher - School Trip"}
+		],
+		"Imagine - Wedding Designer": [
+			{"title": "Imagine - Wedding Designer"},
+			{"title": "Imagine - Dream Weddings"}
+		],
+		"Imagine - Zookeeper": [
+			{"title": "Imagine - Zookeeper"},
+			{"title": "Imagine - Wildlife Keeper"}
+		],
+		"Inazuma Eleven 2 - Blizzard": [
+			{"title": "Inazuma Eleven 2 - Blizzard"},
+			{"title": "Inazuma Eleven 2 - Bufera di Neve"},
+			{"title": "Inazuma Eleven 2 - Eissturm"},
+			{"title": "Inazuma Eleven 2 - Kyoui no Shinryakusha - Blizzard"},
+			{"title": "Inazuma Eleven 2 - Tempete de Glace"},
+			{"title": "Inazuma Eleven 2 - Ventisca Eterna"}
+		],
+		"Inazuma Eleven 2 - Firestorm": [
+			{"title": "Inazuma Eleven 2 - Firestorm"},
+			{"title": "Inazuma Eleven 2 - Feuersturm"},
+			{"title": "Inazuma Eleven 2 - Kyoui no Shinryakusha - Fire"},
+			{"title": "Inazuma Eleven 2 - Tempesta di Fuoco"},
+			{"title": "Inazuma Eleven 2 - Tempete de Feu"},
+			{"title": "Inazuma Eleven 2 - Tormenta de Fuego"}
+		],
+		"Incredibles, The - Rise of the Underminer": [
+			{"title": "Incredibles, The - Rise of the Underminer"},
+			{"title": "Mr. Incredible - Kyouteki Underminer Toujou"}
+		],
+		"Infinite Space": [
+			{"title": "Infinite Space"},
+			{"title": "Mugen Kouro"}
+		],
+		"Inkheart": [
+			{"title": "Inkheart"},
+			{"title": "Tintenherz"}
+		],
+		"Iron Man 2": [
+			{"title": "Iron Man 2"},
+			{"title": "Iron Man 2 - The Video Game"}
+		],
+		"Iron Master - The Legendary Blacksmith": [
+			{"title": "Iron Master - The Legendary Blacksmith"},
+			{"title": "Iron Master - Wanggugui Yusangwa Segaeui Yeolsoe"}
+		],
+		"Ivy the Kiwi": [
+			{"title": "Ivy the Kiwi"},
+			{"title": "Ivy the Kiwi - Tsuta ga Michibiku Monogatari."}
+		],
+		"Izuna - Legend of the Unemployed Ninja": [
+			{"title": "Izuna - Legend of the Unemployed Ninja"},
+			{"title": "Gouma Reifu Den Izuna"},
+			{"title": "Izuna - The Legend of the Ninja"}
+		],
+		"Izuna 2 - The Unemployed Ninja Returns": [
+			{"title": "Izuna 2 - The Unemployed Ninja Returns"},
+			{"title": "Gouma Reifu Den Izuna Ni"}
+		],
+		"J'Apprends l'Anglais CP-CM1": [
+			{"title": "J'Apprends l'Anglais CP-CM1"},
+			{"title": "Lernerfolg Grundschule - Englisch"}
+		],
+		"Jake Hunter Detective Story - Memories of the Past": [
+			{"title": "Jake Hunter Detective Story - Memories of the Past"},
+			{"title": "Tantei Jinguuji Saburou DS - Inishie no Kioku"}
+		],
+		"Jake Power - Fireman": [
+			{"title": "Jake Power - Fireman"},
+			{"title": "Jake Power - Firefighter"},
+			{"title": "Sam Power - Firefighter"}
+		],
+		"Jake Power - Handyman": [
+			{"title": "Jake Power - Handyman"},
+			{"title": "Sam Power - Handyman"}
+		],
+		"Jake Power - Policeman": [
+			{"title": "Jake Power - Policeman"},
+			{"title": "Sam Power - Policeman"}
+		],
+		"Jam Sessions - Sing and Play Guitar": [
+			{"title": "Jam Sessions - Sing and Play Guitar"},
+			{"title": "Jam Sessions - Sing & Play Guitar"},
+			{"title": "Hiite Utaeru DS Guitar 'M-06'"}
+		],
+		"Jam with the Band": [
+			{"title": "Jam with the Band"},
+			{"title": "Daigassou! Band-Brothers DX"}
+		],
+		"Jewel Link - Arctic Quest": [
+			{"title": "Jewel Link - Arctic Quest"},
+			{"title": "Yeti Quest - Crazy Penguins", "priority": 2}
+		],
+		"Jewel Link - Atlantic Quest": [
+			{"title": "Jewel Link - Atlantic Quest"},
+			{"title": "Atlantic Quest", "priority": 2},
+			{"compilation": "Jewel Link Double Pack"},
+			{"compilation": "Atlantic Quest + Galactic Quest"}
+		],
+		"Jewel Link - Galactic Quest": [
+			{"title": "Jewel Link - Galactic Quest"},
+			{"compilation": "Jewel Link Double Pack"},
+			{"compilation": "Atlantic Quest + Galactic Quest"}
+		],
+		"Jewel Link Mysteries - Mountains of Madness": [
+			{"title": "Jewel Link Mysteries - Mountains of Madness"},
+			{"title": "Mystery Stories - Mountains of Madness"}
+		],
+		"Jewel Master - Atlantis": [
+			{"title": "Jewel Master - Atlantis"},
+			{"title": "Jewel Link - Legends of Atlantis", "priority": 2}
+		],
+		"Jewel Master - Cradle of Athena": [
+			{"title": "Jewel Master - Cradle of Athena"},
+			{"title": "Jewel Link Chronicles - Legend of Athena"},
+			{"compilation": "3 Game Pack! - Cradle of Rome + Cradle of Athena + Cradle of Egypt", "title_position": 2}
+		],
+		"Jewel Master - Cradle of Rome 2": [
+			{"title": "Jewel Master - Cradle of Rome 2"},
+			{"title": "Cradle of Rome 2", "priority": 2}
+		],
+		"Jewel Master - Egypt": [
+			{"title": "Jewel Master - Egypt"},
+			{"title": "Jewel Master - Cradle of Egypt"},
+			{"compilation": "3 Game Pack! - Cradle of Rome + Cradle of Athena + Cradle of Egypt", "title_position": 3},
+			{"compilation": "Double Pack - Cradle of Rome + Cradle of Egypt", "title_position": 2}
+		],
+		"Jewel Match": [
+			{"title": "Jewel Match"},
+			{"compilation": "Jewel Match & 4 Elements", "title_position": 1}
+		],
+		"Jewel Quest - Mysteries": [
+			{"title": "Jewel Quest - Mysteries"},
+			{"title": "Jewel Quest - Mysteries - 2 Tolle Wimmelbild-Abenteuer"},
+			{"title": "Jewel Quest - Mysteries - Curse of the Emerald Tear", "priority": 2}
+		],
+		"Jewel Quest - Solitaire - Solitaire with a Twist!": [
+			{"title": "Jewel Quest - Solitaire - Solitaire with a Twist!"},
+			{"title": "Jewel Quest - Solitaire"}
+		],
+		"Jewel Quest - Solitaire Trio": [
+			{"title": "Jewel Quest - Solitaire Trio"},
+			{"title": "Jewel Quest - Solitaire - 3 Tolle Solitaire-Spiele"}
+		],
+		"John Deere - Harvest in the Heartland": [
+			{"title": "John Deere - Harvest in the Heartland"},
+			{"title": "Farm Life - Manage Your Own Farm"}
+		],
+		"Jojo's Fashion Show - Design in a Dash!": [
+			{"title": "Jojo's Fashion Show - Design in a Dash!"},
+			{"title": "Jojo's Fashion Show"}
+		],
+		"Josefin Skolhjalp - Engelska - Mystery in London": [
+			{"title": "Josefin Skolhjalp - Engelska - Mystery in London"},
+			{"title": "Josefiina Alkupolku - Englannin Kieli - Mysteeri Lontoossa"},
+			{"title": "Josefine Skolehjelp - Engelsk - Mystery in London"},
+			{"title": "Pixeline - Skole-hjaelp - Engelsk - Goes to London"}
+		],
+		"Josefin Skolhjalp - Matematik - Dimma over Sifferkoping": [
+			{"title": "Josefin Skolhjalp - Matematik - Dimma over Sifferkoping"},
+			{"title": "Josefiina Alkupolku - Matematiikka - Sumua Lukukylan ylla"},
+			{"title": "Josefine Skolehjelp - Matematikk - Taake i Tallheimen"},
+			{"title": "Pixeline - Skole-hjaelp - Matematik - Taager over Talstrup"}
+		],
+		"Josefin Skolhjalp - Lar Dig Stava - Stavning eller Kaos": [
+			{"title": "Josefin Skolhjalp - Lar Dig Stava - Stavning eller Kaos"},
+			{"title": "Josefine Skolehjelp - Laer a stave - Staving eller Kaos"},
+			{"title": "Pixeline - Skole-Hjaelp - Laer at Stave - Stavning eller Kaos"}
+		],
+		"Josefin Skolhjalp och Dromspegeln": [
+			{"title": "Josefin Skolhjalp och Dromspegeln"},
+			{"title": "Josefiina Alkupolku - Seikkailumaa - Unelmien peili"},
+			{"title": "Josefine og Droemmespeilet"},
+			{"title": "Pixeline og Droemmespejlet"}
+		],
+		"Josefine - Hotell Skrotenborg": [
+			{"title": "Josefine - Hotell Skrotenborg"},
+			{"title": "Pixeline - Hotel Skrottenborg"}
+		],
+		"Josefine - Jungelskatten": [
+			{"title": "Josefine - Jungelskatten"},
+			{"title": "Pixeline - Jungleskatten"}
+		],
+		"Josefine - Magi i Eventyrland": [
+			{"title": "Josefine - Magi i Eventyrland"},
+			{"title": "Pixeline - Magi i Pixieland"}
+		],
+		"Josefine Skolehjelp - Norsk - Kaos i Kommaby": [
+			{"title": "Josefine Skolehjelp - Norsk - Kaos i Kommaby"},
+			{"title": "Josefin Skolhjaelp - Svenska - Kaos i Kommakoeping"},
+			{"title": "Pixeline - Skole-hjaelp - Dansk - Kaos i Kommakoebing"}
+		],
+		"Junior Brain Trainer - Math Edition": [
+			{"title": "Junior Brain Trainer - Math Edition"},
+			{"title": "Junior Brain Trainer - Maths Edition"}
+		],
+		"Junior Classic Books & Fairytales": [
+			{"title": "Junior Classic Books & Fairytales"},
+			{"title": "Junior Classic Books"}
+		],
+		"Junior Mystery Quest": [
+			{"title": "Junior Mystery Quest"},
+			{"title": "Junior Mystery Stories"}
+		],
+		"Just Sing": [
+			{"title": "Just Sing"},
+			{"title": "Just Sing!"}
+		],
+		"Kaite, Shabette, Hajimeyou! - Monster Farm DS": [
+			{"title": "Kaite, Shabette, Hajimeyou! - Monster Farm DS"},
+			{"title": "Geurigo, Malhago, Sijakaja! - Monster Farm DS"}
+		],
+		"Kaizoku Sentai Gokaiger - Atsumete Henshin! 35 Sentai!": [
+			{"title": "Kaizoku Sentai Gokaiger - Atsumete Henshin! 35 Sentai!"},
+			{"title": "Paweo Reinjeo Kaeptin Poseu - Byeonsin! 35 Jeondae!"}
+		],
+		"Kalle Kunskap Matematik 4-8 ar": [
+			{"title": "Kalle Kunskap Matematik 4-8 ar"},
+			{"title": "Reader Rabbit - Math 4-8 yrs"}
+		],
+		"Kids Learn - 2Think - A+ Edition": [
+			{"title": "Kids Learn - 2Think - A+ Edition"},
+			{"title": "Think - Training fuer den Kopf - Kids - Ist Doch Logisch!"}
+		],
+		"Kids Learn - Math - A+ Edition": [
+			{"title": "Kids Learn - Math - A+ Edition"},
+			{"title": "GripsKids - Mathematik"}
+		],
+		"Kids Learn - Spelling and Grammar - A+ Edition": [
+			{"title": "Kids Learn - Spelling and Grammar - A+ Edition"},
+			{"title": "GripsKids - Deutsch"}
+		],
+		"Kilari - Deviens une Star": [
+			{"title": "Kilari - Deviens une Star"},
+			{"title": "Kirarin Revolution - Mezase Idol Queen"}
+		],
+		"Kilari - Na-san, Mon Meilleur Ami": [
+			{"title": "Kilari - Na-san, Mon Meilleur Ami"},
+			{"title": "Kirarin Revolution - Naa-san to Issho"}
+		],
+		"Kira Kira Pop Princess": [
+			{"title": "Kira Kira Pop Princess"},
+			{"title": "Pinky Street - Kirakira Music Hour"},
+			{"title": "Pinky Street - Kirakira Music Hour - Sinnaneun Dance Battle"}
+		],
+		"Kirby - Squeak Squad": [
+			{"title": "Kirby - Squeak Squad"},
+			{"title": "Byeorui Kirby - Dopang Ildangui Seupgyeok"},
+			{"title": "Hoshi no Kirby - Sanjou! Dorotche Dan"},
+			{"title": "Kirby - Mouse Attack"}
+		],
+		"Kirby - Canvas Curse": [
+			{"title": "Kirby - Canvas Curse"},
+			{"title": "Kirby - Power Paintbrush"},
+			{"title": "Touch! Kirby"}
+		],
+		"Kirby Mass Attack": [
+			{"title": "Kirby Mass Attack"},
+			{"title": "Atsumete! Kirby"},
+			{"title": "Moyeora! Kirby"}
+		],
+		"Kirby Super Star Ultra": [
+			{"title": "Kirby Super Star Ultra"},
+			{"title": "Hoshi no Kirby Ultra Super Deluxe"},
+			{"title": "Kirby Ultra Super Deluxe"}
+		],
+		"Kirikou et les Betes Sauvages": [
+			{"title": "Kirikou et les Betes Sauvages"},
+			{"title": "Kirikou and the Wild Beasts"}
+		],
+		"Konami Classics Series - Arcade Hits": [
+			{"title": "Konami Classics Series - Arcade Hits"},
+			{"title": "Konami Arcade Classics"},
+			{"title": "Konami Arcade Collection"}
+		],
+		"Korg DS-10+ Synthesizer": [
+			{"title": "Korg DS-10+ Synthesizer"},
+			{"title": "Korg DS-10+ Synthesizer Limited Edition", "priority": 2}
+		],
+		"KuruKuru Princess - Tokimeki Figure - Mezase! Vancouver": [
+			{"title": "KuruKuru Princess - Tokimeki Figure - Mezase! Vancouver"},
+			{"title": "Figure Princess - Dugeundugeun Skating - Geum-medaleul Noryeora!"}
+		],
+		"Kurupoto - Cool Cool Stars": [
+			{"title": "Kurupoto - Cool Cool Stars"},
+			{"title": "Kurupoto - Atama ni Piritto Supplement Puzzle"},
+			{"title": "Starz"}
+		],
+		"L.O.L.": [
+			{"title": "L.O.L."},
+			{"title": "Archime DS"},
+			{"title": "Bakushow - Challenge Your Friends!"}
+		],
+		"Labyrinth": [
+			{"title": "Labyrinth"},
+			{"title": "Mawashite Koron"}
+		],
+		"Lapin Malin - J'Apprends a Lire et a Ecrire": [
+			{"title": "Lapin Malin - J'Apprends a Lire et a Ecrire"},
+			{"title": "Robbie Konijn - Leer Lezen en Schrijven"}
+		],
+		"Last Window - The Secret of Cape West": [
+			{"title": "Last Window - The Secret of Cape West"},
+			{"title": "Last Window - Mayonaka no Yakusoku"}
+		],
+		"Learn Chess": [
+			{"title": "Learn Chess"},
+			{"title": "Je Decouvre les Echecs"},
+			{"title": "Schach & Matt"}
+		],
+		"Learn Geography": [
+			{"title": "Learn Geography"},
+			{"title": "Easy Learning - Discover Our World"}
+		],
+		"Learn Math": [
+			{"title": "Learn Math"},
+			{"title": "Learning Maths"},
+			{"title": "Lernerfolg Grundschule - Mathematik"},
+			{"title": "Successfully Learning Mathematics"}
+		],
+		"Learn Science": [
+			{"title": "Learn Science"},
+			{"title": "GripsKids - Sachkunde"}
+		],
+		"Learn with Pokemon - Typing Adventure": [
+			{"title": "Learn with Pokemon - Typing Adventure"},
+			{"title": "Apprends avec Pokemon A la Conquete du Clavier"},
+			{"title": "Aprende Con Pokemon - Aventura Entre Las Teclas"},
+			{"title": "Battle & Get! - Pokemon Typing DS"},
+			{"title": "Impara con Pokemon - Avventura Tra i Tasti"},
+			{"title": "Lernen mit Pokemon - Tasten-Abenteuer"}
+		],
+		"Learning To Spell": [
+			{"title": "Learning To Spell"},
+			{"title": "I Did It Mum! - Spelling"}
+		],
+		"Left Brain, Right Brain - Use Both Hands, Train Both Sides": [
+			{"title": "Left Brain, Right Brain - Use Both Hands, Train Both Sides"},
+			{"title": "Left or Right - Ambidextrous Challenge"},
+			{"title": "Ryoukiki Exercise - Riron no Migite to Kansei no Hidarite"},
+			{"title": "Yangsonui Darin"}
+		],
+		"Legend of Kage 2, The": [
+			{"title": "Legend of Kage 2, The"},
+			{"title": "Kage no Densetsu - The Legend of Kage 2"}
+		],
+		"Legend of Zelda, The - Phantom Hourglass": [
+			{"title": "Legend of Zelda, The - Phantom Hourglass"},
+			{"title": "Zelda no Densetsu - Mugen no Sunadokei"},
+			{"title": "Zeldaui Jeonseol - Monghwanui Moraesigye"}
+		],
+		"Legend of Zelda, The - Spirit Tracks": [
+			{"title": "Legend of Zelda, The - Spirit Tracks"},
+			{"title": "Zelda no Densetsu - Daichi no Kiteki"}
+		],
+		"Legendary Starfy, The": [
+			{"title": "Legendary Starfy, The"},
+			{"title": "Densetsu no Stafy - Taiketsu! Dile Kaizoku Dan"}
+		],
+		"LEGO Battles - Ninjago": [
+			{"title": "LEGO Battles - Ninjago"},
+			{"title": "LEGO Ninjago - The Videogame"}
+		],
+		"LEGO Marvel Super Heroes - Universe in Peril": [
+			{"title": "LEGO Marvel Super Heroes - Universe in Peril"},
+			{"title": "LEGO Marvel Super Heroes - L'Univers en Peril"}
+		],
+		"LEGO Star Wars - The Video Game": [
+			{"compilation": "LEGO Star Wars - The Complete Saga"}
+		],
+		"LEGO Star Wars II - The Original Trilogy": [
+			{"title": "LEGO Star Wars II - The Original Trilogy"},
+			{"compilation": "LEGO Star Wars - The Complete Saga"}
+		],
+		"Let's Draw!": [
+			{"title": "Let's Draw!"},
+			{"title": "1-nichi 10-pun de E ga Jouzu ni Kakeru DS"}
+		],
+		"Let's Pilates!": [
+			{"title": "Let's Pilates!"},
+			{"title": "Dokodemo Pilates"}
+		],
+		"Let's Play Ballerina": [
+			{"title": "Let's Play Ballerina"},
+			{"title": "Ballerina"}
+		],
+		"Let's Play Garden": [
+			{"title": "Let's Play Garden"},
+			{"title": "Play Gardens"}
+		],
+		"Let's Ride - Friends Forever": [
+			{"title": "Let's Ride - Friends Forever"},
+			{"title": "Best Friends - Mijn Paard"},
+			{"title": "Pferd & Pony - Best Friends - Mein Pferd"},
+			{"title": "Real Stories - Best Friends - Mon Poulain, Mon Cheval"},
+			{"compilation": "2 in 1 - My Pet School + Best Friends - My Horse", "title_position": 2},
+			{"compilation": "3 in 1 - Horses"}
+		],
+		"Let's Yoga!": [
+			{"title": "Let's Yoga!"},
+			{"title": "Dokodemo Yoga"}
+		],
+		"Life with Horses": [
+			{"compilation": "2 in 1 - My Riding Stables + My Riding Stables - Life with Horses", "title_position": 2},
+			{"compilation": "3 in 1 - Horses"}
+		],
+		"LifeSigns - Surgical Unit": [
+			{"title": "LifeSigns - Surgical Unit"},
+			{"title": "Kenshuui Tendo Dokuta 2 - Inochi no Tenbin"},
+			{"title": "LifeSigns - Hospital Affairs"}
+		],
+		"Line Rider 2 - Unbound": [
+			{"title": "Line Rider 2 - Unbound"},
+			{"title": "Line Rider - Freestyle"}
+		],
+		"Little Mermaid, The - Ariel's Undersea Adventure": [
+			{"title": "Little Mermaid, The - Ariel's Undersea Adventure"},
+			{"title": "Little Mermaid - Ariel no Umi no Takaramono"}
+		],
+		"Live Battle Card - Live On DS": [
+			{"title": "Live Battle Card - Live On DS"},
+			{"title": "Live-On Card Live-R DS"}
+		],
+		"Lock's Quest": [
+			{"title": "Lock's Quest"},
+			{"title": "Lock's Quest - Shinmai Archineer no Hyakunichi Sensou"}
+		],
+		"Looney Tunes - Cartoon Conductor": [
+			{"title": "Looney Tunes - Cartoon Conductor"},
+			{"title": "Looney Tunes - Cartoon Concerto"}
+		],
+		"Lost in Blue": [
+			{"title": "Lost in Blue"},
+			{"title": "Survival Kids - Lost in Blue"}
+		],
+		"Lost in Blue 2": [
+			{"title": "Lost in Blue 2"},
+			{"title": "Survival Kids - Lost in Blue 2"}
+		],
+		"Lost in Blue 3": [
+			{"title": "Lost in Blue 3"},
+			{"title": "Survival Kids - Chiisana Shima no Ookina Himitsu!"}
+		],
+		"Lovely Lisa": [
+			{"title": "Lovely Lisa"},
+			{"title": "Licca-chan DS - Onnanoko Lesson - Oshare mo Oshigoto mo Omakase!"}
+		],
+		"Lovely Lisa and Friends": [
+			{"title": "Lovely Lisa and Friends"},
+			{"title": "Licca-chan DS - Motto! Onnanoko Lesson - Oshare, Oshigoto, Otetsudai Daisuki!"}
+		],
+		"Lufia - Curse of the Sinistrals": [
+			{"title": "Lufia - Curse of the Sinistrals"},
+			{"title": "Estpolis - The Lands Cursed by the Gods"}
+		],
+		"Luminous Arc 2": [
+			{"title": "Luminous Arc 2"},
+			{"title": "Luminous Arc 2 - Will"}
+		],
+		"Lunar - Dragon Song": [
+			{"title": "Lunar - Dragon Song"},
+			{"title": "Lunar - Genesis"}
+		],
+		"Lunar Knights": [
+			{"title": "Lunar Knights"},
+			{"title": "Bokura no Taiyou - Django & Sabata"}
+		],
+		"Madagascar - Escape 2 Africa": [
+			{"title": "Madagascar - Escape 2 Africa"},
+			{"title": "Madagascar 2"}
+		],
+		"Madagascar 3": [
+			{"title": "Madagascar 3"},
+			{"title": "Madagascar 3 - Europe's Most Wanted"},
+			{"compilation": "Combo Pack - Madagascar 3 - Europe's Most Wanted + Croods, The - Prehistoric Party!", "title_position": 1}
+		],
+		"Madagascar Kartz": [
+			{"title": "Madagascar Kartz"},
+			{"compilation": "DreamWorks 2-in-1 Party Pack"}
+		],
+		"Magical Starsign": [
+			{"title": "Magical Starsign"},
+			{"title": "Magical Vacation - Itsutsu no Hoshi ga Narabu Toki"}
+		],
+		"Magical Zhu Zhu Princess - Carriages and Castles": [
+			{"title": "Magical Zhu Zhu Princess - Carriages and Castles"},
+			{"title": "ZhuZhu Princess"}
+		],
+		"Magician's Quest - Mysterious Times": [
+			{"title": "Magician's Quest - Mysterious Times"},
+			{"title": "Enchanted Folk and the School of Wizardry"},
+			{"title": "Tongari Boushi to Mahou no 365-nichi"}
+		],
+		"Magnetica": [
+			{"title": "Magnetica"},
+			{"title": "Actionloop"},
+			{"title": "Shunkan Puzz Loop"}
+		],
+		"Mahjong": [
+			{"title": "Mahjong"},
+			{"title": "Eindeloos Mahjong"}
+		],
+		"Mahjong - Eine Reise um die Welt": [
+			{"title": "Mahjong - Eine Reise um die Welt"},
+			{"title": "Eindeloos Mahjong 2 - Een Reis om de Wereld"}
+		],
+		"Mahjong Journey - Quest for Tikal": [
+			{"title": "Mahjong Journey - Quest for Tikal"},
+			{"title": "Mahjongg - Ancient Mayas"}
+		],
+		"Mahjongg Mysteries - Ancient Egypt": [
+			{"title": "Mahjongg Mysteries - Ancient Egypt"},
+			{"title": "Mahjong Mysteries - Ancient Egypt"},
+			{"title": "Mahjongg - Ancient Egypt", "priority": 2},
+			{"compilation": "2 Games in 1 - Jewel Master - Cradle of Egypt + Mahjongg - Ancient Egypt", "title_position": 2}
+		],
+		"Mais Ou Se Cache Carmen Sandiego - Mystere au Bout du Monde": [
+			{"title": "Mais Ou Se Cache Carmen Sandiego - Mystere au Bout du Monde"},
+			{"title": "Wo auf der Welt Ist Carmen Sandiego - Das Geheimnis am Ende der Welt"}
+		],
+		"Make 10 - A Journey of Numbers": [
+			{"title": "Make 10 - A Journey of Numbers"},
+			{"title": "Tashiten - Tashite 10 ni Suru Monogatari"}
+		],
+		"Mario & Luigi - Bowser's Inside Story": [
+			{"title": "Mario & Luigi - Bowser's Inside Story"},
+			{"title": "Mario & Luigi RPG 3 - Kupa Momsok Daemoheom"},
+			{"title": "Mario & Luigi RPG 3!!!"}
+		],
+		"Mario & Luigi - Partners in Time": [
+			{"title": "Mario & Luigi - Partners in Time"},
+			{"title": "Mario & Luigi RPG - Siganui Partner"},
+			{"title": "Mario & Luigi RPG 2x2"}
+		],
+		"Mario & Sonic at the Olympic Games": [
+			{"title": "Mario & Sonic at the Olympic Games"},
+			{"title": "Mario & Sonic at Beijing Olympic"},
+			{"title": "Mariowa Sonic - Beijing Olympic"}
+		],
+		"Mario & Sonic at the Olympic Winter Games": [
+			{"title": "Mario & Sonic at the Olympic Winter Games"},
+			{"title": "Mario & Sonic at Vancouver Olympic"},
+			{"title": "Mariowa Sonic - Vancouver Donggye-olympic"}
+		],
+		"Mario Hoops 3 on 3": [
+			{"title": "Mario Hoops 3 on 3"},
+			{"title": "Mario Basket 3 on 3"},
+			{"title": "Mario Slam Basketball"}
+		],
+		"Mario vs. Donkey Kong - Mini-Land Mayhem!": [
+			{"title": "Mario vs. Donkey Kong - Mini-Land Mayhem!"},
+			{"title": "Mario vs. Donkey Kong - Totsugeki! Mini-Land"}
+		],
+		"Mario vs. Donkey Kong 2 - March of the Minis": [
+			{"title": "Mario vs. Donkey Kong 2 - March of the Minis"},
+			{"title": "Mario vs. Donkey Kong 2 - MiniMini Daikoushin!"}
+		],
+		"Marvel Super Hero Squad": [
+			{"title": "Marvel Super Hero Squad"},
+			{"superset": "Marvel Super Hero Squad (Walmart Edition)"}
+		],
+		"Master of Illusion": [
+			{"title": "Master of Illusion"},
+			{"title": "Magic Made Fun - Perform Tricks That Will Amaze Your Friends!"},
+			{"title": "Magic Taizen"}
+		],
+		"Master of the Monster Lair": [
+			{"title": "Master of the Monster Lair"},
+			{"title": "Dungeon Maker"},
+			{"title": "Dungeon Maker - Mahou no Shovel to Chiisana Yuusha"}
+		],
+		"Master Jin Jin's IQ Challenge": [
+			{"title": "Master Jin Jin's IQ Challenge"},
+			{"title": "MinDStorm - Train Your Brain"},
+			{"title": "Zennou Series Vol. 01 - Akiyama Jin Kyouju Kanshuu - Zennou JinJin"}
+		],
+		"Matchstick": [
+			{"title": "Matchstick"},
+			{"title": "Matchstick Puzzle by DS"},
+			{"title": "Unou Kaiten - Match Bou Puzzle DS"}
+		],
+		"Maths Made Simple": [
+			{"title": "Maths Made Simple"},
+			{"title": "Indosik Dunoe Suhak"},
+			{"title": "Zennou Series Vol. 02 - Sakurai Susumu Sensei Kanshuu - India Shiki Keisan Zennou Drill"}
+		],
+		"Math Play": [
+			{"title": "Math Play"},
+			{"title": "Maths Play - Have Fun with Numbers!"},
+			{"title": "Sansuu Puzzle Game - Equal Card DS"}
+		],
+		"May's Mystery - Forbidden Memories": [
+			{"title": "May's Mystery - Forbidden Memories"},
+			{"title": "Aventures de May, Les - L'Etrange Disparition"},
+			{"title": "Geheimnis von Dragonville, Das - May's Mystery"},
+			{"title": "May's Mysteries - The Secret of Dragonville"}
+		],
+		"Maya": [
+			{"title": "Maya"},
+			{"title": "Maja"},
+			{"title": "Ape Maia, L'"}
+		],
+		"Mind Quiz - Your Brain Coach": [
+			{"title": "Mind Quiz - Your Brain Coach"},
+			{"title": "Nounenrei - Nou Stress Kei Atama Scan"}
+		],
+		"Mind. Body. Soul. - Nutrition Matters": [
+			{"title": "Mind. Body. Soul. - Nutrition Matters"},
+			{"title": "Tsuzuke Rarenai Otona no Tame no Metabo Dasshutsu Training"}
+		],
+		"MinDStorm 2": [
+			{"title": "MinDStorm 2"},
+			{"title": "Zennou Series Vol. 03 - Akiyama Jin Kyouju Kanshuu - Zennou JinJin 2"}
+		],
+		"Mission Runway": [
+			{"title": "Mission Runway"},
+			{"title": "America's Next Top Model"},
+			{"title": "Germany's Next Topmodel - Das Offizielle Spiel zur Show"},
+			{"title": "Hollands Supermodel - Win de Strijd op de Catwalk!"}
+		],
+		"Mister Slime": [
+			{"title": "Mister Slime"},
+			{"title": "Mr. Slime Jr."}
+		],
+		"Meet the Robinsons": [
+			{"title": "Meet the Robinsons"},
+			{"title": "Lewis to Mirai Dorobou - Wilbur no Kiken na Jikan Ryokou"}
+		],
+		"Mega Brain Boost": [
+			{"title": "Mega Brain Boost"},
+			{"title": "Shichidasik Unoedallyeon - Super Brain"},
+			{"title": "Unou Tanren Unotan DS - Shichida Shiki Otona no Shun Kan Training"}
+		],
+		"Mega Man Battle Network 5 - Double Team DS": [
+			{"title": "Mega Man Battle Network 5 - Double Team DS"},
+			{"title": "Rockman EXE 5 DS - Twin Leaders"}
+		],
+		"Mega Man Star Force - Dragon": [
+			{"title": "Mega Man Star Force - Dragon"},
+			{"title": "Ryuusei no Rockman - Dragon"}
+		],
+		"Mega Man Star Force - Leo": [
+			{"title": "Mega Man Star Force - Leo"},
+			{"title": "Ryuusei no Rockman - Leo"}
+		],
+		"Mega Man Star Force - Pegasus": [
+			{"title": "Mega Man Star Force - Pegasus"},
+			{"title": "Ryuusei no Rockman - Pegasus"}
+		],
+		"Mega Man Star Force 2 - Zerker x Ninja": [
+			{"title": "Mega Man Star Force 2 - Zerker x Ninja"},
+			{"title": "Ryuusei no Rockman 2 - Berserk x Shinobi"}
+		],
+		"Mega Man Star Force 2 - Zerker x Saurian": [
+			{"title": "Mega Man Star Force 2 - Zerker x Saurian"},
+			{"title": "Ryuusei no Rockman 2 - Berserk x Dinosaur"}
+		],
+		"Mega Man Star Force 3 - Black Ace": [
+			{"title": "Mega Man Star Force 3 - Black Ace"},
+			{"title": "Ryuusei no Rockman 3 - Black Ace"}
+		],
+		"Mega Man Star Force 3 - Red Joker": [
+			{"title": "Mega Man Star Force 3 - Red Joker"},
+			{"title": "Ryuusei no Rockman 3 - Red Joker"}
+		],
+		"Mega Man ZX": [
+			{"title": "Mega Man ZX"},
+			{"title": "Rockman ZX"}
+		],
+		"Mega Man ZX - Advent": [
+			{"title": "Mega Man ZX - Advent"},
+			{"title": "Rockman ZX - Advent"}
+		],
+		"Mega Man Zero Collection": [
+			{"title": "Mega Man Zero Collection"},
+			{"title": "Rockman Zero Collection"}
+		],
+		"Miami Law": [
+			{"title": "Miami Law"},
+			{"title": "Miami Crisis"}
+		],
+		"Midnight Mysteries - The Edgar Allan Poe Conspiracy": [
+			{"title": "Midnight Mysteries - The Edgar Allan Poe Conspiracy"},
+			{"title": "Midnight Mysteries - Gaensehaut Wimmelbild-Abenteuer mit Edgar Allan Poe"}
+		],
+		"Mijn Droomjob - Verpleegster": [
+			{"title": "Mijn Droomjob - Verpleegster"},
+			{"title": "Vie d'Emma, La - Infirmiere de Choc"},
+			{"title": "Vita di Emma, La - Professione Infermiera"}
+		],
+		"Mitsukete! Keroro Gunsou - Machigai Sagashi Daisakusen de Arimasu!": [
+			{"title": "Mitsukete! Keroro Gunsou - Machigai Sagashi Daisakusen de Arimasu!"},
+			{"title": "Chajara! Gaeguri Jungsa Keroro - Teullingeurimchatgi Daejakjeon!"}
+		],
+		"MLB Power Pros 2008": [
+			{"title": "MLB Power Pros 2008"},
+			{"title": "Power Pro Kun Pocket 10"}
+		],
+		"Mon Coach Personnel - J'Ameliore Mon Anglais": [
+			{"title": "Mon Coach Personnel - J'Ameliore Mon Anglais"},
+			{"title": "Mein Wortschatz-Coach - Englisch Lernen"},
+			{"title": "Mi Experto en Ingles - Mejora Tu Vocabulario Ingles"},
+			{"title": "Mio Coach, Il - Arricchisco il Mio Inglese"}
+		],
+		"Monster High - Ghoul Spirit (Little Orbit)": [
+			{"title": "Monster High - Ghoul Spirit (Little Orbit)"},
+			{"title": "Monster High - Ghoul Spirit", "priority": 2},
+			{"title": "Monster High - Ghoul Spirit (THQ)", "priority": 2}
+		],
+		"Monster Puzzle": [
+			{"title": "Monster Puzzle"},
+			{"title": "DS Chueogui Donghwa - Touch RO Puzzle"},
+			{"title": "Soroeru Puzzle Douwa Oukoku"}
+		],
+		"Monster Rancher DS": [
+			{"title": "Monster Rancher DS"},
+			{"title": "Monster Farm DS 2 - Yomigaeru! Master Breeder Densetsu"}
+		],
+		"Music - Music for Everyone": [
+			{"title": "Music - Music for Everyone"},
+			{"title": "Minna no DS Seminar - Kantan Ongaku Ryoku - Kiso kara Hajimeru Gakufu Nyuumon"}
+		],
+		"Music for Kids": [
+			{"title": "Music for Kids"},
+			{"compilation": "2 in 1 - Music for Kids + Englisch Macht Spass - Eine Reise nach London!", "title_position": 1}
+		],
+		"MX vs. ATV Untamed": [
+			{"title": "MX vs. ATV Untamed"},
+			{"title": "MX vs. ATV Extreme Limite"}
+		],
+		"My Amusement Park": [
+			{"title": "My Amusement Park"},
+			{"compilation": "2 Game Pack - My Amusement Park + Digging for Dinosaurs", "title_position": 1}
+		],
+		"My Baby Pet Hotel": [
+			{"compilation": "3 in 1 - Animals"}
+		],
+		"My Boyfriend": [
+			{"title": "My Boyfriend"},
+			{"compilation": "2 in 1 - My Little Baby + My Boyfriend", "title_position": 2}
+		],
+		"My Boyfriend (Summer of My Life)": [
+			{"title": "My Boyfriend (Summer of My Life)"},
+			{"title": "My Boyfriend - Der Sommer Meines Lebens"},
+			{"title": "Real Stories - Amoureux pour la Vie"}
+		],
+		"My Baby - Girl": [
+			{"title": "My Baby - Girl"},
+			{"title": "My Baby - Girl (Majesco)", "priority": 2}
+		],
+		"My Baby - First Steps": [
+			{"title": "My Baby - First Steps"},
+			{"title": "My Baby 2 - Boy & Girl"}
+		],
+		"My Ballet Studio": [
+			{"title": "My Ballet Studio"},
+			{"title": "Diva Girls - Diva Ballerina"}
+		],
+		"My Chinese Coach - Learn a New Language": [
+			{"title": "My Chinese Coach - Learn a New Language"},
+			{"title": "My Chinese Coach - Learn to Speak Chinese"}
+		],
+		"My English Coach": [
+			{"title": "My English Coach"},
+			{"title": "My English Coach para Hispanoparlantes - Ingles a Tu Alcance!"}
+		],
+		"My Fashion Studio": [
+			{"title": "My Fashion Studio"},
+			{"title": "Fashion Designer - Style Icon"}
+		],
+		"My French Coach - Learn a New Language": [
+			{"title": "My French Coach - Learn a New Language"},
+			{"title": "My French Coach - Level 1 - Learn to Speak French"}
+		],
+		"My French Coach - Level 2 - Improve Your French": [
+			{"title": "My French Coach - Level 2 - Improve Your French"},
+			{"title": "Mein Franzoesisch Coach - Verbessere Dein Franzoesisch"},
+			{"title": "Mi Experto en Frances - Mejora Tu Vocabulario Frances"}
+		],
+		"My Healthy Cooking Coach - Easy Way to Cook Healthy": [
+			{"title": "My Healthy Cooking Coach - Easy Way to Cook Healthy"},
+			{"title": "Mein Koch-Coach - Gesund und Lecker Kochen"},
+			{"title": "Mi Experto en Cocina - Comida Saludable"},
+			{"title": "Mio Coach di Cucina, Il - Prepara Cibi Sani e Gustosi"},
+			{"title": "Mon Coach Personnel - Mes Recettes Plaisir et Ligne"},
+			{"title": "My Cooking Coach - Prepare Healthy Recipes"}
+		],
+		"My Hero - Firefighter": [
+			{"title": "My Hero - Firefighter"},
+			{"title": "Let's Play Firemen"}
+		],
+		"My Horse & Me - Riding for Gold": [
+			{"title": "My Horse & Me - Riding for Gold"},
+			{"title": "My Horse & Me 2"}
+		],
+		"My Horse Club": [
+			{"title": "My Horse Club"},
+			{"title": "Real Stories - Mission Equitation"}
+		],
+		"My Japanese Coach - Learn a New Language": [
+			{"title": "My Japanese Coach - Learn a New Language"},
+			{"title": "My Japanese Coach - Learn to Speak Japanese"}
+		],
+		"My Pet Dolphin": [
+			{"title": "My Pet Dolphin"},
+			{"title": "I Love Dolphin"}
+		],
+		"My Pet School": [
+			{"title": "My Pet School"},
+			{"title": "Meine Tierschule"},
+			{"title": "Mijn Dierenschool"},
+			{"compilation": "2 in 1 - My Pet School + Best Friends - My Horse", "title_position": 1},
+			{"compilation": "3 in 1 - Animals"},
+			{"compilation": "3 in 1 - My Riding Stables - Life with Horses + My Pet Hotel 2 & + My Pet School", "title_position": 1},
+			{"compilation": "3 in 1 - My Riding Stables + My Pet School + My Western Horse", "title_position": 2}
+		],
+		"My Pet Shop": [
+			{"title": "My Pet Shop"},
+			{"title": "Pet Shop Monogatari DS"}
+		],
+		"My Spanish Coach - Learn a New Language": [
+			{"title": "My Spanish Coach - Learn a New Language"},
+			{"title": "My Spanish Coach - Level 1"}
+		],
+		"My Spanish Coach - Level 2 - Improve Your Spanish": [
+			{"title": "My Spanish Coach - Level 2 - Improve Your Spanish"},
+			{"title": "Mon Coach Personnel - J'Ameliore Mon Espagnol"}
+		],
+		"My Stop Smoking Coach with Allen Carr Easyway - Quit for Good": [
+			{"title": "My Stop Smoking Coach with Allen Carr Easyway - Quit for Good"},
+			{"title": "My Health Coach - Stop Smoking with Allen Carr"}
+		],
+		"My Vet Practice - In the Country": [
+			{"title": "My Vet Practice - In the Country"},
+			{"title": "Meine Tierarztpraxis - Einsatz auf dem Land"},
+			{"title": "Paws & Claws - Pet Vet 2"},
+			{"compilation": "Kids Learn & Play - Pets & Vets Bundle"},
+			{"compilation": "2 in 1 - My Pet Hotel + My Vet Practice - In the Country", "title_position": 2},
+			{"compilation": "2 in 1 - My Pet Hotel 2 + My Vet Practice - In the Country", "title_position": 2},
+			{"compilation": "3 in 1 - My Horse + My Vet Practice + My Vet Practice in the Country", "title_position": 2}
+		],
+		"My Weight Loss Coach - Improve Your Health": [
+			{"title": "My Weight Loss Coach - Improve Your Health"},
+			{"title": "My Health Coach - Manage Your Weight"}
+		],
+		"My Western Horse": [
+			{"compilation": "2 in 1 - My Riding Stables + My Western Horse", "title_position": 2},
+			{"compilation": "3 in 1 - Animals"},
+			{"compilation": "3 in 1 - My Riding Stables + My Pet School + My Western Horse", "title_position": 3}
+		],
+		"My Word Coach - Improve Your Vocabulary": [
+			{"title": "My Word Coach - Improve Your Vocabulary"},
+			{"title": "Mein Wortschatz-Coach - Verbessere Dein Ausdrucksvermoegen"},
+			{"title": "Mi Experto en Vocabulario"},
+			{"title": "Mio Coach, Il - Arricchisco il Mio Vocabolario"},
+			{"title": "Mon Coach Personnel - J'Enrichis Mon Vocabulaire"},
+			{"title": "My Word Coach - Develop Your Vocabulary"},
+			{"title": "My Word Coach - Verbeter Je Woordenschat"}
+		],
+		"My World, My Way": [
+			{"title": "My World, My Way"},
+			{"title": "Sekai wa Atashi de Mawatteru"}
+		],
+		"MySims": [
+			{"title": "MySims"},
+			{"title": "Boku to Sim no Machi - Resort ni Genki o Torimodosou!"}
+		],
+		"MySims - Agents": [
+			{"title": "MySims - Agents"},
+			{"title": "Boku to Sim no Machi - Agent - Nazo no Kaitou kara Hihou o Mamore Daisakusen!"}
+		],
+		"MySims - Kingdom": [
+			{"title": "MySims - Kingdom"},
+			{"title": "Boku to Sim no Machi - Kingdom"},
+			{"title": "MySims - Simdeurui Wangguk"}
+		],
+		"MySims - Party": [
+			{"title": "MySims - Party"},
+			{"title": "Boku to Sim no Machi - Party"}
+		],
+		"MySims - Racing": [
+			{"title": "MySims - Racing"},
+			{"title": "Boku to Sim no Machi - Racing"}
+		],
+		"Mysterious Case of Dr. Jekyll & Mr. Hyde, The": [
+			{"title": "Mysterious Case of Dr. Jekyll & Mr. Hyde, The"},
+			{"title": "Dr. Jekyll & Mr. Hyde - Enigmes & Objets Caches"}
+		],
+		"Mystery Dungeon - Shiren the Wanderer": [
+			{"title": "Mystery Dungeon - Shiren the Wanderer"},
+			{"title": "Fushigi no Dungeon - Fuurai no Shiren DS"}
+		],
+		"Mystery Quest - Curse of the Ancient Spirits": [
+			{"title": "Mystery Quest - Curse of the Ancient Spirits"},
+			{"title": "Ancient Spirits - Columbus' Legacy"},
+			{"title": "Mystery Stories - Curse of the Ancient Spirits", "priority": 2}
+		],
+		"Nanda's Island": [
+			{"title": "Nanda's Island"},
+			{"title": "Nandas Island"}
+		],
+		"Nanostray": [
+			{"title": "Nanostray"},
+			{"title": "Danshaku"}
+		],
+		"Nanpure 10000 Mon": [
+			{"title": "Nanpure 10000 Mon"},
+			{"title": "Meoriga Joajineun Sudoku 10000 Mun"}
+		],
+		"Naruto - Ninja Council 2 - European Version": [
+			{"title": "Naruto - Ninja Council 2 - European Version"},
+			{"title": "Naruto - Choegangninja Daegyeoljip DS"},
+			{"title": "Naruto - Saikyou Ninja Daikesshuu 3 for DS"}
+		],
+		"Naruto - Ninja Destiny": [
+			{"title": "Naruto - Ninja Destiny"},
+			{"title": "Naruto - Ninja Destiny - European Version"},
+			{"title": "Naruto - Shinobi Retsuden"}
+		],
+		"Naruto - Ninja Council 3": [
+			{"title": "Naruto - Ninja Council 3"},
+			{"title": "Naruto - Ninja Council - European Version"},
+			{"title": "Naruto - Saikyou Ninja Daikesshuu 4 DS"}
+		],
+		"Naruto - Path of the Ninja 2": [
+			{"title": "Naruto - Path of the Ninja 2"},
+			{"title": "Naruto RPG 3 - Reijuu vs Konoha Shoutai"}
+		],
+		"Naruto Shippuden - Ninja Destiny 2": [
+			{"title": "Naruto Shippuden - Ninja Destiny 2"},
+			{"title": "Naruto - Ninja Destiny II - European Version"},
+			{"title": "Naruto Shippuu Den - Shinobi Retsuden II"}
+		],
+		"Naruto Shippuden - Naruto vs Sasuke": [
+			{"title": "Naruto Shippuden - Naruto vs Sasuke"},
+			{"title": "Naruto Jilpungjeon - Choegangninja Daegyeoljip 2 - Gyeokttol!! Naruto vs Sasuke"},
+			{"title": "Naruto Shippuu Den - Saikyou Ninja Daikesshuu - Gekitotsu!! Naruto vs Sasuke"}
+		],
+		"Naruto Shippuden - Ninja Council 4": [
+			{"title": "Naruto Shippuden - Ninja Council 4"},
+			{"title": "Naruto Shippuden - Ninja Council 3 - European Version"},
+			{"title": "Naruto Shippuu Den - Saikyou Ninja Daikesshuu 5 - Kessen! 'Akatsuki'"}
+		],
+		"Naruto Shippuden - Shinobi Rumble!!": [
+			{"title": "Naruto Shippuden - Shinobi Rumble!!"},
+			{"title": "Naruto Jilpungjeon - Insuljeongae! Cha-Crash!!"},
+			{"title": "Naruto Shippuu Den - Ninjutsu Zenkai! Chaclash!!"}
+		],
+		"Naruto Shippuu Den - Dairansen! Kagebunshin Emaki": [
+			{"title": "Naruto Shippuu Den - Dairansen! Kagebunshin Emaki"},
+			{"title": "Naruto Jilpungjeon - Daenantu! Geurimja Bunsinsul"}
+		],
+		"National Geographic - Panda": [
+			{"title": "National Geographic - Panda"},
+			{"title": "Petz - My Baby Panda"},
+			{"title": "Panda-san Nikki"}
+		],
+		"Nervous Brickdown": [
+			{"title": "Nervous Brickdown"},
+			{"title": "Brickdown - Block Kuzushi no France Kakumei Yaa!"}
+		],
+		"Neves": [
+			{"title": "Neves"},
+			{"title": "Hamekomi Lucky Puzzle DS"}
+		],
+		"New Carnival Games": [
+			{"title": "New Carnival Games"},
+			{"title": "New Carnival - Funfair Games"}
+		],
+		"New Eitango Target 1900 DS": [
+			{"title": "New Eitango Target 1900 DS"},
+			{"title": "Jeoldaeuwi - Yeongdaneo 1900 DS"}
+		],
+		"New International Track & Field": [
+			{"title": "New International Track & Field"},
+			{"title": "New International Hyper Sports DS"}
+		],
+		"New Super Mario Bros.": [
+			{"title": "New Super Mario Bros."},
+			{"title": "New Chaoji Maliou Xiongdi"}
+		],
+		"New Touch Party Game": [
+			{"title": "New Touch Party Game"},
+			{"title": "Touch Game Party"}
+		],
+		"New Zealand Story Revolution": [
+			{"title": "New Zealand Story Revolution"},
+			{"title": "New Zealand Story DS"}
+		],
+		"Nickelodeon Dora and Friends' - Fantastic Flight": [
+			{"title": "Nickelodeon Dora and Friends' - Fantastic Flight"},
+			{"compilation": "Nickelodeon Team Umizoomi and Dora's Fantastic Flight", "title_position": 2}
+		],
+		"Nickelodeon Team - Umizoomi": [
+			{"title": "Nickelodeon Team - Umizoomi"},
+			{"compilation": "Nickelodeon Team Umizoomi and Dora's Fantastic Flight", "title_position": 1}
+		],
+		"Nicktoons - Attack of the Toybots": [
+			{"title": "Nicktoons - Attack of the Toybots"},
+			{"title": "SpongeBob SquarePants - SpongeBob to Nakama-tachi - Toybot no Kougeki"},
+			{"title": "SpongeBob und Seine Freunde - Angriff der Spielzeugroboter"}
+		],
+		"Nicola Kanshuu - Model Oshare Audition": [
+			{"title": "Nicola Kanshuu - Model Oshare Audition"},
+			{"title": "Jeongukmin Model Audition Superstar DS"}
+		],
+		"Nicktoons - Battle for Volcano Island": [
+			{"title": "Nicktoons - Battle for Volcano Island"},
+			{"title": "SpongeBob and Friends - Battle for Volcano Island"},
+			{"title": "SpongeBob SquarePants - SpongeBob to Nakama-tachi"}
+		],
+		"Nicktoons Unite!": [
+			{"title": "Nicktoons Unite!"},
+			{"title": "SpongeBob SquarePants and Friends Unite!"}
+		],
+		"Night at the Museum - Battle of the Smithsonian - The Video Game": [
+			{"title": "Night at the Museum - Battle of the Smithsonian - The Video Game"},
+			{"title": "Night at the Museum 2 - The Video Game"}
+		],
+		"Nine Hours, Nine Persons, Nine Doors": [
+			{"title": "Nine Hours, Nine Persons, Nine Doors"},
+			{"title": "Kyokugen Dasshutsu - 9-jikan, 9-nin, 9 no Tobira"}
+		],
+		"Nintendogs - Chihuahua & Friends": [
+			{"title": "Nintendogs - Chihuahua & Friends"},
+			{"title": "Nintendogs - Chihuahua & Chingudeul"}
+		],
+		"Nintendogs - Dachshund & Friends": [
+			{"title": "Nintendogs - Dachshund & Friends"},
+			{"title": "Nintendogs - Dachshund & Chingudeul"},
+			{"title": "Nintendogs - Miniature Dachshund & Friends"}
+		],
+		"Nintendogs - Lab & Friends": [
+			{"title": "Nintendogs - Lab & Friends"},
+			{"title": "Nintendogs - Labrador & Chingudeul"},
+			{"title": "Nintendogs - Labrador & Friends"},
+			{"title": "Nintendogs - Shiba & Friends"}
+		],
+		"Nostalgia": [
+			{"title": "Nostalgia"},
+			{"title": "Nostalgeo no Kaze"}
+		],
+		"Okamiden": [
+			{"title": "Okamiden"},
+			{"title": "Okamiden - Chiisaki Taiyou"}
+		],
+		"OMG 26 - Our Mini Games": [
+			{"title": "OMG 26 - Our Mini Games"},
+			{"title": "Houkago Mystery Club - 26 no Tobira"},
+			{"title": "Mystery Mansion"}
+		],
+		"Once upon a time... - Ugly Duckling": [
+			{"title": "Once upon a time... - Ugly Duckling"},
+			{"title": "Tales to Enjoy! - The Ugly Duckling"}
+		],
+		"Ontamarama": [
+			{"title": "Ontamarama"},
+			{"title": "Ontama - Onpu-tou Hen"}
+		],
+		"Original Rummikub, The - Brings People Together (Games Factory Online)": [
+			{"title": "Original Rummikub, The - Brings People Together (Games Factory Online)"},
+			{"title": "Original Rummikub, The - Brings People Together (DTP Entertainment AG)", "priority": 2}
+		],
+		"Otome-teki Koi Kakumei - Love Revo!! DS": [
+			{"title": "Otome-teki Koi Kakumei - Love Revo!! DS"},
+			{"title": "Sonyeojeok Yeonae Hyeongmyeong - Love Revo!! DS"}
+		],
+		"Over the Hedge": [
+			{"title": "Over the Hedge"},
+			{"title": "Ab durch die Hecke"},
+			{"title": "Gang del Bosco, La"},
+			{"title": "Nos Voisins, les Hommes"},
+			{"title": "Over the Hedge - Beesten bij de Buren"},
+			{"title": "Vecinos Invasores"}
+		],
+		"Pac'n Roll": [
+			{"title": "Pac'n Roll"},
+			{"title": "Pac'n Ball"}
+		],
+		"Paint by DS": [
+			{"title": "Paint by DS"},
+			{"title": "Kokoro o Yasumeru - Otona no Nurie DS"}
+		],
+		"Paint by DS - Classic Masterpieces": [
+			{"title": "Paint by DS - Classic Masterpieces"},
+			{"title": "Kokoro o Yasumeru - Otona no Nurie DS 2"}
+		],
+		"Paint by DS - Military Vehicles": [
+			{"title": "Paint by DS - Military Vehicles"},
+			{"title": "Kokoro ga Mezameru - Otoko-tachi no Nurie DS - Tamiya Box Art"}
+		],
+		"Party Carnival": [
+			{"title": "Party Carnival"},
+			{"title": "Simple DS Series Vol. 6 - The Party Game"}
+		],
+		"Pawly Pets - My Pet Hotel": [
+			{"title": "Pawly Pets - My Pet Hotel"},
+			{"title": "Meine Tierpension"},
+			{"title": "Mijn Dierenpension"},
+			{"compilation": "2 in 1 - My Pet Hotel + My Vet Practice - In the Country", "title_position": 1}
+		],
+		"Paws & Claws - Best Friends - Dogs & Cats": [
+			{"title": "Paws & Claws - Best Friends - Dogs & Cats"},
+			{"title": "Best Friends - Hunde & Katzen"},
+			{"title": "Best Friends - Mijn Honden en Katten"},
+			{"title": "My Best Friends - Cats & Dogs"}
+		],
+		"Paws & Claws - Marine Rescue": [
+			{"title": "Paws & Claws - Marine Rescue"},
+			{"title": "Meine Tierarztpraxis - SOS am Ozean"}
+		],
+		"Paws & Claws - Pampered Pets": [
+			{"title": "Paws & Claws - Pampered Pets"},
+			{"title": "Mein Beautyhotel fuer Tiere"},
+			{"title": "My Pet Beauty Salon"}
+		],
+		"Paws & Claws - Pampered Pets 2": [
+			{"title": "Paws & Claws - Pampered Pets 2"},
+			{"title": "VIPs - Very Important Pets"}
+		],
+		"Paws & Claws - Pet Resort": [
+			{"title": "Paws & Claws - Pet Resort"},
+			{"title": "Meine Tierpension 2"},
+			{"title": "Mijn Dierenpension 2"},
+			{"title": "My Pet Hotel 2"},
+			{"compilation": "Kids Learn & Play - Pets & Vets Bundle"},
+			{"compilation": "2 in 1 - My Pet Hotel 2 + My Vet Practice - In the Country", "title_position": 1},
+			{"compilation": "2 in 1 - My Vet Practice + My Pet Hotel 2", "title_postion": 2},
+			{"compilation": "3 in 1 - My Riding Stables - Life with Horses + My Pet Hotel 2 & + My Pet School", "title_position": 1}
+		],
+		"Paws & Claws - Pet Vet": [
+			{"title": "Paws & Claws - Pet Vet"},
+			{"title": "Meine Tierarztpraxis"},
+			{"title": "Mijn Dierenpraktijk"},
+			{"title": "Pawly Pets - My Vet Practice"},
+			{"compilation": "2 in 1 - My Vet Practice + My Pet Hotel 2", "title_postion": 1},
+			{"compilation": "3 in 1 - My Vet Practice & Riding Star & My Vet Practice in Australia", "title_position": 1}
+		],
+		"Paws & Claws - Pet Vet - Australian Adventures": [
+			{"title": "Paws & Claws - Pet Vet - Australian Adventures"},
+			{"title": "Meine Tierarztpraxis in Australien"},
+			{"title": "My Vet Practice - In Australia"},
+			{"title": "Real Stories - Veterinaire - Mission Australie"},
+			{"compilation": "3 in 1 - My Vet Practice & Riding Star & My Vet Practice in Australia", "title_position": 3}
+		],
+		"Paws & Claws - Regal Resort": [
+			{"title": "Paws & Claws - Regal Resort"},
+			{"title": "Meine Tierpension - Tapsige Tierbabys"}
+		],
+		"PDC World Championship Darts": [
+			{"title": "PDC World Championship Darts"},
+			{"title": "PDC World Championship Darts - The Official Video Game"}
+		],
+		"Percy Jackson and the Olympians - The Lightning Thief": [
+			{"title": "Percy Jackson and the Olympians - The Lightning Thief"},
+			{"title": "Percy Jackson & the Lightning Thief"}
+		],
+		"Personal Fitness for Men": [
+			{"title": "Personal Fitness for Men"},
+			{"title": "Personal Trainer DS for Men"}
+		],
+		"Personal Fitness for Women": [
+			{"title": "Personal Fitness for Women"},
+			{"title": "Personal Trainer DS for Women"}
+		],
+		"Personal Trainer - Cooking": [
+			{"title": "Personal Trainer - Cooking"},
+			{"title": "Cocina Conmigo! - Que Preparamos Hoy"},
+			{"title": "Cooking Guide - Can't Decide What to Eat"},
+			{"title": "Guida in Cucina, La - Che Si Mangia Oggi"},
+			{"title": "Kochkurs - Was Wollen Wir Heute Kochen"},
+			{"title": "Lecons de Cuisine - Qu'Allons-Nous Manger Aujourd'hui"},
+			{"title": "Sekai no Gohan - Shaberu! DS Oryouri Navi"}
+		],
+		"Personal Trainer - Math": [
+			{"title": "Personal Trainer - Math"},
+			{"title": "DS Kageyama Method Dennou Hanpuku - Masu x Masu Hyaku Masu Keisan"},
+			{"title": "Gijeogui 100-kan Gyesanbeop"},
+			{"title": "Professor Kageyama's Maths Training - The Hundred Cell Calculation Method"}
+		],
+		"Personal Trainer - Walking": [
+			{"title": "Personal Trainer - Walking"},
+			{"title": "Aruite Wakaru - Seikatsu Rhythm DS"},
+			{"title": "Walk with Me!"}
+		],
+		"Pet Adoption Center": [
+			{"title": "Pet Adoption Center"},
+			{"title": "Emily - My Animal Shelter"},
+			{"title": "My Own Pet Shelter"}
+		],
+		"Pet Alien - An Intergalactic Puzzlepalooza": [
+			{"title": "Pet Alien - An Intergalactic Puzzlepalooza"},
+			{"title": "Pet Alien"}
+		],
+		"Pet Pals - Animal Doctor": [
+			{"title": "Pet Pals - Animal Doctor"},
+			{"title": "Real Adventures - Pet Vet"}
+		],
+		"Pet Vet - Down Under": [
+			{"title": "Pet Vet - Down Under"},
+			{"title": "My Animal Centre in Australia"}
+		],
+		"Petz - Bunnyz": [
+			{"title": "Petz - Bunnyz"},
+			{"title": "Bunnyz"}
+		],
+		"Petz - Catz 2": [
+			{"title": "Petz - Catz 2"},
+			{"title": "Catz 2"},
+			{"title": "Catz 2 - Daisuki Nyan Nyan Park"}
+		],
+		"Petz - Catz Clan": [
+			{"title": "Petz - Catz Clan"},
+			{"title": "Petz - Catz - Koneko to Issho ni Tanoshiku Asobou"},
+			{"title": "Petz - My Kitten Family"}
+		],
+		"Petz - Dogz 2": [
+			{"title": "Petz - Dogz 2"},
+			{"title": "Dogz 2"},
+			{"title": "Oheya o Kazarou - Koinu no Heya"}
+		],
+		"Petz - Dogz Fashion": [
+			{"title": "Petz - Dogz Fashion"},
+			{"title": "Fashion Dogz"},
+			{"title": "Oshare na Koinu DS"}
+		],
+		"Petz - Dogz Pack": [
+			{"title": "Petz - Dogz Pack"},
+			{"title": "Petz - Dogz - Koinu to Issho ni Tanoshiku Asobou"},
+			{"title": "Petz - My Puppy Family"}
+		],
+		"Petz - Dogz Talent Show": [
+			{"title": "Petz - Dogz Talent Show"},
+			{"title": "Petz - Dog Superstar"}
+		],
+		"Petz - Dolphinz Encounter": [
+			{"title": "Petz - Dolphinz Encounter"},
+			{"title": "Dolphin Island - Underwater Adventures"}
+		],
+		"Petz - Hamsterz Life 2": [
+			{"title": "Petz - Hamsterz Life 2"},
+			{"title": "Hamsterz 2"},
+			{"title": "Hamster to Kurasou"}
+		],
+		"Petz - Hamsterz Superstars": [
+			{"title": "Petz - Hamsterz Superstars"},
+			{"title": "Petz - Hamster Superstar"}
+		],
+		"Petz - Horseshoe Ranch": [
+			{"title": "Petz - Horseshoe Ranch"},
+			{"title": "Petz - Horsez - Kouma to Issho ni Tanoshiku Asobou"},
+			{"title": "Petz - My Horse Family"}
+		],
+		"Petz - Horsez 2": [
+			{"title": "Petz - Horsez 2"},
+			{"title": "Pippa Funnell 2 - Farm Adventures"}
+		],
+		"Petz - Horsez Family": [
+			{"title": "Petz - Horsez Family"},
+			{"title": "Imagine - Champion Rider"}
+		],
+		"Petz - Monkeyz House": [
+			{"title": "Petz - Monkeyz House"},
+			{"title": "Petz - Monkeyz - Osaru to Issho ni Tanoshiku Asobou"},
+			{"title": "Petz - My Monkey Family"}
+		],
+		"Petz - Nursery 2": [
+			{"title": "Petz - Nursery 2"},
+			{"title": "Petz - Playschool"}
+		],
+		"Petz - Pony Beauty Pageant": [
+			{"title": "Petz - Pony Beauty Pageant"},
+			{"title": "Petz - Pony Club"}
+		],
+		"Petz - Wild Animals - Dolphinz": [
+			{"title": "Petz - Wild Animals - Dolphinz"},
+			{"title": "Dolphin Island"}
+		],
+		"Petz - Wild Animals - Tigerz": [
+			{"title": "Petz - Wild Animals - Tigerz"},
+			{"title": "Tigerz"}
+		],
+		"Petz Fantasy - Sunshine Magic": [
+			{"title": "Petz Fantasy - Sunshine Magic"},
+			{"title": "Petz - Fantasy"}
+		],
+		"Petz Fashion - Dogz & Catz": [
+			{"title": "Petz Fashion - Dogz & Catz"},
+			{"title": "Petz - Fashion Stars"}
+		],
+		"Petz Rescue - Endangered Paradise": [
+			{"title": "Petz Rescue - Endangered Paradise"},
+			{"title": "Planet Rescue - Endangered Island"}
+		],
+		"Petz Rescue - Ocean Patrol": [
+			{"title": "Petz Rescue - Ocean Patrol"},
+			{"title": "Planet Rescue - Ocean Patrol"}
+		],
+		"Petz Rescue - Wildlife Vet": [
+			{"title": "Petz Rescue - Wildlife Vet"},
+			{"title": "Planet Rescue - Animal Emergency"}
+		],
+		"Pferd & Pony - Die Reitakademie": [
+			{"title": "Pferd & Pony - Die Reitakademie"},
+			{"title": "Cavallo & Pony - La Scuola di Equitazione"},
+			{"title": "Real Stories - Cheval Academy"}
+		],
+		"Phoenix Wright - Ace Attorney": [
+			{"title": "Phoenix Wright - Ace Attorney"},
+			{"title": "Gyakuten Saiban - Yomigaeru Gyakuten"}
+		],
+		"Phoenix Wright - Ace Attorney - Justice for All": [
+			{"title": "Phoenix Wright - Ace Attorney - Justice for All"},
+			{"title": "Gyakuten Saiban 2"}
+		],
+		"Phoenix Wright - Ace Attorney - Trials and Tribulations": [
+			{"title": "Phoenix Wright - Ace Attorney - Trials and Tribulations"},
+			{"title": "Gyakuten Saiban 3"}
+		],
+		"Pic Pic": [
+			{"title": "Pic Pic"},
+			{"title": "Pic Pic - Toku to E ni Naru 3-tsu no Puzzle"}
+		],
+		"Picross 3D": [
+			{"title": "Picross 3D"},
+			{"title": "Rittai Picross"}
+		],
+		"PictoImage": [
+			{"title": "PictoImage"},
+			{"title": "Picto Image DS"},
+			{"title": "PictoImage - Sketch and Guess on Your DS!"}
+		],
+		"Pinkalicious - It's Party Time!": [
+			{"title": "Pinkalicious - It's Party Time!"},
+			{"compilation": "2-Pack - Pinkalicious - It's Party Time! & Silverlicious - Sweet Adventure", "title_position": 1}
+		],
+		"Pipe Mania": [
+			{"title": "Pipe Mania"},
+			{"title": "Tsunagete! Pipe Mania"}
+		],
+		"Pirates of the Caribbean - At World's End": [
+			{"title": "Pirates of the Caribbean - At World's End"},
+			{"title": "Piraty Karibskogo Morja - Na Kraju Sveta"}
+		],
+		"Planet Puzzle League": [
+			{"title": "Planet Puzzle League"},
+			{"title": "Panel de Pon DS"},
+			{"title": "Puzzle League DS"}
+		],
+		"Plants vs. Zombies": [
+			{"title": "Plants vs. Zombies"},
+			{"title": "Plants vs. Zombies (MSL)", "priority": 2},
+			{"title": "Plants vs. Zombies (Rondomedia)", "priority": 3}
+		],
+		"Playmobil Interactive - Knights": [
+			{"title": "Playmobil Interactive - Knights"},
+			{"title": "Playmobil Interactive - Knight - Hero of the Kingdom"}
+		],
+		"Playmobil Interactive - Pirates": [
+			{"title": "Playmobil Interactive - Pirates"},
+			{"title": "Pirates - Boarding!"}
+		],
+		"Pocket Book - My Personal Diary": [
+			{"title": "Pocket Book - My Personal Diary"},
+			{"title": "Emily - My Personal Diary", "priority": 2}
+		],
+		"Point Blank DS": [
+			{"title": "Point Blank DS"},
+			{"title": "Unou no Tatsujin - GunBulleTrainer"}
+		],
+		"Pokemon - Black Version": [
+			{"title": "Pokemon - Black Version"},
+			{"title": "Pocket Monsters - Black"},
+			{"title": "Pokemon - Edicion Negra"},
+			{"title": "Pokemon - Schwarze Edition"},
+			{"title": "Pokemon - Version Noire"},
+			{"title": "Pokemon - Versione Nera"}
+		],
+		"Pokemon - Black": [
+			{"title": "Pokemon - Black"},
+			{"title": "Pocket Monsters - Black 2"},
+			{"title": "Pokemon - Edicion Negra 2"},
+			{"title": "Pokemon - Schwarze Edition 2"},
+			{"title": "Pokemon - Version Noire 2"},
+			{"title": "Pokemon - Versione Nera 2"}
+		],
+		"Pokemon - Diamond Version": [
+			{"title": "Pokemon - Diamond Version"},
+			{"title": "Pocket Monsters - Diamond"},
+			{"title": "Pocket Monsters DP - Dialga"},
+			{"title": "Pokemon - Diamant-Edition"},
+			{"title": "Pokemon - Edicion Diamante"},
+			{"title": "Pokemon - Version Diamant"},
+			{"title": "Pokemon - Versione Diamante"}
+		],
+		"Pokemon - HeartGold Version": [
+			{"title": "Pokemon - HeartGold Version"},
+			{"title": "Pocket Monsters - HeartGold"},
+			{"title": "Pokemon - Edicion Oro HeartGold"},
+			{"title": "Pokemon - Goldene Edition HeartGold"},
+			{"title": "Pokemon - Version Or HeartGold"},
+			{"title": "Pokemon - Versione Oro HeartGold"}
+		],
+		"Pokemon - Pearl Version": [
+			{"title": "Pokemon - Pearl Version"},
+			{"title": "Pocket Monsters - Pearl"},
+			{"title": "Pocket Monsters DP - Palkia"},
+			{"title": "Pokemon - Edicion Perla"},
+			{"title": "Pokemon - Perl-Edition"},
+			{"title": "Pokemon - Version Perle"},
+			{"title": "Pokemon - Versione Perla"}
+		],
+		"Pokemon - Platinum Version": [
+			{"title": "Pokemon - Platinum Version"},
+			{"title": "Pocket Monsters - Platinum"},
+			{"title": "Pocket Monsters Pt - Giratina"},
+			{"title": "Pokemon - Edicion Platino"},
+			{"title": "Pokemon - Platin-Edition"},
+			{"title": "Pokemon - Version Platine"},
+			{"title": "Pokemon - Versione Platino"}
+		],
+		"Pokemon - SoulSilver Version": [
+			{"title": "Pokemon - SoulSilver Version"},
+			{"title": "Pocket Monsters - SoulSilver"},
+			{"title": "Pokemon - Edicion Plata SoulSilver"},
+			{"title": "Pokemon - Silberne Edition SoulSilver"},
+			{"title": "Pokemon - Version Argent SoulSilver"},
+			{"title": "Pokemon - Versione Argento SoulSilver"}
+		],
+		"Pokemon - White Version": [
+			{"title": "Pokemon - White Version"},
+			{"title": "Pocket Monsters - White"},
+			{"title": "Pokemon - Edicion Blanca"},
+			{"title": "Pokemon - Version Blanche"},
+			{"title": "Pokemon - Versione Bianca"},
+			{"title": "Pokemon - Weisse Edition"}
+		],
+		"Pokemon - White": [
+			{"title": "Pokemon - White"},
+			{"title": "Pocket Monsters - White 2"},
+			{"title": "Pokemon - Edicion Blanca 2"},
+			{"title": "Pokemon - Version Blanche 2"},
+			{"title": "Pokemon - Versione Bianca 2"},
+			{"title": "Pokemon - Weisse Edition 2"}
+		],
+		"Pokemon Conquest": [
+			{"title": "Pokemon Conquest"},
+			{"title": "Pokemon Plus Nobunaga no Yabou"}
+		],
+		"Pokemon Mystery Dungeon - Blue Rescue Team": [
+			{"title": "Pokemon Mystery Dungeon - Blue Rescue Team"},
+			{"title": "Pokemon Bulgasaui Dungeon - Parang Gujodae"},
+			{"title": "Pokemon Fushigi no Dungeon - Ao no Kyuujotai"}
+		],
+		"Pokemon Mystery Dungeon - Explorers of Darkness": [
+			{"title": "Pokemon Mystery Dungeon - Explorers of Darkness"},
+			{"title": "Pokemon Bulgasaui Dungeon - Eodumui Tamheomdae"},
+			{"title": "Pokemon Fushigi no Dungeon - Yami no Tankentai"}
+		],
+		"Pokemon Mystery Dungeon - Explorers of Sky": [
+			{"title": "Pokemon Mystery Dungeon - Explorers of Sky"},
+			{"title": "Pokemon Fushigi no Dungeon - Sora no Tankentai"}
+		],
+		"Pokemon Mystery Dungeon - Explorers of Time": [
+			{"title": "Pokemon Mystery Dungeon - Explorers of Time"},
+			{"title": "Pokemon Bulgasaui Dungeon - Siganui Tamheomdae"},
+			{"title": "Pokemon Fushigi no Dungeon - Toki no Tankentai"}
+		],
+		"Pokemon Ranger - Guardian Signs": [
+			{"title": "Pokemon Ranger - Guardian Signs"},
+			{"title": "Pokemon Ranger - Hikari no Kiseki"}
+		],
+		"Pokemon Ranger - Shadows of Almia": [
+			{"title": "Pokemon Ranger - Shadows of Almia"},
+			{"title": "Pokemon Ranger - Batonnage"}
+		],
+		"Pokemon Trozei!": [
+			{"title": "Pokemon Trozei!"},
+			{"title": "Pokemon Link!"},
+			{"title": "Pokemon Toroje"},
+			{"title": "Pokemon Torouze"}
+		],
+		"PokerDome Poker Master - No Limit Texas Hold'em Poker": [
+			{"title": "PokerDome Poker Master - No Limit Texas Hold'em Poker"},
+			{"title": "Partouche Poker Tour - Poker Texas Hold'em No Limit"},
+			{"title": "Poker Training"},
+			{"title": "Veronica Poker"}
+		],
+		"Polarium": [
+			{"title": "Polarium"},
+			{"title": "Chokkan Hitofude"},
+			{"title": "Zhigan Yi Bi"}
+		],
+		"Pony Friends": [
+			{"title": "Pony Friends"},
+			{"title": "Watashi no Pony"}
+		],
+		"Pop Cutie! - Street Fashion Simulation": [
+			{"title": "Pop Cutie! - Street Fashion Simulation"},
+			{"title": "That's QT"}
+		],
+		"Pop Town": [
+			{"title": "Pop Town"},
+			{"title": "Pinky Street - Kirakira Music Night"}
+		],
+		"Power Pro Kun Pocket 9": [
+			{"title": "Power Pro Kun Pocket 9"},
+			{"title": "Powerful Pro-yagu Begins"}
+		],
+		"Powerplay Tennis": [
+			{"title": "Powerplay Tennis"},
+			{"title": "Tennis Masters"}
+		],
+		"Practise English!": [
+			{"title": "Practise English!"},
+			{"title": "Eigo ga Nigate na Otona no DS Training - Motto Eigo Zuke"},
+			{"title": "Sarainneun Yeongeoro Ganghaejineun Siljeon! - DS Yeongeo Sammaegyeong"}
+		],
+		"Prey the Stars": [
+			{"title": "Prey the Stars"},
+			{"title": "Gabu Gabu Planet"},
+			{"title": "Prey the Stars - Gabu Gabu Planet"}
+		],
+		"Princess Debut": [
+			{"title": "Princess Debut"},
+			{"title": "Isanghan Naraui Princess"},
+			{"title": "Ohimesama Debut"},
+			{"title": "Princess Debut - The Royal Ball"}
+		],
+		"Princess and the Frog, The": [
+			{"title": "Princess and the Frog, The"},
+			{"superset": "Princess and the Frog, The - Taste of New Orleans Edition"}
+		],
+		"Princess Isabella - A Witch's Curse": [
+			{"title": "Princess Isabella - A Witch's Curse"},
+			{"title": "Princess Isabella - Witch's Curse"}
+		],
+		"Prism - Light the Way": [
+			{"title": "Prism - Light the Way"},
+			{"title": "Illumislight - Hikari no Puzzle"}
+		],
+		"Pro Evolution Soccer 2008": [
+			{"title": "Pro Evolution Soccer 2008"},
+			{"title": "World Soccer Winning Eleven DS - Goal x Goal!"}
+		],
+		"Professional Fisherman's Tour - Northern Hemisphere": [
+			{"title": "Professional Fisherman's Tour - Northern Hemisphere"},
+			{"title": "Big Catch - Bass Fishing"},
+			{"title": "Super Black Bass - Kitahankyuu o Tsuru"}
+		],
+		"Professor Brainium's Games": [
+			{"title": "Professor Brainium's Games"},
+			{"title": "Professor Brainmaniac"},
+			{"title": "Tele 7 Jeux Inedits - Professeur Brainmaniac"}
+		],
+		"Professor Layton and the Curious Village": [
+			{"title": "Professor Layton and the Curious Village"},
+			{"title": "Layton Gyosuwa Isanghan Maeul"},
+			{"title": "Layton Kyouju to Fushigi na Machi"},
+			{"title": "Layton Kyouju to Fushigi na Machi - Friendly Ban", "priority": 2}
+		],
+		"Professor Layton and the Diabolical Box": [
+			{"title": "Professor Layton and the Diabolical Box"},
+			{"title": "Layton Gyosuwa Angmaui Sangja"},
+			{"title": "Layton Kyouju to Akuma no Hako"},
+			{"title": "Layton Kyouju to Akuma no Hako - Friendly Ban", "priority": 2},
+			{"title": "Profesor Layton y la Caja de Pandora, El"},
+			{"title": "Professeur Layton et la Boite de Pandore"},
+			{"title": "Professor Layton and Pandora's Box"},
+			{"title": "Professor Layton e lo Scrigno di Pandora, Il"},
+			{"title": "Professor Layton en de Doos van Pandora"},
+			{"title": "Professor Layton und die Schatulle der Pandora"}
+		],
+		"Professor Layton and the Unwound Future": [
+			{"title": "Professor Layton and the Unwound Future"},
+			{"title": "Layton Kyouju to Saigo no Jikan Ryokou"},
+			{"title": "Profesor Layton y el Futuro Perdido, El"},
+			{"title": "Professeur Layton et le Destin Perdu"},
+			{"title": "Professor Layton and the Lost Future"},
+			{"title": "Professor Layton e il Futuro Perduto, Il"},
+			{"title": "Professor Layton en de Verloren Toekomst"},
+			{"title": "Professor Layton und die Verlorene Zukunft"},
+			{"title": "Professor Layton and the Unwound Future (Video)", "priority": 2}
+		],
+		"Professor Layton and the Last Specter": [
+			{"title": "Professor Layton and the Last Specter"},
+			{"title": "Layton Kyouju to Majin no Fue"},
+			{"title": "Profesor Layton y la Llamada del Espectro, El"},
+			{"title": "Professeur Layton et l'Appel du Spectre"},
+			{"title": "Professor Layton and the Spectre's Call"},
+			{"title": "Professor Layton e il Richiamo dello Spettro, Il"},
+			{"title": "Professor Layton en de Melodie van het Spook"},
+			{"title": "Professor Layton und der Ruf des Phantoms"}
+		],
+		"Puppy Palace": [
+			{"title": "Puppy Palace"},
+			{"title": "Machi no Pet-ya-san DS - 200 Piki Wan-chan Daishuugou"},
+			{"title": "My Puppy Shop"}
+		],
+		"Puppy Luv - Spa and Resort": [
+			{"title": "Puppy Luv - Spa and Resort"},
+			{"title": "Tierbabys - Meine Grosse Tierpension"}
+		],
+		"Purr Pals": [
+			{"title": "Purr Pals"},
+			{"title": "Love Cat Life"}
+		],
+		"Puyo Pop Fever": [
+			{"title": "Puyo Pop Fever"},
+			{"title": "Puyo Puyo Fever"}
+		],
+		"Puzzle Quest - Challenge of the Warlords": [
+			{"title": "Puzzle Quest - Challenge of the Warlords"},
+			{"title": "Simple DS Series Vol. 23 - The Puzzle Quest - Agaria no Kishi"}
+		],
+		"Puzzle Series Vol. 9 - Sudoku 2 Deluxe": [
+			{"title": "Puzzle Series Vol. 9 - Sudoku 2 Deluxe"},
+			{"title": "Sudoku DS"}
+		],
+		"Puzzler World": [
+			{"title": "Puzzler World"},
+			{"title": "Knobel- und Denkspiele"}
+		],
+		"Puzzler World 2": [
+			{"title": "Puzzler World 2"},
+			{"title": "Puzzler World 2011"}
+		],
+		"Quest Trio, The - Jewels, Cards and Tiles": [
+			{"title": "Quest Trio, The - Jewels, Cards and Tiles"},
+			{"title": "Quest Trio, The"}
+		],
+		"Quick Yoga Training - Learn in Minutes a Day": [
+			{"title": "Quick Yoga Training - Learn in Minutes a Day"},
+			{"title": "Personal Yoga Training - Learn in 15 Minutes a Day"}
+		],
+		"QuickSpot": [
+			{"title": "QuickSpot"},
+			{"title": "Unoe Sangkwae Tongkwae - Teullin Geurim Jeonjip"},
+			{"title": "Unou no Tatsujin - Soukai! Machigai Museum"}
+		],
+		"Rabbids Go Home - A Comedy Adventure": [
+			{"title": "Rabbids Go Home - A Comedy Adventure"},
+			{"title": "Rabbids Go Home"}
+		],
+		"Race Driver - Create & Race": [
+			{"title": "Race Driver - Create & Race"},
+			{"title": "DTM Race Driver 3 - Create & Race"},
+			{"title": "V8 Supercars Australia 3 - Create & Race"}
+		],
+		"Ragnarok DS": [
+			{"title": "Ragnarok DS"},
+			{"title": "Ragnarok Online DS"}
+		],
+		"Rainbow Islands Revolution": [
+			{"title": "Rainbow Islands Revolution"},
+			{"title": "New Rainbow Islands"}
+		],
+		"Ratatouille": [
+			{"title": "Ratatouille"},
+			{"title": "Remy no Oishii Restaurant"}
+		],
+		"Rayman - Raving Rabbids - TV Party": [
+			{"title": "Rayman - Raving Rabbids - TV Party"},
+			{"title": "Rabbids Party - TV Party"},
+			{"title": "Rayman - Yeopgitokki - TV Party"}
+		],
+		"Reader Rabbit - Kindergarten": [
+			{"title": "Reader Rabbit - Kindergarten"},
+			{"title": "Kalle Kunskap - 4-7 Aar"}
+		],
+		"Ready Steady Cook - The Game": [
+			{"title": "Ready Steady Cook - The Game"},
+			{"title": "Cuisine Party"},
+			{"title": "Prova del Cuoco, La"}
+		],
+		"Real Soccer 2008": [
+			{"title": "Real Soccer 2008"},
+			{"title": "Real Football 2008"}
+		],
+		"Real Soccer 2009": [
+			{"title": "Real Soccer 2009"},
+			{"title": "Real Football 2009"}
+		],
+		"Real Stories - Fashion Shop": [
+			{"title": "Real Stories - Fashion Shop"},
+			{"title": "Real Stories - Passion 4 Fashion"}
+		],
+		"Real Stories - Mijn Babycreche": [
+			{"title": "Real Stories - Mijn Babycreche"},
+			{"title": "Real Stories - Babies"}
+		],
+		"Resident Evil - Deadly Silence": [
+			{"title": "Resident Evil - Deadly Silence"},
+			{"title": "Biohazard - Deadly Silence"}
+		],
+		"Retro Atari Classics": [
+			{"title": "Retro Atari Classics"},
+			{"title": "Atarimix - Happy 10 Games"}
+		],
+		"Retro Game Challenge": [
+			{"title": "Retro Game Challenge"},
+			{"title": "Game Center CX - Arino no Chousenjou"}
+		],
+		"Rhapsody - A Musical Adventure": [
+			{"title": "Rhapsody - A Musical Adventure"},
+			{"title": "Marl Oukoku no Ningyou Hime - Tenshi ga Kanaderu Ai no Uta"}
+		],
+		"Rhythm 'n Notes - Improve Your Music Skills": [
+			{"title": "Rhythm 'n Notes - Improve Your Music Skills"},
+			{"title": "Rhythm 'n Notes"},
+			{"title": "Tenohira Gakushuu - Zettai Onkan Training DS"}
+		],
+		"Rhythm Heaven": [
+			{"title": "Rhythm Heaven"},
+			{"title": "Rhythm Paradise"},
+			{"title": "Rhythm Sesang"},
+			{"title": "Rhythm Tengoku Gold"}
+		],
+		"Riding Academy 2": [
+			{"title": "Riding Academy 2"},
+			{"title": "Pferd & Pony - Die Reitakademie - Das Entscheidende Turnier"}
+		],
+		"Rijexamen Training - Code de la Route": [
+			{"title": "Rijexamen Training - Code de la Route"},
+			{"title": "Code de la Route, Le"}
+		],
+		"Ringling Bros. and Barnum & Bailey - Circus Friends - Asian Elephants": [
+			{"title": "Ringling Bros. and Barnum & Bailey - Circus Friends - Asian Elephants"},
+			{"title": "Ringling Bros. and Barnum & Bailey - It's My Circus - Elephant Friend"}
+		],
+		"River City - Soccer Hooligans": [
+			{"title": "River City - Soccer Hooligans"},
+			{"title": "Kunio-kun no Chou Nekketsu! - Soccer League Plus - World Hyper Cup Hen"}
+		],
+		"River City - Super Sports Challenge": [
+			{"title": "River City - Super Sports Challenge"},
+			{"title": "Kunio-kun no Chou Nekketsu! - Daiundoukai"}
+		],
+		"River King - Mystic Valley": [
+			{"title": "River King - Mystic Valley"},
+			{"title": "Harvest Fishing"},
+			{"title": "Kawa no Nushi Tsuri - Komorebi no Tani, Seseragi no Uta"}
+		],
+		"Rockin' Pretty": [
+			{"title": "Rockin' Pretty"},
+			{"title": "Diva Girls - Making the Music"},
+			{"title": "Happy Star Band"},
+			{"title": "Happy Star Band - Jeongungmin Audition Baendeupyeon"}
+		],
+		"Rollin' Rascals": [
+			{"title": "Rollin' Rascals"},
+			{"title": "Animal Kororo"}
+		],
+		"Rondo of Swords": [
+			{"title": "Rondo of Swords"},
+			{"title": "Geojisui Yunmugok"},
+			{"title": "Itsuwari no Rondo"}
+		],
+		"Rooms - The Main Building": [
+			{"title": "Rooms - The Main Building"},
+			{"title": "Rooms - Fushigi na Ugoku Heya"}
+		],
+		"Rub Rabbits!, The": [
+			{"title": "Rub Rabbits!, The"},
+			{"title": "Akachan wa Doko kara Kuru no"}
+		],
+		"Rubik's World": [
+			{"title": "Rubik's World"},
+			{"title": "Rubik's Puzzle World"}
+		],
+		"Rune Factory - A Fantasy Harvest Moon": [
+			{"title": "Rune Factory - A Fantasy Harvest Moon"},
+			{"title": "Rune Factory - Shin Bokujou Monogatari"},
+			{"title": "Rune Factory - Sinmokjjangiyagi"}
+		],
+		"Rune Factory 2 - A Fantasy Harvest Moon": [
+			{"title": "Rune Factory 2 - A Fantasy Harvest Moon"},
+			{"title": "Rune Factory 2"}
+		],
+		"Rune Factory 3 - A Fantasy Harvest Moon": [
+			{"title": "Rune Factory 3 - A Fantasy Harvest Moon"},
+			{"title": "Rune Factory 3"}
+		],
+		"Safecracker - The Ultimate Puzzle Challenge!": [
+			{"title": "Safecracker - The Ultimate Puzzle Challenge!"},
+			{"title": "Safecracker - The Ultimate Puzzle Adventure"}
+		],
+		"Salon Superstar": [
+			{"title": "Salon Superstar"},
+			{"title": "Beauty Salon"}
+		],
+		"Sands of Destruction": [
+			{"title": "Sands of Destruction"},
+			{"title": "World Destruction - Michibikareshi Ishi"}
+		],
+		"Sangokushi DS": [
+			{"title": "Sangokushi DS"},
+			{"title": "Yeoksa Simulation - Samgukji DS"}
+		],
+		"Sangokushi DS 2": [
+			{"title": "Sangokushi DS 2"},
+			{"title": "Samgukji DS 2"}
+		],
+		"Sarah - Keeper of the Unicorn": [
+			{"title": "Sarah - Keeper of the Unicorn"},
+			{"title": "Magical Unicorn, The"},
+			{"title": "Sarah - Die Hueterin des Einhorns"}
+		],
+		"Satisfashion - Rock the Runway": [
+			{"title": "Satisfashion - Rock the Runway"},
+			{"title": "Deine Eigene Modenschau"}
+		],
+		"Scooby-Doo! - Who's Watching Who": [
+			{"title": "Scooby-Doo! - Who's Watching Who"},
+			{"title": "Scooby-Doo! - Qui Regarde Qui"},
+			{"title": "Scooby-Doo! - Wer Schaut Wem Zu"}
+		],
+		"Scribblenauts": [
+			{"title": "Scribblenauts"},
+			{"title": "Hirameki Puzzle - Maxwell no Fushigi na Note"}
+		],
+		"SBK - Snowboard Kids": [
+			{"title": "SBK - Snowboard Kids"},
+			{"title": "Snowboard Kids Party"}
+		],
+		"Shaberu! DS Oryouri Navi": [
+			{"title": "Shaberu! DS Oryouri Navi"},
+			{"title": "DS Vitamin - Widaehan Bapsang - Malhaneun! Geongangyori Giljabi"}
+		],
+		"Shepherd's Crossing 2 DS": [
+			{"title": "Shepherd's Crossing 2 DS"},
+			{"title": "Hakoniwa Seikatsu - Hitsuji Mura DS"}
+		],
+		"Sherlock Holmes - The Mystery of the Mummy": [
+			{"title": "Sherlock Holmes - The Mystery of the Mummy"},
+			{"title": "Sherlock Holmes DS - The Mystery of the Mummy"}
+		],
+		"Sherlock Holmes and the Mystery of Osborne House": [
+			{"title": "Sherlock Holmes and the Mystery of Osborne House"},
+			{"title": "Sherlock Holmes DS and the Mystery of Osborne House"}
+		],
+		"Shin Megami Tensei - Devil Survivor": [
+			{"title": "Shin Megami Tensei - Devil Survivor"},
+			{"title": "Megami Ibunroku - Devil Survivor"}
+		],
+		"Shin Megami Tensei - Devil Survivor 2": [
+			{"title": "Shin Megami Tensei - Devil Survivor 2"},
+			{"title": "Devil Survivor 2"}
+		],
+		"Shrek - Forever After": [
+			{"title": "Shrek - Forever After"},
+			{"title": "Shrek - E Vissero Felici e Contenti"}
+		],
+		"Shrek - Ogres & Dronkeys": [
+			{"title": "Shrek - Ogres & Dronkeys"},
+			{"title": "Shrek - Oger und Dresel"},
+			{"title": "Shrek - Ogres et Dranons"},
+			{"title": "Shrek - Ogritos y Drasnos"},
+			{"title": "Shrek - Orchetti e Ciuchini"}
+		],
+		"Shrek the Third": [
+			{"title": "Shrek the Third"},
+			{"title": "Shrek Tercero"},
+			{"title": "Shrek Terzo"},
+			{"title": "Shrek de Derde"},
+			{"title": "Shrek der Dritte"},
+			{"title": "Shrek le Troisieme"}
+		],
+		"Shrek's Carnival Craze - Party Games": [
+			{"title": "Shrek's Carnival Craze - Party Games"},
+			{"compilation": "DreamWorks 2-in-1 Party Pack"}
+		],
+		"Sideswiped": [
+			{"title": "Sideswiped"},
+			{"title": "Clash King01"}
+		],
+		"Silverlicious": [
+			{"title": "Silverlicious"},
+			{"compilation": "2-Pack - Pinkalicious - It's Party Time! & Silverlicious - Sweet Adventure", "title_position": 2}
+		],
+		"SimCity - Creator": [
+			{"title": "SimCity - Creator"},
+			{"title": "SimCity DS 2 - Kodai kara Mirai e Tsuzuku Machi"}
+		],
+		"SimCity DS": [
+			{"title": "SimCity DS"},
+			{"title": "SimCity DS - The Ultimate City Simulator"}
+		],
+		"Simpsons Game, The": [
+			{"title": "Simpsons Game, The"},
+			{"title": "Simpson, I - Il Videogioco"},
+			{"title": "Simpson, Les - Le Jeu"},
+			{"title": "Simpson, Los - El Videojuego"},
+			{"title": "Simpsons, Die - Das Spiel"}
+		],
+		"Sims 2, The": [
+			{"title": "Sims 2, The"},
+			{"title": "Sims 2, The - Hachamecha Hotel Life"}
+		],
+		"Sims 2, The - Castaway": [
+			{"title": "Sims 2, The - Castaway"},
+			{"title": "Sims 2, The - Survival"}
+		],
+		"Sims 2, The - Pets": [
+			{"title": "Sims 2, The - Pets"},
+			{"title": "Sims 2, The - Pet Wannyan Life"}
+		],
+		"Smart Boy's Gameroom": [
+			{"title": "Smart Boy's Gameroom"},
+			{"title": "I Did It Mum! - Boy"},
+			{"title": "Kids DS - Dekita yo! Mama. - Otokonoko"}
+		],
+		"Smart Boy's Gameroom 2": [
+			{"title": "Smart Boy's Gameroom 2"},
+			{"title": "Dekita yo! Mama. - Mitsugo no Kuma-san - Otokonoko"}
+		],
+		"Smart Boy's Toys Club": [
+			{"title": "Smart Boy's Toys Club"},
+			{"title": "Dekita yo! Mama. - Wannyan Club - Otokonoko"},
+			{"title": "I Did It Mum! 2 - Boy"}
+		],
+		"Smart Girl's Playhouse": [
+			{"title": "Smart Girl's Playhouse"},
+			{"title": "I Did It Mum! - Girl"},
+			{"title": "Kids DS - Dekita yo! Mama. - Onnanoko"}
+		],
+		"Smart Girl's Playhouse 2": [
+			{"title": "Smart Girl's Playhouse 2"},
+			{"title": "Dekita yo! Mama. - Mitsugo no Kuma-san - Onnanoko"}
+		],
+		"Smart Girl's Party Game": [
+			{"title": "Smart Girl's Party Game"},
+			{"title": "Dekita yo! Mama. - Wannyan Club - Onnanoko"},
+			{"title": "I Did It Mum! 2 - Girl"}
+		],
+		"Sofie - Josefines Lillesoester - Hoensefoetter og Guleroetter": [
+			{"title": "Sofie - Josefines Lillesoester - Hoensefoetter og Guleroetter"},
+			{"title": "Silke - Pixelines Lillesoester - Hoensefoedder og Guleroedder"}
+		],
+		"Sofie - Josefines Lillesoester - Syng, Lek og Laer": [
+			{"title": "Sofie - Josefines Lillesoester - Syng, Lek og Laer"},
+			{"title": "Silke - Pixelines Lillesoester - Syng, Leg og Laer"}
+		],
+		"Solatorobo - Red the Hunter": [
+			{"title": "Solatorobo - Red the Hunter"},
+			{"title": "Solatorobo - Sorekara Coda e"}
+		],
+		"Solitaire": [
+			{"title": "Solitaire"},
+			{"title": "Eindeloos Patience"}
+		],
+		"Solitaire Overload": [
+			{"title": "Solitaire Overload"},
+			{"title": "Solitaire DS"}
+		],
+		"Solitaire Overload Plus": [
+			{"title": "Solitaire Overload Plus"},
+			{"title": "3 in 1 - Solitaire, Mahjong & Tangram"}
+		],
+		"Sonic Chronicles - The Dark Brotherhood": [
+			{"title": "Sonic Chronicles - The Dark Brotherhood"},
+			{"title": "Sonic Chronicles - Yami Jigen kara no Shinryakusha"}
+		],
+		"Sonic Colors": [
+			{"title": "Sonic Colors"},
+			{"title": "Sonic Colours"}
+		],
+		"Soul Bubbles": [
+			{"title": "Soul Bubbles"},
+			{"title": "Awa Tama"}
+		],
+		"Space Bust-A-Move": [
+			{"title": "Space Bust-A-Move"},
+			{"title": "Puzzle Bobble Galaxy"},
+			{"title": "Space Puzzle Bobble"}
+		],
+		"Space Invaders Revolution": [
+			{"title": "Space Invaders Revolution"},
+			{"title": "Space Invaders DS"}
+		],
+		"Spectrobes": [
+			{"title": "Spectrobes"},
+			{"title": "Kaseki Chou Shinka - Spectrobes"}
+		],
+		"Spectrobes - Beyond the Portals": [
+			{"title": "Spectrobes - Beyond the Portals"},
+			{"title": "Chou Kaseki Monster Battle - Gekitotsu Galaxy"}
+		],
+		"Speed Racer - The Videogame": [
+			{"title": "Speed Racer - The Videogame"},
+			{"title": "Speed Racer"}
+		],
+		"Spelling Challenges and More!": [
+			{"title": "Spelling Challenges and More!"},
+			{"title": "Spellbound"}
+		],
+		"Spider-Man - Battle for New York": [
+			{"title": "Spider-Man - Battle for New York"},
+			{"title": "Spider-Man - Bataille pour New York"}
+		],
+		"Spider-Man - Friend or Foe": [
+			{"title": "Spider-Man - Friend or Foe"},
+			{"title": "Spider-Man - Allie ou Ennemi"},
+			{"title": "Spider-Man - Amici o Nemici"},
+			{"title": "Spider-Man - Amigo o Enemigo"},
+			{"title": "Spider-Man - Freund oder Feind"}
+		],
+		"SpongeBob SquarePants Featuring Nicktoons - Globs of Doom": [
+			{"title": "SpongeBob SquarePants Featuring Nicktoons - Globs of Doom"},
+			{"title": "SpongeBobgwa Chingudeul"}
+		],
+		"SpongeBob vs the Big One - Beach Party Cook-Off": [
+			{"title": "SpongeBob vs the Big One - Beach Party Cook-Off"},
+			{"title": "SpongeBob SquarePants - Frantic Fry Cook"},
+			{"title": "SpongeBob Yori Daesodong"}
+		],
+		"SpongeBob's Atlantis SquarePantis": [
+			{"title": "SpongeBob's Atlantis SquarePantis"},
+			{"title": "SpongeBob to Atlantis, Ikitain Desu"},
+			{"title": "SpongeBobui Atlantis"}
+		],
+		"SpongeBob's Truth or Square": [
+			{"title": "SpongeBob's Truth or Square"},
+			{"title": "Bob Esponja - Atrapados en el Congelador"},
+			{"title": "SpongeBob - SpongeBob's Truth or Square"}
+		],
+		"Spore Hero Arena": [
+			{"title": "Spore Hero Arena"},
+			{"title": "Spore - Kimi ga Tsukuru Hero"}
+		],
+		"Sprung - A Game Where Everyone Scores": [
+			{"title": "Sprung - A Game Where Everyone Scores"},
+			{"title": "Sprung - The Dating Game"}
+		],
+		"Squinkies - Surprise Inside": [
+			{"title": "Squinkies - Surprise Inside"},
+			{"title": "Squinkies - Surprize Inside", "priority": 2}
+		],
+		"Squishy Tank": [
+			{"title": "Squishy Tank"},
+			{"title": "Touch de Taikyaku! - Yawaraka Sensha"}
+		],
+		"Star Wars - Episode III - Revenge of the Sith": [
+			{"title": "Star Wars - Episode III - Revenge of the Sith"},
+			{"title": "Star Wars - Episode III - Sith no Fukushuu"}
+		],
+		"Steal Princess": [
+			{"title": "Steal Princess"},
+			{"title": "Steal Princess - Touzoku Koujo"}
+		],
+		"Stitch Jam": [
+			{"title": "Stitch Jam"},
+			{"title": "Stitch! DS - Ohana to Rhythm de Daibouken"}
+		],
+		"Style Lab - Jewelry Design": [
+			{"title": "Style Lab - Jewelry Design"},
+			{"title": "Girls Life - Jewellery Style"}
+		],
+		"Style Savvy": [
+			{"title": "Style Savvy"},
+			{"title": "Namanui Collection - Girls Style"},
+			{"title": "Nintendo Presents - Style Boutique"},
+			{"title": "Wagamama Fashion - Girls Mode"}
+		],
+		"Successfully Learning English": [
+			{"title": "Successfully Learning English"},
+			{"title": "Lernerfolg Grundschule - Englisch - Klasse 1-4"}
+		],
+		"Sudoku Gridmaster": [
+			{"title": "Sudoku Gridmaster"},
+			{"title": "Puzzle Series Vol. 3 - Sudoku"},
+			{"title": "Sudoku Master"}
+		],
+		"Sudoku Mania - Enhance Your Critical Thinking Skills!": [
+			{"title": "Sudoku Mania - Enhance Your Critical Thinking Skills!"},
+			{"title": "Sudokumaniacs"}
+		],
+		"Sudokuro - Sudoku & Kakuro Games": [
+			{"title": "Sudokuro - Sudoku & Kakuro Games"},
+			{"title": "Sudokuro"}
+		],
+		"Sueddeutsche Zeitung Wissen - Mehr Kreuzwortraetsel": [
+			{"title": "Sueddeutsche Zeitung Wissen - Mehr Kreuzwortraetsel"},
+			{"title": "Crosswords - Cruciverba Italiani"}
+		],
+		"Suikoden - Tierkreis": [
+			{"title": "Suikoden - Tierkreis"},
+			{"title": "Gensou Suikoden - Tierkreis"},
+			{"title": "Hwansangsuhojeon - Tierkreis"}
+		],
+		"Summon Night - Twin Age": [
+			{"title": "Summon Night - Twin Age"},
+			{"title": "Summon Night Twin Age - Seirei-tachi no Koe"}
+		],
+		"Super Black Bass Fishing": [
+			{"title": "Super Black Bass Fishing"},
+			{"title": "Super Black Bass - Dynamic Shot"}
+		],
+		"Super Dodgeball Brawlers": [
+			{"title": "Super Dodgeball Brawlers"},
+			{"title": "Chou Nekketsu Koukou Kunio-kun - Dodgeball-bu"},
+			{"title": "Choyeolhyeolgogyo Kunio-gun Pigubu"}
+		],
+		"Super Fun Chess": [
+			{"title": "Super Fun Chess"},
+			{"title": "Tele 7 Jeux Inedits - Echecs"}
+		],
+		"Super Mario 64 DS": [
+			{"title": "Super Mario 64 DS"},
+			{"title": "Shenyou Maliou DS"}
+		],
+		"Super Monkey Ball - Touch & Roll": [
+			{"title": "Super Monkey Ball - Touch & Roll"},
+			{"title": "Super Monkey Ball DS"}
+		],
+		"Super Robot Taisen OG Saga - Endless Frontier": [
+			{"title": "Super Robot Taisen OG Saga - Endless Frontier"},
+			{"title": "Mugen no Frontier - Super Robot Taisen OG Saga"}
+		],
+		"Super Speed Machines": [
+			{"title": "Super Speed Machines"},
+			{"title": "Simple DS Series Vol. 13 - Ijoukishou o Tsuppashire - The Arashi no Drift Rally"}
+		],
+		"SuperCard DSONE (SDHC)": [
+			{"title": "SuperCard DSONE (SDHC)"},
+			{"title": "SuperCard DSONE", "priority": 2},
+			{"title": "SuperCard DS", "priority": 3}
+		],
+		"Survivor": [
+			{"title": "Survivor"},
+			{"title": "Expeditie Robinson"},
+			{"title": "Isola dei Famosi, L'"},
+			{"title": "Koh-Lanta"},
+			{"title": "Supervivientes"}
+		],
+		"Tamagotchi Connection - Corner Shop": [
+			{"title": "Tamagotchi Connection - Corner Shop"},
+			{"title": "Tamagotchi Connexion - Corner Shop"},
+			{"title": "Tamagotch no Puchi Puchi Omisetchi"}
+		],
+		"Tamagotchi Connection - Corner Shop 2": [
+			{"title": "Tamagotchi Connection - Corner Shop 2"},
+			{"title": "Tamagotchi Connexion - Corner Shop 2"}
+		],
+		"Tamagotchi Connection - Corner Shop 3": [
+			{"title": "Tamagotchi Connection - Corner Shop 3"},
+			{"title": "Tamagotchi Connexion - Corner Shop 3"},
+			{"title": "Tamagotch no Puchi Puchi Omisetchi - Mina Sankyuu!"}
+		],
+		"Tank Beat": [
+			{"title": "Tank Beat"},
+			{"title": "Tank Battles"}
+		],
+		"Tao's Adventure - Curse of the Demon Seal": [
+			{"title": "Tao's Adventure - Curse of the Demon Seal"},
+			{"title": "Tao - Mamono no Tou to Mahou no Tamago"}
+		],
+		"Tele 7 Jeux Inedits - Mots Croises - La Selection des Meilleurs Mots Croises": [
+			{"title": "Tele 7 Jeux Inedits - Mots Croises - La Selection des Meilleurs Mots Croises"},
+			{"title": "Cruciverba per DS"}
+		],
+		"Tenchu - Dark Secret": [
+			{"title": "Tenchu - Dark Secret"},
+			{"title": "Tenchu - Dark Shadow"}
+		],
+		"Tetris Party Deluxe": [
+			{"title": "Tetris Party Deluxe"},
+			{"title": "Tetris Party Premium"}
+		],
+		"Texas Hold 'em Poker Pack": [
+			{"title": "Texas Hold 'em Poker Pack"},
+			{"title": "Tele 7 Jeux Inedits - Texas Hold 'em Poker Pack"}
+		],
+		"Theme Park": [
+			{"title": "Theme Park"},
+			{"title": "Theme Park DS"}
+		],
+		"Theresia..": [
+			{"title": "Theresia.."},
+			{"title": "Theresia.. - Dear Emile"}
+		],
+		"thinkSMART - Chess for Kids": [
+			{"title": "thinkSMART - Chess for Kids"},
+			{"title": "Chess for Kids"},
+			{"title": "Schach Attacke"}
+		],
+		"thinkSMART - Labyrinth": [
+			{"title": "thinkSMART - Labyrinth"},
+			{"title": "Labyrinth (Ravensburger)"}
+		],
+		"thinkSMART - Power Up Your Brain!": [
+			{"title": "thinkSMART - Power Up Your Brain!"},
+			{"title": "Think - Train Je Brein - Logica Trainer"},
+			{"title": "Think - Train Your Brain - Logic Trainer"},
+			{"title": "th!nk - Logic Trainer", "priority": 2}
+		],
+		"thinkSMART - Power Up Your Brain! - Kids 8+": [
+			{"title": "thinkSMART - Power Up Your Brain! - Kids 8+"},
+			{"title": "Entraineur Cerebral, L' - Kids"},
+			{"title": "Think - Kids - Speel Je Slim!"},
+			{"title": "Think - Training fuer den Kopf - Kids - Spiel Dich Schlau!"},
+			{"title": "th!nk - Logic Trainer - KIDS!", "priority": 2}
+		],
+		"Think - Train Your Senses": [
+			{"title": "Think - Train Your Senses"},
+			{"title": "Entraineur Cerebral, L' - Perception"}
+		],
+		"Think Again": [
+			{"title": "Think Again"},
+			{"title": "Entraineur Cerebral, L' - Logique"},
+			{"title": "Think - Training fuer den Kopf - Logik Trainer - Think Again"}
+		],
+		"ThinkSmart Games - Scotland Yard - Hunting Mister X": [
+			{"title": "ThinkSmart Games - Scotland Yard - Hunting Mister X"},
+			{"title": "Scotland Yard - Hunting Mister X"}
+		],
+		"Tierliebe Gross Geschrieben": [
+			{"title": "Tierliebe Gross Geschrieben"},
+			{"title": "Real Stories - Veterinaire"}
+		],
+		"Tim Stockdale's Riding Star": [
+			{"title": "Tim Stockdale's Riding Star"},
+			{"title": "Riding Star 3", "priority": 2},
+			{"compilation": "3 in 1 - My Vet Practice & Riding Star & My Vet Practice in Australia", "title_position": 2}
+		],
+		"Time Hollow": [
+			{"title": "Time Hollow"},
+			{"title": "Time Hollow - Ubawareta Kako o Motomete"}
+		],
+		"Times Crossword Challenge, The": [
+			{"title": "Times Crossword Challenge, The"},
+			{"title": "Mots Croises 2"}
+		],
+		"Tinker Bell": [
+			{"title": "Tinker Bell"},
+			{"title": "Feji"}
+		],
+		"Tinker Bell and the Great Fairy Rescue": [
+			{"title": "Tinker Bell and the Great Fairy Rescue"},
+			{"title": "Tinker Bell to Yousei no Ie"}
+		],
+		"Tinker Bell and the Lost Treasure": [
+			{"title": "Tinker Bell and the Lost Treasure"},
+			{"title": "Tinker Bell to Tsuki no Ishi"}
+		],
+		"TMNT": [
+			{"title": "TMNT"},
+			{"title": "TMNT - Teenage Mutant Ninja Turtles"}
+		],
+		"Tokumei Sentai Go Busters": [
+			{"title": "Tokumei Sentai Go Busters"},
+			{"title": "Power Rangers Go-Busters"}
+		],
+		"Tokyo Beat Down": [
+			{"title": "Tokyo Beat Down"},
+			{"title": "Yajuu Deka - Tokyo Douji Tahatsu Terror o Chinatsu Seyo!"}
+		],
+		"Tomica Hero Rescue Force DS": [
+			{"title": "Tomica Hero Rescue Force DS"},
+			{"title": "Chuldong! Rescue Force DS"}
+		],
+		"Top Model Academy": [
+			{"title": "Top Model Academy"},
+			{"title": "Germany's Next Topmodel - Das Offizielle Spiel zur Staffel 2009"}
+		],
+		"Touch Detective": [
+			{"title": "Touch Detective"},
+			{"title": "Mystery Detective"},
+			{"title": "Osawari Tantei - Ozawa Rina"}
+		],
+		"Touch Detective 2 1-2": [
+			{"title": "Touch Detective 2 1-2"},
+			{"title": "Mystery Detective II"},
+			{"title": "Osawari Tantei - Ozawa Rina - Season 2 1-2 - Rina wa Mita! Iya, Mite nai."},
+			{"title": "Touch Detective II"}
+		],
+		"Touch Darts": [
+			{"title": "Touch Darts"},
+			{"title": "SEGA Presents - Touch Darts"}
+		],
+		"Touch the Dead": [
+			{"title": "Touch the Dead"},
+			{"title": "Dead'n'Furious"}
+		],
+		"TouchMaster - Connect": [
+			{"title": "TouchMaster - Connect"},
+			{"title": "TouchMaster 4 - Connect"}
+		],
+		"TouchMaster 2": [
+			{"title": "TouchMaster 2"},
+			{"title": "More TouchMaster"}
+		],
+		"Toy Shop": [
+			{"title": "Toy Shop"},
+			{"title": "Toy Shop Tycoon"}
+		],
+		"Toy Story 3": [
+			{"title": "Toy Story 3"},
+			{"superset": "Toy Story 3 - To The Rescue! Edition (Target Exclusive)"}
+		],
+		"Trace Memory": [
+			{"title": "Trace Memory"},
+			{"title": "Another Code - Futatsu no Kioku"},
+			{"title": "Another Code - Two Memories"}
+		],
+		"Transformers - War for Cybertron - Autobots": [
+			{"title": "Transformers - War for Cybertron - Autobots"},
+			{"title": "Transformers - Kampf um Cybertron - Autobots"}
+		],
+		"Transformers - War for Cybertron - Decepticons": [
+			{"title": "Transformers - War for Cybertron - Decepticons"},
+			{"title": "Transformers - Kampf um Cybertron - Deceptions"}
+		],
+		"Transformers Prime": [
+			{"title": "Transformers Prime"},
+			{"title": "Transformers Prime - The Game"}
+		],
+		"Trauma Center - Under the Knife": [
+			{"title": "Trauma Center - Under the Knife"},
+			{"title": "Chou Shittou Caduceus"}
+		],
+		"Trauma Center - Under the Knife 2": [
+			{"title": "Trauma Center - Under the Knife 2"},
+			{"title": "Kyuukyuu Kyuumei Caduceus 2"}
+		],
+		"Trioncube": [
+			{"title": "Trioncube"},
+			{"title": "Kimochi yosa Rensa Puzzle - Trion Cube"}
+		],
+		"True Swing Golf": [
+			{"title": "True Swing Golf"},
+			{"title": "Nintendo Touch Golf - Birdie Challenge"},
+			{"title": "Otona no DS Golf"}
+		],
+		"Tsumiki - Block Drop Mania": [
+			{"title": "Tsumiki - Block Drop Mania"},
+			{"title": "Tsumiki - The Infernal Tower"},
+			{"title": "Tsunde Tsumikiss"}
+		],
+		"Turn It Around": [
+			{"title": "Turn It Around"},
+			{"title": "Mawasundaa!!"}
+		],
+		"Ultimate Game Room": [
+			{"title": "Ultimate Game Room"},
+			{"title": "Indoor Sports Club"}
+		],
+		"Ultimate Puzzle Games - Sudoku Edition": [
+			{"title": "Ultimate Puzzle Games - Sudoku Edition"},
+			{"title": "Super Fun Sudoku"}
+		],
+		"Underground Pool": [
+			{"title": "Underground Pool"},
+			{"title": "Actua Pool"}
+		],
+		"Up": [
+			{"title": "Up"},
+			{"title": "Carl Jiisan no Soratobu Ie"}
+		],
+		"USA Today Crossword Challenge": [
+			{"title": "USA Today Crossword Challenge"},
+			{"title": "Kreuzwortraetsel DS - Welt Edition"},
+			{"title": "Mots Croises"},
+			{"title": "Sun Crossword Challenge, The"}
+		],
+		"Valkyrie Profile - Covenant of the Plume": [
+			{"title": "Valkyrie Profile - Covenant of the Plume"},
+			{"title": "Valkyrie Profile - Toga o Seou Mono"}
+		],
+		"Vampire Legends - Power of Three": [
+			{"title": "Vampire Legends - Power of Three"},
+			{"title": "Witches & Vampires - Ghost Pirates of Ashburry"}
+		],
+		"Vegas Casino": [
+			{"title": "Vegas Casino"},
+			{"title": "Vegas Casino High 5!"}
+		],
+		"Viewtiful Joe - Double Trouble!": [
+			{"title": "Viewtiful Joe - Double Trouble!"},
+			{"title": "Viewtiful Joe - Scratch!"}
+		],
+		"Virtual Piano (Later)": [
+			{"title": "Virtual Piano (Later)"},
+			{"title": "Virtual Piano", "priority": 2}
+		],
+		"Virtual Villagers - A New Home": [
+			{"title": "Virtual Villagers - A New Home"},
+			{"title": "Virtual Villagers - Erschaffe dein Paradies!"}
+		],
+		"Vita di Emma, La - Professione Infermiera": [
+			{"title": "Vita di Emma, La - Professione Infermiera"},
+			{"title": "Vie d'Emma, La - Infirmiere de Choc"}
+		],
+		"WWE SmackDown vs Raw 2008 Featuring ECW": [
+			{"title": "WWE SmackDown vs Raw 2008 Featuring ECW"},
+			{"title": "WWE SmackDown dae Raw 2008 Featuring ECW"}
+		],
+		"WWE SmackDown vs Raw 2009 Featuring ECW": [
+			{"title": "WWE SmackDown vs Raw 2009 Featuring ECW"},
+			{"title": "WWE SmackDown dae Raw 2009 Featuring ECW"}
+		],
+		"Wario - Master of Disguise": [
+			{"title": "Wario - Master of Disguise"},
+			{"title": "Kaitou Wario the Seven"}
+		],
+		"WarioWare - D.I.Y.": [
+			{"title": "WarioWare - D.I.Y."},
+			{"title": "Made in Ore"},
+			{"title": "WarioWare - Do It Yourself"}
+		],
+		"WarioWare - Touched!": [
+			{"title": "WarioWare - Touched!"},
+			{"title": "Manjyeora - Made in Wario"},
+			{"title": "Momo Waliou Zhizao"},
+			{"title": "Sawaru Made in Wario"}
+		],
+		"Western Riding Academy": [
+			{"title": "Western Riding Academy"},
+			{"title": "Pferd & Pony - Mein Westernpferd"}
+		],
+		"Wi-Fi Taiou - Yakuman DS": [
+			{"title": "Wi-Fi Taiou - Yakuman DS"},
+			{"title": "Yakuman DS", "priority": 2}
+		],
+		"Wickie und die Starken Maenner": [
+			{"title": "Wickie und die Starken Maenner"},
+			{"title": "Wickey de Viking"}
+		],
+		"Winning Eleven - Pro Evolution Soccer 2007": [
+			{"title": "Winning Eleven - Pro Evolution Soccer 2007"},
+			{"title": "Pro Evolution Soccer 6"},
+			{"title": "World Soccer - Winning Eleven DS"}
+		],
+		"Winter Sports 2 - The Next Challenge": [
+			{"title": "Winter Sports 2 - The Next Challenge"},
+			{"title": "Winter Sports 2009 - The Next Challenge"}
+		],
+		"Witch's Tale, A": [
+			{"title": "Witch's Tale, A"},
+			{"title": "Witch Tale - Minarai Majo to 7-nin no Hime"}
+		],
+		"Witch's Wish": [
+			{"title": "Witch's Wish"},
+			{"title": "Majo ni Naru."}
+		],
+		"Wizard of Oz, The - Beyond the Yellow Brick Road": [
+			{"title": "Wizard of Oz, The - Beyond the Yellow Brick Road"},
+			{"title": "Riz-Zoawd"}
+		],
+		"Wordfish": [
+			{"title": "Wordfish"},
+			{"title": "Genio de las Palabras, El"},
+			{"title": "Junior Wort-Quiz, Das"},
+			{"title": "My Word Coach Junior - Woordjes Leren"},
+			{"title": "Prof di Parole, Il"},
+			{"title": "Voca Mania - Ameliore Ton Vocabulaire en T'Amusant!"},
+			{"title": "Word Academy"}
+		],
+		"WordJong": [
+			{"title": "WordJong"},
+			{"title": "Tele 7 Jeux Inedits - WordJong"}
+		],
+		"World Championship Games - A Track & Field Event": [
+			{"title": "World Championship Games - A Track & Field Event"},
+			{"title": "International Athletics"}
+		],
+		"World Championship Spelling": [
+			{"title": "World Championship Spelling"},
+			{"title": "Mind. Body. Soul. - Spellbound 2"}
+		],
+		"World Ends with You, The": [
+			{"title": "World Ends with You, The"},
+			{"title": "Subarashiki Kono Sekai - It's a Wonderful World"}
+		],
+		"Yogi Bear": [
+			{"title": "Yogi Bear"},
+			{"title": "Yogi Bear - The Video Game"}
+		],
+		"Yoshi Touch & Go": [
+			{"title": "Yoshi Touch & Go"},
+			{"title": "Catch! Touch! Yoshi!"},
+			{"title": "Momo Yaoxi - Yun Zhong Manbu"}
+		],
+		"Yoshi's Island DS": [
+			{"title": "Yoshi's Island DS"},
+			{"title": "Yoshi Island DS"}
+		],
+		"Yu-Gi-Oh! - Nightmare Troubadour": [
+			{"title": "Yu-Gi-Oh! - Nightmare Troubadour"},
+			{"title": "Yu-Gi-Oh! Duel Monsters - Nightmare Troubadour"}
+		],
+		"Yu-Gi-Oh! - World Championship 2007": [
+			{"title": "Yu-Gi-Oh! - World Championship 2007"},
+			{"title": "Yu-Gi-Oh! Duel Monsters - World Championship 2007"}
+		],
+		"Yu-Gi-Oh! - World Championship 2008": [
+			{"title": "Yu-Gi-Oh! - World Championship 2008"},
+			{"title": "Yu-Gi-Oh! Duel Monsters - World Championship 2008"}
+		],
+		"Yu-Gi-Oh! GX - Card Almanac": [
+			{"title": "Yu-Gi-Oh! GX - Card Almanac"},
+			{"title": "Yu-Gi-Oh! Duel Monsters GX - Card Almanac"}
+		],
+		"Yu-Gi-Oh! GX - Spirit Caller": [
+			{"title": "Yu-Gi-Oh! GX - Spirit Caller"},
+			{"title": "Yu-Gi-Oh! Duel Monsters GX - Spirit Summoner"}
+		],
+		"Zaidan Houjin Nihon Kanji Nouryoku Kentei Kyoukai Kounin - Kanken DS": [
+			{"title": "Zaidan Houjin Nihon Kanji Nouryoku Kentei Kyoukai Kounin - Kanken DS"},
+			{"title": "Hanguk-eomungyoyuk-yeonguhoe - Hangeom DS"}
+		],
+		"Zenses - Ocean (Knowledge Adventure)": [
+			{"title": "Zenses - Ocean (Knowledge Adventure)"},
+			{"title": "Zenses - Ocean", "priority": 2}
+		],
+		"Zenses - Rainforest (Knowledge Adventure)": [
+			{"title": "Zenses - Rainforest (Knowledge Adventure)"},
+			{"title": "Zenses - Rainforest", "priority": 2}
+		],
+		"ZhuZhu Pets 2 Featuring The Wild Bunch": [
+			{"title": "ZhuZhu Pets 2 Featuring The Wild Bunch"},
+			{"title": "ZhuZhu Pets Featuring The Wild Bunch"}
+		],
+		"Zoo Tycoon 2 DS": [
+			{"title": "Zoo Tycoon 2 DS"},
+			{"title": "Zoo Tycoon 2"}
+		],
+		"Zoo Tycoon DS": [
+			{"title": "Zoo Tycoon DS"},
+			{"title": "Zoo Tycoon DS - Doubutsuen o Tsukurou!"}
+		],
+		"Zoo Vet - Endangered Animals": [
+			{"title": "Zoo Vet - Endangered Animals"},
+			{"title": "My Pet Zoo Vet"}
+		],
+		"Zubo": [
+			{"title": "Zubo"},
+			{"title": "Toobo"}
+		]
+	}
+}

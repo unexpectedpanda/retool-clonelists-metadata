@@ -1,0 +1,28 @@
+{
+	"description": {
+		"name": [
+			"Fairchild - Channel F"
+		],
+		"last updated": "11 September 2021",
+		"minimum version": "2.00"
+	},
+
+	"categories": {
+		"Demonstration Cartridge( [0-9])?": {
+			"match": "regex",
+			"categories": ["Demos"]
+		}
+	},
+
+	"renames": {
+		"Hangman": [
+			{"title": "Hangman"},
+			{"title": "Ordtaevling", "priority": 1},
+			{"title": "Rat' Mal", "priority": 1}
+		],
+		"Tic-Tac-Toe, Shooting Gallery, Doodle, Quadra-Doodle": [
+			{"title": "Tic-Tac-Toe, Shooting Gallery, Doodle, Quadra-Doodle"},
+			{"title": "Muehle, Tontauben-Schiessen, Kreatives Malspiel, Videoscope", "priority": 1}
+		]
+	}
+}

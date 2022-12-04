@@ -1,0 +1,47 @@
+{
+	"description": {
+		"name": [
+			"Watara - SuperVision"
+		],
+		"last updated": "24 March 2022",
+		"minimum version": "0.92"
+	},
+
+	"categories": {
+		"TV-Link": {
+			"match": "short",
+			"categories": ["BIOS"]
+		}
+	},
+
+	"renames": {
+		"Block Buster": [
+			{"title": "Block Buster"},
+			{"compilation": "2 in 1 - Block Buster + Cross High", "title_position": 1}
+		],
+		"Brain Power": [
+			{"title": "Brain Power"},
+			{"compilation": "4 in 1 - Hash Block + Challenger Tank + Brain Power + Jacky Lucky", "title_position": 3}
+		],
+		"Challenger Tank": [
+			{"title": "Challenger Tank"},
+			{"compilation": "4 in 1 - Hash Block + Challenger Tank + Brain Power + Jacky Lucky", "title_position": 2}
+		],
+		"Cross High": [
+			{"title": "Cross High"},
+			{"compilation": "2 in 1 - Block Buster + Cross High", "title_position": 2}
+		],
+		"Eagle Plan": [
+			{"compilation": "2 in 1 - Hash Blocks + Eagle Plan", "title_position": 2}
+		],
+		"Hash Blocks": [
+			{"title": "Hash Blocks"},
+			{"compilation": "4 in 1 - Hash Block + Challenger Tank + Brain Power + Jacky Lucky", "title_position": 1},
+			{"compilation": "2 in 1 - Hash Blocks + Eagle Plan", "title_position": 1}
+		],
+		"Jacky Lucky": [
+			{"title": "Jacky Lucky"},
+			{"compilation": "4 in 1 - Hash Block + Challenger Tank + Brain Power + Jacky Lucky", "title_position": 4}
+		]
+	}
+}

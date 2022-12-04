@@ -1,0 +1,39 @@
+{
+	"description": {
+		"name": [
+			"Fujitsu - FM-Towns"
+		],
+		"last updated": "26 July 2022",
+		"minimum version": "2.00"
+	},
+
+	"categories": {
+		"FM Series Software Taikenban CD-ROM": {
+			"match": "short",
+			"categories": ["Applications", "Demos"]
+		}
+	},
+
+	"mias": [
+		"Wing Commander (Japan) (En,Ja) (Alt)"
+	],
+
+	"renames": {
+		"GNU for Towns Rel. 2": [
+			{"title": "GNU for Towns Rel. 2"},
+			{"title": "GNU for Towns", "priority": 2}
+		],
+		"Ms. Detective File 1 - Iwami Ginzan Satsujin Jiken (Disc 1)": [
+			{"title": "Ms. Detective File 1 - Iwami Ginzan Satsujin Jiken (Disc 1)"},
+			{"superset": "Ms. Detective File 1 - Iwami Ginzan Satsujin Jiken"}
+		],
+		"Ms. Detective File 1 - Iwami Ginzan Satsujin Jiken (Disc 2)": [
+			{"title": "Ms. Detective File 1 - Iwami Ginzan Satsujin Jiken (Disc 2)"},
+			{"superset": "Ms. Detective File 1 - Iwami Ginzan Satsujin Jiken"}
+		],
+		"Super Real Mahjong PII & PIII+": [
+			{"title": "Super Real Mahjong PII & PIII+"},
+			{"title": "Super Real Mahjong PII & PIII", "priority": 2}
+		]
+	}
+}

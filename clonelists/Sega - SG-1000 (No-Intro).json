@@ -1,0 +1,27 @@
+{
+	"description": {
+		"name": [
+			"Sega - SG-1000"
+		],
+		"last updated": "2 January 2022",
+		"minimum version": "2.00"
+	},
+
+	"categories": {
+		"SG-1000 M2 Test Cartridge": {
+			"match": "short",
+			"categories": ["Applications"]
+		}
+	},
+
+	"renames": {
+		"Pitfall II - The Lost Caverns": [
+			{"title": "Pitfall II - The Lost Caverns"},
+			{"title": "Pitfall II", "priority": 2}
+		],
+		"Soukoban": [
+			{"title": "Soukoban"},
+			{"title": "I.Q."}
+		]
+	}
+}

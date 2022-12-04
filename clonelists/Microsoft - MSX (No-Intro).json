@@ -1,0 +1,51 @@
+{
+	"description": {
+		"name": [
+			"Microsoft - MSX"
+		],
+		"last updated": "22 October 2021",
+		"minimum version": "2.00"
+	},
+
+	"categories": {
+		"Basic Lessons [0-9]": {
+			"match": "regex",
+			"categories": ["Applications"]
+		},
+		"Computer Nyuumon - Computer Lessons": {
+			"match": "short",
+			"categories": ["Applications"]
+		}
+	},
+
+	"renames": {
+		"3-D Golf Simulation": [
+			{"title": "3-D Golf Simulation"},
+			{"title": "3-D Golf Simulation (High Speed)", "priority": 2}
+		],
+		"F-1 Spirit - The Way to Formula-1": [
+			{"title": "F-1 Spirit - The Way to Formula-1"},
+			{"title": "A1 Spirit - The Way to Formula-1", "priority": 2}
+		],
+		"Konami's Billiards": [
+			{"title": "Konami's Billiards"},
+			{"title": "Video Hustler"}
+		],
+		"Konami's Football": [
+			{"title": "Konami's Football"},
+			{"title": "Konami's Soccer"}
+		],
+		"MSX Audio (FS-CA1) (Program)": [
+			{"title": "MSX Audio (FS-CA1) (Program)"},
+			{"title": "MSX Audio (HX-MU900) (Program)", "priority": 2}
+		],
+		"Track & Field 1": [
+			{"title": "Track & Field 1"},
+			{"title": "Hyper Olympic 1"}
+		],
+		"Track & Field 2": [
+			{"title": "Track & Field 2"},
+			{"title": "Hyper Olympic 2"}
+		]
+	}
+}
