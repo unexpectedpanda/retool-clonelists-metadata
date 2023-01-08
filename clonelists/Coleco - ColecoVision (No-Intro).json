@@ -1,46 +1,57 @@
 {
 	"description": {
-		"name": [
-			"Coleco - ColecoVision"
-		],
-		"last updated": "2 January 2022",
-		"minimum version": "2.00"
+		"name": "Coleco - ColecoVision (No-Intro)",
+		"lastUpdated": "2 January 2022",
+		"minimumVersion": "2.00"
 	},
 
-	"categories": {
-		"ColecoVision Monitor Test": {
-			"match": "short",
+	"categories": [
+		{
+			"searchTerm": "ColecoVision Monitor Test",
+			"nameType": "short",
 			"categories": ["Applications"]
 		},
-		"Final Test Cartridge": {
-			"match": "short",
+		{
+			"searchTerm": "Final Test Cartridge",
+			"nameType": "short",
 			"categories": ["Applications"]
 		},
-		"Super Controller Tester": {
-			"match": "short",
+		{
+			"searchTerm": "Super Controller Tester",
+			"nameType": "short",
 			"categories": ["Applications"]
 		}
-	},
+	],
 
-	"overrides": {
-		"Super Action Football \\(Europe\\)(.*)?": {
-			"new group": "Super Action Football (Europe)",
-			"match": "regex"
+	"overrides": [
+		{
+			"searchTerm": "Super Action Football \\(Europe\\)(.*)?",
+			"nameType": "regex",
+			"newGroup": "Super Action Football Europe"
 		}
-	},
+	],
 
-	"renames": {
-		"Amazing Bumpman": [
-			{"title": "Amazing Bumpman"},
-			{"title": "Number Bumper", "priority": 2}
-		],
-		"Defender (BUG Fixed)": [
-			{"title": "Defender (BUG Fixed)"},
-			{"title": "Defender", "priority": 2}
-		],
-		"Front Line (Standard Controller)": [
-			{"title": "Front Line (Standard Controller)"},
-			{"title": "Front Line (Super Action Controller)", "priority": 2}
-		]
-	}
+	"variants": [
+		{
+			"group": "Amazing Bumpman",
+			"titles": [
+				{"searchTerm": "Amazing Bumpman"},
+				{"searchTerm": "Number Bumper", "priority": 2}
+			]
+		},
+		{
+			"group": "Defender",
+			"titles": [
+				{"searchTerm": "Defender (BUG Fixed)"},
+				{"searchTerm": "Defender", "priority": 2}
+			]
+		},
+		{
+			"group": "Front Line",
+			"titles": [
+				{"searchTerm": "Front Line (Standard Controller)"},
+				{"searchTerm": "Front Line (Super Action Controller)", "priority": 2}
+			]
+		}
+	]
 }

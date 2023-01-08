@@ -7,10 +7,10 @@
 			"These are defaults that Retool requires, don't modify this file.",
 			"Check user-config.yaml for user-editable settings."
 		],
-		"last updated": "1 December 2022"
+		"lastUpdated": "8 January 2023"
 	},
 
-	"ignore_tags": [
+	"ignoreTags": [
 		"\\s?\\(Rev(?: [0-9A-Z].*?)?\\)",
 		"\\s?\\(v[\\.0-9A-Z].*?\\)",
 		"(?<!^)\\s(?<=\\(|\\s)v(?:\\d\\.?)+",
@@ -69,7 +69,7 @@
 		"\\s?\\[(.*)?SECAM(.*)?\\]"
 	],
 
-	"disc_rename": {
+	"discRename": {
 		"(Disc 0": "(Disc ",
 		"(Disco ": "(Disc ",
 		"(Disk ": "(Disc ",
@@ -115,7 +115,7 @@
 		"(Disc Writer)": "(Disk Writer)"
 	},
 
-	"promote_editions": [
+	"promoteEditions": [
 		"\\s?\\(CGB\\+SGB Enhanced\\)",
 		"\\s?\\(SGB Enhanced.*?\\)",
 		"\\s?\\(NDSi Enhanced\\)",
@@ -209,7 +209,7 @@
 		"\\s?\\(No Logo\\)"
 	],
 
-	"demote_editions": [
+	"demoteEditions": [
 		"\\s?\\[b\\]",
 		"\\s?\\(5.25 inch\\)",
 		"\\s?\\(3.5 inch\\)",
@@ -244,7 +244,7 @@
 		"\\s?\\(Unl\\)"
 	],
 
-	"modern_editions": [
+	"modernEditions": [
 		"\\s?\\((?:\\w*?,?\\s)*Switch Version(?:,?\\s\\w*?)*\\)",
 		"\\s?\\((?:\\w*?,?\\s)*Switch Online(?:,?\\s\\w*?)*\\)",
 		"\\s?\\((?:\\w*?,?\\s)*Wii\\s?U Virtual Console(?:,?\\s\\w*?)*\\)",
@@ -344,203 +344,203 @@
 		"Ukranian": "Uk"
 	},
 
-	"default_region_order": {
+	"defaultRegionOrder": {
 		"USA": {
-			"implied_language": "English"
+			"impliedLanguage": "English"
 		},
 		"World": {
-			"implied_language": "English"
+			"impliedLanguage": "English"
 		},
 		"Canada": {
-			"implied_language": "English"
+			"impliedLanguage": "English"
 		},
 		"UK": {
-			"implied_language": "English"
+			"impliedLanguage": "English"
 		},
 		"Australia": {
-			"implied_language": "English"
+			"impliedLanguage": "English"
 		},
 		"New Zealand": {
-			"implied_language": "English"
+			"impliedLanguage": "English"
 		},
 		"Singapore": {
-			"implied_language": "English"
+			"impliedLanguage": "English"
 		},
 		"Ireland": {
-			"implied_language": "English"
+			"impliedLanguage": "English"
 		},
 		"Europe": {
-			"implied_language": "English"
+			"impliedLanguage": "English"
 		},
 		"Japan": {
-			"implied_language": "Japanese"
+			"impliedLanguage": "Japanese"
 		},
 		"Asia": {
-			"implied_language": "English"
+			"impliedLanguage": "English"
 		},
 		"Thailand": {
-			"implied_language": ""
+			"impliedLanguage": ""
 		},
 		"Spain": {
-			"implied_language": "Spanish"
+			"impliedLanguage": "Spanish"
 		},
 		"Mexico": {
-			"implied_language": "Spanish"
+			"impliedLanguage": "Spanish"
 		},
 		"Argentina": {
-			"implied_language": "Spanish"
+			"impliedLanguage": "Spanish"
 		},
 		"Latin America": {
-			"implied_language": ""
+			"impliedLanguage": ""
 		},
 		"Brazil": {
-			"implied_language": "Portuguese"
+			"impliedLanguage": "Portuguese"
 		},
 		"Portugal": {
-			"implied_language": "Portuguese"
+			"impliedLanguage": "Portuguese"
 		},
 		"France": {
-			"implied_language": "French"
+			"impliedLanguage": "French"
 		},
 		"Belgium": {
-			"implied_language": "French"
+			"impliedLanguage": "French"
 		},
 		"Netherlands": {
-			"implied_language": "Dutch"
+			"impliedLanguage": "Dutch"
 		},
 		"Germany": {
-			"implied_language": "German"
+			"impliedLanguage": "German"
 		},
 		"Austria": {
-			"implied_language": "German"
+			"impliedLanguage": "German"
 		},
 		"Italy": {
-			"implied_language": "Italian"
+			"impliedLanguage": "Italian"
 		},
 		"Switzerland": {
-			"implied_language": ""
+			"impliedLanguage": ""
 		},
 		"Hong Kong": {
-			"implied_language": "Chinese"
+			"impliedLanguage": "Chinese"
 		},
 		"China": {
-			"implied_language": "Chinese"
+			"impliedLanguage": "Chinese"
 		},
 		"Taiwan": {
-			"implied_language": "Chinese"
+			"impliedLanguage": "Chinese"
 		},
 		"Korea": {
-			"implied_language": "Korean"
+			"impliedLanguage": "Korean"
 		},
 		"Russia": {
-			"implied_language": "Russian"
+			"impliedLanguage": "Russian"
 		},
 		"Ukraine": {
-			"implied_language": ""
+			"impliedLanguage": ""
 		},
 		"Estonia": {
-			"implied_language": "Estonian"
+			"impliedLanguage": "Estonian"
 		},
 		"Poland": {
-			"implied_language": "Polish"
+			"impliedLanguage": "Polish"
 		},
 		"Latvia": {
-			"implied_language": "Latvian"
+			"impliedLanguage": "Latvian"
 		},
 		"Lithuania": {
-			"implied_language": "Lithuanian"
+			"impliedLanguage": "Lithuanian"
 		},
 		"Denmark": {
-			"implied_language": "Danish"
+			"impliedLanguage": "Danish"
 		},
 		"Norway": {
-			"implied_language": "Norwegian"
+			"impliedLanguage": "Norwegian"
 		},
 		"Sweden": {
-			"implied_language": "Swedish"
+			"impliedLanguage": "Swedish"
 		},
 		"Scandinavia": {
-			"implied_language": ""
+			"impliedLanguage": ""
 		},
 		"Finland": {
-			"implied_language": "Finnish"
+			"impliedLanguage": "Finnish"
 		},
 		"Iceland": {
-			"implied_language": "Icelandic"
+			"impliedLanguage": "Icelandic"
 		},
 		"Hungary": {
-			"implied_language": "Hungarian"
+			"impliedLanguage": "Hungarian"
 		},
 		"Czech": {
-			"implied_language": "Czech"
+			"impliedLanguage": "Czech"
 		},
 		"Greece": {
-			"implied_language": "Greek"
+			"impliedLanguage": "Greek"
 		},
 		"Macedonia": {
-			"implied_language": "Macedonian"
+			"impliedLanguage": "Macedonian"
 		},
 		"India": {
-			"implied_language": "English"
+			"impliedLanguage": "English"
 		},
 		"South Africa": {
-			"implied_language": ""
+			"impliedLanguage": ""
 		},
 		"Israel": {
-			"implied_language": "Hebrew"
+			"impliedLanguage": "Hebrew"
 		},
 		"Slovakia": {
-			"implied_language": "Slovakian"
+			"impliedLanguage": "Slovakian"
 		},
 		"Turkey": {
-			"implied_language": "Turkish"
+			"impliedLanguage": "Turkish"
 		},
 		"Croatia": {
-			"implied_language": "Croatian"
+			"impliedLanguage": "Croatian"
 		},
 		"Slovenia": {
-			"implied_language": "Slovenian"
+			"impliedLanguage": "Slovenian"
 		},
 		"United Arab Emirates": {
-			"implied_language": "Arabic"
+			"impliedLanguage": "Arabic"
 		},
 		"Bulgaria": {
-			"implied_language": "Bulgarian"
+			"impliedLanguage": "Bulgarian"
 		},
 		"Romania": {
-			"implied_language": "Romanian"
+			"impliedLanguage": "Romanian"
 		},
 		"Albania": {
-			"implied_language": "Albanian"
+			"impliedLanguage": "Albanian"
 		},
 		"Serbia": {
-			"implied_language": "Serbian"
+			"impliedLanguage": "Serbian"
 		},
 		"Indonesia": {
-			"implied_language": "Indonesian"
+			"impliedLanguage": "Indonesian"
 		},
 		"Unknown": {
-			"implied_language": ""
+			"impliedLanguage": ""
 		}
 	},
 
-	"default_video_order": [
+	"defaultVideoOrder": [
 		"NTSC",
 		"PAL",
 		"MPAL",
 		"SECAM"
 	],
 
-	"clone_list_metadata_url": "https://raw.githubusercontent.com/unexpectedpanda/retool-clonelists-metadata/retool2",
-	"program_url": "https://raw.githubusercontent.com/unexpectedpanda/retool/retool2",
+	"cloneListMetadataUrl": "https://raw.githubusercontent.com/unexpectedpanda/retool-clonelists-metadata/v2",
+	"programUrl": "https://raw.githubusercontent.com/unexpectedpanda/retool/v2",
 
-	"user_config": "config/user-config.yaml",
+	"userConfig": "config/user-config.yaml",
 
-	"clone_lists": {
-		"local_dir": "clonelists"
+	"cloneLists": {
+		"localDir": "clonelists"
 	},
 
 	"metadata": {
-		"local_dir": "metadata"
+		"localDir": "metadata"
 	}
 }

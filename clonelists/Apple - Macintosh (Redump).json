@@ -1,10 +1,8 @@
 {
 	"description": {
-		"name": [
-			"Apple - Macintosh (Redump)"
-		],
-		"last updated": "19 November 2022",
-		"minimum version": "2.00"
+		"name": "Apple - Macintosh (Redump)",
+		"lastUpdated": "19 November 2022",
+		"minimumVersion": "2.00"
 	},
 
 	"mias": [
@@ -43,6 +41,7 @@
 		"Baldur's Gate II - Shadows of Amn (USA) (Disc 3)",
 		"Baldur's Gate II - Shadows of Amn (USA) (Disc 4)",
 		"Bandai Visual CD-ROM Previews for Macintosh Vol. 1 (Japan)",
+		"Barbara ni Aitakute... (Japan)",
 		"Beach Head 2002 (USA)",
 		"Black & White (Japan) (Data Disc)",
 		"Black & White (Japan) (Game Disc)",
@@ -80,7 +79,6 @@
 		"Daedalus Encounter, The - Episode 1 - Nanpasen no Alien (Japan) (Disc 2)",
 		"Daedalus Encounter, The - Episode 1 - Nanpasen no Alien (Japan) (Disc 3)",
 		"Darkseed (Europe) (Fr,De)",
-		"Descent - Levels of the World (USA)",
 		"Dig, The (UK)",
 		"Dink - Interactive Nanpa Special (Japan)",
 		"Eberouge (Japan)",
@@ -106,6 +104,7 @@
 		"Journeyman Project 2, The - Buried in Time (Japan) (Disc 1)",
 		"Journeyman Project 2, The - Buried in Time (Japan) (Disc 2)",
 		"Journeyman Project 2, The - Buried in Time (Japan) (Disc 3)",
+		"Journeyman Project, The (Japan)",
 		"Kana - Imouto (Japan)",
 		"Klik & Play (France)",
 		"Last War (Japan)",
@@ -157,6 +156,7 @@
 		"MacUser - MacBin 9 (Japan)",
 		"Mad Dog McCree (USA)",
 		"Maniac Mansion - Day of the Tentacle (France)",
+		"MechWarrior 2 - 31st Century Combat (USA)",
 		"Monty Python Sacre Graal (France)",
 		"Monty Python's Complete Waste of Time (USA)",
 		"Myst (Japan)",
@@ -232,125 +232,255 @@
 		"Zork Nemesis (Japan) (Disc 3)"
 	],
 
-	"renames": {
-		"3-D Ultra Pinball": [
-			{"title": "3-D Ultra Pinball"},
-			{"compilation": "3-D Ultra Pinball & Trophy Bass", "title_position": 1}
-		],
-		"Black & White (Data Disc)": [
-			{"title": "Black & White (Data Disc)"},
-			{"superset": "Black & White - Platinum Pack"}
-		],
-		"Black & White (Game Disc)": [
-			{"title": "Black & White (Game Disc)"},
-			{"superset": "Black & White - Platinum Pack"}
-		],
-		"Daedalus Encounter, The (Disc 1)": [
-			{"title": "Daedalus Encounter, The (Disc 1)"},
-			{"title": "Daedalus Encounter, The - Episode 1 - Nanpasen no Alien (Disc 1)"}
-		],
-		"Daedalus Encounter, The (Disc 2)": [
-			{"title": "Daedalus Encounter, The (Disc 2)"},
-			{"title": "Daedalus Encounter, The - Episode 1 - Nanpasen no Alien (Disc 2)"}
-		],
-		"Dungeon Master II - The Legend of Skullkeep": [
-			{"title": "Dungeon Master II - The Legend of Skullkeep"},
-			{"title": "Dungeon Master II - Skullkeep"}
-		],
-		"Harry Potter and the Chamber of Secrets": [
-			{"title": "Harry Potter and the Chamber of Secrets"},
-			{"title": "Harry Potter et la Chambre des Secrets"}
-		],
-		"Harry Potter and the Sorcerer's Stone": [
-			{"title": "Harry Potter and the Sorcerer's Stone"},
-			{"title": "Harry Potter a l'Ecole des Sorciers"},
-			{"superset": "Harry Potter and the Sorcerer's Stone (Deluxe Edition)"}
-		],
-		"In Memoriam (Mac Install)": [
-			{"title": "In Memoriam (Mac Install)"},
-			{"title": "In Memoriam (MAC - Install)"}
-		],
-		"Legend of Kyrandia, The - Book One": [
-			{"title": "Legend of Kyrandia, The - Book One"},
-			{"title": "Legend of Kyrandia, The", "priority": 2}
-		],
-		"Medal of Honor - Allied Assault (Disc 1)": [
-			{"title": "Medal of Honor - Allied Assault (Disc 1)"},
-			{"superset": "Medal of Honor - Allied Assault - War Chest"}
-		],
-		"Medal of Honor - Allied Assault (Disc 2)": [
-			{"title": "Medal of Honor - Allied Assault (Disc 2)"},
-			{"superset": "Medal of Honor - Allied Assault - War Chest"}
-		],
-		"Medal of Honor - Allied Assault - Breakthrough": [
-			{"title": "Medal of Honor - Allied Assault - Breakthrough"},
-			{"superset": "Medal of Honor - Allied Assault - War Chest"}
-		],
-		"Medal of Honor - Allied Assault - Spearhead": [
-			{"title": "Medal of Honor - Allied Assault - Spearhead"},
-			{"superset": "Medal of Honor - Allied Assault - War Chest"}
-		],
-		"Myst (Kinen Kakaku-ban)": [
-			{"title": "Myst (Kinen Kakaku-ban)"},
-			{"title": "Myst", "priority": 2}
-		],
-		"Rayman 3 - Hoodlum Havoc (Disc 1)": [
-			{"title": "Rayman 3 - Hoodlum Havoc (Disc 1)"},
-			{"superset": "Rayman 3 - Hoodlum Havoc"}
-		],
-		"Rayman 3 - Hoodlum Havoc (Disc 2)": [
-			{"title": "Rayman 3 - Hoodlum Havoc (Disc 2)"},
-			{"superset": "Rayman 3 - Hoodlum Havoc"}
-		],
-		"Rayman 3 - Hoodlum Havoc (Disc 3)": [
-			{"title": "Rayman 3 - Hoodlum Havoc (Disc 3)"},
-			{"superset": "Rayman 3 - Hoodlum Havoc"}
-		],
-		"Sims, The": [
-			{"title": "Sims, The"},
-			{"title": "SimPeople"},
-			{"superset": "Sims, The - Complete Collection"}
-		],
-		"Sims, The - Hot Date (Expansion Pack)": [
-			{"title": "Sims, The - Hot Date (Expansion Pack)"},
-			{"superset": "Sims, The - Complete Collection"}
-		],
-		"Sims, The - Livin' Large (Expansion Pack)": [
-			{"title": "Sims, The - Livin' Large (Expansion Pack)"},
-			{"superset": "Sims, The - Complete Collection"}
-		],
-		"Sims, The - Party Pack": [
-			{"title": "Sims, The - Party Pack"},
-			{"superset": "Sims, The - Complete Collection"}
-		],
-		"Sims, The - Superstar (Expansion Pack) (Disc 1)": [
-			{"title": "Sims, The - Superstar (Expansion Pack) (Disc 1)"},
-			{"title": "Sims, Les - Superstar (Disc 1) (Disc Additionnel)"},
-			{"superset": "Sims, The - Complete Collection"}
-		],
-		"Sims, The - Superstar (Expansion Pack) (Disc 2)": [
-			{"title": "Sims, The - Superstar (Expansion Pack) (Disc 2)"},
-			{"title": "Sims, Les - Superstar (Disc 2) (Disc Additionnel)"},
-			{"superset": "Sims, The - Complete Collection"}
-		],
-		"Sims, The - Vacation (Expansion Pack)": [
-			{"title": "Sims, The - Vacation (Expansion Pack)"},
-			{"superset": "Sims, The - Complete Collection"}
-		],
-		"Trophy Bass": [
-			{"compilation": "3-D Ultra Pinball & Trophy Bass", "title_position": 2}
-		],
-		"Zork Nemesis (Disc 1)": [
-			{"title": "Zork Nemesis (Disc 1)"},
-			{"title": "Zork Nemesis - The Forbidden Lands (Disc 1)"}
-		],
-		"Zork Nemesis (Disc 2)": [
-			{"title": "Zork Nemesis (Disc 2)"},
-			{"title": "Zork Nemesis - The Forbidden Lands (Disc 2)"}
-		],
-		"Zork Nemesis (Disc 3)": [
-			{"title": "Zork Nemesis (Disc 3)"},
-			{"title": "Zork Nemesis - The Forbidden Lands (Disc 3)"}
-		]
-	}
+	"variants": [
+		{
+			"group": "3-D Ultra Pinball",
+			"titles": [
+				{"searchTerm": "3-D Ultra Pinball"}
+			],
+			"compilations": [
+				{"searchTerm": "3-D Ultra Pinball & Trophy Bass", "titlePosition": 1}
+			]
+		},
+		{
+			"group": "Black & White (Data Disc)",
+			"titles": [
+				{"searchTerm": "Black & White (Data Disc)"}
+			],
+			"supersets": [
+				{"searchTerm": "Black & White - Platinum Pack"}
+			]
+		},
+		{
+			"group": "Black & White (Game Disc)",
+			"titles": [
+				{"searchTerm": "Black & White (Game Disc)"}
+			],
+			"supersets": [
+				{"searchTerm": "Black & White - Platinum Pack"}
+			]
+		},
+		{
+			"group": "Daedalus Encounter, The (Disc 1)",
+			"titles": [
+				{"searchTerm": "Daedalus Encounter, The (Disc 1)"},
+				{"searchTerm": "Daedalus Encounter, The - Episode 1 - Nanpasen no Alien (Disc 1)"}
+			]
+		},
+		{
+			"group": "Daedalus Encounter, The (Disc 2)",
+			"titles": [
+				{"searchTerm": "Daedalus Encounter, The (Disc 2)"},
+				{"searchTerm": "Daedalus Encounter, The - Episode 1 - Nanpasen no Alien (Disc 2)"}
+			]
+		},
+		{
+			"group": "Daedalus Encounter, The (Disc 3)",
+			"titles": [
+				{"searchTerm": "Daedalus Encounter, The (Disc 3)"},
+				{"searchTerm": "Daedalus Encounter, The - Episode 1 - Nanpasen no Alien (Disc 3)"}
+			]
+		},
+		{
+			"group": "Dungeon Master II - The Legend of Skullkeep",
+			"titles": [
+				{"searchTerm": "Dungeon Master II - The Legend of Skullkeep"},
+				{"searchTerm": "Dungeon Master II - Skullkeep"}
+			]
+		},
+		{
+			"group": "Harry Potter and the Chamber of Secrets",
+			"titles": [
+				{"searchTerm": "Harry Potter and the Chamber of Secrets"},
+				{"searchTerm": "Harry Potter et la Chambre des Secrets"}
+			]
+		},
+		{
+			"group": "Harry Potter and the Sorcerer's Stone",
+			"titles": [
+				{"searchTerm": "Harry Potter and the Sorcerer's Stone"},
+				{"searchTerm": "Harry Potter a l'Ecole des Sorciers"}
+			],
+			"supersets": [
+				{"searchTerm": "Harry Potter and the Sorcerer's Stone (Deluxe Edition)"}
+			]
+		},
+		{
+			"group": "In Memoriam (Mac Install)",
+			"titles": [
+				{"searchTerm": "In Memoriam (Mac Install)"},
+				{"searchTerm": "In Memoriam (MAC - Install)"}
+			]
+		},
+		{
+			"group": "Legend of Kyrandia, The - Book One",
+			"titles": [
+				{"searchTerm": "Legend of Kyrandia, The - Book One"},
+				{"searchTerm": "Legend of Kyrandia, The", "priority": 2}
+			]
+		},
+		{
+			"group": "Medal of Honor - Allied Assault (Disc 1)",
+			"titles": [
+				{"searchTerm": "Medal of Honor - Allied Assault (Disc 1)"}
+			],
+			"supersets": [
+				{"searchTerm": "Medal of Honor - Allied Assault - War Chest"}
+			]
+		},
+		{
+			"group": "Medal of Honor - Allied Assault (Disc 2)",
+			"titles": [
+				{"searchTerm": "Medal of Honor - Allied Assault (Disc 2)"}
+			],
+			"supersets": [
+				{"searchTerm": "Medal of Honor - Allied Assault - War Chest"}
+			]
+		},
+		{
+			"group": "Medal of Honor - Allied Assault - Breakthrough",
+			"titles": [
+				{"searchTerm": "Medal of Honor - Allied Assault - Breakthrough"}
+			],
+			"supersets": [
+				{"searchTerm": "Medal of Honor - Allied Assault - War Chest"}
+			]
+		},
+		{
+			"group": "Medal of Honor - Allied Assault - Spearhead",
+			"titles": [
+				{"searchTerm": "Medal of Honor - Allied Assault - Spearhead"}
+			],
+			"supersets": [
+				{"searchTerm": "Medal of Honor - Allied Assault - War Chest"}
+			]
+		},
+		{
+			"group": "Myst (Kinen Kakaku-ban)",
+			"titles": [
+				{"searchTerm": "Myst (Kinen Kakaku-ban)"},
+				{"searchTerm": "Myst", "priority": 2}
+			]
+		},
+		{
+			"group": "Rayman 3 - Hoodlum Havoc (Disc 1)",
+			"titles": [
+				{"searchTerm": "Rayman 3 - Hoodlum Havoc (Disc 1)"}
+			],
+			"supersets": [
+				{"searchTerm": "Rayman 3 - Hoodlum Havoc"}
+			]
+		},
+		{
+			"group": "Rayman 3 - Hoodlum Havoc (Disc 2)",
+			"titles": [
+				{"searchTerm": "Rayman 3 - Hoodlum Havoc (Disc 2)"}
+			],
+			"supersets": [
+				{"searchTerm": "Rayman 3 - Hoodlum Havoc"}
+			]
+		},
+		{
+			"group": "Rayman 3 - Hoodlum Havoc (Disc 3)",
+			"titles": [
+				{"searchTerm": "Rayman 3 - Hoodlum Havoc (Disc 3)"}
+			],
+			"supersets": [
+				{"searchTerm": "Rayman 3 - Hoodlum Havoc"}
+			]
+		},
+		{
+			"group": "Sims, The",
+			"titles": [
+				{"searchTerm": "Sims, The"},
+				{"searchTerm": "SimPeople"}
+			],
+			"supersets": [
+				{"searchTerm": "Sims, The - Complete Collection"}
+			]
+		},
+		{
+			"group": "Sims, The - Hot Date (Expansion Pack)",
+			"titles": [
+				{"searchTerm": "Sims, The - Hot Date (Expansion Pack)"}
+			],
+			"supersets": [
+				{"searchTerm": "Sims, The - Complete Collection"}
+			]
+		},
+		{
+			"group": "Sims, The - Livin' Large (Expansion Pack)",
+			"titles": [
+				{"searchTerm": "Sims, The - Livin' Large (Expansion Pack)"}
+			],
+			"supersets": [
+				{"searchTerm": "Sims, The - Complete Collection"}
+			]
+		},
+		{
+			"group": "Sims, The - Party Pack",
+			"titles": [
+				{"searchTerm": "Sims, The - Party Pack"}
+			],
+			"supersets": [
+				{"searchTerm": "Sims, The - Complete Collection"}
+			]
+		},
+		{
+			"group": "Sims, The - Superstar (Expansion Pack) (Disc 1)",
+			"titles": [
+				{"searchTerm": "Sims, The - Superstar (Expansion Pack) (Disc 1)"},
+				{"searchTerm": "Sims, Les - Superstar (Disc 1) (Disc Additionnel)"}
+			],
+			"supersets": [
+				{"searchTerm": "Sims, The - Complete Collection"}
+			]
+		},
+		{
+			"group": "Sims, The - Superstar (Expansion Pack) (Disc 2)",
+			"titles": [
+				{"searchTerm": "Sims, The - Superstar (Expansion Pack) (Disc 2)"},
+				{"searchTerm": "Sims, Les - Superstar (Disc 2) (Disc Additionnel)"}
+			],
+			"supersets": [
+				{"searchTerm": "Sims, The - Complete Collection"}
+			]
+		},
+		{
+			"group": "Sims, The - Vacation (Expansion Pack)",
+			"titles": [
+				{"searchTerm": "Sims, The - Vacation (Expansion Pack)"}
+			],
+			"supersets": [
+				{"searchTerm": "Sims, The - Complete Collection"}
+			]
+		},
+		{
+			"group": "Trophy Bass",
+			"compilations": [
+				{"searchTerm": "3-D Ultra Pinball & Trophy Bass", "titlePosition": 2}
+			]
+		},
+		{
+			"group": "Zork Nemesis (Disc 1)",
+			"titles": [
+				{"searchTerm": "Zork Nemesis (Disc 1)"},
+				{"searchTerm": "Zork Nemesis - The Forbidden Lands (Disc 1)"}
+			]
+		},
+		{
+			"group": "Zork Nemesis (Disc 2)",
+			"titles": [
+				{"searchTerm": "Zork Nemesis (Disc 2)"},
+				{"searchTerm": "Zork Nemesis - The Forbidden Lands (Disc 2)"}
+			]
+		},
+		{
+			"group": "Zork Nemesis (Disc 3)",
+			"titles": [
+				{"searchTerm": "Zork Nemesis (Disc 3)"},
+				{"searchTerm": "Zork Nemesis - The Forbidden Lands (Disc 3)"}
+			]
+		}
+	]
 }

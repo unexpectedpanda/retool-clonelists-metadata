@@ -1,32 +1,45 @@
 {
 	"description": {
-		"name": [
-			"Philips - Videopac+"
-		],
-		"last updated": "9 April 2021",
-		"minimum version": "2.00"
+		"name": "Philips - Videopac+ (No-Intro)",
+		"lastUpdated": "9 April 2021",
+		"minimumVersion": "2.00"
 	},
 
-	"renames": {
-		"Cosmic Conflict": [
-			{"title": "Cosmic Conflict"},
-			{"title": "Guerre de l'Espace"}
-		],
-		"Electronic Billiards": [
-			{"title": "Electronic Billiards"},
-			{"title": "Billard Electrique"}
-		],
-		"Killer Bees": [
-			{"title": "Killer Bees"},
-			{"title": "Ruche Infernale, La"}
-		],
-		"Race + Spin-out + Cryptogram": [
-			{"title": "Race + Spin-out + Cryptogram"},
-			{"title": "Course de Voitures + Autodrome + Cryptogramme"}
-		],
-		"Tenpin Bowling + Basketball": [
-			{"title": "Tenpin Bowling + Basketball"},
-			{"title": "Jeu de Quilles + Basketball"}
-		]
-	}
+	"variants": [
+		{
+			"group": "Cosmic Conflict",
+			"titles": [
+				{"searchTerm": "Cosmic Conflict"},
+				{"searchTerm": "Guerre de l'Espace"}
+			]
+		},
+		{
+			"group": "Electronic Billiards",
+			"titles": [
+				{"searchTerm": "Electronic Billiards"},
+				{"searchTerm": "Billard Electrique"}
+			]
+		},
+		{
+			"group": "Killer Bees",
+			"titles": [
+				{"searchTerm": "Killer Bees"},
+				{"searchTerm": "Ruche Infernale, La"}
+			]
+		},
+		{
+			"group": "Race + Spin-out + Cryptogram",
+			"titles": [
+				{"searchTerm": "Race + Spin-out + Cryptogram"},
+				{"searchTerm": "Course de Voitures + Autodrome + Cryptogramme"}
+			]
+		},
+		{
+			"group": "Tenpin Bowling + Basketball",
+			"titles": [
+				{"searchTerm": "Tenpin Bowling + Basketball"},
+				{"searchTerm": "Jeu de Quilles + Basketball"}
+			]
+		}
+	]
 }

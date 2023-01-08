@@ -1,39 +1,54 @@
 {
 	"description": {
-		"name": [
-			"Fujitsu - FM-Towns"
-		],
-		"last updated": "26 July 2022",
-		"minimum version": "2.00"
+		"name": "Fujitsu - FM-Towns (Redump)",
+		"lastUpdated": "26 July 2022",
+		"minimumVersion": "2.00"
 	},
 
-	"categories": {
-		"FM Series Software Taikenban CD-ROM": {
-			"match": "short",
+	"categories": [
+		{
+			"searchTerm": "FM Series Software Taikenban CD-ROM",
+			"nameType": "short",
 			"categories": ["Applications", "Demos"]
 		}
-	},
+	],
 
 	"mias": [
 		"Wing Commander (Japan) (En,Ja) (Alt)"
 	],
 
-	"renames": {
-		"GNU for Towns Rel. 2": [
-			{"title": "GNU for Towns Rel. 2"},
-			{"title": "GNU for Towns", "priority": 2}
-		],
-		"Ms. Detective File 1 - Iwami Ginzan Satsujin Jiken (Disc 1)": [
-			{"title": "Ms. Detective File 1 - Iwami Ginzan Satsujin Jiken (Disc 1)"},
-			{"superset": "Ms. Detective File 1 - Iwami Ginzan Satsujin Jiken"}
-		],
-		"Ms. Detective File 1 - Iwami Ginzan Satsujin Jiken (Disc 2)": [
-			{"title": "Ms. Detective File 1 - Iwami Ginzan Satsujin Jiken (Disc 2)"},
-			{"superset": "Ms. Detective File 1 - Iwami Ginzan Satsujin Jiken"}
-		],
-		"Super Real Mahjong PII & PIII+": [
-			{"title": "Super Real Mahjong PII & PIII+"},
-			{"title": "Super Real Mahjong PII & PIII", "priority": 2}
-		]
-	}
+	"variants": [
+		{
+			"group": "GNU for Towns Rel. 2",
+			"titles": [
+				{"searchTerm": "GNU for Towns Rel. 2"},
+				{"searchTerm": "GNU for Towns", "priority": 2}
+			]
+		},
+		{
+			"group": "Ms. Detective File 1 - Iwami Ginzan Satsujin Jiken (Disc 1)",
+			"titles": [
+				{"searchTerm": "Ms. Detective File 1 - Iwami Ginzan Satsujin Jiken (Disc 1)"}
+			],
+			"supersets": [
+				{"searchTerm": "Ms. Detective File 1 - Iwami Ginzan Satsujin Jiken"}
+			]
+		},
+		{
+			"group": "Ms. Detective File 1 - Iwami Ginzan Satsujin Jiken (Disc 2)",
+			"titles": [
+				{"searchTerm": "Ms. Detective File 1 - Iwami Ginzan Satsujin Jiken (Disc 2)"}
+			],
+			"supersets": [
+				{"searchTerm": "Ms. Detective File 1 - Iwami Ginzan Satsujin Jiken"}
+			]
+		},
+		{
+			"group": "Super Real Mahjong PII & PIII+",
+			"titles": [
+				{"searchTerm": "Super Real Mahjong PII & PIII+"},
+				{"searchTerm": "Super Real Mahjong PII & PIII", "priority": 2}
+			]
+		}
+	]
 }

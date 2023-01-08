@@ -1,10 +1,8 @@
 {
 	"description": {
-		"name": [
-			"IBM - PC compatible (Redump)"
-		],
-		"last updated": "26 July 2022",
-		"minimum version": "2.00"
+		"name": "IBM - PC compatible (Redump)",
+		"lastUpdated": "26 July 2022",
+		"minimumVersion": "2.00"
 	},
 
 	"mias": [
@@ -3222,31 +3220,38 @@
 		"realMyst - Masterpiece Edition (USA)"
 	],
 
-	"overrides": {
-		"CD-Action 03-1997 (10B) (Poland)": {
-			"new group": "CD-Action 03-1997 (10B) (Poland)",
-			"match": "full"
+	"overrides": [
+		{
+			"searchTerm": "CD-Action 03-1997 (10B) (Poland)",
+			"nameType": "full",
+			"newGroup": "CD-Action 03-1997 10B Poland"
 		},
-		"CD-Action 06-1997 (13B) (Poland)": {
-			"new group": "CD-Action 06-1997 (13B) (Poland)",
-			"match": "full"
+		{
+			"searchTerm": "CD-Action 06-1997 (13B) (Poland)",
+			"nameType": "full",
+			"newGroup": "CD-Action 06-1997 13B Poland"
 		},
-		"Doom (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Pl,Ru)": {
-			"new group": "Doom 2016",
-			"match": "tag free"
+		{
+			"searchTerm": "Doom (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Pl,Ru)",
+			"nameType": "tagFree",
+			"newGroup": "Doom 2016"
 		},
-		"Heimdall 2 (France)": {
-			"new group": "Heimdall & Heimdall II",
+		{
+			"searchTerm": "Heimdall 2 (France)",
+			"newGroup": "Heimdall & Heimdall II",
 			"condition": {
-				"region": ["USA"],
-				"higher than": ["France"]
+				"regionOrder": {
+					"higherRegions": ["USA"],
+					"lowerRegions": ["France"]
+				}
 			}
 		},
-		"Pokemon Play It! Version 2 Trading Card Game": {
-			"new group": "Pokemon Play It! Version 2 Trading Card Game",
-			"match": "short"
+		{
+			"searchTerm": "Pokemon Play It! Version 2 Trading Card Game",
+			"nameType": "short",
+			"newGroup": "Pokemon Play It! Version 2 Trading Card Game"
 		}
-	},
+	],
 
 	"removes": {
 		"4 Games in 1 - Strike Commander + Syndicate Plus + Ultima VIII - Pagan + Wing Commander II (USA)": {},

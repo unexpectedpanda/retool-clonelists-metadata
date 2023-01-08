@@ -1,32 +1,45 @@
 {
 	"description": {
-		"name": [
-			"Atari - Jaguar"
-		],
-		"last updated": "9 April 2021",
-		"minimum version": "2.00"
+		"name": "Atari - Jaguar (No-Intro)",
+		"lastUpdated": "9 April 2021",
+		"minimumVersion": "2.00"
 	},
 
-	"renames": {
-		"Battle Sphere Gold": [
-			{"title": "Battle Sphere Gold"},
-			{"title": "Battle Sphere", "priority": 2}
-		],
-		"Checkered Flag": [
-			{"title": "Checkered Flag"},
-			{"title": "Checkered Flag (CES 1993)", "priority": 2}
-		],
-		"Missile Command 3D": [
-			{"title": "Missile Command 3D"},
-			{"title": "Missile Command VR", "priority": 2}
-		],
-		"Protector - Special Edition": [
-			{"title": "Protector - Special Edition"},
-			{"title": "Protector", "priority": 2}
-		],
-		"Ultra Vortek": [
-			{"title": "Ultra Vortek"},
-			{"title": "Ultra Vortex", "priority": 2}
-		]
-	}
+	"variants": [
+		{
+			"group": "Battle Sphere Gold",
+			"titles": [
+				{"searchTerm": "Battle Sphere Gold"},
+				{"searchTerm": "Battle Sphere", "priority": 2}
+			]
+		},
+		{
+			"group": "Checkered Flag",
+			"titles": [
+				{"searchTerm": "Checkered Flag"},
+				{"searchTerm": "Checkered Flag (CES 1993)", "priority": 2}
+			]
+		},
+		{
+			"group": "Missile Command 3D",
+			"titles": [
+				{"searchTerm": "Missile Command 3D"},
+				{"searchTerm": "Missile Command VR", "priority": 2}
+			]
+		},
+		{
+			"group": "Protector",
+			"titles": [
+				{"searchTerm": "Protector - Special Edition"},
+				{"searchTerm": "Protector", "priority": 2}
+			]
+		},
+		{
+			"group": "Ultra Vortek",
+			"titles": [
+				{"searchTerm": "Ultra Vortek"},
+				{"searchTerm": "Ultra Vortex", "priority": 2}
+			]
+		}
+	]
 }

@@ -1,18 +1,17 @@
 {
 	"description": {
-		"name": [
-			"Microsoft - Xbox (Redump)"
-		],
-		"last updated": "9 July 2022",
-		"minimum version": "2.00"
+		"name": "Microsoft - Xbox (Redump)",
+		"lastUpdated": "9 July 2022",
+		"minimumVersion": "2.00"
 	},
 
-	"categories": {
-		"Official Xbox Magazine Game Disc 48 (Europe) (Fr,Es,It,Pt)": {
-			"match": "full",
+	"categories": [
+		{
+			"searchTerm": "Official Xbox Magazine Game Disc 48 (Europe) (Fr,Es,It,Pt)",
+			"nameType": "full",
 			"categories": ["Coverdiscs"]
 		}
-	},
+	],
 
 	"mias": [
 		"Colin McRae Rally 04 (Asia)",
@@ -282,7 +281,7 @@
 		],
 		"JSRF - Jet Set Radio Future": [
 			{"title": "JSRF - Jet Set Radio Future"},
-			{"compilation": "Sega GT 2002 + JSRF - Jet Set Radio Future", "title_position": 2}
+			{"compilation": "Sega GT 2002 + JSRF - Jet Set Radio Future", "titlePosition": 2}
 		],
 		"Kabuki Warriors": [
 			{"title": "Kabuki Warriors"},
@@ -376,7 +375,7 @@
 		],
 		"NCAA Football 2005": [
 			{"title": "NCAA Football 2005"},
-			{"compilation": "NCAA Football 2005 + Top Spin", "title_position": 1}
+			{"compilation": "NCAA Football 2005 + Top Spin", "titlePosition": 1}
 		],
 		"Need for Speed - Most Wanted": [
 			{"title": "Need for Speed - Most Wanted"},
@@ -456,7 +455,7 @@
 		],
 		"Sega GT 2002": [
 			{"title": "Sega GT 2002"},
-			{"compilation": "Sega GT 2002 + JSRF - Jet Set Radio Future", "title_position": 1}
+			{"compilation": "Sega GT 2002 + JSRF - Jet Set Radio Future", "titlePosition": 1}
 		],
 		"Silent Hill 2 - Restless Dreams": [
 			{"title": "Silent Hill 2 - Restless Dreams"},
@@ -484,7 +483,7 @@
 			{"title": "Star Wars - The Clone Wars"},
 			{"title": "Star Wars - La Guerra dei Cloni"},
 			{"title": "Star Wars - Las Guerras Clon"},
-			{"compilation": "Star Wars - The Clone Wars + Tetris Worlds", "title_position": 1}
+			{"compilation": "Star Wars - The Clone Wars + Tetris Worlds", "titlePosition": 1}
 		],
 		"Steel Battalion": [
 			{"title": "Steel Battalion"},
@@ -509,7 +508,7 @@
 		"Tetris Worlds (Online Enabled)": [
 			{"title": "Tetris Worlds (Online Enabled)"},
 			{"title": "Tetris Worlds", "priority": 2},
-			{"compilation": "Star Wars - The Clone Wars + Tetris Worlds", "title_position": 2}
+			{"compilation": "Star Wars - The Clone Wars + Tetris Worlds", "titlePosition": 2}
 		],
 		"TOCA Race Driver (Online Enabled)": [
 			{"title": "TOCA Race Driver (Online Enabled)"},
@@ -531,7 +530,7 @@
 		],
 		"Top Spin": [
 			{"title": "Top Spin"},
-			{"compilation": "NCAA Football 2005 + Top Spin", "title_position": 2}
+			{"compilation": "NCAA Football 2005 + Top Spin", "titlePosition": 2}
 		],
 		"UFC - Ultimate Fighting Championship - Tapout 2": [
 			{"title": "UFC - Ultimate Fighting Championship - Tapout 2"},

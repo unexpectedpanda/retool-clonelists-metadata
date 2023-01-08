@@ -1,39 +1,39 @@
 {
 	"description": {
-		"name": [
-			"Nintendo - Pokemon Mini"
-		],
-		"last updated": "9 April 2021",
-		"minimum version": "2.00"
+		"name": "Nintendo - Pokemon Mini (No-Intro)",
+		"lastUpdated": "9 April 2021",
+		"minimumVersion": "2.00"
 	},
 
-	"overrides": {
-		"Pokemon Pinball Mini (USA) (GameCube Preview)": {
-			"new group": "Pokemon Pinball Mini (USA) (GameCube Preview)",
-			"match": "full"
+	"overrides": [
+		{
+			"searchTerm": "Pokemon Pinball Mini (USA) (GameCube Preview)",
+			"nameType": "full",
+			"newGroup": "Pokemon Pinball Mini USA GameCube Preview"
 		},
-		"Pokemon Puzzle Collection \\((USA|France|Germany)\\) \\(GameCube Preview\\)": {
-			"new group": "Pokemon Puzzle Collection (GameCube Preview)",
-			"match": "regex"
+		{
+			"searchTerm": "Pokemon Puzzle Collection \\((USA|France|Germany)\\) \\(GameCube Preview\\)",
+			"nameType": "regex",
+			"newGroup": "Pokemon Puzzle Collection GameCube Preview"
 		}
-	},
+	],
 
 	"renames": {
 		"Pokemon Party Mini - Rocket Start": [
 			{"title": "Pokemon Party Mini - Rocket Start"},
-			{"title": "Pokemon Party Mini - Pikachu's Rocket Start", "priority": 1}
+			{"title": "Pokemon Party Mini - Pikachu's Rocket Start"}
 		],
 		"Pokemon Tetris": [
 			{"title": "Pokemon Tetris"},
-			{"title": "Pokemon Shock Tetris", "priority": 1}
+			{"title": "Pokemon Shock Tetris"}
 		],
 		"Pokemon Zany Cards": [
 			{"title": "Pokemon Zany Cards"},
-			{"title": "Pokemon Anime Card Daisakusen", "priority": 1}
+			{"title": "Pokemon Anime Card Daisakusen"}
 		],
 		"Lunch Time": [
 			{"title": "Lunch Time"},
-			{"title": "Snorlax's Lunch Time", "priority": 1}
+			{"title": "Snorlax's Lunch Time"}
 		]
 	}
 }

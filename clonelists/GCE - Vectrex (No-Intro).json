@@ -1,51 +1,70 @@
 {
 	"description": {
-		"name": [
-			"GCE - Vectrex"
-		],
-		"last updated": "22 October 2021",
-		"minimum version": "2.00"
+		"name": "GCE - Vectrex (No-Intro)",
+		"lastUpdated": "22 October 2021",
+		"minimumVersion": "2.00"
 	},
 
-	"categories": {
-		"Engine Analyzer": {
-			"match": "short",
+	"categories": [
+		{
+			"searchTerm": "Engine Analyzer",
+			"nameType": "short",
 			"categories": ["Applications", "Preproduction"]
 		},
-		"RA+A Spectrum I+ Stress Tester": {
-			"match": "short",
+		{
+			"searchTerm": "RA+A Spectrum I+ Stress Tester",
+			"nameType": "short",
 			"categories": ["Applications", "Preproduction"]
 		},
-		"Test Cartridge": {
-			"match": "short",
+		{
+			"searchTerm": "Test Cartridge",
+			"nameType": "short",
 			"categories": ["Applications", "Preproduction"]
 		}
-	},
+	],
 
-	"renames": {
-		"Blitz! - Action Football (881B27C5)": [
-			{"title": "Blitz! - Action Football (881B27C5)"},
-			{"title": "Blitz! - Action Football (0F11CE0C)", "priority": 2}
-		],
-		"Mail Plane (DA1AC0DB)": [
-			{"title": "Mail Plane (DA1AC0DB)"},
-			{"title": "Mail Plane", "priority": 2}
-		],
-		"Mine Storm II": [
-			{"title": "Mine Storm II"},
-			{"title": "Mine Storm", "priority": 1}
-		],
-		"Pole Position (A00ED3D6)": [
-			{"title": "Pole Position (A00ED3D6)"},
-			{"title": "Pole Position (C10F37D8)", "priority": 2}
-		],
-		"Star Trek - The Motion Picture": [
-			{"title": "Star Trek - The Motion Picture"},
-			{"title": "Star Ship", "priority": 1}
-		],
-		"WebWars": [
-			{"title": "WebWars"},
-			{"title": "WebWarp", "priority": 1}
-		]
-	}
+	"variants": [
+		{
+			"group": "Blitz! - Action Football",
+			"titles": [
+				{"searchTerm": "Blitz! - Action Football (881B27C5)"},
+				{"searchTerm": "Blitz! - Action Football (0F11CE0C)", "priority": 2}
+			]
+		},
+		{
+			"group": "Mail Plane",
+			"titles": [
+				{"searchTerm": "Mail Plane (DA1AC0DB)"},
+				{"searchTerm": "Mail Plane", "priority": 2}
+			]
+		},
+		{
+			"group": "Mine Storm II",
+			"titles": [
+				{"searchTerm": "Mine Storm II"},
+				{"searchTerm": "Mine Storm"}
+			]
+		},
+		{
+			"group": "Pole Position",
+			"titles": [
+				{"searchTerm": "Pole Position (A00ED3D6)"},
+				{"searchTerm": "Pole Position (C10F37D8)", "priority": 2}
+			]
+		},
+		{
+			"group": "Star Trek - The Motion Picture",
+			"titles": [
+				{"searchTerm": "Star Trek - The Motion Picture"},
+				{"searchTerm": "Star Ship"}
+			]
+		},
+		{
+			"group": "WebWars",
+			"titles": [
+				{"searchTerm": "WebWars"},
+				{"searchTerm": "WebWarp"}
+			]
+		}
+	]
 }

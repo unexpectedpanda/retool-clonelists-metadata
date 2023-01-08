@@ -1,20 +1,20 @@
 {
 	"description": {
-		"name": [
-			"Commodore - Amiga"
-		],
-		"last updated": "20 May 2021",
-		"minimum version": "0.92"
+		"name": "Commodore - Amiga (No-Intro)",
+		"lastUpdated": "20 May 2021",
+		"minimumVersion": "0.92"
 	},
 
-	"categories": {
-		"Quadralien (Europe) (En,Fr,De) (With StarRay Demo)": {
-			"match": "full",
+	"categories": [
+		{
+			"searchTerm": "Quadralien (Europe) (En,Fr,De) (With StarRay Demo)",
+			"nameType": "full",
 			"categories": ["Games"]
 		},
-		"Rugby - The World Cup (Europe) (With Demo Option)": {
-			"match": "full",
+		{
+			"searchTerm": "Rugby - The World Cup (Europe) (With Demo Option)",
+			"nameType": "full",
 			"categories": ["Games"]
 		}
-	}
+	]
 }

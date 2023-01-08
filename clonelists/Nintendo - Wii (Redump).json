@@ -1,22 +1,22 @@
 {
 	"description": {
-		"name": [
-			"Nintendo - Wii"
-		],
-		"last updated": "23 July 2022",
-		"minimum version": "2.00"
+		"name": "Nintendo - Wii (Redump)",
+		"lastUpdated": "23 July 2022",
+		"minimumVersion": "2.00"
 	},
 
-	"overrides": {
-		"Super Swing Golf \\(Europe\\)(.*)?": {
-			"new group": "Super Swing Golf Season 2",
-			"match": "regex"
+	"overrides": [
+		{
+			"searchTerm": "Super Swing Golf \\(Europe\\)(.*)?",
+			"nameType": "regex",
+			"newGroup": "Super Swing Golf Season 2"
 		},
-		"Who Wants to Be a Millionaire \\(Europe\\)(.*)?": {
-			"new group": "Who Wants to Be a Millionaire (Europe)",
-			"match": "regex"
+		{
+			"searchTerm": "Who Wants to Be a Millionaire \\(Europe\\)(.*)?",
+			"nameType": "regex",
+			"newGroup": "Who Wants to Be a Millionaire Europe"
 		}
-	},
+	],
 
 	"renames": {
 		"007 - Quantum of Solace": [
@@ -474,11 +474,11 @@
 		],
 		"Dreamworks Rise of the Guardians": [
 			{"title": "DreamWorks Rise of the Guardians"},
-			{"compilation": "DreamWorks The Croods - Prehistoric Party! & Rise of the Guardians - Combo Pack", "title_position": 2}
+			{"compilation": "DreamWorks The Croods - Prehistoric Party! & Rise of the Guardians - Combo Pack", "titlePosition": 2}
 		],
 		"DreamWorks The Croods - Prehistoric Party!": [
 			{"title": "DreamWorks The Croods - Prehistoric Party!"},
-			{"compilation": "DreamWorks The Croods - Prehistoric Party! & Rise of the Guardians - Combo Pack", "title_position": 1}
+			{"compilation": "DreamWorks The Croods - Prehistoric Party! & Rise of the Guardians - Combo Pack", "titlePosition": 1}
 		],
 		"EA Playground": [
 			{"title": "EA Playground"},
@@ -765,8 +765,8 @@
 		],
 		"Just Dance 3": [
 			{"title": "Just Dance 3"},
-			{"superset": "Just Dance 3 (Best Buy)", "priority": 1},
-			{"superset": "Just Dance 3 (Special Edition)", "priority": 1},
+			{"superset": "Just Dance 3 (Best Buy)"},
+			{"superset": "Just Dance 3 (Special Edition)"},
 			{"superset": "Just Dance 3 (Target Exclusive Edition)", "priority": 2}
 		],
 		"Just Dance 4": [

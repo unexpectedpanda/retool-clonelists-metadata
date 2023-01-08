@@ -1,51 +1,72 @@
 {
 	"description": {
-		"name": [
-			"Microsoft - MSX"
-		],
-		"last updated": "22 October 2021",
-		"minimum version": "2.00"
+		"name": "Microsoft - MSX (No-Intro)",
+		"lastUpdated": "22 October 2021",
+		"minimumVersion": "2.00"
 	},
 
-	"categories": {
-		"Basic Lessons [0-9]": {
-			"match": "regex",
+	"categories": [
+		{
+			"searchTerm": "Basic Lessons [0-9]",
+			"nameType": "regex",
 			"categories": ["Applications"]
 		},
-		"Computer Nyuumon - Computer Lessons": {
-			"match": "short",
+		{
+			"searchTerm": "Computer Nyuumon - Computer Lessons",
+			"nameType": "short",
 			"categories": ["Applications"]
 		}
-	},
+	],
 
-	"renames": {
-		"3-D Golf Simulation": [
-			{"title": "3-D Golf Simulation"},
-			{"title": "3-D Golf Simulation (High Speed)", "priority": 2}
-		],
-		"F-1 Spirit - The Way to Formula-1": [
-			{"title": "F-1 Spirit - The Way to Formula-1"},
-			{"title": "A1 Spirit - The Way to Formula-1", "priority": 2}
-		],
-		"Konami's Billiards": [
-			{"title": "Konami's Billiards"},
-			{"title": "Video Hustler"}
-		],
-		"Konami's Football": [
-			{"title": "Konami's Football"},
-			{"title": "Konami's Soccer"}
-		],
-		"MSX Audio (FS-CA1) (Program)": [
-			{"title": "MSX Audio (FS-CA1) (Program)"},
-			{"title": "MSX Audio (HX-MU900) (Program)", "priority": 2}
-		],
-		"Track & Field 1": [
-			{"title": "Track & Field 1"},
-			{"title": "Hyper Olympic 1"}
-		],
-		"Track & Field 2": [
-			{"title": "Track & Field 2"},
-			{"title": "Hyper Olympic 2"}
-		]
-	}
+	"variants": [
+		{
+			"group": "3-D Golf Simulation",
+			"titles": [
+				{"searchTerm": "3-D Golf Simulation"},
+				{"searchTerm": "3-D Golf Simulation (High Speed)", "priority": 2}
+			]
+		},
+		{
+			"group": "F-1 Spirit - The Way to Formula-1",
+			"titles": [
+				{"searchTerm": "F-1 Spirit - The Way to Formula-1"},
+				{"searchTerm": "A1 Spirit - The Way to Formula-1", "priority": 2}
+			]
+		},
+		{
+			"group": "Konami's Billiards",
+			"titles": [
+				{"searchTerm": "Konami's Billiards"},
+				{"searchTerm": "Video Hustler"}
+			]
+		},
+		{
+			"group": "Konami's Football",
+			"titles": [
+				{"searchTerm": "Konami's Football"},
+				{"searchTerm": "Konami's Soccer"}
+			]
+		},
+		{
+			"group": "MSX Audio (FS-CA1) (Program)",
+			"titles": [
+				{"searchTerm": "MSX Audio (FS-CA1) (Program)"},
+				{"searchTerm": "MSX Audio (HX-MU900) (Program)", "priority": 2}
+			]
+		},
+		{
+			"group": "Track & Field 1",
+			"titles": [
+				{"searchTerm": "Track & Field 1"},
+				{"searchTerm": "Hyper Olympic 1"}
+			]
+		},
+		{
+			"group": "Track & Field 2",
+			"titles": [
+				{"searchTerm": "Track & Field 2"},
+				{"searchTerm": "Hyper Olympic 2"}
+			]
+		}
+	]
 }

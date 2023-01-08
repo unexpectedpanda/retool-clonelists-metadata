@@ -242,6 +242,9 @@
 	"Alice - Madness Returns (Europe) (En,Fr,De,Es,It)": {
 		"languages": "En, Fr, De, It, Es"
 	},
+	"Alice - Madness Returns (Japan)": {
+		"languages": ""
+	},
 	"Alice - Madness Returns (USA) (En,Fr,De,Es,It)": {
 		"languages": "En, Fr, De, It, Es"
 	},
@@ -460,6 +463,9 @@
 	},
 	"Army of Two - The Devil's Cartel (Germany) (En,De)": {
 		"languages": "En, De"
+	},
+	"Army of Two - The Devil's Cartel (Japan)": {
+		"languages": ""
 	},
 	"Army of Two - The Devil's Cartel (USA) (En,Fr,Es)": {
 		"languages": "En, Fr, Es"
@@ -964,6 +970,9 @@
 	},
 	"Beyond - Two Souls (Europe) (En,Fr,Nl,Pl,Hr,Cs,Hu,Tr)": {
 		"languages": "Cs, Nl, En, Fr, Hu, Pl, Tr, Hr"
+	},
+	"Beyond - Two Souls (Japan)": {
+		"languages": ""
 	},
 	"Beyond - Two Souls (UK)": {
 		"languages": "En"
@@ -1952,11 +1961,17 @@
 	"Crysis 2 (Europe, Australia) (En,Fr,De,Es,It,Pl,Ru,Cs,Tr)": {
 		"languages": "Cs, En, Fr, De, It, Pl, Ru, Es, Tr"
 	},
+	"Crysis 2 (Japan)": {
+		"languages": ""
+	},
 	"Crysis 2 (USA) (En,Fr,Es)": {
 		"languages": "En, Fr, Es"
 	},
 	"Crysis 3 (Europe) (En,Fr,De,Es,It,Pl,Ru,Cs,Tr)": {
 		"languages": "Cs, En, Fr, De, It, Pl, Ru, Es, Tr"
+	},
+	"Crysis 3 (Japan)": {
+		"languages": ""
 	},
 	"Crysis 3 (USA) (En,Fr,Es) (Hunter Edition)": {
 		"languages": "En, Fr, Es"
@@ -3497,7 +3512,7 @@
 	"F.E.A.R. 3 (Germany) (En,Ja,Fr,De,Es,It,Pt,Ko,Pl,Ru)": {
 		"languages": "En, Fr, De, It, Ja, Ko, Pl, Pt, Ru, Es"
 	},
-	"F.E.A.R. 3 (USA) (En,Ja,Fr,De,Es,It,Pt,Ko,Pl,Ru)": {
+	"F.E.A.R. 3 (USA, Asia) (En,Ja,Fr,De,Es,It,Pt,Ko,Pl,Ru)": {
 		"languages": "En, Fr, De, It, Ja, Ko, Pl, Pt, Ru, Es"
 	},
 	"F1 2010 (Europe) (En,Fr,De,Es,It)": {
@@ -3623,7 +3638,7 @@
 	"FIFA 14 (Brazil)": {
 		"languages": ""
 	},
-	"FIFA 14 (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Pl,Ru,Cs,Hu)": {
+	"FIFA 14 (Europe, Asia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Pl,Ru,Cs,Hu)": {
 		"languages": "Cs, Da, Nl, En, Fr, De, Hu, It, No, Pl, Pt, Ru, Es, Sv"
 	},
 	"FIFA 14 (USA) (En,Fr,Es)": {
@@ -3661,6 +3676,9 @@
 	},
 	"FIFA 17 (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Pl,Ru)": {
 		"languages": "Da, Nl, En, Fr, De, It, No, Pl, Pt, Ru, Es, Sv"
+	},
+	"FIFA 17 (Japan)": {
+		"languages": ""
 	},
 	"FIFA 17 (USA) (En,Fr,Es)": {
 		"languages": "En, Fr, Es"
@@ -4004,11 +4022,11 @@
 	"Final Fantasy XIII (Japan) (Trial Version)": {
 		"languages": ""
 	},
-	"Final Fantasy XIII (Japan, Asia)": {
-		"languages": "Ja"
-	},
 	"Final Fantasy XIII (USA) (En,Fr,De,Es,It)": {
 		"languages": "En, Fr, De, It, Es"
+	},
+	"Final Fantasy XIII (World)": {
+		"languages": "Ja"
 	},
 	"Final Fantasy XIII-2 (Asia) (En,Zh,Ko)": {
 		"languages": "Zh, En, Ko"
@@ -4123,6 +4141,9 @@
 	},
 	"G1 Jockey 4 2008 (Europe)": {
 		"languages": "En"
+	},
+	"GI Jockey 4 2007 (Japan)": {
+		"languages": ""
 	},
 	"GT5 - IDU FW update 3.40 (USA) (Kiosk Demo)": {
 		"languages": ""
@@ -4268,11 +4289,17 @@
 	"Godfather II, The (Europe) (Fr,De,It)": {
 		"languages": "Fr, De, It"
 	},
+	"Godfather II, The (Japan)": {
+		"languages": ""
+	},
 	"Godfather II, The (USA) (En,Fr,Es)": {
 		"languages": "En, Fr, Es"
 	},
 	"Godfather, The - The Don's Edition (Europe)": {
 		"languages": "En"
+	},
+	"Godfather, The - The Don's Edition (Japan)": {
+		"languages": ""
 	},
 	"Godfather, The - The Don's Edition (USA)": {
 		"languages": "En"
@@ -4345,6 +4372,9 @@
 	},
 	"Gran Turismo 5 - Prologue - Special Event Version - GT by Citroen (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt) (Demo)": {
 		"languages": "Nl, En, Fr, De, It, Ja, Pt, Es"
+	},
+	"Gran Turismo 5 - Prologue Spec III (Japan)": {
+		"languages": ""
 	},
 	"Gran Turismo 5 - Spec II (Japan)": {
 		"languages": ""
@@ -6026,7 +6056,7 @@
 	"Madden NFL 10 (Europe)": {
 		"languages": "En"
 	},
-	"Madden NFL 10 (USA)": {
+	"Madden NFL 10 (USA, Asia)": {
 		"languages": "En"
 	},
 	"Madden NFL 11 (Europe)": {
@@ -6254,6 +6284,9 @@
 	"Mayhem (USA) (En,Fr)": {
 		"languages": "En, Fr"
 	},
+	"Me Motion (Japan)": {
+		"languages": ""
+	},
 	"Medal of Honor (Austria) (En,De)": {
 		"languages": "En, De"
 	},
@@ -6283,6 +6316,9 @@
 	},
 	"Medal of Honor - Warfighter (Europe, Australia) (En,Fr,De,Es,It,Pl,Ru)": {
 		"languages": "En, Fr, De, It, Pl, Ru, Es"
+	},
+	"Medal of Honor - Warfighter (Japan)": {
+		"languages": ""
 	},
 	"Medal of Honor - Warfighter (USA) (En,Fr,Es)": {
 		"languages": "En, Fr, Es"
@@ -6482,6 +6518,9 @@
 	"Minna no Golf 5 (Japan) (PlayStation Move Taiou)": {
 		"languages": ""
 	},
+	"Minna no Golf 5 (Japan) (Taikenban)": {
+		"languages": ""
+	},
 	"Minna no Golf 6 (Japan)": {
 		"languages": "Ja"
 	},
@@ -6671,6 +6710,9 @@
 	"Motorcycle Club (USA) (En,Fr,De,Es,It)": {
 		"languages": "En, Fr, De, It, Es"
 	},
+	"Motto Asobou - PlayStation Move Taiken Disc (Japan)": {
+		"languages": ""
+	},
 	"Motto! SoniComi - More Communication with Sonico (Japan)": {
 		"languages": ""
 	},
@@ -6721,6 +6763,9 @@
 	},
 	"Musou Orochi 2 Ultimate (Asia)": {
 		"languages": "Zh"
+	},
+	"Musou Orochi 2 Ultimate (Japan)": {
+		"languages": ""
 	},
 	"Musou Orochi Z (Asia)": {
 		"languages": "Zh"
@@ -6847,6 +6892,9 @@
 	},
 	"NBA 2K15 (Europe) (En,Ja,Fr,De,Es,It,Zh)": {
 		"languages": "Zh, En, Fr, De, It, Ja, Es"
+	},
+	"NBA 2K15 (Japan)": {
+		"languages": ""
 	},
 	"NBA 2K15 (USA) (En,Ja,Fr,De,Es,It,Zh)": {
 		"languages": "Zh, En, Fr, De, It, Ja, Es"
@@ -8030,6 +8078,9 @@
 	"Portal 2 (Europe, Australia) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru)": {
 		"languages": "Zh, Da, Nl, En, Fi, Fr, De, It, Ja, Ko, No, Pl, Pt, Ru, Es, Sv"
 	},
+	"Portal 2 (Japan)": {
+		"languages": ""
+	},
 	"Portal 2 (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru)": {
 		"languages": "Zh, Da, Nl, En, Fi, Fr, De, It, Ja, Ko, No, Pl, Pt, Ru, Es, Sv"
 	},
@@ -8146,6 +8197,9 @@
 	},
 	"Puppeteer (Japan) (En,Ja)": {
 		"languages": "En, Ja"
+	},
+	"Puppeteer (Japan) (Rehearsal-ban)": {
+		"languages": ""
 	},
 	"Puppeteer (UK)": {
 		"languages": "En"
@@ -8274,6 +8328,9 @@
 		"languages": "Da, Nl, En, Fi, Fr, De, It, No, Pl, Pt, Ru, Es, Sv"
 	},
 	"Ratchet & Clank - All 4 One (Japan)": {
+		"languages": ""
+	},
+	"Ratchet & Clank - All 4 One (Japan) (Taikenban)": {
 		"languages": ""
 	},
 	"Ratchet & Clank - All 4 One (UK)": {
@@ -8417,6 +8474,9 @@
 	"Red Faction - Armageddon (Europe) (En,Fr,De,Es,It,Ru)": {
 		"languages": "En, Fr, De, It, Ru, Es"
 	},
+	"Red Faction - Armageddon (Japan)": {
+		"languages": ""
+	},
 	"Red Faction - Armageddon (USA) (En,Fr)": {
 		"languages": "En, Fr"
 	},
@@ -8428,6 +8488,9 @@
 	},
 	"Red Faction - Guerrilla (Germany)": {
 		"languages": "De"
+	},
+	"Red Faction - Guerrilla (Japan)": {
+		"languages": ""
 	},
 	"Red Faction - Guerrilla (UK)": {
 		"languages": "En"
@@ -8842,6 +8905,9 @@
 	},
 	"SSX (Europe) (En,Fr,De,Es,It)": {
 		"languages": "En, Fr, De, It, Es"
+	},
+	"SSX (Japan)": {
+		"languages": ""
 	},
 	"SSX (USA) (En,Fr,Es)": {
 		"languages": "En, Fr, Es"
@@ -9476,10 +9542,10 @@
 	"SingStar The Wiggles (Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru)": {
 		"languages": "Da, Nl, En, Fi, Fr, De, It, No, Pl, Pt, Ru, Es, Sv"
 	},
-	"SingStar Ultimate Party (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,Tr) (BCES-02025)": {
+	"SingStar Ultimate Party (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,Tr)": {
 		"languages": "Da, Nl, En, Fi, Fr, De, It, No, Pl, Pt, Ru, Es, Sv, Tr"
 	},
-	"SingStar Ultimate Party (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,Tr) (BCES-02042)": {
+	"SingStar Ultimate Party (Germany) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,Tr)": {
 		"languages": "Da, Nl, En, Fi, Fr, De, It, No, Pl, Pt, Ru, Es, Sv, Tr"
 	},
 	"SingStar Vasco (Italy) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,Af)": {
@@ -10103,6 +10169,9 @@
 	"Suzumiya Haruhi no Tsuisou (Japan)": {
 		"languages": ""
 	},
+	"Sword Art Online - Lost Song (Japan)": {
+		"languages": ""
+	},
 	"Syberia Collection (Brazil)": {
 		"languages": ""
 	},
@@ -10655,6 +10724,9 @@
 	"Torne Ver.2.00 (Japan)": {
 		"languages": ""
 	},
+	"Torne Ver.4.0 (Japan)": {
+		"languages": ""
+	},
 	"Toro to Morimori (Japan)": {
 		"languages": "Ja"
 	},
@@ -10829,7 +10901,7 @@
 	"UFC 2009 Undisputed (Europe) (En,Fr,De,Es,It)": {
 		"languages": "En, Fr, De, It, Es"
 	},
-	"UFC 2009 Undisputed (USA) (En,Fr)": {
+	"UFC 2009 Undisputed (USA, Asia) (En,Fr)": {
 		"languages": "En, Fr"
 	},
 	"UFC Personal Trainer - The Ultimate Fitness System (Europe) (En,Fr,De,Es,Nl)": {
@@ -10841,7 +10913,7 @@
 	"UFC Undisputed 2010 (Europe) (En,Fr,De,Es,It)": {
 		"languages": "En, Fr, De, It, Es"
 	},
-	"UFC Undisputed 2010 (USA) (En,Fr)": {
+	"UFC Undisputed 2010 (USA, Asia) (En,Fr)": {
 		"languages": "En, Fr"
 	},
 	"UFC Undisputed 3 (Europe) (En,Fr,De,Es,It)": {
@@ -10966,6 +11038,9 @@
 	},
 	"Under Night In-Birth - Exe-Late (USA)": {
 		"languages": "En"
+	},
+	"Unreal Tournament 3 (Japan)": {
+		"languages": ""
 	},
 	"Unreal Tournament III (Europe) (En,Fr,De,Es,It)": {
 		"languages": "En, Fr, De, It, Es"
@@ -11363,13 +11438,22 @@
 	"Winning Post 7 2013 (Japan)": {
 		"languages": ""
 	},
-	"Winning Post 7 Maximum 2007 (Japan)": {
+	"Winning Post 7 Maximum 2007 (Japan) (v01.01)": {
+		"languages": ""
+	},
+	"Winning Post 7 Maximum 2007 (Japan) (v02.00)": {
 		"languages": ""
 	},
 	"Winning Post 7 Maximum 2008 (Japan)": {
 		"languages": ""
 	},
 	"Winning Post 8 (Japan)": {
+		"languages": ""
+	},
+	"Winning Post 8 2015 (Japan)": {
+		"languages": ""
+	},
+	"Winning Post 8 2016 (Japan)": {
 		"languages": ""
 	},
 	"Winning Post World (Japan)": {

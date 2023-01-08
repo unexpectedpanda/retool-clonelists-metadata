@@ -1,47 +1,79 @@
 {
 	"description": {
-		"name": [
-			"Watara - SuperVision"
-		],
-		"last updated": "24 March 2022",
-		"minimum version": "0.92"
+		"name": "Watara - SuperVision (No-Intro)",
+		"lastUpdated": "24 March 2022",
+		"minimumVersion": "0.92"
 	},
 
-	"categories": {
-		"TV-Link": {
-			"match": "short",
+	"categories": [
+		{
+			"searchTerm": "TV-Link",
+			"nameType": "short",
 			"categories": ["BIOS"]
 		}
-	},
+	],
 
-	"renames": {
-		"Block Buster": [
-			{"title": "Block Buster"},
-			{"compilation": "2 in 1 - Block Buster + Cross High", "title_position": 1}
-		],
-		"Brain Power": [
-			{"title": "Brain Power"},
-			{"compilation": "4 in 1 - Hash Block + Challenger Tank + Brain Power + Jacky Lucky", "title_position": 3}
-		],
-		"Challenger Tank": [
-			{"title": "Challenger Tank"},
-			{"compilation": "4 in 1 - Hash Block + Challenger Tank + Brain Power + Jacky Lucky", "title_position": 2}
-		],
-		"Cross High": [
-			{"title": "Cross High"},
-			{"compilation": "2 in 1 - Block Buster + Cross High", "title_position": 2}
-		],
-		"Eagle Plan": [
-			{"compilation": "2 in 1 - Hash Blocks + Eagle Plan", "title_position": 2}
-		],
-		"Hash Blocks": [
-			{"title": "Hash Blocks"},
-			{"compilation": "4 in 1 - Hash Block + Challenger Tank + Brain Power + Jacky Lucky", "title_position": 1},
-			{"compilation": "2 in 1 - Hash Blocks + Eagle Plan", "title_position": 1}
-		],
-		"Jacky Lucky": [
-			{"title": "Jacky Lucky"},
-			{"compilation": "4 in 1 - Hash Block + Challenger Tank + Brain Power + Jacky Lucky", "title_position": 4}
-		]
-	}
+	"variants": [
+		{
+			"group": "Block Buster",
+			"titles": [
+				{"searchTerm": "Block Buster"}
+			],
+			"compilations": [
+				{"searchTerm": "2 in 1 - Block Buster + Cross High", "titlePosition": 1}
+			]
+		},
+		{
+			"group": "Brain Power",
+			"titles": [
+				{"searchTerm": "Brain Power"}
+			],
+			"compilations": [
+				{"searchTerm": "4 in 1 - Hash Block + Challenger Tank + Brain Power + Jacky Lucky", "titlePosition": 3}
+			]
+		},
+		{
+			"group": "Challenger Tank",
+			"titles": [
+				{"searchTerm": "Challenger Tank"}
+			],
+			"compilations": [
+				{"searchTerm": "4 in 1 - Hash Block + Challenger Tank + Brain Power + Jacky Lucky", "titlePosition": 2}
+			]
+		},
+		{
+			"group": "Cross High",
+			"titles": [
+				{"searchTerm": "Cross High"}
+			],
+			"compilations": [
+				{"searchTerm": "2 in 1 - Block Buster + Cross High", "titlePosition": 2}
+			]
+		},
+		{
+			"group": "Eagle Plan",
+			"compilations": [
+				{"searchTerm": "2 in 1 - Hash Blocks + Eagle Plan", "titlePosition": 2}
+			]
+		},
+		{
+			"group": "Hash Blocks",
+			"titles": [
+				{"searchTerm": "Hash Blocks"}
+			],
+			"compilations": [
+				{"searchTerm": "4 in 1 - Hash Block + Challenger Tank + Brain Power + Jacky Lucky", "titlePosition": 1},
+				{"searchTerm": "2 in 1 - Hash Blocks + Eagle Plan", "titlePosition": 1}
+			]
+		},
+		{
+			"group": "Jacky Lucky",
+			"titles": [
+				{"searchTerm": "Jacky Lucky"}
+			],
+			"compilations": [
+				{"searchTerm": "4 in 1 - Hash Block + Challenger Tank + Brain Power + Jacky Lucky", "titlePosition": 4}
+			]
+		}
+	]
 }

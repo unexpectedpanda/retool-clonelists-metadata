@@ -1,20 +1,24 @@
 {
 	"description": {
-		"name": [
-			"Arcade - Sega - Naomi"
-		],
-		"last updated": "11 September 2021",
-		"minimum version": "2.00"
+		"name": "Arcade - Sega - Naomi (Redump)",
+		"lastUpdated": "11 September 2021",
+		"minimumVersion": "2.00"
 	},
 
-	"renames": {
-		"Melty Blood - Act Cadenza Ver. B": [
-			{"title": "Melty Blood - Act Cadenza Ver. B"},
-			{"title": "Melty Blood - Act Cadenza", "priority": 2}
-		],
-		"Puyo Pop Fever": [
-			{"title": "Puyo Pop Fever"},
-			{"title": "Puyo Puyo Fever"}
-		]
-	}
+	"variants": [
+		{
+			"group": "Melty Blood - Act Cadenza",
+			"titles": [
+				{"searchTerm": "Melty Blood - Act Cadenza Ver. B"},
+				{"searchTerm": "Melty Blood - Act Cadenza", "priority": 2}
+			]
+		},
+		{
+			"group": "Puyo Pop Fever",
+			"titles": [
+				{"searchTerm": "Puyo Pop Fever"},
+				{"searchTerm": "Puyo Puyo Fever"}
+			]
+		}
+	]
 }

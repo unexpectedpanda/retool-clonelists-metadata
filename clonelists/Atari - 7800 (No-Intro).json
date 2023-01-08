@@ -1,27 +1,30 @@
 {
 	"description": {
-		"name": [
-			"Atari - 7800"
-		],
-		"last updated": "11 September 2021",
-		"minimum version": "2.00"
+		"name": "Atari - 7800 (No-Intro)",
+		"lastUpdated": "11 September 2021",
+		"minimumVersion": "2.00"
 	},
 
-	"categories": {
-		"Atari 7800 Development Card": {
-			"match": "short",
+	"categories": [
+		{
+			"searchTerm": "Atari 7800 Development Card",
+			"nameType": "short",
 			"categories": ["Applications"]
 		},
-		"Diagnostic Test Cartrige": {
-			"match": "short",
+		{
+			"searchTerm": "Diagnostic Test Cartrige",
+			"nameType": "short",
 			"categories": ["Applications"]
 		}
-	},
+	],
 
-	"renames": {
-		"Pete Rose Baseball": [
-			{"title": "Pete Rose Baseball"},
-			{"title": "Baseball"}
-		]
-	}
+	"variants": [
+		{
+			"group": "Pete Rose Baseball",
+			"titles": [
+				{"searchTerm": "Pete Rose Baseball"},
+				{"searchTerm": "Baseball"}
+			]
+		}
+	]
 }

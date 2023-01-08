@@ -1,53 +1,60 @@
 {
 	"description": {
-		"name": [
-			"Nintendo - Nintendo Entertainment System"
-		],
-		"last updated": "9 July 2022",
-		"minimum version": "2.00"
+		"name": "Nintendo - Nintendo Entertainment System (No-Intro)",
+		"lastUpdated": "9 July 2022",
+		"minimumVersion": "2.00"
 	},
 
-	"categories": {
-		"FamicomBox (Menu Cart)": {
-			"match": "short",
+	"categories": [
+		{
+			"searchTerm": "FamicomBox (Menu Cart)",
+			"nameType": "short",
 			"categories": ["Applications"]
 		},
-		"FamicomStation (Menu Cart)": {
-			"match": "short",
+		{
+			"searchTerm": "FamicomStation (Menu Cart)",
+			"nameType": "short",
 			"categories": ["Applications"]
 		},
-		"Game Genie": {
-			"match": "short",
+		{
+			"searchTerm": "Game Genie",
+			"nameType": "short",
 			"categories": ["Applications"]
 		},
-		"Pro Action Replay(.*)": {
-			"match": "regex",
+		{
+			"searchTerm": "Pro Action Replay(.*)",
+			"nameType": "regex",
 			"categories": ["Applications"]
 		}
-	},
+	],
 
-	"overrides": {
-		"Adventures of Lolo (Japan)": {
-			"new group": "Adventures of Lolo 2",
-			"match": "full"
+	"overrides": [
+		{
+			"searchTerm": "Adventures of Lolo (Japan)",
+			"nameType": "full",
+			"newGroup": "Adventures of Lolo 2"
 		},
-		"Black Bass, The (Japan)": {
-			"new group": "Black Bass, The (Japan)",
-			"match": "full"
+		{
+			"searchTerm": "Black Bass, The (Japan)",
+			"nameType": "full",
+			"newGroup": "Black Bass, The Japan"
 		},
-		"Maniac Mansion (Japan)": {
-			"new group": "Maniac Mansion (Japan)",
-			"match": "full"
+		{
+			"searchTerm": "Maniac Mansion (Japan)",
+			"nameType": "full",
+			"newGroup": "Maniac Mansion Japan"
 		},
-		"Teenage Mutant Ninja Turtles (Japan)": {
-			"new group": "Teenage Mutant Ninja Turtles II - The Arcade Game",
-			"match": "full"
+		{
+			"searchTerm": "Teenage Mutant Ninja Turtles (Japan)",
+			"nameType": "full",
+			"newGroup": "Teenage Mutant Ninja Turtles II - The Arcade Game"
 		},
-		"Twin Eagle (Asia) (Ja) (PAL) (Unl)": {
-			"new group": "Double Strike - Aerial Attack Force",
-			"match": "full"
+		{
+			"searchTerm": "Twin Eagle (Asia) (Ja) (PAL) (Unl)",
+			"nameType": "full",
+			"newGroup": "Double Strike - Aerial Attack Force"
 		}
-	},
+	],
 
 	"renames": {
 		"1943 - The Battle of Midway": [
@@ -540,11 +547,11 @@
 		],
 		"Final Fantasy": [
 			{"title": "Final Fantasy"},
-			{"compilation": "Final Fantasy I, II", "title_position": 1}
+			{"compilation": "Final Fantasy I, II", "titlePosition": 1}
 		],
 		"Final Fantasy II": [
 			{"title": "Final Fantasy II"},
-			{"compilation": "Final Fantasy I, II", "title_position": 2}
+			{"compilation": "Final Fantasy I, II", "titlePosition": 2}
 		],
 		"Fire 'n Ice": [
 			{"title": "Fire 'n Ice"},

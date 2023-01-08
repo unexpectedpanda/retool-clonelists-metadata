@@ -1,22 +1,15 @@
 {
 	"description": {
-		"name": [
-			"Bandai - WonderSwan Color"
-		],
-		"last updated": "23 July 2022",
-		"minimum version": "2.00"
+		"name": "Bandai - WonderSwan Color (No-Intro)",
+		"lastUpdated": "23 July 2022",
+		"minimumVersion": "2.00"
 	},
 
-	"categories": {
-		"Flash Masta Firmware": {
-			"match": "short",
+	"categories": [
+		{
+			"searchTerm": "Flash Masta Firmware",
+			"nameType": "short",
 			"categories": ["BIOS"]
 		}
-	},
-
-	"renames": {
-		"Digimon Tamers - Battle Spirit Ver. 1.5": [
-			{"title": "Digimon Tamers - Battle Spirit", "priority": 2}
-		]
-	}
+	]
 }

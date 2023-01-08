@@ -1,42 +1,47 @@
 {
 	"description": {
-		"name": [
-			"Nintendo - Nintendo DS"
-		],
-		"last updated": "23 July 2022",
-		"minimum version": "2.00"
+		"name": "Nintendo - Nintendo DS (No-Intro)",
+		"lastUpdated": "23 July 2022",
+		"minimumVersion": "2.00"
 	},
 
-	"overrides": {
-		"America's Next Top Model (USA)": {
-			"new group": "America's Next Top Model (USA)",
-			"match": "full"
+	"overrides": [
+		{
+			"searchTerm": "America's Next Top Model (USA)",
+			"nameType": "full",
+			"newGroup": "America's Next Top Model USA"
 		},
-		"America's Next Top Model (Europe) (En,De)": {
-			"new group": "America's Next Top Model (USA)",
-			"match": "full"
+		{
+			"searchTerm": "America's Next Top Model (Europe) (En,De)",
+			"nameType": "full",
+			"newGroup": "America's Next Top Model USA"
 		},
-		"Avatar - The Legend of Aang \\(Korea\\)(.*)?": {
-			"new group": "Avatar - The Last Airbender - Into the Inferno",
-			"match": "regex"
+		{
+			"searchTerm": "Avatar - The Legend of Aang \\(Korea\\)(.*)?",
+			"nameType": "regex",
+			"newGroup": "Avatar - The Last Airbender - Into the Inferno"
 		},
-		"Deal or No Deal (USA)": {
-			"new group": "Deal or No Deal (USA)",
-			"match": "full"
+		{
+			"searchTerm": "Deal or No Deal (USA)",
+			"nameType": "full",
+			"newGroup": "Deal or No Deal USA"
 		},
-		"Imagine - Champion Rider (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)": {
-			"new group": "Ener-G - Horse Riders",
-			"match": "full"
+		{
+			"searchTerm": "Imagine - Champion Rider (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)",
+			"nameType": "full",
+			"newGroup": "Ener-G - Horse Riders"
 		},
-		"Junior Brain Trainer (Europe) (Fr,Nl,Sv,No,Da,Fi)": {
-			"new group": "Junior Brain Trainer - Math Edition",
-			"match": "full"
+		{
+			"searchTerm": "Junior Brain Trainer (Europe) (Fr,Nl,Sv,No,Da,Fi)",
+			"nameType": "full",
+			"newGroup": "Junior Brain Trainer - Math Edition"
 		},
-		"Top Model \\(United Kingdom\\)(.*)?": {
-			"new group": "America's Next Top Model (USA)",
-			"match": "regex"
+		{
+			"searchTerm": "Top Model \\(United Kingdom\\)(.*)?",
+			"nameType": "regex",
+			"newGroup": "America's Next Top Model USA"
 		}
-	},
+	],
 
 	"renames": {
 		"007 - Quantum of Solace": [
@@ -81,7 +86,7 @@
 		],
 		"4 Elements": [
 			{"title": "4 Elements"},
-			{"compilation": "Jewel Match & 4 Elements", "title_position": 2}
+			{"compilation": "Jewel Match & 4 Elements", "titlePosition": 2}
 		],
 		"50 Classic Games": [
 			{"title": "50 Classic Games"},
@@ -263,7 +268,7 @@
 		],
 		"Best Friends - My Horse": [
 			{"title": "Best Friends - Mijn Paard"},
-			{"compilation": "2 in 1 - My Pet School + Best Friends - My Horse", "title_position": 2}
+			{"compilation": "2 in 1 - My Pet School + Best Friends - My Horse", "titlePosition": 2}
 		],
 		"Best Friends Tonight": [
 			{"title": "Best Friends Tonight"},
@@ -298,11 +303,11 @@
 		],
 		"Bibi Blocksberg - Neustadt im Hex-Chaos": [
 			{"title": "Bibi Blocksberg - Neustadt im Hex-Chaos"},
-			{"compilation": "2 in 1 - Best of Bibi Blocksberg - Neustadt im Hex-Chaos + Das Gestohlene Hexbuch", "title_position": 1}
+			{"compilation": "2 in 1 - Best of Bibi Blocksberg - Neustadt im Hex-Chaos + Das Gestohlene Hexbuch", "titlePosition": 1}
 		],
 		"Bibi Blocksberg - Das Gestohlene Hexbuch": [
 			{"title": "Bibi Blocksberg - Das Gestohlene Hexbuch"},
-			{"compilation": "2 in 1 - Best of Bibi Blocksberg - Neustadt im Hex-Chaos + Das Gestohlene Hexbuch", "title_position": 2}
+			{"compilation": "2 in 1 - Best of Bibi Blocksberg - Neustadt im Hex-Chaos + Das Gestohlene Hexbuch", "titlePosition": 2}
 		],
 		"Big Brain Academy": [
 			{"title": "Big Brain Academy"},
@@ -619,9 +624,9 @@
 		"Cradle of Rome": [
 			{"title": "Cradle of Rome"},
 			{"title": "Jewel Master - Cradle of Rome"},
-			{"compilation": "2 Games in 1 - Jewel Master - Cradle of Egypt + Mahjongg - Ancient Egypt", "title_position": 1},
-			{"compilation": "3 Game Pack! - Cradle of Rome + Cradle of Athena + Cradle of Egypt", "title_position": 1},
-			{"compilation": "Double Pack - Cradle of Rome + Cradle of Egypt", "title_position": 1}
+			{"compilation": "2 Games in 1 - Jewel Master - Cradle of Egypt + Mahjongg - Ancient Egypt", "titlePosition": 1},
+			{"compilation": "3 Game Pack! - Cradle of Rome + Cradle of Athena + Cradle of Egypt", "titlePosition": 1},
+			{"compilation": "Double Pack - Cradle of Rome + Cradle of Egypt", "titlePosition": 1}
 		],
 		"Crafting Mama": [
 			{"title": "Crafting Mama"},
@@ -678,7 +683,7 @@
 		],
 		"Croods, The - Prehistoric Party!": [
 			{"title": "Croods, The - Prehistoric Party!"},
-			{"compilation": "Combo Pack - Madagascar 3 - Europe's Most Wanted + Croods, The - Prehistoric Party!", "title_position": 2}
+			{"compilation": "Combo Pack - Madagascar 3 - Europe's Most Wanted + Croods, The - Prehistoric Party!", "titlePosition": 2}
 		],
 		"CrossworDS": [
 			{"title": "CrossworDS"},
@@ -741,7 +746,7 @@
 			{"title": "Diddy Kong Racing (Climax, 2004-05-27)", "priority": 3}
 		],
 		"Digging For Dinosaurs": [
-			{"compilation": "2 Game Pack - My Amusement Park + Digging for Dinosaurs", "title_position": 2}
+			{"compilation": "2 Game Pack - My Amusement Park + Digging for Dinosaurs", "titlePosition": 2}
 		],
 		"Digimon World DS": [
 			{"title": "Digimon World DS"},
@@ -815,7 +820,7 @@
 		],
 		"Disney Big Hero 6 - Battle in the Bay": [
 			{"title": "Disney Big Hero 6 - Battle in the Bay"},
-			{"compilation": "Disney Two Pack - Frozen Olaf's Quest + Big Hero 6 - Battle in the Bay", "title_position": 2}
+			{"compilation": "Disney Two Pack - Frozen Olaf's Quest + Big Hero 6 - Battle in the Bay", "titlePosition": 2}
 		],
 		"Disney Friends": [
 			{"title": "Disney Friends"},
@@ -824,7 +829,7 @@
 		],
 		"Disney Frozen - Olaf's Quest": [
 			{"title": "Disney Frozen - Olaf's Quest"},
-			{"compilation": "Disney Two Pack - Frozen Olaf's Quest + Big Hero 6 - Battle in the Bay", "title_position": 1}
+			{"compilation": "Disney Two Pack - Frozen Olaf's Quest + Big Hero 6 - Battle in the Bay", "titlePosition": 1}
 		],
 		"Disney Princess - Magical Jewels": [
 			{"title": "Disney Princess - Magical Jewels"},
@@ -1016,7 +1021,7 @@
 			{"title": "Mahou ni Kakerarete"}
 		],
 		"Englisch Macht Spass - Eine Reise nach London!": [
-			{"compilation": "2 in 1 - Music for Kids + Englisch Macht Spass - Eine Reise nach London!", "title_position": 2}
+			{"compilation": "2 in 1 - Music for Kids + Englisch Macht Spass - Eine Reise nach London!", "titlePosition": 2}
 		],
 		"Ener-G - Dance Squad": [
 			{"title": "Ener-G - Dance Squad"},
@@ -1407,11 +1412,11 @@
 			{"title": "Horse & Foal - My Riding Stables"},
 			{"title": "Paard & Pony - Mijn Paardenstal"},
 			{"title": "Pferd & Pony - Mein Gestuet", "priority": 2},
-			{"compilation": "2 in 1 - My Riding Stables + My Riding Stables - Life with Horses", "title_position": 1},
-			{"compilation": "2 in 1 - My Riding Stables + My Western Horse", "title_position": 1},
+			{"compilation": "2 in 1 - My Riding Stables + My Riding Stables - Life with Horses", "titlePosition": 1},
+			{"compilation": "2 in 1 - My Riding Stables + My Western Horse", "titlePosition": 1},
 			{"compilation": "3 in 1 - Horses"},
-			{"compilation": "3 in 1 - My Riding Stables - Life with Horses + My Pet Hotel 2 & + My Pet School", "title_position": 1},
-			{"compilation": "3 in 1 - My Riding Stables + My Pet School + My Western Horse", "title_position": 1}
+			{"compilation": "3 in 1 - My Riding Stables - Life with Horses + My Pet Hotel 2 & + My Pet School", "titlePosition": 1},
+			{"compilation": "3 in 1 - My Riding Stables + My Pet School + My Western Horse", "titlePosition": 1}
 		],
 		"Horse Life - Adventures": [
 			{"title": "Horse Life - Adventures"},
@@ -1458,7 +1463,7 @@
 		"I Love Babies": [
 			{"title": "I Love Babies"},
 			{"title": "My Little Baby"},
-			{"compilation": "2 in 1 - My Little Baby + My Boyfriend", "title_position": 1}
+			{"compilation": "2 in 1 - My Little Baby + My Boyfriend", "titlePosition": 1}
 		],
 		"I Love Puppies": [
 			{"title": "I Love Puppies"},
@@ -1694,7 +1699,7 @@
 		"Jewel Master - Cradle of Athena": [
 			{"title": "Jewel Master - Cradle of Athena"},
 			{"title": "Jewel Link Chronicles - Legend of Athena"},
-			{"compilation": "3 Game Pack! - Cradle of Rome + Cradle of Athena + Cradle of Egypt", "title_position": 2}
+			{"compilation": "3 Game Pack! - Cradle of Rome + Cradle of Athena + Cradle of Egypt", "titlePosition": 2}
 		],
 		"Jewel Master - Cradle of Rome 2": [
 			{"title": "Jewel Master - Cradle of Rome 2"},
@@ -1703,12 +1708,12 @@
 		"Jewel Master - Egypt": [
 			{"title": "Jewel Master - Egypt"},
 			{"title": "Jewel Master - Cradle of Egypt"},
-			{"compilation": "3 Game Pack! - Cradle of Rome + Cradle of Athena + Cradle of Egypt", "title_position": 3},
-			{"compilation": "Double Pack - Cradle of Rome + Cradle of Egypt", "title_position": 2}
+			{"compilation": "3 Game Pack! - Cradle of Rome + Cradle of Athena + Cradle of Egypt", "titlePosition": 3},
+			{"compilation": "Double Pack - Cradle of Rome + Cradle of Egypt", "titlePosition": 2}
 		],
 		"Jewel Match": [
 			{"title": "Jewel Match"},
-			{"compilation": "Jewel Match & 4 Elements", "title_position": 1}
+			{"compilation": "Jewel Match & 4 Elements", "titlePosition": 1}
 		],
 		"Jewel Quest - Mysteries": [
 			{"title": "Jewel Quest - Mysteries"},
@@ -1974,7 +1979,7 @@
 			{"title": "Best Friends - Mijn Paard"},
 			{"title": "Pferd & Pony - Best Friends - Mein Pferd"},
 			{"title": "Real Stories - Best Friends - Mon Poulain, Mon Cheval"},
-			{"compilation": "2 in 1 - My Pet School + Best Friends - My Horse", "title_position": 2},
+			{"compilation": "2 in 1 - My Pet School + Best Friends - My Horse", "titlePosition": 2},
 			{"compilation": "3 in 1 - Horses"}
 		],
 		"Let's Yoga!": [
@@ -1982,7 +1987,7 @@
 			{"title": "Dokodemo Yoga"}
 		],
 		"Life with Horses": [
-			{"compilation": "2 in 1 - My Riding Stables + My Riding Stables - Life with Horses", "title_position": 2},
+			{"compilation": "2 in 1 - My Riding Stables + My Riding Stables - Life with Horses", "titlePosition": 2},
 			{"compilation": "3 in 1 - Horses"}
 		],
 		"LifeSigns - Surgical Unit": [
@@ -2053,7 +2058,7 @@
 		"Madagascar 3": [
 			{"title": "Madagascar 3"},
 			{"title": "Madagascar 3 - Europe's Most Wanted"},
-			{"compilation": "Combo Pack - Madagascar 3 - Europe's Most Wanted + Croods, The - Prehistoric Party!", "title_position": 1}
+			{"compilation": "Combo Pack - Madagascar 3 - Europe's Most Wanted + Croods, The - Prehistoric Party!", "titlePosition": 1}
 		],
 		"Madagascar Kartz": [
 			{"title": "Madagascar Kartz"},
@@ -2093,7 +2098,7 @@
 			{"title": "Mahjongg Mysteries - Ancient Egypt"},
 			{"title": "Mahjong Mysteries - Ancient Egypt"},
 			{"title": "Mahjongg - Ancient Egypt", "priority": 2},
-			{"compilation": "2 Games in 1 - Jewel Master - Cradle of Egypt + Mahjongg - Ancient Egypt", "title_position": 2}
+			{"compilation": "2 Games in 1 - Jewel Master - Cradle of Egypt + Mahjongg - Ancient Egypt", "titlePosition": 2}
 		],
 		"Mais Ou Se Cache Carmen Sandiego - Mystere au Bout du Monde": [
 			{"title": "Mais Ou Se Cache Carmen Sandiego - Mystere au Bout du Monde"},
@@ -2303,7 +2308,7 @@
 		],
 		"Music for Kids": [
 			{"title": "Music for Kids"},
-			{"compilation": "2 in 1 - Music for Kids + Englisch Macht Spass - Eine Reise nach London!", "title_position": 1}
+			{"compilation": "2 in 1 - Music for Kids + Englisch Macht Spass - Eine Reise nach London!", "titlePosition": 1}
 		],
 		"MX vs. ATV Untamed": [
 			{"title": "MX vs. ATV Untamed"},
@@ -2311,14 +2316,14 @@
 		],
 		"My Amusement Park": [
 			{"title": "My Amusement Park"},
-			{"compilation": "2 Game Pack - My Amusement Park + Digging for Dinosaurs", "title_position": 1}
+			{"compilation": "2 Game Pack - My Amusement Park + Digging for Dinosaurs", "titlePosition": 1}
 		],
 		"My Baby Pet Hotel": [
 			{"compilation": "3 in 1 - Animals"}
 		],
 		"My Boyfriend": [
 			{"title": "My Boyfriend"},
-			{"compilation": "2 in 1 - My Little Baby + My Boyfriend", "title_position": 2}
+			{"compilation": "2 in 1 - My Little Baby + My Boyfriend", "titlePosition": 2}
 		],
 		"My Boyfriend (Summer of My Life)": [
 			{"title": "My Boyfriend (Summer of My Life)"},
@@ -2390,10 +2395,10 @@
 			{"title": "My Pet School"},
 			{"title": "Meine Tierschule"},
 			{"title": "Mijn Dierenschool"},
-			{"compilation": "2 in 1 - My Pet School + Best Friends - My Horse", "title_position": 1},
+			{"compilation": "2 in 1 - My Pet School + Best Friends - My Horse", "titlePosition": 1},
 			{"compilation": "3 in 1 - Animals"},
-			{"compilation": "3 in 1 - My Riding Stables - Life with Horses + My Pet Hotel 2 & + My Pet School", "title_position": 1},
-			{"compilation": "3 in 1 - My Riding Stables + My Pet School + My Western Horse", "title_position": 2}
+			{"compilation": "3 in 1 - My Riding Stables - Life with Horses + My Pet Hotel 2 & + My Pet School", "titlePosition": 1},
+			{"compilation": "3 in 1 - My Riding Stables + My Pet School + My Western Horse", "titlePosition": 2}
 		],
 		"My Pet Shop": [
 			{"title": "My Pet Shop"},
@@ -2416,18 +2421,18 @@
 			{"title": "Meine Tierarztpraxis - Einsatz auf dem Land"},
 			{"title": "Paws & Claws - Pet Vet 2"},
 			{"compilation": "Kids Learn & Play - Pets & Vets Bundle"},
-			{"compilation": "2 in 1 - My Pet Hotel + My Vet Practice - In the Country", "title_position": 2},
-			{"compilation": "2 in 1 - My Pet Hotel 2 + My Vet Practice - In the Country", "title_position": 2},
-			{"compilation": "3 in 1 - My Horse + My Vet Practice + My Vet Practice in the Country", "title_position": 2}
+			{"compilation": "2 in 1 - My Pet Hotel + My Vet Practice - In the Country", "titlePosition": 2},
+			{"compilation": "2 in 1 - My Pet Hotel 2 + My Vet Practice - In the Country", "titlePosition": 2},
+			{"compilation": "3 in 1 - My Horse + My Vet Practice + My Vet Practice in the Country", "titlePosition": 2}
 		],
 		"My Weight Loss Coach - Improve Your Health": [
 			{"title": "My Weight Loss Coach - Improve Your Health"},
 			{"title": "My Health Coach - Manage Your Weight"}
 		],
 		"My Western Horse": [
-			{"compilation": "2 in 1 - My Riding Stables + My Western Horse", "title_position": 2},
+			{"compilation": "2 in 1 - My Riding Stables + My Western Horse", "titlePosition": 2},
 			{"compilation": "3 in 1 - Animals"},
-			{"compilation": "3 in 1 - My Riding Stables + My Pet School + My Western Horse", "title_position": 3}
+			{"compilation": "3 in 1 - My Riding Stables + My Pet School + My Western Horse", "titlePosition": 3}
 		],
 		"My Word Coach - Improve Your Vocabulary": [
 			{"title": "My Word Coach - Improve Your Vocabulary"},
@@ -2570,11 +2575,11 @@
 		],
 		"Nickelodeon Dora and Friends' - Fantastic Flight": [
 			{"title": "Nickelodeon Dora and Friends' - Fantastic Flight"},
-			{"compilation": "Nickelodeon Team Umizoomi and Dora's Fantastic Flight", "title_position": 2}
+			{"compilation": "Nickelodeon Team Umizoomi and Dora's Fantastic Flight", "titlePosition": 2}
 		],
 		"Nickelodeon Team - Umizoomi": [
 			{"title": "Nickelodeon Team - Umizoomi"},
-			{"compilation": "Nickelodeon Team Umizoomi and Dora's Fantastic Flight", "title_position": 1}
+			{"compilation": "Nickelodeon Team Umizoomi and Dora's Fantastic Flight", "titlePosition": 1}
 		],
 		"Nicktoons - Attack of the Toybots": [
 			{"title": "Nicktoons - Attack of the Toybots"},
@@ -2678,7 +2683,7 @@
 			{"title": "Pawly Pets - My Pet Hotel"},
 			{"title": "Meine Tierpension"},
 			{"title": "Mijn Dierenpension"},
-			{"compilation": "2 in 1 - My Pet Hotel + My Vet Practice - In the Country", "title_position": 1}
+			{"compilation": "2 in 1 - My Pet Hotel + My Vet Practice - In the Country", "titlePosition": 1}
 		],
 		"Paws & Claws - Best Friends - Dogs & Cats": [
 			{"title": "Paws & Claws - Best Friends - Dogs & Cats"},
@@ -2705,9 +2710,9 @@
 			{"title": "Mijn Dierenpension 2"},
 			{"title": "My Pet Hotel 2"},
 			{"compilation": "Kids Learn & Play - Pets & Vets Bundle"},
-			{"compilation": "2 in 1 - My Pet Hotel 2 + My Vet Practice - In the Country", "title_position": 1},
+			{"compilation": "2 in 1 - My Pet Hotel 2 + My Vet Practice - In the Country", "titlePosition": 1},
 			{"compilation": "2 in 1 - My Vet Practice + My Pet Hotel 2", "title_postion": 2},
-			{"compilation": "3 in 1 - My Riding Stables - Life with Horses + My Pet Hotel 2 & + My Pet School", "title_position": 1}
+			{"compilation": "3 in 1 - My Riding Stables - Life with Horses + My Pet Hotel 2 & + My Pet School", "titlePosition": 1}
 		],
 		"Paws & Claws - Pet Vet": [
 			{"title": "Paws & Claws - Pet Vet"},
@@ -2715,14 +2720,14 @@
 			{"title": "Mijn Dierenpraktijk"},
 			{"title": "Pawly Pets - My Vet Practice"},
 			{"compilation": "2 in 1 - My Vet Practice + My Pet Hotel 2", "title_postion": 1},
-			{"compilation": "3 in 1 - My Vet Practice & Riding Star & My Vet Practice in Australia", "title_position": 1}
+			{"compilation": "3 in 1 - My Vet Practice & Riding Star & My Vet Practice in Australia", "titlePosition": 1}
 		],
 		"Paws & Claws - Pet Vet - Australian Adventures": [
 			{"title": "Paws & Claws - Pet Vet - Australian Adventures"},
 			{"title": "Meine Tierarztpraxis in Australien"},
 			{"title": "My Vet Practice - In Australia"},
 			{"title": "Real Stories - Veterinaire - Mission Australie"},
-			{"compilation": "3 in 1 - My Vet Practice & Riding Star & My Vet Practice in Australia", "title_position": 3}
+			{"compilation": "3 in 1 - My Vet Practice & Riding Star & My Vet Practice in Australia", "titlePosition": 3}
 		],
 		"Paws & Claws - Regal Resort": [
 			{"title": "Paws & Claws - Regal Resort"},
@@ -2913,7 +2918,7 @@
 		],
 		"Pinkalicious - It's Party Time!": [
 			{"title": "Pinkalicious - It's Party Time!"},
-			{"compilation": "2-Pack - Pinkalicious - It's Party Time! & Silverlicious - Sweet Adventure", "title_position": 1}
+			{"compilation": "2-Pack - Pinkalicious - It's Party Time! & Silverlicious - Sweet Adventure", "titlePosition": 1}
 		],
 		"Pipe Mania": [
 			{"title": "Pipe Mania"},
@@ -3457,7 +3462,7 @@
 		],
 		"Silverlicious": [
 			{"title": "Silverlicious"},
-			{"compilation": "2-Pack - Pinkalicious - It's Party Time! & Silverlicious - Sweet Adventure", "title_position": 2}
+			{"compilation": "2-Pack - Pinkalicious - It's Party Time! & Silverlicious - Sweet Adventure", "titlePosition": 2}
 		],
 		"SimCity - Creator": [
 			{"title": "SimCity - Creator"},
@@ -3802,7 +3807,7 @@
 		"Tim Stockdale's Riding Star": [
 			{"title": "Tim Stockdale's Riding Star"},
 			{"title": "Riding Star 3", "priority": 2},
-			{"compilation": "3 in 1 - My Vet Practice & Riding Star & My Vet Practice in Australia", "title_position": 2}
+			{"compilation": "3 in 1 - My Vet Practice & Riding Star & My Vet Practice in Australia", "titlePosition": 2}
 		],
 		"Time Hollow": [
 			{"title": "Time Hollow"},

@@ -1,87 +1,155 @@
 {
 	"description": {
-		"name": [
-			"Mattel - Intellivision"
-		],
-		"last updated": "22 October 2021",
-		"minimum version": "2.00"
+		"name": "Mattel - Intellivision (No-Intro)",
+		"lastUpdated": "22 October 2021",
+		"minimumVersion": "2.00"
 	},
 
-	"categories": {
-		"Demonstration Cartridge (- .*)?": {
-			"match": "regex",
+	"categories": [
+		{
+			"searchTerm": "Demonstration Cartridge (- .*)?",
+			"nameType": "regex",
 			"categories": ["Demos"]
 		}
-	},
+	],
 
-	"renames": {
-		"Advanced Dungeons & Dragons": [
-			{"title": "Advanced Dungeons & Dragons"},
-			{"title": "Adventure", "priority": 2}
-		],
-		"Advanced Dungeons & Dragons - Treasure of Tarmin": [
-			{"title": "Advanced Dungeons & Dragons - Treasure of Tarmin"},
-			{"title": "Minotaur", "priority": 2}
-		],
-		"Astrosmash": [
-			{"title": "Astrosmash"},
-			{"title": "Meteor", "priority": 2}
-		],
-		"BattleTanks": [
-			{"title": "BattleTanks"},
-			{"compilation": "Triple Action"}
-		],
-		"Biplanes": [
-			{"title": "Biplanes"},
-			{"compilation": "Triple Action"}
-		],
-		"Crosswords": [
-			{"title": "Crosswords"},
-			{"compilation": "Learning Fun II - Word Wizard, Memory Fun"}
-		],
-		"Factor Fun": [
-			{"title": "Factor Fun"},
-			{"compilation": "Learning Fun I - Math Master, Factor Fun"}
-		],
-		"Math Master": [
-			{"title": "Math Master"},
-			{"compilation": "Learning Fun I - Math Master, Factor Fun"}
-		],
-		"Memory Fun": [
-			{"title": "Memory Fun"},
-			{"compilation": "Learning Fun II - Word Wizard, Memory Fun"}
-		],
-		"Pac-Man (Atarisoft)": [
-			{"title": "Pac-Man (Atarisoft)"},
-			{"title": "Pac-Man (INTV Corp.)", "priority": 2}
-		],
-		"Racing Cars": [
-			{"title": "Racing Cars"},
-			{"compilation": "Triple Action"}
-		],
-		"Thin Ice": [
-			{"title": "Thin Ice"},
-			{"title": "Duncan's Thin Ice", "priority": 2}
-		],
-		"TRON Deadly Discs": [
-			{"title": "TRON Deadly Discs"},
-			{"title": "Deadly Dogs", "priority": 2}
-		],
-		"Word Hunt": [
-			{"title": "Word Hunt"},
-			{"compilation": "Learning Fun II - Word Wizard, Memory Fun"}
-		],
-		"Word Rockets": [
-			{"title": "Word Rockets"},
-			{"compilation": "Learning Fun II - Word Wizard, Memory Fun"}
-		],
-		"World Championship Baseball": [
-			{"title": "World Championship Baseball"},
-			{"title": "All-Star Major League Baseball", "priority": 2}
-		],
-		"World Cup Football": [
-			{"title": "World Cup Football"},
-			{"title": "Super Soccer"}
-		]
-	}
+	"variants": [
+		{
+			"group": "Advanced Dungeons & Dragons",
+			"titles": [
+				{"searchTerm": "Advanced Dungeons & Dragons"},
+				{"searchTerm": "Adventure", "priority": 2}
+			]
+		},
+		{
+			"group": "Advanced Dungeons & Dragons - Treasure of Tarmin",
+			"titles": [
+				{"searchTerm": "Advanced Dungeons & Dragons - Treasure of Tarmin"},
+				{"searchTerm": "Minotaur", "priority": 2}
+			]
+		},
+		{
+			"group": "Astrosmash",
+			"titles": [
+				{"searchTerm": "Astrosmash"},
+				{"searchTerm": "Meteor", "priority": 2}
+			]
+		},
+		{
+			"group": "BattleTanks",
+			"titles": [
+				{"searchTerm": "BattleTanks"}
+			],
+			"compilations": [
+				{"searchTerm": "Triple Action"}
+			]
+		},
+		{
+			"group": "Biplanes",
+			"titles": [
+				{"searchTerm": "Biplanes"}
+			],
+			"compilations": [
+				{"searchTerm": "Triple Action"}
+			]
+		},
+		{
+			"group": "Crosswords",
+			"titles": [
+				{"searchTerm": "Crosswords"}
+			],
+			"compilations": [
+				{"searchTerm": "Learning Fun II - Word Wizard, Memory Fun"}
+			]
+		},
+		{
+			"group": "Factor Fun",
+			"titles": [
+				{"searchTerm": "Factor Fun"}
+			],
+			"compilations": [
+				{"searchTerm": "Learning Fun I - Math Master, Factor Fun"}
+			]
+		},
+		{
+			"group": "Math Master",
+			"titles": [
+				{"searchTerm": "Math Master"}
+			],
+			"searchTerm": [
+				{"searchTerm": "Learning Fun I - Math Master, Factor Fun"}
+			]
+		},
+		{
+			"group": "Memory Fun",
+			"titles": [
+				{"searchTerm": "Memory Fun"}
+			],
+			"compilations": [
+				{"searchTerm": "Learning Fun II - Word Wizard, Memory Fun"}
+			]
+		},
+		{
+			"group": "Pac-Man (Atarisoft)",
+			"titles": [
+				{"searchTerm": "Pac-Man (Atarisoft)"},
+				{"searchTerm": "Pac-Man (INTV Corp.)", "priority": 2}
+			]
+		},
+		{
+			"group": "Racing Cars",
+			"titles": [
+				{"searchTerm": "Racing Cars"}
+			],
+			"compilations": [
+				{"searchTerm": "Triple Action"}
+			]
+		},
+		{
+			"group": "Thin Ice",
+			"titles": [
+				{"searchTerm": "Thin Ice"},
+				{"searchTerm": "Duncan's Thin Ice", "priority": 2}
+			]
+		},
+		{
+			"group": "TRON Deadly Discs",
+			"titles": [
+				{"searchTerm": "TRON Deadly Discs"},
+				{"searchTerm": "Deadly Dogs", "priority": 2}
+			]
+		},
+		{
+			"group": "Word Hunt",
+			"titles": [
+				{"searchTerm": "Word Hunt"}
+			],
+			"compilations": [
+				{"searchTerm": "Learning Fun II - Word Wizard, Memory Fun"}
+			]
+		},
+		{
+			"group": "Word Rockets",
+			"titles": [
+				{"searchTerm": "Word Rockets"}
+			],
+			"compilations": [
+				{"searchTerm": "Learning Fun II - Word Wizard, Memory Fun"}
+			]
+		},
+		{
+			"group": "World Championship Baseball",
+			"titles": [
+				{"searchTerm": "World Championship Baseball"},
+				{"searchTerm": "All-Star Major League Baseball", "priority": 2}
+			]
+		},
+		{
+			"group": "World Cup Football",
+			"titles": [
+				{"searchTerm": "World Cup Football"},
+				{"searchTerm": "Super Soccer"}
+			]
+		}
+	]
 }

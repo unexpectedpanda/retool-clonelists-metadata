@@ -1,400 +1,663 @@
 {
 	"description": {
-		"name": [
-			"Nintendo - Nintendo 64"
-		],
-		"last updated": "30 June 2022",
-		"minimum version": "2.00"
+		"name": "Nintendo - Nintendo 64 (No-Intro)",
+		"lastUpdated": "30 June 2022",
+		"minimumVersion": "2.00"
 	},
 
-	"categories": {
-		"Action Replay Pro 64": {
-			"match": "short",
+	"categories": [
+		{
+			"searchTerm": "Action Replay Pro 64",
+			"nameType": "short",
 			"categories": ["Applications"]
 		},
-		"GameBooster 64": {
-			"match": "short",
+		{
+			"searchTerm": "GameBooster 64",
+			"nameType": "short",
 			"categories": ["Applications"]
 		},
-		"GameShark Pro": {
-			"match": "short",
+		{
+			"searchTerm": "GameShark Pro",
+			"nameType": "short",
 			"categories": ["Applications"]
 		}
-	},
+	],
 
-	"overrides": {
-		"Bomberman 64 (Japan)": {
-			"new group": "Bomberman 64 (Japan)",
-			"match": "full"
+	"overrides": [
+		{
+			"searchTerm": "Bomberman 64 (Japan)",
+			"nameType": "full",
+			"newGroup": "Bomberman 64 Japan"
 		}
-	},
+	],
 
-	"renames": {
-		"AeroFighters Assault": [
-			{"title": "AeroFighters Assault"},
-			{"title": "Sonic Wings Assault"}
-		],
-		"Airboarder 64": [
-			{"title": "Airboarder 64"},
-			{"title": "Air Boarder 64"}
-		],
-		"All Star Tennis 99": [
-			{"title": "All Star Tennis 99"},
-			{"title": "All Star Tennis '99"}
-		],
-		"Automobili Lamborghini": [
-			{"title": "Automobili Lamborghini"},
-			{"title": "Super Speed Race 64"}
-		],
-		"Banjo-Kazooie": [
-			{"title": "Banjo-Kazooie"},
-			{"title": "Banjo to Kazooie no Daibouken"}
-		],
-		"Banjo-Tooie": [
-			{"title": "Banjo-Tooie"},
-			{"title": "Banjo to Kazooie no Daibouken 2"}
-		],
-		"Batman Beyond - Return of the Joker": [
-			{"title": "Batman Beyond - Return of the Joker"},
-			{"title": "Batman of the Future - Return of the Joker"}
-		],
-		"Beetle Adventure Racing!": [
-			{"title": "Beetle Adventure Racing!"},
-			{"title": "HSV Adventure Racing!"}
-		],
-		"Big Mountain 2000": [
-			{"title": "Big Mountain 2000"},
-			{"title": "Snow Speeder"}
-		],
-		"Blast Corps": [
-			{"title": "Blast Corps"},
-			{"title": "Blastdozer"}
-		],
-		"Blues Brothers 2000": [
-			{"title": "Blues Brothers 2000"},
-			{"title": "Blues Brothers 2000 (#53)", "priority": 2},
-			{"title": "Blues Brothers 2000 (#20)", "priority": 3}
-		],
-		"Bomberman 64": [
-			{"title": "Bomberman 64"},
-			{"title": "Baku Bomberman"}
-		],
-		"Bomberman 64 - The Second Attack!": [
-			{"title": "Bomberman 64 - The Second Attack!"},
-			{"title": "Baku Bomberman 2"}
-		],
-		"Bomberman Hero": [
-			{"title": "Bomberman Hero"},
-			{"title": "Bomberman Hero - Mirian Oujo o Sukue!"}
-		],
-		"Bust-A-Move '99": [
-			{"title": "Bust-A-Move '99"},
-			{"title": "Bust-A-Move 3 DX"},
-			{"title": "Puzzle Bobble 64"}
-		],
-		"Castlevania": [
-			{"title": "Castlevania"},
-			{"title": "Akumajou Dracula Mokushiroku - Real Action Adventure"}
-		],
-		"Castlevania - Legacy of Darkness": [
-			{"title": "Castlevania - Legacy of Darkness"},
-			{"title": "Akumajou Dracula Mokushiroku Gaiden - Legend of Cornell"}
-		],
-		"Centre Court Tennis": [
-			{"title": "Centre Court Tennis"},
-			{"title": "Let's Smash"}
-		],
-		"Chopper Attack": [
-			{"title": "Chopper Attack"},
-			{"title": "Wild Choppers"}
-		],
-		"Conker's Bad Fur Day": [
-			{"title": "Conker's Bad Fur Day"},
-			{"title": "Conker's Bad Fur Day (ECTS 2000)"}
-		],
-		"Dark Rift": [
-			{"title": "Dark Rift"},
-			{"title": "Space Dynamites"}
-		],
-		"Deadly Arts": [
-			{"title": "Deadly Arts"},
-			{"title": "G.A.S.P!! Fighters' NEXTream"}
-		],
-		"Donald Duck - Goin' Quackers": [
-			{"title": "Donald Duck - Goin' Quackers"},
-			{"title": "Donald Duck - Quack Attack"}
-		],
-		"Duck Dodgers Starring Daffy Duck": [
-			{"title": "Duck Dodgers Starring Daffy Duck"},
-			{"title": "Daffy Duck Starring as Duck Dodgers"}
-		],
-		"F-Zero X": [
-			{"title": "F-Zero X"},
-			{"title": "F-Zero X (The Legend of Zelda Ocarina of Time Overdump)", "priority": 2}
-		],
-		"F1 Pole Position 64": [
-			{"title": "F1 Pole Position 64"},
-			{"title": "Human Grand Prix - The New Generation"}
-		],
-		"FIFA - Road to World Cup 98": [
-			{"title": "FIFA - Road to World Cup 98"},
-			{"title": "FIFA - Road to World Cup 98 - World Cup e no Michi"}
-		],
-		"FIFA Soccer 64": [
-			{"title": "FIFA Soccer 64"},
-			{"title": "FIFA 64"}
-		],
-		"Fighter Destiny 2": [
-			{"title": "Fighter Destiny 2"},
-			{"title": "Kakutou Denshou - F-Cup Maniax"}
-		],
-		"Fighters Destiny": [
-			{"title": "Fighters Destiny"},
-			{"title": "Fighting Cup"}
-		],
-		"Flying Dragon": [
-			{"title": "Flying Dragon"},
-			{"title": "Hiryuu no Ken Twin"}
-		],
-		"Forsaken 64": [
-			{"title": "Forsaken 64"},
-			{"title": "Forsaken"}
-		],
-		"GameShark Pro": [
-			{"title": "GameShark Pro"},
-			{"title": "Action Replay Pro 64"}
-		],
-		"Goemon's Great Adventure": [
-			{"title": "Goemon's Great Adventure"},
-			{"title": "Ganbare Goemon - Dero Dero Douchuu Obake Tenkomori"},
-			{"title": "Mystical Ninja 2 Starring Goemon"}
-		],
-		"GT 64 - Championship Edition": [
-			{"title": "GT 64 - Championship Edition"},
-			{"title": "City-Tour GP - Zen-Nihon GT Senshuken"}
-		],
-		"Harvest Moon 64": [
-			{"title": "Harvest Moon 64"},
-			{"title": "Bokujou Monogatari 2"}
-		],
-		"Hey You, Pikachu!": [
-			{"title": "Hey You, Pikachu!"},
-			{"title": "Pikachuu Genki de Chuu"}
-		],
-		"Iggy's Reckin' Balls": [
-			{"title": "Iggy's Reckin' Balls"},
-			{"title": "Iggy-kun no Bura Bura Poyon"}
-		],
-		"International Superstar Soccer '98": [
-			{"title": "International Superstar Soccer '98"},
-			{"title": "Jikkyou World Soccer - World Cup France '98"}
-		],
-		"International Superstar Soccer 2000": [
-			{"title": "International Superstar Soccer 2000"},
-			{"title": "Jikkyou J.League 1999 - Perfect Striker 2"}
-		],
-		"International Superstar Soccer 64": [
-			{"title": "International Superstar Soccer 64"},
-			{"title": "Jikkyou World Soccer 3"},
-			{"title": "Ronaldinho's Soccer 64"}
-		],
-		"International Track & Field 2000": [
-			{"title": "International Track & Field 2000"},
-			{"title": "Ganbare! Nippon! Olympics 2000"},
-			{"title": "International Track & Field - Summer Games"}
-		],
-		"Jet Force Gemini": [
-			{"title": "Jet Force Gemini"},
-			{"title": "Star Twins"}
-		],
-		"Kirby 64 - The Crystal Shards": [
-			{"title": "Kirby 64 - The Crystal Shards"},
-			{"title": "Hoshi no Kirby 64"}
-		],
-		"Legend of Zelda, The - Majora's Mask": [
-			{"title": "Legend of Zelda, The - Majora's Mask"},
-			{"title": "Zelda no Densetsu - Mujura no Kamen"}
-		],
-		"Legend of Zelda, The - Ocarina of Time": [
-			{"title": "Legend of Zelda, The - Ocarina of Time"},
-			{"title": "Zelda no Densetsu - Toki no Ocarina"},
-			{"title": "Zelda no Densetsu - Toki no Ocarina GC", "priority": 2}
-		],
-		"Legend of Zelda, The - Ocarina of Time - Master Quest": [
-			{"title": "Legend of Zelda, The - Ocarina of Time - Master Quest"},
-			{"title": "Zelda no Densetsu - Toki no Ocarina GC Ura"}
-		],
-		"Quest 64": [
-			{"title": "Quest 64"},
-			{"title": "Eltale Monsters"},
-			{"title": "Holy Magic Century"}
-		],
-		"Magical Tetris Challenge": [
-			{"title": "Magical Tetris Challenge"},
-			{"title": "Defi au Tetris Magique"},
-			{"title": "Magical Tetris Challenge featuring Mickey"}
-		],
-		"Mario Golf": [
-			{"title": "Mario Golf"},
-			{"title": "Mario Golf 64"}
-		],
-		"Mario Tennis": [
-			{"title": "Mario Tennis"},
-			{"title": "Mario Tennis 64"}
-		],
-		"Mega Man 64": [
-			{"title": "Mega Man 64"},
-			{"title": "Rockman Dash - Hagane no Boukenshin"}
-		],
-		"Mia Hamm Soccer 64": [
-			{"title": "Mia Hamm Soccer 64"},
-			{"title": "Michael Owen's WLS 2000"},
-			{"title": "RTL World League Soccer 2000"},
-			{"title": "Telefoot Soccer 2000"}
-		],
-		"Mickey's Speedway USA": [
-			{"title": "Mickey's Speedway USA"},
-			{"title": "Mickey no Racing Challenge USA"}
-		],
-		"Mischief Makers": [
-			{"title": "Mischief Makers"},
-			{"title": "Yuke Yuke!! Trouble Makers"}
-		],
-		"Monaco Grand Prix": [
-			{"title": "Monaco Grand Prix"},
-			{"title": "Monaco Grand Prix - Racing Simulation 2"},
-			{"title": "Racing Simulation 2"}
-		],
-		"Mystical Ninja Starring Goemon": [
-			{"title": "Mystical Ninja Starring Goemon"},
-			{"title": "Ganbare Goemon - Neo Momoyama Bakufu no Odori"}
-		],
-		"NBA in the Zone '98": [
-			{"title": "NBA in the Zone '98"},
-			{"title": "NBA Pro 98"}
-		],
-		"NBA in the Zone '99": [
-			{"title": "NBA in the Zone '99"},
-			{"title": "NBA in the Zone 2"},
-			{"title": "NBA Pro 99"}
-		],
-		"NHL Blades of Steel '99": [
-			{"title": "NHL Blades of Steel '99"},
-			{"title": "NHL Pro 99"}
-		],
-		"Nagano Winter Olympics '98": [
-			{"title": "Nagano Winter Olympics '98"},
-			{"title": "Hyper Olympics in Nagano 64"}
-		],
-		"Paper Mario": [
-			{"title": "Paper Mario"},
-			{"title": "Mario Story"}
-		],
-		"Penny Racers": [
-			{"title": "Penny Racers"},
-			{"title": "Choro Q 64"}
-		],
-		"PGA European Tour": [
-			{"title": "PGA European Tour"},
-			{"title": "PGA European Tour Golf"}
-		],
-		"Rally Challenge 2000": [
-			{"title": "Rally Challenge 2000"},
-			{"title": "Rally '99"}
-		],
-		"Rat Attack!": [
-			{"title": "Rat Attack!"},
-			{"title": "Rat Attack"}
-		],
-		"Resident Evil 2": [
-			{"title": "Resident Evil 2"},
-			{"title": "Biohazard 2"}
-		],
-		"Rugrats - Scavenger Hunt": [
-			{"title": "Rugrats - Scavenger Hunt"},
-			{"title": "Razmoket, Les - La Chasse aux Tresors"},
-			{"title": "Rugrats - Die grosse Schatzsuche"},
-			{"title": "Rugrats - Treasure Hunt"}
-		],
-		"Snowboard Kids": [
-			{"title": "Snowboard Kids"},
-			{"title": "Snobo Kids"}
-		],
-		"Snowboard Kids 2": [
-			{"title": "Snowboard Kids 2"},
-			{"title": "Chou Snobo Kids"}
-		],
-		"Star Fox 64": [
-			{"title": "Star Fox 64"},
-			{"title": "Lylat Wars"},
-			{"title": "Lylatwars"}
-		],
-		"Star Wars - Rogue Squadron": [
-			{"title": "Star Wars - Rogue Squadron"},
-			{"title": "Star Wars - Shutsugeki! Rogue Chuutai"}
-		],
-		"Star Wars - Shadows of the Empire": [
-			{"title": "Star Wars - Shadows of the Empire"},
-			{"title": "Star Wars - Teikoku no Kage"}
-		],
-		"Super Smash Bros.": [
-			{"title": "Super Smash Bros."},
-			{"title": "Nintendo All-Star! Dairantou Smash Brothers"}
-		],
-		"Superman - The New Superman Aventures": [
-			{"title": "Superman - The New Superman Aventures"},
-			{"title": "Superman"}
-		],
-		"Tamiya Racing 64": [
-			{"title": "Tamiya Racing 64"},
-			{"title": "Mini Racers", "priority": 2}
-		],
-		"Tony Hawk's Pro Skater": [
-			{"title": "Tony Hawk's Pro Skater"},
-			{"title": "Tony Hawk's Skateboarding"}
-		],
-		"Top Gear Hyper-Bike": [
-			{"title": "Top Gear Hyper-Bike"},
-			{"title": "Top Gear Hyper Bike"}
-		],
-		"Top Gear Rally 2": [
-			{"title": "Top Gear Rally 2"},
-			{"title": "TG Rally 2", "priority": 2}
-		],
-		"Toy Story 2 - Buzz Lightyear to the Rescue!": [
-			{"title": "Toy Story 2 - Buzz Lightyear to the Rescue!"},
-			{"title": "Toy Story 2 - Buzz l'Eclair a la Rescousse!"},
-			{"title": "Toy Story 2 - Captain Buzz Lightyear auf Rettungsmission!"}
-		],
-		"Transformers - Beast Wars Transmetals": [
-			{"title": "Transformers - Beast Wars Transmetals"},
-			{"title": "Transformers - Beast Wars Metals 64"}
-		],
-		"Turok - Dinosaur Hunter": [
-			{"title": "Turok - Dinosaur Hunter"},
-			{"title": "Jikuu Senshi Turok"}
-		],
-		"Turok - Rage Wars": [
-			{"title": "Turok - Rage Wars"},
-			{"title": "Turok - Legenden des Verlorenen Landes"}
-		],
-		"Turok 2 - Seeds of Evil": [
-			{"title": "Turok 2 - Seeds of Evil"},
-			{"title": "Violence Killer - Turok New Generation"}
-		],
-		"Twisted Edge - Extreme Snowboarding": [
-			{"title": "Twisted Edge - Extreme Snowboarding"},
-			{"title": "King Hill 64 - Extreme Snowboarding"},
-			{"title": "Twisted Edge - Snowboarding"}
-		],
-		"WinBack - Covert Operations": [
-			{"title": "WinBack - Covert Operations"},
-			{"title": "Operation WinBack"},
-			{"title": "WinBack"}
-		],
-		"Yoshi's Story": [
-			{"title": "Yoshi's Story"},
-			{"title": "Yoshi Story"}
-		]
-	}
+	"variants": [
+		{
+			"group": "AeroFighters Assault",
+			"titles": [
+				{"searchTerm": "AeroFighters Assault"},
+				{"searchTerm": "Sonic Wings Assault"}
+			]
+		},
+		{
+			"group": "Airboarder 64",
+			"titles": [
+				{"searchTerm": "Airboarder 64"},
+				{"searchTerm": "Air Boarder 64"}
+			]
+		},
+		{
+			"group": "All Star Tennis 99",
+			"titles": [
+				{"searchTerm": "All Star Tennis 99"},
+				{"searchTerm": "All Star Tennis '99"}
+			]
+		},
+		{
+			"group": "Automobili Lamborghini",
+			"titles": [
+				{"searchTerm": "Automobili Lamborghini"},
+				{"searchTerm": "Super Speed Race 64"}
+			]
+		},
+		{
+			"group": "Banjo-Kazooie",
+			"titles": [
+				{"searchTerm": "Banjo-Kazooie"},
+				{"searchTerm": "Banjo to Kazooie no Daibouken"}
+			]
+		},
+		{
+			"group": "Banjo-Tooie",
+			"titles": [
+				{"searchTerm": "Banjo-Tooie"},
+				{"searchTerm": "Banjo to Kazooie no Daibouken 2"}
+			]
+		},
+		{
+			"group": "Batman Beyond - Return of the Joker",
+			"titles": [
+				{"searchTerm": "Batman Beyond - Return of the Joker"},
+				{"searchTerm": "Batman of the Future - Return of the Joker"}
+			]
+		},
+		{
+			"group": "Beetle Adventure Racing!",
+			"titles": [
+				{"searchTerm": "Beetle Adventure Racing!"},
+				{"searchTerm": "HSV Adventure Racing!"}
+			]
+		},
+		{
+			"group": "Big Mountain 2000",
+			"titles": [
+				{"searchTerm": "Big Mountain 2000"},
+				{"searchTerm": "Snow Speeder"}
+			]
+		},
+		{
+			"group": "Blast Corps",
+			"titles": [
+				{"searchTerm": "Blast Corps"},
+				{"searchTerm": "Blastdozer"}
+			]
+		},
+		{
+			"group": "Blues Brothers 2000",
+			"titles": [
+				{"searchTerm": "Blues Brothers 2000"},
+				{"searchTerm": "Blues Brothers 2000 (#53)", "priority": 2},
+				{"searchTerm": "Blues Brothers 2000 (#20)", "priority": 3}
+			]
+		},
+		{
+			"group": "Bomberman 64",
+			"titles": [
+				{"searchTerm": "Bomberman 64"},
+				{"searchTerm": "Baku Bomberman"}
+			]
+		},
+		{
+			"group": "Bomberman 64 - The Second Attack!",
+			"titles": [
+				{"searchTerm": "Bomberman 64 - The Second Attack!"},
+				{"searchTerm": "Baku Bomberman 2"}
+			]
+		},
+		{
+			"group": "Bomberman Hero",
+			"titles": [
+				{"searchTerm": "Bomberman Hero"},
+				{"searchTerm": "Bomberman Hero - Mirian Oujo o Sukue!"}
+			]
+		},
+		{
+			"group": "Bust-A-Move '99",
+			"titles": [
+				{"searchTerm": "Bust-A-Move '99"},
+				{"searchTerm": "Bust-A-Move 3 DX"},
+				{"searchTerm": "Puzzle Bobble 64"}
+			]
+		},
+		{
+			"group": "Castlevania",
+			"titles": [
+				{"searchTerm": "Castlevania"},
+				{"searchTerm": "Akumajou Dracula Mokushiroku - Real Action Adventure"}
+			]
+		},
+		{
+			"group": "Castlevania - Legacy of Darkness",
+			"titles": [
+				{"searchTerm": "Castlevania - Legacy of Darkness"},
+				{"searchTerm": "Akumajou Dracula Mokushiroku Gaiden - Legend of Cornell"}
+			]
+		},
+		{
+			"group": "Centre Court Tennis",
+			"titles": [
+				{"searchTerm": "Centre Court Tennis"},
+				{"searchTerm": "Let's Smash"}
+			]
+		},
+		{
+			"group": "Chopper Attack",
+			"titles": [
+				{"searchTerm": "Chopper Attack"},
+				{"searchTerm": "Wild Choppers"}
+			]
+		},
+		{
+			"group": "Conker's Bad Fur Day",
+			"titles": [
+				{"searchTerm": "Conker's Bad Fur Day"},
+				{"searchTerm": "Conker's Bad Fur Day (ECTS 2000)"}
+			]
+		},
+		{
+			"group": "Dark Rift",
+			"titles": [
+				{"searchTerm": "Dark Rift"},
+				{"searchTerm": "Space Dynamites"}
+			]
+		},
+		{
+			"group": "Deadly Arts",
+			"titles": [
+				{"searchTerm": "Deadly Arts"},
+				{"searchTerm": "G.A.S.P!! Fighters' NEXTream"}
+			]
+		},
+		{
+			"group": "Donald Duck - Goin' Quackers",
+			"titles": [
+				{"searchTerm": "Donald Duck - Goin' Quackers"},
+				{"searchTerm": "Donald Duck - Quack Attack"}
+			]
+		},
+		{
+			"group": "Duck Dodgers Starring Daffy Duck",
+			"titles": [
+				{"searchTerm": "Duck Dodgers Starring Daffy Duck"},
+				{"searchTerm": "Daffy Duck Starring as Duck Dodgers"}
+			]
+		},
+		{
+			"group": "F-Zero X",
+			"titles": [
+				{"searchTerm": "F-Zero X"},
+				{"searchTerm": "F-Zero X (The Legend of Zelda Ocarina of Time Overdump)", "priority": 2}
+			]
+		},
+		{
+			"group": "F1 Pole Position 64",
+			"titles": [
+				{"searchTerm": "F1 Pole Position 64"},
+				{"searchTerm": "Human Grand Prix - The New Generation"}
+			]
+		},
+		{
+			"group": "FIFA - Road to World Cup 98",
+			"titles": [
+				{"searchTerm": "FIFA - Road to World Cup 98"},
+				{"searchTerm": "FIFA - Road to World Cup 98 - World Cup e no Michi"}
+			]
+		},
+		{
+			"group": "FIFA Soccer 64",
+			"titles": [
+				{"searchTerm": "FIFA Soccer 64"},
+				{"searchTerm": "FIFA 64"}
+			]
+		},
+		{
+			"group": "Fighter Destiny 2",
+			"titles": [
+				{"searchTerm": "Fighter Destiny 2"},
+				{"searchTerm": "Kakutou Denshou - F-Cup Maniax"}
+			]
+		},
+		{
+			"group": "Fighters Destiny",
+			"titles": [
+				{"searchTerm": "Fighters Destiny"},
+				{"searchTerm": "Fighting Cup"}
+			]
+		},
+		{
+			"group": "Flying Dragon",
+			"titles": [
+				{"searchTerm": "Flying Dragon"},
+				{"searchTerm": "Hiryuu no Ken Twin"}
+			]
+		},
+		{
+			"group": "Forsaken 64",
+			"titles": [
+				{"searchTerm": "Forsaken 64"},
+				{"searchTerm": "Forsaken"}
+			]
+		},
+		{
+			"group": "GameShark Pro",
+			"titles": [
+				{"searchTerm": "GameShark Pro"},
+				{"searchTerm": "Action Replay Pro 64"}
+			]
+		},
+		{
+			"group": "Goemon's Great Adventure",
+			"titles": [
+				{"searchTerm": "Goemon's Great Adventure"},
+				{"searchTerm": "Ganbare Goemon - Dero Dero Douchuu Obake Tenkomori"},
+				{"searchTerm": "Mystical Ninja 2 Starring Goemon"}
+			]
+		},
+		{
+			"group": "GT 64 - Championship Edition",
+			"titles": [
+				{"searchTerm": "GT 64 - Championship Edition"},
+				{"searchTerm": "City-Tour GP - Zen-Nihon GT Senshuken"}
+			]
+		},
+		{
+			"group": "Harvest Moon 64",
+			"titles": [
+				{"searchTerm": "Harvest Moon 64"},
+				{"searchTerm": "Bokujou Monogatari 2"}
+			]
+		},
+		{
+			"group": "Hey You, Pikachu!",
+			"titles": [
+				{"searchTerm": "Hey You, Pikachu!"},
+				{"searchTerm": "Pikachuu Genki de Chuu"}
+			]
+		},
+		{
+			"group": "Iggy's Reckin' Balls",
+			"titles": [
+				{"searchTerm": "Iggy's Reckin' Balls"},
+				{"searchTerm": "Iggy-kun no Bura Bura Poyon"}
+			]
+		},
+		{
+			"group": "International Superstar Soccer '98",
+			"titles": [
+				{"searchTerm": "International Superstar Soccer '98"},
+				{"searchTerm": "Jikkyou World Soccer - World Cup France '98"}
+			]
+		},
+		{
+			"group": "International Superstar Soccer 2000",
+			"titles": [
+				{"searchTerm": "International Superstar Soccer 2000"},
+				{"searchTerm": "Jikkyou J.League 1999 - Perfect Striker 2"}
+			]
+		},
+		{
+			"group": "International Superstar Soccer 64",
+			"titles": [
+				{"searchTerm": "International Superstar Soccer 64"},
+				{"searchTerm": "Jikkyou World Soccer 3"},
+				{"searchTerm": "Ronaldinho's Soccer 64"}
+			]
+		},
+		{
+			"group": "International Track & Field 2000",
+			"titles": [
+				{"searchTerm": "International Track & Field 2000"},
+				{"searchTerm": "Ganbare! Nippon! Olympics 2000"},
+				{"searchTerm": "International Track & Field - Summer Games"}
+			]
+		},
+		{
+			"group": "Jet Force Gemini",
+			"titles": [
+				{"searchTerm": "Jet Force Gemini"},
+				{"searchTerm": "Star Twins"}
+			]
+		},
+		{
+			"group": "Kirby 64 - The Crystal Shards",
+			"titles": [
+				{"searchTerm": "Kirby 64 - The Crystal Shards"},
+				{"searchTerm": "Hoshi no Kirby 64"}
+			]
+		},
+		{
+			"group": "Legend of Zelda, The - Majora's Mask",
+			"titles": [
+				{"searchTerm": "Legend of Zelda, The - Majora's Mask"},
+				{"searchTerm": "Zelda no Densetsu - Mujura no Kamen"}
+			]
+		},
+		{
+			"group": "Legend of Zelda, The - Ocarina of Time",
+			"titles": [
+				{"searchTerm": "Legend of Zelda, The - Ocarina of Time"},
+				{"searchTerm": "Zelda no Densetsu - Toki no Ocarina"},
+				{"searchTerm": "Zelda no Densetsu - Toki no Ocarina GC", "priority": 2}
+			]
+		},
+		{
+			"group": "Legend of Zelda, The - Ocarina of Time - Master Quest",
+			"titles": [
+				{"searchTerm": "Legend of Zelda, The - Ocarina of Time - Master Quest"},
+				{"searchTerm": "Zelda no Densetsu - Toki no Ocarina GC Ura"}
+			]
+		},
+		{
+			"group": "Quest 64",
+			"titles": [
+				{"searchTerm": "Quest 64"},
+				{"searchTerm": "Eltale Monsters"},
+				{"searchTerm": "Holy Magic Century"}
+			]
+		},
+		{
+			"group": "Magical Tetris Challenge",
+			"titles": [
+				{"searchTerm": "Magical Tetris Challenge"},
+				{"searchTerm": "Defi au Tetris Magique"},
+				{"searchTerm": "Magical Tetris Challenge featuring Mickey"}
+			]
+		},
+		{
+			"group": "Mario Golf",
+			"titles": [
+				{"searchTerm": "Mario Golf"},
+				{"searchTerm": "Mario Golf 64"}
+			]
+		},
+		{
+			"group": "Mario Tennis",
+			"titles": [
+				{"searchTerm": "Mario Tennis"},
+				{"searchTerm": "Mario Tennis 64"}
+			]
+		},
+		{
+			"group": "Mega Man 64",
+			"titles": [
+				{"searchTerm": "Mega Man 64"},
+				{"searchTerm": "Rockman Dash - Hagane no Boukenshin"}
+			]
+		},
+		{
+			"group": "Mia Hamm Soccer 64",
+			"titles": [
+				{"searchTerm": "Mia Hamm Soccer 64"},
+				{"searchTerm": "Michael Owen's WLS 2000"},
+				{"searchTerm": "RTL World League Soccer 2000"},
+				{"searchTerm": "Telefoot Soccer 2000"}
+			]
+		},
+		{
+			"group": "Mickey's Speedway USA",
+			"titles": [
+				{"searchTerm": "Mickey's Speedway USA"},
+				{"searchTerm": "Mickey no Racing Challenge USA"}
+			]
+		},
+		{
+			"group": "Mischief Makers",
+			"titles": [
+				{"searchTerm": "Mischief Makers"},
+				{"searchTerm": "Yuke Yuke!! Trouble Makers"}
+			]
+		},
+		{
+			"group": "Monaco Grand Prix",
+			"titles": [
+				{"searchTerm": "Monaco Grand Prix"},
+				{"searchTerm": "Monaco Grand Prix - Racing Simulation 2"},
+				{"searchTerm": "Racing Simulation 2"}
+			]
+		},
+		{
+			"group": "Mystical Ninja Starring Goemon",
+			"titles": [
+				{"searchTerm": "Mystical Ninja Starring Goemon"},
+				{"searchTerm": "Ganbare Goemon - Neo Momoyama Bakufu no Odori"}
+			]
+		},
+		{
+			"group": "NBA in the Zone '98",
+			"titles": [
+				{"searchTerm": "NBA in the Zone '98"},
+				{"searchTerm": "NBA Pro 98"}
+			]
+		},
+		{
+			"group": "NBA in the Zone '99",
+			"titles": [
+				{"searchTerm": "NBA in the Zone '99"},
+				{"searchTerm": "NBA in the Zone 2"},
+				{"searchTerm": "NBA Pro 99"}
+			]
+		},
+		{
+			"group": "NHL Blades of Steel '99",
+			"titles": [
+				{"searchTerm": "NHL Blades of Steel '99"},
+				{"searchTerm": "NHL Pro 99"}
+			]
+		},
+		{
+			"group": "Nagano Winter Olympics '98",
+			"titles": [
+				{"searchTerm": "Nagano Winter Olympics '98"},
+				{"searchTerm": "Hyper Olympics in Nagano 64"}
+			]
+		},
+		{
+			"group": "Paper Mario",
+			"titles": [
+				{"searchTerm": "Paper Mario"},
+				{"searchTerm": "Mario Story"}
+			]
+		},
+		{
+			"group": "Penny Racers",
+			"titles": [
+				{"searchTerm": "Penny Racers"},
+				{"searchTerm": "Choro Q 64"}
+			]
+		},
+		{
+			"group": "PGA European Tour",
+			"titles": [
+				{"searchTerm": "PGA European Tour"},
+				{"searchTerm": "PGA European Tour Golf"}
+			]
+		},
+		{
+			"group": "Rally Challenge 2000",
+			"titles": [
+				{"searchTerm": "Rally Challenge 2000"},
+				{"searchTerm": "Rally '99"}
+			]
+		},
+		{
+			"group": "Rat Attack!",
+			"titles": [
+				{"searchTerm": "Rat Attack!"},
+				{"searchTerm": "Rat Attack"}
+			]
+		},
+		{
+			"group": "Resident Evil 2",
+			"titles": [
+				{"searchTerm": "Resident Evil 2"},
+				{"searchTerm": "Biohazard 2"}
+			]
+		},
+		{
+			"group": "Rugrats - Scavenger Hunt",
+			"titles": [
+				{"searchTerm": "Rugrats - Scavenger Hunt"},
+				{"searchTerm": "Razmoket, Les - La Chasse aux Tresors"},
+				{"searchTerm": "Rugrats - Die grosse Schatzsuche"},
+				{"searchTerm": "Rugrats - Treasure Hunt"}
+			]
+		},
+		{
+			"group": "Snowboard Kids",
+			"titles": [
+				{"searchTerm": "Snowboard Kids"},
+				{"searchTerm": "Snobo Kids"}
+			]
+		},
+		{
+			"group": "Snowboard Kids 2",
+			"titles": [
+				{"searchTerm": "Snowboard Kids 2"},
+				{"searchTerm": "Chou Snobo Kids"}
+			]
+		},
+		{
+			"group": "Star Fox 64",
+			"titles": [
+				{"searchTerm": "Star Fox 64"},
+				{"searchTerm": "Lylat Wars"},
+				{"searchTerm": "Lylatwars"}
+			]
+		},
+		{
+			"group": "Star Wars - Rogue Squadron",
+			"titles": [
+				{"searchTerm": "Star Wars - Rogue Squadron"},
+				{"searchTerm": "Star Wars - Shutsugeki! Rogue Chuutai"}
+			]
+		},
+		{
+			"group": "Star Wars - Shadows of the Empire",
+			"titles": [
+				{"searchTerm": "Star Wars - Shadows of the Empire"},
+				{"searchTerm": "Star Wars - Teikoku no Kage"}
+			]
+		},
+		{
+			"group": "Super Smash Bros.",
+			"titles": [
+				{"searchTerm": "Super Smash Bros."},
+				{"searchTerm": "Nintendo All-Star! Dairantou Smash Brothers"}
+			]
+		},
+		{
+			"group": "Superman - The New Superman Aventures",
+			"titles": [
+				{"searchTerm": "Superman - The New Superman Aventures"},
+				{"searchTerm": "Superman"}
+			]
+		},
+		{
+			"group": "Tamiya Racing 64",
+			"titles": [
+				{"searchTerm": "Tamiya Racing 64"},
+				{"searchTerm": "Mini Racers", "priority": 2}
+			]
+		},
+		{
+			"group": "Tony Hawk's Pro Skater",
+			"titles": [
+				{"searchTerm": "Tony Hawk's Pro Skater"},
+				{"searchTerm": "Tony Hawk's Skateboarding"}
+			]
+		},
+		{
+			"group": "Top Gear Hyper-Bike",
+			"titles": [
+				{"searchTerm": "Top Gear Hyper-Bike"},
+				{"searchTerm": "Top Gear Hyper Bike"}
+			]
+		},
+		{
+			"group": "Top Gear Rally 2",
+			"titles": [
+				{"searchTerm": "Top Gear Rally 2"},
+				{"searchTerm": "TG Rally 2", "priority": 2}
+			]
+		},
+		{
+			"group": "Toy Story 2 - Buzz Lightyear to the Rescue!",
+			"titles": [
+				{"searchTerm": "Toy Story 2 - Buzz Lightyear to the Rescue!"},
+				{"searchTerm": "Toy Story 2 - Buzz l'Eclair a la Rescousse!"},
+				{"searchTerm": "Toy Story 2 - Captain Buzz Lightyear auf Rettungsmission!"}
+			]
+		},
+		{
+			"group": "Transformers - Beast Wars Transmetals",
+			"titles": [
+				{"searchTerm": "Transformers - Beast Wars Transmetals"},
+				{"searchTerm": "Transformers - Beast Wars Metals 64"}
+			]
+		},
+		{
+			"group": "Turok - Dinosaur Hunter",
+			"titles": [
+				{"searchTerm": "Turok - Dinosaur Hunter"},
+				{"searchTerm": "Jikuu Senshi Turok"}
+			]
+		},
+		{
+			"group": "Turok - Rage Wars",
+			"titles": [
+				{"searchTerm": "Turok - Rage Wars"},
+				{"searchTerm": "Turok - Legenden des Verlorenen Landes"}
+			]
+		},
+		{
+			"group": "Turok 2 - Seeds of Evil",
+			"titles": [
+				{"searchTerm": "Turok 2 - Seeds of Evil"},
+				{"searchTerm": "Violence Killer - Turok New Generation"}
+			]
+		},
+		{
+			"group": "Twisted Edge - Extreme Snowboarding",
+			"titles": [
+				{"searchTerm": "Twisted Edge - Extreme Snowboarding"},
+				{"searchTerm": "King Hill 64 - Extreme Snowboarding"},
+				{"searchTerm": "Twisted Edge - Snowboarding"}
+			]
+		},
+		{
+			"group": "WinBack - Covert Operations",
+			"titles": [
+				{"searchTerm": "WinBack - Covert Operations"},
+				{"searchTerm": "Operation WinBack"},
+				{"searchTerm": "WinBack"}
+			]
+		},
+		{
+			"group": "Yoshi's Story",
+			"titles": [
+				{"searchTerm": "Yoshi's Story"},
+				{"searchTerm": "Yoshi Story"}
+			]
+		}
+	]
 }

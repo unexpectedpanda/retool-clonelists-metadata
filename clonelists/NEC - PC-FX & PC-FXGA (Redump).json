@@ -1,20 +1,20 @@
 {
 	"description": {
-		"name": [
-			"NEC - PC-FX & PC-FXGA"
-		],
-		"last updated": "28 November 2021",
-		"minimum version": "0.92"
+		"name": "NEC - PC-FX & PC-FXGA (Redump)",
+		"lastUpdated": "28 November 2021",
+		"minimumVersion": "0.92"
 	},
 
-	"categories": {
-		"Amateur Teikyou CD-ROM \\(Japan\\).*": {
-			"match": "regex",
+	"categories": [
+		{
+			"searchTerm": "Amateur Teikyou CD-ROM \\(Japan\\).*",
+			"nameType": "regex",
 			"categories": ["Demos"]
 		},
-		"AnimeFreak FX Vol. [0-9](.*)?": {
-			"match": "regex",
+		{
+			"searchTerm": "AnimeFreak FX Vol. [0-9](.*)?",
+			"nameType": "regex",
 			"categories": ["Video"]
 		}
-	}
+	]
 }

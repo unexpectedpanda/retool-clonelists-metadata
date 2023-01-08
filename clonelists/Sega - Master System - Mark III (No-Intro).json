@@ -1,289 +1,480 @@
 {
 	"description": {
-		"name": [
-			"Sega - Master System - Mark III"
-		],
-		"last updated": "30 June 2022",
-		"minimum version": "2.00"
+		"name": "Sega - Master System - Mark III (No-Intro)",
+		"lastUpdated": "30 June 2022",
+		"minimumVersion": "2.00"
 	},
 
-	"categories": {
-		"Color & Switch Test": {
-			"match": "short",
+	"categories": [
+		{
+			"searchTerm": "Color & Switch Test",
+			"nameType": "short",
 			"categories": ["Applications", "Preproduction"]
 		},
-		"Sega Graphic Board": {
-			"match": "short",
+		{
+			"searchTerm": "Sega Graphic Board",
+			"nameType": "short",
 			"categories": ["Applications", "Preproduction"]
 		}
-	},
+	],
 
-	"overrides": {
-		"Great Baseball (Japan)": {
-			"new group": "Great Baseball (Japan)",
-			"match": "full"
+	"overrides": [
+		{
+			"searchTerm": "Great Baseball (Japan)",
+			"nameType": "full",
+			"newGroup": "Great Baseball Japan"
 		},
-		"Great Golf (World) (Beta)": {
-			"new group": "Great Golf ~ Masters Golf",
-			"match": "full"
+		{
+			"searchTerm": "Great Golf (World) (Beta)",
+			"nameType": "full",
+			"newGroup": "Great Golf ~ Masters Golf"
 		}
-	},
+	],
 
-	"renames": {
-		"Alex Kidd - High-Tech World": [
-			{"title": "Alex Kidd - High-Tech World"},
-			{"title": "Anmitsu Hime"}
-		],
-		"Alex Kidd in Miracle World": [
-			{"title": "Alex Kidd in Miracle World"},
-			{"title": "Alex Kido"},
-			{"title": "Alex Kidd no Miracle World"}
-		],
-		"Argos no Juujiken": [
-			{"title": "Argos no Juujiken"},
-			{"title": "Alocos"}
-		],
-		"Astro Warrior": [
-			{"title": "Astro Warrior"},
-			{"compilation": "Astro Warrior & Pit Pot", "title_position": 1},
-			{"compilation": "Hang On & Astro Warrior", "title_position": 2}
-		],
-		"Black Belt": [
-			{"title": "Black Belt"},
-			{"title": "Hokuto no Ken"},
-			{"title": "Northen Ken"}
-		],
-		"Blade Eagle 3-D": [
-			{"title": "Blade Eagle 3-D"},
-			{"title": "Blade Eagle"}
-		],
-		"Bubble Bobble": [
-			{"title": "Bubble Bobble"},
-			{"title": "Bubble Bobble"},
-			{"title": "Final Bubble Bobble"}
-		],
-		"California Games II": [
-			{"title": "California Games II"},
-			{"title": "Jogos de Verao II"}
-		],
-		"Cyborg Hunter": [
-			{"title": "Cyborg Hunter"},
-			{"title": "Chouon Senshi Borgman"}
-		],
-		"Dinosaur Dooley, The": [
-			{"title": "Dinosaur Dooley, The"},
-			{"title": "Agigongnyong Dooly", "priority": 2}
-		],
-		"F-16 Fighter": [
-			{"title": "F-16 Fighter"},
-			{"title": "F-16 Fighting Falcon", "priority": 2}
-		],
-		"Fantasy Zone - The Maze": [
-			{"title": "Fantasy Zone - The Maze"},
-			{"title": "Opa Opa"}
-		],
-		"Fantasy Zone II": [
-			{"title": "Fantasy Zone II"},
-			{"title": "Fantasy Zone II - Opa-Opa no Namida"}
-		],
-		"Ghost House": [
-			{"title": "Ghost House"},
-			{"title": "Yuyryeong-ui Jip"}
-		],
-		"Global Defense": [
-			{"title": "Global Defense"},
-			{"title": "SDI"}
-		],
-		"Golfamania": [
-			{"title": "Golfamania"},
-			{"title": "Super Golf", "priority": 2}
-		],
-		"Golvellius - Valley of Doom": [
-			{"title": "Golvellius - Valley of Doom"},
-			{"title": "Maou Golvellius"}
-		],
-		"Great Basketball": [
-			{"title": "Great Basketball"},
-			{"title": "94-Nen Super Basketball"}
-		],
-		"Hang On": [
-			{"title": "Hang On"},
-			{"compilation": "Hang On & Astro Warrior", "title_position": 1},
-			{"compilation": "Hang On & Safari Hunt", "title_position": 1}
-		],
-		"James 'Buster' Douglas Knockout Boxing": [
-			{"title": "James 'Buster' Douglas Knockout Boxing"},
-			{"title": "George Foreman's KO Boxing"},
-			{"title": "Heavyweight Champ", "priority": 2}
-		],
-		"Kenseiden": [
-			{"title": "Kenseiden"},
-			{"title": "Hwarang-ui Geom"}
-		],
-		"Kung Fu Kid": [
-			{"title": "Kung Fu Kid"},
-			{"title": "Makai Retsuden"}
-		],
-		"Lord of the Sword": [
-			{"title": "Lord of the Sword"},
-			{"title": "Lord of Sword"}
-		],
-		"Marksman Shooting": [
-			{"compilation": "Marksman Shooting & Trap Shooting", "title_position": 1},
-			{"compilation": "Marksman Shooting & Trap Shooting & Safari Hunt", "title_position": 1}
-		],
-		"Master of Darkness": [
-			{"title": "Master of Darkness"},
-			{"title": "Vampire", "priority": 2}
-		],
-		"Maze Hunter 3-D": [
-			{"title": "Maze Hunter 3-D"},
-			{"title": "Maze Walker"}
-		],
-		"Miracle Warriors - Seal of the Dark Lord": [
-			{"title": "Miracle Warriors - Seal of the Dark Lord"},
-			{"title": "Haja no Fuuin"}
-		],
-		"Missile Defense 3-D": [
-			{"title": "Missile Defense 3-D"}
-		],
-		"My Hero": [
-			{"title": "My Hero"},
-			{"title": "Action Boy"},
-			{"title": "Seishun Scandal"},
-			{"title": "Ttoriui Moheom"}
-		],
-		"Ninja, The": [
-			{"title": "Ninja, The"},
-			{"title": "Ninja"}
-		],
-		"Paperboy": [
-			{"title": "Paperboy"},
-			{"title": "Paper Boy"}
-		],
-		"Parlour Games": [
-			{"title": "Parlour Games"},
-			{"title": "Family Games"}
-		],
-		"Penguin Land": [
-			{"title": "Penguin Land"},
-			{"title": "Astro Adventure"},
-			{"title": "Doki Doki Penguin Land - Uchuu Daibouken"}
-		],
-		"Pit Pot": [
-			{"title": "Fushigi no Oshiro Pit Pot"},
-			{"compilation": "Astro Warrior & Pit Pot", "title_position": 2}
-		],
-		"Power Strike": [
-			{"title": "Power Strike"},
-			{"title": "Aleste"}
-		],
-		"Pro Wrestling": [
-			{"title": "Pro Wrestling"},
-			{"title": "Gokuaku Doumei Dump Matsumoto"}
-		],
-		"Quartet": [
-			{"title": "Quartet"},
-			{"title": "Double Target - Cynthia no Nemuri"}
-		],
-		"Rambo - First Blood Part II": [
-			{"title": "Rambo - First Blood Part II"},
-			{"title": "Ashura"},
-			{"title": "Secret Command"},
-			{"title": "Shangwei Mingling"}
-		],
-		"Reggie Jackson Baseball": [
-			{"title": "Reggie Jackson Baseball"},
-			{"title": "American Baseball"}
-		],
-		"Safari Hunt": [
-			{"compilation": "Hang On & Safari Hunt", "title_position": 2},
-			{"compilation": "Marksman Shooting & Trap Shooting & Safari Hunt", "title_position": 3}
-		],
-		"Shadow Dancer - The Secret of Shinobi": [
-			{"title": "Shadow Dancer - The Secret of Shinobi"},
-			{"title": "Shadow Dancer"}
-		],
-		"Sky Jaguar": [
-			{"title": "Sky Jaguar"},
-			{"title": "Sky Jaguar (Clover)", "priority": 2}
-		],
-		"Slap Shot": [
-			{"title": "Slap Shot"},
-			{"title": "Slap Shoot", "priority": 2}
-		],
-		"Sonic The Hedgehog": [
-			{"title": "Sonic The Hedgehog"}
-		],
-		"Space Harrier 3-D": [
-			{"title": "Space Harrier 3-D"},
-			{"title": "Space Harrier 3D"}
-		],
-		"SpellCaster": [
-			{"title": "SpellCaster"},
-			{"title": "Kujaku Ou"}
-		],
-		"Strider": [
-			{"title": "Strider"},
-			{"title": "Strider, The"}
-		],
-		"Super Tennis": [
-			{"title": "Super Tennis"},
-			{"title": "Great Tennis"}
-		],
-		"Tecmo World Cup '93": [
-			{"title": "Tecmo World Cup '93"},
-			{"title": "Tecmo World Cup '92", "priority": 2}
-		],
-		"Teddy Boy": [
-			{"title": "Teddy Boy"},
-			{"title": "Teddy Boy Blues"},
-			{"title": "Teddy Boy Blues (Ep-MyCard)", "priority": 2}
-		],
-		"Tom and Jerry - The Movie": [
-			{"title": "Tom and Jerry - The Movie"},
-			{"title": "Tom & Jerry", "priority": 2}
-		],
-		"TransBot": [
-			{"title": "TransBot"},
-			{"title": "Astro Flash"}
-		],
-		"Trap Shooting": [
-			{"compilation": "Marksman Shooting & Trap Shooting", "title_position": 2},
-			{"compilation": "Marksman Shooting & Trap Shooting & Safari Hunt", "title_position": 2}
-		],
-		"Walter Payton Football": [
-			{"title": "Walter Payton Football"},
-			{"title": "American Pro Football"}
-		],
-		"Wonder Boy III - The Dragon's Trap": [
-			{"title": "Wonder Boy III - The Dragon's Trap"},
-			{"title": "Turma da Monica em O Resgate"}
-		],
-		"Wonder Boy in Monster Land": [
-			{"title": "Wonder Boy in Monster Land"},
-			{"title": "Monica no Castelo do Dragao"},
-			{"title": "Super Wonder Boy - Monster World"}
-		],
-		"Woody Pop - Shinjinrui no Block Kuzushi": [
-			{"title": "Woody Pop - Shinjinrui no Block Kuzushi"},
-			{"title": "Super Arkanoid"}
-		],
-		"World Cup Italia '90": [
-			{"title": "World Cup Italia '90"},
-			{"title": "Super Futebol II", "priority": 2}
-		],
-		"World Grand Prix": [
-			{"title": "World Grand Prix"},
-			{"title": "Circuit, The"}
-		],
-		"World Soccer": [
-			{"title": "World Soccer"},
-			{"title": "Sports Pad Soccer"}
-		],
-		"Ys - The Vanished Omens": [
-			{"title": "Ys - The Vanished Omens"},
-			{"title": "Ys"}
-		]
-	}
+	"variants": [
+		{
+			"group": "Alex Kidd - High-Tech World",
+			"titles": [
+				{"searchTerm": "Alex Kidd - High-Tech World"},
+				{"searchTerm": "Anmitsu Hime"}
+			]
+		},
+		{
+			"group": "Alex Kidd in Miracle World",
+			"titles": [
+				{"searchTerm": "Alex Kidd in Miracle World"},
+				{"searchTerm": "Alex Kido"},
+				{"searchTerm": "Alex Kidd no Miracle World"}
+			]
+		},
+		{
+			"group": "Argos no Juujiken",
+			"titles": [
+				{"searchTerm": "Argos no Juujiken"},
+				{"searchTerm": "Alocos"}
+			]
+		},
+		{
+			"group": "Astro Warrior",
+			"titles": [
+				{"searchTerm": "Astro Warrior"}
+			],
+			"compilations": [
+				{"searchTerm": "Astro Warrior & Pit Pot", "titlePosition": 1},
+				{"searchTerm": "Hang On & Astro Warrior", "titlePosition": 2}
+			]
+		},
+		{
+			"group": "Black Belt",
+			"titles": [
+				{"searchTerm": "Black Belt"},
+				{"searchTerm": "Hokuto no Ken"},
+				{"searchTerm": "Northen Ken"}
+			]
+		},
+		{
+			"group": "Blade Eagle 3-D",
+			"titles": [
+				{"searchTerm": "Blade Eagle 3-D"},
+				{"searchTerm": "Blade Eagle"}
+			]
+		},
+		{
+			"group": "Bubble Bobble",
+			"titles": [
+				{"searchTerm": "Bubble Bobble"},
+				{"searchTerm": "Bubble Bobble"},
+				{"searchTerm": "Final Bubble Bobble"}
+			]
+		},
+		{
+			"group": "California Games II",
+			"titles": [
+				{"searchTerm": "California Games II"},
+				{"searchTerm": "Jogos de Verao II"}
+			]
+		},
+		{
+			"group": "Cyborg Hunter",
+			"titles": [
+				{"searchTerm": "Cyborg Hunter"},
+				{"searchTerm": "Chouon Senshi Borgman"}
+			]
+		},
+		{
+			"group": "Dinosaur Dooley, The",
+			"titles": [
+				{"searchTerm": "Dinosaur Dooley, The"},
+				{"searchTerm": "Agigongnyong Dooly", "priority": 2}
+			]
+		},
+		{
+			"group": "F-16 Fighter",
+			"titles": [
+				{"searchTerm": "F-16 Fighter"},
+				{"searchTerm": "F-16 Fighting Falcon", "priority": 2}
+			]
+		},
+		{
+			"group": "Fantasy Zone - The Maze",
+			"titles": [
+				{"searchTerm": "Fantasy Zone - The Maze"},
+				{"searchTerm": "Opa Opa"}
+			]
+		},
+		{
+			"group": "Fantasy Zone II",
+			"titles": [
+				{"searchTerm": "Fantasy Zone II"},
+				{"searchTerm": "Fantasy Zone II - Opa-Opa no Namida"}
+			]
+		},
+		{
+			"group": "Ghost House",
+			"titles": [
+				{"searchTerm": "Ghost House"},
+				{"searchTerm": "Yuyryeong-ui Jip"}
+			]
+		},
+		{
+			"group": "Global Defense",
+			"titles": [
+				{"searchTerm": "Global Defense"},
+				{"searchTerm": "SDI"}
+			]
+		},
+		{
+			"group": "Golfamania",
+			"titles": [
+				{"searchTerm": "Golfamania"},
+				{"searchTerm": "Super Golf", "priority": 2}
+			]
+		},
+		{
+			"group": "Golvellius - Valley of Doom",
+			"titles": [
+				{"searchTerm": "Golvellius - Valley of Doom"},
+				{"searchTerm": "Maou Golvellius"}
+			]
+		},
+		{
+			"group": "Great Basketball",
+			"titles": [
+				{"searchTerm": "Great Basketball"},
+				{"searchTerm": "94-Nen Super Basketball"}
+			]
+		},
+		{
+			"group": "Hang On",
+			"titles": [
+				{"searchTerm": "Hang On"}
+			],
+			"compilations": [
+				{"searchTerm": "Hang On & Astro Warrior", "titlePosition": 1},
+				{"searchTerm": "Hang On & Safari Hunt", "titlePosition": 1}
+			]
+		},
+		{
+			"group": "James 'Buster' Douglas Knockout Boxing",
+			"titles": [
+				{"searchTerm": "James 'Buster' Douglas Knockout Boxing"},
+				{"searchTerm": "George Foreman's KO Boxing"},
+				{"searchTerm": "Heavyweight Champ", "priority": 2}
+			]
+		},
+		{
+			"group": "Kenseiden",
+			"titles": [
+				{"searchTerm": "Kenseiden"},
+				{"searchTerm": "Hwarang-ui Geom"}
+			]
+		},
+		{
+			"group": "Kung Fu Kid",
+			"titles": [
+				{"searchTerm": "Kung Fu Kid"},
+				{"searchTerm": "Makai Retsuden"}
+			]
+		},
+		{
+			"group": "Lord of the Sword",
+			"titles": [
+				{"searchTerm": "Lord of the Sword"},
+				{"searchTerm": "Lord of Sword"}
+			]
+		},
+		{
+			"group": "Marksman Shooting",
+			"compilations": [
+				{"searchTerm": "Marksman Shooting & Trap Shooting", "titlePosition": 1},
+				{"searchTerm": "Marksman Shooting & Trap Shooting & Safari Hunt", "titlePosition": 1}
+			]
+		},
+		{
+			"group": "Master of Darkness",
+			"titles": [
+				{"searchTerm": "Master of Darkness"},
+				{"searchTerm": "Vampire", "priority": 2}
+			]
+		},
+		{
+			"group": "Maze Hunter 3-D",
+			"titles": [
+				{"searchTerm": "Maze Hunter 3-D"},
+				{"searchTerm": "Maze Walker"}
+			]
+		},
+		{
+			"group": "Miracle Warriors - Seal of the Dark Lord",
+			"titles": [
+				{"searchTerm": "Miracle Warriors - Seal of the Dark Lord"},
+				{"searchTerm": "Haja no Fuuin"}
+			]
+		},
+		{
+			"group": "Missile Defense 3-D",
+			"titles": [
+				{"searchTerm": "Missile Defense 3-D"}
+			]
+		},
+		{
+			"group": "My Hero",
+			"titles": [
+				{"searchTerm": "My Hero"},
+				{"searchTerm": "Action Boy"},
+				{"searchTerm": "Seishun Scandal"},
+				{"searchTerm": "Ttoriui Moheom"}
+			]
+		},
+		{
+			"group": "Ninja, The",
+			"titles": [
+				{"searchTerm": "Ninja, The"},
+				{"searchTerm": "Ninja"}
+			]
+		},
+		{
+			"group": "Paperboy",
+			"titles": [
+				{"searchTerm": "Paperboy"},
+				{"searchTerm": "Paper Boy"}
+			]
+		},
+		{
+			"group": "Parlour Games",
+			"titles": [
+				{"searchTerm": "Parlour Games"},
+				{"searchTerm": "Family Games"}
+			]
+		},
+		{
+			"group": "Penguin Land",
+			"titles": [
+				{"searchTerm": "Penguin Land"},
+				{"searchTerm": "Astro Adventure"},
+				{"searchTerm": "Doki Doki Penguin Land - Uchuu Daibouken"}
+			]
+		},
+		{
+			"group": "Pit Pot",
+			"titles": [
+				{"searchTerm": "Fushigi no Oshiro Pit Pot"}
+			],
+			"compilations": [
+				{"searchTerm": "Astro Warrior & Pit Pot", "titlePosition": 2}
+			]
+		},
+		{
+			"group": "Power Strike",
+			"titles": [
+				{"searchTerm": "Power Strike"},
+				{"searchTerm": "Aleste"}
+			]
+		},
+		{
+			"group": "Pro Wrestling",
+			"titles": [
+				{"searchTerm": "Pro Wrestling"},
+				{"searchTerm": "Gokuaku Doumei Dump Matsumoto"}
+			]
+		},
+		{
+			"group": "Quartet",
+			"titles": [
+				{"searchTerm": "Quartet"},
+				{"searchTerm": "Double Target - Cynthia no Nemuri"}
+			]
+		},
+		{
+			"group": "Rambo - First Blood Part II",
+			"titles": [
+				{"searchTerm": "Rambo - First Blood Part II"},
+				{"searchTerm": "Ashura"},
+				{"searchTerm": "Secret Command"},
+				{"searchTerm": "Shangwei Mingling"}
+			]
+		},
+		{
+			"group": "Reggie Jackson Baseball",
+			"titles": [
+				{"searchTerm": "Reggie Jackson Baseball"},
+				{"searchTerm": "American Baseball"}
+			]
+		},
+		{
+			"group": "Safari Hunt",
+			"compilations": [
+				{"searchTerm": "Hang On & Safari Hunt", "titlePosition": 2},
+				{"searchTerm": "Marksman Shooting & Trap Shooting & Safari Hunt", "titlePosition": 3}
+			]
+		},
+		{
+			"group": "Shadow Dancer - The Secret of Shinobi",
+			"titles": [
+				{"searchTerm": "Shadow Dancer - The Secret of Shinobi"},
+				{"searchTerm": "Shadow Dancer"}
+			]
+		},
+		{
+			"group": "Sky Jaguar",
+			"titles": [
+				{"searchTerm": "Sky Jaguar"},
+				{"searchTerm": "Sky Jaguar (Clover)", "priority": 2}
+			]
+		},
+		{
+			"group": "Slap Shot",
+			"titles": [
+				{"searchTerm": "Slap Shot"},
+				{"searchTerm": "Slap Shoot", "priority": 2}
+			]
+		},
+		{
+			"group": "Sonic The Hedgehog",
+			"titles": [
+				{"searchTerm": "Sonic The Hedgehog"}
+			]
+		},
+		{
+			"group": "Space Harrier 3-D",
+			"titles": [
+				{"searchTerm": "Space Harrier 3-D"},
+				{"searchTerm": "Space Harrier 3D"}
+			]
+		},
+		{
+			"group": "SpellCaster",
+			"titles": [
+				{"searchTerm": "SpellCaster"},
+				{"searchTerm": "Kujaku Ou"}
+			]
+		},
+		{
+			"group": "Strider",
+			"titles": [
+				{"searchTerm": "Strider"},
+				{"searchTerm": "Strider, The"}
+			]
+		},
+		{
+			"group": "Super Tennis",
+			"titles": [
+				{"searchTerm": "Super Tennis"},
+				{"searchTerm": "Great Tennis"}
+			]
+		},
+		{
+			"group": "Tecmo World Cup '93",
+			"titles": [
+				{"searchTerm": "Tecmo World Cup '93"},
+				{"searchTerm": "Tecmo World Cup '92", "priority": 2}
+			]
+		},
+		{
+			"group": "Teddy Boy",
+			"titles": [
+				{"searchTerm": "Teddy Boy"},
+				{"searchTerm": "Teddy Boy Blues"},
+				{"searchTerm": "Teddy Boy Blues (Ep-MyCard)", "priority": 2}
+			]
+		},
+		{
+			"group": "Tom and Jerry - The Movie",
+			"titles": [
+				{"searchTerm": "Tom and Jerry - The Movie"},
+				{"searchTerm": "Tom & Jerry", "priority": 2}
+			]
+		},
+		{
+			"group": "TransBot",
+			"titles": [
+				{"searchTerm": "TransBot"},
+				{"searchTerm": "Astro Flash"}
+			]
+		},
+		{
+			"group": "Trap Shooting",
+			"compilations": [
+				{"searchTerm": "Marksman Shooting & Trap Shooting", "titlePosition": 2},
+				{"searchTerm": "Marksman Shooting & Trap Shooting & Safari Hunt", "titlePosition": 2}
+			]
+		},
+		{
+			"group": "Walter Payton Football",
+			"titles": [
+				{"searchTerm": "Walter Payton Football"},
+				{"searchTerm": "American Pro Football"}
+			]
+		},
+		{
+			"group": "Wonder Boy III - The Dragon's Trap",
+			"titles": [
+				{"searchTerm": "Wonder Boy III - The Dragon's Trap"},
+				{"searchTerm": "Turma da Monica em O Resgate"}
+			]
+		},
+		{
+			"group": "Wonder Boy in Monster Land",
+			"titles": [
+				{"searchTerm": "Wonder Boy in Monster Land"},
+				{"searchTerm": "Monica no Castelo do Dragao"},
+				{"searchTerm": "Super Wonder Boy - Monster World"}
+			]
+		},
+		{
+			"group": "Woody Pop - Shinjinrui no Block Kuzushi",
+			"titles": [
+				{"searchTerm": "Woody Pop - Shinjinrui no Block Kuzushi"},
+				{"searchTerm": "Super Arkanoid"}
+			]
+		},
+		{
+			"group": "World Cup Italia '90",
+			"titles": [
+				{"searchTerm": "World Cup Italia '90"},
+				{"searchTerm": "Super Futebol II", "priority": 2}
+			]
+		},
+		{
+			"group": "World Grand Prix",
+			"titles": [
+				{"searchTerm": "World Grand Prix"},
+				{"searchTerm": "Circuit, The"}
+			]
+		},
+		{
+			"group": "World Soccer",
+			"titles": [
+				{"searchTerm": "World Soccer"},
+				{"searchTerm": "Sports Pad Soccer"}
+			]
+		},
+		{
+			"group": "Ys - The Vanished Omens",
+			"titles": [
+				{"searchTerm": "Ys - The Vanished Omens"},
+				{"searchTerm": "Ys"}
+			]
+		}
+	]
 }

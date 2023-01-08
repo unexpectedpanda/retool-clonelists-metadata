@@ -1,18 +1,17 @@
 {
 	"description": {
-		"name": [
-			"Microsoft - Xbox 360 (Redump)"
-		],
-		"last updated": "25 July 2022",
-		"minimum version": "2.00"
+		"name": "Microsoft - Xbox 360 (Redump)",
+		"lastUpdated": "25 July 2022",
+		"minimumVersion": "2.00"
 	},
 
-	"categories": {
-		"Dead Rising 2 (Zombrex Edition Bonus Disc)": {
-			"match": "short",
+	"categories": [
+		{
+			"searchTerm": "Dead Rising 2 (Zombrex Edition Bonus Disc)",
+			"nameType": "short",
 			"categories": ["Bonus Discs", "Video"]
 		}
-	},
+	],
 
 	"mias": [
 		"Kinect Adventures! (Asia) (En,Zh)",
@@ -25,753 +24,1383 @@
 		"Your Shape - Fitness Evolved (Asia) (En,Zh)"
 	],
 
-	"renames": {
-		"007 - Quantum of Solace": [
-			{"title": "007 - Quantum of Solace"},
-			{"title": "007 - Ein Quantum Trost"},
-			{"title": "007 - Nagusame no Houshuu"}
-		],
-		"2014 FIFA World Cup Brazil": [
-			{"title": "2014 FIFA World Cup Brazil"},
-			{"title": "Copa do Mundo da FIFA Brasil 2014"}
-		],
-		"AC-DC Live - Rock Band Track Pack": [
-			{"title": "AC-DC Live - Rock Band Track Pack"},
-			{"title": "AC-DC Live - Rock Band"}
-		],
-		"Ace Combat 6 - Fires of Liberation": [
-			{"title": "Ace Combat 6 - Fires of Liberation"},
-			{"title": "Ace Combat 6 - Kaihou e no Senka"}
-		],
-		"Arcania - Gothic 4": [
-			{"title": "Arcania - Gothic 4"},
-			{"superset": "Arcania - The Complete Tale"}
-		],
-		"Assassin's Creed II": [
-			{"title": "Assassin's Creed II"},
-			{"superset": "Assassin's Creed II - Game of the Year Edition"},
-			{"superset": "Assassin's Creed II - Special Edition"}
-		],
-		"Assassin's Creed III (Disc 1) (Single-player)": [
-			{"title": "Assassin's Creed III (Disc 1) (Single-player)"},
-			{"title": "Assassin's Creed III (Disc 1)"}
-		],
-		"Assassin's Creed III (Disc 2) (Multiplayer)": [
-			{"title": "Assassin's Creed III (Disc 2) (Multiplayer)"},
-			{"title": "Assassin's Creed III (Disc 2)"}
-		],
-		"Assassin's Creed IV - Black Flag (Disc 2)": [
-			{"title": "Assassin's Creed IV - Black Flag (Disc 2)"},
-			{"title": "Assassin's Creed IV - Black Flag (Disc 2) (Multiplayer)"}
-		],
-		"Batman - Arkham Asylum": [
-			{"title": "Batman - Arkham Asylum"},
-			{"superset": "Batman - Arkham Asylum - Game of the Year Edition"}
-		],
-		"Batman - Arkham City": [
-			{"title": "Batman - Arkham City"},
-			{"superset": "Batman - Arkham City - Game of the Year Edition (Disc 1)"}
-		],
-		"Battlefield - Bad Company": [
-			{"title": "Battlefield - Bad Company"},
-			{"superset": "Battlefield - Bad Company (Gold Edition)"}
-		],
-		"Battlefield - Bad Company 2": [
-			{"title": "Battlefield - Bad Company 2"},
-			{"superset": "Battlefield - Bad Company 2 (Limited Edition)"}
-		],
-		"Battlefield 3 (Disc 1) (Multiplayer-Co-Op)": [
-			{"title": "Battlefield 3 (Disc 1) (Multiplayer-Co-Op)"},
-			{"title": "Battlefield 3 (Disc 1) (Multiplay-COOP)"}
-		],
-		"Battlefield 3 (Disc 2) (Single-Player Campaign)": [
-			{"title": "Battlefield 3 (Disc 2) (Single-Player Campaign)"},
-			{"title": "Battlefield 3 (Disc 2) (Single-Play)"}
-		],
-		"Beautiful Katamari": [
-			{"title": "Beautiful Katamari"},
-			{"title": "Beautiful Katamari Damacy"}
-		],
-		"Bladestorm - The Hundred Years' War": [
-			{"title": "Bladestorm - The Hundred Years' War"},
-			{"title": "Bladestorm - Hyakunen Sensou"}
-		],
-		"Blur": [
-			{"title": "Blur"},
-			{"title": "Blur Racerz"}
-		],
-		"Borderlands - Double Game Add-On Pack": [
-			{"title": "Borderlands - Double Game Add-On Pack"},
-			{"title": "Borderlands - Add-On Doppelpack"},
-			{"title": "Borderlands - Game of the Year Edition (Add-On Content Disc)", "priority": 2}
-		],
-		"Brian Lara International Cricket 2007": [
-			{"title": "Brian Lara International Cricket 2007"},
-			{"title": "Ricky Ponting International Cricket 2007"}
-		],
-		"Bullet Soul": [
-			{"title": "Bullet Soul"},
-			{"superset": "Bullet Soul - Infinite Burst"}
-		],
-		"Bully": [
-			{"title": "Bully"},
-			{"superset": "Bully - Scholarship Edition"}
-		],
-		"Burnout Paradise": [
-			{"title": "Burnout Paradise"},
-			{"superset": "Burnout Paradise - The Ultimate Box"}
-		],
-		"Cabela's Dangerous Hunts 2009": [
-			{"title": "Cabela's Dangerous Hunts 2009"},
-			{"title": "Cabela's Dangerous Adventures"}
-		],
-		"Call of Duty - Advanced Warfare (Game Disc)": [
-			{"title": "Call of Duty - Advanced Warfare (Game Disc)"},
-			{"title": "Call of Duty - Advanced Warfare (Disc di Gioco)"},
-			{"title": "Call of Duty - Advanced Warfare (Disc de Juego)"},
-			{"title": "Call of Duty - Advanced Warfare (Spieldisc)"}
-		],
-		"Call of Duty - Ghosts (Disc 1) (Game Disc)": [
-			{"title": "Call of Duty - Ghosts (Disc 1) (Game Disc)"},
-			{"title": "Call of Duty - Ghosts (Disc 1) (Disc de Juego)"},
-			{"title": "Call of Duty - Ghosts (Disc 1) (Disc di Gioco)"},
-			{"title": "Call of Duty - Ghosts (Disc 1) (Disc do Jogo)"},
-			{"title": "Call of Duty - Ghosts (Disc 1) (Igrovoj)"},
-			{"title": "Call of Duty - Ghosts (Disc 1) (Spieldisc)"}
-		],
-		"Champion Jockey - G1 Jockey & Gallop Racer": [
-			{"title": "Champion Jockey - G1 Jockey & Gallop Racer"},
-			{"title": "Champion Jockey - Gallop Racer & GI Jockey"}
-		],
-		"Command & Conquer - Red Alert 3": [
-			{"title": "Command & Conquer - Red Alert 3"},
-			{"title": "Command & Conquer - Alarmstufe Rot 3"}
-		],
-		"Command & Conquer 3 - Kane's Wrath": [
-			{"title": "Command & Conquer 3 - Kane's Wrath"},
-			{"title": "Command & Conquer 3 - Kanes Rache"},
-			{"title": "Command & Conquer 3 - L'Ira di Kane"}
-		],
-		"Dance Dance Revolution Universe": [
-			{"title": "Dance Dance Revolution Universe"},
-			{"title": "Dancing Stage Universe"}
-		],
-		"Dance Masters": [
-			{"title": "Dance Masters"},
-			{"title": "Dance Evolution"}
-		],
-		"Dante's Inferno": [
-			{"title": "Dante's Inferno"},
-			{"title": "Dante's Inferno - Shinkyoku Jigoku-hen"}
-		],
-		"Dark Souls": [
-			{"title": "Dark Souls"},
-			{"superset": "Dark Souls - Prepare to Die Edition"}
-		],
-		"Dark Souls II": [
-			{"title": "Dark Souls II"},
-			{"superset": "Dark Souls II - Scholar of the First Sin (Disc 1)"}
-		],
-		"Dead Island": [
-			{"title": "Dead Island"},
-			{"superset": "Dead Island - Game of the Year Edition"}
-		],
-		"Dead or Alive 5": [
-			{"title": "Dead or Alive 5"},
-			{"title": "Dead or Alive 5 Ultimate"}
-		],
-		"Deus Ex - Human Revolution": [
-			{"title": "Deus Ex - Human Revolution"},
-			{"superset": "Deus Ex - Human Revolution - Director's Cut (Disc 1)"}
-		],
-		"Diablo III": [
-			{"title": "Diablo III"},
-			{"superset": "Diablo III - Reaper of Souls - Ultimate Evil Edition"}
-		],
-		"DiRT 3": [
-			{"title": "DiRT 3"},
-			{"superset": "DiRT 3 - Complete Edition"}
-		],
-		"Disney Infinity 2.0 Edition": [
-			{"title": "Disney Infinity 2.0 Edition"},
-			{"title": "Disney Infinity 2.0 - Igra bez Granic"},
-			{"title": "Disney Infinity 2.0 - Play Without Limits"}
-		],
-		"Disney-Pixar Up": [
-			{"title": "Disney-Pixar Up"},
-			{"title": "Disney-Pixar Oben"}
-		],
-		"Disney-Pixar WALL-E": [
-			{"title": "Disney-Pixar WALL-E"},
-			{"title": "Disney-Pixar WALL-E - Batallon de Limpieza"},
-			{"title": "Disney-Pixar WALL-E - Der Letzte raeumt die Erde auf"}
-		],
-		"Divinity II - Ego Draconis": [
-			{"title": "Divinity II - Ego Draconis"},
-			{"superset": "Divinity II - The Dragon Knight Saga"}
-		],
-		"Dragon Age - Origins": [
-			{"title": "Dragon Age - Origins"},
-			{"title": "Dragon Age - Origins (Disc 1)"}
-		],
-		"Dragon Age - Origins - Ultimate Edition (Disc 2) (Additional Content Packs Install Disc)": [
-			{"title": "Dragon Age - Origins - Ultimate Edition (Disc 2) (Additional Content Packs Install Disc)"},
-			{"title": "Dragon Age - Origins - Ultimate Edition (Disc 2) (Zusaetzliche Inhaltspacks Installations-Disc)"},
-			{"title": "Dragon Age - Origins (Disc 2) (Tsuika Contents Disc)"}
-		],
-		"Dragon Ball Z - Ultimate Tenkaichi": [
-			{"title": "Dragon Ball Z - Ultimate Tenkaichi"},
-			{"title": "Dragon Ball - Ultimate Blast"}
-		],
-		"DreamWorks Shrek Forever After": [
-			{"title": "DreamWorks Shrek Forever After"},
-			{"title": "DreamWorks Shrek e Vissero Felici e Contenti"}
-		],
-		"DreamWorks Shrek the Third": [
-			{"title": "DreamWorks Shrek the Third"},
-			{"title": "DreamWorks Shrek Terzo"}
-		],
-		"Dynasty Warriors - Gundam": [
-			{"title": "Dynasty Warriors - Gundam"},
-			{"title": "Gundam Musou International"}
-		],
-		"Dynasty Warriors - Gundam 2": [
-			{"title": "Dynasty Warriors - Gundam 2"},
-			{"title": "Gundam Musou 2"}
-		],
-		"Dynasty Warriors - Gundam 3": [
-			{"title": "Dynasty Warriors - Gundam 3"},
-			{"title": "Gundam Musou 3"}
-		],
-		"Dynasty Warriors - Strikeforce": [
-			{"title": "Dynasty Warriors - Strikeforce"},
-			{"title": "Shin Sangoku Musou - Multi Raid Special"}
-		],
-		"Dynasty Warriors 5 - Empires": [
-			{"title": "Dynasty Warriors 5 - Empires"},
-			{"title": "Shin Sangoku Musou 5 - Empires"}
-		],
-		"Earth Defense Force 2017": [
-			{"title": "Earth Defense Force 2017"},
-			{"title": "Chikyuu Boueigun 3"}
-		],
-		"Earth Defense Force 2025": [
-			{"title": "Earth Defense Force 2025"},
-			{"title": "Chikyuu Boueigun 4"}
-		],
-		"Eat Lead - The Return of Matt Hazard": [
-			{"title": "Eat Lead - The Return of Matt Hazard"},
-			{"title": "Eat Lead - Matt Hazard no Gyakushuu"}
-		],
-		"Elder Scrolls IV, The - Oblivion": [
-			{"title": "Elder Scrolls IV, The - Oblivion"},
-			{"superset": "Elder Scrolls IV, The - Oblivion - Game of the Year Edition (Disc 1)"},
-			{"superset": "Elder Scrolls IV, The - Oblivion - Game of the Year Edition"},
-			{"superset": "Elder Scrolls IV, The - Oblivion - Jubilaeumsausgabe (Disc 1)"}
-		],
-		"Elder Scrolls IV, The - Shivering Isles": [
-			{"title": "Elder Scrolls IV, The - Shivering Isles"},
-			{"superset": "Elder Scrolls IV, The - Oblivion - Game of the Year Edition (Disc 2)"},
-			{"superset": "Elder Scrolls IV, The - Oblivion - Game of the Year Edition"},
-			{"superset": "Elder Scrolls IV, The - Oblivion - Jubilaeumsausgabe (Disc 2)"}
-		],
-		"Enchanted Arms": [
-			{"title": "Enchanted Arms"},
-			{"title": "[eM] - eNCHANT arM"}
-		],
-		"Family Games (Demo)": [
-			{"title": "Family Games (Demo)"},
-			{"title": "Family Games (Toys R Us) (Demo)", "priority": 2}
-		],
-		"F1 2013": [
-			{"title": "F1 2013"},
-			{"superset": "F1 2013 - Complete Edition"}
-		],
-		"Fable II": [
-			{"title": "Fable II"},
-			{"superset": "Fable II - Game of the Year Edition"},
-			{"superset": "Fable II - Gioco dell'Anno"}
-		],
-		"FIFA 06 - Road to FIFA World Cup": [
-			{"title": "FIFA 06 - Road to FIFA World Cup"},
-			{"title": "FIFA World Cup Germany 2006"}
-		],
-		"FIFA 14": [
-			{"title": "FIFA 14"},
-			{"title": "FIFA 14 - World Class Soccer"}
-		],
-		"FIFA 19 - Legacy Edition": [
-			{"title": "FIFA 19 - Legacy Edition"},
-			{"title": "FIFA 19 - Edicao Legacy"}
-		],
-		"FIFA Soccer 07": [
-			{"title": "FIFA Soccer 07"},
-			{"title": "FIFA 07"}
-		],
-		"FIFA Soccer 08": [
-			{"title": "FIFA Soccer 08"},
-			{"title": "FIFA 08"},
-			{"title": "FIFA 08 - World Class Soccer"}
-		],
-		"FIFA Soccer 09": [
-			{"title": "FIFA Soccer 09"},
-			{"title": "FIFA 09"},
-			{"title": "FIFA 09 - World Class Soccer"}
-		],
-		"FIFA Soccer 10": [
-			{"title": "FIFA Soccer 10"},
-			{"title": "2010 FIFA World Cup - Minami Africa Taikai"},
-			{"title": "FIFA 10"},
-			{"title": "FIFA 10 - World Class Soccer"}
-		],
-		"FIFA Soccer 11": [
-			{"title": "FIFA Soccer 11"},
-			{"title": "FIFA 11"},
-			{"title": "FIFA 11 - World Class Soccer"}
-		],
-		"FIFA Soccer 12": [
-			{"title": "FIFA Soccer 12"},
-			{"title": "FIFA 12"},
-			{"title": "FIFA 12 - World Class Soccer"}
-		],
-		"FIFA Soccer 13": [
-			{"title": "FIFA Soccer 13"},
-			{"title": "FIFA 13"},
-			{"title": "FIFA 13 - World Class Soccer"}
-		],
-		"Final Fantasy XI - Online": [
-			{"title": "Final Fantasy XI - Online"},
-			{"superset": "Final Fantasy XI - Online - Ultimate Collection - Seekers Edition"},
-			{"superset": "Final Fantasy XI - Online - Ultimate Collection", "priority": 2}
-		],
-		"Final Fantasy XI - All in One Pack 2006": [
-			{"title": "Final Fantasy XI - All in One Pack 2006"},
-			{"superset": "Final Fantasy XI - Online - Ultimate Collection - Seekers Edition"},
-			{"superset": "Final Fantasy XI - Online - Ultimate Collection", "priority": 2}
-		],
-		"Final Fantasy XI - Online - Vana'diel Collection 2008": [
-			{"title": "Final Fantasy XI - Online - Vana'diel Collection 2008"},
-			{"superset": "Final Fantasy XI - Online - Ultimate Collection - Seekers Edition"},
-			{"superset": "Final Fantasy XI - Online - Ultimate Collection", "priority": 2}
-		],
-		"Final Fantasy XI - Online - Wings of the Goddess Expansion Pack": [
-			{"title": "Final Fantasy XI - Online - Wings of the Goddess Expansion Pack"},
-			{"title": "Final Fantasy XI - Altana no Shinpei"},
-			{"superset": "Final Fantasy XI - Online - Ultimate Collection - Seekers Edition"},
-			{"superset": "Final Fantasy XI - Online - Ultimate Collection", "priority": 2}
-		],
-		"Final Fantasy XI - Vana'diel Collection": [
-			{"title": "Final Fantasy XI - Vana'diel Collection"},
-			{"superset": "Final Fantasy XI - Online - Ultimate Collection - Seekers Edition"},
-			{"superset": "Final Fantasy XI - Online - Ultimate Collection", "priority": 2}
-		],
-		"Fist of the North Star - Ken's Rage": [
-			{"title": "Fist of the North Star - Ken's Rage"},
-			{"title": "Hokuto Musou"}
-		],
-		"Fist of the North Star - Ken's Rage 2": [
-			{"title": "Fist of the North Star - Ken's Rage 2"},
-			{"title": "Shin Hokuto Musou"}
-		],
-		"Forza Motorsport 3 (Disc 1) (Play Disc)": [
-			{"title": "Forza Motorsport 3 (Disc 1) (Play Disc)"},
-			{"superset": "Forza Motorsport 3 - Ultimate Collection (Disc 1) (Play Disc)"}
-		],
-		"Forza Motorsport 3 (Disc 2) (Content Install Disc)": [
-			{"title": "Forza Motorsport 3 (Disc 2) (Content Install Disc)"},
-			{"superset": "Forza Motorsport 3 - Ultimate Collection (Disc 2) (Content Install Disc)"}
-		],
-		"Forza Motorsport 4 (Disc 1) (Play Disc)": [
-			{"title": "Forza Motorsport 4 (Disc 1) (Play Disc)"},
-			{"title": "Forza Motorsport 4 - Essentials Edition", "priority": 2}
-		],
-		"Godfather, The": [
-			{"title": "Godfather, The"},
-			{"title": "Padrino, Il"}
-		],
-		"Godfather II, The": [
-			{"title": "Godfather II, The"},
-			{"title": "Pate II, Der"}
-		],
-		"Halo 3 - ODST (Disc 1) (Campaign)": [
-			{"title": "Halo 3 - ODST (Disc 1) (Campaign)"},
-			{"title": "Halo 3 - ODST (Disc 1) (Campanha)"},
-			{"title": "Halo 3 - ODST (Campaign)"}
-		],
-		"Hard Drive Transfer Disc": [
-			{"title": "Hard Drive Transfer Disc"},
-			{"title": "Xbox 360 Hard Disk Data Transfer Disc"}
-		],
-		"Ice Age - Continental Drift - Arctic Games": [
-			{"title": "Ice Age - Continental Drift - Arctic Games"},
-			{"title": "Era Glaciale 4, L' - Continenti alla Deriva - Giochi Polari"}
-		],
-		"Ice Age - Dawn of the Dinosaurs": [
-			{"title": "Ice Age - Dawn of the Dinosaurs"},
-			{"title": "Era Glaciale 3, L' - L'Alba dei Dinosauri"}
-		],
-		"Import Tuner Challenge": [
-			{"title": "Import Tuner Challenge"},
-			{"title": "Shutokou Battle X"}
-		],
-		"Injustice - Gods Among Us": [
-			{"title": "Injustice - Gods Among Us"},
-			{"superset": "Injustice - Gods Among Us - Ultimate Edition"}
-		],
-		"James Cameron's Avatar - The Game": [
-			{"title": "James Cameron's Avatar - The Game"},
-			{"title": "James Cameron's Avatar The Game"}
-		],
-		"Just Cause": [
-			{"title": "Just Cause"},
-			{"title": "Just Cause - Viva Revolution"}
-		],
-		"Kengo - Legend of the 9": [
-			{"title": "Kengo - Legend of the 9"},
-			{"title": "Kengou Zero"}
-		],
-		"Kinectimals": [
-			{"title": "Kinectimals"},
-			{"superset": "Kinectimals - Now with Bears!"}
-		],
-		"L.A. Noire (Disc 1)": [
-			{"title": "L.A. Noire (Disc 1)"},
-			{"superset": "L.A. Noire - The Complete Edition (Disc 1)"}
-		],
-		"L.A. Noire (Disc 2)": [
-			{"title": "L.A. Noire (Disc 2)"},
-			{"superset": "L.A. Noire - The Complete Edition (Disc 2)"}
-		],
-		"L.A. Noire (Disc 3)": [
-			{"title": "L.A. Noire (Disc 3)"},
-			{"superset": "L.A. Noire - The Complete Edition (Disc 3)"}
-		],
-		"Lost Planet - Extreme Condition": [
-			{"title": "Lost Planet - Extreme Condition"},
-			{"superset": "Lost Planet - Extreme Condition - Colonies Edition"}
-		],
-		"Magnacarta 2 (Disc 1)": [
-			{"title": "Magnacarta 2 (Disc 1)"},
-			{"title": "Magna Carta II (Disc 1)"},
-			{"title": "Magnacarta II (Disc 1)"}
-		],
-		"Magnacarta 2 (Disc 2)": [
-			{"title": "Magnacarta 2 (Disc 2)"},
-			{"title": "Magna Carta II (Disc 2)"},
-			{"title": "Magnacarta II (Disc 2)"}
-		],
-		"Majin and the Forsaken Kingdom": [
-			{"title": "Majin and the Forsaken Kingdom"},
-			{"title": "Majin to Ushinawareta Oukoku"}
-		],
-		"Mass Effect (Bonus Content Disc)": [
-			{"title": "Mass Effect (Bonus Content Disc)"},
-			{"title": "Mass Effect (Bonus Disc)"},
-			{"title": "Mass Effect (Bonus DVD)"}
-		],
-		"Max Payne 3 (Disc 1) (Single Player Disc 1 and Multiplayer)": [
-			{"title": "Max Payne 3 (Disc 1) (Single Player Disc 1 and Multiplayer)"},
-			{"title": "Max Payne 3 (Disc 1) (Single Player Disc 1 und Multiplayer)"}
-		],
-		"Medal of Honor - Warfighter (Disc 1)": [
-			{"title": "Medal of Honor - Warfighter (Disc 1)"},
-			{"title": "Medal of Honor - Warfighter (Disc 1) (Multiplayer)"}
-		],
-		"Medal of Honor - Warfighter (Disc 2)": [
-			{"title": "Medal of Honor - Warfighter (Disc 2)"},
-			{"title": "Medal of Honor - Warfighter (Disc 2) (Single-Player Campaign)"}
-		],
-		"Metal Gear Solid - HD Collection (Disc 1)": [
-			{"title": "Metal Gear Solid - HD Collection (Disc 1)"},
-			{"title": "Metal Gear Solid - HD Edition"}
-		],
-		"Middle-Earth - Shadow of Mordor (Disc 1)": [
-			{"title": "Middle-Earth - Shadow of Mordor (Disc 1)"},
-			{"title": "Terra-Media - Sombras de Mordor (Disc 1)"}
-		],
-		"Middle-Earth - Shadow of Mordor (Disc 2)": [
-			{"title": "Middle-Earth - Shadow of Mordor (Disc 2)"},
-			{"title": "Terra-Media - Sombras de Mordor (Disc 2)"}
-		],
-		"Midnight Club - Los Angeles": [
-			{"title": "Midnight Club - Los Angeles"},
-			{"superset": "Midnight Club - Los Angeles - Complete Edition"}
-		],
-		"Minecraft - Story Mode - A Telltale Games Series": [
-			{"title": "Minecraft - Story Mode - A Telltale Games Series"},
-			{"superset": "Minecraft - Story Mode - A Telltale Games Series - The Complete Adventure"}
-		],
-		"Murdered - Soul Suspect": [
-			{"title": "Murdered - Soul Suspect"},
-			{"title": "Murdered - Tamashii no Yobu Koe"}
-		],
-		"Naruto Shippuden - Ultimate Ninja Storm 2": [
-			{"title": "Naruto Shippuden - Ultimate Ninja Storm 2"},
-			{"title": "Naruto Shippuuden - Narutimate Storm 2"}
-		],
-		"Naruto Shippuden - Ultimate Ninja Storm 3": [
-			{"title": "Naruto Shippuden - Ultimate Ninja Storm 3"},
-			{"title": "Naruto Shippuuden - Narutimate Storm 3"}
-		],
-		"Naruto Shippuden - Ultimate Ninja Storm Generations": [
-			{"title": "Naruto Shippuden - Ultimate Ninja Storm Generations"},
-			{"title": "Naruto Shippuuden - Narutimate Storm Generation"}
-		],
-		"Naughty Bear": [
-			{"title": "Naughty Bear"},
-			{"superset": "Naughty Bear - Gold Edition"}
-		],
-		"Need for Speed - Carbon": [
-			{"title": "Need for Speed - Carbon"},
-			{"title": "Need for Speed - Carbono"},
-			{"superset": "Need for Speed - Carbon - Collector's Edition"}
-		],
-		"Need for Speed - The Run (651050A1)": [
-			{"title": "Need for Speed - The Run (651050A1)"},
-			{"title": "Need for Speed - The Run (264F3B05)", "priority": 2}
-		],
-		"Nier": [
-			{"title": "Nier"},
-			{"title": "NieR Gestalt"}
-		],
-		"Ninja Gaiden 3": [
-			{"title": "Ninja Gaiden 3"},
-			{"superset": "Ninja Gaiden 3 - Razor's Edge"}
-		],
-		"Onechanbara - Bikini Samurai Squad": [
-			{"title": "Onechanbara - Bikini Samurai Squad"},
-			{"title": "Oneechanbara VorteX - Imichi o Tsugu Mono-tachi"}
-		],
-		"Otomedius Excellent": [
-			{"title": "Otomedius Excellent"},
-			{"title": "Otomedius Excellent!"}
-		],
-		"Over G Fighters": [
-			{"title": "Over G Fighters"},
-			{"title": "Over G - Energy Airforce"}
-		],
-		"Persona 4 Arena": [
-			{"title": "Persona 4 Arena"},
-			{"title": "Persona 4 - The Ultimate in Mayonaka Arena"}
-		],
-		"PES 2008 - Pro Evolution Soccer": [
-			{"title": "PES 2008 - Pro Evolution Soccer"},
-			{"title": "World Soccer Winning Eleven 2008"}
-		],
-		"PES 2009 - Pro Evolution Soccer": [
-			{"title": "PES 2009 - Pro Evolution Soccer"},
-			{"title": "World Soccer Winning Eleven 2009"}
-		],
-		"PES 2010 - Pro Evolution Soccer": [
-			{"title": "PES 2010 - Pro Evolution Soccer"},
-			{"title": "World Soccer Winning Eleven 2010"}
-		],
-		"PES 2011 - Pro Evolution Soccer": [
-			{"title": "PES 2011 - Pro Evolution Soccer"},
-			{"title": "World Soccer Winning Eleven 2011"}
-		],
-		"PES 2014 - Pro Evolution Soccer": [
-			{"title": "PES 2014 - Pro Evolution Soccer"},
-			{"title": "World Soccer Winning Eleven 2014"}
-		],
-		"Pure": [
-			{"title": "Pure"},
-			{"title": "Extreme Racing Pure"}
-		],
-		"Resident Evil 6 ~ Biohazard 6 (Disc 1) (Game)": [
-			{"title": "Resident Evil 6 ~ Biohazard 6 (Disc 1) (Game)"},
-			{"title": "Resident Evil 6 (Disc 1) (Game Disc)"}
-		],
-		"Red Dead Redemption": [
-			{"title": "Red Dead Redemption"},
-			{"superset": "Red Dead Redemption - Game of the Year Edition (Disc 1) (Red Dead Redemption Single Player)"}
-		],
-		"Red Dead Redemption - Undead Nightmare": [
-			{"title": "Red Dead Redemption - Undead Nightmare"},
-			{"superset": "Red Dead Redemption - Game of the Year Edition (Disc 2) (Undead Nightmare and Multiplayer)"}
-		],
-		"Resident Evil - Operation Raccoon City": [
-			{"title": "Resident Evil - Operation Raccoon City"},
-			{"title": "Biohazard - Operation Raccoon City"}
-		],
-		"Resonance of Fate": [
-			{"title": "Resonance of Fate"},
-			{"title": "End of Eternity"}
-		],
-		"Rock Band - Track Pack Volume 2": [
-			{"title": "Rock Band - Track Pack Volume 2"},
-			{"title": "Rock Band - Song Pack 2"}
-		],
-		"Rocksmith": [
-			{"title": "Rocksmith"},
-			{"superset": "Rocksmith - All-New 2014 Edition"}
-		],
-		"Saints Row IV": [
-			{"title": "Saints Row IV"},
-			{"superset": "Saints Row IV - Game of the Century Edition"},
-			{"superset": "Saints Row IV - Ultra Super Ultimate Deluxe Edition"}
-		],
-		"Samurai Shodown Sen": [
-			{"title": "Samurai Shodown Sen"},
-			{"title": "Samurai Spirits Sen"}
-		],
-		"Samurai Warriors 2": [
-			{"title": "Samurai Warriors 2"},
-			{"title": "Sengoku Musou 2"}
-		],
-		"Scene It Bright Lights! Big Screen!": [
-			{"title": "Scene It Bright Lights! Big Screen!"},
-			{"title": "Scene It Ciak! Si Gira!"},
-			{"title": "Scene It Estrellas en la Pantalla Gigante"},
-			{"title": "Scene It Ganz grosses Kino!"}
-		],
-		"Scene It Lights, Camera, Action": [
-			{"title": "Scene It Lights, Camera, Action"},
-			{"title": "Scene It Lights, Camera, Action!"}
-		],
-		"Scene It Box Office Smash!": [
-			{"title": "Scene It Box Office Smash!"},
-			{"title": "Scene It Grandes Exitos de Taquilla"},
-			{"title": "Scene It Kinohits"}
-		],
-		"Serious Sam HD": [
-			{"title": "Serious Sam HD"},
-			{"superset": "Serious Sam Collection, The"}
-		],
-		"Sherlock Holmes vs. Jack the Ripper": [
-			{"title": "Sherlock Holmes vs. Jack the Ripper"},
-			{"title": "Sherlock Holmes Versus Jack the Ripper"}
-		],
-		"Simpsons Game, The": [
-			{"title": "Simpsons Game, The"},
-			{"title": "Simpsons, Die - Das Spiel"}
-		],
-		"Sniper Elite III": [
-			{"title": "Sniper Elite III"},
-			{"superset": "Sniper Elite III - Ultimate Edition"}
-		],
-		"Sniper Elite": [
-			{"title": "Sniper Elite"},
-			{"superset": "Sniper Elite - Game of the Year Edition"}
-		],
-		"Sonic's Ultimate Genesis Collection": [
-			{"title": "Sonic's Ultimate Genesis Collection"},
-			{"title": "Sega Mega Drive Ultimate Collection"}
-		],
-		"Sonic Unleashed": [
-			{"title": "Sonic Unleashed"},
-			{"title": "Sonic World Adventure"}
-		],
-		"South Park - The Stick of Truth": [
-			{"title": "South Park - The Stick of Truth"},
-			{"title": "South Park - Der Stab der Wahrheit"}
-		],
-		"Spectral Force 3": [
-			{"title": "Spectral Force 3"},
-			{"title": "Spectral Force 3 - Innocent Rage"}
-		],
-		"Split-Second": [
-			{"title": "Split-Second"},
-			{"title": "Split-Second - Velocity"}
-		],
-		"Star Wars - The Force Unleashed": [
-			{"title": "Star Wars - The Force Unleashed"},
-			{"superset": "Star Wars - The Force Unleashed - Ultimate Sith Edition (Disc 1)"}
-		],
-		"Stoked": [
-			{"title": "Stoked"},
-			{"superset": "Stoked - Big Air Edition"}
-		],
-		"Tenchu Z": [
-			{"title": "Tenchu Z"},
-			{"title": "Tenchu Senran"}
-		],
-		"Tiger Woods PGA Tour 13": [
-			{"title": "Tiger Woods PGA Tour 13"},
-			{"superset": "Tiger Woods PGA Tour 13 (Masters Collector's Edition)"}
-		],
-		"Tom Clancy's Splinter Cell - Blacklist (Disc 1) (Campaign Part 1 & Multiplayer)": [
-			{"title": "Tom Clancy's Splinter Cell - Blacklist (Disc 1) (Campaign Part 1 & Multiplayer)"},
-			{"title": "Tom Clancy's Splinter Cell - Blacklist (Disc 1)"}
-		],
-		"Tom Clancy's Splinter Cell - Blacklist (Disc 2) (Campaign Part 2 & HD Texture Pack)": [
-			{"title": "Tom Clancy's Splinter Cell - Blacklist (Disc 2) (Campaign Part 2 & HD Texture Pack)"},
-			{"title": "Tom Clancy's Splinter Cell - Blacklist (Disc 2)"}
-		],
-		"Transformers - Revenge of the Fallen": [
-			{"title": "Transformers - Revenge of the Fallen"},
-			{"title": "Transformers - Die Rache"}
-		],
-		"Transformers - War for Cybertron": [
-			{"title": "Transformers - War for Cybertron"},
-			{"title": "Transformers - Kampf um Cybertron"}
-		],
-		"Tropico 4": [
-			{"title": "Tropico 4"},
-			{"superset": "Tropico 4 - Gold Edition"}
-		],
-		"Two Worlds II": [
-			{"title": "Two Worlds II"},
-			{"superset": "Two Worlds II - Game of the Year Edition"}
-		],
-		"Under Defeat HD - Deluxe Edition": [
-			{"title": "Under Defeat HD - Deluxe Edition"},
-			{"title": "Under Defeat HD"}
-		],
-		"Virtua Fighter 5 Online ~ Virtua Fighter 5": [
-			{"title": "Virtua Fighter 5 Online ~ Virtua Fighter 5"},
-			{"title": "Virtua Fighter 5 - Live Arena"},
-			{"title": "Virtua Fighter 5"}
-		],
-		"Walking Dead, The - A Telltale Games Series": [
-			{"title": "Walking Dead, The - A Telltale Games Series"},
-			{"superset": "Walking Dead, The - A Telltale Games Series - Game of the Year Edition"}
-		],
-		"Warriors Orochi": [
-			{"title": "Warriors Orochi"},
-			{"title": "Musou Orochi"}
-		],
-		"Warriors Orochi 2": [
-			{"title": "Warriors Orochi 2"},
-			{"title": "Musou Orochi - Maou Sairin"}
-		],
-		"Warriors - Legends of Troy": [
-			{"title": "Warriors - Legends of Troy"},
-			{"title": "Troy Musou"}
-		],
-		"WarTech - Senko no Ronde": [
-			{"title": "WarTech - Senko no Ronde"},
-			{"title": "Senkou no Ronde Rev.X"}
-		],
-		"Watch_Dogs (Disc 1) (Installation Disc)": [
-			{"title": "Watch_Dogs (Disc 1) (Installation Disc)"},
-			{"title": "Watch_Dogs (Disc 1)"}
-		],
-		"Watch_Dogs (Disc 2) (Game Disc)": [
-			{"title": "Watch_Dogs (Disc 2) (Game Disc)"},
-			{"title": "Watch_Dogs (Disc 2)"}
-		],
-		"Way of the Samurai 3": [
-			{"title": "Way of the Samurai 3"},
-			{"title": "Samurai Dou 3"}
-		],
-		"Winning Eleven - Pro Evolution Soccer 2007": [
-			{"title": "Winning Eleven - Pro Evolution Soccer 2007"},
-			{"title": "Pro Evolution Soccer 6"},
-			{"title": "World Soccer Winning Eleven X"}
-		],
-		"Witcher 2, The - Assassins of Kings - Enhanced Edition (Disc 1)": [
-			{"title": "Witcher 2, The - Assassins of Kings - Enhanced Edition (Disc 1)"},
-			{"title": "Witcher 2, The - Assassins of Kings - Enhanced Edition (Game Disc 1)"},
-			{"title": "Witcher 2, The - Assassins of Kings - Enhanced Edition (Silver Box)", "priority": 2}
-		],
-		"Witcher 2, The - Assassins of Kings - Enhanced Edition (Disc 2)": [
-			{"title": "Witcher 2, The - Assassins of Kings - Enhanced Edition (Disc 2)"},
-			{"title": "Witcher 2, The - Assassins of Kings - Enhanced Edition (Game Disc 2)"}
-		],
-		"Zoids Assault": [
-			{"title": "Zoids Assault"},
-			{"title": "Zoids Alternative"}
-		]
-	}
+	"variants": [
+		{
+			"group": "007 - Quantum of Solace",
+			"titles": [
+				{"searchTerm": "007 - Quantum of Solace"},
+				{"searchTerm": "007 - Ein Quantum Trost"},
+				{"searchTerm": "007 - Nagusame no Houshuu"}
+			]
+		},
+		{
+			"group": "2014 FIFA World Cup Brazil",
+			"titles": [
+				{"searchTerm": "2014 FIFA World Cup Brazil"},
+				{"searchTerm": "Copa do Mundo da FIFA Brasil 2014"}
+			]
+		},
+		{
+			"group": "AC-DC Live - Rock Band Track Pack",
+			"titles": [
+				{"searchTerm": "AC-DC Live - Rock Band Track Pack"},
+				{"searchTerm": "AC-DC Live - Rock Band"}
+			]
+		},
+		{
+			"group": "Ace Combat 6 - Fires of Liberation",
+			"titles": [
+				{"searchTerm": "Ace Combat 6 - Fires of Liberation"},
+				{"searchTerm": "Ace Combat 6 - Kaihou e no Senka"}
+			]
+		},
+		{
+			"group": "Arcania - Gothic 4",
+			"titles": [
+				{"searchTerm": "Arcania - Gothic 4"}
+			],
+			"supersets": [
+				{"searchTerm": "Arcania - The Complete Tale"}
+			]
+		},
+		{
+			"group": "Assassin's Creed II",
+			"titles": [
+				{"searchTerm": "Assassin's Creed II"}
+			],
+			"supersets": [
+				{"searchTerm": "Assassin's Creed II - Game of the Year Edition"},
+				{"searchTerm": "Assassin's Creed II - Special Edition"}
+			]
+		},
+		{
+			"group": "Assassin's Creed III (Disc 1) (Single-player)",
+			"titles": [
+				{"searchTerm": "Assassin's Creed III (Disc 1) (Single-player)"},
+				{"searchTerm": "Assassin's Creed III (Disc 1)"}
+			]
+		},
+		{
+			"group": "Assassin's Creed III (Disc 2) (Multiplayer)",
+			"titles": [
+				{"searchTerm": "Assassin's Creed III (Disc 2) (Multiplayer)"},
+				{"searchTerm": "Assassin's Creed III (Disc 2)"}
+			]
+		},
+		{
+			"group": "Assassin's Creed IV - Black Flag (Disc 2)",
+			"titles": [
+				{"searchTerm": "Assassin's Creed IV - Black Flag (Disc 2)"},
+				{"searchTerm": "Assassin's Creed IV - Black Flag (Disc 2) (Multiplayer)"}
+			]
+		},
+		{
+			"group": "Batman - Arkham Asylum",
+			"titles": [
+				{"searchTerm": "Batman - Arkham Asylum"}
+			],
+			"supersets": [
+				{"searchTerm": "Batman - Arkham Asylum - Game of the Year Edition"}
+			]
+		},
+		{
+			"group": "Batman - Arkham City",
+			"titles": [
+				{"searchTerm": "Batman - Arkham City"}
+			],
+			"supersets": [
+				{"searchTerm": "Batman - Arkham City - Game of the Year Edition (Disc 1)"}
+			]
+		},
+		{
+			"group": "Battlefield - Bad Company",
+			"titles": [
+				{"searchTerm": "Battlefield - Bad Company"}
+			],
+			"supersets": [
+				{"searchTerm": "Battlefield - Bad Company (Gold Edition)"}
+			]
+		},
+		{
+			"group": "Battlefield - Bad Company 2",
+			"titles": [
+				{"searchTerm": "Battlefield - Bad Company 2"}
+			],
+			"supersets": [
+				{"searchTerm": "Battlefield - Bad Company 2 (Limited Edition)"}
+			]
+		},
+		{
+			"group": "Battlefield 3 (Disc 1) (Multiplayer-Co-Op)",
+			"titles": [
+				{"searchTerm": "Battlefield 3 (Disc 1) (Multiplayer-Co-Op)"},
+				{"searchTerm": "Battlefield 3 (Disc 1) (Multiplay-COOP)"}
+			]
+		},
+		{
+			"group": "Battlefield 3 (Disc 2) (Single-Player Campaign)",
+			"titles": [
+				{"searchTerm": "Battlefield 3 (Disc 2) (Single-Player Campaign)"},
+				{"searchTerm": "Battlefield 3 (Disc 2) (Single-Play)"}
+			]
+		},
+		{
+			"group": "Beautiful Katamari",
+			"titles": [
+				{"searchTerm": "Beautiful Katamari"},
+				{"searchTerm": "Beautiful Katamari Damacy"}
+			]
+		},
+		{
+			"group": "Bladestorm - The Hundred Years' War",
+			"titles": [
+				{"searchTerm": "Bladestorm - The Hundred Years' War"},
+				{"searchTerm": "Bladestorm - Hyakunen Sensou"}
+			]
+		},
+		{
+			"group": "Blur",
+			"titles": [
+				{"searchTerm": "Blur"},
+				{"searchTerm": "Blur Racerz"}
+			]
+		},
+		{
+			"group": "Borderlands - Double Game Add-On Pack",
+			"titles": [
+				{"searchTerm": "Borderlands - Double Game Add-On Pack"},
+				{"searchTerm": "Borderlands - Add-On Doppelpack"},
+				{"searchTerm": "Borderlands - Game of the Year Edition (Add-On Content Disc)", "priority": 2}
+			]
+		},
+		{
+			"group": "Brian Lara International Cricket 2007",
+			"titles": [
+				{"searchTerm": "Brian Lara International Cricket 2007"},
+				{"searchTerm": "Ricky Ponting International Cricket 2007"}
+			]
+		},
+		{
+			"group": "Bullet Soul",
+			"titles": [
+				{"searchTerm": "Bullet Soul"}
+			],
+			"supersets": [
+				{"searchTerm": "Bullet Soul - Infinite Burst"}
+			]
+		},
+		{
+			"group": "Bully",
+			"titles": [
+				{"searchTerm": "Bully"}
+			],
+			"supersets": [
+				{"searchTerm": "Bully - Scholarship Edition"}
+			]
+		},
+		{
+			"group": "Burnout Paradise",
+			"titles": [
+				{"searchTerm": "Burnout Paradise"}
+			],
+			"supersets": [
+				{"searchTerm": "Burnout Paradise - The Ultimate Box"}
+			]
+		},
+		{
+			"group": "Cabela's Dangerous Hunts 2009",
+			"titles": [
+				{"searchTerm": "Cabela's Dangerous Hunts 2009"},
+				{"searchTerm": "Cabela's Dangerous Adventures"}
+			]
+		},
+		{
+			"group": "Call of Duty - Advanced Warfare (Game Disc)",
+			"titles": [
+				{"searchTerm": "Call of Duty - Advanced Warfare (Game Disc)"},
+				{"searchTerm": "Call of Duty - Advanced Warfare (Disc di Gioco)"},
+				{"searchTerm": "Call of Duty - Advanced Warfare (Disc de Juego)"},
+				{"searchTerm": "Call of Duty - Advanced Warfare (Spieldisc)"}
+			]
+		},
+		{
+			"group": "Call of Duty - Ghosts (Disc 1) (Game Disc)",
+			"titles": [
+				{"searchTerm": "Call of Duty - Ghosts (Disc 1) (Game Disc)"},
+				{"searchTerm": "Call of Duty - Ghosts (Disc 1) (Disc de Juego)"},
+				{"searchTerm": "Call of Duty - Ghosts (Disc 1) (Disc di Gioco)"},
+				{"searchTerm": "Call of Duty - Ghosts (Disc 1) (Disc do Jogo)"},
+				{"searchTerm": "Call of Duty - Ghosts (Disc 1) (Igrovoj)"},
+				{"searchTerm": "Call of Duty - Ghosts (Disc 1) (Spieldisc)"}
+			]
+		},
+		{
+			"group": "Champion Jockey - G1 Jockey & Gallop Racer",
+			"titles": [
+				{"searchTerm": "Champion Jockey - G1 Jockey & Gallop Racer"},
+				{"searchTerm": "Champion Jockey - Gallop Racer & GI Jockey"}
+			]
+		},
+		{
+			"group": "Command & Conquer - Red Alert 3",
+			"titles": [
+				{"searchTerm": "Command & Conquer - Red Alert 3"},
+				{"searchTerm": "Command & Conquer - Alarmstufe Rot 3"}
+			]
+		},
+		{
+			"group": "Command & Conquer 3 - Kane's Wrath",
+			"titles": [
+				{"searchTerm": "Command & Conquer 3 - Kane's Wrath"},
+				{"searchTerm": "Command & Conquer 3 - Kanes Rache"},
+				{"searchTerm": "Command & Conquer 3 - L'Ira di Kane"}
+			]
+		},
+		{
+			"group": "Dance Dance Revolution Universe",
+			"titles": [
+				{"searchTerm": "Dance Dance Revolution Universe"},
+				{"searchTerm": "Dancing Stage Universe"}
+			]
+		},
+		{
+			"group": "Dance Masters",
+			"titles": [
+				{"searchTerm": "Dance Masters"},
+				{"searchTerm": "Dance Evolution"}
+			]
+		},
+		{
+			"group": "Dante's Inferno",
+			"titles": [
+				{"searchTerm": "Dante's Inferno"},
+				{"searchTerm": "Dante's Inferno - Shinkyoku Jigoku-hen"}
+			]
+		},
+		{
+			"group": "Dark Souls",
+			"titles": [
+				{"searchTerm": "Dark Souls"}
+			],
+			"supersets": [
+				{"searchTerm": "Dark Souls - Prepare to Die Edition"}
+			]
+		},
+		{
+			"group": "Dark Souls II",
+			"titles": [
+				{"searchTerm": "Dark Souls II"}
+			],
+			"supersets": [
+				{"searchTerm": "Dark Souls II - Scholar of the First Sin (Disc 1)"}
+			]
+		},
+		{
+			"group": "Dead Island",
+			"titles": [
+				{"searchTerm": "Dead Island"}
+			],
+			"supersets": [
+				{"searchTerm": "Dead Island - Game of the Year Edition"}
+			]
+		},
+		{
+			"group": "Dead or Alive 5",
+			"titles": [
+				{"searchTerm": "Dead or Alive 5"},
+				{"searchTerm": "Dead or Alive 5 Ultimate"}
+			]
+		},
+		{
+			"group": "Deus Ex - Human Revolution",
+			"titles": [
+				{"searchTerm": "Deus Ex - Human Revolution"}
+			],
+			"supersets": [
+				{"searchTerm": "Deus Ex - Human Revolution - Director's Cut (Disc 1)"}
+			]
+		},
+		{
+			"group": "Diablo III",
+			"titles": [
+				{"searchTerm": "Diablo III"}
+			],
+			"supersets": [
+				{"searchTerm": "Diablo III - Reaper of Souls - Ultimate Evil Edition"}
+			]
+		},
+		{
+			"group": "DiRT 3",
+			"titles": [
+				{"searchTerm": "DiRT 3"}
+			],
+			"supersets": [
+				{"searchTerm": "DiRT 3 - Complete Edition"}
+			]
+		},
+		{
+			"group": "Disney Infinity 2.0 Edition",
+			"titles": [
+				{"searchTerm": "Disney Infinity 2.0 Edition"},
+				{"searchTerm": "Disney Infinity 2.0 - Igra bez Granic"},
+				{"searchTerm": "Disney Infinity 2.0 - Play Without Limits"}
+			]
+		},
+		{
+			"group": "Disney-Pixar Up",
+			"titles": [
+				{"searchTerm": "Disney-Pixar Up"},
+				{"searchTerm": "Disney-Pixar Oben"}
+			]
+		},
+		{
+			"group": "Disney-Pixar WALL-E",
+			"titles": [
+				{"searchTerm": "Disney-Pixar WALL-E"},
+				{"searchTerm": "Disney-Pixar WALL-E - Batallon de Limpieza"},
+				{"searchTerm": "Disney-Pixar WALL-E - Der Letzte raeumt die Erde auf"}
+			]
+		},
+		{
+			"group": "Divinity II - Ego Draconis",
+			"titles": [
+				{"searchTerm": "Divinity II - Ego Draconis"}
+			],
+			"supersets": [
+				{"searchTerm": "Divinity II - The Dragon Knight Saga"}
+			]
+		},
+		{
+			"group": "Dragon Age - Origins",
+			"titles": [
+				{"searchTerm": "Dragon Age - Origins"},
+				{"searchTerm": "Dragon Age - Origins (Disc 1)"}
+			]
+		},
+		{
+			"group": "Dragon Age - Origins - Ultimate Edition (Disc 2) (Additional Content Packs Install Disc)",
+			"titles": [
+				{"searchTerm": "Dragon Age - Origins - Ultimate Edition (Disc 2) (Additional Content Packs Install Disc)"},
+				{"searchTerm": "Dragon Age - Origins - Ultimate Edition (Disc 2) (Zusaetzliche Inhaltspacks Installations-Disc)"},
+				{"searchTerm": "Dragon Age - Origins (Disc 2) (Tsuika Contents Disc)"}
+			]
+		},
+		{
+			"group": "Dragon Ball Z - Ultimate Tenkaichi",
+			"titles": [
+				{"searchTerm": "Dragon Ball Z - Ultimate Tenkaichi"},
+				{"searchTerm": "Dragon Ball - Ultimate Blast"}
+			]
+		},
+		{
+			"group": "DreamWorks Shrek Forever After",
+			"titles": [
+				{"searchTerm": "DreamWorks Shrek Forever After"},
+				{"searchTerm": "DreamWorks Shrek e Vissero Felici e Contenti"}
+			]
+		},
+		{
+			"group": "DreamWorks Shrek the Third",
+			"titles": [
+				{"searchTerm": "DreamWorks Shrek the Third"},
+				{"searchTerm": "DreamWorks Shrek Terzo"}
+			]
+		},
+		{
+			"group": "Dynasty Warriors - Gundam",
+			"titles": [
+				{"searchTerm": "Dynasty Warriors - Gundam"},
+				{"searchTerm": "Gundam Musou International"}
+			]
+		},
+		{
+			"group": "Dynasty Warriors - Gundam 2",
+			"titles": [
+				{"searchTerm": "Dynasty Warriors - Gundam 2"},
+				{"searchTerm": "Gundam Musou 2"}
+			]
+		},
+		{
+			"group": "Dynasty Warriors - Gundam 3",
+			"titles": [
+				{"searchTerm": "Dynasty Warriors - Gundam 3"},
+				{"searchTerm": "Gundam Musou 3"}
+			]
+		},
+		{
+			"group": "Dynasty Warriors - Strikeforce",
+			"titles": [
+				{"searchTerm": "Dynasty Warriors - Strikeforce"},
+				{"searchTerm": "Shin Sangoku Musou - Multi Raid Special"}
+			]
+		},
+		{
+			"group": "Dynasty Warriors 5 - Empires",
+			"titles": [
+				{"searchTerm": "Dynasty Warriors 5 - Empires"},
+				{"searchTerm": "Shin Sangoku Musou 5 - Empires"}
+			]
+		},
+		{
+			"group": "Earth Defense Force 2017",
+			"titles": [
+				{"searchTerm": "Earth Defense Force 2017"},
+				{"searchTerm": "Chikyuu Boueigun 3"}
+			]
+		},
+		{
+			"group": "Earth Defense Force 2025",
+			"titles": [
+				{"searchTerm": "Earth Defense Force 2025"},
+				{"searchTerm": "Chikyuu Boueigun 4"}
+			]
+		},
+		{
+			"group": "Eat Lead - The Return of Matt Hazard",
+			"titles": [
+				{"searchTerm": "Eat Lead - The Return of Matt Hazard"},
+				{"searchTerm": "Eat Lead - Matt Hazard no Gyakushuu"}
+			]
+		},
+		{
+			"group": "Elder Scrolls IV, The - Oblivion",
+			"titles": [
+				{"searchTerm": "Elder Scrolls IV, The - Oblivion"}
+			],
+			"supersets": [
+				{"searchTerm": "Elder Scrolls IV, The - Oblivion - Game of the Year Edition (Disc 1)"},
+				{"searchTerm": "Elder Scrolls IV, The - Oblivion - Game of the Year Edition"},
+				{"searchTerm": "Elder Scrolls IV, The - Oblivion - Jubilaeumsausgabe (Disc 1)"}
+			]
+		},
+		{
+			"group": "Elder Scrolls IV, The - Shivering Isles",
+			"titles": [
+				{"searchTerm": "Elder Scrolls IV, The - Shivering Isles"}
+			],
+			"supersets": [
+				{"searchTerm": "Elder Scrolls IV, The - Oblivion - Game of the Year Edition (Disc 2)"},
+				{"searchTerm": "Elder Scrolls IV, The - Oblivion - Game of the Year Edition"},
+				{"searchTerm": "Elder Scrolls IV, The - Oblivion - Jubilaeumsausgabe (Disc 2)"}
+			]
+		},
+		{
+			"group": "Enchanted Arms",
+			"titles": [
+				{"searchTerm": "Enchanted Arms"},
+				{"searchTerm": "[eM] - eNCHANT arM"}
+			]
+		},
+		{
+			"group": "Family Games (Demo)",
+			"titles": [
+				{"searchTerm": "Family Games (Demo)"},
+				{"searchTerm": "Family Games (Toys R Us) (Demo)", "priority": 2}
+			]
+		},
+		{
+			"group": "F1 2013",
+			"titles": [
+				{"searchTerm": "F1 2013"}
+			],
+			"supersets": [
+				{"searchTerm": "F1 2013 - Complete Edition"}
+			]
+		},
+		{
+			"group": "Fable II",
+			"titles": [
+				{"searchTerm": "Fable II"}
+			],
+			"supersets": [
+				{"searchTerm": "Fable II - Game of the Year Edition"},
+				{"searchTerm": "Fable II - Gioco dell'Anno"}
+			]
+		},
+		{
+			"group": "FIFA 06 - Road to FIFA World Cup",
+			"titles": [
+				{"searchTerm": "FIFA 06 - Road to FIFA World Cup"},
+				{"searchTerm": "FIFA World Cup Germany 2006"}
+			]
+		},
+		{
+			"group": "FIFA 14",
+			"titles": [
+				{"searchTerm": "FIFA 14"},
+				{"searchTerm": "FIFA 14 - World Class Soccer"}
+			]
+		},
+		{
+			"group": "FIFA 19 - Legacy Edition",
+			"titles": [
+				{"searchTerm": "FIFA 19 - Legacy Edition"},
+				{"searchTerm": "FIFA 19 - Edicao Legacy"}
+			]
+		},
+		{
+			"group": "FIFA Soccer 07",
+			"titles": [
+				{"searchTerm": "FIFA Soccer 07"},
+				{"searchTerm": "FIFA 07"}
+			]
+		},
+		{
+			"group": "FIFA Soccer 08",
+			"titles": [
+				{"searchTerm": "FIFA Soccer 08"},
+				{"searchTerm": "FIFA 08"},
+				{"searchTerm": "FIFA 08 - World Class Soccer"}
+			]
+		},
+		{
+			"group": "FIFA Soccer 09",
+			"titles": [
+				{"searchTerm": "FIFA Soccer 09"},
+				{"searchTerm": "FIFA 09"},
+				{"searchTerm": "FIFA 09 - World Class Soccer"}
+			]
+		},
+		{
+			"group": "FIFA Soccer 10",
+			"titles": [
+				{"searchTerm": "FIFA Soccer 10"},
+				{"searchTerm": "2010 FIFA World Cup - Minami Africa Taikai"},
+				{"searchTerm": "FIFA 10"},
+				{"searchTerm": "FIFA 10 - World Class Soccer"}
+			]
+		},
+		{
+			"group": "FIFA Soccer 11",
+			"titles": [
+				{"searchTerm": "FIFA Soccer 11"},
+				{"searchTerm": "FIFA 11"},
+				{"searchTerm": "FIFA 11 - World Class Soccer"}
+			]
+		},
+		{
+			"group": "FIFA Soccer 12",
+			"titles": [
+				{"searchTerm": "FIFA Soccer 12"},
+				{"searchTerm": "FIFA 12"},
+				{"searchTerm": "FIFA 12 - World Class Soccer"}
+			]
+		},
+		{
+			"group": "FIFA Soccer 13",
+			"titles": [
+				{"searchTerm": "FIFA Soccer 13"},
+				{"searchTerm": "FIFA 13"},
+				{"searchTerm": "FIFA 13 - World Class Soccer"}
+			]
+		},
+		{
+			"group": "Final Fantasy XI - Online",
+			"titles": [
+				{"searchTerm": "Final Fantasy XI - Online"}
+			],
+			"supersets": [
+				{"searchTerm": "Final Fantasy XI - Online - Ultimate Collection - Seekers Edition"},
+				{"searchTerm": "Final Fantasy XI - Online - Ultimate Collection", "priority": 2}
+			]
+		},
+		{
+			"group": "Final Fantasy XI - All in One Pack 2006",
+			"titles": [
+				{"searchTerm": "Final Fantasy XI - All in One Pack 2006"}
+			],
+			"supersets": [
+				{"searchTerm": "Final Fantasy XI - Online - Ultimate Collection - Seekers Edition"},
+				{"searchTerm": "Final Fantasy XI - Online - Ultimate Collection", "priority": 2}
+			]
+		},
+		{
+			"group": "Final Fantasy XI - Online - Vana'diel Collection 2008",
+			"titles": [
+				{"searchTerm": "Final Fantasy XI - Online - Vana'diel Collection 2008"}
+			],
+			"supersets": [
+				{"searchTerm": "Final Fantasy XI - Online - Ultimate Collection - Seekers Edition"},
+				{"searchTerm": "Final Fantasy XI - Online - Ultimate Collection", "priority": 2}
+			]
+		},
+		{
+			"group": "Final Fantasy XI - Online - Wings of the Goddess Expansion Pack",
+			"titles": [
+				{"searchTerm": "Final Fantasy XI - Online - Wings of the Goddess Expansion Pack"},
+				{"searchTerm": "Final Fantasy XI - Altana no Shinpei"}
+			],
+			"supersets": [
+				{"searchTerm": "Final Fantasy XI - Online - Ultimate Collection - Seekers Edition"},
+				{"searchTerm": "Final Fantasy XI - Online - Ultimate Collection", "priority": 2}
+			]
+		},
+		{
+			"group": "Final Fantasy XI - Vana'diel Collection",
+			"titles": [
+				{"searchTerm": "Final Fantasy XI - Vana'diel Collection"}
+			],
+			"supersets": [
+				{"searchTerm": "Final Fantasy XI - Online - Ultimate Collection - Seekers Edition"},
+				{"searchTerm": "Final Fantasy XI - Online - Ultimate Collection", "priority": 2}
+			]
+		},
+		{
+			"group": "Fist of the North Star - Ken's Rage",
+			"titles": [
+				{"searchTerm": "Fist of the North Star - Ken's Rage"},
+				{"searchTerm": "Hokuto Musou"}
+			]
+		},
+		{
+			"group": "Fist of the North Star - Ken's Rage 2",
+			"titles": [
+				{"searchTerm": "Fist of the North Star - Ken's Rage 2"},
+				{"searchTerm": "Shin Hokuto Musou"}
+			]
+		},
+		{
+			"group": "Forza Motorsport 3 (Disc 1) (Play Disc)",
+			"titles": [
+				{"searchTerm": "Forza Motorsport 3 (Disc 1) (Play Disc)"}
+			],
+			"supersets": [
+				{"searchTerm": "Forza Motorsport 3 - Ultimate Collection (Disc 1) (Play Disc)"}
+			]
+		},
+		{
+			"group": "Forza Motorsport 3 (Disc 2) (Content Install Disc)",
+			"titles": [
+				{"searchTerm": "Forza Motorsport 3 (Disc 2) (Content Install Disc)"}
+			],
+			"supersets": [
+				{"searchTerm": "Forza Motorsport 3 - Ultimate Collection (Disc 2) (Content Install Disc)"}
+			]
+		},
+		{
+			"group": "Forza Motorsport 4 (Disc 1) (Play Disc)",
+			"titles": [
+				{"searchTerm": "Forza Motorsport 4 (Disc 1) (Play Disc)"},
+				{"searchTerm": "Forza Motorsport 4 - Essentials Edition", "priority": 2}
+			]
+		},
+		{
+			"group": "Godfather, The",
+			"titles": [
+				{"searchTerm": "Godfather, The"},
+				{"searchTerm": "Padrino, Il"}
+			]
+		},
+		{
+			"group": "Godfather II, The",
+			"titles": [
+				{"searchTerm": "Godfather II, The"},
+				{"searchTerm": "Pate II, Der"}
+			]
+		},
+		{
+			"group": "Halo 3 - ODST (Disc 1) (Campaign)",
+			"titles": [
+				{"searchTerm": "Halo 3 - ODST (Disc 1) (Campaign)"},
+				{"searchTerm": "Halo 3 - ODST (Disc 1) (Campanha)"},
+				{"searchTerm": "Halo 3 - ODST (Campaign)"}
+			]
+		},
+		{
+			"group": "Hard Drive Transfer Disc",
+			"titles": [
+				{"searchTerm": "Hard Drive Transfer Disc"},
+				{"searchTerm": "Xbox 360 Hard Disk Data Transfer Disc"}
+			]
+		},
+		{
+			"group": "Ice Age - Continental Drift - Arctic Games",
+			"titles": [
+				{"searchTerm": "Ice Age - Continental Drift - Arctic Games"},
+				{"searchTerm": "Era Glaciale 4, L' - Continenti alla Deriva - Giochi Polari"}
+			]
+		},
+		{
+			"group": "Ice Age - Dawn of the Dinosaurs",
+			"titles": [
+				{"searchTerm": "Ice Age - Dawn of the Dinosaurs"},
+				{"searchTerm": "Era Glaciale 3, L' - L'Alba dei Dinosauri"}
+			]
+		},
+		{
+			"group": "Import Tuner Challenge",
+			"titles": [
+				{"searchTerm": "Import Tuner Challenge"},
+				{"searchTerm": "Shutokou Battle X"}
+			]
+		},
+		{
+			"group": "Injustice - Gods Among Us",
+			"titles": [
+				{"searchTerm": "Injustice - Gods Among Us"}
+			],
+			"supersets": [
+				{"searchTerm": "Injustice - Gods Among Us - Ultimate Edition"}
+			]
+		},
+		{
+			"group": "James Cameron's Avatar - The Game",
+			"titles": [
+				{"searchTerm": "James Cameron's Avatar - The Game"},
+				{"searchTerm": "James Cameron's Avatar The Game"}
+			]
+		},
+		{
+			"group": "Just Cause",
+			"titles": [
+				{"searchTerm": "Just Cause"},
+				{"searchTerm": "Just Cause - Viva Revolution"}
+			]
+		},
+		{
+			"group": "Kengo - Legend of the 9",
+			"titles": [
+				{"searchTerm": "Kengo - Legend of the 9"},
+				{"searchTerm": "Kengou Zero"}
+			]
+		},
+		{
+			"group": "Kinectimals",
+			"titles": [
+				{"searchTerm": "Kinectimals"}
+			],
+			"supersets": [
+				{"searchTerm": "Kinectimals - Now with Bears!"}
+			]
+		},
+		{
+			"group": "L.A. Noire (Disc 1)",
+			"titles": [
+				{"searchTerm": "L.A. Noire (Disc 1)"}
+			],
+			"supersets": [
+				{"searchTerm": "L.A. Noire - The Complete Edition (Disc 1)"}
+			]
+		},
+		{
+			"group": "L.A. Noire (Disc 2)",
+			"titles": [
+				{"searchTerm": "L.A. Noire (Disc 2)"}
+			],
+			"supersets": [
+				{"searchTerm": "L.A. Noire - The Complete Edition (Disc 2)"}
+			]
+		},
+		{
+			"group": "L.A. Noire (Disc 3)",
+			"titles": [
+				{"searchTerm": "L.A. Noire (Disc 3)"}
+			],
+			"supersets": [
+				{"searchTerm": "L.A. Noire - The Complete Edition (Disc 3)"}
+			]
+		},
+		{
+			"group": "Lost Planet - Extreme Condition",
+			"titles": [
+				{"searchTerm": "Lost Planet - Extreme Condition"}
+			],
+			"supersets": [
+				{"searchTerm": "Lost Planet - Extreme Condition - Colonies Edition"}
+			]
+		},
+		{
+			"group": "Magnacarta 2 (Disc 1)",
+			"titles": [
+				{"searchTerm": "Magnacarta 2 (Disc 1)"},
+				{"searchTerm": "Magna Carta II (Disc 1)"},
+				{"searchTerm": "Magnacarta II (Disc 1)"}
+			]
+		},
+		{
+			"group": "Magnacarta 2 (Disc 2)",
+			"titles": [
+				{"searchTerm": "Magnacarta 2 (Disc 2)"},
+				{"searchTerm": "Magna Carta II (Disc 2)"},
+				{"searchTerm": "Magnacarta II (Disc 2)"}
+			]
+		},
+		{
+			"group": "Majin and the Forsaken Kingdom",
+			"titles": [
+				{"searchTerm": "Majin and the Forsaken Kingdom"},
+				{"searchTerm": "Majin to Ushinawareta Oukoku"}
+			]
+		},
+		{
+			"group": "Mass Effect (Bonus Content Disc)",
+			"titles": [
+				{"searchTerm": "Mass Effect (Bonus Content Disc)"},
+				{"searchTerm": "Mass Effect (Bonus Disc)"},
+				{"searchTerm": "Mass Effect (Bonus DVD)"}
+			]
+		},
+		{
+			"group": "Max Payne 3 (Disc 1) (Single Player Disc 1 and Multiplayer)",
+			"titles": [
+				{"searchTerm": "Max Payne 3 (Disc 1) (Single Player Disc 1 and Multiplayer)"},
+				{"searchTerm": "Max Payne 3 (Disc 1) (Single Player Disc 1 und Multiplayer)"}
+			]
+		},
+		{
+			"group": "Medal of Honor - Warfighter (Disc 1)",
+			"titles": [
+				{"searchTerm": "Medal of Honor - Warfighter (Disc 1)"},
+				{"searchTerm": "Medal of Honor - Warfighter (Disc 1) (Multiplayer)"}
+			]
+		},
+		{
+			"group": "Medal of Honor - Warfighter (Disc 2)",
+			"titles": [
+				{"searchTerm": "Medal of Honor - Warfighter (Disc 2)"},
+				{"searchTerm": "Medal of Honor - Warfighter (Disc 2) (Single-Player Campaign)"}
+			]
+		},
+		{
+			"group": "Metal Gear Solid - HD Collection (Disc 1)",
+			"titles": [
+				{"searchTerm": "Metal Gear Solid - HD Collection (Disc 1)"},
+				{"searchTerm": "Metal Gear Solid - HD Edition"}
+			]
+		},
+		{
+			"group": "Middle-Earth - Shadow of Mordor (Disc 1)",
+			"titles": [
+				{"searchTerm": "Middle-Earth - Shadow of Mordor (Disc 1)"},
+				{"searchTerm": "Terra-Media - Sombras de Mordor (Disc 1)"}
+			]
+		},
+		{
+			"group": "Middle-Earth - Shadow of Mordor (Disc 2)",
+			"titles": [
+				{"searchTerm": "Middle-Earth - Shadow of Mordor (Disc 2)"},
+				{"searchTerm": "Terra-Media - Sombras de Mordor (Disc 2)"}
+			]
+		},
+		{
+			"group": "Midnight Club - Los Angeles",
+			"titles": [
+				{"searchTerm": "Midnight Club - Los Angeles"}
+			],
+			"supersets": [
+				{"searchTerm": "Midnight Club - Los Angeles - Complete Edition"}
+			]
+		},
+		{
+			"group": "Minecraft - Story Mode - A Telltale Games Series",
+			"titles": [
+				{"searchTerm": "Minecraft - Story Mode - A Telltale Games Series"}
+			],
+			"supersets": [
+				{"searchTerm": "Minecraft - Story Mode - A Telltale Games Series - The Complete Adventure"}
+			]
+		},
+		{
+			"group": "Murdered - Soul Suspect",
+			"titles": [
+				{"searchTerm": "Murdered - Soul Suspect"},
+				{"searchTerm": "Murdered - Tamashii no Yobu Koe"}
+			]
+		},
+		{
+			"group": "Naruto Shippuden - Ultimate Ninja Storm 2",
+			"titles": [
+				{"searchTerm": "Naruto Shippuden - Ultimate Ninja Storm 2"},
+				{"searchTerm": "Naruto Shippuuden - Narutimate Storm 2"}
+			]
+		},
+		{
+			"group": "Naruto Shippuden - Ultimate Ninja Storm 3",
+			"titles": [
+				{"searchTerm": "Naruto Shippuden - Ultimate Ninja Storm 3"},
+				{"searchTerm": "Naruto Shippuuden - Narutimate Storm 3"}
+			]
+		},
+		{
+			"group": "Naruto Shippuden - Ultimate Ninja Storm Generations",
+			"titles": [
+				{"searchTerm": "Naruto Shippuden - Ultimate Ninja Storm Generations"},
+				{"searchTerm": "Naruto Shippuuden - Narutimate Storm Generation"}
+			]
+		},
+		{
+			"group": "Naughty Bear",
+			"titles": [
+				{"searchTerm": "Naughty Bear"}
+			],
+			"supersets": [
+				{"searchTerm": "Naughty Bear - Gold Edition"}
+			]
+		},
+		{
+			"group": "Need for Speed - Carbon",
+			"titles": [
+				{"searchTerm": "Need for Speed - Carbon"},
+				{"searchTerm": "Need for Speed - Carbono"}
+			],
+			"supersets": [
+				{"searchTerm": "Need for Speed - Carbon - Collector's Edition"}
+			]
+		},
+		{
+			"group": "Need for Speed - The Run",
+			"titles": [
+				{"searchTerm": "Need for Speed - The Run (651050A1)"},
+				{"searchTerm": "Need for Speed - The Run (264F3B05)", "priority": 2}
+			]
+		},
+		{
+			"group": "Nier",
+			"titles": [
+				{"searchTerm": "Nier"},
+				{"searchTerm": "NieR Gestalt"}
+			]
+		},
+		{
+			"group": "Ninja Gaiden 3",
+			"titles": [
+				{"searchTerm": "Ninja Gaiden 3"}
+			],
+			"supersets": [
+				{"searchTerm": "Ninja Gaiden 3 - Razor's Edge"}
+			]
+		},
+		{
+			"group": "Onechanbara - Bikini Samurai Squad",
+			"titles": [
+				{"searchTerm": "Onechanbara - Bikini Samurai Squad"},
+				{"searchTerm": "Oneechanbara VorteX - Imichi o Tsugu Mono-tachi"}
+			]
+		},
+		{
+			"group": "Otomedius Excellent",
+			"titles": [
+				{"searchTerm": "Otomedius Excellent"},
+				{"searchTerm": "Otomedius Excellent!"}
+			]
+		},
+		{
+			"group": "Over G Fighters",
+			"titles": [
+				{"searchTerm": "Over G Fighters"},
+				{"searchTerm": "Over G - Energy Airforce"}
+			]
+		},
+		{
+			"group": "Persona 4 Arena",
+			"titles": [
+				{"searchTerm": "Persona 4 Arena"},
+				{"searchTerm": "Persona 4 - The Ultimate in Mayonaka Arena"}
+			]
+		},
+		{
+			"group": "PES 2008 - Pro Evolution Soccer",
+			"titles": [
+				{"searchTerm": "PES 2008 - Pro Evolution Soccer"},
+				{"searchTerm": "World Soccer Winning Eleven 2008"}
+			]
+		},
+		{
+			"group": "PES 2009 - Pro Evolution Soccer",
+			"titles": [
+				{"searchTerm": "PES 2009 - Pro Evolution Soccer"},
+				{"searchTerm": "World Soccer Winning Eleven 2009"}
+			]
+		},
+		{
+			"group": "PES 2010 - Pro Evolution Soccer",
+			"titles": [
+				{"searchTerm": "PES 2010 - Pro Evolution Soccer"},
+				{"searchTerm": "World Soccer Winning Eleven 2010"}
+			]
+		},
+		{
+			"group": "PES 2011 - Pro Evolution Soccer",
+			"titles": [
+				{"searchTerm": "PES 2011 - Pro Evolution Soccer"},
+				{"searchTerm": "World Soccer Winning Eleven 2011"}
+			]
+		},
+		{
+			"group": "PES 2014 - Pro Evolution Soccer",
+			"titles": [
+				{"searchTerm": "PES 2014 - Pro Evolution Soccer"},
+				{"searchTerm": "World Soccer Winning Eleven 2014"}
+			]
+		},
+		{
+			"group": "Pure",
+			"titles": [
+				{"searchTerm": "Pure"},
+				{"searchTerm": "Extreme Racing Pure"}
+			]
+		},
+		{
+			"group": "Resident Evil 6 ~ Biohazard 6 (Disc 1) (Game)",
+			"titles": [
+				{"searchTerm": "Resident Evil 6 ~ Biohazard 6 (Disc 1) (Game)"},
+				{"searchTerm": "Resident Evil 6 (Disc 1) (Game Disc)"}
+			]
+		},
+		{
+			"group": "Red Dead Redemption",
+			"titles": [
+				{"searchTerm": "Red Dead Redemption"}
+			],
+			"supersets": [
+				{"searchTerm": "Red Dead Redemption - Game of the Year Edition (Disc 1) (Red Dead Redemption Single Player)"}
+			]
+		},
+		{
+			"group": "Red Dead Redemption - Undead Nightmare",
+			"titles": [
+				{"searchTerm": "Red Dead Redemption - Undead Nightmare"}
+			],
+			"supersets": [
+				{"searchTerm": "Red Dead Redemption - Game of the Year Edition (Disc 2) (Undead Nightmare and Multiplayer)"}
+			]
+		},
+		{
+			"group": "Resident Evil - Operation Raccoon City",
+			"titles": [
+				{"searchTerm": "Resident Evil - Operation Raccoon City"},
+				{"searchTerm": "Biohazard - Operation Raccoon City"}
+			]
+		},
+		{
+			"group": "Resonance of Fate",
+			"titles": [
+				{"searchTerm": "Resonance of Fate"},
+				{"searchTerm": "End of Eternity"}
+			]
+		},
+		{
+			"group": "Rock Band - Track Pack Volume 2",
+			"titles": [
+				{"searchTerm": "Rock Band - Track Pack Volume 2"},
+				{"searchTerm": "Rock Band - Song Pack 2"}
+			]
+		},
+		{
+			"group": "Rocksmith",
+			"titles": [
+				{"searchTerm": "Rocksmith"}
+			],
+			"supersets": [
+				{"searchTerm": "Rocksmith - All-New 2014 Edition"}
+			]
+		},
+		{
+			"group": "Saints Row IV",
+			"titles": [
+				{"searchTerm": "Saints Row IV"}
+			],
+			"supersets": [
+				{"searchTerm": "Saints Row IV - Game of the Century Edition"},
+				{"searchTerm": "Saints Row IV - Ultra Super Ultimate Deluxe Edition"}
+			]
+		},
+		{
+			"group": "Samurai Shodown Sen",
+			"titles": [
+				{"searchTerm": "Samurai Shodown Sen"},
+				{"searchTerm": "Samurai Spirits Sen"}
+			]
+		},
+		{
+			"group": "Samurai Warriors 2",
+			"titles": [
+				{"searchTerm": "Samurai Warriors 2"},
+				{"searchTerm": "Sengoku Musou 2"}
+			]
+		},
+		{
+			"group": "Scene It Bright Lights! Big Screen!",
+			"titles": [
+				{"searchTerm": "Scene It Bright Lights! Big Screen!"},
+				{"searchTerm": "Scene It Ciak! Si Gira!"},
+				{"searchTerm": "Scene It Estrellas en la Pantalla Gigante"},
+				{"searchTerm": "Scene It Ganz grosses Kino!"}
+			]
+		},
+		{
+			"group": "Scene It Lights, Camera, Action",
+			"titles": [
+				{"searchTerm": "Scene It Lights, Camera, Action"},
+				{"searchTerm": "Scene It Lights, Camera, Action!"}
+			]
+		},
+		{
+			"group": "Scene It Box Office Smash!",
+			"titles": [
+				{"searchTerm": "Scene It Box Office Smash!"},
+				{"searchTerm": "Scene It Grandes Exitos de Taquilla"},
+				{"searchTerm": "Scene It Kinohits"}
+			]
+		},
+		{
+			"group": "Serious Sam HD",
+			"titles": [
+				{"searchTerm": "Serious Sam HD"}
+			],
+			"supersets": [
+				{"searchTerm": "Serious Sam Collection, The"}
+			]
+		},
+		{
+			"group": "Sherlock Holmes vs. Jack the Ripper",
+			"titles": [
+				{"searchTerm": "Sherlock Holmes vs. Jack the Ripper"},
+				{"searchTerm": "Sherlock Holmes Versus Jack the Ripper"}
+			]
+		},
+		{
+			"group": "Simpsons Game, The",
+			"titles": [
+				{"searchTerm": "Simpsons Game, The"},
+				{"searchTerm": "Simpsons, Die - Das Spiel"}
+			]
+		},
+		{
+			"group": "Sniper Elite III",
+			"titles": [
+				{"searchTerm": "Sniper Elite III"}
+			],
+			"supersets": [
+				{"searchTerm": "Sniper Elite III - Ultimate Edition"}
+			]
+		},
+		{
+			"group": "Sniper Elite",
+			"titles": [
+				{"searchTerm": "Sniper Elite"}
+			],
+			"supersets": [
+				{"searchTerm": "Sniper Elite - Game of the Year Edition"}
+			]
+		},
+		{
+			"group": "Sonic's Ultimate Genesis Collection",
+			"titles": [
+				{"searchTerm": "Sonic's Ultimate Genesis Collection"},
+				{"searchTerm": "Sega Mega Drive Ultimate Collection"}
+			]
+		},
+		{
+			"group": "Sonic Unleashed",
+			"titles": [
+				{"searchTerm": "Sonic Unleashed"},
+				{"searchTerm": "Sonic World Adventure"}
+			]
+		},
+		{
+			"group": "South Park - The Stick of Truth",
+			"titles": [
+				{"searchTerm": "South Park - The Stick of Truth"},
+				{"searchTerm": "South Park - Der Stab der Wahrheit"}
+			]
+		},
+		{
+			"group": "Spectral Force 3",
+			"titles": [
+				{"searchTerm": "Spectral Force 3"},
+				{"searchTerm": "Spectral Force 3 - Innocent Rage"}
+			]
+		},
+		{
+			"group": "Split-Second",
+			"titles": [
+				{"searchTerm": "Split-Second"},
+				{"searchTerm": "Split-Second - Velocity"}
+			]
+		},
+		{
+			"group": "Star Wars - The Force Unleashed",
+			"titles": [
+				{"searchTerm": "Star Wars - The Force Unleashed"}
+			],
+			"supersets": [
+				{"searchTerm": "Star Wars - The Force Unleashed - Ultimate Sith Edition (Disc 1)"}
+			]
+		},
+		{
+			"group": "Stoked",
+			"titles": [
+				{"searchTerm": "Stoked"}
+			],
+			"supersets": [
+				{"searchTerm": "Stoked - Big Air Edition"}
+			]
+		},
+		{
+			"group": "Tenchu Z",
+			"titles": [
+				{"searchTerm": "Tenchu Z"},
+				{"searchTerm": "Tenchu Senran"}
+			]
+		},
+		{
+			"group": "Tiger Woods PGA Tour 13",
+			"titles": [
+				{"searchTerm": "Tiger Woods PGA Tour 13"}
+			],
+			"supersets": [
+				{"searchTerm": "Tiger Woods PGA Tour 13 (Masters Collector's Edition)"}
+			]
+		},
+		{
+			"group": "Tom Clancy's Splinter Cell - Blacklist (Disc 1) (Campaign Part 1 & Multiplayer)",
+			"titles": [
+				{"searchTerm": "Tom Clancy's Splinter Cell - Blacklist (Disc 1) (Campaign Part 1 & Multiplayer)"},
+				{"searchTerm": "Tom Clancy's Splinter Cell - Blacklist (Disc 1)"}
+			]
+		},
+		{
+			"group": "Tom Clancy's Splinter Cell - Blacklist (Disc 2) (Campaign Part 2 & HD Texture Pack)",
+			"titles": [
+				{"searchTerm": "Tom Clancy's Splinter Cell - Blacklist (Disc 2) (Campaign Part 2 & HD Texture Pack)"},
+				{"searchTerm": "Tom Clancy's Splinter Cell - Blacklist (Disc 2)"}
+			]
+		},
+		{
+			"group": "Transformers - Revenge of the Fallen",
+			"titles": [
+				{"searchTerm": "Transformers - Revenge of the Fallen"},
+				{"searchTerm": "Transformers - Die Rache"}
+			]
+		},
+		{
+			"group": "Transformers - War for Cybertron",
+			"titles": [
+				{"searchTerm": "Transformers - War for Cybertron"},
+				{"searchTerm": "Transformers - Kampf um Cybertron"}
+			]
+		},
+		{
+			"group": "Tropico 4",
+			"titles": [
+				{"searchTerm": "Tropico 4"}
+			],
+			"supersets": [
+				{"searchTerm": "Tropico 4 - Gold Edition"}
+			]
+		},
+		{
+			"group": "Two Worlds II",
+			"titles": [
+				{"searchTerm": "Two Worlds II"}
+			],
+			"supersets": [
+				{"searchTerm": "Two Worlds II - Game of the Year Edition"}
+			]
+		},
+		{
+			"group": "Under Defeat HD - Deluxe Edition",
+			"titles": [
+				{"searchTerm": "Under Defeat HD - Deluxe Edition"},
+				{"searchTerm": "Under Defeat HD"}
+			]
+		},
+		{
+			"group": "Virtua Fighter 5 Online ~ Virtua Fighter 5",
+			"titles": [
+				{"searchTerm": "Virtua Fighter 5 Online ~ Virtua Fighter 5"},
+				{"searchTerm": "Virtua Fighter 5 - Live Arena"},
+				{"searchTerm": "Virtua Fighter 5"}
+			]
+		},
+		{
+			"group": "Walking Dead, The - A Telltale Games Series",
+			"titles": [
+				{"searchTerm": "Walking Dead, The - A Telltale Games Series"}
+			],
+			"supersets": [
+				{"searchTerm": "Walking Dead, The - A Telltale Games Series - Game of the Year Edition"}
+			]
+		},
+		{
+			"group": "Warriors Orochi",
+			"titles": [
+				{"searchTerm": "Warriors Orochi"},
+				{"searchTerm": "Musou Orochi"}
+			]
+		},
+		{
+			"group": "Warriors Orochi 2",
+			"titles": [
+				{"searchTerm": "Warriors Orochi 2"},
+				{"searchTerm": "Musou Orochi - Maou Sairin"}
+			]
+		},
+		{
+			"group": "Warriors - Legends of Troy",
+			"titles": [
+				{"searchTerm": "Warriors - Legends of Troy"},
+				{"searchTerm": "Troy Musou"}
+			]
+		},
+		{
+			"group": "WarTech - Senko no Ronde",
+			"titles": [
+				{"searchTerm": "WarTech - Senko no Ronde"},
+				{"searchTerm": "Senkou no Ronde Rev.X"}
+			]
+		},
+		{
+			"group": "Watch_Dogs (Disc 1) (Installation Disc)",
+			"titles": [
+				{"searchTerm": "Watch_Dogs (Disc 1) (Installation Disc)"},
+				{"searchTerm": "Watch_Dogs (Disc 1)"}
+			]
+		},
+		{
+			"group": "Watch_Dogs (Disc 2) (Game Disc)",
+			"titles": [
+				{"searchTerm": "Watch_Dogs (Disc 2) (Game Disc)"},
+				{"searchTerm": "Watch_Dogs (Disc 2)"}
+			]
+		},
+		{
+			"group": "Way of the Samurai 3",
+			"titles": [
+				{"searchTerm": "Way of the Samurai 3"},
+				{"searchTerm": "Samurai Dou 3"}
+			]
+		},
+		{
+			"group": "Winning Eleven - Pro Evolution Soccer 2007",
+			"titles": [
+				{"searchTerm": "Winning Eleven - Pro Evolution Soccer 2007"},
+				{"searchTerm": "Pro Evolution Soccer 6"},
+				{"searchTerm": "World Soccer Winning Eleven X"}
+			]
+		},
+		{
+			"group": "Witcher 2, The - Assassins of Kings - Enhanced Edition (Disc 1)",
+			"titles": [
+				{"searchTerm": "Witcher 2, The - Assassins of Kings - Enhanced Edition (Disc 1)"},
+				{"searchTerm": "Witcher 2, The - Assassins of Kings - Enhanced Edition (Game Disc 1)"},
+				{"searchTerm": "Witcher 2, The - Assassins of Kings - Enhanced Edition (Silver Box)", "priority": 2}
+			]
+		},
+		{
+			"group": "Witcher 2, The - Assassins of Kings - Enhanced Edition (Disc 2)",
+			"titles": [
+				{"searchTerm": "Witcher 2, The - Assassins of Kings - Enhanced Edition (Disc 2)"},
+				{"searchTerm": "Witcher 2, The - Assassins of Kings - Enhanced Edition (Game Disc 2)"}
+			]
+		},
+		{
+			"group": "Zoids Assault",
+			"titles": [
+				{"searchTerm": "Zoids Assault"},
+				{"searchTerm": "Zoids Alternative"}
+			]
+		}
+	]
 }

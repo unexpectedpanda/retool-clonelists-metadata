@@ -1,32 +1,45 @@
 {
 	"description": {
-		"name": [
-			"Nintendo - Virtual Boy"
-		],
-		"last updated": "9 April 2021",
-		"minimum version": "2.00"
+		"name": "Nintendo - Virtual Boy (No-Intro)",
+		"lastUpdated": "9 April 2021",
+		"minimumVersion": "2.00"
 	},
 
-	"renames": {
-		"Galactic Pinball": [
-			{"title": "Galactic Pinball"},
-			{"title": "Space Pinball", "priority": 2}
-		],
-		"Golf": [
-			{"title": "Golf"},
-			{"title": "T&E Virtual Golf"}
-		],
-		"Jack Bros.": [
-			{"title": "Jack Bros."},
-			{"title": "Jack Bros. no Meiro de Hiihoo!"}
-		],
-		"Panic Bomber": [
-			{"title": "Panic Bomber"},
-			{"title": "Tobidase! Panibon"}
-		],
-		"Virtual League Baseball": [
-			{"title": "Virtual League Baseball"},
-			{"title": "Virtual Pro Yakyuu '95"}
-		]
-	}
+	"variants": [
+		{
+			"group": "Galactic Pinball",
+			"titles": [
+				{"searchTerm": "Galactic Pinball"},
+				{"searchTerm": "Space Pinball", "priority": 2}
+			]
+		},
+		{
+			"group": "Golf",
+			"titles": [
+				{"searchTerm": "Golf"},
+				{"searchTerm": "T&E Virtual Golf"}
+			]
+		},
+		{
+			"group": "Jack Bros.",
+			"titles": [
+				{"searchTerm": "Jack Bros."},
+				{"searchTerm": "Jack Bros. no Meiro de Hiihoo!"}
+			]
+		},
+		{
+			"group": "Panic Bomber",
+			"titles": [
+				{"searchTerm": "Panic Bomber"},
+				{"searchTerm": "Tobidase! Panibon"}
+			]
+		},
+		{
+			"group": "Virtual League Baseball",
+			"titles": [
+				{"searchTerm": "Virtual League Baseball"},
+				{"searchTerm": "Virtual Pro Yakyuu '95"}
+			]
+		}
+	]
 }

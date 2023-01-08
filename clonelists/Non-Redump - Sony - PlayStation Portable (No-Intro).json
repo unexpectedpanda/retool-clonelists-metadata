@@ -1,181 +1,298 @@
 {
 	"description": {
-		"name": [
-			"Non-Redump - Sony - PlayStation Portable"
-		],
-		"last updated": "23 July 2022",
-		"minimum version": "2.00"
+		"name": "Non-Redump - Sony - PlayStation Portable (No-Intro)",
+		"lastUpdated": "23 July 2022",
+		"minimumVersion": "2.00"
 	},
 
-	"overrides": {
-		"TalkMan EURO - TalkMan Europa Gengo Ban (Asia) (En,Fr,De,Es,It,Ko) (v1.03) (Microphone Doukonban)": {
-			"new group": "TalkMan EURO - TalkMan Europa Gengo Ban",
-			"match": "full"
+	"overrides": [
+		{
+			"searchTerm": "TalkMan EURO - TalkMan Europa Gengo Ban (Asia) (En,Fr,De,Es,It,Ko) (v1.03) (Microphone Doukonban)",
+			"nameType": "full",
+			"newGroup": "TalkMan EURO - TalkMan Europa Gengo Ban"
 		},
-		"TalkMan Euro (Asia) (En,Fr,De,Es,It,Zh) (v1.03) (Software Doukonban)": {
-			"new group": "TalkMan EURO - TalkMan Europa Gengo Ban",
-			"match": "full"
+		{
+			"searchTerm": "TalkMan Euro (Asia) (En,Fr,De,Es,It,Zh) (v1.03) (Software Doukonban)",
+			"nameType": "full",
+			"newGroup": "TalkMan EURO - TalkMan Europa Gengo Ban"
 		}
-	},
+	],
 
-	"renames": {
-		"007 - From Russia with Love": [
-			{"title": "007 - From Russia with Love"},
-			{"title": "007 - Russia Yori Ai o Komete"}
-		],
-		"Bubble Bobble - Evolution": [
-			{"title": "Bubble Bobble - Evolution"},
-			{"title": "Bubble Bobble - Magical Tower Daisakusen!!"}
-		],
-		"Buzz! Brain of the World": [
-			{"title": "Buzz! Brain of the World"},
-			{"title": "Buzz! Il Quizzone Nazionale"}
-		],
-		"Cars": [
-			{"title": "Cars"},
-			{"title": "Bilar"},
-			{"title": "Biler"}
-		],
-		"Coded Arms - Contagion": [
-			{"title": "Coded Arms - Contagion"},
-			{"title": "Coded Gun - Contagion"}
-		],
-		"Coded Soul - Uke Keigareshi Idea": [
-			{"title": "Coded Soul - Uke Keigareshi Idea"},
-			{"title": "Coded Soul"}
-		],
-		"Con - Gamble Fight, The": [
-			{"title": "Con - Gamble Fight, The"},
-			{"title": "Gamble Con Fight"}
-		],
-		"Crash Tag Team Racing": [
-			{"title": "Crash Tag Team Racing"},
-			{"title": "Crash Bandicoot - Gacchanko World"}
-		],
-		"Crimsongem Saga": [
-			{"title": "Crimsongem Saga"},
-			{"title": "Garnet Chronicle - Kouki no Maseki"}
-		],
-		"Crisis Core - Final Fantasy VII (10th Anniversary Limited Edition)": [
-			{"title": "Crisis Core - Final Fantasy VII (10th Anniversary Limited Edition)"},
-			{"title": "Crisis Core - Final Fantasy VII", "priority": 2}
-		],
-		"Dante's Inferno": [
-			{"title": "Dante's Inferno"},
-			{"title": "Dante's Inferno - Shinkyoku Jigoku-Hen"}
-		],
-		"Dead Head Fred": [
-			{"title": "Dead Head Fred"},
-			{"title": "Dead Head Fred - Kubinashi Tantei no Akumu"}
-		],
-		"Dynasty Warriors Vol. 2": [
-			{"title": "Dynasty Warriors Vol. 2"},
-			{"title": "Shin Sangoku Musou - 2nd Evolution"}
-		],
-		"FIFA 10": [
-			{"title": "FIFA 10"},
-			{"title": "FIFA 10 - World Class Soccer"}
-		],
-		"FIFA 11 (Platinum Edition)": [
-			{"title": "FIFA 11 (Platinum Edition)"},
-			{"title": "FIFA 11 - World Class Soccer"}
-		],
-		"FIFA 12": [
-			{"title": "FIFA 12"},
-			{"title": "FIFA 12 - World Class Soccer"}
-		],
-		"FIFA 14": [
-			{"title": "FIFA 14"},
-			{"title": "FIFA 14 - World Class Soccer"}
-		],
-		"FIFA Soccer 13": [
-			{"title": "FIFA Soccer 13"},
-			{"title": "FIFA 13"},
-			{"title": "FIFA 13 - World Class Soccer"}
-		],
-		"Final Approach 2 - 1st Priority Portable": [
-			{"title": "Final Approach 2 - 1st Priority Portable"},
-			{"title": "Final Approach 2 - 1st Priority Portable (Limited Edition)", "priority": 2}
-		],
-		"Fullmetal Alchemist - Brotherhood": [
-			{"title": "Fullmetal Alchemist - Brotherhood"},
-			{"title": "Hagane no Renkinjutsushi - Fullmetal Alchemist - Senaka o Takuseshi Mono"}
-		],
-		"Heart no Kuni no Alice Anniversary Ver. - Wonderful Wonder World": [
-			{"title": "Heart no Kuni no Alice Anniversary Ver. - Wonderful Wonder World"},
-			{"title": "Heart no Kuni no Alice", "priority": 2}
-		],
-		"King of Fighters Collection, The - The Orochi Saga": [
-			{"title": "King of Fighters Collection, The - The Orochi Saga"},
-			{"title": "King of Fighters Portable '94-'98, The - Chapter of Orochi"}
-		],
-		"Koukaku Kidoutai - Stand Alone Complex": [
-			{"title": "Koukaku Kidoutai - Stand Alone Complex"},
-			{"title": "Koukaku Kidoutai - Stand Alone Complex - Kariudo no Ryouiki"}
-		],
-		"Lost Regnum - Makutsu no Koutei": [
-			{"title": "Lost Regnum - Makutsu no Koutei"},
-			{"title": "Lost Regnum - The Emperor of Theives"}
-		],
-		"Magic Sudoku": [
-			{"title": "Magic Sudoku"},
-			{"title": "Sudoku & Nemonemo Logic"}
-		],
-		"Moeru Mahjong - Moejong (Premium Box)": [
-			{"title": "Moeru Mahjong - Moejong (Premium Box)"},
-			{"title": "Moeru Mahjong - Moejong", "priority": 2}
-		],
-		"MotorStorm - Arctic Edge": [
-			{"title": "MotorStorm - Arctic Edge"},
-			{"title": "MotorStorm - Raging Ice"}
-		],
-		"Pro Evolution Soccer 2013": [
-			{"title": "Pro Evolution Soccer 2013"},
-			{"title": "World Soccer Winning Eleven 2013"}
-		],
-		"Pursuit Force": [
-			{"title": "Pursuit Force"},
-			{"title": "Pursuit Force - Daitsuiseki"}
-		],
-		"Ratatouille": [
-			{"title": "Ratatouille"},
-			{"title": "Ratatooee"}
-		],
-		"Ratchet & Clank - Size Matters": [
-			{"title": "Ratchet & Clank - Size Matters"},
-			{"title": "Ratchet & Clank 5 - Gekitotsu! Dodeka Ginga no MiriMiri Gundan"}
-		],
-		"Resistance - Retribution": [
-			{"title": "Resistance - Retribution"},
-			{"title": "Resistance - Houfuku no Toki"}
-		],
-		"Sega Rally Revo": [
-			{"title": "Sega Rally Revo"},
-			{"title": "Sega Rally"}
-		],
-		"Shinseiki Evangelion 2 - Tsukurareshi Sekai - Another Cases (10 Shuunen Kinen Memorial Box)": [
-			{"title": "Shinseiki Evangelion 2 - Tsukurareshi Sekai - Another Cases (10 Shuunen Kinen Memorial Box)"},
-			{"title": "Shinseiki Evangelion 2 - Tsukurareshi Sekai - Another Cases", "priority": 2}
-		],
-		"Sims 2, The": [
-			{"title": "Sims 2, The"},
-			{"title": "Sims 2, The - Dr. Dominic no Inbou"}
-		],
-		"Strikers 1945 Plus Portable": [
-			{"title": "Strikers 1945 Plus Portable"},
-			{"title": "Strikers 1945 Plus"}
-		],
-		"Up": [
-			{"title": "Up"},
-			{"title": "Psila Ston Ourano"}
-		],
-		"Warriors Orochi": [
-			{"title": "Warriors Orochi"},
-			{"title": "Musou Orochi"}
-		],
-		"WTF - Work Time Fun": [
-			{"title": "WTF - Work Time Fun"},
-			{"title": "Beit Hell 2000"}
-		]
-	}
+	"variants": [
+		{
+			"group": "007 - From Russia with Love",
+			"titles": [
+				{"searchTerm": "007 - From Russia with Love"},
+				{"searchTerm": "007 - Russia Yori Ai o Komete"}
+			]
+		},
+		{
+			"group": "Bubble Bobble - Evolution",
+			"titles": [
+				{"searchTerm": "Bubble Bobble - Evolution"},
+				{"searchTerm": "Bubble Bobble - Magical Tower Daisakusen!!"}
+			]
+		},
+		{
+			"group": "Buzz! Brain of the World",
+			"titles": [
+				{"searchTerm": "Buzz! Brain of the World"},
+				{"searchTerm": "Buzz! Il Quizzone Nazionale"}
+			]
+		},
+		{
+			"group": "Cars",
+			"titles": [
+				{"searchTerm": "Cars"},
+				{"searchTerm": "Bilar"},
+				{"searchTerm": "Biler"}
+			]
+		},
+		{
+			"group": "Coded Arms - Contagion",
+			"titles": [
+				{"searchTerm": "Coded Arms - Contagion"},
+				{"searchTerm": "Coded Gun - Contagion"}
+			]
+		},
+		{
+			"group": "Coded Soul - Uke Keigareshi Idea",
+			"titles": [
+				{"searchTerm": "Coded Soul - Uke Keigareshi Idea"},
+				{"searchTerm": "Coded Soul"}
+			]
+		},
+		{
+			"group": "Con - Gamble Fight, The",
+			"titles": [
+				{"searchTerm": "Con - Gamble Fight, The"},
+				{"searchTerm": "Gamble Con Fight"}
+			]
+		},
+		{
+			"group": "Crash Tag Team Racing",
+			"titles": [
+				{"searchTerm": "Crash Tag Team Racing"},
+				{"searchTerm": "Crash Bandicoot - Gacchanko World"}
+			]
+		},
+		{
+			"group": "Crimsongem Saga",
+			"titles": [
+				{"searchTerm": "Crimsongem Saga"},
+				{"searchTerm": "Garnet Chronicle - Kouki no Maseki"}
+			]
+		},
+		{
+			"group": "Crisis Core - Final Fantasy VII",
+			"titles": [
+				{"searchTerm": "Crisis Core - Final Fantasy VII (10th Anniversary Limited Edition)"},
+				{"searchTerm": "Crisis Core - Final Fantasy VII", "priority": 2}
+			]
+		},
+		{
+			"group": "Dante's Inferno",
+			"titles": [
+				{"searchTerm": "Dante's Inferno"},
+				{"searchTerm": "Dante's Inferno - Shinkyoku Jigoku-Hen"}
+			]
+		},
+		{
+			"group": "Dead Head Fred",
+			"titles": [
+				{"searchTerm": "Dead Head Fred"},
+				{"searchTerm": "Dead Head Fred - Kubinashi Tantei no Akumu"}
+			]
+		},
+		{
+			"group": "Dynasty Warriors Vol. 2",
+			"titles": [
+				{"searchTerm": "Dynasty Warriors Vol. 2"},
+				{"searchTerm": "Shin Sangoku Musou - 2nd Evolution"}
+			]
+		},
+		{
+			"group": "FIFA 10",
+			"titles": [
+				{"searchTerm": "FIFA 10"},
+				{"searchTerm": "FIFA 10 - World Class Soccer"}
+			]
+		},
+		{
+			"group": "FIFA 11",
+			"titles": [
+				{"searchTerm": "FIFA 11 (Platinum Edition)"},
+				{"searchTerm": "FIFA 11 - World Class Soccer"}
+			]
+		},
+		{
+			"group": "FIFA 12",
+			"titles": [
+				{"searchTerm": "FIFA 12"},
+				{"searchTerm": "FIFA 12 - World Class Soccer"}
+			]
+		},
+		{
+			"group": "FIFA 14",
+			"titles": [
+				{"searchTerm": "FIFA 14"},
+				{"searchTerm": "FIFA 14 - World Class Soccer"}
+			]
+		},
+		{
+			"group": "FIFA Soccer 13",
+			"titles": [
+				{"searchTerm": "FIFA Soccer 13"},
+				{"searchTerm": "FIFA 13"},
+				{"searchTerm": "FIFA 13 - World Class Soccer"}
+			]
+		},
+		{
+			"group": "Final Approach 2 - 1st Priority Portable",
+			"titles": [
+				{"searchTerm": "Final Approach 2 - 1st Priority Portable"},
+				{"searchTerm": "Final Approach 2 - 1st Priority Portable (Limited Edition)", "priority": 2}
+			]
+		},
+		{
+			"group": "Fullmetal Alchemist - Brotherhood",
+			"titles": [
+				{"searchTerm": "Fullmetal Alchemist - Brotherhood"},
+				{"searchTerm": "Hagane no Renkinjutsushi - Fullmetal Alchemist - Senaka o Takuseshi Mono"}
+			]
+		},
+		{
+			"group": "Heart no Kuni no Alice Anniversary Ver. - Wonderful Wonder World",
+			"titles": [
+				{"searchTerm": "Heart no Kuni no Alice Anniversary Ver. - Wonderful Wonder World"},
+				{"searchTerm": "Heart no Kuni no Alice", "priority": 2}
+			]
+		},
+		{
+			"group": "King of Fighters Collection, The - The Orochi Saga",
+			"titles": [
+				{"searchTerm": "King of Fighters Collection, The - The Orochi Saga"},
+				{"searchTerm": "King of Fighters Portable '94-'98, The - Chapter of Orochi"}
+			]
+		},
+		{
+			"group": "Koukaku Kidoutai - Stand Alone Complex",
+			"titles": [
+				{"searchTerm": "Koukaku Kidoutai - Stand Alone Complex"},
+				{"searchTerm": "Koukaku Kidoutai - Stand Alone Complex - Kariudo no Ryouiki"}
+			]
+		},
+		{
+			"group": "Lost Regnum - Makutsu no Koutei",
+			"titles": [
+				{"searchTerm": "Lost Regnum - Makutsu no Koutei"},
+				{"searchTerm": "Lost Regnum - The Emperor of Theives"}
+			]
+		},
+		{
+			"group": "Magic Sudoku",
+			"titles": [
+				{"searchTerm": "Magic Sudoku"},
+				{"searchTerm": "Sudoku & Nemonemo Logic"}
+			]
+		},
+		{
+			"group": "Moeru Mahjong - Moejong",
+			"titles": [
+				{"searchTerm": "Moeru Mahjong - Moejong (Premium Box)"},
+				{"searchTerm": "Moeru Mahjong - Moejong", "priority": 2}
+			]
+		},
+		{
+			"group": "MotorStorm - Arctic Edge",
+			"titles": [
+				{"searchTerm": "MotorStorm - Arctic Edge"},
+				{"searchTerm": "MotorStorm - Raging Ice"}
+			]
+		},
+		{
+			"group": "Pro Evolution Soccer 2013",
+			"titles": [
+				{"searchTerm": "Pro Evolution Soccer 2013"},
+				{"searchTerm": "World Soccer Winning Eleven 2013"}
+			]
+		},
+		{
+			"group": "Pursuit Force",
+			"titles": [
+				{"searchTerm": "Pursuit Force"},
+				{"searchTerm": "Pursuit Force - Daitsuiseki"}
+			]
+		},
+		{
+			"group": "Ratatouille",
+			"titles": [
+				{"searchTerm": "Ratatouille"},
+				{"searchTerm": "Ratatooee"}
+			]
+		},
+		{
+			"group": "Ratchet & Clank - Size Matters",
+			"titles": [
+				{"searchTerm": "Ratchet & Clank - Size Matters"},
+				{"searchTerm": "Ratchet & Clank 5 - Gekitotsu! Dodeka Ginga no MiriMiri Gundan"}
+			]
+		},
+		{
+			"group": "Resistance - Retribution",
+			"titles": [
+				{"searchTerm": "Resistance - Retribution"},
+				{"searchTerm": "Resistance - Houfuku no Toki"}
+			]
+		},
+		{
+			"group": "Sega Rally Revo",
+			"titles": [
+				{"searchTerm": "Sega Rally Revo"},
+				{"searchTerm": "Sega Rally"}
+			]
+		},
+		{
+			"group": "Shinseiki Evangelion 2 - Tsukurareshi Sekai - Another Cases",
+			"titles": [
+				{"searchTerm": "Shinseiki Evangelion 2 - Tsukurareshi Sekai - Another Cases (10 Shuunen Kinen Memorial Box)"},
+				{"searchTerm": "Shinseiki Evangelion 2 - Tsukurareshi Sekai - Another Cases", "priority": 2}
+			]
+		},
+		{
+			"group": "Sims 2, The",
+			"titles": [
+				{"searchTerm": "Sims 2, The"},
+				{"searchTerm": "Sims 2, The - Dr. Dominic no Inbou"}
+			]
+		},
+		{
+			"group": "Strikers 1945 Plus Portable",
+			"titles": [
+				{"searchTerm": "Strikers 1945 Plus Portable"},
+				{"searchTerm": "Strikers 1945 Plus"}
+			]
+		},
+		{
+			"group": "Up",
+			"titles": [
+				{"searchTerm": "Up"},
+				{"searchTerm": "Psila Ston Ourano"}
+			]
+		},
+		{
+			"group": "Warriors Orochi",
+			"titles": [
+				{"searchTerm": "Warriors Orochi"},
+				{"searchTerm": "Musou Orochi"}
+			]
+		},
+		{
+			"group": "WTF - Work Time Fun",
+			"titles": [
+				{"searchTerm": "WTF - Work Time Fun"},
+				{"searchTerm": "Beit Hell 2000"}
+			]
+		}
+	]
 }

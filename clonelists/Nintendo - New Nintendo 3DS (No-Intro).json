@@ -1,20 +1,24 @@
 {
 	"description": {
-		"name": [
-			"Nintendo - New Nintendo 3DS"
-		],
-		"last updated": "9 April 2021",
-		"minimum version": "2.00"
+		"name": "Nintendo - New Nintendo 3DS (No-Intro)",
+		"lastUpdated": "9 April 2021",
+		"minimumVersion": "2.00"
 	},
 
-	"renames": {
-		"Fire Emblem Warriors": [
-			{"title": "Fire Emblem Warriors"},
-			{"title": "Fire Emblem Musou"}
-		],
-		"Xenoblade Chronicles 3D": [
-			{"title": "Xenoblade Chronicles 3D"},
-			{"title": "Xenoblade"}
-		]
-	}
+	"variants": [
+		{
+			"group": "Fire Emblem Warriors",
+			"titles": [
+				{"searchTerm": "Fire Emblem Warriors"},
+				{"searchTerm": "Fire Emblem Musou"}
+			]
+		},
+		{
+			"group": "Xenoblade Chronicles 3D",
+			"titles": [
+				{"searchTerm": "Xenoblade Chronicles 3D"},
+				{"searchTerm": "Xenoblade"}
+			]
+		}
+	]
 }

@@ -1,27 +1,32 @@
 {
 	"description": {
-		"name": [
-			"Atari - 5200"
-		],
-		"last updated": "22 October 2021",
-		"minimum version": "2.00"
+		"name": "Atari - 5200 (No-Intro)",
+		"lastUpdated": "22 October 2021",
+		"minimumVersion": "2.00"
 	},
 
-	"categories": {
-		"Atari PAM.*": {
-			"match": "regex",
+	"categories": [
+		{
+			"searchTerm": "Atari PAM.*",
+			"nameType": "regex",
 			"categories": ["Applications"]
 		}
-	},
+	],
 
-	"renames": {
-		"Rescue on Fractalus!": [
-			{"title": "Rescue on Fractalus!"},
-			{"title": "Behind Jaggi Lines!", "priority": 2}
-		],
-		"Super Pac-Man": [
-			{"title": "Super Pac-Man"},
-			{"title": "Super Pacman", "priority": 2}
-		]
-	}
+	"variants": [
+		{
+			"group": "Rescue on Fractalus!",
+			"titles": [
+				{"searchTerm": "Rescue on Fractalus!"},
+				{"searchTerm": "Behind Jaggi Lines!", "priority": 2}
+			]
+		},
+		{
+			"group": "Super Pac-Man",
+			"titles": [
+				{"searchTerm": "Super Pac-Man"},
+				{"searchTerm": "Super Pacman", "priority": 2}
+			]
+		}
+	]
 }

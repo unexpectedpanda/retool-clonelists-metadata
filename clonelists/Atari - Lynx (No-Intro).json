@@ -1,16 +1,15 @@
 {
 	"description": {
-		"name": [
-			"Atari - Lynx"
-		],
-		"last updated": "22 October 2021",
-		"minimum version": "0.92"
+		"name": "Atari - Lynx (No-Intro)",
+		"lastUpdated": "22 October 2021",
+		"minimumVersion": "0.92"
 	},
 
-	"categories": {
-		"Lynx II Production Test Program": {
-			"match": "short",
+	"categories": [
+		{
+			"searchTerm": "Lynx II Production Test Program",
+			"nameType": "short",
 			"categories": ["Applications"]
 		}
-	}
+	]
 }
