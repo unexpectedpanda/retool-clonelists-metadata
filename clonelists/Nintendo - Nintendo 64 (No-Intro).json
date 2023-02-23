@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Nintendo - Nintendo 64 (No-Intro)",
-		"lastUpdated": "30 June 2022",
+		"lastUpdated": "15 January 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -33,6 +33,13 @@
 
 	"variants": [
 		{
+			"group": "40 Winks",
+			"titles": [
+				{"searchTerm": "40 Winks"},
+				{"searchTerm": "40 Winks (StoneAgeGamer Everdrive 64 ROM)"}
+			]
+		},
+		{
 			"group": "AeroFighters Assault",
 			"titles": [
 				{"searchTerm": "AeroFighters Assault"},
@@ -42,15 +49,15 @@
 		{
 			"group": "Airboarder 64",
 			"titles": [
-				{"searchTerm": "Airboarder 64"},
-				{"searchTerm": "Air Boarder 64"}
+				{"searchTerm": "Air Boarder 64"},
+				{"searchTerm": "Airboarder 64"}
 			]
 		},
 		{
 			"group": "All Star Tennis 99",
 			"titles": [
-				{"searchTerm": "All Star Tennis 99"},
-				{"searchTerm": "All Star Tennis '99"}
+				{"searchTerm": "All Star Tennis '99"},
+				{"searchTerm": "All Star Tennis 99"}
 			]
 		},
 		{
@@ -113,15 +120,15 @@
 		{
 			"group": "Bomberman 64",
 			"titles": [
-				{"searchTerm": "Bomberman 64"},
-				{"searchTerm": "Baku Bomberman"}
+				{"searchTerm": "Baku Bomberman"},
+				{"searchTerm": "Bomberman 64"}
 			]
 		},
 		{
 			"group": "Bomberman 64 - The Second Attack!",
 			"titles": [
-				{"searchTerm": "Bomberman 64 - The Second Attack!"},
-				{"searchTerm": "Baku Bomberman 2"}
+				{"searchTerm": "Baku Bomberman 2"},
+				{"searchTerm": "Bomberman 64 - The Second Attack!"}
 			]
 		},
 		{
@@ -142,15 +149,15 @@
 		{
 			"group": "Castlevania",
 			"titles": [
-				{"searchTerm": "Castlevania"},
-				{"searchTerm": "Akumajou Dracula Mokushiroku - Real Action Adventure"}
+				{"searchTerm": "Akumajou Dracula Mokushiroku - Real Action Adventure"},
+				{"searchTerm": "Castlevania"}
 			]
 		},
 		{
 			"group": "Castlevania - Legacy of Darkness",
 			"titles": [
-				{"searchTerm": "Castlevania - Legacy of Darkness"},
-				{"searchTerm": "Akumajou Dracula Mokushiroku Gaiden - Legend of Cornell"}
+				{"searchTerm": "Akumajou Dracula Mokushiroku Gaiden - Legend of Cornell"},
+				{"searchTerm": "Castlevania - Legacy of Darkness"}
 			]
 		},
 		{
@@ -198,15 +205,15 @@
 		{
 			"group": "Duck Dodgers Starring Daffy Duck",
 			"titles": [
-				{"searchTerm": "Duck Dodgers Starring Daffy Duck"},
-				{"searchTerm": "Daffy Duck Starring as Duck Dodgers"}
+				{"searchTerm": "Daffy Duck Starring as Duck Dodgers"},
+				{"searchTerm": "Duck Dodgers Starring Daffy Duck"}
 			]
 		},
 		{
 			"group": "F-Zero X",
 			"titles": [
 				{"searchTerm": "F-Zero X"},
-				{"searchTerm": "F-Zero X (The Legend of Zelda Ocarina of Time Overdump)", "priority": 2}
+				{"searchTerm": "F-Zero X (The Legend of Zelda - Ocarina of Time leftover data)", "priority": 2}
 			]
 		},
 		{
@@ -226,8 +233,8 @@
 		{
 			"group": "FIFA Soccer 64",
 			"titles": [
-				{"searchTerm": "FIFA Soccer 64"},
-				{"searchTerm": "FIFA 64"}
+				{"searchTerm": "FIFA 64"},
+				{"searchTerm": "FIFA Soccer 64"}
 			]
 		},
 		{
@@ -240,8 +247,8 @@
 		{
 			"group": "Fighters Destiny",
 			"titles": [
-				{"searchTerm": "Fighters Destiny"},
-				{"searchTerm": "Fighting Cup"}
+				{"searchTerm": "Fighting Cup"},
+				{"searchTerm": "Fighters Destiny"}
 			]
 		},
 		{
@@ -254,37 +261,37 @@
 		{
 			"group": "Forsaken 64",
 			"titles": [
-				{"searchTerm": "Forsaken 64"},
-				{"searchTerm": "Forsaken"}
+				{"searchTerm": "Forsaken"},
+				{"searchTerm": "Forsaken 64"}
 			]
 		},
 		{
 			"group": "GameShark Pro",
 			"titles": [
-				{"searchTerm": "GameShark Pro"},
-				{"searchTerm": "Action Replay Pro 64"}
+				{"searchTerm": "Action Replay Pro 64"},
+				{"searchTerm": "GameShark Pro"}
 			]
 		},
 		{
 			"group": "Goemon's Great Adventure",
 			"titles": [
-				{"searchTerm": "Goemon's Great Adventure"},
 				{"searchTerm": "Ganbare Goemon - Dero Dero Douchuu Obake Tenkomori"},
+				{"searchTerm": "Goemon's Great Adventure"},
 				{"searchTerm": "Mystical Ninja 2 Starring Goemon"}
 			]
 		},
 		{
 			"group": "GT 64 - Championship Edition",
 			"titles": [
-				{"searchTerm": "GT 64 - Championship Edition"},
-				{"searchTerm": "City-Tour GP - Zen-Nihon GT Senshuken"}
+				{"searchTerm": "City-Tour GP - Zen-Nihon GT Senshuken"},
+				{"searchTerm": "GT 64 - Championship Edition"}
 			]
 		},
 		{
 			"group": "Harvest Moon 64",
 			"titles": [
-				{"searchTerm": "Harvest Moon 64"},
-				{"searchTerm": "Bokujou Monogatari 2"}
+				{"searchTerm": "Bokujou Monogatari 2"},
+				{"searchTerm": "Harvest Moon 64"}
 			]
 		},
 		{
@@ -326,9 +333,9 @@
 		{
 			"group": "International Track & Field 2000",
 			"titles": [
-				{"searchTerm": "International Track & Field 2000"},
 				{"searchTerm": "Ganbare! Nippon! Olympics 2000"},
-				{"searchTerm": "International Track & Field - Summer Games"}
+				{"searchTerm": "International Track & Field - Summer Games"},
+				{"searchTerm": "International Track & Field 2000"}
 			]
 		},
 		{
@@ -341,8 +348,8 @@
 		{
 			"group": "Kirby 64 - The Crystal Shards",
 			"titles": [
-				{"searchTerm": "Kirby 64 - The Crystal Shards"},
-				{"searchTerm": "Hoshi no Kirby 64"}
+				{"searchTerm": "Hoshi no Kirby 64"},
+				{"searchTerm": "Kirby 64 - The Crystal Shards"}
 			]
 		},
 		{
@@ -370,16 +377,16 @@
 		{
 			"group": "Quest 64",
 			"titles": [
-				{"searchTerm": "Quest 64"},
 				{"searchTerm": "Eltale Monsters"},
-				{"searchTerm": "Holy Magic Century"}
+				{"searchTerm": "Holy Magic Century"},
+				{"searchTerm": "Quest 64"}
 			]
 		},
 		{
 			"group": "Magical Tetris Challenge",
 			"titles": [
-				{"searchTerm": "Magical Tetris Challenge"},
 				{"searchTerm": "Defi au Tetris Magique"},
+				{"searchTerm": "Magical Tetris Challenge"},
 				{"searchTerm": "Magical Tetris Challenge featuring Mickey"}
 			]
 		},
@@ -438,8 +445,8 @@
 		{
 			"group": "Mystical Ninja Starring Goemon",
 			"titles": [
-				{"searchTerm": "Mystical Ninja Starring Goemon"},
-				{"searchTerm": "Ganbare Goemon - Neo Momoyama Bakufu no Odori"}
+				{"searchTerm": "Ganbare Goemon - Neo Momoyama Bakufu no Odori"},
+				{"searchTerm": "Mystical Ninja Starring Goemon"}
 			]
 		},
 		{
@@ -467,22 +474,22 @@
 		{
 			"group": "Nagano Winter Olympics '98",
 			"titles": [
-				{"searchTerm": "Nagano Winter Olympics '98"},
-				{"searchTerm": "Hyper Olympics in Nagano 64"}
+				{"searchTerm": "Hyper Olympics in Nagano 64"},
+				{"searchTerm": "Nagano Winter Olympics '98"}
 			]
 		},
 		{
 			"group": "Paper Mario",
 			"titles": [
-				{"searchTerm": "Paper Mario"},
-				{"searchTerm": "Mario Story"}
+				{"searchTerm": "Mario Story"},
+				{"searchTerm": "Paper Mario"}
 			]
 		},
 		{
 			"group": "Penny Racers",
 			"titles": [
-				{"searchTerm": "Penny Racers"},
-				{"searchTerm": "Choro Q 64"}
+				{"searchTerm": "Choro Q 64"},
+				{"searchTerm": "Penny Racers"}
 			]
 		},
 		{
@@ -495,53 +502,53 @@
 		{
 			"group": "Rally Challenge 2000",
 			"titles": [
-				{"searchTerm": "Rally Challenge 2000"},
-				{"searchTerm": "Rally '99"}
+				{"searchTerm": "Rally '99"},
+				{"searchTerm": "Rally Challenge 2000"}
 			]
 		},
 		{
 			"group": "Rat Attack!",
 			"titles": [
-				{"searchTerm": "Rat Attack!"},
-				{"searchTerm": "Rat Attack"}
+				{"searchTerm": "Rat Attack"},
+				{"searchTerm": "Rat Attack!"}
 			]
 		},
 		{
 			"group": "Resident Evil 2",
 			"titles": [
-				{"searchTerm": "Resident Evil 2"},
-				{"searchTerm": "Biohazard 2"}
+				{"searchTerm": "Biohazard 2"},
+				{"searchTerm": "Resident Evil 2"}
 			]
 		},
 		{
 			"group": "Rugrats - Scavenger Hunt",
 			"titles": [
-				{"searchTerm": "Rugrats - Scavenger Hunt"},
 				{"searchTerm": "Razmoket, Les - La Chasse aux Tresors"},
 				{"searchTerm": "Rugrats - Die grosse Schatzsuche"},
+				{"searchTerm": "Rugrats - Scavenger Hunt"},
 				{"searchTerm": "Rugrats - Treasure Hunt"}
 			]
 		},
 		{
 			"group": "Snowboard Kids",
 			"titles": [
-				{"searchTerm": "Snowboard Kids"},
-				{"searchTerm": "Snobo Kids"}
+				{"searchTerm": "Snobo Kids"},
+				{"searchTerm": "Snowboard Kids"}
 			]
 		},
 		{
 			"group": "Snowboard Kids 2",
 			"titles": [
-				{"searchTerm": "Snowboard Kids 2"},
-				{"searchTerm": "Chou Snobo Kids"}
+				{"searchTerm": "Chou Snobo Kids"},
+				{"searchTerm": "Snowboard Kids 2"}
 			]
 		},
 		{
 			"group": "Star Fox 64",
 			"titles": [
-				{"searchTerm": "Star Fox 64"},
 				{"searchTerm": "Lylat Wars"},
-				{"searchTerm": "Lylatwars"}
+				{"searchTerm": "Lylatwars"},
+				{"searchTerm": "Star Fox 64"}
 			]
 		},
 		{
@@ -561,15 +568,15 @@
 		{
 			"group": "Super Smash Bros.",
 			"titles": [
-				{"searchTerm": "Super Smash Bros."},
-				{"searchTerm": "Nintendo All-Star! Dairantou Smash Brothers"}
+				{"searchTerm": "Nintendo All-Star! Dairantou Smash Brothers"},
+				{"searchTerm": "Super Smash Bros."}
 			]
 		},
 		{
 			"group": "Superman - The New Superman Aventures",
 			"titles": [
-				{"searchTerm": "Superman - The New Superman Aventures"},
-				{"searchTerm": "Superman"}
+				{"searchTerm": "Superman"},
+				{"searchTerm": "Superman - The New Superman Aventures"}
 			]
 		},
 		{
@@ -603,30 +610,30 @@
 		{
 			"group": "Toy Story 2 - Buzz Lightyear to the Rescue!",
 			"titles": [
-				{"searchTerm": "Toy Story 2 - Buzz Lightyear to the Rescue!"},
 				{"searchTerm": "Toy Story 2 - Buzz l'Eclair a la Rescousse!"},
+				{"searchTerm": "Toy Story 2 - Buzz Lightyear to the Rescue!"},
 				{"searchTerm": "Toy Story 2 - Captain Buzz Lightyear auf Rettungsmission!"}
 			]
 		},
 		{
 			"group": "Transformers - Beast Wars Transmetals",
 			"titles": [
-				{"searchTerm": "Transformers - Beast Wars Transmetals"},
-				{"searchTerm": "Transformers - Beast Wars Metals 64"}
+				{"searchTerm": "Transformers - Beast Wars Metals 64"},
+				{"searchTerm": "Transformers - Beast Wars Transmetals"}
 			]
 		},
 		{
 			"group": "Turok - Dinosaur Hunter",
 			"titles": [
-				{"searchTerm": "Turok - Dinosaur Hunter"},
-				{"searchTerm": "Jikuu Senshi Turok"}
+				{"searchTerm": "Jikuu Senshi Turok"},
+				{"searchTerm": "Turok - Dinosaur Hunter"}
 			]
 		},
 		{
 			"group": "Turok - Rage Wars",
 			"titles": [
-				{"searchTerm": "Turok - Rage Wars"},
-				{"searchTerm": "Turok - Legenden des Verlorenen Landes"}
+				{"searchTerm": "Turok - Legenden des Verlorenen Landes"},
+				{"searchTerm": "Turok - Rage Wars"}
 			]
 		},
 		{
@@ -639,17 +646,17 @@
 		{
 			"group": "Twisted Edge - Extreme Snowboarding",
 			"titles": [
-				{"searchTerm": "Twisted Edge - Extreme Snowboarding"},
 				{"searchTerm": "King Hill 64 - Extreme Snowboarding"},
+				{"searchTerm": "Twisted Edge - Extreme Snowboarding"},
 				{"searchTerm": "Twisted Edge - Snowboarding"}
 			]
 		},
 		{
 			"group": "WinBack - Covert Operations",
 			"titles": [
-				{"searchTerm": "WinBack - Covert Operations"},
 				{"searchTerm": "Operation WinBack"},
-				{"searchTerm": "WinBack"}
+				{"searchTerm": "WinBack"},
+				{"searchTerm": "WinBack - Covert Operations"}
 			]
 		},
 		{

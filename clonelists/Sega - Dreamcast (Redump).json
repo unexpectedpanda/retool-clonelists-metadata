@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Sega - Dreamcast (Redump)",
-		"lastUpdated": "9 July 2022",
+		"lastUpdated": "21 January 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -12,7 +12,7 @@
 			"categories": ["Audio"]
 		},
 		{
-			"searchTerm": "D2 - Original Sound Track",
+			"searchTerm": "D2 - Original Sound Track (Disc 2) (MilCD)",
 			"nameType": "short",
 			"categories": ["Audio"]
 		},
@@ -69,7 +69,7 @@
 
 	"overrides": [
 		{
-			"searchTerm": "Virtua Striker 2 Ver\\. 2000\\.1 \\((Europe|Japan)\\)(.*)?",
+			"searchTerm": "^Virtua Striker 2 Ver\\. 2000\\.1 \\((Europe|Japan)\\)(.*)?",
 			"nameType": "regex",
 			"newGroup": "Virtua Striker 2"
 		}
@@ -86,15 +86,15 @@
 		{
 			"group": "AeroWings",
 			"titles": [
-				{"searchTerm": "AeroWings"},
-				{"searchTerm": "Aero Dancing featuring Blue Impulse"}
+				{"searchTerm": "Aero Dancing featuring Blue Impulse"},
+				{"searchTerm": "AeroWings"}
 			]
 		},
 		{
 			"group": "AeroWings 2 - Airstrike",
 			"titles": [
-				{"searchTerm": "AeroWings 2 - Airstrike"},
-				{"searchTerm": "Aero Dancing F"}
+				{"searchTerm": "Aero Dancing F"},
+				{"searchTerm": "AeroWings 2 - Airstrike"}
 			]
 		},
 		{
@@ -116,8 +116,8 @@
 		{
 			"group": "Bangai-O",
 			"titles": [
-				{"searchTerm": "Bangai-O"},
-				{"searchTerm": "Bakuretsu Muteki Bangaioh"}
+				{"searchTerm": "Bakuretsu Muteki Bangaioh"},
+				{"searchTerm": "Bangai-O"}
 			]
 		},
 		{
@@ -144,8 +144,8 @@
 		{
 			"group": "ChuChu Rocket!",
 			"titles": [
-				{"searchTerm": "ChuChu Rocket!"},
-				{"searchTerm": "Chu-Chu Rocket!"}
+				{"searchTerm": "Chu-Chu Rocket!"},
+				{"searchTerm": "ChuChu Rocket!"}
 			]
 		},
 		{
@@ -165,29 +165,29 @@
 		{
 			"group": "D2 (Disc 1)",
 			"titles": [
-				{"searchTerm": "D2 (Disc 1)"},
-				{"searchTerm": "D2 - D no Shokutaku 2 (Disc 1)"}
+				{"searchTerm": "D2 - D no Shokutaku 2 (Disc 1)"},
+				{"searchTerm": "D2 (Disc 1)"}
 			]
 		},
 		{
 			"group": "D2 (Disc 2)",
 			"titles": [
-				{"searchTerm": "D2 (Disc 2)"},
-				{"searchTerm": "D2 - D no Shokutaku 2 (Disc 2)"}
+				{"searchTerm": "D2 - D no Shokutaku 2 (Disc 2)"},
+				{"searchTerm": "D2 (Disc 2)"}
 			]
 		},
 		{
 			"group": "D2 (Disc 3)",
 			"titles": [
-				{"searchTerm": "D2 (Disc 3)"},
-				{"searchTerm": "D2 - D no Shokutaku 2 (Disc 3)"}
+				{"searchTerm": "D2 - D no Shokutaku 2 (Disc 3)"},
+				{"searchTerm": "D2 (Disc 3)"}
 			]
 		},
 		{
 			"group": "D2 (Disc 4)",
 			"titles": [
-				{"searchTerm": "D2 (Disc 4)"},
-				{"searchTerm": "D2 - D no Shokutaku 2 (Disc 4)"}
+				{"searchTerm": "D2 - D no Shokutaku 2 (Disc 4)"},
+				{"searchTerm": "D2 (Disc 4)"}
 			]
 		},
 		{
@@ -208,16 +208,16 @@
 		{
 			"group": "Disney-Pixar Toy Story 2 - Buzz Lightyear to the Rescue!",
 			"titles": [
-				{"searchTerm": "Disney-Pixar Toy Story 2 - Buzz Lightyear to the Rescue!"},
 				{"searchTerm": "Disney-Pixar Toy Story 2 - Buzz l'Eclair a la Rescousse!"},
-				{"searchTerm": "Disney-Pixar Toy Story 2 - Buzz Lightyear eilt zur Hilfe!"}
+				{"searchTerm": "Disney-Pixar Toy Story 2 - Buzz Lightyear eilt zur Hilfe!"},
+				{"searchTerm": "Disney-Pixar Toy Story 2 - Buzz Lightyear to the Rescue!"}
 			]
 		},
 		{
 			"group": "Disney's 102 Dalmatians - Puppies to the Rescue",
 			"titles": [
-				{"searchTerm": "Disney's 102 Dalmatians - Puppies to the Rescue"},
-				{"searchTerm": "102 Dalmatians - Puppies to the Rescue"}
+				{"searchTerm": "102 Dalmatians - Puppies to the Rescue"},
+				{"searchTerm": "Disney's 102 Dalmatians - Puppies to the Rescue"}
 			]
 		},
 		{
@@ -237,15 +237,15 @@
 		{
 			"group": "Ducati World - Racing Challenge",
 			"titles": [
-				{"searchTerm": "Ducati World - Racing Challenge"},
-				{"searchTerm": "Ducati World"}
+				{"searchTerm": "Ducati World"},
+				{"searchTerm": "Ducati World - Racing Challenge"}
 			]
 		},
 		{
 			"group": "Dynamite Cop!",
 			"titles": [
-				{"searchTerm": "Dynamite Cop!"},
 				{"searchTerm": "Dynamite Cop"},
+				{"searchTerm": "Dynamite Cop!"},
 				{"searchTerm": "Dynamite Deka 2"}
 			]
 		},
@@ -290,8 +290,8 @@
 		{
 			"group": "F355 Challenge - Passione Rossa",
 			"titles": [
-				{"searchTerm": "F355 Challenge - Passione Rossa"},
-				{"searchTerm": "F355 Challenge"}
+				{"searchTerm": "F355 Challenge"},
+				{"searchTerm": "F355 Challenge - Passione Rossa"}
 			]
 		},
 		{
@@ -316,6 +316,13 @@
 			]
 		},
 		{
+			"group": "Ghost Blade",
+			"titles": [
+				{"searchTerm": "Ghost Blade"},
+				{"searchTerm": "Ghost Blade (Limited Edition)"}
+			]
+		},
+		{
 			"group": "Incoming",
 			"titles": [
 				{"searchTerm": "Incoming"},
@@ -325,15 +332,15 @@
 		{
 			"group": "Industrial Spy - Operation Espionage",
 			"titles": [
-				{"searchTerm": "Industrial Spy - Operation Espionage"},
-				{"searchTerm": "Espion-Age-nts"}
+				{"searchTerm": "Espion-Age-nts"},
+				{"searchTerm": "Industrial Spy - Operation Espionage"}
 			]
 		},
 		{
 			"group": "Iron Aces",
 			"titles": [
-				{"searchTerm": "Iron Aces"},
-				{"searchTerm": "Imperial no Taka - Fighter of Zero"}
+				{"searchTerm": "Imperial no Taka - Fighter of Zero"},
+				{"searchTerm": "Iron Aces"}
 			]
 		},
 		{
@@ -364,8 +371,8 @@
 		{
 			"group": "Last Blade 2, The - Heart of the Samurai",
 			"titles": [
-				{"searchTerm": "Last Blade 2, The - Heart of the Samurai"},
-				{"searchTerm": "Bakumatsu Roman Daini Maku - Gekka no Kenshi - Final Edition"}
+				{"searchTerm": "Bakumatsu Roman Daini Maku - Gekka no Kenshi - Final Edition"},
+				{"searchTerm": "Last Blade 2, The - Heart of the Samurai"}
 			]
 		},
 		{
@@ -387,22 +394,22 @@
 		{
 			"group": "Next Tetris, The - On-Line Edition",
 			"titles": [
-				{"searchTerm": "Next Tetris, The - On-Line Edition"},
-				{"searchTerm": "Next Tetris, The"}
+				{"searchTerm": "Next Tetris, The"},
+				{"searchTerm": "Next Tetris, The - On-Line Edition"}
 			]
 		},
 		{
 			"group": "Omikron - The Nomad Soul",
 			"titles": [
-				{"searchTerm": "Omikron - The Nomad Soul"},
-				{"searchTerm": "Nomad Soul, The"}
+				{"searchTerm": "Nomad Soul, The"},
+				{"searchTerm": "Omikron - The Nomad Soul"}
 			]
 		},
 		{
 			"group": "PenPen TriIcelon",
 			"titles": [
-				{"searchTerm": "PenPen TriIcelon"},
-				{"searchTerm": "PenPen"}
+				{"searchTerm": "PenPen"},
+				{"searchTerm": "PenPen TriIcelon"}
 			]
 		},
 		{
@@ -441,23 +448,23 @@
 		{
 			"group": "Project Justice",
 			"titles": [
-				{"searchTerm": "Project Justice"},
 				{"searchTerm": "Moero! Justice Gakuen"},
+				{"searchTerm": "Project Justice"},
 				{"searchTerm": "Project Justice - Rival Schools 2"}
 			]
 		},
 		{
 			"group": "Rayman 2 - The Great Escape",
 			"titles": [
-				{"searchTerm": "Rayman 2 - The Great Escape"},
-				{"searchTerm": "Rayman - Kaizokusen kara no Dasshutsu!"}
+				{"searchTerm": "Rayman - Kaizokusen kara no Dasshutsu!"},
+				{"searchTerm": "Rayman 2 - The Great Escape"}
 			]
 		},
 		{
 			"group": "Razor Freestyle Scooter",
 			"titles": [
-				{"searchTerm": "Razor Freestyle Scooter"},
-				{"searchTerm": "Freestyle Scooter"}
+				{"searchTerm": "Freestyle Scooter"},
+				{"searchTerm": "Razor Freestyle Scooter"}
 			]
 		},
 		{
@@ -477,57 +484,57 @@
 		{
 			"group": "Reel Fishing + Wild",
 			"titles": [
-				{"searchTerm": "Reel Fishing + Wild"},
-				{"searchTerm": "Fish Eyes + Wild"}
+				{"searchTerm": "Fish Eyes + Wild"},
+				{"searchTerm": "Reel Fishing + Wild"}
 			]
 		},
 		{
 			"group": "Resident Evil 2 (Disc 1)",
 			"titles": [
-				{"searchTerm": "Resident Evil 2 (Disc 1)"},
-				{"searchTerm": "Biohazard 2 - Value Plus (Disc 1)"}
+				{"searchTerm": "Biohazard 2 - Value Plus (Disc 1)"},
+				{"searchTerm": "Resident Evil 2 (Disc 1)"}
 			]
 		},
 		{
 			"group": "Resident Evil 2 (Disc 2)",
 			"titles": [
-				{"searchTerm": "Resident Evil 2 (Disc 2)"},
-				{"searchTerm": "Biohazard 2 - Value Plus (Disc 2)"}
+				{"searchTerm": "Biohazard 2 - Value Plus (Disc 2)"},
+				{"searchTerm": "Resident Evil 2 (Disc 2)"}
 			]
 		},
 		{
 			"group": "Resident Evil 3 - Nemesis",
 			"titles": [
-				{"searchTerm": "Resident Evil 3 - Nemesis"},
-				{"searchTerm": "Biohazard 3 - Last Escape"}
+				{"searchTerm": "Biohazard 3 - Last Escape"},
+				{"searchTerm": "Resident Evil 3 - Nemesis"}
 			]
 		},
 		{
 			"group": "Resident Evil - Code - Veronica (Disc 1)",
 			"titles": [
-				{"searchTerm": "Resident Evil - Code - Veronica (Disc 1)"},
-				{"searchTerm": "Biohazard - Code - Veronica (Disc 1)"}
+				{"searchTerm": "Biohazard - Code - Veronica (Disc 1)"},
+				{"searchTerm": "Resident Evil - Code - Veronica (Disc 1)"}
 			]
 		},
 		{
 			"group": "Resident Evil - Code - Veronica (Disc 2)",
 			"titles": [
-				{"searchTerm": "Resident Evil - Code - Veronica (Disc 2)"},
-				{"searchTerm": "Biohazard - Code - Veronica (Disc 2)"}
+				{"searchTerm": "Biohazard - Code - Veronica (Disc 2)"},
+				{"searchTerm": "Resident Evil - Code - Veronica (Disc 2)"}
 			]
 		},
 		{
 			"group": "Ring, The - Terror's Realm",
 			"titles": [
-				{"searchTerm": "Ring, The - Terror's Realm"},
-				{"searchTerm": "Ring, The"}
+				{"searchTerm": "Ring, The"},
+				{"searchTerm": "Ring, The - Terror's Realm"}
 			]
 		},
 		{
 			"group": "Rippin' Riders",
 			"titles": [
-				{"searchTerm": "Rippin' Riders"},
 				{"searchTerm": "Cool Boarders Burrrn!"},
+				{"searchTerm": "Rippin' Riders"},
 				{"searchTerm": "Snow Surfers"}
 			]
 		},
@@ -552,23 +559,23 @@
 		{
 			"group": "Seaman",
 			"titles": [
-				{"searchTerm": "Seaman"},
 				{"searchTerm": "Kindan no Pet - Seaman - Gasse Hakase no Jikken-tou"},
+				{"searchTerm": "Seaman"},
 				{"searchTerm": "Kindan no Pet - Seaman - Gasse Hakase no Jikken-tou (2001-nen Taiouban)", "priority": 2}
 			]
 		},
 		{
 			"group": "Sega Bass Fishing",
 			"titles": [
-				{"searchTerm": "Sega Bass Fishing"},
-				{"searchTerm": "Get Bass"}
+				{"searchTerm": "Get Bass"},
+				{"searchTerm": "Sega Bass Fishing"}
 			]
 		},
 		{
 			"group": "Sega Bass Fishing 2",
 			"titles": [
-				{"searchTerm": "Sega Bass Fishing 2"},
-				{"searchTerm": "Get Bass 2"}
+				{"searchTerm": "Get Bass 2"},
+				{"searchTerm": "Sega Bass Fishing 2"}
 			]
 		},
 		{
@@ -590,8 +597,8 @@
 		{
 			"group": "Seventh Cross Evolution",
 			"titles": [
-				{"searchTerm": "Seventh Cross Evolution"},
-				{"searchTerm": "Seventh Cross"}
+				{"searchTerm": "Seventh Cross"},
+				{"searchTerm": "Seventh Cross Evolution"}
 			]
 		},
 		{
@@ -629,15 +636,15 @@
 		{
 			"group": "Skies of Arcadia (Disc 1)",
 			"titles": [
-				{"searchTerm": "Skies of Arcadia (Disc 1)"},
-				{"searchTerm": "Eternal Arcadia (Disc 1)"}
+				{"searchTerm": "Eternal Arcadia (Disc 1)"},
+				{"searchTerm": "Skies of Arcadia (Disc 1)"}
 			]
 		},
 		{
 			"group": "Skies of Arcadia (Disc 2)",
 			"titles": [
-				{"searchTerm": "Skies of Arcadia (Disc 2)"},
-				{"searchTerm": "Eternal Arcadia (Disc 2)"}
+				{"searchTerm": "Eternal Arcadia (Disc 2)"},
+				{"searchTerm": "Skies of Arcadia (Disc 2)"}
 			]
 		},
 		{
@@ -699,45 +706,45 @@
 		{
 			"group": "Suzuki Alstare - Extreme Racing",
 			"titles": [
-				{"searchTerm": "Suzuki Alstare - Extreme Racing"},
-				{"searchTerm": "Redline Racer"}
+				{"searchTerm": "Redline Racer"},
+				{"searchTerm": "Suzuki Alstare - Extreme Racing"}
 			]
 		},
 		{
 			"group": "Sword of the Berserk - Guts' Rage",
 			"titles": [
-				{"searchTerm": "Sword of the Berserk - Guts' Rage"},
-				{"searchTerm": "Berserk - Millennium Falcon-hen - Wasurebana no Shou"}
+				{"searchTerm": "Berserk - Millennium Falcon-hen - Wasurebana no Shou"},
+				{"searchTerm": "Sword of the Berserk - Guts' Rage"}
 			]
 		},
 		{
 			"group": "Tech Romancer",
 			"titles": [
-				{"searchTerm": "Tech Romancer"},
 				{"searchTerm": "Choukou Senki Kikaioh for Matching Service"},
+				{"searchTerm": "Tech Romancer"},
 				{"searchTerm": "Choukou Senki Kikaioh", "priority": 2}
 			]
 		},
 		{
 			"group": "Tee Off",
 			"titles": [
-				{"searchTerm": "Tee Off"},
-				{"searchTerm": "Golf Shiyou yo"}
+				{"searchTerm": "Golf Shiyou yo"},
+				{"searchTerm": "Tee Off"}
 			]
 		},
 		{
 			"group": "Tennis 2K2",
 			"titles": [
-				{"searchTerm": "Tennis 2K2"},
 				{"searchTerm": "Power Smash 2 - Sega Professional Tennis"},
+				{"searchTerm": "Tennis 2K2"},
 				{"searchTerm": "Virtua Tennis 2 - Sega Professional Tennis"}
 			]
 		},
 		{
 			"group": "Test Drive Le Mans",
 			"titles": [
-				{"searchTerm": "Test Drive Le Mans"},
-				{"searchTerm": "Le Mans 24 Hours"}
+				{"searchTerm": "Le Mans 24 Hours"},
+				{"searchTerm": "Test Drive Le Mans"}
 			]
 		},
 		{
@@ -750,55 +757,55 @@
 		{
 			"group": "Time Stalkers",
 			"titles": [
-				{"searchTerm": "Time Stalkers"},
-				{"searchTerm": "Climax Landers"}
+				{"searchTerm": "Climax Landers"},
+				{"searchTerm": "Time Stalkers"}
 			]
 		},
 		{
 			"group": "TNN Motorsports Hardcore Heat",
 			"titles": [
-				{"searchTerm": "TNN Motorsports Hardcore Heat"},
-				{"searchTerm": "Buggy Heat"}
+				{"searchTerm": "Buggy Heat"},
+				{"searchTerm": "TNN Motorsports Hardcore Heat"}
 			]
 		},
 		{
 			"group": "Tokyo Xtreme Racer",
 			"titles": [
-				{"searchTerm": "Tokyo Xtreme Racer"},
 				{"searchTerm": "Shutokou Battle"},
-				{"searchTerm": "Tokyo Highway Challenge"}
+				{"searchTerm": "Tokyo Highway Challenge"},
+				{"searchTerm": "Tokyo Xtreme Racer"}
 			]
 		},
 		{
 			"group": "Tokyo Xtreme Racer 2",
 			"titles": [
-				{"searchTerm": "Tokyo Xtreme Racer 2"},
 				{"searchTerm": "Shutokou Battle 2"},
-				{"searchTerm": "Tokyo Highway Challenge 2"}
+				{"searchTerm": "Tokyo Highway Challenge 2"},
+				{"searchTerm": "Tokyo Xtreme Racer 2"}
 			]
 		},
 		{
 			"group": "Tom Clancy's Rainbow Six with Eagle Watch Missions",
 			"titles": [
-				{"searchTerm": "Tom Clancy's Rainbow Six with Eagle Watch Missions"},
-				{"searchTerm": "Tom Clancy's Rainbow Six incl. Eagle Watch Missions"}
+				{"searchTerm": "Tom Clancy's Rainbow Six incl. Eagle Watch Missions"},
+				{"searchTerm": "Tom Clancy's Rainbow Six with Eagle Watch Missions"}
 			]
 		},
 		{
 			"group": "Tomb Raider - The Last Revelation",
 			"titles": [
-				{"searchTerm": "Tomb Raider - The Last Revelation"},
 				{"searchTerm": "Tomb Raider - La Revelation Finale"},
+				{"searchTerm": "Tomb Raider - The Last Revelation"},
 				{"searchTerm": "Tomb Raider IV - The Last Revelation"}
 			]
 		},
 		{
 			"group": "Tomb Raider Chronicles",
 			"titles": [
-				{"searchTerm": "Tomb Raider Chronicles"},
-				{"searchTerm": "Tomb Raider Chronicles - La Leggenda di Lara Croft"},
 				{"searchTerm": "Tomb Raider - Die Chronik"},
-				{"searchTerm": "Tomb Raider - Sur les Traces de Lara Croft"}
+				{"searchTerm": "Tomb Raider - Sur les Traces de Lara Croft"},
+				{"searchTerm": "Tomb Raider Chronicles"},
+				{"searchTerm": "Tomb Raider Chronicles - La Leggenda di Lara Croft"}
 			]
 		},
 		{
@@ -811,15 +818,15 @@
 		{
 			"group": "Toy Commander",
 			"titles": [
-				{"searchTerm": "Toy Commander"},
-				{"searchTerm": "Totsugeki! Teketeke!! Toy Ranger"}
+				{"searchTerm": "Totsugeki! Teketeke!! Toy Ranger"},
+				{"searchTerm": "Toy Commander"}
 			]
 		},
 		{
 			"group": "Vigilante 8 - 2nd Offense",
 			"titles": [
-				{"searchTerm": "Vigilante 8 - 2nd Offense"},
-				{"searchTerm": "Vigilante 8 - 2nd Battle"}
+				{"searchTerm": "Vigilante 8 - 2nd Battle"},
+				{"searchTerm": "Vigilante 8 - 2nd Offense"}
 			]
 		},
 		{
@@ -832,23 +839,23 @@
 		{
 			"group": "Virtua Tennis",
 			"titles": [
-				{"searchTerm": "Virtua Tennis"},
 				{"searchTerm": "Power Smash - Sega Professional Tennis"},
+				{"searchTerm": "Virtua Tennis"},
 				{"searchTerm": "Virtua Tennis - Sega Professional Tennis"}
 			]
 		},
 		{
 			"group": "Who Wants to Be a Millionaire",
 			"titles": [
-				{"searchTerm": "Who Wants to Be a Millionaire"},
-				{"searchTerm": "Qui Veut Gagner des Millions"}
+				{"searchTerm": "Qui Veut Gagner des Millions"},
+				{"searchTerm": "Who Wants to Be a Millionaire"}
 			]
 		},
 		{
 			"group": "Xtreme Sports",
 			"titles": [
-				{"searchTerm": "Xtreme Sports"},
-				{"searchTerm": "Sega Extreme Sports"}
+				{"searchTerm": "Sega Extreme Sports"},
+				{"searchTerm": "Xtreme Sports"}
 			]
 		}
 	]

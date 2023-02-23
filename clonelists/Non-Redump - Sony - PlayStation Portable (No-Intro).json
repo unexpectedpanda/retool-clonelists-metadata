@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Non-Redump - Sony - PlayStation Portable (No-Intro)",
-		"lastUpdated": "23 July 2022",
+		"lastUpdated": "21 January 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -20,13 +20,6 @@
 
 	"variants": [
 		{
-			"group": "007 - From Russia with Love",
-			"titles": [
-				{"searchTerm": "007 - From Russia with Love"},
-				{"searchTerm": "007 - Russia Yori Ai o Komete"}
-			]
-		},
-		{
 			"group": "Bubble Bobble - Evolution",
 			"titles": [
 				{"searchTerm": "Bubble Bobble - Evolution"},
@@ -43,9 +36,9 @@
 		{
 			"group": "Cars",
 			"titles": [
-				{"searchTerm": "Cars"},
 				{"searchTerm": "Bilar"},
-				{"searchTerm": "Biler"}
+				{"searchTerm": "Biler"},
+				{"searchTerm": "Cars"}
 			]
 		},
 		{
@@ -53,13 +46,6 @@
 			"titles": [
 				{"searchTerm": "Coded Arms - Contagion"},
 				{"searchTerm": "Coded Gun - Contagion"}
-			]
-		},
-		{
-			"group": "Coded Soul - Uke Keigareshi Idea",
-			"titles": [
-				{"searchTerm": "Coded Soul - Uke Keigareshi Idea"},
-				{"searchTerm": "Coded Soul"}
 			]
 		},
 		{
@@ -72,8 +58,8 @@
 		{
 			"group": "Crash Tag Team Racing",
 			"titles": [
-				{"searchTerm": "Crash Tag Team Racing"},
-				{"searchTerm": "Crash Bandicoot - Gacchanko World"}
+				{"searchTerm": "Crash Bandicoot - Gacchanko World"},
+				{"searchTerm": "Crash Tag Team Racing"}
 			]
 		},
 		{
@@ -121,15 +107,8 @@
 		{
 			"group": "FIFA 11",
 			"titles": [
-				{"searchTerm": "FIFA 11 (Platinum Edition)"},
-				{"searchTerm": "FIFA 11 - World Class Soccer"}
-			]
-		},
-		{
-			"group": "FIFA 12",
-			"titles": [
-				{"searchTerm": "FIFA 12"},
-				{"searchTerm": "FIFA 12 - World Class Soccer"}
+				{"searchTerm": "FIFA 11 - World Class Soccer"},
+				{"searchTerm": "FIFA 11 (Platinum Edition)"}
 			]
 		},
 		{
@@ -142,9 +121,9 @@
 		{
 			"group": "FIFA Soccer 13",
 			"titles": [
-				{"searchTerm": "FIFA Soccer 13"},
 				{"searchTerm": "FIFA 13"},
-				{"searchTerm": "FIFA 13 - World Class Soccer"}
+				{"searchTerm": "FIFA 13 - World Class Soccer"},
+				{"searchTerm": "FIFA Soccer 13"}
 			]
 		},
 		{
@@ -152,20 +131,6 @@
 			"titles": [
 				{"searchTerm": "Final Approach 2 - 1st Priority Portable"},
 				{"searchTerm": "Final Approach 2 - 1st Priority Portable (Limited Edition)", "priority": 2}
-			]
-		},
-		{
-			"group": "Fullmetal Alchemist - Brotherhood",
-			"titles": [
-				{"searchTerm": "Fullmetal Alchemist - Brotherhood"},
-				{"searchTerm": "Hagane no Renkinjutsushi - Fullmetal Alchemist - Senaka o Takuseshi Mono"}
-			]
-		},
-		{
-			"group": "Heart no Kuni no Alice Anniversary Ver. - Wonderful Wonder World",
-			"titles": [
-				{"searchTerm": "Heart no Kuni no Alice Anniversary Ver. - Wonderful Wonder World"},
-				{"searchTerm": "Heart no Kuni no Alice", "priority": 2}
 			]
 		},
 		{
@@ -190,13 +155,6 @@
 			]
 		},
 		{
-			"group": "Magic Sudoku",
-			"titles": [
-				{"searchTerm": "Magic Sudoku"},
-				{"searchTerm": "Sudoku & Nemonemo Logic"}
-			]
-		},
-		{
 			"group": "Moeru Mahjong - Moejong",
 			"titles": [
 				{"searchTerm": "Moeru Mahjong - Moejong (Premium Box)"},
@@ -211,13 +169,6 @@
 			]
 		},
 		{
-			"group": "Pro Evolution Soccer 2013",
-			"titles": [
-				{"searchTerm": "Pro Evolution Soccer 2013"},
-				{"searchTerm": "World Soccer Winning Eleven 2013"}
-			]
-		},
-		{
 			"group": "Pursuit Force",
 			"titles": [
 				{"searchTerm": "Pursuit Force"},
@@ -227,8 +178,8 @@
 		{
 			"group": "Ratatouille",
 			"titles": [
-				{"searchTerm": "Ratatouille"},
-				{"searchTerm": "Ratatooee"}
+				{"searchTerm": "Ratatooee"},
+				{"searchTerm": "Ratatouille"}
 			]
 		},
 		{
@@ -241,22 +192,15 @@
 		{
 			"group": "Resistance - Retribution",
 			"titles": [
-				{"searchTerm": "Resistance - Retribution"},
-				{"searchTerm": "Resistance - Houfuku no Toki"}
+				{"searchTerm": "Resistance - Houfuku no Toki"},
+				{"searchTerm": "Resistance - Retribution"}
 			]
 		},
 		{
 			"group": "Sega Rally Revo",
 			"titles": [
-				{"searchTerm": "Sega Rally Revo"},
-				{"searchTerm": "Sega Rally"}
-			]
-		},
-		{
-			"group": "Shinseiki Evangelion 2 - Tsukurareshi Sekai - Another Cases",
-			"titles": [
-				{"searchTerm": "Shinseiki Evangelion 2 - Tsukurareshi Sekai - Another Cases (10 Shuunen Kinen Memorial Box)"},
-				{"searchTerm": "Shinseiki Evangelion 2 - Tsukurareshi Sekai - Another Cases", "priority": 2}
+				{"searchTerm": "Sega Rally"},
+				{"searchTerm": "Sega Rally Revo"}
 			]
 		},
 		{
@@ -269,29 +213,29 @@
 		{
 			"group": "Strikers 1945 Plus Portable",
 			"titles": [
-				{"searchTerm": "Strikers 1945 Plus Portable"},
-				{"searchTerm": "Strikers 1945 Plus"}
+				{"searchTerm": "Strikers 1945 Plus"},
+				{"searchTerm": "Strikers 1945 Plus Portable"}
 			]
 		},
 		{
 			"group": "Up",
 			"titles": [
-				{"searchTerm": "Up"},
-				{"searchTerm": "Psila Ston Ourano"}
+				{"searchTerm": "Psila Ston Ourano"},
+				{"searchTerm": "Up"}
 			]
 		},
 		{
 			"group": "Warriors Orochi",
 			"titles": [
-				{"searchTerm": "Warriors Orochi"},
-				{"searchTerm": "Musou Orochi"}
+				{"searchTerm": "Musou Orochi"},
+				{"searchTerm": "Warriors Orochi"}
 			]
 		},
 		{
 			"group": "WTF - Work Time Fun",
 			"titles": [
-				{"searchTerm": "WTF - Work Time Fun"},
-				{"searchTerm": "Beit Hell 2000"}
+				{"searchTerm": "Beit Hell 2000"},
+				{"searchTerm": "WTF - Work Time Fun"}
 			]
 		}
 	]

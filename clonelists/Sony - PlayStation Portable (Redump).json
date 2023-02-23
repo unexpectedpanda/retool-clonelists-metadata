@@ -48,7 +48,9 @@
 		"MLB 09 - The Show (Asia) (Sample)",
 		"Metal Gear Solid - Portable Ops (Korea)",
 		"NBA 08 (Asia) (Sample)",
-		"Network Utility Disc Ver. 1.00 (Korea)",
+		"NBA 10 - The Inside (Asia)",
+		"NBA Live 07 (Asia)",
+		"PES 2011 - Pro Evolution Soccer (Canada) (En,Fr)",
 		"Retail Sampler No. 3 for PSP (Europe)",
 		"SOCOM - U.S. Navy SEALs - Fireteam Bravo 2 (Korea)",
 		"Silhwang Powerful Pro Yagu 2011 (Korea)",
@@ -63,6 +65,20 @@
 
 	"variants": [
 		{
+			"group": "007 - From Russia with Love",
+			"titles": [
+				{"searchTerm": "007 - From Russia with Love"},
+				{"searchTerm": "007 - Russia yori Ai o Komete"}
+			]
+		},
+		{
+			"group": "2010 FIFA World Cup South Africa",
+			"titles": [
+				{"searchTerm": "2010 FIFA World Cup - Minami Africa Taikai"},
+				{"searchTerm": "2010 FIFA World Cup South Africa"}
+			]
+		},
+		{
 			"group": "Ace Combat - Joint Assault",
 			"titles": [
 				{"searchTerm": "Ace Combat - Joint Assault"},
@@ -72,8 +88,8 @@
 		{
 			"group": "Ape Escape - On the Loose",
 			"titles": [
-				{"searchTerm": "Ape Escape - On the Loose"},
 				{"searchTerm": "Ape Escape"},
+				{"searchTerm": "Ape Escape - On the Loose"},
 				{"searchTerm": "Piposarugetchu P"},
 				{"searchTerm": "Saru! Get You! P!"}
 			]
@@ -81,8 +97,8 @@
 		{
 			"group": "Ape Escape Academy",
 			"titles": [
-				{"searchTerm": "Ape Escape Academy"},
 				{"searchTerm": "Ape Academy"},
+				{"searchTerm": "Ape Escape Academy"},
 				{"searchTerm": "Piposaru Academia - Dossari! Saruge Daizenshuu"},
 				{"searchTerm": "Piposaru Academia - Sagomungchi Neungryeokpyeongga Wanjeonjeongbog"}
 			]
@@ -107,8 +123,8 @@
 		{
 			"group": "Armored Core - Formula Front Extreme Battle",
 			"titles": [
-				{"searchTerm": "Armored Core - Formula Front Extreme Battle"},
-				{"searchTerm": "Armored Core - Formula Front"}
+				{"searchTerm": "Armored Core - Formula Front"},
+				{"searchTerm": "Armored Core - Formula Front Extreme Battle"}
 			],
 			"supersets": [
 				{"searchTerm": "Armored Core - Formula Front International"}
@@ -133,6 +149,13 @@
 			"titles": [
 				{"searchTerm": "BlazBlue - Calamity Trigger"},
 				{"searchTerm": "BlazBlue - Calamity Trigger Portable"}
+			]
+		},
+		{
+			"group": "Bomberman",
+			"titles": [
+				{"searchTerm": "Bomberman"},
+				{"searchTerm": "Bomberman Portable"}
 			]
 		},
 		{
@@ -177,15 +200,15 @@
 		{
 			"group": "Buzz! Quiz World",
 			"titles": [
-				{"searchTerm": "Buzz! Quiz World"},
-				{"searchTerm": "Buzz! Concurso Universal"}
+				{"searchTerm": "Buzz! Concurso Universal"},
+				{"searchTerm": "Buzz! Quiz World"}
 			]
 		},
 		{
 			"group": "Capcom Classics Collection Reloaded",
 			"titles": [
-				{"searchTerm": "Capcom Classics Collection Reloaded"},
-				{"searchTerm": "Capcom Classics Collection"}
+				{"searchTerm": "Capcom Classics Collection"},
+				{"searchTerm": "Capcom Classics Collection Reloaded"}
 			]
 		},
 		{
@@ -199,8 +222,8 @@
 		{
 			"group": "Castlevania - The Dracula X Chronicles",
 			"titles": [
-				{"searchTerm": "Castlevania - The Dracula X Chronicles"},
-				{"searchTerm": "Akumajou Dracula X - Chronicle"}
+				{"searchTerm": "Akumajou Dracula X - Chronicle"},
+				{"searchTerm": "Castlevania - The Dracula X Chronicles"}
 			]
 		},
 		{
@@ -233,17 +256,31 @@
 			]
 		},
 		{
+			"group": "Coded Arms",
+			"titles": [
+				{"searchTerm": "Coded Arms"},
+				{"searchTerm": "Coded Gun"}
+			]
+		},
+		{
+			"group": "Coded Soul - Uketsugareshi Idea",
+			"titles": [
+				{"searchTerm": "Coded Soul - Gyeseungdoeneun Idea"},
+				{"searchTerm": "Coded Soul - Uketsugareshi Idea"}
+			]
+		},
+		{
 			"group": "Con, The",
 			"titles": [
-				{"searchTerm": "Con, The"},
-				{"searchTerm": "Arnaqueur, L'"}
+				{"searchTerm": "Arnaqueur, L'"},
+				{"searchTerm": "Con, The"}
 			]
 		},
 		{
 			"group": "Crimson Gem Saga",
 			"titles": [
-				{"searchTerm": "Crimson Gem Saga"},
-				{"searchTerm": "Astonishia Story 2"}
+				{"searchTerm": "Astonishia Story 2"},
+				{"searchTerm": "Crimson Gem Saga"}
 			]
 		},
 		{
@@ -263,22 +300,22 @@
 		{
 			"group": "Despicable Me - The Game",
 			"titles": [
-				{"searchTerm": "Despicable Me - The Game"},
-				{"searchTerm": "Despicable Me"}
+				{"searchTerm": "Despicable Me"},
+				{"searchTerm": "Despicable Me - The Game"}
 			]
 		},
 		{
 			"group": "Diner Dash - Sizzle & Serve",
 			"titles": [
-				{"searchTerm": "Diner Dash - Sizzle & Serve"},
-				{"searchTerm": "Diner Dash"}
+				{"searchTerm": "Diner Dash"},
+				{"searchTerm": "Diner Dash - Sizzle & Serve"}
 			]
 		},
 		{
 			"group": "DiRT 2",
 			"titles": [
-				{"searchTerm": "DiRT 2"},
-				{"searchTerm": "Colin McRae - DiRT 2"}
+				{"searchTerm": "Colin McRae - DiRT 2"},
+				{"searchTerm": "DiRT 2"}
 			]
 		},
 		{
@@ -309,15 +346,15 @@
 		{
 			"group": "Disney-Pixar Toy Story 3",
 			"titles": [
-				{"searchTerm": "Disney-Pixar Toy Story 3"},
-				{"searchTerm": "Disney-Pixar Istoriya igrushek - Bol'shoj pobeg"}
+				{"searchTerm": "Disney-Pixar Istoriya igrushek - Bol'shoj pobeg"},
+				{"searchTerm": "Disney-Pixar Toy Story 3"}
 			]
 		},
 		{
 			"group": "Disney-Pixar Up",
 			"titles": [
-				{"searchTerm": "Disney-Pixar Up"},
 				{"searchTerm": "Disney-Pixar Oben"},
+				{"searchTerm": "Disney-Pixar Up"},
 				{"searchTerm": "Disney-Pixar Up - Altamente!"}
 			]
 		},
@@ -340,15 +377,15 @@
 		{
 			"group": "DJ Max Portable - Black Square",
 			"titles": [
-				{"searchTerm": "DJ Max Portable - Black Square"},
-				{"searchTerm": "DJ Max Emotional Sense P - Black Square"}
+				{"searchTerm": "DJ Max Emotional Sense P - Black Square"},
+				{"searchTerm": "DJ Max Portable - Black Square"}
 			]
 		},
 		{
 			"group": "Dragon Ball Z - Shin Budokai",
 			"titles": [
-				{"searchTerm": "Dragon Ball Z - Shin Budokai"},
-				{"searchTerm": "Dragon Ball Z - Jinmudohoe"}
+				{"searchTerm": "Dragon Ball Z - Jinmudohoe"},
+				{"searchTerm": "Dragon Ball Z - Shin Budokai"}
 			]
 		},
 		{
@@ -361,8 +398,8 @@
 		{
 			"group": "Dragon Ball Z - Tenkaichi Tag Team",
 			"titles": [
-				{"searchTerm": "Dragon Ball Z - Tenkaichi Tag Team"},
-				{"searchTerm": "Dragon Ball Tag VS"}
+				{"searchTerm": "Dragon Ball Tag VS"},
+				{"searchTerm": "Dragon Ball Z - Tenkaichi Tag Team"}
 			]
 		},
 		{
@@ -382,23 +419,32 @@
 		{
 			"group": "Dungeon Explorer - Warriors of Ancient Arts",
 			"titles": [
-				{"searchTerm": "Dungeon Explorer - Warriors of Ancient Arts"},
 				{"searchTerm": "Dungeon Explorer"},
-				{"searchTerm": "Dungeon Explorer - Meiyaku no Tobira"}
+				{"searchTerm": "Dungeon Explorer - Meiyaku no Tobira"},
+				{"searchTerm": "Dungeon Explorer - Warriors of Ancient Arts"}
 			]
 		},
 		{
 			"group": "Dungeon Maker - Hunting Ground",
 			"titles": [
-				{"searchTerm": "Dungeon Maker - Hunting Ground"},
-				{"searchTerm": "Chronicle of Dungeon Maker"}
+				{"searchTerm": "Chronicle of Dungeon Maker"},
+				{"searchTerm": "Dungeon Maker - Hunting Ground"}
 			]
 		},
 		{
 			"group": "Dungeon Maker II - The Hidden War",
 			"titles": [
-				{"searchTerm": "Dungeon Maker II - The Hidden War"},
-				{"searchTerm": "Chronicle of Dungeon Maker II"}
+				{"searchTerm": "Chronicle of Dungeon Maker II"},
+				{"searchTerm": "Dungeon Maker II - The Hidden War"}
+			]
+		},
+		{
+			"group": "Durarara!! 3way Standoff",
+			"titles": [
+				{"searchTerm": "Durarara!! 3way Standoff"}
+			],
+			"supersets": [
+				{"searchTerm": "Durarara!! 3way Standoff - Alley"}
 			]
 		},
 		{
@@ -428,7 +474,7 @@
 			"group": "Echochrome",
 			"titles": [
 				{"searchTerm": "Echochrome"},
-				{"searchTerm": "Echochrome - Mugen Kairou"},
+				{"searchTerm": "Echochrome - Muhan Hoerang"},
 				{"searchTerm": "Mugen Kairou"}
 			]
 		},
@@ -442,8 +488,8 @@
 		{
 			"group": "Eragon",
 			"titles": [
-				{"searchTerm": "Eragon"},
-				{"searchTerm": "E'ragon"}
+				{"searchTerm": "E'ragon"},
+				{"searchTerm": "Eragon"}
 			]
 		},
 		{
@@ -461,6 +507,13 @@
 			]
 		},
 		{
+			"group": "F1 Grand Prix",
+			"titles": [
+				{"searchTerm": "F1 Grand Prix"},
+				{"searchTerm": "Formula 1 - F1 05 Portable"}
+			]
+		},
+		{
 			"group": "FIFA 14",
 			"titles": [
 				{"searchTerm": "FIFA 14"},
@@ -471,80 +524,81 @@
 		{
 			"group": "FIFA Soccer 06",
 			"titles": [
-				{"searchTerm": "FIFA Soccer 06"},
-				{"searchTerm": "FIFA 06"}
+				{"searchTerm": "FIFA 06"},
+				{"searchTerm": "FIFA Soccer 06"}
 			]
 		},
 		{
 			"group": "FIFA Soccer 07",
 			"titles": [
-				{"searchTerm": "FIFA Soccer 07"},
-				{"searchTerm": "FIFA 07"}
+				{"searchTerm": "FIFA 07"},
+				{"searchTerm": "FIFA Soccer 07"}
 			]
 		},
 		{
 			"group": "FIFA Soccer 08",
 			"titles": [
-				{"searchTerm": "FIFA Soccer 08"},
-				{"searchTerm": "FIFA 08"}
+				{"searchTerm": "FIFA 08"},
+				{"searchTerm": "FIFA Soccer 08"}
 			]
 		},
 		{
 			"group": "FIFA Soccer 09",
 			"titles": [
-				{"searchTerm": "FIFA Soccer 09"},
-				{"searchTerm": "FIFA 09"}
+				{"searchTerm": "FIFA 09"},
+				{"searchTerm": "FIFA Soccer 09"}
 			]
 		},
 		{
 			"group": "FIFA Soccer 10",
 			"titles": [
-				{"searchTerm": "FIFA Soccer 10"},
-				{"searchTerm": "FIFA 10"}
+				{"searchTerm": "FIFA 10"},
+				{"searchTerm": "FIFA Soccer 10"}
 			]
 		},
 		{
 			"group": "FIFA Soccer 11",
 			"titles": [
-				{"searchTerm": "FIFA Soccer 11"},
-				{"searchTerm": "FIFA 11"}
+				{"searchTerm": "FIFA 11"},
+				{"searchTerm": "FIFA Soccer 11"}
 			]
 		},
 		{
 			"group": "FIFA Soccer 12",
 			"titles": [
-				{"searchTerm": "FIFA Soccer 12"},
-				{"searchTerm": "FIFA 12"}
+				{"searchTerm": "FIFA 12"},
+				{"searchTerm": "FIFA 12 - World Class Soccer"},
+				{"searchTerm": "FIFA Soccer 12"}
 			]
 		},
 		{
 			"group": "FIFA Soccer 13",
 			"titles": [
-				{"searchTerm": "FIFA Soccer 13"},
-				{"searchTerm": "FIFA 13"}
+				{"searchTerm": "FIFA 13"},
+				{"searchTerm": "FIFA Soccer 13"}
 			]
 		},
 		{
 			"group": "FIFA World Cup Germany 2006",
 			"titles": [
-				{"searchTerm": "FIFA World Cup Germany 2006"},
 				{"searchTerm": "FIFA Fussball-Weltmeisterschaft Deutschland 2006"},
 				{"searchTerm": "FIFA World Cup Deutsch Taikai 2006"},
+				{"searchTerm": "FIFA World Cup Germany 2006"},
 				{"searchTerm": "Mondiali FIFA 2006"}
 			]
 		},
 		{
 			"group": "Final Fantasy - 20th Anniversary Edition",
 			"titles": [
-				{"searchTerm": "Final Fantasy - 20th Anniversary Edition"},
-				{"searchTerm": "Final Fantasy"}
+				{"searchTerm": "Final Fantasy"},
+				{"searchTerm": "Final Fantasy - 20th Anniversary Edition"}
 			]
 		},
 		{
 			"group": "Final Fantasy II - 20th Anniversary Edition",
 			"titles": [
-				{"searchTerm": "Final Fantasy II - 20th Anniversary Edition"},
-				{"searchTerm": "Final Fantasy II"}
+				{"searchTerm": "Final Fantasy II"},
+				{"searchTerm": "Final Fantasy II - 20th Anniversary Edition"}
 			]
 		},
 		{
@@ -557,8 +611,8 @@
 		{
 			"group": "Final Fantasy Tactics - The War of the Lions",
 			"titles": [
-				{"searchTerm": "Final Fantasy Tactics - The War of the Lions"},
-				{"searchTerm": "Final Fantasy Tactics - Shishi Sensou"}
+				{"searchTerm": "Final Fantasy Tactics - Shishi Sensou"},
+				{"searchTerm": "Final Fantasy Tactics - The War of the Lions"}
 			]
 		},
 		{
@@ -579,8 +633,15 @@
 		{
 			"group": "Formula One 06",
 			"titles": [
-				{"searchTerm": "Formula One 06"},
-				{"searchTerm": "F1 06 Portable"}
+				{"searchTerm": "F1 06 Portable"},
+				{"searchTerm": "Formula One 06"}
+			]
+		},
+		{
+			"group": "Fullmetal Alchemist - Brotherhood",
+			"titles": [
+				{"searchTerm": "Fullmetal Alchemist - Brotherhood"},
+				{"searchTerm": "Hagane no Renkinjutsushi - Fullmetal Alchemist - Senaka o Takuseshi Mono"}
 			]
 		},
 		{
@@ -603,8 +664,8 @@
 				{"searchTerm": "God Eater"}
 			],
 			"supersets": [
-				{"searchTerm": "Gods Eater Burst"},
-				{"searchTerm": "God Eater Burst"}
+				{"searchTerm": "God Eater Burst"},
+				{"searchTerm": "Gods Eater Burst"}
 			]
 		},
 		{
@@ -613,8 +674,8 @@
 				{"searchTerm": "God Eater Burst - Append-ban"}
 			],
 			"supersets": [
-				{"searchTerm": "Gods Eater Burst"},
-				{"searchTerm": "God Eater Burst"}
+				{"searchTerm": "God Eater Burst"},
+				{"searchTerm": "Gods Eater Burst"}
 			]
 		},
 		{
@@ -634,8 +695,8 @@
 		{
 			"group": "Godfather, The - Mob Wars",
 			"titles": [
-				{"searchTerm": "Godfather, The - Mob Wars"},
 				{"searchTerm": "Godfather, The"},
+				{"searchTerm": "Godfather, The - Mob Wars"},
 				{"searchTerm": "Padrino, El"},
 				{"searchTerm": "Padrino, Il"},
 				{"searchTerm": "Pate, Der"}
@@ -644,9 +705,9 @@
 		{
 			"group": "Golden Compass, The",
 			"titles": [
-				{"searchTerm": "Golden Compass, The"},
 				{"searchTerm": "A la croisee des mondes - La Boussole d'or"},
 				{"searchTerm": "Brujula Dorada, La"},
+				{"searchTerm": "Golden Compass, The"},
 				{"searchTerm": "Goldene Kompass, Der"},
 				{"searchTerm": "Bussola d'Oro, La", "priority": 2}
 			]
@@ -668,9 +729,10 @@
 		{
 			"group": "Gurumin - A Monstrous Adventure",
 			"titles": [
+				{"searchTerm": "Gurumin"},
 				{"searchTerm": "Gurumin - A Monstrous Adventure"},
 				{"searchTerm": "Gurumin - Une Aventure Monstrueuse"},
-				{"searchTerm": "Gurumin"}
+				{"searchTerm": "Gurumin (Falcom Super Price)", "priority": 2}
 			]
 		},
 		{
@@ -697,8 +759,9 @@
 		{
 			"group": "Hammerin' Hero",
 			"titles": [
+				{"searchTerm": "Gensan"},
 				{"searchTerm": "Hammerin' Hero"},
-				{"searchTerm": "Gensan"}
+				{"searchTerm": "Ikuze! Gen-san - Yuuyake Daiku Monogatari"}
 			]
 		},
 		{
@@ -718,15 +781,15 @@
 		{
 			"group": "Harvest Moon - Boy & Girl",
 			"titles": [
-				{"searchTerm": "Harvest Moon - Boy & Girl"},
-				{"searchTerm": "Bokujou Monogatari - Harvest Moon - Boy & Girl"}
+				{"searchTerm": "Bokujou Monogatari - Harvest Moon - Boy & Girl"},
+				{"searchTerm": "Harvest Moon - Boy & Girl"}
 			]
 		},
 		{
 			"group": "Harvest Moon - Hero of Leaf Valley",
 			"titles": [
-				{"searchTerm": "Harvest Moon - Hero of Leaf Valley"},
-				{"searchTerm": "Bokujou Monogatari - Sugar Mura to Minna no Negai"}
+				{"searchTerm": "Bokujou Monogatari - Sugar Mura to Minna no Negai"},
+				{"searchTerm": "Harvest Moon - Hero of Leaf Valley"}
 			]
 		},
 		{
@@ -739,31 +802,31 @@
 		{
 			"group": "Hot Shots Golf - Open Tee",
 			"titles": [
-				{"searchTerm": "Hot Shots Golf - Open Tee"},
 				{"searchTerm": "Everybody's Golf"},
+				{"searchTerm": "Hot Shots Golf - Open Tee"},
 				{"searchTerm": "Minna no Golf Portable"}
 			]
 		},
 		{
 			"group": "Hot Shots Golf - Open Tee 2",
 			"titles": [
-				{"searchTerm": "Hot Shots Golf - Open Tee 2"},
 				{"searchTerm": "Everybody's Golf 2"},
+				{"searchTerm": "Hot Shots Golf - Open Tee 2"},
 				{"searchTerm": "Minna no Golf Portable 2"}
 			]
 		},
 		{
 			"group": "Hot Shots Tennis - Get a Grip",
 			"titles": [
-				{"searchTerm": "Hot Shots Tennis - Get a Grip"},
-				{"searchTerm": "Everybody's Tennis"}
+				{"searchTerm": "Everybody's Tennis"},
+				{"searchTerm": "Hot Shots Tennis - Get a Grip"}
 			]
 		},
 		{
 			"group": "IL-2 Sturmovik - Birds of Prey",
 			"titles": [
-				{"searchTerm": "IL-2 Sturmovik - Birds of Prey"},
-				{"searchTerm": "Il-2 Shturmovik - Krylatye xishhniki"}
+				{"searchTerm": "Il-2 Shturmovik - Krylatye xishhniki"},
+				{"searchTerm": "IL-2 Sturmovik - Birds of Prey"}
 			]
 		},
 		{
@@ -778,6 +841,13 @@
 			"titles": [
 				{"searchTerm": "Iron Man 2"},
 				{"searchTerm": "Iron Man 2 - The Video Game"}
+			]
+		},
+		{
+			"group": "Jikkyou Powerful Pro Yakyuu 2010",
+			"titles": [
+				{"searchTerm": "Jikkyou Powerful Pro Yakyuu 2010"},
+				{"searchTerm": "Silhwang Powerful Pro Yagu 2010"}
 			]
 		},
 		{
@@ -811,8 +881,8 @@
 		{
 			"group": "Kingdom of Paradise",
 			"titles": [
-				{"searchTerm": "Kingdom of Paradise"},
 				{"searchTerm": "Key of Heaven"},
+				{"searchTerm": "Kingdom of Paradise"},
 				{"searchTerm": "Tenchi no Mon"},
 				{"searchTerm": "Tiandi Zhi Men"}
 			]
@@ -820,15 +890,15 @@
 		{
 			"group": "Legend of Heroes, The - Trails in the Sky",
 			"titles": [
-				{"searchTerm": "Legend of Heroes, The - Trails in the Sky"},
-				{"searchTerm": "Eiyuu Densetsu - Sora no Kiseki FC"}
+				{"searchTerm": "Eiyuu Densetsu - Sora no Kiseki FC"},
+				{"searchTerm": "Legend of Heroes, The - Trails in the Sky"}
 			]
 		},
 		{
 			"group": "Legend of Heroes II, The - Prophecy of the Moonlight Witch",
 			"titles": [
-				{"searchTerm": "Legend of Heroes II, The - Prophecy of the Moonlight Witch"},
-				{"searchTerm": "Eiyuu Densetsu Gagharv Trilogy - Shiroki Majo"}
+				{"searchTerm": "Eiyuu Densetsu Gagharv Trilogy - Shiroki Majo"},
+				{"searchTerm": "Legend of Heroes II, The - Prophecy of the Moonlight Witch"}
 			]
 		},
 		{
@@ -855,8 +925,8 @@
 		{
 			"group": "Lord of the Rings, The - Tactics",
 			"titles": [
-				{"searchTerm": "Lord of the Rings, The - Tactics"},
 				{"searchTerm": "Herr der Ringe, Der - Taktiken"},
+				{"searchTerm": "Lord of the Rings, The - Tactics"},
 				{"searchTerm": "Senor de los Anillos, El - Tacticas"},
 				{"searchTerm": "Signore degli Anelli, Il - Tactics"}
 			]
@@ -864,22 +934,29 @@
 		{
 			"group": "Lumines - Puzzle Fusion",
 			"titles": [
-				{"searchTerm": "Lumines - Puzzle Fusion"},
-				{"searchTerm": "Lumines"}
+				{"searchTerm": "Lumines"},
+				{"searchTerm": "Lumines - Puzzle Fusion"}
+			]
+		},
+		{
+			"group": "Mawaskes Puzzle",
+			"titles": [
+				{"searchTerm": "Mawaskes Puzzle"},
+				{"searchTerm": "Mawaskes - Based on Carton-kun"}
 			]
 		},
 		{
 			"group": "Me & My Katamari",
 			"titles": [
-				{"searchTerm": "Me & My Katamari"},
-				{"searchTerm": "Boku no Watashi no Katamari Damacy"}
+				{"searchTerm": "Boku no Watashi no Katamari Damacy"},
+				{"searchTerm": "Me & My Katamari"}
 			]
 		},
 		{
 			"group": "Mega Man - Maverick Hunter X",
 			"titles": [
-				{"searchTerm": "Mega Man - Maverick Hunter X"},
-				{"searchTerm": "Irregular Hunter X"}
+				{"searchTerm": "Irregular Hunter X"},
+				{"searchTerm": "Mega Man - Maverick Hunter X"}
 			]
 		},
 		{
@@ -892,8 +969,7 @@
 		{
 			"group": "Mercury Meltdown",
 			"titles": [
-				{"searchTerm": "Mercury Meltdown"},
-				{"searchTerm": "Mercury Meltdown (1.00)", "priority": 2}
+				{"searchTerm": "Mercury Meltdown"}
 			],
 			"compilations": [
 				{"searchTerm": "2 Games in 1! Archer Maclean's Mercury & Mercury Meltdown", "titlePosition": 2}
@@ -904,6 +980,13 @@
 			"titles": [
 				{"searchTerm": "Metal Slug Anthology"},
 				{"searchTerm": "Metal Slug Complete"}
+			]
+		},
+		{
+			"group": "Midnight Club - L.A. Remix",
+			"titles": [
+				{"searchTerm": "Midnight Club - L.A. Remix"},
+				{"searchTerm": "Midnight Club - L. A. Remix"}
 			]
 		},
 		{
@@ -927,8 +1010,15 @@
 		{
 			"group": "MX vs. ATV Untamed",
 			"titles": [
-				{"searchTerm": "MX vs. ATV Untamed"},
-				{"searchTerm": "MX vs. ATV Extreme Limite"}
+				{"searchTerm": "MX vs. ATV Extreme Limite"},
+				{"searchTerm": "MX vs. ATV Untamed"}
+			]
+		},
+		{
+			"group": "Namco Museum Battle Collection",
+			"titles": [
+				{"searchTerm": "Namco Museum Battle Collection"},
+				{"searchTerm": "Namco Museum Vol. 2"}
 			]
 		},
 		{
@@ -948,23 +1038,16 @@
 		{
 			"group": "Naruto - Ultimate Ninja Heroes 2 - The Phantom Fortress",
 			"titles": [
-				{"searchTerm": "Naruto - Ultimate Ninja Heroes 2 - The Phantom Fortress"},
 				{"searchTerm": "Naruto - Narutimate Portable - Mugenjou no Maki"},
-				{"searchTerm": "Naruto - Narutimate Portable - Muhwanseongui Gwon"}
+				{"searchTerm": "Naruto - Narutimate Portable - Muhwanseongui Gwon"},
+				{"searchTerm": "Naruto - Ultimate Ninja Heroes 2 - The Phantom Fortress"}
 			]
 		},
 		{
 			"group": "Naruto Shippuden - Ultimate Ninja Impact",
 			"titles": [
 				{"searchTerm": "Naruto Shippuden - Ultimate Ninja Impact"},
-				{"searchTerm": "Naruto - Narutimate Impact"}
-			]
-		},
-		{
-			"group": "NBA 09 - The Inside",
-			"titles": [
-				{"searchTerm": "NBA 09 - The Inside"},
-				{"searchTerm": "NBA 09 - The Inside (0.30)", "priority": 2}
+				{"searchTerm": "Naruto Shippuuden - Narutimate Impact"}
 			]
 		},
 		{
@@ -977,16 +1060,16 @@
 		{
 			"group": "Nickelodeon SpongeBob's Truth or Square",
 			"titles": [
+				{"searchTerm": "Nickelodeon Bob Esponja - Atrapados en el Congelador"},
 				{"searchTerm": "Nickelodeon SpongeBob's Truth or Square"},
-				{"searchTerm": "Nickelodeon SpongeBob SquarePants - SpongeBob's Truth or Square"},
-				{"searchTerm": "Nickelodeon Bob Esponja - Atrapados en el Congelador"}
+				{"searchTerm": "Nickelodeon SpongeBob SquarePants - SpongeBob's Truth or Square"}
 			]
 		},
 		{
 			"group": "Pangya - Fantasy Golf",
 			"titles": [
-				{"searchTerm": "Pangya - Fantasy Golf"},
-				{"searchTerm": "Fantasy Golf Pangya Portable"}
+				{"searchTerm": "Fantasy Golf Pangya Portable"},
+				{"searchTerm": "Pangya - Fantasy Golf"}
 			]
 		},
 		{
@@ -1032,6 +1115,13 @@
 			]
 		},
 		{
+			"group": "PES 2013 - Pro Evolution Soccer",
+			"titles": [
+				{"searchTerm": "PES 2013 - Pro Evolution Soccer"},
+				{"searchTerm": "World Soccer Winning Eleven 2013"}
+			]
+		},
+		{
 			"group": "PES 2014 - Pro Evolution Soccer",
 			"titles": [
 				{"searchTerm": "PES 2014 - Pro Evolution Soccer"},
@@ -1059,6 +1149,13 @@
 			],
 			"supersets": [
 				{"searchTerm": "Phantasy Star Portable 2 Infinity"}
+			]
+		},
+		{
+			"group": "Pilot Academy",
+			"titles": [
+				{"searchTerm": "Pilot Academy"},
+				{"searchTerm": "Pilot ni Narou! Flying All Stars"}
 			]
 		},
 		{
@@ -1099,8 +1196,8 @@
 		{
 			"group": "Prince of Persia - The Forgotten Sands",
 			"titles": [
-				{"searchTerm": "Prince of Persia - The Forgotten Sands"},
 				{"searchTerm": "Prince of Persia - Boukyaku no Suna"},
+				{"searchTerm": "Prince of Persia - The Forgotten Sands"},
 				{"searchTerm": "Prince of Persia - Zabytye peski"}
 			]
 		},
@@ -1112,10 +1209,24 @@
 			]
 		},
 		{
+			"group": "Pro Yakyuu Spirits 2010",
+			"titles": [
+				{"searchTerm": "Pro Yagu Spirits 2010"},
+				{"searchTerm": "Pro Yakyuu Spirits 2010"}
+			]
+		},
+		{
+			"group": "Pro Yakyuu Spirits 2012",
+			"titles": [
+				{"searchTerm": "Pro Yagu Spirits 2012"},
+				{"searchTerm": "Pro Yakyuu Spirits 2012"}
+			]
+		},
+		{
 			"group": "Pursuit Force",
 			"titles": [
-				{"searchTerm": "Pursuit Force"},
-				{"searchTerm": "Chase Cop - Pursuit Force"}
+				{"searchTerm": "Chase Cop - Pursuit Force"},
+				{"searchTerm": "Pursuit Force"}
 			]
 		},
 		{
@@ -1128,8 +1239,8 @@
 		{
 			"group": "Puzzle Guzzle",
 			"titles": [
-				{"searchTerm": "Puzzle Guzzle"},
-				{"searchTerm": "Mawaskes Puzzle"}
+				{"searchTerm": "Mawaskes Puzzle"},
+				{"searchTerm": "Puzzle Guzzle"}
 			]
 		},
 		{
@@ -1149,8 +1260,8 @@
 		{
 			"group": "Ragnarok Tactics",
 			"titles": [
-				{"searchTerm": "Ragnarok Tactics"},
-				{"searchTerm": "Ragnarok - Hikari to Yami no Koujo"}
+				{"searchTerm": "Ragnarok - Hikari to Yami no Koujo"},
+				{"searchTerm": "Ragnarok Tactics"}
 			]
 		},
 		{
@@ -1184,15 +1295,15 @@
 		{
 			"group": "Rush",
 			"titles": [
-				{"searchTerm": "Rush"},
-				{"searchTerm": "L.A. Rush"}
+				{"searchTerm": "L.A. Rush"},
+				{"searchTerm": "Rush"}
 			]
 		},
 		{
 			"group": "Samurai Warriors - State of War",
 			"titles": [
-				{"searchTerm": "Samurai Warriors - State of War"},
-				{"searchTerm": "Geki Sengoku Musou"}
+				{"searchTerm": "Geki Sengoku Musou"},
+				{"searchTerm": "Samurai Warriors - State of War"}
 			]
 		},
 		{
@@ -1212,8 +1323,8 @@
 		{
 			"group": "Secret Agent Clank",
 			"titles": [
-				{"searchTerm": "Secret Agent Clank"},
-				{"searchTerm": "Clank & Ratchet - Maruhi Mission Ignition!"}
+				{"searchTerm": "Clank & Ratchet - Maruhi Mission Ignition!"},
+				{"searchTerm": "Secret Agent Clank"}
 			]
 		},
 		{
@@ -1226,8 +1337,8 @@
 		{
 			"group": "Sega Rally Revo",
 			"titles": [
-				{"searchTerm": "Sega Rally Revo"},
-				{"searchTerm": "Sega Rally"}
+				{"searchTerm": "Sega Rally"},
+				{"searchTerm": "Sega Rally Revo"}
 			]
 		},
 		{
@@ -1240,23 +1351,23 @@
 		{
 			"group": "Shin Megami Tensei - Persona",
 			"titles": [
-				{"searchTerm": "Shin Megami Tensei - Persona"},
-				{"searchTerm": "Persona"}
+				{"searchTerm": "Persona"},
+				{"searchTerm": "Shin Megami Tensei - Persona"}
 			]
 		},
 		{
 			"group": "Shin Megami Tensei - Persona 2 - Innocent Sin",
 			"titles": [
-				{"searchTerm": "Shin Megami Tensei - Persona 2 - Innocent Sin"},
-				{"searchTerm": "Persona 2 - Tsumi - Innocent Sin"}
+				{"searchTerm": "Persona 2 - Tsumi - Innocent Sin"},
+				{"searchTerm": "Shin Megami Tensei - Persona 2 - Innocent Sin"}
 			]
 		},
 		{
 			"group": "Shin Megami Tensei - Persona 3 Portable",
 			"titles": [
-				{"searchTerm": "Shin Megami Tensei - Persona 3 Portable"},
 				{"searchTerm": "P3P - Yeosin Jeonsaeng - Persona 3 Portable"},
-				{"searchTerm": "Persona 3 Portable"}
+				{"searchTerm": "Persona 3 Portable"},
+				{"searchTerm": "Shin Megami Tensei - Persona 3 Portable"}
 			]
 		},
 		{
@@ -1269,18 +1380,18 @@
 		{
 			"group": "Simpsons Game, The",
 			"titles": [
-				{"searchTerm": "Simpsons Game, The"},
 				{"searchTerm": "Simpson, I - Il Videogioco"},
 				{"searchTerm": "Simpson, Les - Le Jeu"},
+				{"searchTerm": "Simpson, Los - El Videojuego"},
 				{"searchTerm": "Simpsons, Die - Das Spiel"},
-				{"searchTerm": "Simpson, Los - El Videojuego"}
+				{"searchTerm": "Simpsons Game, The"}
 			]
 		},
 		{
 			"group": "Smart Bomb",
 			"titles": [
-				{"searchTerm": "Smart Bomb"},
-				{"searchTerm": "Baku-No"}
+				{"searchTerm": "Baku-No"},
+				{"searchTerm": "Smart Bomb"}
 			]
 		},
 		{
@@ -1300,9 +1411,9 @@
 		{
 			"group": "Spectral Souls - Resurrection of the Ethereal Empires",
 			"titles": [
-				{"searchTerm": "Spectral Souls - Resurrection of the Ethereal Empires"},
 				{"searchTerm": "Shinki Gensou - SSII Unlimited Side"},
-				{"searchTerm": "Singi Hwansang - SSII Unlimited Side"}
+				{"searchTerm": "Singi Hwansang - SSII Unlimited Side"},
+				{"searchTerm": "Spectral Souls - Resurrection of the Ethereal Empires"}
 			]
 		},
 		{
@@ -1322,8 +1433,8 @@
 		{
 			"group": "Stealth feat. WipEout Pure Stealth Edition (Demo)",
 			"titles": [
-				{"searchTerm": "Stealth feat. WipEout Pure Stealth Edition (Demo)"},
-				{"searchTerm": "Furtif + WipEout Pure (Demo)"}
+				{"searchTerm": "Furtif + WipEout Pure (Demo)"},
+				{"searchTerm": "Stealth feat. WipEout Pure Stealth Edition (Demo)"}
 			]
 		},
 		{
@@ -1343,8 +1454,15 @@
 		{
 			"group": "Super Pocket Tennis",
 			"titles": [
-				{"searchTerm": "Super Pocket Tennis"},
-				{"searchTerm": "Simple 2500 Series Portable!! Vol. 2 - The Tennis"}
+				{"searchTerm": "Simple 2500 Series Portable!! Vol. 2 - The Tennis"},
+				{"searchTerm": "Super Pocket Tennis"}
+			]
+		},
+		{
+			"group": "Suzumiya Haruhi no Yakusoku",
+			"titles": [
+				{"searchTerm": "Suzumiya Haruhi no Yakusoku"},
+				{"searchTerm": "Suzumiya Haruhi no Yakusoku (Super Premium Box)", "priority": 2}
 			]
 		},
 		{
@@ -1387,84 +1505,91 @@
 		{
 			"group": "Tenchu - Time of the Assassins",
 			"titles": [
-				{"searchTerm": "Tenchu - Time of the Assassins"},
-				{"searchTerm": "Tenchu - Shinobi Taizen"}
+				{"searchTerm": "Tenchu - Shinobi Taizen"},
+				{"searchTerm": "Tenchu - Time of the Assassins"}
 			]
 		},
 		{
 			"group": "TOCA Race Driver 2",
 			"titles": [
-				{"searchTerm": "TOCA Race Driver 2"},
 				{"searchTerm": "DTM Race Driver 2"},
+				{"searchTerm": "TOCA Race Driver 2"},
 				{"searchTerm": "V8 Supercars Australia 2"}
 			]
 		},
 		{
 			"group": "TOCA Race Driver 3 Challenge",
 			"titles": [
-				{"searchTerm": "TOCA Race Driver 3 Challenge"},
 				{"searchTerm": "DTM Race Driver 3 - Challenge"},
+				{"searchTerm": "TOCA Race Driver 3 Challenge"},
 				{"searchTerm": "V8 Supercars Australia 3 - Shootout"}
 			]
 		},
 		{
 			"group": "Tokobot",
 			"titles": [
-				{"searchTerm": "Tokobot"},
-				{"searchTerm": "Karakuri"}
+				{"searchTerm": "Karakuri"},
+				{"searchTerm": "Tokobot"}
 			]
 		},
 		{
 			"group": "Ultimate Block Party",
 			"titles": [
-				{"searchTerm": "Ultimate Block Party"},
 				{"searchTerm": "Kollon"},
-				{"searchTerm": "Koloomn"}
+				{"searchTerm": "Koloomn"},
+				{"searchTerm": "Ultimate Block Party"}
 			]
 		},
 		{
 			"group": "Ultimate Ghosts'n Goblins",
 			"titles": [
-				{"searchTerm": "Ultimate Ghosts'n Goblins"},
-				{"searchTerm": "Goku Makaimura"}
+				{"searchTerm": "Goku Makaimura"},
+				{"searchTerm": "Ultimate Ghosts'n Goblins"}
 			],
 			"supersets": [
 				{"searchTerm": "Goku Makaimura Kai"}
 			]
 		},
 		{
+			"group": "Valhalla Knights",
+			"titles": [
+				{"searchTerm": "Valhalla Knights"},
+				{"searchTerm": "Valhalla Knights 2 - Battle Stance"}
+			]
+		},
+		{
 			"group": "Valkyria Chronicles II",
 			"titles": [
-				{"searchTerm": "Valkyria Chronicles II"},
-				{"searchTerm": "Senjou no Valkyria 2 - Gallia Ouritsu Shikan Gakkou"}
+				{"searchTerm": "Senjou no Valkyria 2 - Gallia Ouritsu Shikan Gakkou"},
+				{"searchTerm": "Valkyria Chronicles II"}
 			]
 		},
 		{
 			"group": "Viewtiful Joe - Red Hot Rumble",
 			"titles": [
-				{"searchTerm": "Viewtiful Joe - Red Hot Rumble"},
-				{"searchTerm": "Viewtiful Joe - Battle Carnival"}
+				{"searchTerm": "Viewtiful Joe - Battle Carnival"},
+				{"searchTerm": "Viewtiful Joe - Red Hot Rumble"}
 			]
 		},
 		{
 			"group": "Virtua Tennis - World Tour",
 			"titles": [
-				{"searchTerm": "Virtua Tennis - World Tour"},
-				{"searchTerm": "Power Smash - New Generation"}
+				{"searchTerm": "Power Smash - New Generation"},
+				{"searchTerm": "Virtua Tennis - World Tour"}
 			]
 		},
 		{
 			"group": "Warriors Orochi",
 			"titles": [
-				{"searchTerm": "Warriors Orochi"},
-				{"searchTerm": "Musou Orochi"}
+				{"searchTerm": "Musou Orochi"},
+				{"searchTerm": "Warriors Orochi"}
 			]
 		},
 		{
 			"group": "Warriors Orochi 2",
 			"titles": [
-				{"searchTerm": "Warriors Orochi 2"},
-				{"searchTerm": "Musou Orochi - Maou Sairin"}
+				{"searchTerm": "Musou Orochi - Maou Sairin"},
+				{"searchTerm": "Warriors Orochi 2"}
 			],
 			"supersets": [
 				{"searchTerm": "Musou Orochi - Maou Sairin Enhanced Version"},
@@ -1481,37 +1606,37 @@
 		{
 			"group": "Who Wants to Be a Millionaire - Party Edition",
 			"titles": [
-				{"searchTerm": "Who Wants to Be a Millionaire - Party Edition"},
-				{"searchTerm": "Chi Vuol Essere Milionario Party Edition"}
+				{"searchTerm": "Chi Vuol Essere Milionario Party Edition"},
+				{"searchTerm": "Who Wants to Be a Millionaire - Party Edition"}
 			]
 		},
 		{
 			"group": "White Knight Chronicles - Origins",
 			"titles": [
-				{"searchTerm": "White Knight Chronicles - Origins"},
-				{"searchTerm": "Shirokishi Monogatari Episode Portable - Dogma Wars"}
+				{"searchTerm": "Shirokishi Monogatari Episode Portable - Dogma Wars"},
+				{"searchTerm": "White Knight Chronicles - Origins"}
 			]
 		},
 		{
 			"group": "Wild Arms XF",
 			"titles": [
-				{"searchTerm": "Wild Arms XF"},
-				{"searchTerm": "Wild Arms - Crossfire"}
+				{"searchTerm": "Wild Arms - Crossfire"},
+				{"searchTerm": "Wild Arms XF"}
 			]
 		},
 		{
 			"group": "Winning Eleven - Pro Evolution Soccer 2007",
 			"titles": [
-				{"searchTerm": "Winning Eleven - Pro Evolution Soccer 2007"},
 				{"searchTerm": "Pro Evolution Soccer 6"},
+				{"searchTerm": "Winning Eleven - Pro Evolution Soccer 2007"},
 				{"searchTerm": "World Soccer Winning Eleven 10 - Ubiquitous Evolution"}
 			]
 		},
 		{
 			"group": "World Tour Soccer - Winning Eleven 9",
 			"titles": [
-				{"searchTerm": "World Tour Soccer - Winning Eleven 9"},
 				{"searchTerm": "Pro Evolution Soccer 5"},
+				{"searchTerm": "World Tour Soccer - Winning Eleven 9"},
 				{"searchTerm": "World Soccer Winning Eleven 9 - Ubiquitous Evolution"}
 			]
 		},
@@ -1525,15 +1650,15 @@
 		{
 			"group": "WTF - Work Time Fun",
 			"titles": [
-				{"searchTerm": "WTF - Work Time Fun"},
-				{"searchTerm": "Beit Hell 2000"}
+				{"searchTerm": "Beit Hell 2000"},
+				{"searchTerm": "WTF - Work Time Fun"}
 			]
 		},
 		{
 			"group": "X-Men Legends II - Rise of Apocalypse",
 			"titles": [
-				{"searchTerm": "X-Men Legends II - Rise of Apocalypse"},
-				{"searchTerm": "X-Men Legends II - El Ascenso de Apocalipsis"}
+				{"searchTerm": "X-Men Legends II - El Ascenso de Apocalipsis"},
+				{"searchTerm": "X-Men Legends II - Rise of Apocalypse"}
 			]
 		},
 		{
@@ -1544,10 +1669,24 @@
 			]
 		},
 		{
+			"group": "Yu-Gi-Oh! GX - Tag Force",
+			"titles": [
+				{"searchTerm": "Yu-Gi-Oh! Duel Monsters GX Tag Force"},
+				{"searchTerm": "Yu-Gi-Oh! GX - Tag Force"}
+			]
+		},
+		{
 			"group": "Yu-Gi-Oh! GX - Tag Force 2",
 			"titles": [
-				{"searchTerm": "Yu-Gi-Oh! GX - Tag Force 2"},
-				{"searchTerm": "Yu-Gi-Oh! Duel Monsters GX - Tag Force 2"}
+				{"searchTerm": "Yu-Gi-Oh! Duel Monsters GX - Tag Force 2"},
+				{"searchTerm": "Yu-Gi-Oh! GX - Tag Force 2"}
+			]
+		},
+		{
+			"group": "Yu-Gi-Oh! GX - Tag Force 3",
+			"titles": [
+				{"searchTerm": "Yu-Gi-Oh! Duel Monsters GX - Tag Force 3"},
+				{"searchTerm": "Yu-Gi-Oh! GX - Tag Force 3"}
 			]
 		},
 		{

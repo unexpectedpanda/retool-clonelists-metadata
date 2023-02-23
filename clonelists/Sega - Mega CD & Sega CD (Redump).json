@@ -1,15 +1,20 @@
 {
 	"description": {
 		"name": "Sega - Mega CD & Sega CD (Redump)",
-		"lastUpdated": "13 February 2022",
+		"lastUpdated": "21 January 2023",
 		"minimumVersion": "2.00"
 	},
 
 	"categories": [
 		{
-			"searchTerm": "Make My Video.*?(Beta)",
+			"searchTerm": "^Make My Video.*?(Beta)",
 			"nameType": "regex",
 			"categories": ["Multimedia", "Preproduction"]
+		},
+		{
+			"searchTerm": "What is X'Eye Multi Entertainment System",
+			"match": "short",
+			"categories": ["Demos"]
 		}
 	],
 
@@ -45,8 +50,8 @@
 		{
 			"group": "Blackhole Assault",
 			"titles": [
-				{"searchTerm": "Blackhole Assault"},
-				{"searchTerm": "Black Hole Assault"}
+				{"searchTerm": "Black Hole Assault"},
+				{"searchTerm": "Blackhole Assault"}
 			]
 		},
 		{
@@ -69,8 +74,7 @@
 				{"searchTerm": "Corpse Killer"}
 			],
 			"supersets": [
-				{"searchTerm": "Corpse Killer (Sega CD 32X)"},
-				{"searchTerm": "Corpse Killer (Mega-CD 32X)"}
+				{"searchTerm": "^Corpse Killer.*\\([SM]ega[ -]CD 32X\\)", "nameType": "regex"}
 			]
 		},
 		{
@@ -97,8 +101,8 @@
 		{
 			"group": "Fahrenheit (Disc 1) (Key Disc) (Sega CD)",
 			"titles": [
-				{"searchTerm": "Fahrenheit (Disc 1) (Key Disc) (Sega CD)"},
-				{"searchTerm": "Fahrenheit"}
+				{"searchTerm": "Fahrenheit"},
+				{"searchTerm": "Fahrenheit (Disc 1) (Key Disc) (Sega CD)"}
 			]
 		},
 		{
@@ -156,15 +160,15 @@
 		{
 			"group": "Masked Rider, The - Kamen Rider ZO",
 			"titles": [
-				{"searchTerm": "Masked Rider, The - Kamen Rider ZO"},
-				{"searchTerm": "Kamen Rider ZO"}
+				{"searchTerm": "Kamen Rider ZO"},
+				{"searchTerm": "Masked Rider, The - Kamen Rider ZO"}
 			]
 		},
 		{
 			"group": "Mickey Mania - The Timeless Adventures of Mickey Mouse",
 			"titles": [
-				{"searchTerm": "Mickey Mania - The Timeless Adventures of Mickey Mouse"},
-				{"searchTerm": "Mickey Mania"}
+				{"searchTerm": "Mickey Mania"},
+				{"searchTerm": "Mickey Mania - The Timeless Adventures of Mickey Mouse"}
 			]
 		},
 		{
@@ -187,8 +191,7 @@
 				{"searchTerm": "Night Trap (Disc 1)"}
 			],
 			"supersets": [
-				{"searchTerm": "Night Trap (Disc 1) (Sega CD 32X)"},
-				{"searchTerm": "Night Trap (Disc 1) (Mega-CD 32X)"}
+				{"searchTerm": "^Night Trap.*\\(Disc 1\\) \\([SM]ega[ -]CD 32X\\)", "nameType": "regex"}
 			]
 		},
 		{
@@ -197,8 +200,7 @@
 				{"searchTerm": "Night Trap (Disc 2)"}
 			],
 			"supersets": [
-				{"searchTerm": "Night Trap (Disc 2) (Sega CD 32X)"},
-				{"searchTerm": "Night Trap (Disc 2) (Mega-CD 32X)"}
+				{"searchTerm": "^Night Trap.*\\(Disc 2\\) \\([SM]ega[ -]CD 32X\\)", "nameType": "regex"}
 			]
 		},
 		{
@@ -225,8 +227,8 @@
 		{
 			"group": "Revengers of Vengeance",
 			"titles": [
-				{"searchTerm": "Revengers of Vengeance"},
-				{"searchTerm": "Battle Fantasy"}
+				{"searchTerm": "Battle Fantasy"},
+				{"searchTerm": "Revengers of Vengeance"}
 			]
 		},
 		{
@@ -246,25 +248,33 @@
 		{
 			"group": "Robo Aleste",
 			"titles": [
-				{"searchTerm": "Robo Aleste"},
-				{"searchTerm": "Dennin Aleste - Nobunaga and His Ninja Force"}
+				{"searchTerm": "Dennin Aleste - Nobunaga and His Ninja Force"},
+				{"searchTerm": "Robo Aleste"}
 			]
 		},
 		{
 			"group": "Sega Classics Arcade Collection (5-in-1)",
 			"titles": [
 				{"searchTerm": "Sega Classics Arcade Collection (5-in-1)"},
-				{"searchTerm": "Sega Classics Arcade Collection (4-in-1)", "priority": 2},
 				{"searchTerm": "Sega Classic Arcade Collection - Limited Edition", "priority": 2},
+				{"searchTerm": "Sega Classics Arcade Collection (4-in-1)", "priority": 2},
 				{"searchTerm": "Sega Classics Arcade Collection - Limited Edition", "priority": 2}
+
 			]
 		},
 		{
 			"group": "Shadow of the Beast II",
 			"titles": [
-				{"searchTerm": "Shadow of the Beast II"},
 				{"searchTerm": "Beast II"},
+				{"searchTerm": "Shadow of the Beast II"},
 				{"searchTerm": "Shadow of the Beast II - Juushin no Jubaku"}
+			]
+		},
+		{
+			"group": "Silpheed (Demo)",
+			"titles": [
+				{"searchTerm": "Silpheed (Demo) (Fixed Dump)"},
+				{"searchTerm": "Silpheed (Demo)", "priority": 2}
 			]
 		},
 		{
@@ -273,8 +283,7 @@
 				{"searchTerm": "Slam City with Scottie Pippen (Disc 1) (Fingers)"}
 			],
 			"supersets": [
-				{"searchTerm": "Slam City with Scottie Pippen (Disc 1) (Fingers) (Sega CD 32X)"},
-				{"searchTerm": "Slam City with Scottie Pippen (Disc 1) (Fingers) (Mega-CD 32X)"}
+				{"searchTerm": "^Slam City with Scottie Pippen.*\\(Disc 1\\) \\(Fingers\\) \\([SM]ega[ -]CD 32X\\)", "nameType": "regex"}
 			]
 		},
 		{
@@ -283,8 +292,7 @@
 				{"searchTerm": "Slam City with Scottie Pippen (Disc 2) (Juice)"}
 			],
 			"supersets": [
-				{"searchTerm": "Slam City with Scottie Pippen (Disc 2) (Juice) (Sega CD 32X)"},
-				{"searchTerm": "Slam City with Scottie Pippen (Disc 2) (Juice) (Mega-CD 32X)"}
+				{"searchTerm": "^Slam City with Scottie Pippen.*\\(Disc 2\\) \\(Juice\\) \\([SM]ega[ -]CD 32X\\)", "nameType": "regex"}
 			]
 		},
 		{
@@ -293,8 +301,7 @@
 				{"searchTerm": "Slam City with Scottie Pippen (Disc 3) (Mad Dog)"}
 			],
 			"supersets": [
-				{"searchTerm": "Slam City with Scottie Pippen (Disc 3) (Mad Dog) (Sega CD 32X)"},
-				{"searchTerm": "Slam City with Scottie Pippen (Disc 3) (Mad Dog) (Mega-CD 32X)"}
+				{"searchTerm": "^Slam City with Scottie Pippen.*\\(Disc 3\\) \\(Mad Dog\\) \\([SM]ega[ -]CD 32X\\)", "nameType": "regex"}
 			]
 		},
 		{
@@ -303,15 +310,14 @@
 				{"searchTerm": "Slam City with Scottie Pippen (Disc 4) (Smash)"}
 			],
 			"supersets": [
-				{"searchTerm": "Slam City with Scottie Pippen (Disc 4) (Smash) (Sega CD 32X)"},
-				{"searchTerm": "Slam City with Scottie Pippen (Disc 4) (Smash) (Mega-CD 32X)"}
+				{"searchTerm": "^Slam City with Scottie Pippen.*\\(Disc 4\\) \\(Smash\\) \\([SM]ega[ -]CD 32X\\)", "nameType": "regex"}
 			]
 		},
 		{
 			"group": "Supreme Warrior (Disc 1) (Fire & Earth)",
 			"titles": [
-				{"searchTerm": "Supreme Warrior (Disc 1) (Fire & Earth)"},
-				{"searchTerm": "Supreme Warrior (Disc 1)"}
+				{"searchTerm": "Supreme Warrior (Disc 1)"},
+				{"searchTerm": "Supreme Warrior (Disc 1) (Fire & Earth)"}
 			],
 			"supersets": [
 				{"searchTerm": "Supreme Warrior (Disc 1) (Fire & Earth) (Sega CD 32X)"},
@@ -321,8 +327,8 @@
 		{
 			"group": "Supreme Warrior (Disc 2) (Wind & Fang Tu)",
 			"titles": [
-				{"searchTerm": "Supreme Warrior (Disc 2) (Wind & Fang Tu)"},
-				{"searchTerm": "Supreme Warrior (Disc 2)"}
+				{"searchTerm": "Supreme Warrior (Disc 2)"},
+				{"searchTerm": "Supreme Warrior (Disc 2) (Wind & Fang Tu)"}
 			],
 			"supersets": [
 				{"searchTerm": "Supreme Warrior (Disc 2) (Wind & Fang Tu) (Sega CD 32X)"},
@@ -348,8 +354,8 @@
 		{
 			"group": "Third World War",
 			"titles": [
-				{"searchTerm": "Third World War"},
-				{"searchTerm": "IIIrd World War, The"}
+				{"searchTerm": "IIIrd World War, The"},
+				{"searchTerm": "Third World War"}
 			]
 		},
 		{

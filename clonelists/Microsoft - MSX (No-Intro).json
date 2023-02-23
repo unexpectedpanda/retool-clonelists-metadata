@@ -1,13 +1,13 @@
 {
 	"description": {
 		"name": "Microsoft - MSX (No-Intro)",
-		"lastUpdated": "22 October 2021",
+		"lastUpdated": "9 January 2023",
 		"minimumVersion": "2.00"
 	},
 
 	"categories": [
 		{
-			"searchTerm": "Basic Lessons [0-9]",
+			"searchTerm": "^Basic Lessons [0-9]",
 			"nameType": "regex",
 			"categories": ["Applications"]
 		},
@@ -27,6 +27,13 @@
 			]
 		},
 		{
+			"group": "Antarctic Adventure",
+			"titles": [
+				{"searchTerm": "Antarctic Adventure"},
+				{"searchTerm": "Kekkyoku Nankyoku Dai Bouken"}
+			]
+		},
+		{
 			"group": "F-1 Spirit - The Way to Formula-1",
 			"titles": [
 				{"searchTerm": "F-1 Spirit - The Way to Formula-1"},
@@ -38,6 +45,13 @@
 			"titles": [
 				{"searchTerm": "Konami's Billiards"},
 				{"searchTerm": "Video Hustler"}
+			]
+		},
+		{
+			"group": "Knightmare II - The Maze of Galious",
+			"titles": [
+				{"searchTerm": "Knightmare - Majou Densetsu"},
+				{"searchTerm": "Knightmare II - The Maze of Galious"}
 			]
 		},
 		{
@@ -55,17 +69,45 @@
 			]
 		},
 		{
+			"group": "Nemesis",
+			"titles": [
+				{"searchTerm": "Gradius"},
+				{"searchTerm": "Nemesis"}
+			]
+		},
+		{
+			"group": "Nemesis 2",
+			"titles": [
+				{"searchTerm": "Gradius 2"},
+				{"searchTerm": "Nemesis 2"}
+			]
+		},
+		{
+			"group": "Nemesis 3 - The Eve of Destruction",
+			"titles": [
+				{"searchTerm": "Gofer no Yabo - Episode II"},
+				{"searchTerm": "Nemesis 3 - The Eve of Destruction"}
+			]
+		},
+		{
+			"group": "Penguin Adventure",
+			"titles": [
+				{"searchTerm": "Penguin Adventure"},
+				{"searchTerm": "Yume Tairiku Adventure"}
+			]
+		},
+		{
 			"group": "Track & Field 1",
 			"titles": [
-				{"searchTerm": "Track & Field 1"},
-				{"searchTerm": "Hyper Olympic 1"}
+				{"searchTerm": "Hyper Olympic 1"},
+				{"searchTerm": "Track & Field 1"}
 			]
 		},
 		{
 			"group": "Track & Field 2",
 			"titles": [
-				{"searchTerm": "Track & Field 2"},
-				{"searchTerm": "Hyper Olympic 2"}
+				{"searchTerm": "Hyper Olympic 2"},
+				{"searchTerm": "Track & Field 2"}
 			]
 		}
 	]

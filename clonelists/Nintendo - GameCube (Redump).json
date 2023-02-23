@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Nintendo - GameCube (Redump)",
-		"lastUpdated": "24 July 2022",
+		"lastUpdated": "13 January 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -30,17 +30,82 @@
 
 	"overrides": [
 		{
-			"searchTerm": "Disney Sports - Football \\(Europe\\)(.*)?",
+			"searchTerm": "Aging Disc DOL",
+			"nameType": "short",
+			"newGroup": "Aging Disc DOL",
+			"condition": {
+				"regionOrder": {
+					"higherRegions": ["Japan", "Korea", "Taiwan", "Asia"],
+					"lowerRegions": ["USA", "Canada", "Latin America", "UK", "Australia", "New Zealand", "Singapore", "Ireland", "Europe", "Spain", "Brazil", "Thailand", "Portugal", "France", "Belgium", "Netherlands", "Germany", "Austria", "Italy", "Switzerland", "Hong Kong", "Ukraine", "Estonia", "Poland", "Latvia", "Lithuania", "Denmark", "Norway", "Sweden", "Scandinavia", "Finland", "Iceland", "Hungary", "Czech", "Greece", "India", "South Africa", "Israel", "Slovakia", "Turkey", "Croatia", "Slovenia", "United Arab Emirates", "Bulgaria", "Romania", "Albania", "Serbia", "Indonesia"],
+					"elseGroup": "Aging Disc DOL",
+					"priority": 1
+				}
+			}
+		},
+		{
+			"searchTerm": "Aging Disc DOL-USA",
+			"nameType": "short",
+			"newGroup": "Aging Disc DOL",
+			"condition": {
+				"regionOrder": {
+					"higherRegions": ["USA", "Canada", "Latin America"],
+					"lowerRegions": ["Japan", "Korea", "Taiwan", "Asia", "UK", "Australia", "New Zealand", "Singapore", "Ireland", "Europe", "Spain", "Brazil", "Thailand", "Portugal", "France", "Belgium", "Netherlands", "Germany", "Austria", "Italy", "Switzerland", "Hong Kong", "Ukraine", "Estonia", "Poland", "Latvia", "Lithuania", "Denmark", "Norway", "Sweden", "Scandinavia", "Finland", "Iceland", "Hungary", "Czech", "Greece", "India", "South Africa", "Israel", "Slovakia", "Turkey", "Croatia", "Slovenia", "United Arab Emirates", "Bulgaria", "Romania", "Albania", "Serbia", "Indonesia"],
+					"elseGroup": "Aging Disc DOL",
+					"priority": 1
+				}
+			}
+		},
+		{
+			"searchTerm": "Aging Disc DOL-PAL",
+			"nameType": "short",
+			"newGroup": "Aging Disc DOL",
+			"condition": {
+				"regionOrder": {
+					"higherRegions": ["UK", "Australia", "New Zealand", "Singapore", "Ireland", "Europe", "Spain", "Brazil", "Thailand", "Portugal", "France", "Belgium", "Netherlands", "Germany", "Austria", "Italy", "Switzerland", "China", "Hong Kong", "Ukraine", "Estonia", "Poland", "Latvia", "Lithuania", "Denmark", "Norway", "Sweden", "Scandinavia", "Finland", "Iceland", "Hungary", "Czech", "Greece", "India", "South Africa", "Israel", "Slovakia", "Turkey", "Croatia", "Slovenia", "United Arab Emirates", "Bulgaria", "Romania", "Albania", "Serbia", "Indonesia"],
+					"lowerRegions": ["USA", "Canada", "Latin America", "Japan", "Korea", "Taiwan", "Asia"],
+					"elseGroup": "Aging Disc DOL",
+					"priority": 1
+				}
+			}
+		},
+		{
+			"searchTerm": "^Disney Sports - Football \\(Europe\\)(.*)?",
 			"nameType": "regex",
 			"newGroup": "Disney Sports - Soccer"
 		},
 		{
-			"searchTerm": "NBA Street V3( - Mario de Dunk)? \\((Europe|Japan|USA)\\)(.*)?",
-			"nameType": "regex",
-			"newGroup": "NBA Street V3"
+			"searchTerm": "Hontai Kensa Disc DOL",
+			"nameType": "short",
+			"newGroup": "Hontai Kensa Disc DOL",
+			"condition": {
+				"regionOrder": {
+					"higherRegions": ["Japan", "Korea", "Taiwan", "Asia"],
+					"lowerRegions": ["USA", "Canada", "Latin America", "UK", "Australia", "New Zealand", "Singapore", "Ireland", "Europe", "Spain", "Brazil", "Thailand", "Portugal", "France", "Belgium", "Netherlands", "Germany", "Austria", "Italy", "Switzerland", "Hong Kong", "Ukraine", "Estonia", "Poland", "Latvia", "Lithuania", "Denmark", "Norway", "Sweden", "Scandinavia", "Finland", "Iceland", "Hungary", "Czech", "Greece", "India", "South Africa", "Israel", "Slovakia", "Turkey", "Croatia", "Slovenia", "United Arab Emirates", "Bulgaria", "Romania", "Albania", "Serbia", "Indonesia"],
+					"elseGroup": "Hontai Kensa Disc DOL",
+					"priority": 1
+				}
+			}
 		},
 		{
-			"searchTerm": "Virtua Striker 3 Ver\\. 2002 \\((Europe|Japan)\\)(.*)?",
+			"searchTerm": "Hontai Kensa Disc DOL-USA",
+			"nameType": "short",
+			"newGroup": "Hontai Kensa Disc DOL",
+			"condition": {
+				"regionOrder": {
+					"higherRegions": ["USA", "Canada", "Latin America"],
+					"lowerRegions": ["Japan", "Korea", "Taiwan", "Asia", "UK", "Australia", "New Zealand", "Singapore", "Ireland", "Europe", "Spain", "Brazil", "Thailand", "Portugal", "France", "Belgium", "Netherlands", "Germany", "Austria", "Italy", "Switzerland", "Hong Kong", "Ukraine", "Estonia", "Poland", "Latvia", "Lithuania", "Denmark", "Norway", "Sweden", "Scandinavia", "Finland", "Iceland", "Hungary", "Czech", "Greece", "India", "South Africa", "Israel", "Slovakia", "Turkey", "Croatia", "Slovenia", "United Arab Emirates", "Bulgaria", "Romania", "Albania", "Serbia", "Indonesia"],
+					"elseGroup": "Hontai Kensa Disc DOL",
+					"priority": 1
+				}
+			}
+		},
+		{
+			"searchTerm": "^NBA Street V3( - Mario de Dunk)? \\((Europe|Japan|USA)\\)(.*)?",
+			"nameType": "regex",
+			"newGroup": "NBA Street Veethree"
+		},
+		{
+			"searchTerm": "^Virtua Striker 3 Ver\\. 2002 \\((Europe|Japan)\\)(.*)?",
 			"nameType": "regex",
 			"newGroup": "Virtua Striker 2002"
 		}
@@ -50,16 +115,16 @@
 		{
 			"group": "007 - Agent Under Fire",
 			"titles": [
-				{"searchTerm": "007 - Agent Under Fire"},
 				{"searchTerm": "007 - Agent im Kreuzfeuer"},
+				{"searchTerm": "007 - Agent Under Fire"},
 				{"searchTerm": "007 - Espion pour Cible"}
 			]
 		},
 		{
 			"group": "007 - Everything or Nothing",
 			"titles": [
-				{"searchTerm": "007 - Everything or Nothing"},
 				{"searchTerm": "007 - Alles oder Nichts"},
+				{"searchTerm": "007 - Everything or Nothing"},
 				{"searchTerm": "007 - Quitte ou Double"},
 				{"searchTerm": "007 - Todo o Nada"}
 			]
@@ -67,8 +132,8 @@
 		{
 			"group": "007 - From Russia with Love",
 			"titles": [
-				{"searchTerm": "007 - From Russia with Love"},
 				{"searchTerm": "007 - Bons Baisers de Russie"},
+				{"searchTerm": "007 - From Russia with Love"},
 				{"searchTerm": "007 - Liebesgruesse aus Moskau"}
 			]
 		},
@@ -89,9 +154,9 @@
 		{
 			"group": "Action Replay Ultimate Codes for Use with Enter the Matrix",
 			"titles": [
-				{"searchTerm": "Action Replay Ultimate Codes for Use with Enter the Matrix"},
 				{"searchTerm": "Action Replay Ultimate Cheats for Use with Enter the Matrix"},
-				{"searchTerm": "Action Replay Ultimate Cheats fuer Enter the Matrix"}
+				{"searchTerm": "Action Replay Ultimate Cheats fuer Enter the Matrix"},
+				{"searchTerm": "Action Replay Ultimate Codes for Use with Enter the Matrix"}
 			]
 		},
 		{
@@ -153,15 +218,15 @@
 		{
 			"group": "Baten Kaitos Origins (Disc 1)",
 			"titles": [
-				{"searchTerm": "Baten Kaitos Origins (Disc 1)"},
-				{"searchTerm": "Baten Kaitos II - Hajimari no Tsubasa to Kamigami no Shishi (Disc 1)"}
+				{"searchTerm": "Baten Kaitos II - Hajimari no Tsubasa to Kamigami no Shishi (Disc 1)"},
+				{"searchTerm": "Baten Kaitos Origins (Disc 1)"}
 			]
 		},
 		{
 			"group": "Baten Kaitos Origins (Disc 2)",
 			"titles": [
-				{"searchTerm": "Baten Kaitos Origins (Disc 2)"},
-				{"searchTerm": "Baten Kaitos II - Hajimari no Tsubasa to Kamigami no Shishi (Disc 2)"}
+				{"searchTerm": "Baten Kaitos II - Hajimari no Tsubasa to Kamigami no Shishi (Disc 2)"},
+				{"searchTerm": "Baten Kaitos Origins (Disc 2)"}
 			]
 		},
 		{
@@ -174,8 +239,8 @@
 		{
 			"group": "Beyblade VForce - Super Tournament Battle",
 			"titles": [
-				{"searchTerm": "Beyblade VForce - Super Tournament Battle"},
-				{"searchTerm": "Bakuten Shoot Beyblade 2002 - Nettou! Magne Tag Battle!"}
+				{"searchTerm": "Bakuten Shoot Beyblade 2002 - Nettou! Magne Tag Battle!"},
+				{"searchTerm": "Beyblade VForce - Super Tournament Battle"}
 			]
 		},
 		{
@@ -188,16 +253,16 @@
 		{
 			"group": "Bloody Roar - Primal Fury",
 			"titles": [
-				{"searchTerm": "Bloody Roar - Primal Fury"},
-				{"searchTerm": "Bloody Roar - Extreme"}
+				{"searchTerm": "Bloody Roar - Extreme"},
+				{"searchTerm": "Bloody Roar - Primal Fury"}
 			]
 		},
 		{
 			"group": "Buffy the Vampire Slayer - Chaos Bleeds",
 			"titles": [
-				{"searchTerm": "Buffy the Vampire Slayer - Chaos Bleeds"},
 				{"searchTerm": "Buffy contre les Vampires - Chaos Bleeds"},
-				{"searchTerm": "Buffy im Bann der Daemonen - Chaos Bleeds"}
+				{"searchTerm": "Buffy im Bann der Daemonen - Chaos Bleeds"},
+				{"searchTerm": "Buffy the Vampire Slayer - Chaos Bleeds"}
 			]
 		},
 		{
@@ -225,9 +290,8 @@
 		{
 			"group": "Chibi-Robo! Plug into Adventure!",
 			"titles": [
-				{"searchTerm": "Chibi-Robo! Plug into Adventure!"},
 				{"searchTerm": "Chibi-Robo!"},
-				{"searchTerm": "ChibiRobo!"}
+				{"searchTerm": "Chibi-Robo! Plug into Adventure!"}
 			]
 		},
 		{
@@ -248,8 +312,8 @@
 		{
 			"group": "Conflict - Desert Storm II - Back to Baghdad",
 			"titles": [
-				{"searchTerm": "Conflict - Desert Storm II - Back to Baghdad"},
-				{"searchTerm": "Conflict - Desert Storm II"}
+				{"searchTerm": "Conflict - Desert Storm II"},
+				{"searchTerm": "Conflict - Desert Storm II - Back to Baghdad"}
 			]
 		},
 		{
@@ -262,15 +326,15 @@
 		{
 			"group": "Crash Nitro Kart",
 			"titles": [
-				{"searchTerm": "Crash Nitro Kart"},
-				{"searchTerm": "Crash Bandicoot - Bakusou! Nitro Kart"}
+				{"searchTerm": "Crash Bandicoot - Bakusou! Nitro Kart"},
+				{"searchTerm": "Crash Nitro Kart"}
 			]
 		},
 		{
 			"group": "Crash Tag Team Racing",
 			"titles": [
-				{"searchTerm": "Crash Tag Team Racing"},
-				{"searchTerm": "Crash Bandicoot - Gatchanko World"}
+				{"searchTerm": "Crash Bandicoot - Gatchanko World"},
+				{"searchTerm": "Crash Tag Team Racing"}
 			]
 		},
 		{
@@ -290,8 +354,8 @@
 		{
 			"group": "Dakar 2 - The World's Ultimate Rally",
 			"titles": [
-				{"searchTerm": "Dakar 2 - The World's Ultimate Rally"},
-				{"searchTerm": "Dakar 2"}
+				{"searchTerm": "Dakar 2"},
+				{"searchTerm": "Dakar 2 - The World's Ultimate Rally"}
 			]
 		},
 		{
@@ -312,8 +376,8 @@
 		{
 			"group": "Digimon Rumble Arena 2",
 			"titles": [
-				{"searchTerm": "Digimon Rumble Arena 2"},
-				{"searchTerm": "Digimon Battle Chronicle"}
+				{"searchTerm": "Digimon Battle Chronicle"},
+				{"searchTerm": "Digimon Rumble Arena 2"}
 			]
 		},
 		{
@@ -326,9 +390,9 @@
 		{
 			"group": "Disney-Pixar Finding Nemo",
 			"titles": [
-				{"searchTerm": "Disney-Pixar Finding Nemo"},
 				{"searchTerm": "Disney-Pixar Buscando a Nemo"},
 				{"searchTerm": "Disney-Pixar Findet Nemo"},
+				{"searchTerm": "Disney-Pixar Finding Nemo"},
 				{"searchTerm": "Disney-Pixar Le Monde de Nemo"},
 				{"searchTerm": "Disney-Pixar Nemo-reul Chajaseo"},
 				{"searchTerm": "2 Games in 1 - Disney-Pixar Die Unglaublichen + Disney-Pixar Findet Nemo (Disc 2)", "priority": 2},
@@ -338,10 +402,10 @@
 		{
 			"group": "Disney-Pixar The Incredibles",
 			"titles": [
-				{"searchTerm": "Disney-Pixar The Incredibles"},
 				{"searchTerm": "Disney-Pixar Die Unglaublichen"},
 				{"searchTerm": "Disney-Pixar Les Indestructibles"},
 				{"searchTerm": "Disney-Pixar Mr. Incredible"},
+				{"searchTerm": "Disney-Pixar The Incredibles"},
 				{"searchTerm": "2 Games in 1 - Disney-Pixar Die Unglaublichen + Disney-Pixar Findet Nemo (Disc 1)", "priority": 2},
 				{"searchTerm": "2 Games in 1 - Disney-Pixar Les Indestructibles + Disney-Pixar Le Monde de Nemo (Disc 1) (Les Indestructibles)", "priority": 2}
 			]
@@ -349,8 +413,8 @@
 		{
 			"group": "Disney-Pixar The Incredibles - Rise of the Underminer",
 			"titles": [
-				{"searchTerm": "Disney-Pixar The Incredibles - Rise of the Underminer"},
-				{"searchTerm": "Disney-Pixar Mr. Incredible - Kyouteki Underminer Toujou"}
+				{"searchTerm": "Disney-Pixar Mr. Incredible - Kyouteki Underminer Toujou"},
+				{"searchTerm": "Disney-Pixar The Incredibles - Rise of the Underminer"}
 			]
 		},
 		{
@@ -385,8 +449,8 @@
 		{
 			"group": "Disney's Party",
 			"titles": [
-				{"searchTerm": "Disney's Party"},
-				{"searchTerm": "Disney's Magical Park"}
+				{"searchTerm": "Disney's Magical Park"},
+				{"searchTerm": "Disney's Party"}
 			]
 		},
 		{
@@ -400,22 +464,22 @@
 		{
 			"group": "Disney's PK - Out of the Shadows",
 			"titles": [
-				{"searchTerm": "Disney's PK - Out of the Shadows"},
-				{"searchTerm": "Disney's Donald Duck PK"}
+				{"searchTerm": "Disney's Donald Duck PK"},
+				{"searchTerm": "Disney's PK - Out of the Shadows"}
 			]
 		},
 		{
 			"group": "Disney's Tarzan - Untamed",
 			"titles": [
-				{"searchTerm": "Disney's Tarzan - Untamed"},
-				{"searchTerm": "Disney's Tarzan - Freeride"}
+				{"searchTerm": "Disney's Tarzan - Freeride"},
+				{"searchTerm": "Disney's Tarzan - Untamed"}
 			]
 		},
 		{
 			"group": "Disney Sports - Football",
 			"titles": [
-				{"searchTerm": "Disney Sports - Football"},
-				{"searchTerm": "Disney Sports - American Football"}
+				{"searchTerm": "Disney Sports - American Football"},
+				{"searchTerm": "Disney Sports - Football"}
 			]
 		},
 		{
@@ -442,24 +506,24 @@
 		{
 			"group": "Dragon Ball Z - Budokai",
 			"titles": [
-				{"searchTerm": "Dragon Ball Z - Budokai"},
-				{"searchTerm": "Dragon Ball Z"}
+				{"searchTerm": "Dragon Ball Z"},
+				{"searchTerm": "Dragon Ball Z - Budokai"}
 			]
 		},
 		{
 			"group": "DreamWorks Over the Hedge",
 			"titles": [
-				{"searchTerm": "DreamWorks Over the Hedge"},
 				{"searchTerm": "DreamWorks Ab durch die Hecke"},
-				{"searchTerm": "DreamWorks Nos Voisins, les Hommes"}
+				{"searchTerm": "DreamWorks Nos Voisins, les Hommes"},
+				{"searchTerm": "DreamWorks Over the Hedge"}
 			]
 		},
 		{
 			"group": "DreamWorks Shark Tale",
 			"titles": [
-				{"searchTerm": "DreamWorks Shark Tale"},
 				{"searchTerm": "DreamWorks Gang de Requins"},
-				{"searchTerm": "DreamWorks Grosse Haie - Kleine Fische"}
+				{"searchTerm": "DreamWorks Grosse Haie - Kleine Fische"},
+				{"searchTerm": "DreamWorks Shark Tale"}
 			]
 		},
 		{
@@ -473,16 +537,16 @@
 		{
 			"group": "ESPN International Winter Sports 2002",
 			"titles": [
-				{"searchTerm": "ESPN International Winter Sports 2002"},
 				{"searchTerm": "ESPN International Winter Sports"},
+				{"searchTerm": "ESPN International Winter Sports 2002"},
 				{"searchTerm": "Hyper Sports 2002 Winter"}
 			]
 		},
 		{
 			"group": "Eternal Darkness - Sanity's Requiem",
 			"titles": [
-				{"searchTerm": "Eternal Darkness - Sanity's Requiem"},
-				{"searchTerm": "Eternal Darkness - Manekareta 13-nin"}
+				{"searchTerm": "Eternal Darkness - Manekareta 13-nin"},
+				{"searchTerm": "Eternal Darkness - Sanity's Requiem"}
 			]
 		},
 		{
@@ -495,59 +559,59 @@
 		{
 			"group": "Fantastic 4",
 			"titles": [
-				{"searchTerm": "Fantastic 4"},
 				{"searchTerm": "4 Fantastiques, Les"},
+				{"searchTerm": "Fantastic 4"},
 				{"searchTerm": "Fantastici 4, I"}
 			]
 		},
 		{
 			"group": "FIFA Soccer 06",
 			"titles": [
-				{"searchTerm": "FIFA Soccer 06"},
-				{"searchTerm": "FIFA 06"}
+				{"searchTerm": "FIFA 06"},
+				{"searchTerm": "FIFA Soccer 06"}
 			]
 		},
 		{
 			"group": "FIFA Soccer 07",
 			"titles": [
-				{"searchTerm": "FIFA Soccer 07"},
-				{"searchTerm": "FIFA 07"}
+				{"searchTerm": "FIFA 07"},
+				{"searchTerm": "FIFA Soccer 07"}
 			]
 		},
 		{
 			"group": "FIFA Soccer 2002",
 			"titles": [
-				{"searchTerm": "FIFA Soccer 2002"},
-				{"searchTerm": "FIFA 2002 - Road to FIFA World Cup"}
+				{"searchTerm": "FIFA 2002 - Road to FIFA World Cup"},
+				{"searchTerm": "FIFA Soccer 2002"}
 			]
 		},
 		{
 			"group": "FIFA Soccer 2003",
 			"titles": [
-				{"searchTerm": "FIFA Soccer 2003"},
 				{"searchTerm": "FIFA 2003"},
-				{"searchTerm": "FIFA Football 2003"}
+				{"searchTerm": "FIFA Football 2003"},
+				{"searchTerm": "FIFA Soccer 2003"}
 			]
 		},
 		{
 			"group": "FIFA Soccer 2004",
 			"titles": [
-				{"searchTerm": "FIFA Soccer 2004"},
-				{"searchTerm": "FIFA Football 2004"}
+				{"searchTerm": "FIFA Football 2004"},
+				{"searchTerm": "FIFA Soccer 2004"}
 			]
 		},
 		{
 			"group": "FIFA Soccer 2005",
 			"titles": [
-				{"searchTerm": "FIFA Soccer 2005"},
-				{"searchTerm": "FIFA Football 2005"}
+				{"searchTerm": "FIFA Football 2005"},
+				{"searchTerm": "FIFA Soccer 2005"}
 			]
 		},
 		{
 			"group": "FIFA World Cup Germany 2006",
 			"titles": [
-				{"searchTerm": "FIFA World Cup Germany 2006"},
-				{"searchTerm": "FIFA Fussball-Weltmeisterschaft Deutschland 2006"}
+				{"searchTerm": "FIFA Fussball-Weltmeisterschaft Deutschland 2006"},
+				{"searchTerm": "FIFA World Cup Germany 2006"}
 			]
 		},
 		{
@@ -567,8 +631,15 @@
 		{
 			"group": "Frogger Beyond",
 			"titles": [
-				{"searchTerm": "Frogger Beyond"},
-				{"searchTerm": "Frogger"}
+				{"searchTerm": "Frogger"},
+				{"searchTerm": "Frogger Beyond"}
+			]
+		},
+		{
+			"group": "Game Boy Player",
+			"titles": [
+				{"searchTerm": "Game Boy Player"},
+				{"searchTerm": "Game Boy Player Start-Up Disc"}
 			]
 		},
 		{
@@ -581,17 +652,17 @@
 		{
 			"group": "GoldenEye - Rogue Agent (Disc 1)",
 			"titles": [
-				{"searchTerm": "GoldenEye - Rogue Agent (Disc 1)"},
 				{"searchTerm": "GoldenEye - Agente Corrupto (Disc 1)"},
-				{"searchTerm": "GoldenEye - Dark Agent (Disc 1)"}
+				{"searchTerm": "GoldenEye - Dark Agent (Disc 1)"},
+				{"searchTerm": "GoldenEye - Rogue Agent (Disc 1)"}
 			]
 		},
 		{
 			"group": "GoldenEye - Rogue Agent (Disc 2)",
 			"titles": [
-				{"searchTerm": "GoldenEye - Rogue Agent (Disc 2)"},
 				{"searchTerm": "GoldenEye - Agente Corrupto (Disc 2)"},
-				{"searchTerm": "GoldenEye - Dark Agent (Disc 2)"}
+				{"searchTerm": "GoldenEye - Dark Agent (Disc 2)"},
+				{"searchTerm": "GoldenEye - Rogue Agent (Disc 2)"}
 			]
 		},
 		{
@@ -630,30 +701,30 @@
 		{
 			"group": "Harry Potter and the Sorcerer's Stone",
 			"titles": [
-				{"searchTerm": "Harry Potter and the Sorcerer's Stone"},
 				{"searchTerm": "Harry Potter and the Philosopher's Stone"},
+				{"searchTerm": "Harry Potter and the Sorcerer's Stone"},
 				{"searchTerm": "Harry Potter to Kenja no Ishi"}
 			]
 		},
 		{
 			"group": "Harvest Moon - A Wonderful Life",
 			"titles": [
-				{"searchTerm": "Harvest Moon - A Wonderful Life"},
-				{"searchTerm": "Bokujou Monogatari - Wonderful Life"}
+				{"searchTerm": "Bokujou Monogatari - Wonderful Life"},
+				{"searchTerm": "Harvest Moon - A Wonderful Life"}
 			]
 		},
 		{
 			"group": "Harvest Moon - Another Wonderful Life",
 			"titles": [
-				{"searchTerm": "Harvest Moon - Another Wonderful Life"},
-				{"searchTerm": "Bokujou Monogatari - Wonderful Life for Girl"}
+				{"searchTerm": "Bokujou Monogatari - Wonderful Life for Girl"},
+				{"searchTerm": "Harvest Moon - Another Wonderful Life"}
 			]
 		},
 		{
 			"group": "Harvest Moon - Magical Melody",
 			"titles": [
-				{"searchTerm": "Harvest Moon - Magical Melody"},
 				{"searchTerm": "Bokujou Monogatari - Shiawase no Uta for World"},
+				{"searchTerm": "Harvest Moon - Magical Melody"},
 				{"searchTerm": "Bokujou Monogatari - Shiawase no Uta", "priority": 2}
 			]
 		},
@@ -667,8 +738,8 @@
 		{
 			"group": "Kirby Air Ride",
 			"titles": [
-				{"searchTerm": "Kirby Air Ride"},
-				{"searchTerm": "Kirby's Airride"}
+				{"searchTerm": "Kirby's Airride"},
+				{"searchTerm": "Kirby Air Ride"}
 			]
 		},
 		{
@@ -709,8 +780,8 @@
 		{
 			"group": "Lemony Snicket's A Series of Unfortunate Events",
 			"titles": [
-				{"searchTerm": "Lemony Snicket's A Series of Unfortunate Events"},
 				{"searchTerm": "Desastreuses Aventures des Orphelins Baudelaire, Les - D'Apres Lemony Snicket"},
+				{"searchTerm": "Lemony Snicket's A Series of Unfortunate Events"},
 				{"searchTerm": "Lemony Snicket - Raetselhafte Ereignisse"},
 				{"searchTerm": "Una Serie de Catastroficas Desdichas de Lemony Snicket"}
 			]
@@ -718,8 +789,8 @@
 		{
 			"group": "Lord of the Rings, The - The Return of the King",
 			"titles": [
-				{"searchTerm": "Lord of the Rings, The - The Return of the King"},
 				{"searchTerm": "Herr der Ringe, Der - Die Rueckkehr des Koenigs"},
+				{"searchTerm": "Lord of the Rings, The - The Return of the King"},
 				{"searchTerm": "Lord of the Rings - Ou no Kikan"},
 				{"searchTerm": "Senor de los Anillos, El - El Retorno del Rey"},
 				{"searchTerm": "Seigneur des Anneaux, Le - Le Retour du Roi"},
@@ -729,8 +800,8 @@
 		{
 			"group": "Lord of the Rings, The - The Third Age (Disc 1)",
 			"titles": [
-				{"searchTerm": "Lord of the Rings, The - The Third Age (Disc 1)"},
 				{"searchTerm": "Herr der Ringe, Der - Das dritte Zeitalter (Disc 1)"},
+				{"searchTerm": "Lord of the Rings, The - The Third Age (Disc 1)"},
 				{"searchTerm": "Lord of the Rings - Nakatsu Kuni Daisanki (Disc 1)"},
 				{"searchTerm": "Seigneur des Anneaux, Le - Le Tiers Age (Disc 1)"},
 				{"searchTerm": "Senor de los Anillos, El - La Tercera Edad (Disc 1)"}
@@ -739,8 +810,8 @@
 		{
 			"group": "Lord of the Rings, The - The Third Age (Disc 2)",
 			"titles": [
-				{"searchTerm": "Lord of the Rings, The - The Third Age (Disc 2)"},
 				{"searchTerm": "Herr der Ringe, Der - Das dritte Zeitalter (Disc 2)"},
+				{"searchTerm": "Lord of the Rings, The - The Third Age (Disc 2)"},
 				{"searchTerm": "Lord of the Rings - Nakatsu Kuni Daisanki (Disc 2)"},
 				{"searchTerm": "Seigneur des Anneaux, Le - Le Tiers Age (Disc 2)"},
 				{"searchTerm": "Senor de los Anillos, El - La Tercera Edad (Disc 2)"}
@@ -749,8 +820,8 @@
 		{
 			"group": "Lord of the Rings, The - The Two Towers",
 			"titles": [
-				{"searchTerm": "Lord of the Rings, The - The Two Towers"},
 				{"searchTerm": "Herr der Ringe, Der - Die zwei Tuerme"},
+				{"searchTerm": "Lord of the Rings, The - The Two Towers"},
 				{"searchTerm": "Lord of the Rings - Futatsu no Tou"},
 				{"searchTerm": "Seigneur des Anneaux, Le - Les Deux Tours"},
 				{"searchTerm": "Senor de los Anillos, El - Las Dos Torres"},
@@ -781,8 +852,8 @@
 		{
 			"group": "Mario Golf - Toadstool Tour",
 			"titles": [
-				{"searchTerm": "Mario Golf - Toadstool Tour"},
-				{"searchTerm": "Mario Golf - Family Tour"}
+				{"searchTerm": "Mario Golf - Family Tour"},
+				{"searchTerm": "Mario Golf - Toadstool Tour"}
 			]
 		},
 		{
@@ -795,15 +866,15 @@
 		{
 			"group": "Mario Superstar Baseball",
 			"titles": [
-				{"searchTerm": "Mario Superstar Baseball"},
-				{"searchTerm": "Super Mario Stadium - Miracle Baseball"}
+				{"searchTerm": "Super Mario Stadium - Miracle Baseball"},
+				{"searchTerm": "Mario Superstar Baseball"}
 			]
 		},
 		{
 			"group": "Marvel Nemesis - Rise of the Imperfects",
 			"titles": [
-				{"searchTerm": "Marvel Nemesis - Rise of the Imperfects"},
-				{"searchTerm": "Marvel Nemesis - L'Avenement des Imparfaits"}
+				{"searchTerm": "Marvel Nemesis - L'Avenement des Imparfaits"},
+				{"searchTerm": "Marvel Nemesis - Rise of the Imperfects"}
 			]
 		},
 		{
@@ -816,16 +887,16 @@
 		{
 			"group": "Medal of Honor - European Assault",
 			"titles": [
-				{"searchTerm": "Medal of Honor - European Assault"},
 				{"searchTerm": "Medal of Honor - Europa Kyoushuu"},
+				{"searchTerm": "Medal of Honor - European Assault"},
 				{"searchTerm": "Medal of Honor - Les Faucons de Guerre"}
 			]
 		},
 		{
 			"group": "Medal of Honor - Frontline",
 			"titles": [
-				{"searchTerm": "Medal of Honor - Frontline"},
-				{"searchTerm": "Medal of Honor - En Premiere Ligne"}
+				{"searchTerm": "Medal of Honor - En Premiere Ligne"},
+				{"searchTerm": "Medal of Honor - Frontline"}
 			]
 		},
 		{
@@ -859,42 +930,42 @@
 		{
 			"group": "Metroid Prime 2 - Echoes",
 			"titles": [
-				{"searchTerm": "Metroid Prime 2 - Echoes"},
-				{"searchTerm": "Metroid Prime 2 - Dark Echoes"}
+				{"searchTerm": "Metroid Prime 2 - Dark Echoes"},
+				{"searchTerm": "Metroid Prime 2 - Echoes"}
 			]
 		},
 		{
 			"group": "Minority Report - Everybody Runs",
 			"titles": [
-				{"searchTerm": "Minority Report - Everybody Runs"},
-				{"searchTerm": "Minority Report - Le Futur vous Rattrape"}
+				{"searchTerm": "Minority Report - Le Futur vous Rattrape"},
+				{"searchTerm": "Minority Report - Everybody Runs"}
 			]
 		},
 		{
 			"group": "Monopoly Party",
 			"titles": [
-				{"searchTerm": "Monopoly Party"},
-				{"searchTerm": "Monopoly - Mezase!! Daifugou Jinsei!!"}
+				{"searchTerm": "Monopoly - Mezase!! Daifugou Jinsei!!"},
+				{"searchTerm": "Monopoly Party"}
 			]
 		},
 		{
 			"group": "Mystic Heroes",
 			"titles": [
-				{"searchTerm": "Mystic Heroes"},
-				{"searchTerm": "Battle Houshin"}
+				{"searchTerm": "Battle Houshin"},
+				{"searchTerm": "Mystic Heroes"}
 			]
 		},
 		{
 			"group": "Naruto - Clash of Ninja",
 			"titles": [
 				{"searchTerm": "Naruto - Clash of Ninja"},
-				{"searchTerm": "Naruto - Clash of Ninja - European Version"},
 				{"searchTerm": "Naruto - Gekitou Ninja Taisen!"}
 			]
 		},
 		{
 			"group": "Naruto - Clash of Ninja 2",
 			"titles": [
+				{"searchTerm": "Naruto - Clash of Ninja - European Version"},
 				{"searchTerm": "Naruto - Clash of Ninja 2"},
 				{"searchTerm": "Naruto - Gekitou Ninja Taisen! 2"}
 			]
@@ -923,41 +994,41 @@
 		{
 			"group": "Nickelodeon Rugrats - Royal Ransom",
 			"titles": [
-				{"searchTerm": "Nickelodeon Rugrats - Royal Ransom"},
-				{"searchTerm": "Nickelodeon Les Razmoket - La Rancon Royale"}
+				{"searchTerm": "Nickelodeon Les Razmoket - La Rancon Royale"},
+				{"searchTerm": "Nickelodeon Rugrats - Royal Ransom"}
 			]
 		},
 		{
 			"group": "Nickelodeon SpongeBob SquarePants - Battle for Bikini Bottom",
 			"titles": [
-				{"searchTerm": "Nickelodeon SpongeBob SquarePants - Battle for Bikini Bottom"},
-				{"searchTerm": "2 Games in 1 - Nickelodeon SpongeBob Schwammkopf - Der Film + Nickelodeon SpongeBob Schwammkopf - Schlacht um Bikini Bottom (Disc 2)"}
+				{"searchTerm": "2 Games in 1 - Nickelodeon SpongeBob Schwammkopf - Der Film + Nickelodeon SpongeBob Schwammkopf - Schlacht um Bikini Bottom (Disc 2)"},
+				{"searchTerm": "Nickelodeon SpongeBob SquarePants - Battle for Bikini Bottom"}
 			]
 		},
 		{
 			"group": "Nickelodeon SpongeBob SquarePants - Creature from the Krusty Krab",
 			"titles": [
-				{"searchTerm": "Nickelodeon SpongeBob SquarePants - Creature from the Krusty Krab"},
-				{"searchTerm": "Nickelodeon Bob L'eponge - La Creature du Crabe Croustillant"},
 				{"searchTerm": "Nick SpongeBob Schwammkopf - Die Kreatur aus der Krossen Krabbe"},
+				{"searchTerm": "Nickelodeon Bob L'eponge - La Creature du Crabe Croustillant"},
+				{"searchTerm": "Nickelodeon SpongeBob SquarePants - Creature from the Krusty Krab"},
 				{"searchTerm": "Nickelodeon SpongeBob SquarePants - Creatuur van de Krokante Krab"}
 			]
 		},
 		{
 			"group": "Nickelodeon SpongeBob SquarePants - Lights, Camera, Pants!",
 			"titles": [
-				{"searchTerm": "Nickelodeon SpongeBob SquarePants - Lights, Camera, Pants!"},
 				{"searchTerm": "Nickelodeon Bob L'eponge - Silence on Tourne!"},
 				{"searchTerm": "Nickelodeon SpongeBob Schwammkopf - Film ab!"},
-				{"searchTerm": "Nickelodeon SpongeBob SquarePants - Licht uit, Camera aan!"}
+				{"searchTerm": "Nickelodeon SpongeBob SquarePants - Licht uit, Camera aan!"},
+				{"searchTerm": "Nickelodeon SpongeBob SquarePants - Lights, Camera, Pants!"}
 			]
 		},
 		{
 			"group": "Nickelodeon SpongeBob SquarePants - The Movie",
 			"titles": [
-				{"searchTerm": "Nickelodeon SpongeBob SquarePants - The Movie"},
 				{"searchTerm": "2 Games in 1 - Bob L'eponge - Le Film + Tak 2 - Le Sceptre des Reves (Disc 1) (Bob L'eponge - Le Film)"},
 				{"searchTerm": "2 Games in 1 - Nickelodeon SpongeBob Schwammkopf - Der Film + Nickelodeon SpongeBob Schwammkopf - Schlacht um Bikini Bottom (Disc 1)"},
+				{"searchTerm": "Nickelodeon SpongeBob SquarePants - The Movie"},
 				{"searchTerm": "Nickelodeon SpongeBob Schwammkopf - Der Film", "priority": 2},
 				{"searchTerm": "2 Games in 1 - Nickelodeon SpongeBob Schwammkopf - Der Film + Nickelodeon Tak 2 - Der Stab der Traeume (Disc 1)", "priority": 3}
 			]
@@ -965,17 +1036,17 @@
 		{
 			"group": "Tak and the Power of Juju",
 			"titles": [
-				{"searchTerm": "Tak and the Power of Juju"},
 				{"searchTerm": "Tak & Le Pouvoir de Juju"},
+				{"searchTerm": "Tak and the Power of Juju"},
 				{"searchTerm": "Tak und die Macht des Juju"}
 			]
 		},
 		{
 			"group": "Nickelodeon Tak 2 - The Staff of Dreams",
 			"titles": [
-				{"searchTerm": "Nickelodeon Tak 2 - The Staff of Dreams"},
 				{"searchTerm": "Nickelodeon Tak 2 - Der Stab der Traeume"},
 				{"searchTerm": "Nickelodeon Tak 2 - Le Sceptre des Reves"},
+				{"searchTerm": "Nickelodeon Tak 2 - The Staff of Dreams"},
 				{"searchTerm": "2 Games in 1 - Bob L'eponge - Le Film + Tak 2 - Le Sceptre des Reves (Disc 2) (Tak 2 - Le Sceptre des Reves)", "priority": 2},
 				{"searchTerm": "2 Games in 1 - Nickelodeon SpongeBob Schwammkopf - Der Film + Nickelodeon Tak 2 - Der Stab der Traeume (Disc 2)", "priority": 2}
 			]
@@ -983,8 +1054,8 @@
 		{
 			"group": "Nicktoons Unite!",
 			"titles": [
-				{"searchTerm": "Nicktoons Unite!"},
-				{"searchTerm": "Nickelodeon SpongeBob SquarePants and Friends Unite!"}
+				{"searchTerm": "Nickelodeon SpongeBob SquarePants and Friends Unite!"},
+				{"searchTerm": "Nicktoons Unite!"}
 			]
 		},
 		{
@@ -1034,160 +1105,160 @@
 		{
 			"group": "R-Racing Evolution",
 			"titles": [
-				{"searchTerm": "R-Racing Evolution"},
 				{"searchTerm": "R-Racing"},
+				{"searchTerm": "R-Racing Evolution"},
 				{"searchTerm": "R-Racing Evolution - Life in the Fast Lane"}
 			]
 		},
 		{
 			"group": "Rave Master",
 			"titles": [
-				{"searchTerm": "Rave Master"},
-				{"searchTerm": "Groove Adventure Rave - Fighting Live"}
+				{"searchTerm": "Groove Adventure Rave - Fighting Live"},
+				{"searchTerm": "Rave Master"}
 			]
 		},
 		{
 			"group": "RedCard 20-03",
 			"titles": [
-				{"searchTerm": "RedCard 20-03"},
-				{"searchTerm": "RedCard"}
+				{"searchTerm": "RedCard"},
+				{"searchTerm": "RedCard 20-03"}
 			]
 		},
 		{
 			"group": "Resident Evil (Disc 1)",
 			"titles": [
-				{"searchTerm": "Resident Evil (Disc 1)"},
-				{"searchTerm": "Biohazard (Disc 1)"}
+				{"searchTerm": "Biohazard (Disc 1)"},
+				{"searchTerm": "Resident Evil (Disc 1)"}
 			]
 		},
 		{
 			"group": "Resident Evil (Disc 2)",
 			"titles": [
-				{"searchTerm": "Resident Evil (Disc 2)"},
-				{"searchTerm": "Biohazard (Disc 2)"}
+				{"searchTerm": "Biohazard (Disc 2)"},
+				{"searchTerm": "Resident Evil (Disc 2)"}
 			]
 		},
 		{
 			"group": "Resident Evil - Code - Veronica X (Disc 1)",
 			"titles": [
-				{"searchTerm": "Resident Evil - Code - Veronica X (Disc 1)"},
-				{"searchTerm": "Biohazard - Code - Veronica - Kanzenban (Disc 1)"}
+				{"searchTerm": "Biohazard - Code - Veronica - Kanzenban (Disc 1)"},
+				{"searchTerm": "Resident Evil - Code - Veronica X (Disc 1)"}
 			]
 		},
 		{
 			"group": "Resident Evil - Code - Veronica X (Disc 2)",
 			"titles": [
-				{"searchTerm": "Resident Evil - Code - Veronica X (Disc 2)"},
-				{"searchTerm": "Biohazard - Code - Veronica - Kanzenban (Disc 2)"}
+				{"searchTerm": "Biohazard - Code - Veronica - Kanzenban (Disc 2)"},
+				{"searchTerm": "Resident Evil - Code - Veronica X (Disc 2)"}
 			]
 		},
 		{
 			"group": "Resident Evil 2",
 			"titles": [
-				{"searchTerm": "Resident Evil 2"},
-				{"searchTerm": "Biohazard 2"}
+				{"searchTerm": "Biohazard 2"},
+				{"searchTerm": "Resident Evil 2"}
 			]
 		},
 		{
 			"group": "Resident Evil 3 - Nemesis",
 			"titles": [
-				{"searchTerm": "Resident Evil 3 - Nemesis"},
-				{"searchTerm": "Biohazard 3 - Last Escape"}
+				{"searchTerm": "Biohazard 3 - Last Escape"},
+				{"searchTerm": "Resident Evil 3 - Nemesis"}
 			]
 		},
 		{
 			"group": "Resident Evil 4 (Disc 1)",
 			"titles": [
-				{"searchTerm": "Resident Evil 4 (Disc 1)"},
-				{"searchTerm": "Biohazard 4 (Disc 1)"}
+				{"searchTerm": "Biohazard 4 (Disc 1)"},
+				{"searchTerm": "Resident Evil 4 (Disc 1)"}
 			]
 		},
 		{
 			"group": "Resident Evil 4 (Disc 2)",
 			"titles": [
-				{"searchTerm": "Resident Evil 4 (Disc 2)"},
-				{"searchTerm": "Biohazard 4 (Disc 2)"}
+				{"searchTerm": "Biohazard 4 (Disc 2)"},
+				{"searchTerm": "Resident Evil 4 (Disc 2)"}
 			]
 		},
 		{
 			"group": "Resident Evil Zero (Disc 1)",
 			"titles": [
-				{"searchTerm": "Resident Evil Zero (Disc 1)"},
-				{"searchTerm": "Biohazard Zero (Disc 1)"}
+				{"searchTerm": "Biohazard Zero (Disc 1)"},
+				{"searchTerm": "Resident Evil Zero (Disc 1)"}
 			]
 		},
 		{
 			"group": "Resident Evil Zero (Disc 2)",
 			"titles": [
-				{"searchTerm": "Resident Evil Zero (Disc 2)"},
-				{"searchTerm": "Biohazard Zero (Disc 2)"}
+				{"searchTerm": "Biohazard Zero (Disc 2)"},
+				{"searchTerm": "Resident Evil Zero (Disc 2)"}
 			]
 		},
 		{
 			"group": "Ribbit King",
 			"titles": [
-				{"searchTerm": "Ribbit King"},
-				{"searchTerm": "Kero Kero King DX"}
+				{"searchTerm": "Kero Kero King DX"},
+				{"searchTerm": "Ribbit King"}
 			]
 		},
 		{
 			"group": "Road Trip - The Arcade Edition",
 			"titles": [
-				{"searchTerm": "Road Trip - The Arcade Edition"},
 				{"searchTerm": "Choro Q!"},
-				{"searchTerm": "Gadget Racers"}
+				{"searchTerm": "Gadget Racers"},
+				{"searchTerm": "Road Trip - The Arcade Edition"}
 			]
 		},
 		{
 			"group": "Scooby-Doo! Mystery Mayhem",
 			"titles": [
-				{"searchTerm": "Scooby-Doo! Mystery Mayhem"},
 				{"searchTerm": "Scooby-Doo! Fluch der Folianten"},
-				{"searchTerm": "Scooby-Doo! Le Livre des Tenebres"}
+				{"searchTerm": "Scooby-Doo! Le Livre des Tenebres"},
+				{"searchTerm": "Scooby-Doo! Mystery Mayhem"}
 			]
 		},
 		{
 			"group": "Scooby-Doo! Night of 100 Frights",
 			"titles": [
-				{"searchTerm": "Scooby-Doo! Night of 100 Frights"},
 				{"searchTerm": "Scooby-Doo! La Nuit des 100 Frissons"},
-				{"searchTerm": "Scooby-Doo! Nacht der 100 Schrecken"}
+				{"searchTerm": "Scooby-Doo! Nacht der 100 Schrecken"},
+				{"searchTerm": "Scooby-Doo! Night of 100 Frights"}
 			]
 		},
 		{
 			"group": "Shonen Jump's One Piece - Grand Battle",
 			"titles": [
-				{"searchTerm": "Shonen Jump's One Piece - Grand Battle"},
-				{"searchTerm": "One Piece - Grand Battle! Rush"}
+				{"searchTerm": "One Piece - Grand Battle! Rush"},
+				{"searchTerm": "Shonen Jump's One Piece - Grand Battle"}
 			]
 		},
 		{
 			"group": "Shonen Jump's One Piece - Pirates' Carnival",
 			"titles": [
-				{"searchTerm": "Shonen Jump's One Piece - Pirates' Carnival"},
-				{"searchTerm": "One Piece - Pirates Carnival"}
+				{"searchTerm": "One Piece - Pirates Carnival"},
+				{"searchTerm": "Shonen Jump's One Piece - Pirates' Carnival"}
 			]
 		},
 		{
 			"group": "Skies of Arcadia Legends",
 			"titles": [
-				{"searchTerm": "Skies of Arcadia Legends"},
-				{"searchTerm": "Eternal Arcadia Legends"}
+				{"searchTerm": "Eternal Arcadia Legends"},
+				{"searchTerm": "Skies of Arcadia Legends"}
 			]
 		},
 		{
 			"group": "Sonic Adventure DX - Director's Cut",
 			"titles": [
-				{"searchTerm": "Sonic Adventure DX - Director's Cut"},
-				{"searchTerm": "Sonic Adventure DX"}
+				{"searchTerm": "Sonic Adventure DX"},
+				{"searchTerm": "Sonic Adventure DX - Director's Cut"}
 			]
 		},
 		{
 			"group": "Spirits & Spells",
 			"titles": [
-				{"searchTerm": "Spirits & Spells"},
 				{"searchTerm": "Castleween"},
-				{"searchTerm": "Mahou no Pumpkin - An to Greg no Daibouken"}
+				{"searchTerm": "Mahou no Pumpkin - An to Greg no Daibouken"},
+				{"searchTerm": "Spirits & Spells"}
 			]
 		},
 		{
@@ -1200,23 +1271,23 @@
 		{
 			"group": "Star Wars - Rogue Squadron II - Rogue Leader",
 			"titles": [
-				{"searchTerm": "Star Wars - Rogue Squadron II - Rogue Leader"},
-				{"searchTerm": "Star Wars - Rogue Squadron II"}
+				{"searchTerm": "Star Wars - Rogue Squadron II"},
+				{"searchTerm": "Star Wars - Rogue Squadron II - Rogue Leader"}
 			]
 		},
 		{
 			"group": "Star Wars - Rogue Squadron III - Rebel Strike",
 			"titles": [
-				{"searchTerm": "Star Wars - Rogue Squadron III - Rebel Strike"},
-				{"searchTerm": "Star Wars - Rogue Squadron III"}
+				{"searchTerm": "Star Wars - Rogue Squadron III"},
+				{"searchTerm": "Star Wars - Rogue Squadron III - Rebel Strike"}
 			]
 		},
 		{
 			"group": "Star Wars - The Clone Wars",
 			"titles": [
-				{"searchTerm": "Star Wars - The Clone Wars"},
 				{"searchTerm": "Star Wars - La Guerra dei Cloni"},
-				{"searchTerm": "Star Wars - Las Guerras Clon"}
+				{"searchTerm": "Star Wars - Las Guerras Clon"},
+				{"searchTerm": "Star Wars - The Clone Wars"}
 			]
 		},
 		{
@@ -1229,22 +1300,22 @@
 		{
 			"group": "Super Mario Strikers",
 			"titles": [
-				{"searchTerm": "Super Mario Strikers"},
-				{"searchTerm": "Mario Smash Football"}
+				{"searchTerm": "Mario Smash Football"},
+				{"searchTerm": "Super Mario Strikers"}
 			]
 		},
 		{
 			"group": "Super Smash Bros. Melee",
 			"titles": [
-				{"searchTerm": "Super Smash Bros. Melee"},
-				{"searchTerm": "Dairantou Smash Brothers DX"}
+				{"searchTerm": "Dairantou Smash Brothers DX"},
+				{"searchTerm": "Super Smash Bros. Melee"}
 			]
 		},
 		{
 			"group": "Swingerz Golf",
 			"titles": [
-				{"searchTerm": "Swingerz Golf"},
 				{"searchTerm": "Ace Golf"},
+				{"searchTerm": "Swingerz Golf"},
 				{"searchTerm": "Wai Wai Golf"}
 			]
 		},
@@ -1258,17 +1329,17 @@
 		{
 			"group": "Top Gun - Combat Zones",
 			"titles": [
-				{"searchTerm": "Top Gun - Combat Zones"},
-				{"searchTerm": "Top Gun - Ace of the Sky"}
+				{"searchTerm": "Top Gun - Ace of the Sky"},
+				{"searchTerm": "Top Gun - Combat Zones"}
 			]
 		},
 		{
 			"group": "Ultimate Codes for Use with The Legend of Zelda - The Wind Waker",
 			"titles": [
-				{"searchTerm": "Ultimate Codes for Use with The Legend of Zelda - The Wind Waker"},
 				{"searchTerm": "CD avec les Codes Action Replay Exclusivement pour le Jeu The Legend of Zelda - The Wind Waker"},
 				{"searchTerm": "Ultimate Cheats for Use with The Legend of Zelda - The Wind Waker"},
-				{"searchTerm": "Ultimate Cheats fuer The Legend of Zelda - The Wind Waker"}
+				{"searchTerm": "Ultimate Cheats fuer The Legend of Zelda - The Wind Waker"},
+				{"searchTerm": "Ultimate Codes for Use with The Legend of Zelda - The Wind Waker"}
 			]
 		},
 		{
@@ -1281,22 +1352,22 @@
 		{
 			"group": "Ultimate Codes for Use with Metroid Prime",
 			"titles": [
-				{"searchTerm": "Ultimate Codes for Use with Metroid Prime"},
-				{"searchTerm": "Ultimate Cheats for Use with Metroid Prime"}
+				{"searchTerm": "Ultimate Cheats for Use with Metroid Prime"},
+				{"searchTerm": "Ultimate Codes for Use with Metroid Prime"}
 			]
 		},
 		{
 			"group": "Ultimate Muscle - Legends vs. New Generation",
 			"titles": [
-				{"searchTerm": "Ultimate Muscle - Legends vs. New Generation"},
-				{"searchTerm": "Kinnikuman Nisei - Shinsedai Choujin vs. Densetsu Choujin"}
+				{"searchTerm": "Kinnikuman Nisei - Shinsedai Choujin vs. Densetsu Choujin"},
+				{"searchTerm": "Ultimate Muscle - Legends vs. New Generation"}
 			]
 		},
 		{
 			"group": "Universal Studios Theme Park Adventure",
 			"titles": [
-				{"searchTerm": "Universal Studios Theme Park Adventure"},
-				{"searchTerm": "Universal Studios Japan Adventure"}
+				{"searchTerm": "Universal Studios Japan Adventure"},
+				{"searchTerm": "Universal Studios Theme Park Adventure"}
 			]
 		},
 		{
@@ -1309,8 +1380,8 @@
 		{
 			"group": "Viewtiful Joe - Red Hot Rumble",
 			"titles": [
-				{"searchTerm": "Viewtiful Joe - Red Hot Rumble"},
-				{"searchTerm": "Viewtiful Joe - Battle Carnival"}
+				{"searchTerm": "Viewtiful Joe - Battle Carnival"},
+				{"searchTerm": "Viewtiful Joe - Red Hot Rumble"}
 			]
 		},
 		{
@@ -1323,51 +1394,51 @@
 		{
 			"group": "Virtua Quest",
 			"titles": [
-				{"searchTerm": "Virtua Quest"},
-				{"searchTerm": "Virtua Fighter Cyber Generation - Judgment Six no Yabou"}
+				{"searchTerm": "Virtua Fighter Cyber Generation - Judgment Six no Yabou"},
+				{"searchTerm": "Virtua Quest"}
 			]
 		},
 		{
 			"group": "WarioWare, Inc. - Mega Party Game$!",
 			"titles": [
-				{"searchTerm": "WarioWare, Inc. - Mega Party Game$!"},
-				{"searchTerm": "Atsumare!! Made in Wario"}
+				{"searchTerm": "Atsumare!! Made in Wario"},
+				{"searchTerm": "WarioWare, Inc. - Mega Party Game$!"}
 			]
 		},
 		{
 			"group": "WTA Tour Tennis",
 			"titles": [
-				{"searchTerm": "WTA Tour Tennis"},
 				{"searchTerm": "Pro Tennis WTA Tour"},
+				{"searchTerm": "WTA Tour Tennis"},
 				{"searchTerm": "WTA Tour Tennis Pro Evolution"}
 			]
 		},
 		{
 			"group": "X-Men Legends II - Rise of Apocalypse",
 			"titles": [
-				{"searchTerm": "X-Men Legends II - Rise of Apocalypse"},
-				{"searchTerm": "X-Men Legends II - El Ascenso de Apocalipsis"}
+				{"searchTerm": "X-Men Legends II - El Ascenso de Apocalipsis"},
+				{"searchTerm": "X-Men Legends II - Rise of Apocalypse"}
 			]
 		},
 		{
 			"group": "X2 - Wolverine's Revenge",
 			"titles": [
-				{"searchTerm": "X2 - Wolverine's Revenge"},
-				{"searchTerm": "X-Men 2 - Wolverine's Revenge"}
+				{"searchTerm": "X-Men 2 - Wolverine's Revenge"},
+				{"searchTerm": "X2 - Wolverine's Revenge"}
 			]
 		},
 		{
 			"group": "Yu-Gi-Oh! The Falsebound Kingdom",
 			"titles": [
-				{"searchTerm": "Yu-Gi-Oh! The Falsebound Kingdom"},
-				{"searchTerm": "Yu-Gi-Oh! Falsebound Kingdom - Kyokou ni Tozasareta Oukoku"}
+				{"searchTerm": "Yu-Gi-Oh! Falsebound Kingdom - Kyokou ni Tozasareta Oukoku"},
+				{"searchTerm": "Yu-Gi-Oh! The Falsebound Kingdom"}
 			]
 		},
 		{
 			"group": "Zatch Bell! Mamodo Battles",
 			"titles": [
-				{"searchTerm": "Zatch Bell! Mamodo Battles"},
-				{"searchTerm": "Konjiki no Gashbell!! Yuujou Tag Battle 2"}
+				{"searchTerm": "Konjiki no Gashbell!! Yuujou Tag Battle 2"},
+				{"searchTerm": "Zatch Bell! Mamodo Battles"}
 			]
 		},
 		{

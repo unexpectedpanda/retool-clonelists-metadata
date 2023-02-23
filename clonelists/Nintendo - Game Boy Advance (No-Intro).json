@@ -1,23 +1,18 @@
 {
 	"description": {
 		"name": "Nintendo - Game Boy Advance (No-Intro)",
-		"lastUpdated": "15 May 2022",
+		"lastUpdated": "12 January 2023",
 		"minimumVersion": "2.00"
 	},
 
 	"categories": [
 		{
-			"searchTerm": "Action Replay( (GBA|MAX))?",
+			"searchTerm": "^Action Replay( (GBA|MAX))?",
 			"nameType": "regex",
 			"categories": ["Applications"]
 		},
 		{
 			"searchTerm": "Advanced Music Player",
-			"nameType": "short",
-			"categories": ["Applications"]
-		},
-		{
-			"searchTerm": "AGS Aging Cartridge",
 			"nameType": "short",
 			"categories": ["Applications"]
 		},
@@ -77,11 +72,6 @@
 			"categories": ["Applications"]
 		},
 		{
-			"searchTerm": "Viewpoint (Unknown) (Techo Demo)",
-			"nameType": "full",
-			"categories": ["Demos"]
-		},
-		{
 			"searchTerm": "Xploder Advance",
 			"nameType": "short",
 			"categories": ["Applications"]
@@ -94,7 +84,7 @@
 			"newGroup": "Cat in the Hat, The USA"
 		},
 		{
-			"searchTerm": "Gadget Racers \\(Europe\\)(.*)?",
+			"searchTerm": "^Gadget Racers \\(Europe\\)(.*)?",
 			"nameType": "regex",
 			"newGroup": "Shifting Gears - Road Trip"
 		},
@@ -133,8 +123,8 @@
 		{
 			"group": "Aero the Acro-Bat - Rascal Rival Revenge",
 			"titles": [
-				{"searchTerm": "Aero the Acro-Bat - Rascal Rival Revenge"},
-				{"searchTerm": "Acrobat Kid"}
+				{"searchTerm": "Acrobat Kid"},
+				{"searchTerm": "Aero the Acro-Bat - Rascal Rival Revenge"}
 			]
 		},
 		{
@@ -147,8 +137,8 @@
 		{
 			"group": "AirForce Delta Storm",
 			"titles": [
-				{"searchTerm": "AirForce Delta Storm"},
 				{"searchTerm": "AirForce Delta II"},
+				{"searchTerm": "AirForce Delta Storm"},
 				{"searchTerm": "Deadly Skies"}
 			]
 		},
@@ -179,6 +169,13 @@
 				{"searchTerm": "American Idol"},
 				{"searchTerm": "Deutschland Sucht den Superstar"},
 				{"searchTerm": "Pop Idol"}
+			]
+		},
+		{
+			"group": "Anguna - Warriors of Virtue",
+			"titles": [
+				{"searchTerm": "Anguna - Warriors of Virtue"},
+				{"searchTerm": "Anguna - Warriors of Virtue (Patreon)"}
 			]
 		},
 		{
@@ -238,15 +235,15 @@
 			"group": "Banjo-Kazooie - Grunty's Revenge",
 			"titles": [
 				{"searchTerm": "Banjo-Kazooie - Grunty's Revenge"},
-				{"searchTerm": "Banjo-Kazooie - La Vendetta di Grunty"},
-				{"searchTerm": "Banjo-Kazooie - La Venganza de Grunty"}
+				{"searchTerm": "Banjo-Kazooie - La Venganza de Grunty"},
+				{"searchTerm": "Banjo-Kazooie - La Vendetta di Grunty"}
 			]
 		},
 		{
 			"group": "Barbie Horse Adventures - Blue Ribbon Race",
 			"titles": [
-				{"searchTerm": "Barbie Horse Adventures - Blue Ribbon Race"},
-				{"searchTerm": "Barbie Horse Adventures"}
+				{"searchTerm": "Barbie Horse Adventures"},
+				{"searchTerm": "Barbie Horse Adventures - Blue Ribbon Race"}
 			]
 		},
 		{
@@ -317,15 +314,15 @@
 		{
 			"group": "Bomberman Max 2 - Red Advance",
 			"titles": [
-				{"searchTerm": "Bomberman Max 2 - Red Advance"},
-				{"searchTerm": "Bomberman Max 2 - Max Version"}
+				{"searchTerm": "Bomberman Max 2 - Max Version"},
+				{"searchTerm": "Bomberman Max 2 - Red Advance"}
 			]
 		},
 		{
 			"group": "Bomberman Tournament",
 			"titles": [
-				{"searchTerm": "Bomberman Tournament"},
-				{"searchTerm": "Bomberman Story"}
+				{"searchTerm": "Bomberman Story"},
+				{"searchTerm": "Bomberman Tournament"}
 			]
 		},
 		{
@@ -349,8 +346,8 @@
 			],
 			"compilations": [
 				{"searchTerm": "2 Games in 1 - Brother Bear + The Lion King", "titlePosition": 1},
-				{"searchTerm": "2 Games in 1 - Disney Princess + Brother Bear", "titlePosition": 2},
 				{"searchTerm": "2 Games in 1 - Disney Princesas + Hermano Oso", "titlePosition": 2},
+				{"searchTerm": "2 Games in 1 - Disney Princess + Brother Bear", "titlePosition": 2},
 				{"searchTerm": "2 Games in 1 - Disney Princesse + Frere des Ours", "titlePosition": 2},
 				{"searchTerm": "2 Games in 1 - Disney Principesse + Koda, Fratello Orso", "titlePosition": 2},
 				{"searchTerm": "2 Games in 1 - Disneys Prinzessinnen + Baerenbrueder", "titlePosition": 2}
@@ -359,9 +356,9 @@
 		{
 			"group": "Buffy the Vampire Slayer - Wrath of the Darkhul King",
 			"titles": [
-				{"searchTerm": "Buffy the Vampire Slayer - Wrath of the Darkhul King"},
 				{"searchTerm": "Buffy - Im Bann der Daemonen - Koenig Darkhuls Zorn"},
-				{"searchTerm": "Buffy contre les Vampires - La Colere de Darkhul"}
+				{"searchTerm": "Buffy contre les Vampires - La Colere de Darkhul"},
+				{"searchTerm": "Buffy the Vampire Slayer - Wrath of the Darkhul King"}
 			]
 		},
 		{
@@ -401,23 +398,23 @@
 		{
 			"group": "Castlevania - Circle of the Moon",
 			"titles": [
-				{"searchTerm": "Castlevania - Circle of the Moon"},
 				{"searchTerm": "Akumajou Dracula - Circle of the Moon"},
-				{"searchTerm": "Castlevania"}
+				{"searchTerm": "Castlevania"},
+				{"searchTerm": "Castlevania - Circle of the Moon"}
 			]
 		},
 		{
 			"group": "Castlevania - Aria of Sorrow",
 			"titles": [
-				{"searchTerm": "Castlevania - Aria of Sorrow"},
-				{"searchTerm": "Castlevania - Akatsuki no Minuet"}
+				{"searchTerm": "Castlevania - Akatsuki no Minuet"},
+				{"searchTerm": "Castlevania - Aria of Sorrow"}
 			]
 		},
 		{
 			"group": "Castlevania - Harmony of Dissonance",
 			"titles": [
-				{"searchTerm": "Castlevania - Harmony of Dissonance"},
-				{"searchTerm": "Castlevania - Byakuya no Concerto"}
+				{"searchTerm": "Castlevania - Byakuya no Concerto"},
+				{"searchTerm": "Castlevania - Harmony of Dissonance"}
 			]
 		},
 		{
@@ -475,8 +472,8 @@
 				{"searchTerm": "Famicom Mini 15 - Dr. Mario"}
 			],
 			"compilations": [
-				{"searchTerm": "2 Games in One! - Dr. Mario + Puzzle League", "titlePosition": 1},
 				{"searchTerm": "2 Games in 1 - Dr. Mario + Puzzle League", "titlePosition": 1},
+				{"searchTerm": "2 Games in One! - Dr. Mario + Puzzle League", "titlePosition": 1},
 				{"searchTerm": "Dr. Mario & Panel de Pon", "titlePosition": 1}
 			]
 		},
@@ -565,9 +562,9 @@
 		{
 			"group": "Crash Bandicoot Purple - Ripto's Rampage",
 			"titles": [
-				{"searchTerm": "Crash Bandicoot Purple - Ripto's Rampage"},
 				{"searchTerm": "Crash Bandicoot Advance - Wakuwaku Tomodachi Daisakusen!"},
-				{"searchTerm": "Crash Bandicoot Fusion"}
+				{"searchTerm": "Crash Bandicoot Fusion"},
+				{"searchTerm": "Crash Bandicoot Purple - Ripto's Rampage"}
 			]
 		},
 		{
@@ -581,8 +578,8 @@
 		{
 			"group": "Crash Nitro Kart",
 			"titles": [
-				{"searchTerm": "Crash Nitro Kart"},
-				{"searchTerm": "Crash Bandicoot Bakusou! Nitro Cart"}
+				{"searchTerm": "Crash Bandicoot Bakusou! Nitro Cart"},
+				{"searchTerm": "Crash Nitro Kart"}
 			]
 		},
 		{
@@ -602,15 +599,15 @@
 		{
 			"group": "CT Special Forces 2 - Back in the Trenches",
 			"titles": [
-				{"searchTerm": "CT Special Forces 2 - Back in the Trenches"},
-				{"searchTerm": "CT Special Forces - Back to Hell"}
+				{"searchTerm": "CT Special Forces - Back to Hell"},
+				{"searchTerm": "CT Special Forces 2 - Back in the Trenches"}
 			]
 		},
 		{
 			"group": "Danny Phantom - Urban Jungle",
 			"titles": [
-				{"searchTerm": "Danny Phantom - Urban Jungle"},
-				{"searchTerm": "Danny Phantom - Dschungelstadt"}
+				{"searchTerm": "Danny Phantom - Dschungelstadt"},
+				{"searchTerm": "Danny Phantom - Urban Jungle"}
 			]
 		},
 		{
@@ -689,8 +686,8 @@
 		{
 			"group": "Disney Sports - Football",
 			"titles": [
-				{"searchTerm": "Disney Sports - Football"},
-				{"searchTerm": "Disney Sports - American Football"}
+				{"searchTerm": "Disney Sports - American Football"},
+				{"searchTerm": "Disney Sports - Football"}
 			]
 		},
 		{
@@ -705,8 +702,8 @@
 		{
 			"group": "Disney Sports - Soccer",
 			"titles": [
-				{"searchTerm": "Disney Sports - Soccer"},
-				{"searchTerm": "Disney Sports - Football (Soccer)"}
+				{"searchTerm": "Disney Sports - Football (Soccer)"},
+				{"searchTerm": "Disney Sports - Soccer"}
 			],
 			"compilations": [
 				{"searchTerm": "2 Disney Games - Disney Sports - Football + Disney Sports - Skateboarding", "titlePosition": 1}
@@ -715,8 +712,8 @@
 		{
 			"group": "DK - King of Swing",
 			"titles": [
-				{"searchTerm": "DK - King of Swing"},
 				{"searchTerm": "Bura Bura Donkey"},
+				{"searchTerm": "DK - King of Swing"},
 				{"searchTerm": "Yaobai Senxigang"}
 			]
 		},
@@ -780,8 +777,8 @@
 		{
 			"group": "Dragon Ball - Advanced Adventure",
 			"titles": [
-				{"searchTerm": "Dragon Ball - Advanced Adventure"},
-				{"searchTerm": "Dragon Ball - Advance Adventure"}
+				{"searchTerm": "Dragon Ball - Advance Adventure"},
+				{"searchTerm": "Dragon Ball - Advanced Adventure"}
 			]
 		},
 		{
@@ -805,9 +802,9 @@
 		{
 			"group": "Dragon Ball Z - Supersonic Warriors",
 			"titles": [
-				{"searchTerm": "Dragon Ball Z - Supersonic Warriors"},
 				{"searchTerm": "Dragon Ball Z - Bukuu Tougeki"},
-				{"searchTerm": "Dragon Ball Z - Moogongtoogeuk"}
+				{"searchTerm": "Dragon Ball Z - Moogongtoogeuk"},
+				{"searchTerm": "Dragon Ball Z - Supersonic Warriors"}
 			]
 		},
 		{
@@ -846,30 +843,30 @@
 		{
 			"group": "e-Reader",
 			"titles": [
-				{"searchTerm": "e-Reader"},
-				{"searchTerm": "Card e-Reader+"}
+				{"searchTerm": "Card e-Reader+"},
+				{"searchTerm": "e-Reader"}
 			]
 		},
 		{
 			"group": "Ecks vs Sever",
 			"titles": [
-				{"searchTerm": "Ecks vs Sever"},
-				{"searchTerm": "Ecks V Sever"}
+				{"searchTerm": "Ecks V Sever"},
+				{"searchTerm": "Ecks vs Sever"}
 			]
 		},
 		{
 			"group": "Egg Mania",
 			"titles": [
 				{"searchTerm": "Egg Mania"},
-				{"searchTerm": "Eggo Mania"},
-				{"searchTerm": "Egg Mania - Tsukande! Mawashite! Dossun Puzzle!!"}
+				{"searchTerm": "Egg Mania - Tsukande! Mawashite! Dossun Puzzle!!"},
+				{"searchTerm": "Eggo Mania"}
 			]
 		},
 		{
 			"group": "ESPN Final Round Golf 2002",
 			"titles": [
-				{"searchTerm": "ESPN Final Round Golf 2002"},
 				{"searchTerm": "ESPN Final Round Golf"},
+				{"searchTerm": "ESPN Final Round Golf 2002"},
 				{"searchTerm": "JGTO Kounin Golf Master - Japan Golf Tour Game"},
 				{"searchTerm": "JGTO Kounin Golf Master Mobile - Japan Golf Tour Game", "priority": 2}
 			]
@@ -885,16 +882,16 @@
 		{
 			"group": "ESPN International Winter Sports 2002",
 			"titles": [
-				{"searchTerm": "ESPN International Winter Sports 2002"},
 				{"searchTerm": "ESPN International Winter Sports"},
+				{"searchTerm": "ESPN International Winter Sports 2002"},
 				{"searchTerm": "Hyper Sports 2002 Winter"}
 			]
 		},
 		{
 			"group": "ESPN Winter X-Games Snowboarding 2002",
 			"titles": [
-				{"searchTerm": "ESPN Winter X-Games Snowboarding 2002"},
-				{"searchTerm": "ESPN Winter X-Games Snowboarding 2"}
+				{"searchTerm": "ESPN Winter X-Games Snowboarding 2"},
+				{"searchTerm": "ESPN Winter X-Games Snowboarding 2002"}
 			]
 		},
 		{
@@ -924,8 +921,8 @@
 		{
 			"group": "Fairly OddParents!, The - Shadow Showdown",
 			"titles": [
-				{"searchTerm": "Fairly OddParents!, The - Shadow Showdown"},
-				{"searchTerm": "Cosmo & Wanda - Wenn Elfen Helfen! - Das Schattenduell"}
+				{"searchTerm": "Cosmo & Wanda - Wenn Elfen Helfen! - Das Schattenduell"},
+				{"searchTerm": "Fairly OddParents!, The - Shadow Showdown"}
 			]
 		},
 		{
@@ -938,8 +935,8 @@
 		{
 			"group": "Final Fantasy I & II - Dawn of Souls",
 			"titles": [
-				{"searchTerm": "Final Fantasy I & II - Dawn of Souls"},
-				{"searchTerm": "Final Fantasy I, II Advance"}
+				{"searchTerm": "Final Fantasy I, II Advance"},
+				{"searchTerm": "Final Fantasy I & II - Dawn of Souls"}
 			]
 		},
 		{
@@ -956,9 +953,9 @@
 				{"searchTerm": "2 Games in 1 - Findet Nemo + Findet Nemo - Das Abenteuer Geht Weiter", "titlePosition": 1},
 				{"searchTerm": "2 Games in 1 - Finding Nemo + Finding Nemo - The Continuing Adventures", "titlePosition": 1},
 				{"searchTerm": "2 Games in 1 - Finding Nemo + The Incredibles", "titlePosition": 1},
+				{"searchTerm": "2 Games in 1 - Monsters, Inc. + Finding Nemo", "titlePosition": 2},
 				{"searchTerm": "2 Games in 1 - Monsters & Co. + Alla Ricerca di Nemo", "titlePosition": 2},
 				{"searchTerm": "2 Games in 1 - Monsters en Co. + Finding Nemo", "titlePosition": 2},
-				{"searchTerm": "2 Games in 1 - Monsters, Inc. + Finding Nemo", "titlePosition": 2},
 				{"searchTerm": "2 Games in 1 - Monstres & Cie + Le Monde de Nemo", "titlePosition": 2},
 				{"searchTerm": "2 Games in 1 - Monstruos, S.A. + Buscando a Nemo", "titlePosition": 2}
 			]
@@ -991,8 +988,8 @@
 		{
 			"group": "Fire Emblem - The Sacred Stones",
 			"titles": [
-				{"searchTerm": "Fire Emblem - The Sacred Stones"},
-				{"searchTerm": "Fire Emblem - Seima no Kouseki"}
+				{"searchTerm": "Fire Emblem - Seima no Kouseki"},
+				{"searchTerm": "Fire Emblem - The Sacred Stones"}
 			]
 		},
 		{
@@ -1005,8 +1002,8 @@
 		{
 			"group": "Fire Pro Wrestling 2",
 			"titles": [
-				{"searchTerm": "Fire Pro Wrestling 2"},
-				{"searchTerm": "Final Fire Pro Wrestling - Yume no Dantai Unei!"}
+				{"searchTerm": "Final Fire Pro Wrestling - Yume no Dantai Unei!"},
+				{"searchTerm": "Fire Pro Wrestling 2"}
 			]
 		},
 		{
@@ -1033,8 +1030,8 @@
 		{
 			"group": "Gadget Racers",
 			"titles": [
-				{"searchTerm": "Gadget Racers"},
 				{"searchTerm": "Choro Q Advance"},
+				{"searchTerm": "Gadget Racers"},
 				{"searchTerm": "Penny Racers"}
 			]
 		},
@@ -1049,10 +1046,10 @@
 		{
 			"group": "GameShark GBA",
 			"titles": [
-				{"searchTerm": "GameShark GBA"},
 				{"searchTerm": "Action Replay"},
-				{"searchTerm": "Action Replay GBX", "priority": 2},
-				{"searchTerm": "Pro Action Replay"}
+				{"searchTerm": "GameShark GBA"},
+				{"searchTerm": "Pro Action Replay"},
+				{"searchTerm": "Action Replay GBX", "priority": 2}
 			]
 		},
 		{
@@ -1076,7 +1073,6 @@
 			],
 			"compilations": [
 				{"searchTerm": "2 Games in 1 - Golden Nugget Casino + Texas Hold 'em Poker", "titlePosition": 1},
-				{"searchTerm": "2 Games in 1 - Golden Nugget Casino + Texas Hold 'em Poker", "titlePosition": 1},
 				{"searchTerm": "Double Game! - Golden Nugget Casino & Texas Hold 'em Poker", "titlePosition": 1}
 			]
 		},
@@ -1090,41 +1086,41 @@
 		{
 			"group": "Golden Sun - The Lost Age",
 			"titles": [
-				{"searchTerm": "Golden Sun - The Lost Age"},
 				{"searchTerm": "Golden Sun - Die Vergessene Epoche"},
 				{"searchTerm": "Golden Sun - L'Age Perdu"},
 				{"searchTerm": "Golden Sun - L'Era Perduta"},
 				{"searchTerm": "Golden Sun - La Edad Perdida"},
+				{"searchTerm": "Golden Sun - The Lost Age"},
 				{"searchTerm": "Ougon no Taiyou - Ushinawareshi Toki"}
 			]
 		},
 		{
 			"group": "Gradius Galaxies",
 			"titles": [
-				{"searchTerm": "Gradius Galaxies"},
 				{"searchTerm": "Gradius Advance"},
+				{"searchTerm": "Gradius Galaxies"},
 				{"searchTerm": "Gradius Generation"}
 			]
 		},
 		{
 			"group": "GT Advance - Championship Racing",
 			"titles": [
-				{"searchTerm": "GT Advance - Championship Racing"},
-				{"searchTerm": "Advance GTA"}
+				{"searchTerm": "Advance GTA"},
+				{"searchTerm": "GT Advance - Championship Racing"}
 			]
 		},
 		{
 			"group": "GT Advance 2 - Rally Racing",
 			"titles": [
-				{"searchTerm": "GT Advance 2 - Rally Racing"},
-				{"searchTerm": "Advance Rally"}
+				{"searchTerm": "Advance Rally"},
+				{"searchTerm": "GT Advance 2 - Rally Racing"}
 			]
 		},
 		{
 			"group": "GT Advance 3 - Pro Concept Racing",
 			"titles": [
-				{"searchTerm": "GT Advance 3 - Pro Concept Racing"},
-				{"searchTerm": "Advance GT2"}
+				{"searchTerm": "Advance GT2"},
+				{"searchTerm": "GT Advance 3 - Pro Concept Racing"}
 			],
 			"compilations": [
 				{"searchTerm": "2 Games in 1 - Moto GP + GT Advance 3 - Pro Concept Racing", "titlePosition": 2}
@@ -1133,8 +1129,8 @@
 		{
 			"group": "Gunstar Super Heroes",
 			"titles": [
-				{"searchTerm": "Gunstar Super Heroes"},
-				{"searchTerm": "Gunstar Future Heroes"}
+				{"searchTerm": "Gunstar Future Heroes"},
+				{"searchTerm": "Gunstar Super Heroes"}
 			]
 		},
 		{
@@ -1175,22 +1171,22 @@
 		{
 			"group": "Harvest Moon - Friends of Mineral Town",
 			"titles": [
-				{"searchTerm": "Harvest Moon - Friends of Mineral Town"},
-				{"searchTerm": "Bokujou Monogatari - Mineral Town no Nakama-tachi"}
+				{"searchTerm": "Bokujou Monogatari - Mineral Town no Nakama-tachi"},
+				{"searchTerm": "Harvest Moon - Friends of Mineral Town"}
 			]
 		},
 		{
 			"group": "Harvest Moon - More Friends of Mineral Town",
 			"titles": [
-				{"searchTerm": "Harvest Moon - More Friends of Mineral Town"},
-				{"searchTerm": "Bokujou Monogatari - Mineral Town no Nakama-tachi for Girl"}
+				{"searchTerm": "Bokujou Monogatari - Mineral Town no Nakama-tachi for Girl"},
+				{"searchTerm": "Harvest Moon - More Friends of Mineral Town"}
 			]
 		},
 		{
 			"group": "Hi Hi Puffy AmiYumi - Kaznapped!",
 			"titles": [
-				{"searchTerm": "Hi Hi Puffy AmiYumi - Kaznapped!"},
-				{"searchTerm": "Hi Hi Puffy AmiYumi"}
+				{"searchTerm": "Hi Hi Puffy AmiYumi"},
+				{"searchTerm": "Hi Hi Puffy AmiYumi - Kaznapped!"}
 			]
 		},
 		{
@@ -1245,9 +1241,8 @@
 		{
 			"group": "Incredibles, The",
 			"titles": [
-				{"searchTerm": "Incredibles, The"},
-				{"searchTerm": "Incredibles, The"},
 				{"searchTerm": "Incredibili, Gli - Una 'Normale' Famiglia di Supereroi"},
+				{"searchTerm": "Incredibles, The"},
 				{"searchTerm": "Increibles, Los"},
 				{"searchTerm": "Mr. Incredible"},
 				{"searchTerm": "Unglaublichen, Die"}
@@ -1283,8 +1278,8 @@
 		{
 			"group": "Jackie Chan Adventures - Legend of the Dark Hand",
 			"titles": [
-				{"searchTerm": "Jackie Chan Adventures - Legend of the Dark Hand"},
-				{"searchTerm": "Aventures de Jackie Chan, Les - La Legende de la Main Noire"}
+				{"searchTerm": "Aventures de Jackie Chan, Les - La Legende de la Main Noire"},
+				{"searchTerm": "Jackie Chan Adventures - Legend of the Dark Hand"}
 			]
 		},
 		{
@@ -1295,9 +1290,9 @@
 			]
 		},
 		{
-			"group": "Jimmy Neutron Boy Genius",
+			"group": "Jimmy Neutron - Boy Genius",
 			"titles": [
-				{"searchTerm": "Jimmy Neutron Boy Genius"}
+				{"searchTerm": "Jimmy Neutron - Boy Genius"}
 			],
 			"compilations": [
 				{"searchTerm": "2 Games in 1 - SpongeBob SquarePants - Battle for Bikini Bottom + Jimmy Neutron Boy Genius", "titlePosition": 2}
@@ -1313,9 +1308,9 @@
 		{
 			"group": "Jurassic Park III - Island Attack",
 			"titles": [
-				{"searchTerm": "Jurassic Park III - Island Attack"},
+				{"searchTerm": "Jurassic Park III - Advanced Action"},
 				{"searchTerm": "Jurassic Park III - Dino Attack"},
-				{"searchTerm": "Jurassic Park III - Advanced Action"}
+				{"searchTerm": "Jurassic Park III - Island Attack"}
 			]
 		},
 		{
@@ -1344,36 +1339,36 @@
 		{
 			"group": "Kim Possible - Revenge of Monkey Fist",
 			"titles": [
-				{"searchTerm": "Kim Possible - Revenge of Monkey Fist"},
-				{"searchTerm": "Kim Possible"}
+				{"searchTerm": "Kim Possible"},
+				{"searchTerm": "Kim Possible - Revenge of Monkey Fist"}
 			]
 		},
 		{
 			"group": "Kirby & The Amazing Mirror",
 			"titles": [
-				{"searchTerm": "Kirby & The Amazing Mirror"},
-				{"searchTerm": "Hoshi no Kirby - Kagami no Daimeikyuu"}
+				{"searchTerm": "Hoshi no Kirby - Kagami no Daimeikyuu"},
+				{"searchTerm": "Kirby & The Amazing Mirror"}
 			]
 		},
 		{
 			"group": "Kirby - Nightmare in Dream Land",
 			"titles": [
-				{"searchTerm": "Kirby - Nightmare in Dream Land"},
-				{"searchTerm": "Hoshi no Kirby - Yume no Izumi Deluxe"}
+				{"searchTerm": "Hoshi no Kirby - Yume no Izumi Deluxe"},
+				{"searchTerm": "Kirby - Nightmare in Dream Land"}
 			]
 		},
 		{
 			"group": "Klonoa - Empire of Dreams",
 			"titles": [
-				{"searchTerm": "Klonoa - Empire of Dreams"},
-				{"searchTerm": "Kaze no Klonoa - Yumemiru Teikoku"}
+				{"searchTerm": "Kaze no Klonoa - Yumemiru Teikoku"},
+				{"searchTerm": "Klonoa - Empire of Dreams"}
 			]
 		},
 		{
 			"group": "Klonoa 2 - Dream Champ Tournament",
 			"titles": [
-				{"searchTerm": "Klonoa 2 - Dream Champ Tournament"},
-				{"searchTerm": "Kaze no Klonoa G2 - Dream Champ Tournament"}
+				{"searchTerm": "Kaze no Klonoa G2 - Dream Champ Tournament"},
+				{"searchTerm": "Klonoa 2 - Dream Champ Tournament"}
 			]
 		},
 		{
@@ -1388,9 +1383,9 @@
 		{
 			"group": "Konami Collector's Series - Arcade Advanced",
 			"titles": [
+				{"searchTerm": "Konami Arcade Game Collection"},
 				{"searchTerm": "Konami Collector's Series - Arcade Advanced"},
-				{"searchTerm": "Konami Collector's Series - Arcade Classics"},
-				{"searchTerm": "Konami Arcade Game Collection"}
+				{"searchTerm": "Konami Collector's Series - Arcade Classics"}
 			]
 		},
 		{
@@ -1403,8 +1398,8 @@
 		{
 			"group": "Kong - The 8th Wonder of the World",
 			"titles": [
-				{"searchTerm": "Kong - The 8th Wonder of the World"},
-				{"searchTerm": "King Kong - The Official Game of the Movie"}
+				{"searchTerm": "King Kong - The Official Game of the Movie"},
+				{"searchTerm": "Kong - The 8th Wonder of the World"}
 			]
 		},
 		{
@@ -1438,8 +1433,8 @@
 		{
 			"group": "Legendz - Yomigaeru Shiren no Shima",
 			"titles": [
-				{"searchTerm": "Legendz - Yomigaeru Shiren no Shima"},
-				{"searchTerm": "Legendz - Buhwarhaneun Siryeonyi Seom"}
+				{"searchTerm": "Legendz - Buhwarhaneun Siryeonyi Seom"},
+				{"searchTerm": "Legendz - Yomigaeru Shiren no Shima"}
 			]
 		},
 		{
@@ -1457,6 +1452,9 @@
 				{"searchTerm": "Paard & Pony - Paard in Galop"},
 				{"searchTerm": "Pferd & Pony - Lass Uns Reiten 2"},
 				{"searchTerm": "Pippa Funnell 2"}
+			],
+			"compilations": [
+				{"searchTerm": "Pferd & Pony - Mein Pferdehof & Pferd and Pony - Lass Uns Reiten 2"}
 			]
 		},
 		{
@@ -1473,6 +1471,9 @@
 				{"searchTerm": "Paard & Pony - Mijn Manege"},
 				{"searchTerm": "Pferd & Pony - Mein Pferdehof"},
 				{"searchTerm": "Pippa Funnell - Stable Adventure"}
+			],
+			"compilations": [
+				{"searchTerm": "Pferd & Pony - Mein Pferdehof & Pferd and Pony - Lass Uns Reiten 2"}
 			]
 		},
 		{
@@ -1503,40 +1504,40 @@
 		{
 			"group": "Lizzie McGuire - On the Go!",
 			"titles": [
-				{"searchTerm": "Lizzie McGuire - On the Go!"},
-				{"searchTerm": "Lizzie McGuire"}
+				{"searchTerm": "Lizzie McGuire"},
+				{"searchTerm": "Lizzie McGuire - On the Go!"}
 			],
 			"compilations": [
-				{"searchTerm": "2 Games in 1 - Disney Princess + Lizzie McGuire", "titlePosition": 2},
-				{"searchTerm": "2 Games in 1 - Disney Princesas + Lizzie McGuire", "titlePosition": 2}
+				{"searchTerm": "2 Games in 1 - Disney Princesas + Lizzie McGuire", "titlePosition": 2},
+				{"searchTerm": "2 Games in 1 - Disney Princess + Lizzie McGuire", "titlePosition": 2}
 			]
 		},
 		{
 			"group": "Lord of the Rings, The - The Return of the King",
 			"titles": [
-				{"searchTerm": "Lord of the Rings, The - The Return of the King"},
-				{"searchTerm": "Lord of the Rings, The - Ou no Kikan"}
+				{"searchTerm": "Lord of the Rings, The - Ou no Kikan"},
+				{"searchTerm": "Lord of the Rings, The - The Return of the King"}
 			]
 		},
 		{
 			"group": "Lord of the Rings, The - The Third Age",
 			"titles": [
-				{"searchTerm": "Lord of the Rings, The - The Third Age"},
-				{"searchTerm": "Lord of the Rings, The - Nakatsukuni Daisanki"}
+				{"searchTerm": "Lord of the Rings, The - Nakatsukuni Daisanki"},
+				{"searchTerm": "Lord of the Rings, The - The Third Age"}
 			]
 		},
 		{
 			"group": "Lord of the Rings, The - The Two Towers",
 			"titles": [
-				{"searchTerm": "Lord of the Rings, The - The Two Towers"},
-				{"searchTerm": "Lord of the Rings, The - Futatsu no Tou"}
+				{"searchTerm": "Lord of the Rings, The - Futatsu no Tou"},
+				{"searchTerm": "Lord of the Rings, The - The Two Towers"}
 			]
 		},
 		{
 			"group": "Lufia - The Ruins of Lore",
 			"titles": [
-				{"searchTerm": "Lufia - The Ruins of Lore"},
-				{"searchTerm": "Chinmoku no Iseki - Estpolis Gaiden"}
+				{"searchTerm": "Chinmoku no Iseki - Estpolis Gaiden"},
+				{"searchTerm": "Lufia - The Ruins of Lore"}
 			]
 		},
 		{
@@ -1551,8 +1552,8 @@
 		{
 			"group": "Madagascar - Operation Penguin",
 			"titles": [
-				{"searchTerm": "Madagascar - Operation Penguin"},
-				{"searchTerm": "Madagascar - Operacion Pinguino"}
+				{"searchTerm": "Madagascar - Operacion Pinguino"},
+				{"searchTerm": "Madagascar - Operation Penguin"}
 			],
 			"compilations": [
 				{"searchTerm": "2-in-1 Fun Pack - Shrek 2 + Madagascar - Operation Penguin", "titlePosition": 2}
@@ -1582,8 +1583,8 @@
 		{
 			"group": "Mario & Luigi - Superstar Saga",
 			"titles": [
-				{"searchTerm": "Mario & Luigi - Superstar Saga"},
 				{"searchTerm": "Maliou Yu Luyiji RPG"},
+				{"searchTerm": "Mario & Luigi - Superstar Saga"},
 				{"searchTerm": "Mario & Luigi RPG"}
 			]
 		},
@@ -1597,8 +1598,8 @@
 		{
 			"group": "Mario Kart - Super Circuit",
 			"titles": [
-				{"searchTerm": "Mario Kart - Super Circuit"},
 				{"searchTerm": "Maliou Kadingche - Chaoji Saidao"},
+				{"searchTerm": "Mario Kart - Super Circuit"},
 				{"searchTerm": "Mario Kart Advance"}
 			]
 		},
@@ -1612,8 +1613,8 @@
 		{
 			"group": "Mario Tennis - Power Tour",
 			"titles": [
-				{"searchTerm": "Mario Tennis - Power Tour"},
 				{"searchTerm": "Mario Power Tennis"},
+				{"searchTerm": "Mario Tennis - Power Tour"},
 				{"searchTerm": "Mario Tennis Advance"}
 			]
 		},
@@ -1634,8 +1635,8 @@
 		{
 			"group": "Mech Platoon",
 			"titles": [
-				{"searchTerm": "Mech Platoon"},
-				{"searchTerm": "Kikaika Guntai - Mech Platoon"}
+				{"searchTerm": "Kikaika Guntai - Mech Platoon"},
+				{"searchTerm": "Mech Platoon"}
 			]
 		},
 		{
@@ -1682,117 +1683,114 @@
 			]
 		},
 		{
-			"group": "Mega Man & Bass",
+			"group": "Megaman & Bass",
 			"titles": [
-				{"searchTerm": "Mega Man & Bass"},
+				{"searchTerm": "Megaman & Bass"},
 				{"searchTerm": "Rockman & Forte"}
 			]
 		},
 		{
-			"group": "Mega Man Battle Chip Challenge",
+			"group": "Megaman - Battle Chip Challenge",
 			"titles": [
-				{"searchTerm": "Mega Man Battle Chip Challenge"},
-				{"searchTerm": "Rockman EXE Battle Chip GP"}
+				{"searchTerm": "Megaman - Battle Chip Challenge"},
+				{"searchTerm": "Rockman EXE - Battle Chip GP"}
 			]
 		},
 		{
-			"group": "Mega Man Battle Network",
+			"group": "Megaman - Battle Network",
 			"titles": [
-				{"searchTerm": "Mega Man Battle Network"},
-				{"searchTerm": "Battle Network Rockman EXE"}
+				{"searchTerm": "Battle Network - Rockman EXE"},
+				{"searchTerm": "Megaman - Battle Network"}
 			]
 		},
 		{
-			"group": "Mega Man Battle Network 2",
+			"group": "Megaman - Battle Network 2",
 			"titles": [
-				{"searchTerm": "Mega Man Battle Network 2"},
-				{"searchTerm": "Battle Network Rockman EXE 2"}
+				{"searchTerm": "Battle Network - Rockman EXE 2"},
+				{"searchTerm": "Megaman - Battle Network 2"}
 			]
 		},
 		{
-			"group": "Mega Man Battle Network 3 - Blue Version",
+			"group": "Megaman - Battle Network 3 - Blue Version",
 			"titles": [
-				{"searchTerm": "Mega Man Battle Network 3 - Blue Version"},
-				{"searchTerm": "Mega Man Battle Network 3 - Blue"},
-				{"searchTerm": "Battle Network Rockman EXE 3 - Black"}
+				{"searchTerm": "Battle Network - Rockman EXE 3 - Black"},
+				{"searchTerm": "Megaman - Battle Network 3 - Blue Version"}
 			]
 		},
 		{
-			"group": "Mega Man Battle Network 3 - White Version",
+			"group": "Megaman - Battle Network 3 - White Version",
 			"titles": [
-				{"searchTerm": "Mega Man Battle Network 3 - White Version"},
-				{"searchTerm": "Battle Network Rockman EXE 3"},
-				{"searchTerm": "Mega Man Battle Network 3 - White"}
+				{"searchTerm": "Battle Network - Rockman EXE 3"},
+				{"searchTerm": "Megaman - Battle Network 3 - White Version"}
 			]
 		},
 		{
-			"group": "Mega Man Battle Network 4 - Blue Moon",
+			"group": "Megaman - Battle Network 4 - Blue Moon",
 			"titles": [
-				{"searchTerm": "Mega Man Battle Network 4 - Blue Moon"},
+				{"searchTerm": "Megaman - Battle Network 4 - Blue Moon"},
 				{"searchTerm": "Rockman EXE 4 - Tournament Blue Moon"}
 			]
 		},
 		{
-			"group": "Mega Man Battle Network 4 - Red Sun",
+			"group": "Megaman - Battle Network 4 - Red Sun",
 			"titles": [
-				{"searchTerm": "Mega Man Battle Network 4 - Red Sun"},
+				{"searchTerm": "Megaman - Battle Network 4 - Red Sun"},
 				{"searchTerm": "Rockman EXE 4 - Tournament Red Sun"}
 			]
 		},
 		{
-			"group": "Mega Man Battle Network 5 - Team Colonel",
+			"group": "Megaman - Battle Network 5 - Team Colonel",
 			"titles": [
-				{"searchTerm": "Mega Man Battle Network 5 - Team Colonel"},
+				{"searchTerm": "Megaman - Battle Network 5 - Team Colonel"},
 				{"searchTerm": "Rockman EXE 5 - Team of Colonel"}
 			]
 		},
 		{
-			"group": "Mega Man Battle Network 5 - Team Protoman",
+			"group": "Megaman - Battle Network 5 - Team Protoman",
 			"titles": [
-				{"searchTerm": "Mega Man Battle Network 5 - Team Protoman"},
-				{"searchTerm": "Rockman EXE 5 - Team of Blues"},
-				{"searchTerm": "Mega Man Battle Network 5 - Team Proto Man"}
+				{"searchTerm": "Megaman - Battle Network 5 - Team Protoman"},
+				{"searchTerm": "Rockman EXE 5 - Team of Blues"}
 			]
 		},
 		{
-			"group": "Mega Man Battle Network 6 - Cybeast Falzar",
+			"group": "Megaman - Battle Network 6 - Cybeast Falzar",
 			"titles": [
-				{"searchTerm": "Mega Man Battle Network 6 - Cybeast Falzar"},
+				{"searchTerm": "Megaman - Battle Network 6 - Cybeast Falzar"},
 				{"searchTerm": "Rockman EXE 6 - Dennoujuu Falzar"}
 			]
 		},
 		{
-			"group": "Mega Man Battle Network 6 - Cybeast Gregar",
+			"group": "Megaman - Battle Network 6 - Cybeast Gregar",
 			"titles": [
-				{"searchTerm": "Mega Man Battle Network 6 - Cybeast Gregar"},
+				{"searchTerm": "Megaman - Battle Network 6 - Cybeast Gregar"},
 				{"searchTerm": "Rockman EXE 6 - Dennoujuu Gregar"}
 			]
 		},
 		{
-			"group": "Mega Man Zero",
+			"group": "Megaman Zero",
 			"titles": [
-				{"searchTerm": "Mega Man Zero"},
+				{"searchTerm": "Megaman Zero"},
 				{"searchTerm": "Rockman Zero"}
 			]
 		},
 		{
-			"group": "Mega Man Zero 2",
+			"group": "Megaman Zero 2",
 			"titles": [
-				{"searchTerm": "Mega Man Zero 2"},
+				{"searchTerm": "Megaman Zero 2"},
 				{"searchTerm": "Rockman Zero 2"}
 			]
 		},
 		{
-			"group": "Mega Man Zero 3",
+			"group": "Megaman Zero 3",
 			"titles": [
-				{"searchTerm": "Mega Man Zero 3"},
+				{"searchTerm": "Megaman Zero 3"},
 				{"searchTerm": "Rockman Zero 3"}
 			]
 		},
 		{
-			"group": "Mega Man Zero 4",
+			"group": "Megaman Zero 4",
 			"titles": [
-				{"searchTerm": "Mega Man Zero 4"},
+				{"searchTerm": "Megaman Zero 4"},
 				{"searchTerm": "Rockman Zero 4"}
 			]
 		},
@@ -1820,15 +1818,15 @@
 		{
 			"group": "Monster Rancher Advance",
 			"titles": [
-				{"searchTerm": "Monster Rancher Advance"},
-				{"searchTerm": "Monster Farm Advance"}
+				{"searchTerm": "Monster Farm Advance"},
+				{"searchTerm": "Monster Rancher Advance"}
 			]
 		},
 		{
 			"group": "Monster Rancher Advance 2",
 			"titles": [
-				{"searchTerm": "Monster Rancher Advance 2"},
-				{"searchTerm": "Monster Farm Advance 2"}
+				{"searchTerm": "Monster Farm Advance 2"},
+				{"searchTerm": "Monster Rancher Advance 2"}
 			]
 		},
 		{
@@ -1837,7 +1835,6 @@
 				{"searchTerm": "Monster Trucks"}
 			],
 			"compilations": [
-				{"searchTerm": "2 Games in 1 - Quad Desert Fury + Monster Trucks", "titlePosition": 2},
 				{"searchTerm": "2 Games in 1 - Quad Desert Fury + Monster Trucks", "titlePosition": 2},
 				{"searchTerm": "Double Game! - Quad Desert Fury & Monster Trucks", "titlePosition": 2}
 			]
@@ -1850,9 +1847,9 @@
 			],
 			"compilations": [
 				{"searchTerm": "2 Games in 1 - Die Monster AG + Findet Nemo", "titlePosition": 1},
+				{"searchTerm": "2 Games in 1 - Monsters, Inc. + Finding Nemo", "titlePosition": 1},
 				{"searchTerm": "2 Games in 1 - Monsters & Co. + Alla Ricerca di Nemo", "titlePosition": 1},
 				{"searchTerm": "2 Games in 1 - Monsters en Co. + Finding Nemo", "titlePosition": 1},
-				{"searchTerm": "2 Games in 1 - Monsters, Inc. + Finding Nemo", "titlePosition": 1},
 				{"searchTerm": "2 Games in 1 - Monstres & Cie + Le Monde de Nemo", "titlePosition": 1},
 				{"searchTerm": "2 Games in 1 - Monstruos, S.A. + Buscando a Nemo", "titlePosition": 1}
 			]
@@ -1860,8 +1857,8 @@
 		{
 			"group": "Motocross Maniacs Advance",
 			"titles": [
-				{"searchTerm": "Motocross Maniacs Advance"},
-				{"searchTerm": "Maniac Racers Advance"}
+				{"searchTerm": "Maniac Racers Advance"},
+				{"searchTerm": "Motocross Maniacs Advance"}
 			]
 		},
 		{
@@ -1886,8 +1883,8 @@
 		{
 			"group": "Napoleon",
 			"titles": [
-				{"searchTerm": "Napoleon"},
-				{"searchTerm": "Aigle de Guerre, L'"}
+				{"searchTerm": "Aigle de Guerre, L'"},
+				{"searchTerm": "Napoleon"}
 			]
 		},
 		{
@@ -1939,24 +1936,24 @@
 		{
 			"group": "Ninja Five-0",
 			"titles": [
-				{"searchTerm": "Ninja Five-0"},
-				{"searchTerm": "Ninja Cop"}
+				{"searchTerm": "Ninja Cop"},
+				{"searchTerm": "Ninja Five-0"}
 			]
 		},
 		{
 			"group": "One Piece - Going Baseball - Kaizoku Yakyuu",
 			"titles": [
-				{"searchTerm": "One Piece - Going Baseball - Kaizoku Yakyuu"},
-				{"searchTerm": "One Piece - Going Baseball - Haejeok Yaku"}
+				{"searchTerm": "One Piece - Going Baseball - Haejeok Yaku"},
+				{"searchTerm": "One Piece - Going Baseball - Kaizoku Yakyuu"}
 			]
 		},
 		{
 			"group": "Over the Hedge",
 			"titles": [
-				{"searchTerm": "Over the Hedge"},
 				{"searchTerm": "Ab durch die Hecke"},
 				{"searchTerm": "Gang del Bosco, La"},
 				{"searchTerm": "Nos Voisins, les Hommes"},
+				{"searchTerm": "Over the Hedge"},
 				{"searchTerm": "Over the Hedge - Beesten bij de Buren"},
 				{"searchTerm": "Vecinos Invasores"}
 			]
@@ -1974,17 +1971,17 @@
 		{
 			"group": "Paws & Claws - Best Friends - Dogs & Cats",
 			"titles": [
-				{"searchTerm": "Paws & Claws - Best Friends - Dogs & Cats"},
-				{"searchTerm": "Best Friends - Hunde & Katzen"}
+				{"searchTerm": "Best Friends - Hunde & Katzen"},
+				{"searchTerm": "Paws & Claws - Best Friends - Dogs & Cats"}
 			]
 		},
 		{
 			"group": "Paws & Claws - Pet Resort",
 			"titles": [
-				{"searchTerm": "Paws & Claws - Pet Resort"},
 				{"searchTerm": "Lea - Passion Veterinaire"},
 				{"searchTerm": "Meine Tierpension"},
-				{"searchTerm": "Mijn Dierenpension"}
+				{"searchTerm": "Mijn Dierenpension"},
+				{"searchTerm": "Paws & Claws - Pet Resort"}
 			]
 		},
 		{
@@ -1999,15 +1996,15 @@
 		{
 			"group": "Petz - Hamsterz Life 2",
 			"titles": [
-				{"searchTerm": "Petz - Hamsterz Life 2"},
-				{"searchTerm": "Hamster Club 3"}
+				{"searchTerm": "Hamster Club 3"},
+				{"searchTerm": "Petz - Hamsterz Life 2"}
 			]
 		},
 		{
 			"group": "Petz Vet",
 			"titles": [
-				{"searchTerm": "Petz Vet"},
-				{"searchTerm": "Himawari Doubutsu Byouin - Pet no Oishasan Ikusei Game"}
+				{"searchTerm": "Himawari Doubutsu Byouin - Pet no Oishasan Ikusei Game"},
+				{"searchTerm": "Petz Vet"}
 			]
 		},
 		{
@@ -2020,8 +2017,8 @@
 		{
 			"group": "Pitfall - The Lost Expedition",
 			"titles": [
-				{"searchTerm": "Pitfall - The Lost Expedition"},
-				{"searchTerm": "Pitfall - L'Expedition Perdue"}
+				{"searchTerm": "Pitfall - L'Expedition Perdue"},
+				{"searchTerm": "Pitfall - The Lost Expedition"}
 			]
 		},
 		{
@@ -2041,16 +2038,16 @@
 		{
 			"group": "Pocky & Rocky with Becky",
 			"titles": [
-				{"searchTerm": "Pocky & Rocky with Becky"},
-				{"searchTerm": "Kiki Kaikai Advance"}
+				{"searchTerm": "Kiki Kaikai Advance"},
+				{"searchTerm": "Pocky & Rocky with Becky"}
 			]
 		},
 		{
 			"group": "Pokemon - Emerald Version",
 			"titles": [
-				{"searchTerm": "Pokemon - Emerald Version"},
 				{"searchTerm": "Pocket Monsters - Emerald"},
 				{"searchTerm": "Pokemon - Edicion Esmeralda"},
+				{"searchTerm": "Pokemon - Emerald Version"},
 				{"searchTerm": "Pokemon - Smaragd-Edition"},
 				{"searchTerm": "Pokemon - Version Emeraude"},
 				{"searchTerm": "Pokemon - Versione Smeraldo"}
@@ -2059,10 +2056,10 @@
 		{
 			"group": "Pokemon - FireRed Version",
 			"titles": [
-				{"searchTerm": "Pokemon - FireRed Version"},
 				{"searchTerm": "Pocket Monsters - FireRed"},
 				{"searchTerm": "Pokemon - Edicion Rojo Fuego"},
 				{"searchTerm": "Pokemon - Feuerrote Edition"},
+				{"searchTerm": "Pokemon - FireRed Version"},
 				{"searchTerm": "Pokemon - Version Rouge Feu"},
 				{"searchTerm": "Pokemon - Versione Rosso Fuoco"}
 			]
@@ -2070,10 +2067,10 @@
 		{
 			"group": "Pokemon - LeafGreen Version",
 			"titles": [
-				{"searchTerm": "Pokemon - LeafGreen Version"},
 				{"searchTerm": "Pocket Monsters - LeafGreen"},
 				{"searchTerm": "Pokemon - Blattgruene Edition"},
 				{"searchTerm": "Pokemon - Edicion Verde Hoja"},
+				{"searchTerm": "Pokemon - LeafGreen Version"},
 				{"searchTerm": "Pokemon - Version Vert Feuille"},
 				{"searchTerm": "Pokemon - Versione Verde Foglia"}
 			]
@@ -2081,10 +2078,10 @@
 		{
 			"group": "Pokemon - Ruby Version",
 			"titles": [
-				{"searchTerm": "Pokemon - Ruby Version"},
 				{"searchTerm": "Pocket Monsters - Ruby"},
 				{"searchTerm": "Pokemon - Edicion Rubi"},
 				{"searchTerm": "Pokemon - Rubin-Edition"},
+				{"searchTerm": "Pokemon - Ruby Version"},
 				{"searchTerm": "Pokemon - Version Rubis"},
 				{"searchTerm": "Pokemon - Versione Rubino"}
 			]
@@ -2092,10 +2089,10 @@
 		{
 			"group": "Pokemon - Sapphire Version",
 			"titles": [
-				{"searchTerm": "Pokemon - Sapphire Version"},
 				{"searchTerm": "Pocket Monsters - Sapphire"},
 				{"searchTerm": "Pokemon - Edicion Zafiro"},
 				{"searchTerm": "Pokemon - Saphir-Edition"},
+				{"searchTerm": "Pokemon - Sapphire Version"},
 				{"searchTerm": "Pokemon - Version Saphir"},
 				{"searchTerm": "Pokemon - Versione Zaffiro"}
 			]
@@ -2103,8 +2100,8 @@
 		{
 			"group": "Pokemon Mystery Dungeon - Red Rescue Team",
 			"titles": [
-				{"searchTerm": "Pokemon Mystery Dungeon - Red Rescue Team"},
-				{"searchTerm": "Pokemon Fushigi no Dungeon - Aka no Kyuujotai"}
+				{"searchTerm": "Pokemon Fushigi no Dungeon - Aka no Kyuujotai"},
+				{"searchTerm": "Pokemon Mystery Dungeon - Red Rescue Team"}
 			]
 		},
 		{
@@ -2121,8 +2118,8 @@
 				{"searchTerm": "Power Rangers - Ninja Storm"}
 			],
 			"compilations": [
-				{"searchTerm": "2 Games in 1 - Power Rangers - Ninja Storm + Power Rangers - Time Force", "titlePosition": 1},
-				{"searchTerm": "2 Games in 1 - Power Rangers - Ninja Storm + Power Rangers - La Force du Temps", "titlePosition": 1}
+				{"searchTerm": "2 Games in 1 - Power Rangers - Ninja Storm + Power Rangers - La Force du Temps", "titlePosition": 1},
+				{"searchTerm": "2 Games in 1 - Power Rangers - Ninja Storm + Power Rangers - Time Force", "titlePosition": 1}
 			]
 		},
 		{
@@ -2132,15 +2129,16 @@
 				{"searchTerm": "Power Rangers - La Force du Temps"}
 			],
 			"compilations": [
-				{"searchTerm": "2 Games in 1 - Power Rangers - Ninja Storm + Power Rangers - Time Force", "titlePosition": 2},
-				{"searchTerm": "2 Games in 1 - Power Rangers - Ninja Storm + Power Rangers - La Force du Temps", "titlePosition": 2}
+				{"searchTerm": "2 Games in 1 - Power Rangers - Ninja Storm + Power Rangers - La Force du Temps", "titlePosition": 2},
+				{"searchTerm": "2 Games in 1 - Power Rangers - Ninja Storm + Power Rangers - Time Force", "titlePosition": 2}
 			]
 		},
 		{
 			"group": "Puyo Pop",
 			"titles": [
-				{"searchTerm": "Puyo Pop"},
-				{"searchTerm": "Minna de Puyo Puyo"}
+				{"searchTerm": "Minna de Puyo Puyo"},
+				{"searchTerm": "Puyo Pop"}
+
 			]
 		},
 		{
@@ -2153,8 +2151,8 @@
 		{
 			"group": "Puzzle League",
 			"compilations": [
-				{"searchTerm": "2 Games in One! - Dr. Mario + Puzzle League", "titlePosition": 2},
 				{"searchTerm": "2 Games in 1 - Dr. Mario + Puzzle League", "titlePosition": 2},
+				{"searchTerm": "2 Games in One! - Dr. Mario + Puzzle League", "titlePosition": 2},
 				{"searchTerm": "Dr. Mario & Panel de Pon", "titlePosition": 2}
 			]
 		},
@@ -2171,8 +2169,8 @@
 		{
 			"group": "Rave Master - Special Attack Force!",
 			"titles": [
-				{"searchTerm": "Rave Master - Special Attack Force!"},
-				{"searchTerm": "Groove Adventure Rave - Hikari to Yami no Daikessen 2"}
+				{"searchTerm": "Groove Adventure Rave - Hikari to Yami no Daikessen 2"},
+				{"searchTerm": "Rave Master - Special Attack Force!"}
 			]
 		},
 		{
@@ -2185,15 +2183,15 @@
 		{
 			"group": "Razor Freestyle Scooter",
 			"titles": [
-				{"searchTerm": "Razor Freestyle Scooter"},
-				{"searchTerm": "Freestyle Scooter"}
+				{"searchTerm": "Freestyle Scooter"},
+				{"searchTerm": "Razor Freestyle Scooter"}
 			]
 		},
 		{
 			"group": "River City Ransom EX",
 			"titles": [
-				{"searchTerm": "River City Ransom EX"},
-				{"searchTerm": "Downtown - Nekketsu Monogatari EX"}
+				{"searchTerm": "Downtown - Nekketsu Monogatari EX"},
+				{"searchTerm": "River City Ransom EX"}
 			]
 		},
 		{
@@ -2235,8 +2233,8 @@
 		{
 			"group": "Rugrats - Go Wild",
 			"titles": [
-				{"searchTerm": "Rugrats - Go Wild"},
-				{"searchTerm": "Razmoket Rencontrent les Delajungle, Les"}
+				{"searchTerm": "Razmoket Rencontrent les Delajungle, Les"},
+				{"searchTerm": "Rugrats - Go Wild"}
 			],
 			"compilations": [
 				{"searchTerm": "2 Games in 1 - Rugrats - Go Wild + SpongeBob SquarePants - SuperSponge", "titlePosition": 1}
@@ -2245,8 +2243,8 @@
 		{
 			"group": "Rugrats - I Gotta Go Party",
 			"titles": [
-				{"searchTerm": "Rugrats - I Gotta Go Party"},
-				{"searchTerm": "Razmoket, Les - A Moi la Fiesta"}
+				{"searchTerm": "Razmoket, Les - A Moi la Fiesta"},
+				{"searchTerm": "Rugrats - I Gotta Go Party"}
 			],
 			"compilations": [
 				{"searchTerm": "3 Games in 1 - Rugrats - I Gotta Go Party + SpongeBob SquarePants - SuperSponge + Tak and the Power of Juju", "titlePosition": 1}
@@ -2319,15 +2317,15 @@
 		{
 			"group": "Shifting Gears - Road Trip",
 			"titles": [
-				{"searchTerm": "Shifting Gears - Road Trip"},
-				{"searchTerm": "Choro Q Advance 2"}
+				{"searchTerm": "Choro Q Advance 2"},
+				{"searchTerm": "Shifting Gears - Road Trip"}
 			]
 		},
 		{
 			"group": "Shining Force - Resurrection of the Dark Dragon",
 			"titles": [
-				{"searchTerm": "Shining Force - Resurrection of the Dark Dragon"},
-				{"searchTerm": "Shining Force - Kuroki Ryuu no Fukkatsu"}
+				{"searchTerm": "Shining Force - Kuroki Ryuu no Fukkatsu"},
+				{"searchTerm": "Shining Force - Resurrection of the Dark Dragon"}
 			]
 		},
 		{
@@ -2345,16 +2343,15 @@
 		{
 			"group": "Sims, The - Bustin' Out",
 			"titles": [
-				{"searchTerm": "Sims, The - Bustin' Out"},
-				{"searchTerm": "Sims, The"}
+				{"searchTerm": "Sims, The"},
+				{"searchTerm": "Sims, The - Bustin' Out"}
 			]
 		},
 		{
 			"group": "Skip-Bo",
 			"compilations": [
-				{"searchTerm": "2 Game Pack! - Uno + Skip-Bo", "titlePosition": 1},
-				{"searchTerm": "2 Game Pack! - Uno + Skip-Bo", "titlePosition": 1},
-				{"searchTerm": "2 Game Pack! - Uno & Skip-Bo", "titlePosition": 1}
+				{"searchTerm": "2 Game Pack! - Uno & Skip-Bo", "titlePosition": 1},
+				{"searchTerm": "2 Game Pack! - Uno + Skip-Bo", "titlePosition": 1}
 			]
 		},
 		{
@@ -2437,17 +2434,17 @@
 		{
 			"group": "Spirit - Stallion of the Cimarron - Search for Homeland",
 			"titles": [
-				{"searchTerm": "Spirit - Stallion of the Cimarron - Search for Homeland"},
 				{"searchTerm": "Spirit - Der Wilde Mustang - Auf der Suche nach Homeland"},
-				{"searchTerm": "Spirit - L'Etalon des Plaines - A la Recherche de la Terre Natale"}
+				{"searchTerm": "Spirit - L'Etalon des Plaines - A la Recherche de la Terre Natale"},
+				{"searchTerm": "Spirit - Stallion of the Cimarron - Search for Homeland"}
 			]
 		},
 		{
 			"group": "Spirits & Spells",
 			"titles": [
-				{"searchTerm": "Spirits & Spells"},
 				{"searchTerm": "Castleween"},
-				{"searchTerm": "Mahou no Pumpkin - Ann to Greg no Daibouken"}
+				{"searchTerm": "Mahou no Pumpkin - Ann to Greg no Daibouken"},
+				{"searchTerm": "Spirits & Spells"}
 			]
 		},
 		{
@@ -2474,11 +2471,7 @@
 		{
 			"group": "SpongeBob SquarePants - SuperSponge",
 			"titles": [
-				{"searchTerm": "SpongeBob SquarePants - SuperSponge"},
-				{"searchTerm": "SpongeBob SquarePants - SuperSponge (05-16)", "priority": 2},
-				{"searchTerm": "SpongeBob SquarePants - SuperSponge (07-47)", "priority": 3},
-				{"searchTerm": "SpongeBob SquarePants - SuperSponge (11-34)", "priority": 4},
-				{"searchTerm": "SpongeBob SquarePants - SuperSponge (11-39)", "priority": 5}
+				{"searchTerm": "SpongeBob SquarePants - SuperSponge"}
 			],
 			"compilations": [
 				{"searchTerm": "2 Games in 1 - Rugrats - Go Wild + SpongeBob SquarePants - SuperSponge", "titlePosition": 2},
@@ -2513,23 +2506,16 @@
 		{
 			"group": "Spyro Orange - The Cortex Conspiracy",
 			"titles": [
-				{"searchTerm": "Spyro Orange - The Cortex Conspiracy"},
 				{"searchTerm": "Spyro Advance - Wakuwaku Tomodachi Daisakusen!"},
+				{"searchTerm": "Spyro Orange - The Cortex Conspiracy"},
 				{"searchTerm": "Spyro Fusion"}
 			]
 		},
 		{
 			"group": "Steel Empire",
 			"titles": [
-				{"searchTerm": "Steel Empire"},
-				{"searchTerm": "Koutetsu Teikoku from HOT-B"}
-			]
-		},
-		{
-			"group": "Steven Gerrard's Total Soccer 2002",
-			"titles": [
-				{"searchTerm": "Steven Gerrard's Total Soccer 2002"},
-				{"searchTerm": "Total Soccer Advance"}
+				{"searchTerm": "Koutetsu Teikoku"},
+				{"searchTerm": "Steel Empire"}
 			]
 		},
 		{
@@ -2551,22 +2537,22 @@
 		{
 			"group": "Summon Night - Swordcraft Story",
 			"titles": [
-				{"searchTerm": "Summon Night - Swordcraft Story"},
-				{"searchTerm": "Summon Night - Craft Sword Monogatari"}
+				{"searchTerm": "Summon Night - Craft Sword Monogatari"},
+				{"searchTerm": "Summon Night - Swordcraft Story"}
 			]
 		},
 		{
 			"group": "Summon Night - Swordcraft Story 2",
 			"titles": [
-				{"searchTerm": "Summon Night - Swordcraft Story 2"},
-				{"searchTerm": "Summon Night - Craft Sword Monogatari 2"}
+				{"searchTerm": "Summon Night - Craft Sword Monogatari 2"},
+				{"searchTerm": "Summon Night - Swordcraft Story 2"}
 			]
 		},
 		{
 			"group": "Super Army War",
 			"titles": [
-				{"searchTerm": "Super Army War"},
-				{"searchTerm": "Essence of War, The - Glory Days"}
+				{"searchTerm": "Essence of War, The - Glory Days"},
+				{"searchTerm": "Super Army War"}
 			]
 		},
 		{
@@ -2579,30 +2565,30 @@
 		{
 			"group": "Super Dodge Ball Advance",
 			"titles": [
-				{"searchTerm": "Super Dodge Ball Advance"},
-				{"searchTerm": "Bakunetsu Dodge Ball Fighters"}
+				{"searchTerm": "Bakunetsu Dodge Ball Fighters"},
+				{"searchTerm": "Super Dodge Ball Advance"}
 			]
 		},
 		{
 			"group": "Super Ghouls'n Ghosts",
 			"titles": [
-				{"searchTerm": "Super Ghouls'n Ghosts"},
-				{"searchTerm": "Chou Makaimura R"}
+				{"searchTerm": "Chou Makaimura R"},
+				{"searchTerm": "Super Ghouls'n Ghosts"}
 			]
 		},
 		{
 			"group": "Super Mario Advance",
 			"titles": [
-				{"searchTerm": "Super Mario Advance"},
 				{"searchTerm": "Chaoji Maliou 2"},
+				{"searchTerm": "Super Mario Advance"},
 				{"searchTerm": "Super Mario Advance - Super Mario USA + Mario Brothers"}
 			]
 		},
 		{
 			"group": "Super Mario Advance 2 - Super Mario World",
 			"titles": [
-				{"searchTerm": "Super Mario Advance 2 - Super Mario World"},
 				{"searchTerm": "Chaoji Maliou Shijie"},
+				{"searchTerm": "Super Mario Advance 2 - Super Mario World"},
 				{"searchTerm": "Super Mario Advance 2 - Super Mario World + Mario Brothers"}
 			]
 		},
@@ -2617,8 +2603,8 @@
 		{
 			"group": "Super Mario Advance 4 - Super Mario Bros. 3",
 			"titles": [
-				{"searchTerm": "Super Mario Advance 4 - Super Mario Bros. 3"},
-				{"searchTerm": "Super Mario Advance 4 - Super Mario 3 + Mario Brothers"}
+				{"searchTerm": "Super Mario Advance 4 - Super Mario 3 + Mario Brothers"},
+				{"searchTerm": "Super Mario Advance 4 - Super Mario Bros. 3"}
 			]
 		},
 		{
@@ -2631,8 +2617,8 @@
 		{
 			"group": "Sword of Mana",
 			"titles": [
-				{"searchTerm": "Sword of Mana"},
-				{"searchTerm": "Shinyaku Seiken Densetsu"}
+				{"searchTerm": "Shinyaku Seiken Densetsu"},
+				{"searchTerm": "Sword of Mana"}
 			]
 		},
 		{
@@ -2654,8 +2640,8 @@
 		{
 			"group": "Tarzan - Return to the Jungle",
 			"titles": [
-				{"searchTerm": "Tarzan - Return to the Jungle"},
 				{"searchTerm": "Tarzan - L'Appel de la Jungle"},
+				{"searchTerm": "Tarzan - Return to the Jungle"},
 				{"searchTerm": "Tarzan - Rueckkehr in den Dschungel"}
 			]
 		},
@@ -2672,8 +2658,8 @@
 		{
 			"group": "Tiny Toon Adventures - Scary Dreams",
 			"titles": [
-				{"searchTerm": "Tiny Toon Adventures - Scary Dreams"},
-				{"searchTerm": "Tiny Toon Adventures - Buster's Bad Dream"}
+				{"searchTerm": "Tiny Toon Adventures - Buster's Bad Dream"},
+				{"searchTerm": "Tiny Toon Adventures - Scary Dreams"}
 			]
 		},
 		{
@@ -2695,15 +2681,15 @@
 		{
 			"group": "Tomato Adventure",
 			"titles": [
-				{"searchTerm": "Tomato Adventure"},
-				{"searchTerm": "Fanqiejiang Wangguo Da Maoxian"}
+				{"searchTerm": "Fanqiejiang Wangguo Da Maoxian"},
+				{"searchTerm": "Tomato Adventure"}
 			]
 		},
 		{
 			"group": "Tony Hawk's Pro Skater 2",
 			"titles": [
-				{"searchTerm": "Tony Hawk's Pro Skater 2"},
-				{"searchTerm": "SK8 - Tony Hawk's Pro Skater 2"}
+				{"searchTerm": "SK8 - Tony Hawk's Pro Skater 2"},
+				{"searchTerm": "Tony Hawk's Pro Skater 2"}
 			]
 		},
 		{
@@ -2718,8 +2704,8 @@
 		{
 			"group": "Tootuff - The Gag Machine",
 			"titles": [
-				{"searchTerm": "Tootuff - The Gag Machine"},
-				{"searchTerm": "Titeuf - Ze Gag Machine"}
+				{"searchTerm": "Titeuf - Ze Gag Machine"},
+				{"searchTerm": "Tootuff - The Gag Machine"}
 			],
 			"compilations": [
 				{"searchTerm": "2 Jeux en 1 - Titeuf - Ze Gag Machine + Titeuf - Mega Compet", "titlePosition": 1}
@@ -2741,6 +2727,21 @@
 			]
 		},
 		{
+			"group": "Total Soccer 2002",
+			"titles": [
+				{"searchTerm": "Total Soccer 2002"},
+				{"searchTerm": "Total Soccer Advance"}
+			]
+		},
+		{
+			"group": "Tremblay Island",
+			"titles": [
+				{"searchTerm": "Tremblay Island"},
+				{"searchTerm": "Tremblay Island (Solid State Version)", "priority": 2},
+				{"searchTerm": "Tremblay Island (Kickstarter Edition)", "priority": 3}
+			]
+		},
+		{
 			"group": "Turok Advance (Dark Version)",
 			"titles": [
 				{"searchTerm": "Turok Advance (Dark Version)"},
@@ -2751,31 +2752,30 @@
 		{
 			"group": "Tweety and the Magic Gems",
 			"titles": [
-				{"searchTerm": "Tweety and the Magic Gems"},
 				{"searchTerm": "Titi et les Bijoux Magiques"},
+				{"searchTerm": "Tweety and the Magic Gems"},
 				{"searchTerm": "Tweety no Hearty Party"}
 			]
 		},
 		{
 			"group": "Ultimate Beach Soccer",
 			"titles": [
-				{"searchTerm": "Ultimate Beach Soccer"},
-				{"searchTerm": "Pro Beach Soccer"}
+				{"searchTerm": "Pro Beach Soccer"},
+				{"searchTerm": "Ultimate Beach Soccer"}
 			]
 		},
 		{
 			"group": "Ultimate Muscle - The Kinnikuman Legacy - The Path of the Superhero",
 			"titles": [
-				{"searchTerm": "Ultimate Muscle - The Kinnikuman Legacy - The Path of the Superhero"},
-				{"searchTerm": "Kinnikuman II-Sei - Seigi Choujin e no Michi"}
+				{"searchTerm": "Kinnikuman II-Sei - Seigi Choujin e no Michi"},
+				{"searchTerm": "Ultimate Muscle - The Kinnikuman Legacy - The Path of the Superhero"}
 			]
 		},
 		{
 			"group": "Uno",
 			"compilations": [
-				{"searchTerm": "2 Game Pack! - Uno + Skip-Bo", "titlePosition": 1},
-				{"searchTerm": "2 Game Pack! - Uno + Skip-Bo", "titlePosition": 1},
-				{"searchTerm": "2 Game Pack! - Uno & Skip-Bo", "titlePosition": 1}
+				{"searchTerm": "2 Game Pack! - Uno & Skip-Bo", "titlePosition": 1},
+				{"searchTerm": "2 Game Pack! - Uno + Skip-Bo", "titlePosition": 1}
 			]
 		},
 		{
@@ -2790,73 +2790,73 @@
 		{
 			"group": "Wario Land 4",
 			"titles": [
-				{"searchTerm": "Wario Land 4"},
 				{"searchTerm": "Waliou Xunbao Ji"},
+				{"searchTerm": "Wario Land 4"},
 				{"searchTerm": "Wario Land Advance - Youki no Otakara"}
 			]
 		},
 		{
 			"group": "WarioWare - Twisted!",
 			"titles": [
-				{"searchTerm": "WarioWare - Twisted!"},
-				{"searchTerm": "Mawaru - Made in Wario"}
+				{"searchTerm": "Mawaru - Made in Wario"},
+				{"searchTerm": "WarioWare - Twisted!"}
 			]
 		},
 		{
 			"group": "WarioWare, Inc. - Mega Microgame$!",
 			"titles": [
-				{"searchTerm": "WarioWare, Inc. - Mega Microgame$!"},
 				{"searchTerm": "Made in Wario"},
 				{"searchTerm": "Waliou Zhizao"},
+				{"searchTerm": "WarioWare, Inc. - Mega Microgame$!"},
 				{"searchTerm": "WarioWare, Inc. - Minigame Mania"}
 			]
 		},
 		{
 			"group": "Who Wants to Be a Millionaire",
 			"titles": [
-				{"searchTerm": "Who Wants to Be a Millionaire"},
 				{"searchTerm": "Chi Vuol Essere Milionario"},
 				{"searchTerm": "Qui Veut Gagner des Millions"},
 				{"searchTerm": "Quiere Ser Millonario"},
 				{"searchTerm": "Weekend Miljonairs"},
-				{"searchTerm": "Wer Wird Millionaer"}
+				{"searchTerm": "Wer Wird Millionaer"},
+				{"searchTerm": "Who Wants to Be a Millionaire"}
 			]
 		},
 		{
 			"group": "Wild Thornberrys Movie, The",
 			"titles": [
-				{"searchTerm": "Wild Thornberrys Movie, The"},
-				{"searchTerm": "Famille Delajungle, La - Le Film"}
+				{"searchTerm": "Famille Delajungle, La - Le Film"},
+				{"searchTerm": "Wild Thornberrys Movie, The"}
 			]
 		},
 		{
 			"group": "Wild Thornberrys, The - Chimp Chase",
 			"titles": [
-				{"searchTerm": "Wild Thornberrys, The - Chimp Chase"},
 				{"searchTerm": "Expedition der Stachelbeeren - Zoff im Zoo"},
-				{"searchTerm": "Famille Delajungle, La - A la Poursuite de Darwin"}
+				{"searchTerm": "Famille Delajungle, La - A la Poursuite de Darwin"},
+				{"searchTerm": "Wild Thornberrys, The - Chimp Chase"}
 			]
 		},
 		{
 			"group": "Woody Woodpecker in Crazy Castle 5",
 			"titles": [
-				{"searchTerm": "Woody Woodpecker in Crazy Castle 5"},
-				{"searchTerm": "Woody Woodpecker - Crazy Castle 5"}
+				{"searchTerm": "Woody Woodpecker - Crazy Castle 5"},
+				{"searchTerm": "Woody Woodpecker in Crazy Castle 5"}
 			]
 		},
 		{
 			"group": "WTA Tour Tennis",
 			"titles": [
-				{"searchTerm": "WTA Tour Tennis"},
 				{"searchTerm": "Pro Tennis WTA Tour"},
+				{"searchTerm": "WTA Tour Tennis"},
 				{"searchTerm": "WTA Tour Tennis Pocket"}
 			]
 		},
 		{
 			"group": "X2 - Wolverine's Revenge",
 			"titles": [
-				{"searchTerm": "X2 - Wolverine's Revenge"},
-				{"searchTerm": "X-Men 2 - La Vengeance de Wolverine"}
+				{"searchTerm": "X-Men 2 - La Vengeance de Wolverine"},
+				{"searchTerm": "X2 - Wolverine's Revenge"}
 			],
 			"compilations": [
 				{"searchTerm": "2 in 1 Game Pack - Spider-Man - Mysterio's Menace + X2 - Wolverine's Revenge", "titlePosition": 2}
@@ -2865,16 +2865,16 @@
 		{
 			"group": "Xploder Advance",
 			"titles": [
-				{"searchTerm": "Xploder Advance"},
 				{"searchTerm": "CodeBreaker"},
-				{"searchTerm": "X-Terminator Advance"}
+				{"searchTerm": "X-Terminator Advance"},
+				{"searchTerm": "Xploder Advance"}
 			]
 		},
 		{
 			"group": "Yggdra Union - We'll Never Fight Alone",
 			"titles": [
-				{"searchTerm": "Yggdra Union - We'll Never Fight Alone"},
-				{"searchTerm": "Yggdra Union"}
+				{"searchTerm": "Yggdra Union"},
+				{"searchTerm": "Yggdra Union - We'll Never Fight Alone"}
 			]
 		},
 		{
@@ -2887,9 +2887,9 @@
 		{
 			"group": "Yoshi Topsy-Turvy",
 			"titles": [
-				{"searchTerm": "Yoshi Topsy-Turvy"},
+				{"searchTerm": "Yoshi's Universal Gravitation"},
 				{"searchTerm": "Yoshi no Banyuuinryoku"},
-				{"searchTerm": "Yoshi's Universal Gravitation"}
+				{"searchTerm": "Yoshi Topsy-Turvy"}
 			]
 		},
 		{
@@ -2953,43 +2953,43 @@
 		{
 			"group": "Yu-Gi-Oh! GX - Duel Academy",
 			"titles": [
-				{"searchTerm": "Yu-Gi-Oh! GX - Duel Academy"},
-				{"searchTerm": "Yu-Gi-Oh! Duel Monsters GX - Mezase Duel King!"}
+				{"searchTerm": "Yu-Gi-Oh! Duel Monsters GX - Mezase Duel King!"},
+				{"searchTerm": "Yu-Gi-Oh! GX - Duel Academy"}
 			]
 		},
 		{
 			"group": "Zapper - One Wicked Cricket!",
 			"titles": [
-				{"searchTerm": "Zapper - One Wicked Cricket!"},
-				{"searchTerm": "Zapper"}
+				{"searchTerm": "Zapper"},
+				{"searchTerm": "Zapper - One Wicked Cricket!"}
 			]
 		},
 		{
 			"group": "Zatchbell! - Electric Arena",
 			"titles": [
-				{"searchTerm": "Zatchbell! - Electric Arena"},
-				{"searchTerm": "Konjiki no Gashbell!! - Unare! Yuujou no Zakeru"}
+				{"searchTerm": "Konjiki no Gashbell!! - Unare! Yuujou no Zakeru"},
+				{"searchTerm": "Zatchbell! - Electric Arena"}
 			]
 		},
 		{
-			"group": "Zoids Legacy",
+			"group": "Zoids - Legacy",
 			"titles": [
-				{"searchTerm": "Zoids Legacy"},
+				{"searchTerm": "Zoids - Legacy"},
 				{"searchTerm": "Zoids Saga II"}
 			]
 		},
 		{
 			"group": "Zone of the Enders - The Fist of Mars",
 			"titles": [
-				{"searchTerm": "Zone of the Enders - The Fist of Mars"},
-				{"searchTerm": "Z.O.E. 2173 - Testament"}
+				{"searchTerm": "Z.O.E. 2173 - Testament"},
+				{"searchTerm": "Zone of the Enders - The Fist of Mars"}
 			]
 		},
 		{
 			"group": "Zooo - Action Puzzle Game",
 			"titles": [
-				{"searchTerm": "Zooo - Action Puzzle Game"},
-				{"searchTerm": "Minna no Soft Series - Zooo"}
+				{"searchTerm": "Minna no Soft Series - Zooo"},
+				{"searchTerm": "Zooo - Action Puzzle Game"}
 			]
 		}
 	]

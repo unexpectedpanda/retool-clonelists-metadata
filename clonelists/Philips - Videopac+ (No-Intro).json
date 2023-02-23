@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Philips - Videopac+ (No-Intro)",
-		"lastUpdated": "9 April 2021",
+		"lastUpdated": "21 January 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -16,8 +16,8 @@
 		{
 			"group": "Electronic Billiards",
 			"titles": [
-				{"searchTerm": "Electronic Billiards"},
-				{"searchTerm": "Billard Electrique"}
+				{"searchTerm": "Billard Electrique"},
+				{"searchTerm": "Electronic Billiards"}
 			]
 		},
 		{
@@ -30,15 +30,15 @@
 		{
 			"group": "Race + Spin-out + Cryptogram",
 			"titles": [
-				{"searchTerm": "Race + Spin-out + Cryptogram"},
-				{"searchTerm": "Course de Voitures + Autodrome + Cryptogramme"}
+				{"searchTerm": "Course de Voitures + Autodrome + Cryptogramme"},
+				{"searchTerm": "Race + Spin-out + Cryptogram"}
 			]
 		},
 		{
 			"group": "Tenpin Bowling + Basketball",
 			"titles": [
-				{"searchTerm": "Tenpin Bowling + Basketball"},
-				{"searchTerm": "Jeu de Quilles + Basketball"}
+				{"searchTerm": "Jeu de Quilles + Basketball"},
+				{"searchTerm": "Tenpin Bowling + Basketball"}
 			]
 		}
 	]

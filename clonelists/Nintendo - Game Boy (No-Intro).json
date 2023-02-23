@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Nintendo - Game Boy (No-Intro)",
-		"lastUpdated": "30 June 2022",
+		"lastUpdated": "11 January 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -47,7 +47,7 @@
 			"categories": ["Applications"]
 		},
 		{
-			"searchTerm": "InfoGenius Productivity Pak.*",
+			"searchTerm": "^InfoGenius Productivity Pak.*",
 			"nameType": "regex",
 			"categories": ["Applications", "Educational"]
 		},
@@ -83,6 +83,11 @@
 			"searchTerm": "Donkey Kong Land (Japan) (SGB Enhanced)",
 			"nameType": "full",
 			"newGroup": "Donkey Kong Land 2"
+		},
+		{
+			"searchTerm": "Hugo (World) (Aftermarket) (Homebrew)",
+			"nameType": "full",
+			"newGroup": "Huge homebrew"
 		},
 		{
 			"searchTerm": "Mickey Mouse (Japan)",
@@ -478,13 +483,6 @@
 			]
 		},
 		{
-			"group": "Deadeus",
-			"titles": [
-				{"searchTerm": "Deadeus (1.3.8)"},
-				{"searchTerm": "Deadeus (1.2.5)", "priority": 2}
-			]
-		},
-		{
 			"group": "Dennis the Menace",
 			"titles": [
 				{"searchTerm": "Dennis the Menace"},
@@ -496,6 +494,13 @@
 			"titles": [
 				{"searchTerm": "Dexterity"},
 				{"searchTerm": "Funny Field"}
+			]
+		},
+		{
+			"group": "Doctor GB",
+			"titles": [
+				{"searchTerm": "Doctor GB Card 16M Loader"},
+				{"searchTerm": "Doctor GB Card 4M", "priority": 2}
 			]
 		},
 		{
@@ -1130,6 +1135,13 @@
 				{"searchTerm": "Penguin Wars"},
 				{"searchTerm": "King of the Zoo"},
 				{"searchTerm": "Penguin-kun Wars VS."}
+			]
+		},
+		{
+			"group": "Perfect Blend",
+			"titles": [
+				{"searchTerm": "Perfect Blend (Bugfix)"},
+				{"searchTerm": "Perfect Blend", "priority": 2}
 			]
 		},
 		{

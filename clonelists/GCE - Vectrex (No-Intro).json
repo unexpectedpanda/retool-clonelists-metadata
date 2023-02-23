@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "GCE - Vectrex (No-Intro)",
-		"lastUpdated": "22 October 2021",
+		"lastUpdated": "9 January 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -41,8 +41,8 @@
 		{
 			"group": "Mine Storm II",
 			"titles": [
-				{"searchTerm": "Mine Storm II"},
-				{"searchTerm": "Mine Storm"}
+				{"searchTerm": "Mine Storm"},
+				{"searchTerm": "Mine Storm II"}
 			]
 		},
 		{
@@ -55,15 +55,15 @@
 		{
 			"group": "Star Trek - The Motion Picture",
 			"titles": [
-				{"searchTerm": "Star Trek - The Motion Picture"},
-				{"searchTerm": "Star Ship"}
+				{"searchTerm": "Star Ship"},
+				{"searchTerm": "Star Trek - The Motion Picture"}
 			]
 		},
 		{
 			"group": "WebWars",
 			"titles": [
-				{"searchTerm": "WebWars"},
-				{"searchTerm": "WebWarp"}
+				{"searchTerm": "WebWarp"},
+				{"searchTerm": "WebWars"}
 			]
 		}
 	]

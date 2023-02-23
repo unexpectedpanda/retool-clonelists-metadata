@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Retool test",
-		"lastUpdated": "24 September 2022",
+		"lastUpdated": "9 January 2023",
 		"minimumVersion": "2.00.0"
 	},
 
@@ -9,116 +9,243 @@
 		"Test Title Let's Do It Again (USA, Brazil)"
 	],
 
-	"renames": {
-		"Another Test Title": [
-			{"title": "Another Test Title"},
-			{"title": "Another Test Title Again"}
-		],
-		"Group Test Title (With Parentheses)": [
-			{"title": "Group Test Title"},
-			{"title": "Group Test Title 2"}
-		],
-		"Original Test Title (Disc 1)": [
-			{"title": "Original Test Title (Disc 1)"},
-			{"superset": "Special Original Test Title (Disc 1)"},
-			{"superset": "Slightly Less Special Original Test Title (Disc 1)", "priority": 2}
-		],
-		"Original Test Title (Disc 2)": [
-			{"title": "Original Test Title (Disc 2)"},
-			{"superset": "Special Original Test Title (Disc 2)"},
-			{"superset": "Slightly Less Special Original Test Title (Disc 2)", "priority": 2}
-		],
-		"Test Title for Some Reason Rereleased With a Different Name But is Updated": [
-			{"title": "Test Title for Some Reason Rereleased With a Different Name But is Updated"},
-			{"title": "Test Title That Matches the Rerelease in USA"},
-			{"title": "Test Title", "priority": 2},
-			{"title": "Test Title Renamed", "priority": 2},
-			{"superset": "Test Title - Super Mega Ultra Plus Edition"},
-			{"superset": "Test Title - Definitely Has More Than Plus Edition", "priority": 2},
-			{"superset": "Test Title - Plus Plus Edition", "priority": 3},
-			{"superset": "Test Title - Plus Edition", "priority": 4}
-		],
-		"Title A": [
-			{"title": "Title A"},
-			{"compilation": "Title A + Title B", "titlePosition": 1},
-			{"compilation": "Title A + Title D", "titlePosition": 1}
-		],
-		"Title B": [
-			{"compilation": "Title A + Title B", "titlePosition": 2},
-			{"compilation": "Title B + Title C", "titlePosition": 1}
-		],
-		"Title C": [
-			{"title": "Title C"},
-			{"compilation": "Title B + Title C", "titlePosition": 2}
-		],
-		"Title D": [
-			{"title": "Title D"},
-			{"compilation": "Title A + Title D", "titlePosition": 2}
-		],
-		"Title E": [
-			{"title": "Title E"},
-			{"compilation": "2 Games in 1 - Title E I & II", "titlePosition": 1}
-		],
-		"Title E II": [
-			{"title": "Title E II"},
-			{"title": "Title E II International"},
-			{"compilation": "2 Games in 1 - Title E I & II", "titlePosition": 2}
-		],
-		"Title F": [
-			{"title": "Title F"},
-			{"compilation": "Title F + Title H", "titlePosition": 1}
-		],
-		"Title G": [
-			{"title": "Title G"},
-			{"compilation": "Title G + Title H", "titlePosition": 1}
-		],
-		"Title H": [
-			{"compilation": "Title F + Title H", "titlePosition": 2},
-			{"compilation": "Title G + Title H", "titlePosition": 2}
-		],
-		"Title I": [
-			{"title": "Title I"},
-			{"compilation": "Title I + Title M", "titlePosition": 1}
-		],
-		"Title J": [
-			{"title": "Title J"},
-			{"compilation": "Title J + Title K", "titlePosition": 1},
-			{"compilation": "Title J + Title K + Title L", "titlePosition": 1}
-		],
-		"Title K": [
-			{"title": "Title K"},
-			{"compilation": "Title J + Title K", "titlePosition": 2},
-			{"compilation": "Title J + Title K + Title L", "titlePosition": 2}
-		],
-		"Title L": [
-			{"title": "Title L"},
-			{"compilation": "Title J + Title K + Title L", "titlePosition": 3},
-			{"compilation": "Title L + Title M", "titlePosition": 1}
-		],
-		"Title M": [
-			{"title": "Title M"},
-			{"compilation": "Title I + Title M", "titlePosition": 2},
-			{"compilation": "Title L + Title M", "titlePosition": 2}
-		],
-		"Title N (Disc 1)": [
-			{"title": "Title N (Disc 1) (Super Edition)"},
-			{"title": "Title N (Disc 1)", "priority": 2},
-			{"compilation": "Every Title All At Once"}
-		],
-		"Title N (Disc 2)": [
-			{"title": "Title N (Disc 2) (Super Edition)"},
-			{"title": "Title N (Disc 2)", "priority": 2},
-			{"compilation": "Every Title All At Once"}
-		],
-		"Title O (Disc 1)": [
-			{"title": "Title O (Disc 1) (Chartreuse Edition)"},
-			{"title": "Title O (Disc 1)", "priority": 2},
-			{"compilation": "Every Title All At Once"}
-		],
-		"Title O (Disc 2)": [
-			{"title": "Title O (Disc 2) (Chartreuse Edition)"},
-			{"title": "Title O (Disc 2)", "priority": 2},
-			{"compilation": "Every Title All At Once"}
-		]
-	}
+	"variants": [
+		{
+			"group": "Another Test Title",
+			"titles": [
+				{"searchTerm": "Another Test Title"},
+				{"searchTerm": "Another Test Title Again"}
+			]
+		},
+		{
+			"group": "Example Title",
+			"titles": [
+				{"searchTerm": "Example Title", "priority": 2}
+			],
+			"compilations": [
+				{"searchTerm": "Example Title 1 & 2"},
+				{"searchTerm": "Example Title Compilation Pack"}
+			]
+		},
+		{
+			"group": "Example Title 2",
+			"titles": [
+				{"searchTerm": "Example Title 2 - Special Edition"}
+			],
+			"compilations": [
+				{"searchTerm": "Example Title Compilation Pack", "priority": 2},
+				{"searchTerm": "Example Title 1 & 2", "priority": 2}
+			]
+		},
+		{
+			"group": "Group Test Title (With Parentheses)",
+			"titles": [
+				{"searchTerm": "Group Test Title"},
+				{"searchTerm": "Group Test Title 2"}
+			]
+		},
+		{
+			"group": "Original Test Title (Disc 1)",
+			"titles": [
+				{"searchTerm": "Original Test Title (Disc 1)"}
+			],
+			"supersets": [
+				{"searchTerm": "Special Original Test Title (Disc 1)"},
+				{"searchTerm": "Slightly Less Special Original Test Title (Disc 1)", "priority": 2}
+			]
+		},
+		{
+			"group": "Original Test Title (Disc 2)",
+			"titles": [
+				{"searchTerm": "Original Test Title (Disc 2)"}
+			],
+			"supersets": [
+				{"searchTerm": "Special Original Test Title (Disc 2)"},
+				{"searchTerm": "Slightly Less Special Original Test Title (Disc 2)", "priority": 2}
+			]
+		},
+		{
+			"group": "Test Title for Some Reason Rereleased With a Different Name But is Updated",
+			"titles": [
+				{"searchTerm": "Test Title for Some Reason Rereleased With a Different Name But is Updated"},
+				{"searchTerm": "Test Title That Matches the Rerelease in USA"},
+				{"searchTerm": "Test Title", "priority": 2},
+				{"searchTerm": "Test Title Renamed", "priority": 2}
+			],
+			"supersets": [
+				{"searchTerm": "Test Title - Super Mega Ultra Plus Edition"},
+				{"searchTerm": "Test Title - Definitely Has More Than Plus Edition", "priority": 2},
+				{"searchTerm": "Test Title - Plus Plus Edition", "priority": 3},
+				{"searchTerm": "Test Title - Plus Edition", "priority": 4}
+			]
+		},
+		{
+			"group": "Title A",
+			"titles": [
+				{"searchTerm": "Title A"}
+			],
+			"compilations": [
+				{"searchTerm": "Title A + Title B", "titlePosition": 1},
+				{"searchTerm": "Title A + Title D", "titlePosition": 1}
+			]
+		},
+		{
+			"group": "Title B",
+			"compilations": [
+				{"searchTerm": "Title A + Title B", "titlePosition": 2},
+				{"searchTerm": "Title B + Title C", "titlePosition": 1}
+			]
+		},
+		{
+			"group": "Title C",
+			"titles": [
+				{"searchTerm": "Title C"}
+			],
+			"compilations": [
+				{"searchTerm": "Title B + Title C", "titlePosition": 2}
+			]
+		},
+		{
+			"group": "Title D",
+			"titles": [
+				{"searchTerm": "Title D"}
+			],
+			"compilations": [
+				{"searchTerm": "Title A + Title D", "titlePosition": 2}
+			]
+		},
+		{
+			"group": "Title E",
+			"titles": [
+				{"searchTerm": "Title E"}
+			],
+			"compilations": [
+				{"searchTerm": "2 Games in 1 - Title E I & II", "titlePosition": 1}
+			]
+		},
+		{
+			"group": "Title E II",
+			"titles": [
+				{"searchTerm": "Title E II"},
+				{"searchTerm": "Title E II International"}
+			],
+			"compilations": [
+				{"searchTerm": "2 Games in 1 - Title E I & II", "titlePosition": 2}
+			]
+		},
+		{
+			"group": "Title F",
+			"titles": [
+				{"searchTerm": "Title F"}
+			],
+			"compilations": [
+				{"searchTerm": "Title F + Title H", "titlePosition": 1}
+			]
+		},
+		{
+			"group": "Title G",
+			"titles": [
+				{"searchTerm": "Title G"}
+			],
+			"compilations": [
+				{"searchTerm": "Title G + Title H", "titlePosition": 1}
+			]
+		},
+		{
+			"group": "Title H",
+			"compilations": [
+				{"searchTerm": "Title F + Title H", "titlePosition": 2},
+				{"searchTerm": "Title G + Title H", "titlePosition": 2}
+			]
+		},
+		{
+			"group": "Title I",
+			"titles": [
+				{"searchTerm": "Title I"}
+			],
+			"compilations": [
+				{"searchTerm": "Title I + Title M", "titlePosition": 1}
+			]
+		},
+		{
+			"group": "Title J",
+			"titles": [
+				{"searchTerm": "Title J"}
+			],
+			"compilations": [
+				{"searchTerm": "Title J + Title K", "titlePosition": 1},
+				{"searchTerm": "Title J + Title K + Title L", "titlePosition": 1}
+			]
+		},
+		{
+			"group": "Title K",
+			"titles": [
+				{"searchTerm": "Title K"}
+			],
+			"compilations": [
+				{"searchTerm": "Title J + Title K", "titlePosition": 2},
+				{"searchTerm": "Title J + Title K + Title L", "titlePosition": 2}
+			]
+		},
+		{
+			"group": "Title L",
+			"titles": [
+				{"searchTerm": "Title L"}
+			],
+			"compilations": [
+				{"searchTerm": "Title J + Title K + Title L", "titlePosition": 3},
+				{"searchTerm": "Title L + Title M", "titlePosition": 1}
+			]
+		},
+		{
+			"group": "Title M",
+			"titles": [
+				{"searchTerm": "Title M"}
+			],
+			"compilations": [
+				{"searchTerm": "Title I + Title M", "titlePosition": 2},
+				{"searchTerm": "Title L + Title M", "titlePosition": 2}
+			]
+		},
+		{
+			"group": "Title N (Disc 1)",
+			"titles": [
+				{"searchTerm": "Title N (Disc 1) (Super Edition)"},
+				{"searchTerm": "Title N (Disc 1)", "priority": 2}
+			],
+			"compilations": [
+				{"searchTerm": "Every Title All At Once"}
+			]
+		},
+		{
+			"group": "Title N (Disc 2)",
+			"titles": [
+				{"searchTerm": "Title N (Disc 2) (Super Edition)"},
+				{"searchTerm": "Title N (Disc 2)", "priority": 2}
+			],
+			"compilations": [
+				{"searchTerm": "Every Title All At Once"}
+			]
+		},
+		{
+			"group": "Title O (Disc 1)",
+			"titles": [
+				{"searchTerm": "Title O (Disc 1) (Chartreuse Edition)"},
+				{"searchTerm": "Title O (Disc 1)", "priority": 2}
+			],
+			"compilations": [
+				{"searchTerm": "Every Title All At Once"}
+			]
+		},
+		{
+			"group": "Title O (Disc 2)",
+			"titles": [
+				{"searchTerm": "Title O (Disc 2) (Chartreuse Edition)"},
+				{"searchTerm": "Title O (Disc 2)", "priority": 2}
+			],
+			"compilations": [
+				{"searchTerm": "Every Title All At Once"}
+			]
+		}
+	]
 }

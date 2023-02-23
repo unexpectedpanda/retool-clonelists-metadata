@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Nintendo - Family Computer Disk System (FDS) (No-Intro)",
-		"lastUpdated": "23 July 2022",
+		"lastUpdated": "11 January 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -57,7 +57,7 @@
 			"categories": ["Applications"]
 		},
 		{
-			"searchTerm": "Sunsoft Dev Disk Lot - .*",
+			"searchTerm": "^Sunsoft Dev Disk Lot - .*",
 			"nameType": "regex",
 			"categories": ["Preproduction"]
 		},

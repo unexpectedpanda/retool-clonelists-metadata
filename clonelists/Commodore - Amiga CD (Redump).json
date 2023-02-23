@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Commodore - Amiga CD (Redump)",
-		"lastUpdated": "25 July 2022",
+		"lastUpdated": "9 January 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -16,8 +16,8 @@
 			"group": "Reflections 4.2",
 			"titles": [
 				{"searchTerm": "Reflections 4.2"},
-				{"searchTerm": "Reflections 3.0 Zubehoer", "priority": 2},
-				{"searchTerm": "Reflections 4", "priority": 2}
+				{"searchTerm": "Reflections 4", "priority": 2},
+				{"searchTerm": "Reflections 3.0 Zubehoer", "priority": 3}
 			]
 		}
 	]

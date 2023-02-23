@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Apple - Macintosh (Redump)",
-		"lastUpdated": "19 November 2022",
+		"lastUpdated": "28 January 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -73,6 +73,7 @@
 		"CD-ROM MacLife No. 46 (Japan)",
 		"CD-ROM MacLife No. 6 (Japan)",
 		"Call of Duty 2 (USA)",
+		"Chop Suey (USA)",
 		"Crescent Satsujin Jiken - Hyena no Jijou (Japan)",
 		"Crescent Satsujin Jiken - Tozasareta Nikki (Japan)",
 		"Daedalus Encounter, The - Episode 1 - Nanpasen no Alien (Japan) (Disc 1)",
@@ -92,11 +93,14 @@
 		"Ginga Eiyuu Densetsu - Screen Saver Vol. 2 for Macintosh (Japan)",
 		"Gridz (USA)",
 		"Guignols de l'Info, Les... le Jeu! (France)",
+		"Halo - Combat Evolved (Japan)",
+		"Halo - Combat Evolved (USA) (Alt)",
 		"HeartWork - Symphony of Destruction (Japan)",
 		"Heavy Metal - F.A.K.K. 2 (USA)",
 		"Hell - A Cyberpunk Thriller (Japan)",
 		"Heroes of Might and Magic (USA)",
 		"Heroes of Might and Magic II - The Succession Wars (USA)",
+		"Heroes of Might and Magic III (USA)",
 		"Hexen - Deathkings of the Dark Citadel (USA)",
 		"Highschool Terra Story (Japan)",
 		"Initial D Second Stage - Typing Kantou Saisoku Project (Japan)",
@@ -104,7 +108,6 @@
 		"Journeyman Project 2, The - Buried in Time (Japan) (Disc 1)",
 		"Journeyman Project 2, The - Buried in Time (Japan) (Disc 2)",
 		"Journeyman Project 2, The - Buried in Time (Japan) (Disc 3)",
-		"Journeyman Project, The (Japan)",
 		"Kana - Imouto (Japan)",
 		"Klik & Play (France)",
 		"Last War (Japan)",
@@ -149,7 +152,6 @@
 		"MacUser - MacBin 19 (Japan) (Disc A)",
 		"MacUser - MacBin 19 (Japan) (Disc B)",
 		"MacUser - MacBin 3 (Japan)",
-		"MacUser - MacBin 5 (Japan)",
 		"MacUser - MacBin 6 (Japan)",
 		"MacUser - MacBin 7 (Japan)",
 		"MacUser - MacBin 8 (Japan)",
@@ -186,6 +188,7 @@
 		"Phantasmagoria (Europe) (Disc 5)",
 		"Phantasmagoria (Europe) (Disc 6)",
 		"Phantasmagoria (Europe) (Disc 7)",
+		"Pretty Soldier SailorMoon - Bishoujo Senshi Sailor Moon - CD-ROM Genga-shuu (Japan)",
 		"Prisoner of Ice (France) (En,Fr,De,Nl,Sv) (Covermount)",
 		"Quake (Europe)",
 		"Quake (USA) (Alt)",
@@ -284,8 +287,8 @@
 		{
 			"group": "Dungeon Master II - The Legend of Skullkeep",
 			"titles": [
-				{"searchTerm": "Dungeon Master II - The Legend of Skullkeep"},
-				{"searchTerm": "Dungeon Master II - Skullkeep"}
+				{"searchTerm": "Dungeon Master II - Skullkeep"},
+				{"searchTerm": "Dungeon Master II - The Legend of Skullkeep"}
 			]
 		},
 		{
@@ -298,8 +301,8 @@
 		{
 			"group": "Harry Potter and the Sorcerer's Stone",
 			"titles": [
-				{"searchTerm": "Harry Potter and the Sorcerer's Stone"},
-				{"searchTerm": "Harry Potter a l'Ecole des Sorciers"}
+				{"searchTerm": "Harry Potter a l'Ecole des Sorciers"},
+				{"searchTerm": "Harry Potter and the Sorcerer's Stone"}
 			],
 			"supersets": [
 				{"searchTerm": "Harry Potter and the Sorcerer's Stone (Deluxe Edition)"}
@@ -308,8 +311,8 @@
 		{
 			"group": "In Memoriam (Mac Install)",
 			"titles": [
-				{"searchTerm": "In Memoriam (Mac Install)"},
-				{"searchTerm": "In Memoriam (MAC - Install)"}
+				{"searchTerm": "In Memoriam (MAC - Install)"},
+				{"searchTerm": "In Memoriam (Mac Install)"}
 			]
 		},
 		{
@@ -392,8 +395,8 @@
 		{
 			"group": "Sims, The",
 			"titles": [
-				{"searchTerm": "Sims, The"},
-				{"searchTerm": "SimPeople"}
+				{"searchTerm": "SimPeople"},
+				{"searchTerm": "Sims, The"}
 			],
 			"supersets": [
 				{"searchTerm": "Sims, The - Complete Collection"}
@@ -429,8 +432,8 @@
 		{
 			"group": "Sims, The - Superstar (Expansion Pack) (Disc 1)",
 			"titles": [
-				{"searchTerm": "Sims, The - Superstar (Expansion Pack) (Disc 1)"},
-				{"searchTerm": "Sims, Les - Superstar (Disc 1) (Disc Additionnel)"}
+				{"searchTerm": "Sims, Les - Superstar (Disc 1) (Disc Additionnel)"},
+				{"searchTerm": "Sims, The - Superstar (Expansion Pack) (Disc 1)"}
 			],
 			"supersets": [
 				{"searchTerm": "Sims, The - Complete Collection"}
@@ -439,8 +442,8 @@
 		{
 			"group": "Sims, The - Superstar (Expansion Pack) (Disc 2)",
 			"titles": [
-				{"searchTerm": "Sims, The - Superstar (Expansion Pack) (Disc 2)"},
-				{"searchTerm": "Sims, Les - Superstar (Disc 2) (Disc Additionnel)"}
+				{"searchTerm": "Sims, Les - Superstar (Disc 2) (Disc Additionnel)"},
+				{"searchTerm": "Sims, The - Superstar (Expansion Pack) (Disc 2)"}
 			],
 			"supersets": [
 				{"searchTerm": "Sims, The - Complete Collection"}

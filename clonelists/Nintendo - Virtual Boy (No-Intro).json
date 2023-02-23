@@ -1,11 +1,18 @@
 {
 	"description": {
 		"name": "Nintendo - Virtual Boy (No-Intro)",
-		"lastUpdated": "9 April 2021",
+		"lastUpdated": "21 January 2023",
 		"minimumVersion": "2.00"
 	},
 
 	"variants": [
+		{
+			"group": "Elevated Speed",
+			"titles": [
+				{"searchTerm": "Elevated Speed (High Resolution Version)"},
+				{"searchTerm": "Elevated Speed (Low Resolution Version)"}
+			]
+		},
 		{
 			"group": "Galactic Pinball",
 			"titles": [

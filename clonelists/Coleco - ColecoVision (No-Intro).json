@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Coleco - ColecoVision (No-Intro)",
-		"lastUpdated": "2 January 2022",
+		"lastUpdated": "9 January 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -25,7 +25,7 @@
 
 	"overrides": [
 		{
-			"searchTerm": "Super Action Football \\(Europe\\)(.*)?",
+			"searchTerm": "^Super Action Football \\(Europe\\)(.*)?",
 			"nameType": "regex",
 			"newGroup": "Super Action Football Europe"
 		}

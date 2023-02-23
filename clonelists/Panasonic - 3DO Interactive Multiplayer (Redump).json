@@ -1,13 +1,18 @@
 {
 	"description": {
 		"name": "Panasonic - 3DO Interactive Multiplayer (Redump)",
-		"lastUpdated": "24 July 2022",
+		"lastUpdated": "21 January 2023",
 		"minimumVersion": "2.00"
 	},
 
 	"categories": [
 		{
-			"searchTerm": "Panasonic REAL 3DO Interactive Multiplayer - Sampler CD(.*)?",
+			"searchTerm": "Crime Patrol (3DO Developer Services)",
+			"nameType": "short",
+			"categories": ["Preproduction"]
+		},
+		{
+			"searchTerm": "^Panasonic REAL 3DO Interactive Multiplayer - Sampler CD(.*)?",
 			"nameType": "regex",
 			"categories": ["Demos", "Multimedia"]
 		},
@@ -41,6 +46,13 @@
 			]
 		},
 		{
+			"group": "Crime Patrol",
+			"titles": [
+				{"searchTerm": "Crime Patrol"},
+				{"searchTerm": "Crime Patrol (3DO Developer Services)", "priority": 2}
+			]
+		},
+		{
 			"group": "D (Disc 1)",
 			"titles": [
 				{"searchTerm": "D (Disc 1)"},
@@ -57,29 +69,29 @@
 		{
 			"group": "Daedalus Encounter, The (Disc 1)",
 			"titles": [
-				{"searchTerm": "Daedalus Encounter, The (Disc 1)"},
-				{"searchTerm": "Daedalus Encounter, The - Episode 1 - Nanpasen no Alien (Disc 1)"}
+				{"searchTerm": "Daedalus Encounter, The - Episode 1 - Nanpasen no Alien (Disc 1)"},
+				{"searchTerm": "Daedalus Encounter, The (Disc 1)"}
 			]
 		},
 		{
 			"group": "Daedalus Encounter, The (Disc 2)",
 			"titles": [
-				{"searchTerm": "Daedalus Encounter, The (Disc 2)"},
-				{"searchTerm": "Daedalus Encounter, The - Episode 1 - Nanpasen no Alien (Disc 2)"}
+				{"searchTerm": "Daedalus Encounter, The - Episode 1 - Nanpasen no Alien (Disc 2)"},
+				{"searchTerm": "Daedalus Encounter, The (Disc 2)"}
 			]
 		},
 		{
 			"group": "Daedalus Encounter, The (Disc 3)",
 			"titles": [
-				{"searchTerm": "Daedalus Encounter, The (Disc 3)"},
-				{"searchTerm": "Daedalus Encounter, The - Episode 1 - Nanpasen no Alien (Disc 3)"}
+				{"searchTerm": "Daedalus Encounter, The - Episode 1 - Nanpasen no Alien (Disc 3)"},
+				{"searchTerm": "Daedalus Encounter, The (Disc 3)"}
 			]
 		},
 		{
 			"group": "Daedalus Encounter, The (Disc 4)",
 			"titles": [
-				{"searchTerm": "Daedalus Encounter, The (Disc 4)"},
-				{"searchTerm": "Daedalus Encounter, The - Episode 1 - Nanpasen no Alien (Disc 4)"}
+				{"searchTerm": "Daedalus Encounter, The - Episode 1 - Nanpasen no Alien (Disc 4)"},
+				{"searchTerm": "Daedalus Encounter, The (Disc 4)"}
 			]
 		},
 		{
@@ -113,8 +125,8 @@
 		{
 			"group": "Flashback - The Quest for Identity",
 			"titles": [
-				{"searchTerm": "Flashback - The Quest for Identity"},
-				{"searchTerm": "Flashback"}
+				{"searchTerm": "Flashback"},
+				{"searchTerm": "Flashback - The Quest for Identity"}
 			]
 		},
 		{
@@ -148,8 +160,8 @@
 		{
 			"group": "Immercenary - Combat in a Digital World",
 			"titles": [
-				{"searchTerm": "Immercenary - Combat in a Digital World"},
 				{"searchTerm": "Immercenary"},
+				{"searchTerm": "Immercenary - Combat in a Digital World"},
 				{"searchTerm": "Perfect World - Combat in a Digital World"}
 			]
 		},
@@ -192,8 +204,8 @@
 		{
 			"group": "Novastorm",
 			"titles": [
-				{"searchTerm": "Novastorm"},
-				{"searchTerm": "Nova-Storm"}
+				{"searchTerm": "Nova-Storm"},
+				{"searchTerm": "Novastorm"}
 			]
 		},
 		{
@@ -222,8 +234,8 @@
 		{
 			"group": "Road & Track Presents - The Need for Speed",
 			"titles": [
-				{"searchTerm": "Road & Track Presents - The Need for Speed"},
-				{"searchTerm": "Road & Track Presents - OverDrivin'"}
+				{"searchTerm": "Road & Track Presents - OverDrivin'"},
+				{"searchTerm": "Road & Track Presents - The Need for Speed"}
 			]
 		},
 		{
@@ -243,24 +255,24 @@
 		{
 			"group": "Shanghai - Triple-Threat",
 			"titles": [
-				{"searchTerm": "Shanghai - Triple-Threat"},
 				{"searchTerm": "Shanghai - Banri no Choujou - The Great Wall"},
+				{"searchTerm": "Shanghai - Triple-Threat"},
 				{"searchTerm": "Shanghai - Triple-Threat (3DO Action Pak)", "priority": 2}
 			]
 		},
 		{
 			"group": "Slayer",
 			"titles": [
-				{"searchTerm": "Slayer"},
 				{"searchTerm": "Lost Dungeon"},
+				{"searchTerm": "Slayer"},
 				{"searchTerm": "Slayer (3DO Action Pak)", "priority": 2}
 			]
 		},
 		{
 			"group": "Soccer Kid",
 			"titles": [
-				{"searchTerm": "Soccer Kid"},
-				{"searchTerm": "Great! Soccer Kid"}
+				{"searchTerm": "Great! Soccer Kid"},
+				{"searchTerm": "Soccer Kid"}
 			]
 		},
 		{
@@ -294,8 +306,8 @@
 		{
 			"group": "Twisted - The Game Show",
 			"titles": [
-				{"searchTerm": "Twisted - The Game Show"},
-				{"searchTerm": "Twisted"}
+				{"searchTerm": "Twisted"},
+				{"searchTerm": "Twisted - The Game Show"}
 			]
 		},
 		{
@@ -310,16 +322,16 @@
 		{
 			"group": "Waialae Country Club",
 			"titles": [
-				{"searchTerm": "Waialae Country Club"},
 				{"searchTerm": "T&E VR Golf - Waialae no Kiseki"},
-				{"searchTerm": "True Golf Classics - Waialae Country Club"}
+				{"searchTerm": "True Golf Classics - Waialae Country Club"},
+				{"searchTerm": "Waialae Country Club"}
 			]
 		},
 		{
 			"group": "Wicked 18",
 			"titles": [
-				{"searchTerm": "Wicked 18"},
-				{"searchTerm": "T&E VR Golf - Devil's Course"}
+				{"searchTerm": "T&E VR Golf - Devil's Course"},
+				{"searchTerm": "Wicked 18"}
 			]
 		}
 	]

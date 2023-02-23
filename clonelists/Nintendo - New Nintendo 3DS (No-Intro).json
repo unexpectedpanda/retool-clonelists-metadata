@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Nintendo - New Nintendo 3DS (No-Intro)",
-		"lastUpdated": "9 April 2021",
+		"lastUpdated": "14 January 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -9,15 +9,15 @@
 		{
 			"group": "Fire Emblem Warriors",
 			"titles": [
-				{"searchTerm": "Fire Emblem Warriors"},
-				{"searchTerm": "Fire Emblem Musou"}
+				{"searchTerm": "Fire Emblem Musou"},
+				{"searchTerm": "Fire Emblem Warriors"}
 			]
 		},
 		{
 			"group": "Xenoblade Chronicles 3D",
 			"titles": [
-				{"searchTerm": "Xenoblade Chronicles 3D"},
-				{"searchTerm": "Xenoblade"}
+				{"searchTerm": "Xenoblade"},
+				{"searchTerm": "Xenoblade Chronicles 3D"}
 			]
 		}
 	]

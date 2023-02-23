@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Microsoft - MSX2 (No-Intro)",
-		"lastUpdated": "9 April 2021",
+		"lastUpdated": "9 January 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -18,6 +18,21 @@
 			"titles": [
 				{"searchTerm": "Ouke no Tani - El Giza no Fuuin"},
 				{"searchTerm": "Ouke no Tani - El Giza no Fuuin - Edit Contest Yuushuu Sakuhinshuu", "priority": 2}
+			]
+		},
+		{
+			"group": "Treasure of Usas, The",
+			"titles": [
+				{"searchTerm": "Treasure of the Usas"},
+				{"searchTerm": "Treasure of Usas, The"}
+			]
+		},
+		{
+			"group": "Vampire Killer",
+			"titles": [
+				{"searchTerm": "Akumajo Dracula"},
+				{"searchTerm": "Vampire Killer"}
+
 			]
 		}
 	]

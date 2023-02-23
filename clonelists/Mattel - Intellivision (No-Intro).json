@@ -1,15 +1,20 @@
 {
 	"description": {
 		"name": "Mattel - Intellivision (No-Intro)",
-		"lastUpdated": "22 October 2021",
+		"lastUpdated": "9 January 2023",
 		"minimumVersion": "2.00"
 	},
 
 	"categories": [
 		{
-			"searchTerm": "Demonstration Cartridge (- .*)?",
+			"searchTerm": "^Demonstration Cartridge (- .*)?",
 			"nameType": "regex",
 			"categories": ["Demos"]
+		},
+		{
+			"searchTerm": "^MTE 201 Test Cartridge.*",
+			"nameType": "regex",
+			"categories": ["Applications"]
 		}
 	],
 
@@ -90,7 +95,7 @@
 			]
 		},
 		{
-			"group": "Pac-Man (Atarisoft)",
+			"group": "Pac-Man",
 			"titles": [
 				{"searchTerm": "Pac-Man (Atarisoft)"},
 				{"searchTerm": "Pac-Man (INTV Corp.)", "priority": 2}
@@ -103,6 +108,13 @@
 			],
 			"compilations": [
 				{"searchTerm": "Triple Action"}
+			]
+		},
+		{
+			"group": "Super Pro Football",
+			"titles": [
+				{"searchTerm": "Super Pro Football (Revision)"},
+				{"searchTerm": "Super Pro Football", "priority": 2}
 			]
 		},
 		{
@@ -145,10 +157,10 @@
 			]
 		},
 		{
-			"group": "World Cup Football",
+			"group": "World Cup Soccer",
 			"titles": [
-				{"searchTerm": "World Cup Football"},
-				{"searchTerm": "Super Soccer"}
+				{"searchTerm": "Super Soccer"},
+				{"searchTerm": "World Cup Soccer"}
 			]
 		}
 	]
