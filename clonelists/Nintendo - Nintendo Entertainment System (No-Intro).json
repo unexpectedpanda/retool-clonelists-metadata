@@ -982,6 +982,15 @@
 			]
 		},
 		{
+			"group": "Destroyer",
+			"titles": [
+				{"searchTerm": "Destroyer"}
+			],
+			"compilations": [
+				{"searchTerm": "Caltron - 9 in 1"}
+			]
+		},
+		{
 			"group": "Dig Dug II",
 			"titles": [
 				{"searchTerm": "Dig Dug II"},
@@ -1114,7 +1123,8 @@
 		{
 			"group": "Dream Fighter",
 			"compilations": [
-				{"searchTerm": "Asder - 20 in 1"}
+				{"searchTerm": "Asder - 20 in 1"},
+				{"searchTerm": "Caltron - 9 in 1"}
 			]
 		},
 		{
@@ -1396,7 +1406,8 @@
 				{"searchTerm": "Go! Benny!"}
 			],
 			"compilations": [
-				{"searchTerm": "Asder - 20 in 1"}
+				{"searchTerm": "Asder - 20 in 1"},
+				{"searchTerm": "Caltron - 9 in 1"}
 			]
 		},
 		{
@@ -1523,6 +1534,15 @@
 			"group": "Hi-Lo Poker",
 			"compilations": [
 				{"searchTerm": "Asder - 20 in 1"}
+			]
+		},
+		{
+			"group": "Hit Marmot",
+			"titles": [
+				{"searchTerm": "Hit Marmot"}
+			],
+			"compilations": [
+				{"searchTerm": "Caltron - 9 in 1"}
 			]
 		},
 		{
@@ -1957,6 +1977,9 @@
 			"titles": [
 				{"searchTerm": "Bloque Magico, El"},
 				{"searchTerm": "Magic Block"}
+			],
+			"compilations": [
+				{"searchTerm": "Caltron - 9 in 1"}
 			]
 		},
 		{
@@ -2663,6 +2686,12 @@
 			]
 		},
 		{
+			"group": "Sea of Dream Land",
+			"compilations": [
+				{"searchTerm": "Caltron - 9 in 1"}
+			]
+		},
+		{
 			"group": "Secret Scout in the Temple of Demise",
 			"titles": [
 				{"searchTerm": "Secret Scout in the Temple of Demise"}
@@ -2757,7 +2786,8 @@
 				{"searchTerm": "Skate Boy"}
 			],
 			"compilations": [
-				{"searchTerm": "Asder - 20 in 1"}
+				{"searchTerm": "Asder - 20 in 1"},
+				{"searchTerm": "Caltron - 9 in 1"}
 			]
 		},
 		{
@@ -2911,6 +2941,12 @@
 			]
 		},
 		{
+			"group": "Super Gun",
+			"compilations" : [
+				{"searchTerm": "Caltron - 9 in 1"}
+			]
+		},
+		{
 			"group": "Super Mario Bros.",
 			"titles": [
 				{"searchTerm": "Super Mario Bros."},
@@ -2997,7 +3033,8 @@
 				{"searchTerm": "Tank (Asder)", "priority": 2}
 			],
 			"compilations": [
-				{"searchTerm": "Asder - 20 in 1"}
+				{"searchTerm": "Asder - 20 in 1"},
+				{"searchTerm": "Caltron - 9 in 1"}
 			]
 		},
 		{
