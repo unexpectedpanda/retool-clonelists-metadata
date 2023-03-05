@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Nintendo - Super Nintendo Entertainment System (No-Intro)",
-		"lastUpdated": "27 January 2023",
+		"lastUpdated": "5 March 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -2233,6 +2233,16 @@
 			]
 		},
 		{
+			"group": "Super Bombliss",
+			"titles": [
+				{"searchTerm": "Super Bombliss"}
+			],
+			"compilations": [
+				{"searchTerm": "Super Tetris 2 + Bombliss Genteiban"},
+				{"searchTerm": "Super Tetris 2 + Bombliss", "priority": 2}
+			]
+		},
+		{
 			"group": "Super Bonk",
 			"titles": [
 				{"searchTerm": "Super B.C. Kid"},
@@ -2521,6 +2531,13 @@
 			"titles": [
 				{"searchTerm": "Super Tennis"},
 				{"searchTerm": "Super Tennis - World Circuit"}
+			]
+		},
+		{
+			"group": "Super Tetris 2",
+			"compilations": [
+				{"searchTerm": "Super Tetris 2 + Bombliss Genteiban"},
+				{"searchTerm": "Super Tetris 2 + Bombliss", "priority": 2}
 			]
 		},
 		{
