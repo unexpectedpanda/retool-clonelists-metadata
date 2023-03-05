@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Nintendo - Game Boy Color (No-Intro)",
-		"lastUpdated": "13 January 2023",
+		"lastUpdated": "5 March 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -76,6 +76,15 @@
 				{"searchTerm": "All Star Tennis 2000 (AZTP)"},
 				{"searchTerm": "All Star Tennis 2000 (AZTX)", "priority": 2},
 				{"searchTerm": "All Star Tennis 2000", "priority": 3}
+			]
+		},
+		{
+			"group": "ATV Racing",
+			"titles": [
+				{"searchTerm": "ATV Racing"}
+			],
+			"compilations": [
+				{"searchTerm": "ATV Racing & Karate Joe"}
 			]
 		},
 		{
@@ -323,6 +332,15 @@
 			]
 		},
 		{
+			"group": "Full Time Soccer",
+			"titles": [
+				{"searchTerm": "Full Time Soccer"}
+			],
+			"compilations": [
+				{"searchTerm": "Full Time Soccer & Hang Time Basketball"}
+			]
+		},
+		{
 			"group": "Game & Watch Gallery 2",
 			"titles": [
 				{"searchTerm": "Game & Watch Gallery 2"},
@@ -403,6 +421,15 @@
 			]
 		},
 		{
+			"group": "Hang Time Basketball",
+			"titles": [
+				{"searchTerm": "Hang Time Basketball"}
+			],
+			"compilations": [
+				{"searchTerm": "Full Time Soccer & Hang Time Basketball"}
+			]
+		},
+		{
 			"group": "Harry Potter and the Sorcerer's Stone",
 			"titles": [
 				{"searchTerm": "Harry Potter and the Sorcerer's Stone"},
@@ -480,6 +507,25 @@
 				{"searchTerm": "Daikatana"},
 				{"searchTerm": "Daikatana GB"},
 				{"searchTerm": "John Romero's Daikatana"}
+			]
+		},
+		{
+			"group": "Jurassic Boy 2",
+			"titles": [
+				{"searchTerm": "Jurassic Boy 2"}
+			],
+			"compilations": [
+				{"searchTerm": "Jurassic Boy 2 + Thunder Blast Man (1B-002, 1B-003, Sachen)"}
+			]
+		},
+		{
+			"group": "Karate Joe",
+			"titles": [
+				{"searchTerm": "Karate Joe"}
+			],
+			"compilations": [
+				{"searchTerm": "ATV Racing & Karate Joe"},
+				{"searchTerm": "Space Invasion & Karate Joe"}
 			]
 		},
 		{
@@ -731,6 +777,15 @@
 			]
 		},
 		{
+			"group": "Painter",
+			"titles": [
+				{"searchTerm": "Painter"}
+			],
+			"compilations": [
+				{"searchTerm": "Space Invasion & Painter"}
+			]
+		},
+		{
 			"group": "Papyrus",
 			"titles": [
 				{"searchTerm": "Papyrus"},
@@ -756,6 +811,15 @@
 			"titles": [
 				{"searchTerm": "Pocket GT"},
 				{"searchTerm": "Pocket Racing"}
+			]
+		},
+		{
+			"group": "Pocket Smash Out",
+			"titles": [
+				{"searchTerm": "Pocket Smash Out"}
+			],
+			"compilations": [
+				{"searchTerm": "Pocket Smash Out & Race Time"}
 			]
 		},
 		{
@@ -858,6 +922,15 @@
 			"titles": [
 				{"searchTerm": "Holy Magic Century"},
 				{"searchTerm": "Quest - Fantasy Challenge"}
+			]
+		},
+		{
+			"group": "Race Time",
+			"titles": [
+				{"searchTerm": "Race Time"}
+			],
+			"compilations": [
+				{"searchTerm": "Pocket Smash Out & Race Time"}
 			]
 		},
 		{
@@ -969,6 +1042,16 @@
 			]
 		},
 		{
+			"group": "Space Invasion",
+			"titles": [
+				{"searchTerm": "Space Invasion"}
+			],
+			"compilations": [
+				{"searchTerm": "Space Invasion & Karate Joe"},
+				{"searchTerm": "Space Invasion & Painter"}
+			]
+		},
+		{
 			"group": "Space Marauder",
 			"titles": [
 				{"searchTerm": "Burai Senshi Color"},
@@ -1009,6 +1092,9 @@
 			"titles": [
 				{"searchTerm": "Rocman X Gold + 4 in 1 (1B-002, 4B-003, Sachen)"},
 				{"searchTerm": "Thunder Blast Man"}
+			],
+			"compilations": [
+				{"searchTerm": "Jurassic Boy 2 + Thunder Blast Man (1B-002, 1B-003, Sachen)"}
 			]
 		},
 		{
