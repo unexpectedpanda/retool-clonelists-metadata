@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Watara - SuperVision (No-Intro)",
-		"lastUpdated": "28 January 2023",
+		"lastUpdated": "5 March 2023",
 		"minimumVersion": "0.92"
 	},
 
@@ -52,6 +52,9 @@
 		},
 		{
 			"group": "Eagle Plan",
+			"titles": [
+				{"searchTerm": "Eagle Plan"}
+			],
 			"compilations": [
 				{"searchTerm": "2 in 1 - Hash Blocks + Eagle Plan", "titlePosition": 2}
 			]
