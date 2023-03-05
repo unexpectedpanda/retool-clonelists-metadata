@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Nintendo - Nintendo Entertainment System (No-Intro)",
-		"lastUpdated": "21 January 2023",
+		"lastUpdated": "5 March 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -175,6 +175,10 @@
 			"titles": [
 				{"searchTerm": "Adam & Eve"},
 				{"searchTerm": "Adan y Eva"}
+			],
+			"compilations": [
+				{"searchTerm": "Asder - 20 in 1"},
+				{"searchTerm": "Caltron - 6 in 1"}
 			]
 		},
 		{
@@ -345,6 +349,15 @@
 			]
 		},
 		{
+			"group": "Baby Boomer",
+			"titles": [
+				{"searchTerm": "Baby Boomer"}
+			],
+			"compilations": [
+				{"searchTerm": "Rumble Station - 15 in 1"}
+			]
+		},
+		{
 			"group": "Bad Dudes",
 			"titles": [
 				{"searchTerm": "Bad Dudes"},
@@ -378,6 +391,13 @@
 			"titles": [
 				{"searchTerm": "Bao Xiao San Guo"},
 				{"searchTerm": "Shang Gu Shen Jian", "priority": 2}
+			]
+		},
+		{
+			"group": "Balloon Monster",
+			"compilations": [
+				{"searchTerm": "Asder - 20 in 1"},
+				{"searchTerm": "Caltron - 6 in 1"}
 			]
 		},
 		{
@@ -465,6 +485,12 @@
 			]
 		},
 		{
+			"group": "Benico",
+			"compilations": [
+				{"searchTerm": "Asder - 20 in 1"}
+			]
+		},
+		{
 			"group": "Big City Slider Blaster",
 			"titles": [
 				{"searchTerm": "Big City Slider Blaster"},
@@ -476,6 +502,17 @@
 			"titles": [
 				{"searchTerm": "Big Nose Freaks Out"},
 				{"searchTerm": "Big Nose and the Witchdoctor", "priority": 2}
+			]
+		},
+		{
+			"group": "Bingo",
+			"titles": [
+				{"searchTerm": "Xiao Ma Li (Nei-Hu)"},
+				{"searchTerm": "Xiao Ma Li", "priority": 2},
+				{"searchTerm": "Bingo", "priority": 3}
+			],
+			"compilations": [
+				{"searchTerm": "Asder - 20 in 1"}
 			]
 		},
 		{
@@ -519,6 +556,15 @@
 				{"searchTerm": "Black Box Challenge"},
 				{"searchTerm": "Black Box Challenge (Rob Bryant's)", "priority": 2},
 				{"searchTerm": "Black Box Challenge (Jeffrey Wittenhagen's)", "priority": 3}
+			]
+		},
+		{
+			"group": "Blackjack",
+			"titles": [
+				{"searchTerm": "Blackjack"}
+			],
+			"compilations": [
+				{"searchTerm": "Maxi-15 Pack"}
 			]
 		},
 		{
@@ -568,6 +614,10 @@
 			"titles": [
 				{"searchTerm": "Booky Man"},
 				{"searchTerm": "Brush Roller"}
+			],
+			"compilations": [
+				{"searchTerm": "Asder - 20 in 1"},
+				{"searchTerm": "Caltron - 6 in 1"}
 			]
 		},
 		{
@@ -631,6 +681,15 @@
 			]
 		},
 		{
+			"group": "Captain Comic - The Adventure",
+			"titles": [
+				{"searchTerm": "Captain Comic - The Adventure"}
+			],
+			"compilations": [
+				{"searchTerm": "Rumble Station - 15 in 1"}
+			]
+		},
+		{
 			"group": "Casino Kid",
 			"titles": [
 				{"searchTerm": "100 Man Dollar Kid - Maboroshi no Teiou Hen"},
@@ -676,7 +735,11 @@
 			"group": "Challenge of the Dragon (Color Dreams)",
 			"titles": [
 				{"searchTerm": "Black Dragon"},
+				{"searchTerm": "Challenge of the Dragon"},
 				{"searchTerm": "Challenge of the Dragon (Color Dreams)"}
+			],
+			"compilations": [
+				{"searchTerm": "Rumble Station - 15 in 1"}
 			]
 		},
 		{
@@ -684,6 +747,16 @@
 			"titles": [
 				{"searchTerm": "Championship Rally"},
 				{"searchTerm": "Exciting Rally - World Rally Championship"}
+			]
+		},
+		{
+			"group": "Chiller",
+			"titles": [
+				{"searchTerm": "Chiller"}
+			],
+			"compilations": [
+				{"searchTerm": "Maxi 15"},
+				{"searchTerm": "Maxi-15 Pack"}
 			]
 		},
 		{
@@ -766,6 +839,16 @@
 			]
 		},
 		{
+			"group": "Cosmos Cop",
+			"titles": [
+				{"searchTerm": "Cosmos Cop"}
+			],
+			"compilations": [
+				{"searchTerm": "Asder - 20 in 1"},
+				{"searchTerm": "Caltron - 6 in 1"}
+			]
+		},
+		{
 			"group": "Cowboy Kid",
 			"titles": [
 				{"searchTerm": "Cowboy Kid"},
@@ -791,6 +874,15 @@
 			"titles": [
 				{"searchTerm": "Crypto"},
 				{"searchTerm": "Crypto (GGJ 2016)", "priority": 2}
+			]
+		},
+		{
+			"group": "Crystal Mines",
+			"titles": [
+				{"searchTerm": "Crystal Mines"}
+			],
+			"compilations": [
+				{"searchTerm": "Rumble Station - 15 in 1"}
 			]
 		},
 		{
@@ -826,6 +918,25 @@
 			"titles": [
 				{"searchTerm": "Deadly Towers"},
 				{"searchTerm": "Mashou"}
+			]
+		},
+		{
+			"group": "Deathbots",
+			"titles": [
+				{"searchTerm": "Deathbots"}
+			],
+			"compilations": [
+				{"searchTerm": "Maxi 15"},
+				{"searchTerm": "Maxi-15 Pack"}
+			]
+		},
+		{
+			"group": "Death Race",
+			"titles": [
+				{"searchTerm": "Death Race"}
+			],
+			"compilations": [
+				{"searchTerm": "Maxi-15 Pack"}
 			]
 		},
 		{
@@ -889,6 +1000,18 @@
 			"titles": [
 				{"searchTerm": "Donkey Kong"},
 				{"searchTerm": "Donkey Kong - Original Edition"}
+			],
+			"compilations": [
+				{"searchTerm": "Donkey Kong Classics"}
+			]
+		},
+		{
+			"group": "Donkey Kong Jr.",
+			"titles": [
+				{"searchTerm": "Donkey Kong Jr."}
+			],
+			"compilations": [
+				{"searchTerm": "Donkey Kong Classics"}
 			]
 		},
 		{
@@ -925,6 +1048,9 @@
 			"titles": [
 				{"searchTerm": "Double Strike - Aerial Attack Force"},
 				{"searchTerm": "Shuang Ying"}
+			],
+			"compilations": [
+				{"searchTerm": "Maxi 15"}
 			]
 		},
 		{
@@ -986,6 +1112,22 @@
 			]
 		},
 		{
+			"group": "Dream Fighter",
+			"compilations": [
+				{"searchTerm": "Asder - 20 in 1"}
+			]
+		},
+		{
+			"group": "Duck Hunt",
+			"titles": [
+				{"searchTerm": "Duck Hunt"}
+			],
+			"compilations": [
+				{"searchTerm": "Super Mario Bros. + Duck Hunt"},
+				{"searchTerm": "Super Mario Bros. + Duck Hunt + World Class Track Meet"}
+			]
+		},
+		{
 			"group": "Duck Maze",
 			"titles": [
 				{"searchTerm": "Duck"},
@@ -997,6 +1139,16 @@
 			"titles": [
 				{"searchTerm": "DuckTales"},
 				{"searchTerm": "Wanpaku Duck Yume Bouken"}
+			]
+		},
+		{
+			"group": "Dudes with Attitude",
+			"titles": [
+				{"searchTerm": "Dudes with Attitude"}
+			],
+			"compilations": [
+				{"searchTerm": "Maxi 15"},
+				{"searchTerm": "Maxi-15 Pack"}
 			]
 		},
 		{
@@ -1032,6 +1184,16 @@
 			"titles": [
 				{"searchTerm": "Excitebike"},
 				{"searchTerm": "Excitebike (LA21)"}
+			]
+		},
+		{
+			"group": "F-15 City War",
+			"titles": [
+				{"searchTerm": "F-15 City War"}
+			],
+			"compilations": [
+				{"searchTerm": "Maxi 15"},
+				{"searchTerm": "Maxi-15 Pack"}
 			]
 		},
 		{
@@ -1165,6 +1327,9 @@
 				{"searchTerm": "Galactic Crusader"},
 				{"searchTerm": "Incantation", "priority": 2},
 				{"searchTerm": "Papillon Gals"}
+			],
+			"compilations": [
+				{"searchTerm": "Rumble Station - 15 in 1"}
 			]
 		},
 		{
@@ -1229,6 +1394,9 @@
 			"titles": [
 				{"searchTerm": "Corre Benny"},
 				{"searchTerm": "Go! Benny!"}
+			],
+			"compilations": [
+				{"searchTerm": "Asder - 20 in 1"}
 			]
 		},
 		{
@@ -1312,9 +1480,8 @@
 		{
 			"group": "GunTner",
 			"titles": [
-				{"searchTerm": "GunTner (Magfest 2023)"},
-				{"searchTerm": "GunTner (ax1147)", "priority": 2},
-				{"searchTerm": "GunTner", "priority": 3}
+				{"searchTerm": "GunTner"},
+				{"searchTerm": "GunTner (ax1147)", "priority": 2}
 			]
 		},
 		{
@@ -1350,6 +1517,12 @@
 			"titles": [
 				{"searchTerm": "Hey Reset"},
 				{"searchTerm": "Hey Reset (Byte-Off 2019)", "priority": 2}
+			]
+		},
+		{
+			"group": "Hi-Lo Poker",
+			"compilations": [
+				{"searchTerm": "Asder - 20 in 1"}
 			]
 		},
 		{
@@ -1459,6 +1632,12 @@
 			]
 		},
 		{
+			"group": "JP Ronny",
+			"compilations": [
+				{"searchTerm": "Asder - 20 in 1"}
+			]
+		},
+		{
 			"group": "Juhannussauna 2016",
 			"titles": [
 				{"searchTerm": "Juhannussauna 2016"},
@@ -1491,6 +1670,12 @@
 			"titles": [
 				{"searchTerm": "Kazama Jun to Asama Yuuko no AV Dragon Mahjong"},
 				{"searchTerm": "Mahjong Block"}
+			]
+		},
+		{
+			"group": "Kentucky Derby",
+			"compilations": [
+				{"searchTerm": "Asder - 20 in 1"}
 			]
 		},
 		{
@@ -1537,6 +1722,15 @@
 			]
 		},
 		{
+			"group": "King Neptune's Adventure",
+			"titles": [
+				{"searchTerm": "King Neptune's Adventure"}
+			],
+			"compilations": [
+				{"searchTerm": "Rumble Station - 15 in 1"}
+			]
+		},
+		{
 			"group": "Kira Kira Star Night",
 			"titles": [
 				{"searchTerm": "Kira Kira Star Night"},
@@ -1561,6 +1755,16 @@
 			"titles": [
 				{"searchTerm": "Kiwi Kraze - A Bird-Brained Adventure!"},
 				{"searchTerm": "NewZealand Story, The"}
+			]
+		},
+		{
+			"group": "Krazy Kreatures",
+			"titles": [
+				{"searchTerm": "Krazy Kreatures"}
+			],
+			"compilations": [
+				{"searchTerm": "Maxi 15"},
+				{"searchTerm": "Maxi-15 Pack"}
 			]
 		},
 		{
@@ -1760,6 +1964,10 @@
 			"titles": [
 				{"searchTerm": "Alfombra Magica, La"},
 				{"searchTerm": "Magic Carpet 1001"}
+			],
+			"compilations": [
+				{"searchTerm": "Asder - 20 in 1"},
+				{"searchTerm": "Caltron - 6 in 1"}
 			]
 		},
 		{
@@ -1799,13 +2007,18 @@
 			"titles": [
 				{"searchTerm": "Dao Shuai"},
 				{"searchTerm": "Master Chu and the Drunkard Hu"}
+			],
+			"compilations": [
+				{"searchTerm": "Rumble Station - 15 in 1"}
 			]
 		},
 		{
-			"group": "Maxi 15",
+			"group": "Master Shooter",
 			"titles": [
-				{"searchTerm": "Maxi-15 Pack"},
-				{"searchTerm": "Maxi 15"}
+				{"searchTerm": "Master Shooter"}
+			],
+			"compilations": [
+				{"searchTerm": "Asder - 20 in 1"}
 			]
 		},
 		{
@@ -1848,6 +2061,17 @@
 			"titles": [
 				{"searchTerm": "Mega Man 6"},
 				{"searchTerm": "Rockman 6 - Shijou Saidai no Tatakai!!"}
+			]
+		},
+		{
+			"group": "Menace Beach",
+			"titles": [
+				{"searchTerm": "Menace Beach"}
+			],
+			"compilations": [
+				{"searchTerm": "Maxi 15"},
+				{"searchTerm": "Maxi-15 Pack"},
+				{"searchTerm": "Rumble Station - 15 in 1"}
 			]
 		},
 		{
@@ -1953,6 +2177,15 @@
 			]
 		},
 		{
+			"group": "Moon Ranger",
+			"titles": [
+				{"searchTerm": "Moon Ranger"}
+			],
+			"compilations": [
+				{"searchTerm": "Rumble Station - 15 in 1"}
+			]
+		},
+		{
 			"group": "Monster Party",
 			"titles": [
 				{"searchTerm": "Monster Party"},
@@ -2044,6 +2277,10 @@
 			"titles": [
 				{"searchTerm": "Nekketsu Koukou Dodgeball-bu - Soccer Hen"},
 				{"searchTerm": "Nintendo World Cup"}
+			],
+			"compilations": [
+				{"searchTerm": "Super Mario Bros. + Tetris + Nintendo World Cup"},
+				{"searchTerm": "Super Spike V'Ball + Nintendo World Cup"}
 			]
 		},
 		{
@@ -2066,6 +2303,24 @@
 				{"searchTerm": "North & South"},
 				{"searchTerm": "North & South - Wakuwaku Nanboku Sensou"},
 				{"searchTerm": "North and South"}
+			]
+		},
+		{
+			"group": "Operation Secret Storm",
+			"titles": [
+				{"searchTerm": "Operation Secret Storm"}
+			],
+			"compilations": [
+				{"searchTerm": "Rumble Station - 15 in 1"}
+			]
+		},
+		{
+			"group": "P'Radikus Conflict",
+			"titles": [
+				{"searchTerm": "P'Radikus Conflict"}
+			],
+			"compilations": [
+				{"searchTerm": "Rumble Station - 15 in 1"}
 			]
 		},
 		{
@@ -2113,6 +2368,15 @@
 			]
 		},
 		{
+			"group": "Pesterminator - The Western Exterminator",
+			"titles": [
+				{"searchTerm": "Pesterminator - The Western Exterminator"}
+			],
+			"compilations": [
+				{"searchTerm": "Rumble Station - 15 in 1"}
+			]
+		},
+		{
 			"group": "Phantom Fighter",
 			"titles": [
 				{"searchTerm": "Phantom Fighter"},
@@ -2124,6 +2388,16 @@
 			"titles": [
 				{"searchTerm": "Pogo Cats"},
 				{"searchTerm": "Pogo Cats (Battery Save Version)", "priority": 2}
+			]
+		},
+		{
+			"group": "Porter",
+			"titles": [
+				{"searchTerm": "Porter"}
+			],
+			"compilations": [
+				{"searchTerm": "Asder - 20 in 1"},
+				{"searchTerm": "Caltron - 6 in 1"}
 			]
 		},
 		{
@@ -2172,10 +2446,25 @@
 			]
 		},
 		{
+			"group": "Puzzle",
+			"compilations": [
+				{"searchTerm": "Maxi 15"}
+			]
+		},
+		{
+			"group": "Puzzler",
+			"compilations": [
+				{"searchTerm": "Asder - 20 in 1"}
+			]
+		},
+		{
 			"group": "Pyramid",
 			"titles": [
 				{"searchTerm": "Pyramid"},
 				{"searchTerm": "Pyramid - Cleopatra Kikiippatsu"}
+			],
+			"compilations": [
+				{"searchTerm": "Maxi 15"}
 			]
 		},
 		{
@@ -2221,9 +2510,22 @@
 			]
 		},
 		{
+			"group": "Rad Racket - Deluxe Tennis II",
+			"titles": [
+				{"searchTerm": "Rad Racket - Deluxe Tennis II"}
+			],
+			"compilations": [
+				{"searchTerm": "Maxi 15"},
+				{"searchTerm": "Maxi-15 Pack"}
+			]
+		},
+		{
 			"group": "Raid 2020",
 			"titles": [
 				{"searchTerm": "Raid 2020"}
+			],
+			"compilations": [
+				{"searchTerm": "Rumble Station - 15 in 1"}
 			]
 		},
 		{
@@ -2274,6 +2576,15 @@
 			"titles": [
 				{"searchTerm": "Bomber King"},
 				{"searchTerm": "Robo Warrior"}
+			]
+		},
+		{
+			"group": "Robodemons",
+			"titles": [
+				{"searchTerm": "Robodemons"}
+			],
+			"compilations": [
+				{"searchTerm": "Rumble Station - 15 in 1"}
 			]
 		},
 		{
@@ -2352,6 +2663,33 @@
 			]
 		},
 		{
+			"group": "Secret Scout in the Temple of Demise",
+			"titles": [
+				{"searchTerm": "Secret Scout in the Temple of Demise"}
+			],
+			"compilations": [
+				{"searchTerm": "Rumble Station - 15 in 1"}
+			]
+		},
+		{
+			"group": "Sesame Street - 123",
+			"titles": [
+				{"searchTerm": "Sesame Street - 123"}
+			],
+			"compilations": [
+				{"searchTerm": "Sesame Street - ABC & 123"}
+			]
+		},
+		{
+			"group": "Sesame Street - ABC",
+			"titles": [
+				{"searchTerm": "Sesame Street - ABC"}
+			],
+			"compilations": [
+				{"searchTerm": "Sesame Street - ABC & 123"}
+			]
+		},
+		{
 			"group": "Shadow of the Ninja",
 			"titles": [
 				{"searchTerm": "Blue Shadow"},
@@ -2381,6 +2719,16 @@
 			]
 		},
 		{
+			"group": "Shockwave",
+			"titles": [
+				{"searchTerm": "Shockwave"}
+			],
+			"compilations": [
+				{"searchTerm": "Maxi 15"},
+				{"searchTerm": "Maxi-15 Pack"}
+			]
+		},
+		{
 			"group": "Side Pocket",
 			"titles": [
 				{"searchTerm": "Side Pocket"},
@@ -2404,16 +2752,18 @@
 			]
 		},
 		{
-			"group": "Slaughter",
+			"group": "Skate Boy",
 			"titles": [
-				{"searchTerm": "^Slaughter.*?\\(.*\\) \\(Aftermarket\\)", "nameType": "regex"}
+				{"searchTerm": "Skate Boy"}
+			],
+			"compilations": [
+				{"searchTerm": "Asder - 20 in 1"}
 			]
 		},
 		{
-			"group": "Squashed",
+			"group": "Slaughter",
 			"titles": [
-				{"searchTerm": "Ninja Jajamaru - Ginga Daisakusen"},
-				{"searchTerm": "Squashed"}
+				{"searchTerm": "^Slaughter.*?\\(.*\\) \\(Aftermarket\\)", "nameType": "regex"}
 			]
 		},
 		{
@@ -2438,6 +2788,16 @@
 			]
 		},
 		{
+			"group": "Solitaire",
+			"titles": [
+				{"searchTerm": "Solitaire"}
+			],
+			"compilations": [
+				{"searchTerm": "Maxi 15"},
+				{"searchTerm": "Maxi-15 Pack"}
+			]
+		},
+		{
 			"group": "Solomon's Key",
 			"titles": [
 				{"searchTerm": "Solomon's Key"},
@@ -2456,6 +2816,20 @@
 			"titles": [
 				{"searchTerm": "Spot"},
 				{"searchTerm": "Spot - The Video Game"}
+			]
+		},
+		{
+			"group": "Squashed",
+			"titles": [
+				{"searchTerm": "Ninja Jajamaru - Ginga Daisakusen"},
+				{"searchTerm": "Squashed"}
+			]
+		},
+		{
+			"group": "Stakk'M",
+			"compilations": [
+				{"searchTerm": "Maxi 15"},
+				{"searchTerm": "Maxi-15 Pack"}
 			]
 		},
 		{
@@ -2541,6 +2915,11 @@
 			"titles": [
 				{"searchTerm": "Super Mario Bros."},
 				{"searchTerm": "Super Mario Bros. - 25th Anniversary"}
+			],
+			"compilations": [
+				{"searchTerm": "Super Mario Bros. + Duck Hunt"},
+				{"searchTerm": "Super Mario Bros. + Duck Hunt + World Class Track Meet"},
+				{"searchTerm": "Super Mario Bros. + Tetris + Nintendo World Cup"}
 			]
 		},
 		{
@@ -2562,6 +2941,9 @@
 			"titles": [
 				{"searchTerm": "Super Spike V'Ball"},
 				{"searchTerm": "U.S. Championship V'Ball"}
+			],
+			"compilations": [
+				{"searchTerm": "Super Spike V'Ball + Nintendo World Cup"}
 			]
 		},
 		{
@@ -2613,6 +2995,9 @@
 				{"searchTerm": "Tanque"},
 				{"searchTerm": "Tank (Caltron)"},
 				{"searchTerm": "Tank (Asder)", "priority": 2}
+			],
+			"compilations": [
+				{"searchTerm": "Asder - 20 in 1"}
 			]
 		},
 		{
@@ -2681,6 +3066,15 @@
 			]
 		},
 		{
+			"group": "Tetris",
+			"titles": [
+				{"searchTerm": "Tetris"}
+			],
+			"compilations": [
+				{"searchTerm": "Super Mario Bros. + Tetris + Nintendo World Cup"}
+			]
+		},
+		{
 			"group": "Tetris 2",
 			"titles": [
 				{"searchTerm": "Tetris 2"},
@@ -2714,6 +3108,10 @@
 				{"searchTerm": "Idol Shisen Mahjong"},
 				{"searchTerm": "Tiles of Fate"},
 				{"searchTerm": "Zhan Guo Si Chuan Sheng"}
+			],
+			"compilations": [
+				{"searchTerm": "Maxi 15"},
+				{"searchTerm": "Maxi-15 Pack"}
 			]
 		},
 		{
@@ -2766,6 +3164,12 @@
 			]
 		},
 		{
+			"group": "Top Hunter",
+			"compilations": [
+				{"searchTerm": "Asder - 20 in 1"}
+			]
+		},
+		{
 			"group": "Totally Rad",
 			"titles": [
 				{"searchTerm": "Magic John"},
@@ -2813,6 +3217,12 @@
 			"titles": [
 				{"searchTerm": "Doki! Doki! Yuuenchi - Crazy Land Daisakusen"},
 				{"searchTerm": "Trolls in Crazyland, The"}
+			]
+		},
+		{
+			"group": "Turbo Magic Carpet 1001",
+			"compilations": [
+				{"searchTerm": "Asder - 20 in 1"}
 			]
 		},
 		{
@@ -2905,6 +3315,10 @@
 			"titles": [
 				{"searchTerm": "Venice Beach Volleyball"},
 				{"searchTerm": "Volley Ball"}
+			],
+			"compilations": [
+				{"searchTerm": "Maxi 15"},
+				{"searchTerm": "Maxi-15 Pack"}
 			]
 		},
 		{
@@ -2993,6 +3407,9 @@
 				{"searchTerm": "Family Trainer 2 - Running Stadium"},
 				{"searchTerm": "Stadium Events"},
 				{"searchTerm": "World Class Track Meet"}
+			],
+			"compilations": [
+				{"searchTerm": "Super Mario Bros. + Duck Hunt + World Class Track Meet"}
 			]
 		},
 		{
@@ -3021,14 +3438,6 @@
 			"titles": [
 				{"searchTerm": "Kame no Ongaeshi - Urashima Densetsu"},
 				{"searchTerm": "Xexyz"}
-			]
-		},
-		{
-			"group": "Xiao Ma Li (Nei-Hu)",
-			"titles": [
-				{"searchTerm": "Xiao Ma Li (Nei-Hu)"},
-				{"searchTerm": "Xiao Ma Li", "priority": 2},
-				{"searchTerm": "Bingo", "priority": 3}
 			]
 		},
 		{
