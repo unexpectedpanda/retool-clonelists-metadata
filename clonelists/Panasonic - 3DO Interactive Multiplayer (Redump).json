@@ -1,0 +1,338 @@
+{
+	"description": {
+		"name": "Panasonic - 3DO Interactive Multiplayer (Redump)",
+		"lastUpdated": "21 January 2023",
+		"minimumVersion": "2.00"
+	},
+
+	"categories": [
+		{
+			"searchTerm": "Crime Patrol (3DO Developer Services)",
+			"nameType": "short",
+			"categories": ["Preproduction"]
+		},
+		{
+			"searchTerm": "^Panasonic REAL 3DO Interactive Multiplayer - Sampler CD(.*)?",
+			"nameType": "regex",
+			"categories": ["Demos", "Multimedia"]
+		},
+		{
+			"searchTerm": "Putt-Putt Goes to the Moon",
+			"nameType": "short",
+			"categories": ["Educational"]
+		}
+	],
+
+	"variants": [
+		{
+			"group": "Alone in the Dark",
+			"titles": [
+				{"searchTerm": "Alone in the Dark"},
+				{"searchTerm": "Alone in the Dark (NTSC Version)", "nameType": "regionFree", "priority": 2}
+			]
+		},
+		{
+			"group": "Blood Angels",
+			"titles": [
+				{"searchTerm": "Blood Angels"},
+				{"searchTerm": "Space Hulk - Vengeance of the Blood Angels"}
+			]
+		},
+		{
+			"group": "Bust-A-Move",
+			"titles": [
+				{"searchTerm": "Bust-A-Move"},
+				{"searchTerm": "Puzzle Bobble"}
+			]
+		},
+		{
+			"group": "Crime Patrol",
+			"titles": [
+				{"searchTerm": "Crime Patrol"},
+				{"searchTerm": "Crime Patrol (3DO Developer Services)", "priority": 2}
+			]
+		},
+		{
+			"group": "D (Disc 1)",
+			"titles": [
+				{"searchTerm": "D (Disc 1)"},
+				{"searchTerm": "D no Shokutaku (Disc 1)"}
+			]
+		},
+		{
+			"group": "D (Disc 2)",
+			"titles": [
+				{"searchTerm": "D (Disc 2)"},
+				{"searchTerm": "D no Shokutaku (Disc 2)"}
+			]
+		},
+		{
+			"group": "Daedalus Encounter, The (Disc 1)",
+			"titles": [
+				{"searchTerm": "Daedalus Encounter, The - Episode 1 - Nanpasen no Alien (Disc 1)"},
+				{"searchTerm": "Daedalus Encounter, The (Disc 1)"}
+			]
+		},
+		{
+			"group": "Daedalus Encounter, The (Disc 2)",
+			"titles": [
+				{"searchTerm": "Daedalus Encounter, The - Episode 1 - Nanpasen no Alien (Disc 2)"},
+				{"searchTerm": "Daedalus Encounter, The (Disc 2)"}
+			]
+		},
+		{
+			"group": "Daedalus Encounter, The (Disc 3)",
+			"titles": [
+				{"searchTerm": "Daedalus Encounter, The - Episode 1 - Nanpasen no Alien (Disc 3)"},
+				{"searchTerm": "Daedalus Encounter, The (Disc 3)"}
+			]
+		},
+		{
+			"group": "Daedalus Encounter, The (Disc 4)",
+			"titles": [
+				{"searchTerm": "Daedalus Encounter, The - Episode 1 - Nanpasen no Alien (Disc 4)"},
+				{"searchTerm": "Daedalus Encounter, The (Disc 4)"}
+			]
+		},
+		{
+			"group": "Escape from Monster Manor",
+			"titles": [
+				{"searchTerm": "Escape from Monster Manor"},
+				{"searchTerm": "Virtual Horror - Norowareta Yakata"}
+			]
+		},
+		{
+			"group": "ESPN Golf - Lower Your Score with Tom Kite - Shot Making (Disc 1)",
+			"titles": [
+				{"searchTerm": "ESPN Golf - Lower Your Score with Tom Kite - Shot Making (Disc 1)"},
+				{"searchTerm": "ESPN Golf - Tom Kite no Kore ga Golf da! (Disc 1) (Shot Yousei Kouza Vol. 1)"}
+			]
+		},
+		{
+			"group": "ESPN Golf - Lower Your Score with Tom Kite - Shot Making (Disc 2)",
+			"titles": [
+				{"searchTerm": "ESPN Golf - Lower Your Score with Tom Kite - Shot Making (Disc 2)"},
+				{"searchTerm": "ESPN Golf - Tom Kite no Kore ga Golf da! (Disc 2) (Shot Yousei Kouza Vol. 2)"}
+			]
+		},
+		{
+			"group": "ESPN Golf - Lower Your Score with Tom Kite - Shot Making (Disc 3)",
+			"titles": [
+				{"searchTerm": "ESPN Golf - Lower Your Score with Tom Kite - Shot Making (Disc 3)"},
+				{"searchTerm": "ESPN Golf - Tom Kite no Kore ga Golf da! (Disc 3) (Pro ni Kike!)"}
+			]
+		},
+		{
+			"group": "Flashback - The Quest for Identity",
+			"titles": [
+				{"searchTerm": "Flashback"},
+				{"searchTerm": "Flashback - The Quest for Identity"}
+			]
+		},
+		{
+			"group": "Fun 'n Games",
+			"titles": [
+				{"searchTerm": "Fun 'n Games"},
+				{"searchTerm": "Fun 'n Games - Soft no Omochabako"}
+			]
+		},
+		{
+			"group": "Guardian War",
+			"titles": [
+				{"searchTerm": "Guardian War"},
+				{"searchTerm": "Powers Kingdom"}
+			]
+		},
+		{
+			"group": "Horde, The",
+			"titles": [
+				{"searchTerm": "Horde, The"},
+				{"searchTerm": "Horde, The (RCB)", "priority": 2}
+			]
+		},
+		{
+			"group": "Incredible Machine, The",
+			"titles": [
+				{"searchTerm": "Incredible Machine, The"},
+				{"searchTerm": "Incredible Machine, The - Pararancho"}
+			]
+		},
+		{
+			"group": "Immercenary - Combat in a Digital World",
+			"titles": [
+				{"searchTerm": "Immercenary"},
+				{"searchTerm": "Immercenary - Combat in a Digital World"},
+				{"searchTerm": "Perfect World - Combat in a Digital World"}
+			]
+		},
+		{
+			"group": "John Madden Football",
+			"titles": [
+				{"searchTerm": "John Madden Football"},
+				{"searchTerm": "John Madden NFL Football"},
+				{"searchTerm": "NFL Madden Football"}
+			]
+		},
+		{
+			"group": "Iron Angel of the Apocalypse - Tetsujin",
+			"titles": [
+				{"searchTerm": "Iron Angel of the Apocalypse - Tetsujin"},
+				{"searchTerm": "Tetsujin"}
+			]
+		},
+		{
+			"group": "Iron Angel of the Apocalypse - The Return",
+			"titles": [
+				{"searchTerm": "Iron Angel of the Apocalypse - The Return"},
+				{"searchTerm": "Tetsujin Returns"}
+			]
+		},
+		{
+			"group": "Killing Time",
+			"titles": [
+				{"searchTerm": "Killing Time"},
+				{"searchTerm": "Tozasareta Yakata"}
+			]
+		},
+		{
+			"group": "Lucienne's Quest",
+			"titles": [
+				{"searchTerm": "Lucienne's Quest"},
+				{"searchTerm": "Sword & Sorcery"}
+			]
+		},
+		{
+			"group": "Novastorm",
+			"titles": [
+				{"searchTerm": "Nova-Storm"},
+				{"searchTerm": "Novastorm"}
+			]
+		},
+		{
+			"group": "Out of this World (3DO Maniac Pack)",
+			"titles": [
+				{"searchTerm": "Out of this World (3DO Maniac Pack)"},
+				{"searchTerm": "Outer World"},
+				{"searchTerm": "Out of this World", "priority": 2}
+			]
+		},
+		{
+			"group": "Panasonic REAL 3DO Interactive Multiplayer - Sampler CD (ZBZ)",
+			"titles": [
+				{"searchTerm": "Panasonic REAL 3DO Interactive Multiplayer - Sampler CD (ZBZ)"},
+				{"searchTerm": "Panasonic REAL 3DO Interactive Multiplayer - Sampler CD (ZAZ)", "priority": 2}
+			]
+		},
+		{
+			"group": "Pebble Beach Golf Links",
+			"titles": [
+				{"searchTerm": "Pebble Beach Golf Links"},
+				{"searchTerm": "T&E VR Golf - Pebble Beach no Hatou"},
+				{"searchTerm": "True Golf Classics - Pebble Beach Golf Links"}
+			]
+		},
+		{
+			"group": "Road & Track Presents - The Need for Speed",
+			"titles": [
+				{"searchTerm": "Road & Track Presents - OverDrivin'"},
+				{"searchTerm": "Road & Track Presents - The Need for Speed"}
+			]
+		},
+		{
+			"group": "SHADOW - War of Succession",
+			"titles": [
+				{"searchTerm": "SHADOW - War of Succession"},
+				{"searchTerm": "SHADOW Warriors"}
+			]
+		},
+		{
+			"group": "Seal of the Pharaoh",
+			"titles": [
+				{"searchTerm": "Seal of the Pharaoh"},
+				{"searchTerm": "Virtual Quest - Pharaoh no Fuuin"}
+			]
+		},
+		{
+			"group": "Shanghai - Triple-Threat",
+			"titles": [
+				{"searchTerm": "Shanghai - Banri no Choujou - The Great Wall"},
+				{"searchTerm": "Shanghai - Triple-Threat"},
+				{"searchTerm": "Shanghai - Triple-Threat (3DO Action Pak)", "priority": 2}
+			]
+		},
+		{
+			"group": "Slayer",
+			"titles": [
+				{"searchTerm": "Lost Dungeon"},
+				{"searchTerm": "Slayer"},
+				{"searchTerm": "Slayer (3DO Action Pak)", "priority": 2}
+			]
+		},
+		{
+			"group": "Soccer Kid",
+			"titles": [
+				{"searchTerm": "Great! Soccer Kid"},
+				{"searchTerm": "Soccer Kid"}
+			]
+		},
+		{
+			"group": "Star Control II",
+			"titles": [
+				{"searchTerm": "Star Control II"},
+				{"searchTerm": "Star Control II - The Ur-Quan Masters"}
+			]
+		},
+		{
+			"group": "Super Street Fighter II Turbo",
+			"titles": [
+				{"searchTerm": "Super Street Fighter II Turbo"},
+				{"searchTerm": "Super Street Fighter II X - Grand Master Challenge"}
+			]
+		},
+		{
+			"group": "Total Eclipse",
+			"titles": [
+				{"searchTerm": "Total Eclipse"},
+				{"searchTerm": "Total Eclipse (DFJN5015ZAZ)", "priority": 2}
+			]
+		},
+		{
+			"group": "Trip'd",
+			"titles": [
+				{"searchTerm": "Trip'd"},
+				{"searchTerm": "Uchuu Seibutsu Flopon-kun"}
+			]
+		},
+		{
+			"group": "Twisted - The Game Show",
+			"titles": [
+				{"searchTerm": "Twisted"},
+				{"searchTerm": "Twisted - The Game Show"}
+			]
+		},
+		{
+			"group": "VR Stalker",
+			"titles": [
+				{"searchTerm": "VR Stalker"}
+			],
+			"supersets": [
+				{"searchTerm": "VR Stalker (Improved Version)"}
+			]
+		},
+		{
+			"group": "Waialae Country Club",
+			"titles": [
+				{"searchTerm": "T&E VR Golf - Waialae no Kiseki"},
+				{"searchTerm": "True Golf Classics - Waialae Country Club"},
+				{"searchTerm": "Waialae Country Club"}
+			]
+		},
+		{
+			"group": "Wicked 18",
+			"titles": [
+				{"searchTerm": "T&E VR Golf - Devil's Course"},
+				{"searchTerm": "Wicked 18"}
+			]
+		}
+	]
+}

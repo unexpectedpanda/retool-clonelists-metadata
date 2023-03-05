@@ -1,0 +1,1123 @@
+{
+	"description": {
+		"name": "Sega - Saturn (Redump)",
+		"lastUpdated": "22 January 2023",
+		"minimumVersion": "2.00"
+	},
+
+	"variants": [
+		{
+			"group": "3D Baseball",
+			"titles": [
+				{"searchTerm": "3D Baseball"},
+				{"searchTerm": "3D Baseball - The Majors"}
+			]
+		},
+		{
+			"group": "Albert Odyssey - Legend of Eldean",
+			"titles": [
+				{"searchTerm": "Albert Odyssey - Legend of Eldean"},
+				{"searchTerm": "Albert Odyssey Gaiden - Legend of Eldean"}
+			]
+		},
+		{
+			"group": "Alone in the Dark - One-Eyed Jack's Revenge",
+			"titles": [
+				{"searchTerm": "Alone in the Dark - Jack Is Back"},
+				{"searchTerm": "Alone in the Dark - One-Eyed Jack's Revenge"},
+				{"searchTerm": "Alone in the Dark 2"}
+			]
+		},
+		{
+			"group": "Astal",
+			"titles": [
+				{"searchTerm": "Astal"},
+				{"searchTerm": "Kisuishou Densetsu Astal"}
+			]
+		},
+		{
+			"group": "Baku Baku Animal - World Zookeeper Contest",
+			"titles": [
+				{"searchTerm": "Baku Baku Animal - Sekai Shiiku Gakari Senshuken"},
+				{"searchTerm": "Baku Baku Animal - World Zookeeper Contest"}
+			]
+		},
+		{
+			"group": "Bases Loaded '96 - Double Header",
+			"titles": [
+				{"searchTerm": "Bases Loaded '96 - Double Header"},
+				{"searchTerm": "Moero!! Pro Yakyuu '95 - Double Header"}
+			]
+		},
+		{
+			"group": "Battle Arena Toshinden Remix",
+			"titles": [
+				{"searchTerm": "Battle Arena Toshinden Remix"},
+				{"searchTerm": "Toushinden S"}
+			]
+		},
+		{
+			"group": "Battle Arena Toshinden URA - Ultimate Revenge Attack",
+			"titles": [
+				{"searchTerm": "Battle Arena Toshinden URA - Ultimate Revenge Attack"},
+				{"searchTerm": "Toushinden URA"}
+			]
+		},
+		{
+			"group": "Break Point Tennis",
+			"titles": [
+				{"searchTerm": "Break Point"},
+				{"searchTerm": "Break Point Tennis"}
+			]
+		},
+		{
+			"group": "Bug!",
+			"titles": [
+				{"searchTerm": "Bug!"},
+				{"searchTerm": "Bug! Jump Shite, Funzukechatte, Petchanko"}
+			]
+		},
+		{
+			"group": "Bug Too!",
+			"titles": [
+				{"searchTerm": "Bug Too!"},
+				{"searchTerm": "Bug Too! Motto Motto Jump Shite, Funzukechatte, Petchanko"}
+			]
+		},
+		{
+			"group": "Center Ring Boxing",
+			"titles": [
+				{"searchTerm": "Center Ring Boxing"},
+				{"searchTerm": "Victory Boxing"}
+			]
+		},
+		{
+			"group": "Clockwork Knight - Pepperouchau's Adventure",
+			"titles": [
+				{"searchTerm": "Clockwork Knight - Pepperouchau's Adventure"},
+				{"searchTerm": "Clockwork Knight - Pepperouchau no Daibouken Joukan"}
+			],
+			"supersets": [
+				{"searchTerm": "Clockwork Knight - Pepperouchau no Fukubukuro"}
+			]
+		},
+		{
+			"group": "Clockwork Knight 2 - Pepperouchau's Adventure",
+			"titles": [
+				{"searchTerm": "Clockwork Knight 2 - Pepperouchau's Adventure"},
+				{"searchTerm": "Clockwork Knight - Pepperouchau no Daibouken Gekan"}
+			],
+			"supersets": [
+				{"searchTerm": "Clockwork Knight - Pepperouchau no Fukubukuro"}
+			]
+		},
+		{
+			"group": "Command & Conquer (Disc 1) (GDI Disc)",
+			"titles": [
+				{"searchTerm": "Command & Conquer - Teil 1 - Der Tiberiumkonflikt (Disc 1) (GDI)"},
+				{"searchTerm": "Command & Conquer (Disc 1) (GDI)"},
+				{"searchTerm": "Command & Conquer (Disc 1) (GDI Disc)"}
+			]
+		},
+		{
+			"group": "Command & Conquer (Disc 2) (NOD Disc)",
+			"titles": [
+				{"searchTerm": "Command & Conquer - Teil 1 - Der Tiberiumkonflikt (Disc 2) (NOD)"},
+				{"searchTerm": "Command & Conquer (Disc 2) (NOD)"},
+				{"searchTerm": "Command & Conquer (Disc 2) (NOD Disc)"}
+			]
+		},
+		{
+			"group": "Creature Shock - Special Edition (Disc 1)",
+			"titles": [
+				{"searchTerm": "Creature Shock - Special Edition (Disc 1)"},
+				{"searchTerm": "Creature Shock (Disc 1)"}
+			]
+		},
+		{
+			"group": "Creature Shock - Special Edition (Disc 2)",
+			"titles": [
+				{"searchTerm": "Creature Shock - Special Edition (Disc 2)"},
+				{"searchTerm": "Creature Shock (Disc 2)"}
+			]
+		},
+		{
+			"group": "Criticom",
+			"titles": [
+				{"searchTerm": "Criticom"},
+				{"searchTerm": "Criticom - The Critical Combat"}
+			]
+		},
+		{
+			"group": "Croc - Legend of the Gobbos",
+			"titles": [
+				{"searchTerm": "Croc! Pau-Pau Island"},
+				{"searchTerm": "Croc - Legend of the Gobbos"}
+			]
+		},
+		{
+			"group": "Crypt Killer",
+			"titles": [
+				{"searchTerm": "Crypt Killer"},
+				{"searchTerm": "Henry Explorers"}
+			]
+		},
+		{
+			"group": "Cyber Speedway",
+			"titles": [
+				{"searchTerm": "Cyber Speedway"},
+				{"searchTerm": "Gran Chaser"}
+			]
+		},
+		{
+			"group": "D (Disc 1)",
+			"titles": [
+				{"searchTerm": "D (Disc 1)"},
+				{"searchTerm": "D no Shokutaku (Disc 1)"}
+			]
+		},
+		{
+			"group": "D (Disc 2)",
+			"titles": [
+				{"searchTerm": "D (Disc 2)"},
+				{"searchTerm": "D no Shokutaku (Disc 2)"}
+			]
+		},
+		{
+			"group": "Dark Legend",
+			"titles": [
+				{"searchTerm": "Dark Legend"},
+				{"searchTerm": "Suiko Enbu"}
+			]
+		},
+		{
+			"group": "Daytona USA",
+			"titles": [
+				{"searchTerm": "Daytona USA"}
+			],
+			"supersets": [
+				{"searchTerm": "Daytona USA C.C.E. Net Link Edition"},
+				{"searchTerm": "Daytona USA - Championship Circuit Edition", "priority": 2},
+				{"searchTerm": "Daytona USA - Circuit Edition", "priority": 2}
+			]
+		},
+		{
+			"group": "DecAthlete",
+			"titles": [
+				{"searchTerm": "Athlete Kings"},
+				{"searchTerm": "DecAthlete"},
+				{"searchTerm": "DecAthlete for SegaNet"}
+			]
+		},
+		{
+			"group": "Defcon 5 - Peace Has a Price...",
+			"titles": [
+				{"searchTerm": "Defcon 5"},
+				{"searchTerm": "Defcon 5 - Peace Has a Price..."}
+			]
+		},
+		{
+			"group": "Die Hard Arcade",
+			"titles": [
+				{"searchTerm": "Die Hard Arcade"},
+				{"searchTerm": "Dynamite Deka"}
+			]
+		},
+		{
+			"group": "Dragon Ball Z - Idainaru Dragon Ball Densetsu",
+			"titles": [
+				{"searchTerm": "Dragon Ball Z - Idainaru Dragon Ball Densetsu"},
+				{"searchTerm": "Dragon Ball Z - La Grande Legende des Boules de Cristal"}
+			]
+		},
+		{
+			"group": "EGWord Ver 2.00",
+			"titles": [
+				{"searchTerm": "EGWord Ver 2.00"},
+				{"searchTerm": "EGWord", "priority": 2}
+			]
+		},
+		{
+			"group": "Enemy Zero (Disc 0)",
+			"titles": [
+				{"searchTerm": "Enemy Zero (Disc 0)"},
+				{"searchTerm": "Enemy Zero (Disc 0) (Opening Disc)"},
+				{"searchTerm": "Enemy Zero (Disc 0) (Opening Disc) (Satakore)"}
+			]
+		},
+		{
+			"group": "Enemy Zero (Disc 1)",
+			"titles": [
+				{"searchTerm": "Enemy Zero (Disc 1)"},
+				{"searchTerm": "Enemy Zero (Disc 1) (Game Disc)"},
+				{"searchTerm": "Enemy Zero (Disc 1) (Game Disc) (Satakore)"}
+			]
+		},
+		{
+			"group": "Enemy Zero (Disc 2)",
+			"titles": [
+				{"searchTerm": "Enemy Zero (Disc 2)"},
+				{"searchTerm": "Enemy Zero (Disc 2) (Game Disc)"},
+				{"searchTerm": "Enemy Zero (Disc 2) (Game Disc) (Satakore)"}
+			]
+		},
+		{
+			"group": "Enemy Zero (Disc 3)",
+			"titles": [
+				{"searchTerm": "Enemy Zero (Disc 3)"},
+				{"searchTerm": "Enemy Zero (Disc 3) (Game Disc)"},
+				{"searchTerm": "Enemy Zero (Disc 3) (Game Disc) (Satakore)"}
+			]
+		},
+		{
+			"group": "F1 Challenge",
+			"titles": [
+				{"searchTerm": "F-1 Challenge"},
+				{"searchTerm": "F-1 Live Information"},
+				{"searchTerm": "F1 Challenge"}
+			]
+		},
+		{
+			"group": "FIFA - Road to World Cup 98",
+			"titles": [
+				{"searchTerm": "FIFA - Die WM-Qualifikation 98"},
+				{"searchTerm": "FIFA - En Route pour la Coupe du Monde 98"},
+				{"searchTerm": "FIFA - Road to World Cup 98"},
+				{"searchTerm": "FIFA - Rumbo al Mundial 98"}
+			]
+		},
+		{
+			"group": "FIFA Soccer 97",
+			"titles": [
+				{"searchTerm": "FIFA 97"},
+				{"searchTerm": "FIFA Soccer 97"}
+			]
+		},
+		{
+			"group": "Funky Head Boxers",
+			"titles": [
+				{"searchTerm": "Funky Head Boxers"}
+			],
+			"supersets": [
+				{"searchTerm": "Funky Head Boxers Plus"}
+			]
+		},
+		{
+			"group": "Galactic Attack",
+			"titles": [
+				{"searchTerm": "Galactic Attack"},
+				{"searchTerm": "Layer Section"}
+			]
+		},
+		{
+			"group": "Galaxy Fight",
+			"titles": [
+				{"searchTerm": "Galaxy Fight"},
+				{"searchTerm": "Galaxy Fight - Universal Warriors"}
+			]
+		},
+		{
+			"group": "Ginga Eiyuu Densetsu",
+			"titles": [
+				{"searchTerm": "Ginga Eiyuu Densetsu"}
+			],
+			"supersets": [
+				{"searchTerm": "Ginga Eiyuu Densetsu Plus"}
+			]
+		},
+		{
+			"group": "Grid Runner",
+			"titles": [
+				{"searchTerm": "Grid Run"},
+				{"searchTerm": "Grid Runner"}
+			]
+		},
+		{
+			"group": "Gungriffon",
+			"titles": [
+				{"searchTerm": "Gun Griffon"},
+				{"searchTerm": "Gungriffon"}
+			]
+		},
+		{
+			"group": "Habitat II",
+			"titles": [
+				{"searchTerm": "Habitat II"}
+			],
+			"supersets": [
+				{"searchTerm": "Pad Nifty 1.1 & Habitat II"}
+			]
+		},
+		{
+			"group": "Hang-On GP",
+			"titles": [
+				{"searchTerm": "Hang-On GP"},
+				{"searchTerm": "Hang On GP '95"},
+				{"searchTerm": "Hang On GP '96"}
+			]
+		},
+		{
+			"group": "Hebereke's Popoitto",
+			"titles": [
+				{"searchTerm": "Hebereke's Popoitto"},
+				{"searchTerm": "Popoitto Hebereke"}
+			]
+		},
+		{
+			"group": "Heir of Zendor - The Legend and The Land",
+			"titles": [
+				{"searchTerm": "Gotha II - Tenkuu no Kishi"},
+				{"searchTerm": "Heir of Zendor - The Legend and The Land"}
+			]
+		},
+		{
+			"group": "Hexen",
+			"titles": [
+				{"searchTerm": "Hexen"},
+				{"searchTerm": "Hexen - Beyond Heretic"}
+			]
+		},
+		{
+			"group": "Hi-Octane - The Track Fights Back!",
+			"titles": [
+				{"searchTerm": "Hi-Octane"},
+				{"searchTerm": "Hi-Octane - The Track Fights Back!"}
+			]
+		},
+		{
+			"group": "High Velocity - Mountain Racing Challenge",
+			"titles": [
+				{"searchTerm": "High Velocity - Mountain Racing Challenge"},
+				{"searchTerm": "Touge King the Spirits"}
+			]
+		},
+		{
+			"group": "Highway 2000",
+			"titles": [
+				{"searchTerm": "Highway 2000"},
+				{"searchTerm": "Wangan Dead Heat"}
+			]
+		},
+		{
+			"group": "Hyper 3-D Pinball",
+			"titles": [
+				{"searchTerm": "Hyper 3-D Pinball"},
+				{"searchTerm": "Hyper 3D Pinball"},
+				{"searchTerm": "Tilt!"}
+			]
+		},
+		{
+			"group": "In the Hunt",
+			"titles": [
+				{"searchTerm": "In the Hunt"},
+				{"searchTerm": "Kaitei Daisensou"}
+			]
+		},
+		{
+			"group": "Independence Day",
+			"titles": [
+				{"searchTerm": "Independence Day"},
+				{"searchTerm": "Independence Day - The Game"}
+			]
+		},
+		{
+			"group": "Iron Storm",
+			"titles": [
+				{"searchTerm": "Iron Storm"},
+				{"searchTerm": "World Advanced Daisenryaku - Koutetsu no Senpuu"}
+			]
+		},
+		{
+			"group": "J.League Victory Goal '96",
+			"titles": [
+				{"searchTerm": "J.League Victory Goal '96"},
+				{"searchTerm": "J.League Victory Goal '97"}
+			]
+		},
+		{
+			"group": "Jewels of the Oracle",
+			"titles": [
+				{"searchTerm": "Jewels of the Oracle"},
+				{"searchTerm": "Oracle no Houseki - Jewels of the Oracle"}
+			]
+		},
+		{
+			"group": "Johnny Bazookatone",
+			"titles": [
+				{"searchTerm": "Johnny Bazooka"},
+				{"searchTerm": "Johnny Bazookatone"}
+			]
+		},
+		{
+			"group": "Keio Flying Squadron 2",
+			"titles": [
+				{"searchTerm": "Keio Flying Squadron 2"},
+				{"searchTerm": "Keiou Yuugekitai - Katsugeki-hen"}
+			]
+		},
+		{
+			"group": "Kochira Katsushikaku Kameari Kouenmae - Hashutsujo - Nakagawa Land Dai-Race! no Maki",
+			"titles": [
+				{"searchTerm": "Kochira Katsushikaku Kameari Kouenmae - Hashutsujo - Nakagawa Land Dai-Race! no Maki"},
+				{"searchTerm": "Kochira Katsushikaku Kameari Kouenmae - Hashutsujo - Nakagawa Land Dai-Race! no Maki (Satakore)", "priority": 2}
+			]
+		},
+		{
+			"group": "Last Gladiators - Digital Pinball",
+			"titles": [
+				{"searchTerm": "Digital Pinball"},
+				{"searchTerm": "Digital Pinball - Last Gladiators"},
+				{"searchTerm": "Last Gladiators - Digital Pinball"}
+			]
+		},
+		{
+			"group": "Legend of Oasis, The",
+			"titles": [
+				{"searchTerm": "Legend of Oasis, The"},
+				{"searchTerm": "Story of Thor 2, The"},
+				{"searchTerm": "Thor - Seireioukiden"}
+			]
+		},
+		{
+			"group": "Loaded",
+			"titles": [
+				{"searchTerm": "Blood Factory"},
+				{"searchTerm": "Loaded"}
+			]
+		},
+		{
+			"group": "Lunacy (Disc 1)",
+			"titles": [
+				{"searchTerm": "Gekka Mugentan Torico (Disc 1) (Kyouchou-hen)"},
+				{"searchTerm": "Lunacy (Disc 1)"},
+				{"searchTerm": "Torico (Disc 1)"}
+			]
+		},
+		{
+			"group": "Lunacy (Disc 2)",
+			"titles": [
+				{"searchTerm": "Gekka Mugentan Torico (Disc 2) (Houkai-hen)"},
+				{"searchTerm": "Lunacy (Disc 2)"},
+				{"searchTerm": "Torico (Disc 2)"}
+			]
+		},
+		{
+			"group": "Lunar - Silver Star Story",
+			"titles": [
+				{"searchTerm": "Lunar - Silver Star Story"}
+			],
+			"supersets": [
+				{"searchTerm": "Lunar - Silver Star Story Complete"}
+			]
+		},
+		{
+			"group": "Machine Head",
+			"titles": [
+				{"searchTerm": "Blam! Machinehead"},
+				{"searchTerm": "Machine Head"}
+			]
+		},
+		{
+			"group": "Mansion of Hidden Souls, The",
+			"titles": [
+				{"searchTerm": "Manoir des Ames Perdues, Le"},
+				{"searchTerm": "Mansion de las Almas Ocultas, La"},
+				{"searchTerm": "Mansion of Hidden Souls, The"},
+				{"searchTerm": "Mystery Mansion - Das Haus der verlorenen Seelen"},
+				{"searchTerm": "Shinsetsu Yumemi Yakata - Tobira no Oku ni Dareka ga..."}
+			]
+		},
+		{
+			"group": "Mass Destruction",
+			"titles": [
+				{"searchTerm": "Mass Destruction"},
+				{"searchTerm": "Mass Destruction - Otousan ni mo Dekiru Soft"}
+			]
+		},
+		{
+			"group": "MechWarrior 2 - 31st Century Combat - Arcade Combat Edition",
+			"titles": [
+				{"searchTerm": "MechWarrior 2"},
+				{"searchTerm": "MechWarrior 2 - 31st Century Combat - Arcade Combat Edition"}
+			]
+		},
+		{
+			"group": "Mega Man 8",
+			"titles": [
+				{"searchTerm": "Mega Man 8"},
+				{"searchTerm": "Rockman 8 - Metal Heroes"}
+			]
+		},
+		{
+			"group": "Mega Man X3",
+			"titles": [
+				{"searchTerm": "Mega Man X3"},
+				{"searchTerm": "Rockman X3"}
+			]
+		},
+		{
+			"group": "Mega Man X4",
+			"titles": [
+				{"searchTerm": "Mega Man X4"},
+				{"searchTerm": "Rockman X4"}
+			]
+		},
+		{
+			"group": "Minnesota Fats - Pool Legend",
+			"titles": [
+				{"searchTerm": "Minnesota Fats - Pool Legend"},
+				{"searchTerm": "Side Pocket 2 - Densetsu no Hustler"}
+			]
+		},
+		{
+			"group": "Mortal Kombat II",
+			"titles": [
+				{"searchTerm": "Mortal Kombat II"},
+				{"searchTerm": "Mortal Kombat II Kanzenban"}
+			]
+		},
+		{
+			"group": "Mystaria - The Realms of Lore",
+			"titles": [
+				{"searchTerm": "Mystaria - The Realms of Lore"},
+				{"searchTerm": "Riglordsaga"},
+				{"searchTerm": "Blazing Heroes", "priority": 2}
+			]
+		},
+		{
+			"group": "NFL Quarterback Club 97",
+			"titles": [
+				{"searchTerm": "NFL Quarterback Club '97"},
+				{"searchTerm": "NFL Quarterback Club 97"}
+			]
+		},
+		{
+			"group": "NiGHTS into Dreams... (with 3D Control Pad)",
+			"titles": [
+				{"searchTerm": "NiGHTS into Dreams... (with 3D Control Pad)"},
+				{"searchTerm": "NiGHTS into Dreams...", "priority": 2}
+			]
+		},
+		{
+			"group": "Night Warriors - Darkstalkers' Revenge",
+			"titles": [
+				{"searchTerm": "Night Warriors - Darkstalkers' Revenge"},
+				{"searchTerm": "Vampire Hunter - Darkstalkers' Revenge"}
+			]
+		},
+		{
+			"group": "Norse by Norsewest - The Return of the Lost Vikings",
+			"titles": [
+				{"searchTerm": "Lost Vikings 2 - Norse by Norsewest"},
+				{"searchTerm": "Norse by Norsewest - The Return of the Lost Vikings"}
+			]
+		},
+		{
+			"group": "P.T.O. - Pacific Theater of Operations II",
+			"titles": [
+				{"searchTerm": "P.T.O. - Pacific Theater of Operations II"},
+				{"searchTerm": "Teitoku no Ketsudan II"}
+			]
+		},
+		{
+			"group": "Pad Nifty",
+			"titles": [
+				{"searchTerm": "Pad Nifty"}
+			],
+			"supersets": [
+				{"searchTerm": "Pad Nifty 1.1 & Habitat II"}
+			]
+		},
+		{
+			"group": "Pandemonium!",
+			"titles": [
+				{"searchTerm": "Magical Hoppers"},
+				{"searchTerm": "Pandemonium!"}
+			]
+		},
+		{
+			"group": "Panzer Dragoon Saga (Disc 1)",
+			"titles": [
+				{"searchTerm": "Azel - Panzer Dragoon RPG (Disc 1)"},
+				{"searchTerm": "Panzer Dragoon Saga (Disc 1)"}
+			]
+		},
+		{
+			"group": "Panzer Dragoon Saga (Disc 2)",
+			"titles": [
+				{"searchTerm": "Azel - Panzer Dragoon RPG (Disc 2)"},
+				{"searchTerm": "Panzer Dragoon Saga (Disc 2)"}
+			]
+		},
+		{
+			"group": "Panzer Dragoon Saga (Disc 3)",
+			"titles": [
+				{"searchTerm": "Azel - Panzer Dragoon RPG (Disc 3)"},
+				{"searchTerm": "Panzer Dragoon Saga (Disc 3)"}
+			]
+		},
+		{
+			"group": "Panzer Dragoon Saga (Disc 4)",
+			"titles": [
+				{"searchTerm": "Azel - Panzer Dragoon RPG (Disc 4)"},
+				{"searchTerm": "Panzer Dragoon Saga (Disc 4)"}
+			]
+		},
+		{
+			"group": "Parodius",
+			"titles": [
+				{"searchTerm": "Gokujou Parodius Da! Deluxe Pack"},
+				{"searchTerm": "Parodius"}
+			]
+		},
+		{
+			"group": "Pebble Beach Golf Links",
+			"titles": [
+				{"searchTerm": "Pebble Beach Golf Links"},
+				{"searchTerm": "Pebble Beach Golf Links - Stadler ni Chousen"}
+			]
+		},
+		{
+			"group": "Powerslave",
+			"titles": [
+				{"searchTerm": "Exhumed"},
+				{"searchTerm": "Powerslave"},
+				{"searchTerm": "Seireki 1999 - Pharaoh no Fukkatsu"}
+			]
+		},
+		{
+			"group": "Pro-Pinball",
+			"titles": [
+				{"searchTerm": "Pro-Pinball"},
+				{"searchTerm": "Pro-Pinball - The Web"}
+			]
+		},
+		{
+			"group": "Puyo Puyo Sun",
+			"titles": [
+				{"searchTerm": "Puyo Puyo Sun"}
+			],
+			"supersets": [
+				{"searchTerm": "Puyo Puyo Sun for SegaNet"}
+			]
+		},
+		{
+			"group": "Puzzle Bobble 2X (2M2)",
+			"titles": [
+				{"searchTerm": "Puzzle Bobble 2X (2M2)"},
+				{"searchTerm": "Puzzle Bobble 2X (2M1, 2MB1)", "priority": 2}
+			]
+		},
+		{
+			"group": "Puzzle Bobble 3",
+			"titles": [
+				{"searchTerm": "Puzzle Bobble 3"}
+			],
+			"supersets": [
+				{"searchTerm": "Puzzle Bobble 3 for SegaNet"}
+			]
+		},
+		{
+			"group": "Resident Evil",
+			"titles": [
+				{"searchTerm": "Bio Hazard"},
+				{"searchTerm": "Resident Evil"}
+			]
+		},
+		{
+			"group": "Riven - The Sequel to Myst (Disc 1)",
+			"titles": [
+				{"searchTerm": "Riven - A Sequencia de Myst (Disc 1)"},
+				{"searchTerm": "Riven - The Sequel to Myst (Disc 1)"}
+			]
+		},
+		{
+			"group": "Riven - The Sequel to Myst (Disc 2)",
+			"titles": [
+				{"searchTerm": "Riven - A Sequencia de Myst (Disc 2)"},
+				{"searchTerm": "Riven - The Sequel to Myst (Disc 2)"}
+			]
+		},
+		{
+			"group": "Riven - The Sequel to Myst (Disc 3)",
+			"titles": [
+				{"searchTerm": "Riven - A Sequencia de Myst (Disc 3)"},
+				{"searchTerm": "Riven - The Sequel to Myst (Disc 3)"}
+			]
+		},
+		{
+			"group": "Riven - The Sequel to Myst (Disc 4)",
+			"titles": [
+				{"searchTerm": "Riven - A Sequencia de Myst (Disc 4)"},
+				{"searchTerm": "Riven - The Sequel to Myst (Disc 4)"}
+			]
+		},
+		{
+			"group": "Road & Track Presents - The Need for Speed",
+			"titles": [
+				{"searchTerm": "Nissan Presents - Over Drivin' GT-R"},
+				{"searchTerm": "Road & Track Presents - The Need for Speed"}
+			]
+		},
+		{
+			"group": "Robotica",
+			"titles": [
+				{"searchTerm": "Deadalus"},
+				{"searchTerm": "Robotica"},
+				{"searchTerm": "Robotica - Cybernation Revolt"}
+			]
+		},
+		{
+			"group": "Romance of the Three Kingdoms IV - Wall of Fire",
+			"titles": [
+				{"searchTerm": "Romance of the Three Kingdoms IV - Wall of Fire"},
+				{"searchTerm": "Sangokushi IV"},
+				{"searchTerm": "Sangokushi IV with Power-Up Kit"},
+				{"searchTerm": "Sanguozhi IV"}
+			]
+		},
+		{
+			"group": "Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare (Disc 1)",
+			"titles": [
+				{"searchTerm": "Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare (Disc 1)"},
+				{"searchTerm": "Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare (Disc 1) (Shokai Tokutenban)", "priority": 2}
+			]
+		},
+		{
+			"group": "Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare (Disc 2)",
+			"titles": [
+				{"searchTerm": "Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare (Disc 2)"},
+				{"searchTerm": "Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare (Disc 2) (Shokai Tokutenban)", "priority": 2}
+			]
+		},
+		{
+			"group": "Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare (Disc 3)",
+			"titles": [
+				{"searchTerm": "Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare (Disc 3)"},
+				{"searchTerm": "Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare (Disc 3) (Shokai Tokutenban)", "priority": 2}
+			]
+		},
+		{
+			"group": "Sangokushi V",
+			"titles": [
+				{"searchTerm": "Sangokushi V"},
+				{"searchTerm": "Sanguozhi V"}
+			]
+		},
+		{
+			"group": "Sangokushi Koumeiden",
+			"titles": [
+				{"searchTerm": "Sangokushi Koumeiden"},
+				{"searchTerm": "Sanguozhi Yingjiezhuan"}
+			]
+		},
+		{
+			"group": "Sega Rally Championship",
+			"titles": [
+				{"searchTerm": "Sega Rally Championship"}
+			],
+			"supersets": [
+				{"searchTerm": "Sega Rally Championship Plus"},
+				{"searchTerm": "Sega Rally Championship Plus Netlink Edition"}
+			]
+		},
+		{
+			"group": "Sega Worldwide Soccer '97",
+			"titles": [
+				{"searchTerm": "Sega Worldwide Soccer '97"},
+				{"searchTerm": "Sega Worldwide Soccer 97"},
+				{"searchTerm": "Victory Goal Worldwide Edition"}
+			]
+		},
+		{
+			"group": "Shanghai - Triple-Threat",
+			"titles": [
+				{"searchTerm": "Shanghai - Banri no Choujou - The Great Wall"},
+				{"searchTerm": "Shanghai - Triple-Threat"}
+			]
+		},
+		{
+			"group": "Shellshock",
+			"titles": [
+				{"searchTerm": "Shellshock"},
+				{"searchTerm": "Shellshock - Jus' Keepin' da Peace"}
+			]
+		},
+		{
+			"group": "Shinobi Legions",
+			"titles": [
+				{"searchTerm": "Shin Shinobiden"},
+				{"searchTerm": "Shinobi-X - Shin Shinobi Den"},
+				{"searchTerm": "Shinobi Legions"}
+			]
+		},
+		{
+			"group": "Shining Force III",
+			"titles": [
+				{"searchTerm": "Shining Force III"},
+				{"searchTerm": "Shining Force III - Scenario 1 - Outo no Kyoshin"}
+			]
+		},
+		{
+			"group": "Slam 'n Jam '96 featuring Magic & Kareem",
+			"titles": [
+				{"searchTerm": "Slam 'n Jam '96 featuring Magic & Kareem"}
+			],
+			"supersets": [
+				{"searchTerm": "Slam 'n Jam '96 featuring Magic & Kareem - Signature Edition"}
+			]
+		},
+		{
+			"group": "Solar Eclipse",
+			"titles": [
+				{"searchTerm": "Solar Eclipse"},
+				{"searchTerm": "Titan Wars"}
+			]
+		},
+		{
+			"group": "Sonic 3D Blast",
+			"titles": [
+				{"searchTerm": "Sonic 3D - Flickies' Island"},
+				{"searchTerm": "Sonic 3D Blast"}
+			]
+		},
+		{
+			"group": "Star Fighter",
+			"titles": [
+				{"searchTerm": "Star Fighter"},
+				{"searchTerm": "StarFighter 3000"}
+			]
+		},
+		{
+			"group": "Street Fighter - The Movie",
+			"titles": [
+				{"searchTerm": "Street Fighter - Real Battle on Film"},
+				{"searchTerm": "Street Fighter - The Movie"}
+			]
+		},
+		{
+			"group": "Street Fighter Alpha - Warriors' Dreams",
+			"titles": [
+				{"searchTerm": "Street Fighter Alpha - Warriors' Dreams"},
+				{"searchTerm": "Street Fighter Zero"}
+			]
+		},
+		{
+			"group": "Street Fighter Alpha 2",
+			"titles": [
+				{"searchTerm": "Street Fighter Alpha 2"},
+				{"searchTerm": "Street Fighter Zero 2"}
+			]
+		},
+		{
+			"group": "Street Racer",
+			"titles": [
+				{"searchTerm": "Street Racer"},
+				{"searchTerm": "Street Racer Extra"}
+			]
+		},
+		{
+			"group": "Super Puzzle Fighter II Turbo",
+			"titles": [
+				{"searchTerm": "Super Puzzle Fighter II Turbo"},
+				{"searchTerm": "Super Puzzle Fighter II X"}
+			]
+		},
+		{
+			"group": "Teitoku no Ketsudan III",
+			"titles": [
+				{"searchTerm": "Teitoku no Ketsudan III"}
+			],
+			"supersets": [
+				{"searchTerm": "Teitoku no Ketsudan III with Power-Up Kit"}
+			]
+		},
+		{
+			"group": "Terry Pratchett's Discworld",
+			"titles": [
+				{"searchTerm": "Discworld"},
+				{"searchTerm": "Terry Pratchett's Discworld"}
+			]
+		},
+		{
+			"group": "Theme Park",
+			"titles": [
+				{"searchTerm": "Shin Theme Park"},
+				{"searchTerm": "Theme Park"}
+			]
+		},
+		{
+			"group": "Thunderstrike 2",
+			"titles": [
+				{"searchTerm": "Firestorm - Thunderhawk 2"},
+				{"searchTerm": "Thunderhawk II"},
+				{"searchTerm": "Thunderstrike 2"}
+			]
+		},
+		{
+			"group": "TNN Motor Sports HardCore 4X4",
+			"titles": [
+				{"searchTerm": "Deka 4-ku - Tough the Truck"},
+				{"searchTerm": "Hardcore 4x4"},
+				{"searchTerm": "TNN Motor Sports HardCore 4X4"}
+			]
+		},
+		{
+			"group": "Tokimeki Memorial - Forever with You",
+			"titles": [
+				{"searchTerm": "Tokimeki Memorial - Forever with You"}
+			],
+			"supersets": [
+				{"searchTerm": "Tokimeki Memorial - Forever with You (Special-ban)"}
+			]
+		},
+		{
+			"group": "Tomb Raider",
+			"titles": [
+				{"searchTerm": "Tomb Raider"},
+				{"searchTerm": "Tomb Raiders"}
+			]
+		},
+		{
+			"group": "True Pinball",
+			"titles": [
+				{"searchTerm": "Tekkyuu - True Pinball"},
+				{"searchTerm": "True Pinball"}
+			]
+		},
+		{
+			"group": "Tunnel B1",
+			"titles": [
+				{"searchTerm": "3D Mission Shooting - Finalist"},
+				{"searchTerm": "Tunnel B1"}
+			]
+		},
+		{
+			"group": "Valora Valley Golf",
+			"titles": [
+				{"searchTerm": "Hyper Golf, The - Devil's Course"},
+				{"searchTerm": "Valora Valley Golf"}
+			]
+		},
+		{
+			"group": "Virtua Fighter",
+			"titles": [
+				{"searchTerm": "Virtua Fighter"}
+			],
+			"supersets": [
+				{"searchTerm": "Virtua Fighter Remix"}
+			]
+		},
+		{
+			"group": "Virtua Fighter CG Portrait Collection",
+			"titles": [
+				{"searchTerm": "Virtua Fighter CG Portrait Collection"},
+				{"searchTerm": "Virtua Fighter CG Portrait Series - The Final - Dural"},
+				{"searchTerm": "Virtua Fighter CG Portrait Series Vol. 1 - Sarah Bryant"},
+				{"searchTerm": "Virtua Fighter CG Portrait Series Vol. 2 - Jacky Bryant"},
+				{"searchTerm": "Virtua Fighter CG Portrait Series Vol. 3 - Akira Yuki"},
+				{"searchTerm": "Virtua Fighter CG Portrait Series Vol. 4 - Pai Chan"},
+				{"searchTerm": "Virtua Fighter CG Portrait Series Vol. 5 - Wolf Hawkfield"},
+				{"searchTerm": "Virtua Fighter CG Portrait Series Vol. 6 - Lau Chan"},
+				{"searchTerm": "Virtua Fighter CG Portrait Series Vol. 7 - Shun Di"},
+				{"searchTerm": "Virtua Fighter CG Portrait Series Vol. 8 - Lion Rafale"},
+				{"searchTerm": "Virtua Fighter CG Portrait Series Vol. 9 - Kage Maru"},
+				{"searchTerm": "Virtua Fighter CG Portrait Series Vol. 10 - Jeffry McWild"}
+			]
+		},
+		{
+			"group": "Virtua Fighter Kids",
+			"titles": [
+				{"searchTerm": "Virtua Fighter Kids"},
+				{"searchTerm": "Virtua Fighter Kids (Java Tea Original)"}
+			]
+		},
+		{
+			"group": "Virtual Golf",
+			"titles": [
+				{"searchTerm": "Virtual Golf"},
+				{"searchTerm": "Tournament Leader"}
+			]
+		},
+		{
+			"group": "Virtual Hydlide",
+			"titles": [
+				{"searchTerm": "Virtual Hydlide"},
+				{"searchTerm": "Virtual Hydlide (P5H)"},
+				{"searchTerm": "Virtual Hydlide (P4H)", "priority": 2}
+			]
+		},
+		{
+			"group": "Virtual On - Cyber Troopers",
+			"titles": [
+				{"searchTerm": "Dennou Senki - Virtual On - Cyber Troopers"},
+				{"searchTerm": "Virtual On - Cyber Troopers"}
+			]
+		},
+		{
+			"group": "Virtual On - Cyber Troopers Net Link Edition",
+			"titles": [
+				{"searchTerm": "Dennou Senki - Virtual On - Cyber Troopers for SegaNet"},
+				{"searchTerm": "Virtual On - Cyber Troopers Net Link Edition"}
+			]
+		},
+		{
+			"group": "VR Golf '97",
+			"titles": [
+				{"searchTerm": "Actua Golf"},
+				{"searchTerm": "VR Golf '97"}
+			]
+		},
+		{
+			"group": "VR Soccer",
+			"titles": [
+				{"searchTerm": "Actua Soccer"},
+				{"searchTerm": "Actua Soccer - Club Edition"},
+				{"searchTerm": "VR Soccer"}
+			]
+		},
+		{
+			"group": "Wing Arms",
+			"titles": [
+				{"searchTerm": "Wing Arms"},
+				{"searchTerm": "Wing Arms - Kareinaru Gekitsuiou"}
+			]
+		},
+		{
+			"group": "WipEout 2097",
+			"titles": [
+				{"searchTerm": "WipEout 2097"},
+				{"searchTerm": "Wipeout XL"}
+			]
+		},
+		{
+			"group": "World Cup Golf - Professional Edition",
+			"titles": [
+				{"searchTerm": "World Cup Golf - In Hyatt Dorado Beach"},
+				{"searchTerm": "World Cup Golf - Professional Edition"}
+			]
+		},
+		{
+			"group": "World Series Baseball",
+			"titles": [
+				{"searchTerm": "Hideo Nomo World Series Baseball"},
+				{"searchTerm": "World Series Baseball"}
+			]
+		},
+		{
+			"group": "Worldwide Soccer '98",
+			"titles": [
+				{"searchTerm": "Sega Worldwide Soccer '98 - Club Edition"},
+				{"searchTerm": "Worldwide Soccer '98"}
+			]
+		},
+		{
+			"group": "Worldwide Soccer - Sega International Victory Goal Edition",
+			"titles": [
+				{"searchTerm": "International Victory Goal"},
+				{"searchTerm": "Sega International Victory Goal"},
+				{"searchTerm": "Worldwide Soccer - Sega International Victory Goal Edition"}
+			]
+		}
+	]
+}

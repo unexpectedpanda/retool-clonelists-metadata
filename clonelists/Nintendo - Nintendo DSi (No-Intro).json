@@ -1,0 +1,31 @@
+{
+	"description": {
+		"name": "Nintendo - Nintendo DSi (No-Intro)",
+		"lastUpdated": "17 January 2023",
+		"minimumVersion": "2.00"
+	},
+
+	"variants": [
+		{
+			"group": "Foto Showdown",
+			"titles": [
+				{"searchTerm": "Foto Showdown"},
+				{"searchTerm": "Monster Finder"}
+			]
+		},
+		{
+			"group": "Hidden Photo",
+			"titles": [
+				{"searchTerm": "Hidden Photo"},
+				{"searchTerm": "Wimmelbild-Creator"}
+			]
+		},
+		{
+			"group": "Picture Perfect Hair Salon",
+			"titles": [
+				{"searchTerm": "Hair Salon"},
+				{"searchTerm": "Picture Perfect Hair Salon"}
+			]
+		}
+	]
+}

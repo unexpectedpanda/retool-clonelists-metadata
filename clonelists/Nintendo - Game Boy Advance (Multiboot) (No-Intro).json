@@ -1,0 +1,17 @@
+{
+	"description": {
+		"name": "Nintendo - Game Boy Advance (Multiboot) (No-Intro)",
+		"lastUpdated": "11 January 2023",
+		"minimumVersion": "2.00"
+	},
+
+	"variants": [
+		{
+			"group": "Puyo Pop - Endless Version",
+			"titles": [
+				{"searchTerm": "Puyo Pop - Endless Version"},
+				{"searchTerm": "Minna de Puyo Puyo - Toko Puyo Genteiban", "priority": 2}
+			]
+		}
+	]
+}

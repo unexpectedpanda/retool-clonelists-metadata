@@ -1,0 +1,281 @@
+{
+	"description": {
+		"name": "Atari - 2600 (No-Intro)",
+		"lastUpdated": "9 January 2023",
+		"minimumVersion": "2.00"
+	},
+
+	"categories": [
+		{
+			"searchTerm": "BASIC Programming",
+			"nameType": "short",
+			"categories": ["Applications"]
+		},
+		{
+			"searchTerm": "Color Bar Generator",
+			"nameType": "short",
+			"categories": ["Applications"]
+		},
+		{
+			"searchTerm": "Colors",
+			"nameType": "short",
+			"categories": ["Applications", "Preproduction"]
+		},
+		{
+			"searchTerm": "Colours",
+			"nameType": "short",
+			"categories": ["Applications", "Preproduction"]
+		},
+		{
+			"searchTerm": "Frog Demo",
+			"nameType": "short",
+			"categories": ["Demos"]
+		},
+		{
+			"searchTerm": "Kid Vid Voice Module (Audio Tapes)",
+			"nameType": "short",
+			"categories": ["BIOS"]
+		},
+		{
+			"searchTerm": "Sound",
+			"nameType": "short",
+			"categories": ["Applications", "Preproduction"]
+		}
+	],
+
+	"variants": [
+		{
+			"group": "Air-Sea Battle ~ Target Fun",
+			"titles": [
+				{"searchTerm": "Air-Sea Battle ~ Target Fun"},
+				{"searchTerm": "Air-Sea Battle"}
+			]
+		},
+		{
+			"group": "Alien's Return",
+			"titles": [
+				{"searchTerm": "Alien's Return"},
+				{"searchTerm": "Col 'N'", "priority": 2}
+			]
+		},
+		{
+			"group": "Alpha Beam with Ernie",
+			"titles": [
+				{"searchTerm": "Alpha Beam with Ernie"},
+				{"searchTerm": "Alpha Beam", "priority": 2}
+			]
+		},
+		{
+			"group": "Amoeba Jump",
+			"titles": [
+				{"searchTerm": "Amoeba Jump"},
+				{"searchTerm": "Amoeba Jump (Retron 77 Version)", "priority": 2}
+			]
+		},
+		{
+			"group": "Assault",
+			"titles": [
+				{"searchTerm": "Assault"},
+				{"searchTerm": "Sky Alien ~ Assault"}
+			]
+		},
+		{
+			"group": "Boxing",
+			"titles": [
+				{"searchTerm": "Boxen"},
+				{"searchTerm": "Boxing"}
+			]
+		},
+		{
+			"group": "Breakout ~ Breakaway IV",
+			"titles": [
+				{"searchTerm": "Breakout"},
+				{"searchTerm": "Breakout ~ Breakaway IV"}
+			]
+		},
+		{
+			"group": "Casino ~ Poker Plus",
+			"titles": [
+				{"searchTerm": "Casino"},
+				{"searchTerm": "Casino ~ Poker Plus"}
+			]
+		},
+		{
+			"group": "Challenge",
+			"titles": [
+				{"searchTerm": "Challenge"},
+				{"searchTerm": "Mein Weg"}
+			]
+		},
+		{
+			"group": "Championship Soccer ~ Soccer",
+			"titles": [
+				{"searchTerm": "Championship Soccer"},
+				{"searchTerm": "Championship Soccer ~ Soccer"}
+			]
+		},
+		{
+			"group": "Colors",
+			"titles": [
+				{"searchTerm": "Colors"},
+				{"searchTerm": "Colours"}
+			]
+		},
+		{
+			"group": "Combat ~ Tank-Plus",
+			"titles": [
+				{"searchTerm": "Combat"},
+				{"searchTerm": "Combat ~ Tank-Plus"},
+				{"searchTerm": "Tank AI", "priority": 2}
+			]
+		},
+		{
+			"group": "Dodge 'Em ~ Dodger Cars",
+			"titles": [
+				{"searchTerm": "Dodge 'Em"},
+				{"searchTerm": "Dodge 'Em ~ Dodger Cars"}
+			]
+		},
+		{
+			"group": "Freeway",
+			"titles": [
+				{"searchTerm": "Freeway"},
+				{"searchTerm": "Bloody Human Freeway", "priority": 2}
+			]
+		},
+		{
+			"group": "Frisco",
+			"titles": [
+				{"searchTerm": "Frisco"},
+				{"searchTerm": "Peter Penguin"}
+			]
+		},
+		{
+			"group": "G.I. Joe - Cobra Strike",
+			"titles": [
+				{"searchTerm": "Action Man - Action Force"},
+				{"searchTerm": "G.I. Joe - Cobra Strike"}
+			]
+		},
+		{
+			"group": "Grover's Music Maker",
+			"titles": [
+				{"searchTerm": "Grover's Music Maker"},
+				{"searchTerm": "Monkey Music"}
+			]
+		},
+		{
+			"group": "I.Q. 180",
+			"titles": [
+				{"searchTerm": "I.Q. 180"},
+				{"searchTerm": "I.Q. Memory Teaser"}
+			]
+		},
+		{
+			"group": "Laser Gates",
+			"titles": [
+				{"searchTerm": "Laaser Voley"},
+				{"searchTerm": "Laser Gates"}
+			]
+		},
+		{
+			"group": "Missile War ~ Astro War",
+			"titles": [
+				{"searchTerm": "Astrowar"},
+				{"searchTerm": "Missile War ~ Astro War"}
+			]
+		},
+		{
+			"group": "Open Sesame",
+			"titles": [
+				{"searchTerm": "Abre-te, Sesamo!"},
+				{"searchTerm": "Apples and Dolls"},
+				{"searchTerm": "Open Sesame"}
+			]
+		},
+		{
+			"group": "Outlaw ~ Gunslinger",
+			"titles": [
+				{"searchTerm": "Outlaw"},
+				{"searchTerm": "Outlaw ~ Gunslinger"}
+			]
+		},
+		{
+			"group": "Racing Car",
+			"titles": [
+				{"searchTerm": "Hell Driver"},
+				{"searchTerm": "Racing Car"}
+			]
+		},
+		{
+			"group": "Radar",
+			"titles": [
+				{"searchTerm": "Exocet"},
+				{"searchTerm": "Radar"}
+			]
+		},
+		{
+			"group": "Rubik's Cube",
+			"titles": [
+				{"searchTerm": "Rubik's Cube"},
+				{"searchTerm": "Atari Video Cube", "priority": 2}
+			]
+		},
+		{
+			"group": "Sea Hawk",
+			"titles": [
+				{"searchTerm": "Sea Hawk"},
+				{"searchTerm": "Seahawk"}
+			]
+		},
+		{
+			"group": "Sea Hunt ~ Scuba Diver",
+			"titles": [
+				{"searchTerm": "Sea Hunt ~ Scuba Diver"},
+				{"searchTerm": "Skindiver"}
+			]
+		},
+		{
+			"group": "Sea Monster",
+			"titles": [
+				{"searchTerm": "O Monstro Marinho"},
+				{"searchTerm": "Sea Monster"}
+			]
+		},
+		{
+			"group": "Space Tunnel",
+			"titles": [
+				{"searchTerm": "Space Tunnel"},
+				{"searchTerm": "Tunnel de L'Espace, Le"}
+			]
+		},
+		{
+			"group": "Squirrel ~ O Esquilo",
+			"titles": [
+				{"searchTerm": "Snail against Squirrel"},
+				{"searchTerm": "Squirrel ~ O Esquilo"}
+			]
+		},
+		{
+			"group": "Stunt Man",
+			"titles": [
+				{"searchTerm": "Nightmare"},
+				{"searchTerm": "Stunt Man"}
+			]
+		},
+		{
+			"group": "Tanks But no Tanks",
+			"titles": [
+				{"searchTerm": "Phantom Tank"},
+				{"searchTerm": "Tanks But no Tanks"}
+			]
+		},
+		{
+			"group": "Wall-Defender",
+			"titles": [
+				{"searchTerm": "Wall-Defender"},
+				{"searchTerm": "Wall Break"}
+			]
+		}
+	]
+}

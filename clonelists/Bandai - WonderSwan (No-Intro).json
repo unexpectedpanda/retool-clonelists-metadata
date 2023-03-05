@@ -1,0 +1,32 @@
+{
+	"description": {
+		"name": "Bandai - WonderSwan (No-Intro)",
+		"lastUpdated": "9 January 2023",
+		"minimumVersion": "2.00"
+	},
+
+	"variants": [
+		{
+			"group": "Digital Monster - Ver. WonderSwan",
+			"titles": [
+				{"searchTerm": "Digital Monster - Ver. WonderSwan"},
+				{"searchTerm": "Digimon - Ver. WonderSwan"}
+			]
+		},
+		{
+			"group": "WonderWitch (FreyaOS 1.2.0) (Program)",
+			"titles": [
+				{"searchTerm": "WonderWitch (FreyaOS 1.2.0) (Program)"},
+				{"searchTerm": "WonderWitch (FreyaOS 1.1.6b1) (Program)", "priority": 2},
+				{"searchTerm": "WonderWitch (FreyaOS 1.1.5) (Program)", "priority": 3},
+				{"searchTerm": "WonderWitch (FreyaOS 1.1.4) (Program)", "priority": 4},
+				{"searchTerm": "WonderWitch (FreyaOS 1.1.3) (Program)", "priority": 5},
+				{"searchTerm": "WonderWitch (FreyaOS 1.1.2) (Program)", "priority": 6},
+				{"searchTerm": "WonderWitch (FreyaOS 1.1.1) (Program)", "priority": 7},
+				{"searchTerm": "WonderWitch (FreyaOS 1.0.3) (Program)", "priority": 8},
+				{"searchTerm": "WonderWitch (FreyaOS 1.0.2) (Program)", "priority": 9},
+				{"searchTerm": "WonderWitch (FreyaOS 1.0.0) (Program)", "priority": 10}
+			]
+		}
+	]
+}

@@ -1,0 +1,185 @@
+{
+	"description": {
+		"name": "NEC - PC Engine CD & TurboGrafx CD (Redump)",
+		"lastUpdated": "11 January 2023",
+		"minimumVersion": "2.00"
+	},
+
+	"variants": [
+		{
+			"group": "Bonk's Adventure",
+			"compilations": [
+				{"searchTerm": "Gate of Thunder + Bonk's Adventure + Bonk's Revenge", "titlePosition": 2}
+			]
+		},
+		{
+			"group": "Bonk's Revenge",
+			"compilations": [
+				{"searchTerm": "Gate of Thunder + Bonk's Adventure + Bonk's Revenge", "titlePosition": 3}
+			]
+		},
+		{
+			"group": "Buster Bros.",
+			"titles": [
+				{"searchTerm": "Buster Bros."},
+				{"searchTerm": "Pomping World"}
+			]
+		},
+		{
+			"group": "Cosmic Fantasy 2",
+			"titles": [
+				{"searchTerm": "Cosmic Fantasy 2"},
+				{"searchTerm": "Cosmic Fantasy 2 - Bouken Shounen Ban"}
+			]
+		},
+		{
+			"group": "Dynastic Hero, The",
+			"titles": [
+				{"searchTerm": "Chou Eiyuu Densetsu - Dynastic Hero"},
+				{"searchTerm": "Dynastic Hero, The"}
+			]
+		},
+		{
+			"group": "Exile",
+			"titles": [
+				{"searchTerm": "Exile"},
+				{"searchTerm": "Exile - Toki no Hasama e"}
+			]
+		},
+		{
+			"group": "Exile - Wicked Phenomenon",
+			"titles": [
+				{"searchTerm": "Exile - Wicked Phenomenon"},
+				{"searchTerm": "Exile II - Janen no Jishou"}
+			]
+		},
+		{
+			"group": "Gate of Thunder",
+			"titles": [
+				{"searchTerm": "Gate of Thunder"}
+			],
+			"compilations": [
+				{"searchTerm": "Gate of Thunder + Bonk's Adventure + Bonk's Revenge", "titlePosition": 1}
+			]
+		},
+		{
+			"group": "Godzilla",
+			"titles": [
+				{"searchTerm": "Godzilla"},
+				{"searchTerm": "Godzilla Bakutou Retsuden"}
+			]
+		},
+		{
+			"group": "J. B. Harold Murder Club",
+			"titles": [
+				{"searchTerm": "J. B. Harold Murder Club"},
+				{"searchTerm": "J. B. Harold Series 1 - Murder Club"}
+			]
+		},
+		{
+			"group": "Jack Nicklaus Turbo Golf",
+			"titles": [
+				{"searchTerm": "Jack Nicklaus' World Tour Golf - 162 Holes"},
+				{"searchTerm": "Jack Nicklaus Turbo Golf"}
+			]
+		},
+		{
+			"group": "Last Alert",
+			"titles": [
+				{"searchTerm": "Last Alert"},
+				{"searchTerm": "Red Alert"}
+			]
+		},
+		{
+			"group": "Lords of the Rising Sun",
+			"titles": [
+				{"searchTerm": "Lords of the Rising Sun"},
+				{"searchTerm": "Rising Sun"}
+			]
+		},
+		{
+			"group": "Lords of Thunder",
+			"titles": [
+				{"searchTerm": "Lords of Thunder"},
+				{"searchTerm": "Winds of Thunder"}
+			]
+		},
+		{
+			"group": "Magical Dinosaur Tour",
+			"titles": [
+				{"searchTerm": "Magical Dinosaur Tour"},
+				{"searchTerm": "Magical Saurus Tour"}
+			]
+		},
+		{
+			"group": "Monster Lair",
+			"titles": [
+				{"searchTerm": "Monster Lair"},
+				{"searchTerm": "Wonder Boy III - Monster Lair"}
+			]
+		},
+		{
+			"group": "Riot Zone",
+			"titles": [
+				{"searchTerm": "Ookami-teki Monshou - Crest of Wolf"},
+				{"searchTerm": "Riot Zone"}
+			]
+		},
+		{
+			"group": "Shadow of the Beast",
+			"titles": [
+				{"searchTerm": "Shadow of the Beast"},
+				{"searchTerm": "Shadow of the Beast - Mashou no Okite"}
+			]
+		},
+		{
+			"group": "Sherlock Holmes - Consulting Detective - Volume 2",
+			"titles": [
+				{"searchTerm": "Sherlock Holmes - Consulting Detective - Volume 2"},
+				{"searchTerm": "Sherlock Holmes - Consulting Detective Vol. II"}
+			]
+		},
+		{
+			"group": "Shape Shifter",
+			"titles": [
+				{"searchTerm": "Makai Eiyuuden - Shape Shifter"},
+				{"searchTerm": "Shape Shifter"}
+			]
+		},
+		{
+			"group": "Splash Lake",
+			"titles": [
+				{"searchTerm": "Splash Lake"},
+				{"searchTerm": "Splash Lake - Ostrich Daibouken"}
+			]
+		},
+		{
+			"group": "Super Air Zonk - Rockabilly-Paradise",
+			"titles": [
+				{"searchTerm": "CD Denjin - Rockabilly Tengoku"},
+				{"searchTerm": "Super Air Zonk - Rockabilly-Paradise"}
+			]
+		},
+		{
+			"group": "SydMead's TerraForming",
+			"titles": [
+				{"searchTerm": "SydMead's TerraForming"},
+				{"searchTerm": "TerraForming"}
+			]
+		},
+		{
+			"group": "Ys Book I & II",
+			"titles": [
+				{"searchTerm": "Ys Book I & II"},
+				{"searchTerm": "Ys I & II"}
+			]
+		},
+		{
+			"group": "Ys III - Wanderers from Ys",
+			"titles": [
+				{"searchTerm": "Ys III - Wanderers from Ys"},
+				{"searchTerm": "Ys III"}
+			]
+		}
+	]
+}

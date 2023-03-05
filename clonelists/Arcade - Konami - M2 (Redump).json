@@ -1,0 +1,24 @@
+{
+	"description": {
+		"name": "Arcade - Konami - M2 (Redump)",
+		"lastUpdated": "9 January 2023",
+		"minimumVersion": "2.00"
+	},
+
+	"variants": [
+		{
+			"group": "Battle Tryst",
+			"titles": [
+				{"searchTerm": "Battle Tryst (JAC)"},
+				{"searchTerm": "Battle Tryst (JAA)", "priority": 2}
+			]
+		},
+		{
+			"group": "Total Vice",
+			"titles": [
+				{"searchTerm": "Total Vice (EAD)"},
+				{"searchTerm": "Total Vice (AAB)", "priority": 2}
+			]
+		}
+	]
+}

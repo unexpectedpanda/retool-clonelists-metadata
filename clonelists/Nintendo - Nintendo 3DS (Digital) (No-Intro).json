@@ -1,0 +1,498 @@
+{
+	"description": {
+		"name": "Nintendo - Nintendo 3DS (Digital) (No-Intro)",
+		"lastUpdated": "14 January 2023",
+		"minimumVersion": "2.00"
+	},
+
+	"variants": [
+		{
+			"group": "101 Pony Pets 3D",
+			"titles": [
+				{"searchTerm": "101 Pony Pets 3D"},
+				{"searchTerm": "Pony Pets 3D"}
+			]
+		},
+		{
+			"group": "2 Fast 4 Gnomz",
+			"titles": [
+				{"searchTerm": "2 Fast 4 Gnomz"},
+				{"searchTerm": "Gekiyaba Runner"}
+			]
+		},
+		{
+			"group": "3D Fantasy Zone - Opa-Opa Bros.",
+			"titles": [
+				{"searchTerm": "3D Fantasy Zone"},
+				{"searchTerm": "3D Fantasy Zone - Opa-Opa Bros."}
+			]
+		},
+		{
+			"group": "3D Streets of Rage 2",
+			"titles": [
+				{"searchTerm": "3D Bare Knuckle II - Shitou e no Requiem"},
+				{"searchTerm": "3D Streets of Rage 2"}
+			]
+		},
+		{
+			"group": "AeternoBlade",
+			"titles": [
+				{"searchTerm": "AeternoBlade"},
+				{"searchTerm": "Time Avenger"}
+			]
+		},
+		{
+			"group": "Attack of the Friday Monsters! A Tokyo Tale",
+			"titles": [
+				{"searchTerm": "Attack of the Friday Monsters! A Tokyo Tale"},
+				{"searchTerm": "Guild02 - Kaijuu ga Deru Kinyoubi"}
+			]
+		},
+		{
+			"group": "Attack on Titan - Humanity in Chains",
+			"titles": [
+				{"searchTerm": "Attack on Titan - Humanity in Chains"},
+				{"searchTerm": "Shingeki no Kyojin - Humanity in Chains"}
+			]
+		},
+		{
+			"group": "Azure Striker Gunvolt",
+			"titles": [
+				{"searchTerm": "Armed Blue - Gunvolt"},
+				{"searchTerm": "Azure Striker Gunvolt"}
+			]
+		},
+		{
+			"group": "Bike Rider DX",
+			"titles": [
+				{"searchTerm": "Bike Rider DX"},
+				{"searchTerm": "Chari-Sou DX"}
+			]
+		},
+		{
+			"group": "BOXBOY!",
+			"titles": [
+				{"searchTerm": "BOXBOY!"},
+				{"searchTerm": "Hako Boy!"}
+			]
+		},
+		{
+			"group": "Chibi-Robo! Photo Finder",
+			"titles": [
+				{"searchTerm": "Chibi-Robo! Let's Go, Photo!"},
+				{"searchTerm": "Chibi-Robo! Photo Finder"}
+			]
+		},
+		{
+			"group": "Crashmo",
+			"titles": [
+				{"searchTerm": "Crashmo"},
+				{"searchTerm": "Fallblox"},
+				{"searchTerm": "Hikuotsu"}
+			]
+		},
+		{
+			"group": "Dillon's Rolling Western",
+			"titles": [
+				{"searchTerm": "Dillon's Rolling Western"},
+				{"searchTerm": "Rolling Western, The"}
+			]
+		},
+		{
+			"group": "Dillon's Rolling Western - The Last Ranger",
+			"titles": [
+				{"searchTerm": "Dillon's Rolling Western - The Last Ranger"},
+				{"searchTerm": "Rolling Western, The - Saigo no Youjinbou"}
+			]
+		},
+		{
+			"group": "F-Zero - Maximum Velocity",
+			"titles": [
+				{"searchTerm": "F-Zero - Maximum Velocity"},
+				{"searchTerm": "F-Zero for Game Boy Advance"}
+			]
+		},
+		{
+			"group": "Fire Emblem - The Sacred Stones",
+			"titles": [
+				{"searchTerm": "Fire Emblem - Seima no Kouseki"},
+				{"searchTerm": "Fire Emblem - The Sacred Stones"}
+			]
+		},
+		{
+			"group": "Flipnote Studio 3D",
+			"titles": [
+				{"searchTerm": "Flipnote Studio 3D"},
+				{"searchTerm": "Ugoku Memo Chou 3D"}
+			]
+		},
+		{
+			"group": "Fluidity - Spin Cycle",
+			"titles": [
+				{"searchTerm": "Fluidity - Spin Cycle"},
+				{"searchTerm": "Hydroventure - Spin Cycle"}
+			]
+		},
+		{
+			"group": "Gunman Clive",
+			"titles": [
+				{"searchTerm": "Gunman Clive"},
+				{"searchTerm": "Gumman Story"}
+			]
+		},
+		{
+			"group": "Gunman Clive 2",
+			"titles": [
+				{"searchTerm": "Gunman Clive 2"},
+				{"searchTerm": "Gumman Story 2"}
+			]
+		},
+		{
+			"group": "Iron Combat - War in the Air",
+			"titles": [
+				{"searchTerm": "Iron Combat - War in the Air"},
+				{"searchTerm": "Rinkou no Lantse"}
+			]
+		},
+		{
+			"group": "Japanese Rail Sim 3D - Journey in Suburbs #1",
+			"titles": [
+				{"searchTerm": "Japanese Rail Sim 3D - Journey in Suburbs #1"},
+				{"searchTerm": "Tetsudou Nippon! Rosen Tabi - Nagaragawa Tetsudou Hen"}
+			]
+		},
+		{
+			"group": "Johnny's Payday Panic",
+			"titles": [
+				{"searchTerm": "Gekidou! Arbeiter Koji"},
+				{"searchTerm": "Johnny's Payday Panic"}
+			]
+		},
+		{
+			"group": "Kersploosh!",
+			"titles": [
+				{"searchTerm": "Kersploosh!"},
+				{"searchTerm": "Splash or Crash"}
+			]
+		},
+		{
+			"group": "Ketzal's Corridors",
+			"titles": [
+				{"searchTerm": "Ketzal's Corridors"},
+				{"searchTerm": "SpeedThru - Potzol's Puzzle"}
+			]
+		},
+		{
+			"group": "Kirby & The Amazing Mirror",
+			"titles": [
+				{"searchTerm": "Hoshi no Kirby - Kagami no Daimeikyuu"},
+				{"searchTerm": "Kirby & The Amazing Mirror"}
+			]
+		},
+		{
+			"group": "Legend of Dark Witch, The",
+			"titles": [
+				{"searchTerm": "Legend of Dark Witch, The"},
+				{"searchTerm": "Legend of Dark Witch, The - Chronicle 2D ACT"}
+			]
+		},
+		{
+			"group": "Legend of Zelda, The - The Minish Cap",
+			"titles": [
+				{"searchTerm": "Legend of Zelda, The - The Minish Cap"},
+				{"searchTerm": "Zelda no Densetsu - Fushigi no Boushi"}
+			]
+		},
+		{
+			"group": "Luigi's Mansion - Dark Moon",
+			"titles": [
+				{"searchTerm": "Luigi's Mansion - Dark Moon"},
+				{"searchTerm": "Luigi's Mansion 2"}
+			]
+		},
+		{
+			"group": "Mario Kart - Super Circuit",
+			"titles": [
+				{"searchTerm": "Mario Kart - Super Circuit"},
+				{"searchTerm": "Mario Kart Advance"}
+			]
+		},
+		{
+			"group": "Mario and Donkey Kong - Minis on the Move",
+			"titles": [
+				{"searchTerm": "Mario and Donkey Kong - Mini Mini Carnival"},
+				{"searchTerm": "Mario and Donkey Kong - Minis on the Move"}
+			]
+		},
+		{
+			"group": "Mutant Mudds",
+			"titles": [
+				{"searchTerm": "Mud Attack! Max vs Dorodoro Seijin"},
+				{"searchTerm": "Mutant Mudds"}
+			]
+		},
+		{
+			"group": "New Super Mario Bros. 2",
+			"titles": [
+				{"searchTerm": "New Super Mario Bros. 2"}
+			],
+			"supersets": [
+				{"searchTerm": "New Super Mario Bros. 2 Gold Edition"},
+				{"searchTerm": "New Super Mario Bros. 2 Special Edition"}
+			]
+		},
+		{
+			"group": "Ninja Usagimaru - The Gem of Blessings",
+			"titles": [
+				{"searchTerm": "Ninja Usagimaru - The Gem of Blessings"},
+				{"searchTerm": "Shippuu no Usagi-Maru - Megumi no Tama to Fuuma no Shirushi"}
+			]
+		},
+		{
+			"group": "Nintendo Badge Arcade",
+			"titles": [
+				{"searchTerm": "Home Menu ni Kazareru Badge Toreru Center"},
+				{"searchTerm": "Nintendo Badge Arcade"}
+			]
+		},
+		{
+			"group": "Photos with Animal Crossing",
+			"titles": [
+				{"searchTerm": "Isshoni Photo Doubutsu no Mori"},
+				{"searchTerm": "Photos with Animal Crossing"}
+			]
+		},
+		{
+			"group": "Photos with Mario",
+			"titles": [
+				{"searchTerm": "Isshoni Photo Super Mario"},
+				{"searchTerm": "Photos with Mario"}
+			]
+		},
+		{
+			"group": "Pocket Card Jockey",
+			"titles": [
+				{"searchTerm": "Pocket Card Jockey"},
+				{"searchTerm": "SolitiBa"}
+			]
+		},
+		{
+			"group": "Pokedex 3D",
+			"titles": [
+				{"searchTerm": "Pokedex 3D"},
+				{"searchTerm": "Pokedex", "priority": 2}
+			]
+		},
+		{
+			"group": "Pokemon Link - Battle!",
+			"titles": [
+				{"searchTerm": "Pokemon Battle Trozei"},
+				{"searchTerm": "Pokemon Link - Battle!"}
+			]
+		},
+		{
+			"group": "Proun+",
+			"titles": [
+				{"searchTerm": "Loop Line Racing"},
+				{"searchTerm": "Proun+"}
+			]
+		},
+		{
+			"group": "Pushmo",
+			"titles": [
+				{"searchTerm": "Hikuosu"},
+				{"searchTerm": "Pullblox"},
+				{"searchTerm": "Pushmo"}
+			]
+		},
+		{
+			"group": "PUZZLEBOX setup",
+			"titles": [
+				{"searchTerm": "Puzzle Bottle"},
+				{"searchTerm": "PUZZLEBOX setup"}
+			]
+		},
+		{
+			"group": "Quell Memento",
+			"titles": [
+				{"searchTerm": "Quell Memento"},
+				{"searchTerm": "Shizuku Memory"}
+			]
+		},
+		{
+			"group": "Rabi Laby 3",
+			"titles": [
+				{"searchTerm": "Rabi Laby 3"},
+				{"searchTerm": "Rabi x Rabi - Episode 3"}
+			]
+		},
+		{
+			"group": "Sadame",
+			"titles": [
+				{"searchTerm": "Ishi Sengokuden Sadame"},
+				{"searchTerm": "Sadame"}
+			]
+		},
+		{
+			"group": "Sakura Samurai - Art of the Sword",
+			"titles": [
+				{"searchTerm": "Hana Samurai - Art of the Sword"},
+				{"searchTerm": "Sakura Samurai - Art of the Sword"}
+			]
+		},
+		{
+			"group": "Shovel Knight",
+			"titles": [
+				{"searchTerm": "Shovel Knight"}
+			],
+			"supersets": [
+				{"searchTerm": "Shovel Knight + Shovel Knight - Plague of Shadows"}
+			]
+		},
+		{
+			"group": "Skater Cat",
+			"titles": [
+				{"searchTerm": "peakvox - Mew Mew Train"},
+				{"searchTerm": "Skater Cat"}
+
+			]
+		},
+		{
+			"group": "SmileBASIC",
+			"titles": [
+				{"searchTerm": "Puchikon No. 3 SmileBASIC"},
+				{"searchTerm": "SmileBASIC"}
+			]
+		},
+		{
+			"group": "Soccer Up Online",
+			"titles": [
+				{"searchTerm": "Football Up Online"},
+				{"searchTerm": "Soccer Up Online"}
+			]
+		},
+		{
+			"group": "Sparkle Snapshots 3D",
+			"titles": [
+				{"searchTerm": "Deco Photo 3D"},
+				{"searchTerm": "Foto-Zauber 3D"},
+				{"searchTerm": "Sparkle Snapshots 3D"}
+			]
+		},
+		{
+			"group": "Stretchmo",
+			"titles": [
+				{"searchTerm": "Fullblox"},
+				{"searchTerm": "Hikudasu - Hippa Land"},
+				{"searchTerm": "Stretchmo"}
+			]
+		},
+		{
+			"group": "Swapnote",
+			"titles": [
+				{"searchTerm": "Nintendo Letter Box"},
+				{"searchTerm": "Swapnote"}
+			]
+		},
+		{
+			"group": "Tangram Attack",
+			"titles": [
+				{"searchTerm": "Tangram Attack"},
+				{"searchTerm": "Tangram Style"}
+			]
+		},
+		{
+			"group": "THE DENPA MEN - They Came By Wave",
+			"titles": [
+				{"searchTerm": "DENPA MEN, The - They Came By Wave"},
+				{"searchTerm": "Denpa Ningen no RPG"},
+				{"searchTerm": "THE DENPA MEN - They Came By Wave"}
+			]
+		},
+		{
+			"group": "THE DENPA MEN 3 - The Rise of Digitoll",
+			"titles": [
+				{"searchTerm": "Denpa Ningen no RPG 3"},
+				{"searchTerm": "THE DENPA MEN 3 - The Rise of Digitoll"}
+			]
+		},
+		{
+			"group": "Thorium Wars - Attack of the Skyfighter",
+			"titles": [
+				{"searchTerm": "Sky Fighters - Thorium Sensou, The"},
+				{"searchTerm": "Thorium Wars - Attack of the Skyfighter"}
+			]
+		},
+		{
+			"group": "Tokyo Crash Mobs",
+			"titles": [
+				{"searchTerm": "Gyouretsu NageLoop"},
+				{"searchTerm": "Tokyo Crash Mobs"}
+			]
+		},
+		{
+			"group": "Tomodachi Life",
+			"titles": [
+				{"searchTerm": "Tomodachi Collection - Shin Seikatsu"},
+				{"searchTerm": "Tomodachi Life"}
+			]
+		},
+		{
+			"group": "Tomodachi Life - Move-In Version",
+			"titles": [
+				{"searchTerm": "Tomodachi Life - Move-In Version"},
+				{"searchTerm": "Tomodachi Life - Welcome Version"}
+			]
+		},
+		{
+			"group": "Van Helsing Sniper Zx100",
+			"titles": [
+				{"searchTerm": "Vampire Sniper"},
+				{"searchTerm": "Van Helsing Sniper Zx100"}
+			]
+		},
+		{
+			"group": "Wario Land 4",
+			"titles": [
+				{"searchTerm": "Wario Land 4"},
+				{"searchTerm": "Wario Land Advance - Youki no Otakara"}
+			]
+		},
+		{
+			"group": "WarioWare, Inc. - Mega Microgame$!",
+			"titles": [
+				{"searchTerm": "Made in Wario"},
+				{"searchTerm": "WarioWare, Inc. - Mega Microgame$!"},
+				{"searchTerm": "Wario Ware, Inc - Minigame Mania"}
+			]
+		},
+		{
+			"group": "Witch & Hero",
+			"titles": [
+				{"searchTerm": "Majo to Yuusha"},
+				{"searchTerm": "Witch & Hero"}
+			]
+		},
+		{
+			"group": "Yoshi's Island - Super Mario Advance 3",
+			"titles": [
+				{"searchTerm": "Super Mario Advance 3 - Yoshi's Island + Mario Brothers"},
+				{"searchTerm": "Yoshi's Island - Super Mario Advance 3"}
+			]
+		},
+		{
+			"group": "Yumi's Odd Odyssey",
+			"titles": [
+				{"searchTerm": "Sayonara Umihara Kawase"},
+				{"searchTerm": "Yumi's Odd Odyssey"}
+			]
+		},
+		{
+			"group": "Zen Pinball",
+			"titles": [
+				{"searchTerm": "Zen Pinball"},
+				{"searchTerm": "Zen Pinball 3D"}
+			]
+		}
+	]
+}

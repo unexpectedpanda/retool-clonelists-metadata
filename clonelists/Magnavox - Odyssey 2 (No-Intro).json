@@ -1,0 +1,242 @@
+{
+	"description": {
+		"name": "Magnavox - Odyssey 2 (No-Intro)",
+		"lastUpdated": "9 January 2023",
+		"minimumVersion": "2.00"
+	},
+
+	"variants": [
+		{
+			"group": "4 in 1 Row",
+			"titles": [
+				{"searchTerm": "4 en 1 Ligne"},
+				{"searchTerm": "4 in 1 Row"}
+			]
+		},
+		{
+			"group": "Alpine Skiing",
+			"titles": [
+				{"searchTerm": "Alpine Skiing"},
+				{"searchTerm": "Skiing"}
+			]
+		},
+		{
+			"group": "Blockout + Breakdown",
+			"titles": [
+				{"searchTerm": "Blockout + Breakdown"},
+				{"searchTerm": "Mur Magique, Le"}
+			]
+		},
+		{
+			"group": "Bowling + Basketball",
+			"titles": [
+				{"searchTerm": "Bowling + Basketball"},
+				{"searchTerm": "Jeu de Quilles + Basketball", "priority": 2}
+			]
+		},
+		{
+			"group": "Casino Slot Machine",
+			"titles": [
+				{"searchTerm": "Casino Slot Machine"},
+				{"searchTerm": "Las Vegas"}
+			]
+		},
+		{
+			"group": "Catch the Ball + Noughts and Crosses",
+			"titles": [
+				{"searchTerm": "Catch the Ball + Noughts and Crosses"},
+				{"searchTerm": "O Malabarista + Jogo da Velha"}
+			]
+		},
+		{
+			"group": "Chinese Logic",
+			"titles": [
+				{"searchTerm": "Chinese Logic"},
+				{"searchTerm": "Desafio Chines"}
+			]
+		},
+		{
+			"group": "Computer Golf",
+			"titles": [
+				{"searchTerm": "Computer Golf"},
+				{"searchTerm": "Golf"}
+			]
+		},
+		{
+			"group": "Computer Intro",
+			"titles": [
+				{"searchTerm": "Computer Intro"},
+				{"searchTerm": "Computer Programmer"}
+			]
+		},
+		{
+			"group": "Cosmic Conflict",
+			"titles": [
+				{"searchTerm": "Conflit Cosmique"},
+				{"searchTerm": "Cosmic Conflict"}
+			]
+		},
+		{
+			"group": "Depth Charge + Marksman",
+			"titles": [
+				{"searchTerm": "Bombardeio Submarino + Tiro ao Alvo"},
+				{"searchTerm": "Depth Charge + Marksman"}
+			]
+		},
+		{
+			"group": "Dynasty",
+			"titles": [
+				{"searchTerm": "Dynasty"},
+				{"searchTerm": "Samurai"}
+			]
+		},
+		{
+			"group": "Great Wall Street Fortune Hunt, The",
+			"titles": [
+				{"searchTerm": "Great Wall Street Fortune Hunt, The"},
+				{"searchTerm": "Wall Street"}
+			]
+		},
+		{
+			"group": "Hockey + Soccer",
+			"titles": [
+				{"searchTerm": "Football Electronique + Hockey Electronique"},
+				{"searchTerm": "Hockey + Soccer"}
+			]
+		},
+		{
+			"group": "Invaders from Hyperspace",
+			"titles": [
+				{"searchTerm": "Guerre Laser"},
+				{"searchTerm": "Invaders from Hyperspace"},
+				{"searchTerm": "Laser War"}
+			]
+		},
+		{
+			"group": "K.C. Munchkin",
+			"titles": [
+				{"searchTerm": "K.C. Munchkin"},
+				{"searchTerm": "Munchkin"}
+			]
+		},
+		{
+			"group": "Keyboard Creations",
+			"titles": [
+				{"searchTerm": "Keyboard Creations"},
+				{"searchTerm": "Newscaster"}
+			]
+		},
+		{
+			"group": "Las Vegas Blackjack",
+			"titles": [
+				{"searchTerm": "Blackjack"},
+				{"searchTerm": "Las Vegas Blackjack"}
+			]
+		},
+		{
+			"group": "Math-A-Magic + Echo",
+			"titles": [
+				{"searchTerm": "Math-A-Magic + Echo"},
+				{"searchTerm": "Mathematicien + Echo"}
+			]
+		},
+		{
+			"group": "Neutron Star",
+			"titles": [
+				{"searchTerm": "Buraco Negro"},
+				{"searchTerm": "Neutron Star"}
+			]
+		},
+		{
+			"group": "Nightfighter",
+			"titles": [
+				{"searchTerm": "Comando Noturno"},
+				{"searchTerm": "Nightfighter"}
+			]
+		},
+		{
+			"group": "P.T. Barnum's Acrobats",
+			"titles": [
+				{"searchTerm": "Jumping Acrobats"},
+				{"searchTerm": "P.T. Barnum's Acrobats"}
+			]
+		},
+		{
+			"group": "Pocket Billiards",
+			"titles": [
+				{"searchTerm": "Billiard Americain"},
+				{"searchTerm": "Pocket Billiards"}
+			]
+		},
+		{
+			"group": "Quest for the Rings",
+			"titles": [
+				{"searchTerm": "La Quete des Anneaux"},
+				{"searchTerm": "Quest for the Rings"}
+			]
+		},
+		{
+			"group": "Secret of the Pharaohs",
+			"titles": [
+				{"searchTerm": "O Segredo do Farao"},
+				{"searchTerm": "Secret of the Pharaohs"}
+			]
+		},
+		{
+			"group": "Showdown in 2100 A.D.",
+			"titles": [
+				{"searchTerm": "Gunfighter"},
+				{"searchTerm": "Showdown in 2100 A.D."}
+			]
+		},
+		{
+			"group": "Smithereens",
+			"titles": [
+				{"searchTerm": "Smithereens"},
+				{"searchTerm": "Stone Sling"}
+			]
+		},
+		{
+			"group": "Speedway + Spin-out + Crypto-logic",
+			"titles": [
+				{"searchTerm": "Course de Voitures + Autodrome + Cryptogramme"},
+				{"searchTerm": "Speedway + Spin-out + Crypto-logic"}
+			]
+		},
+		{
+			"group": "Take the Money and Run",
+			"titles": [
+				{"searchTerm": "Prendre l'Argent et Fuir"},
+				{"searchTerm": "Take the Money and Run"}
+			]
+		},
+		{
+			"group": "Thunderball",
+			"titles": [
+				{"searchTerm": "Billard Electrique"},
+				{"searchTerm": "Thunderball"}
+			]
+		},
+		{
+			"group": "UFO",
+			"titles": [
+				{"searchTerm": "Satellite Attack"},
+				{"searchTerm": "UFO"}
+			]
+		},
+		{
+			"group": "Verkehrsspiele 1",
+			"titles": [
+				{"searchTerm": "Verkehrsspiele 1"},
+				{"searchTerm": "Kinder im Verkehr 1", "priority": 2}
+			]
+		},
+		{
+			"group": "Volleyball",
+			"titles": [
+				{"searchTerm": "Volleyball"},
+				{"searchTerm": "Volleyball Electronique"}
+			]
+		}
+	]
+}

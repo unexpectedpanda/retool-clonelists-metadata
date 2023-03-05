@@ -1,0 +1,45 @@
+{
+	"description": {
+		"name": "Atari - Jaguar (No-Intro)",
+		"lastUpdated": "9 January 2023",
+		"minimumVersion": "2.00"
+	},
+
+	"variants": [
+		{
+			"group": "Battle Sphere Gold",
+			"titles": [
+				{"searchTerm": "Battle Sphere Gold"},
+				{"searchTerm": "Battle Sphere", "priority": 2}
+			]
+		},
+		{
+			"group": "Checkered Flag",
+			"titles": [
+				{"searchTerm": "Checkered Flag"},
+				{"searchTerm": "Checkered Flag (CES 1993)", "priority": 2}
+			]
+		},
+		{
+			"group": "Missile Command 3D",
+			"titles": [
+				{"searchTerm": "Missile Command 3D"},
+				{"searchTerm": "Missile Command VR", "priority": 2}
+			]
+		},
+		{
+			"group": "Protector",
+			"titles": [
+				{"searchTerm": "Protector - Special Edition"},
+				{"searchTerm": "Protector", "priority": 2}
+			]
+		},
+		{
+			"group": "Ultra Vortek",
+			"titles": [
+				{"searchTerm": "Ultra Vortek"},
+				{"searchTerm": "Ultra Vortex", "priority": 2}
+			]
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"description": {
+		"name": "NEC - PC-98 series (Redump)",
+		"lastUpdated": "11 January 2023",
+		"minimumVersion": "2.00"
+	},
+
+	"mias": [
+		"Logicool Mouseware 8.2J (Japan) (En,Ja)"
+	],
+
+	"variants": [
+		{
+			"group": "Brandish",
+			"titles": [
+				{"searchTerm": "Brandish"}
+			],
+			"supersets": [
+				{"searchTerm": "Brandish Renewal"}
+			]
+		},
+		{
+			"group": "Brandish 2 - The Planet Buster",
+			"titles": [
+				{"searchTerm": "Brandish 2 - The Planet Buster"}
+			],
+			"supersets": [
+				{"searchTerm": "Brandish 2 Renewal - The Planet Buster"}
+			]
+		}
+	]
+}

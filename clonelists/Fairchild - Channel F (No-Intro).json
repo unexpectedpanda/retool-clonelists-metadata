@@ -1,0 +1,34 @@
+{
+	"description": {
+		"name": "Fairchild - Channel F (No-Intro)",
+		"lastUpdated": "9 January 2023",
+		"minimumVersion": "2.00"
+	},
+
+	"categories": [
+		{
+			"searchTerm": "^Demonstration Cartridge( [0-9])?",
+			"nameType": "regex",
+			"categories": ["Demos"]
+		}
+	],
+
+	"variants": [
+		{
+			"group": "Hangman",
+			"titles": [
+				{"searchTerm": "Hangman"},
+				{"searchTerm": "Ordtaevling"},
+				{"searchTerm": "Rat' Mal"}
+			]
+
+		},
+		{
+			"group": "Tic-Tac-Toe, Shooting Gallery, Doodle, Quadra-Doodle",
+			"titles": [
+				{"searchTerm": "Muehle, Tontauben-Schiessen, Kreatives Malspiel, Videoscope"},
+				{"searchTerm": "Tic-Tac-Toe, Shooting Gallery, Doodle, Quadra-Doodle"}
+			]
+		}
+	]
+}

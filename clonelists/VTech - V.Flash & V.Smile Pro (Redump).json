@@ -1,0 +1,81 @@
+{
+	"description": {
+		"name": "VTech - V.Flash & V.Smile Pro (Redump)",
+		"lastUpdated": "11 September 2021",
+		"minimumVersion": "2.00"
+	},
+
+	"variants": [
+		{
+			"group": "Amazing Spider-Man, The - Countdown to Doom",
+			"titles": [
+				{"searchTerm": "Amazing Spider-Man, The - Countdown to Doom"},
+				{"searchTerm": "Asombroso Spider-Man, El - Persecucion en la Ciudad"},
+				{"searchTerm": "Spider-Man - Angriff der Super-Schurken"},
+				{"searchTerm": "Spider-Man Course-Poursuite a Manhattan"}
+			]
+		},
+		{
+			"group": "Bratz - Fashion Pixiez - The Secret Necklace",
+			"titles": [
+				{"searchTerm": "Bratz - El Misterio del Collar"},
+				{"searchTerm": "Bratz - Fashion Pixiez - The Secret Necklace"}
+			]
+		},
+		{
+			"group": "Cars - In the Fast Lane",
+			"titles": [
+				{"searchTerm": "Cars - Auf der Ueberholspur"},
+				{"searchTerm": "Cars - El Carril Rapido"},
+				{"searchTerm": "Cars - In the Fast Lane"}
+			]
+		},
+		{
+			"group": "Disney Princess - The Crystal Ball Adventure",
+			"titles": [
+				{"searchTerm": "Disney Princess - Das Zauberhafte Maerchen-Abenteuer"},
+				{"searchTerm": "Disney Princess - El Castillo de las Princesas"},
+				{"searchTerm": "Disney Princess - The Crystal Ball Adventure"}
+			]
+		},
+		{
+			"group": "Incredibles, The - Mission Incredible",
+			"titles": [
+				{"searchTerm": "Incredibles, The - Mission Incredible"},
+				{"searchTerm": "Increibles, Los - Mision Increible"},
+				{"searchTerm": "Unglaublichen, Die (The Incredibles) - In Unglaublicher Mission"}
+			]
+		},
+		{
+			"group": "Nickelodeon SpongeBob SquarePants - Idea Sponge",
+			"titles": [
+				{"searchTerm": "Nick SpongeBob Schwammkopf - Ein Schwamm Voller Ideen"},
+				{"searchTerm": "Nickelodeon Bob Esponja - Mision Esponja"},
+				{"searchTerm": "Nickelodeon SpongeBob SquarePants - Idea Sponge"}
+			]
+		},
+		{
+			"group": "Scooby-Doo! Ancient Adventure",
+			"titles": [
+				{"searchTerm": "Scooby-Doo! Ancient Adventure"},
+				{"searchTerm": "Scooby-Doo - Viaje al Pasado"}
+			]
+		},
+		{
+			"group": "Shrek the Third - The Search for Arthur",
+			"titles": [
+				{"searchTerm": "Shrek der Dritte - Die Suche nach Arthus"},
+				{"searchTerm": "Shrek Tercero - Donde Esta Arturo"},
+				{"searchTerm": "Shrek the Third - The Search for Arthur"}
+			]
+		},
+		{
+			"group": "Wacky Race on Jumpin' Bean Island",
+			"titles": [
+				{"searchTerm": "Carrera Loca en la Isla de las Vainas Fritas"},
+				{"searchTerm": "Verrueckte Rennen der Huepf-Bohnen Insel, Das"},
+				{"searchTerm": "Wacky Race on Jumpin' Bean Island"}
+			]
+		}
+	]
+}

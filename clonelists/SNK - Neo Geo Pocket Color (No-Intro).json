@@ -1,0 +1,95 @@
+{
+	"description": {
+		"name": "SNK Neo Geo Pocket Color (No-Intro)",
+		"lastUpdated": "22 January 2023",
+		"minimumVersion": "2.00"
+	},
+
+	"categories": [
+		{
+			"searchTerm": "PP-AA01 - Pusher - Program - Hontai Controller Gawa",
+			"nameType": "short",
+			"categories": ["Applications"]
+		}
+	],
+
+	"variants": [
+		{
+			"group": "Big Bang Pro Wrestling",
+			"titles": [
+				{"searchTerm": "Big Bang Pro Wrestling"},
+				{"searchTerm": "Wrestling Madness", "priority": 2}
+			]
+		},
+		{
+			"group": "Bust-A-Move Pocket",
+			"titles": [
+				{"searchTerm": "Bust-A-Move Pocket"},
+				{"searchTerm": "Puzzle Bobble Mini"}
+			]
+		},
+		{
+			"group": "Dive Alert - Becky's Version",
+			"titles": [
+				{"searchTerm": "Dive Alert - Becky's Version"},
+				{"searchTerm": "Dive Alert - Rebecca Hen"}
+			]
+		},
+		{
+			"group": "Dive Alert - Matt's Version",
+			"titles": [
+				{"searchTerm": "Dive Alert - Burn Hen"},
+				{"searchTerm": "Dive Alert - Matt's Version"}
+			]
+		},
+		{
+			"group": "Evolution - Eternal Dungeons",
+			"titles": [
+				{"searchTerm": "Evolution - Eternal Dungeons"},
+				{"searchTerm": "Shinki Sekai Evolution - Hateshinai Dungeon"}
+			]
+		},
+		{
+			"group": "Last Blade, The - Beyond the Destiny",
+			"titles": [
+				{"searchTerm": "Bakumatsu Rouman Tokubetsu Hen - Gekka no Kenshi - Tsuki ni Saku Hana, Chiri Yuku Hana"},
+				{"searchTerm": "Last Blade, The - Beyond the Destiny"}
+			]
+		},
+		{
+			"group": "Picture Puzzle",
+			"titles": [
+				{"searchTerm": "Oekaki Puzzle"},
+				{"searchTerm": "Picture Puzzle"}
+			]
+		},
+		{
+			"group": "Puzzle Link",
+			"titles": [
+				{"searchTerm": "Puzzle Link"},
+				{"searchTerm": "Renketsu Puzzle Tsunagete Pon! Color"}
+			]
+		},
+		{
+			"group": "Puzzle Link 2",
+			"titles": [
+				{"searchTerm": "Puzzle Link 2"},
+				{"searchTerm": "Tsunagete Pon! 2"}
+			]
+		},
+		{
+			"group": "SNK vs. Capcom - Card Fighters' Clash - Capcom Version",
+			"titles": [
+				{"searchTerm": "SNK vs. Capcom - Card Fighters' Clash - Capcom Version"},
+				{"searchTerm": "SNK vs. Capcom - Gekitotsu Card Fighters - Capcom Supporter Version"}
+			]
+		},
+		{
+			"group": "SNK vs. Capcom - Card Fighters' Clash - SNK Version",
+			"titles": [
+				{"searchTerm": "SNK vs. Capcom - Card Fighters' Clash - SNK Version"},
+				{"searchTerm": "SNK vs. Capcom - Gekitotsu Card Fighters - SNK Supporter Version"}
+			]
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"description": {
+		"name": "Commodore - Amiga CD (Redump)",
+		"lastUpdated": "9 January 2023",
+		"minimumVersion": "2.00"
+	},
+
+	"mias": [
+		"Amiga OS 4.0 Developer Pre-Release (USA)",
+		"Astro Blox Revisited (Poland)",
+		"ZGR3D (Poland)"
+	],
+
+	"variants": [
+		{
+			"group": "Reflections 4.2",
+			"titles": [
+				{"searchTerm": "Reflections 4.2"},
+				{"searchTerm": "Reflections 4", "priority": 2},
+				{"searchTerm": "Reflections 3.0 Zubehoer", "priority": 3}
+			]
+		}
+	]
+}

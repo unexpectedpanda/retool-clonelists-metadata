@@ -1,0 +1,51 @@
+{
+	"description": {
+		"name": "Nintendo - Pokemon Mini (No-Intro)",
+		"lastUpdated": "21 January 2023",
+		"minimumVersion": "2.00"
+	},
+
+	"overrides": [
+		{
+			"searchTerm": "Pokemon Pinball Mini (USA) (GameCube Preview)",
+			"nameType": "full",
+			"newGroup": "Pokemon Pinball Mini USA GameCube Preview"
+		},
+		{
+			"searchTerm": "^Pokemon Puzzle Collection \\((USA|France|Germany)\\) \\(GameCube Preview\\)",
+			"nameType": "regex",
+			"newGroup": "Pokemon Puzzle Collection GameCube Preview"
+		}
+	],
+
+	"variants": [
+		{
+			"group": "Pokemon Party Mini - Rocket Start",
+			"titles": [
+				{"searchTerm": "Pokemon Party Mini - Pikachu's Rocket Start"},
+				{"searchTerm": "Pokemon Party Mini - Rocket Start"}
+			]
+		},
+		{
+			"group": "Pokemon Tetris",
+			"titles": [
+				{"searchTerm": "Pokemon Shock Tetris"},
+				{"searchTerm": "Pokemon Tetris"}
+			]
+		},
+		{
+			"group": "Pokemon Zany Cards",
+			"titles": [
+				{"searchTerm": "Pokemon Anime Card Daisakusen"},
+				{"searchTerm": "Pokemon Zany Cards"}
+			]
+		},
+		{
+			"group": "Lunch Time",
+			"titles": [
+				{"searchTerm": "Lunch Time"},
+				{"searchTerm": "Snorlax's Lunch Time"}
+			]
+		}
+	]
+}

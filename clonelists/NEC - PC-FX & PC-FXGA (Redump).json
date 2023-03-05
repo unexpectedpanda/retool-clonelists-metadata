@@ -1,0 +1,20 @@
+{
+	"description": {
+		"name": "NEC - PC-FX & PC-FXGA (Redump)",
+		"lastUpdated": "9 January 2023",
+		"minimumVersion": "0.92"
+	},
+
+	"categories": [
+		{
+			"searchTerm": "^Amateur Teikyou CD-ROM \\(Japan\\).*",
+			"nameType": "regex",
+			"categories": ["Demos"]
+		},
+		{
+			"searchTerm": "^AnimeFreak FX Vol. [0-9](.*)?",
+			"nameType": "regex",
+			"categories": ["Video"]
+		}
+	]
+}

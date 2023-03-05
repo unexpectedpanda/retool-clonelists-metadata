@@ -1,0 +1,33 @@
+{
+	"description": {
+		"name": "Sega - 32X (No-Intro)",
+		"lastUpdated": "21 January 2023",
+		"minimumVersion": "2.00"
+	},
+
+	"categories": [
+		{
+			"searchTerm": "Time Warner 32X CMD Download Cartridge",
+			"nameType": "short",
+			"categories": ["Applications"]
+		}
+	],
+
+	"variants": [
+		{
+			"group": "Doom",
+			"titles": [
+				{"searchTerm": "Doom"},
+				{"searchTerm": "Doom RR", "priority": 2}
+			]
+		},
+		{
+			"group": "Zaxxon's Motherbase 2000",
+			"titles": [
+				{"searchTerm": "Motherbase"},
+				{"searchTerm": "Zaxxon's Motherbase"},
+				{"searchTerm": "Zaxxon's Motherbase 2000"}
+			]
+		}
+	]
+}

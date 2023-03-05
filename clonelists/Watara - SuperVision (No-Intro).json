@@ -1,0 +1,79 @@
+{
+	"description": {
+		"name": "Watara - SuperVision (No-Intro)",
+		"lastUpdated": "28 January 2023",
+		"minimumVersion": "0.92"
+	},
+
+	"categories": [
+		{
+			"searchTerm": "TV-Link",
+			"nameType": "short",
+			"categories": ["BIOS"]
+		}
+	],
+
+	"variants": [
+		{
+			"group": "Block Buster",
+			"titles": [
+				{"searchTerm": "Block Buster"}
+			],
+			"compilations": [
+				{"searchTerm": "2 in 1 - Block Buster + Cross High", "titlePosition": 1}
+			]
+		},
+		{
+			"group": "Brain Power",
+			"titles": [
+				{"searchTerm": "Brain Power"}
+			],
+			"compilations": [
+				{"searchTerm": "4 in 1 - Hash Block + Challenger Tank + Brain Power + Jacky Lucky", "titlePosition": 3}
+			]
+		},
+		{
+			"group": "Challenger Tank",
+			"titles": [
+				{"searchTerm": "Challenger Tank"}
+			],
+			"compilations": [
+				{"searchTerm": "4 in 1 - Hash Block + Challenger Tank + Brain Power + Jacky Lucky", "titlePosition": 2}
+			]
+		},
+		{
+			"group": "Cross High",
+			"titles": [
+				{"searchTerm": "Cross High"}
+			],
+			"compilations": [
+				{"searchTerm": "2 in 1 - Block Buster + Cross High", "titlePosition": 2}
+			]
+		},
+		{
+			"group": "Eagle Plan",
+			"compilations": [
+				{"searchTerm": "2 in 1 - Hash Blocks + Eagle Plan", "titlePosition": 2}
+			]
+		},
+		{
+			"group": "Hash Blocks",
+			"titles": [
+				{"searchTerm": "Hash Blocks"}
+			],
+			"compilations": [
+				{"searchTerm": "2 in 1 - Hash Blocks + Eagle Plan", "titlePosition": 1},
+				{"searchTerm": "4 in 1 - Hash Block + Challenger Tank + Brain Power + Jacky Lucky", "titlePosition": 1}
+			]
+		},
+		{
+			"group": "Jacky Lucky",
+			"titles": [
+				{"searchTerm": "Jacky Lucky"}
+			],
+			"compilations": [
+				{"searchTerm": "4 in 1 - Hash Block + Challenger Tank + Brain Power + Jacky Lucky", "titlePosition": 4}
+			]
+		}
+	]
+}

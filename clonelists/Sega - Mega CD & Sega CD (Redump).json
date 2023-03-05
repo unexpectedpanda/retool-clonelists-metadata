@@ -1,0 +1,376 @@
+{
+	"description": {
+		"name": "Sega - Mega CD & Sega CD (Redump)",
+		"lastUpdated": "21 January 2023",
+		"minimumVersion": "2.00"
+	},
+
+	"categories": [
+		{
+			"searchTerm": "^Make My Video.*?(Beta)",
+			"nameType": "regex",
+			"categories": ["Multimedia", "Preproduction"]
+		},
+		{
+			"searchTerm": "What is X'Eye Multi Entertainment System",
+			"match": "short",
+			"categories": ["Demos"]
+		}
+	],
+
+	"variants": [
+		{
+			"group": "A-X-101",
+			"titles": [
+				{"searchTerm": "A-X-101"},
+				{"searchTerm": "AX-101"}
+			]
+		},
+		{
+			"group": "AH3 - Thunderstrike",
+			"titles": [
+				{"searchTerm": "AH3 - Thunderstrike"},
+				{"searchTerm": "Thunderhawk"}
+			]
+		},
+		{
+			"group": "Android Assault - The Revenge of Bari-Arm",
+			"titles": [
+				{"searchTerm": "Android Assault - The Revenge of Bari-Arm"},
+				{"searchTerm": "Bari-Arm"}
+			]
+		},
+		{
+			"group": "Battle Frenzy",
+			"titles": [
+				{"searchTerm": "Battle Frenzy"},
+				{"searchTerm": "Bloodshot ~ Battle Frenzy"}
+			]
+		},
+		{
+			"group": "Blackhole Assault",
+			"titles": [
+				{"searchTerm": "Black Hole Assault"},
+				{"searchTerm": "Blackhole Assault"}
+			]
+		},
+		{
+			"group": "Championship Soccer '94",
+			"titles": [
+				{"searchTerm": "Championship Soccer '94"},
+				{"searchTerm": "Sensible Soccer"}
+			]
+		},
+		{
+			"group": "Cobra Command",
+			"titles": [
+				{"searchTerm": "Cobra Command"},
+				{"searchTerm": "Thunder Storm FX"}
+			]
+		},
+		{
+			"group": "Corpse Killer",
+			"titles": [
+				{"searchTerm": "Corpse Killer"}
+			],
+			"supersets": [
+				{"searchTerm": "^Corpse Killer.*\\([SM]ega[ -]CD 32X\\)", "nameType": "regex"}
+			]
+		},
+		{
+			"group": "Dark Wizard",
+			"titles": [
+				{"searchTerm": "Dark Wizard"},
+				{"searchTerm": "Dark Wizard - Yomigaerishi Yami no Madoushi"}
+			]
+		},
+		{
+			"group": "Ecco the Dolphin",
+			"titles": [
+				{"searchTerm": "Ecco the Dolphin"},
+				{"searchTerm": "Ecco the Dolphin CD (Disc 1) (Ecco the Dolphin)"}
+			]
+		},
+		{
+			"group": "Ecco - The Tides of Time",
+			"titles": [
+				{"searchTerm": "Ecco - The Tides of Time"},
+				{"searchTerm": "Ecco the Dolphin CD (Disc 2) (Ecco the Dolphin II)"}
+			]
+		},
+		{
+			"group": "Fahrenheit (Disc 1) (Key Disc) (Sega CD)",
+			"titles": [
+				{"searchTerm": "Fahrenheit"},
+				{"searchTerm": "Fahrenheit (Disc 1) (Key Disc) (Sega CD)"}
+			]
+		},
+		{
+			"group": "Fatal Fury Special",
+			"titles": [
+				{"searchTerm": "Fatal Fury Special"},
+				{"searchTerm": "Garou Densetsu Special"}
+			]
+		},
+		{
+			"group": "FIFA International Soccer",
+			"titles": [
+				{"searchTerm": "FIFA International Soccer"},
+				{"searchTerm": "FIFA International Soccer - Championship Edition"}
+			]
+		},
+		{
+			"group": "Formula One World Championship - Beyond the Limit",
+			"titles": [
+				{"searchTerm": "Formula One World Championship - Beyond the Limit"},
+				{"searchTerm": "Heavenly Symphony - Formula One World Championship 1993"}
+			]
+		},
+		{
+			"group": "Keio Flying Squadron",
+			"titles": [
+				{"searchTerm": "Keio Flying Squadron"},
+				{"searchTerm": "Keiou Yuugekitai"}
+			]
+		},
+		{
+			"group": "Lethal Enforcers II - Gun Fighters",
+			"titles": [
+				{"searchTerm": "Lethal Enforcers II - Gun Fighters"},
+				{"searchTerm": "Lethal Enforcers II - The Western"}
+			]
+		},
+		{
+			"group": "Mansion of Hidden Souls",
+			"titles": [
+				{"searchTerm": "Mansion of Hidden Souls"},
+				{"searchTerm": "Yumemi Mystery Mansion"},
+				{"searchTerm": "Yumemi Yakata no Monogatari"}
+			]
+		},
+		{
+			"group": "Marko",
+			"titles": [
+				{"searchTerm": "Marko"}
+			],
+			"supersets": [
+				{"searchTerm": "Marko's Magic Football"}
+			]
+		},
+		{
+			"group": "Masked Rider, The - Kamen Rider ZO",
+			"titles": [
+				{"searchTerm": "Kamen Rider ZO"},
+				{"searchTerm": "Masked Rider, The - Kamen Rider ZO"}
+			]
+		},
+		{
+			"group": "Mickey Mania - The Timeless Adventures of Mickey Mouse",
+			"titles": [
+				{"searchTerm": "Mickey Mania"},
+				{"searchTerm": "Mickey Mania - The Timeless Adventures of Mickey Mouse"}
+			]
+		},
+		{
+			"group": "Mortal Kombat",
+			"titles": [
+				{"searchTerm": "Mortal Kombat"},
+				{"searchTerm": "Mortal Kombat Kanzenban"}
+			]
+		},
+		{
+			"group": "NHL '94",
+			"titles": [
+				{"searchTerm": "NHL '94"},
+				{"searchTerm": "NHL Hockey '94"}
+			]
+		},
+		{
+			"group": "Night Trap (Disc 1)",
+			"titles": [
+				{"searchTerm": "Night Trap (Disc 1)"}
+			],
+			"supersets": [
+				{"searchTerm": "^Night Trap.*\\(Disc 1\\) \\([SM]ega[ -]CD 32X\\)", "nameType": "regex"}
+			]
+		},
+		{
+			"group": "Night Trap (Disc 2)",
+			"titles": [
+				{"searchTerm": "Night Trap (Disc 2)"}
+			],
+			"supersets": [
+				{"searchTerm": "^Night Trap.*\\(Disc 2\\) \\([SM]ega[ -]CD 32X\\)", "nameType": "regex"}
+			]
+		},
+		{
+			"group": "Panic!",
+			"titles": [
+				{"searchTerm": "Panic!"},
+				{"searchTerm": "Switch"}
+			]
+		},
+		{
+			"group": "Popful Mail",
+			"titles": [
+				{"searchTerm": "Popful Mail"},
+				{"searchTerm": "PopfulMail"}
+			]
+		},
+		{
+			"group": "Power Monger",
+			"titles": [
+				{"searchTerm": "Power Monger"},
+				{"searchTerm": "PowerMonger"}
+			]
+		},
+		{
+			"group": "Revengers of Vengeance",
+			"titles": [
+				{"searchTerm": "Battle Fantasy"},
+				{"searchTerm": "Revengers of Vengeance"}
+			]
+		},
+		{
+			"group": "Rise of the Dragon",
+			"titles": [
+				{"searchTerm": "Rise of the Dragon"},
+				{"searchTerm": "Rise of the Dragon - A Blade Hunter Mystery"}
+			]
+		},
+		{
+			"group": "Road Avenger",
+			"titles": [
+				{"searchTerm": "Road Avenger"},
+				{"searchTerm": "Road Blaster FX"}
+			]
+		},
+		{
+			"group": "Robo Aleste",
+			"titles": [
+				{"searchTerm": "Dennin Aleste - Nobunaga and His Ninja Force"},
+				{"searchTerm": "Robo Aleste"}
+			]
+		},
+		{
+			"group": "Sega Classics Arcade Collection (5-in-1)",
+			"titles": [
+				{"searchTerm": "Sega Classics Arcade Collection (5-in-1)"},
+				{"searchTerm": "Sega Classic Arcade Collection - Limited Edition", "priority": 2},
+				{"searchTerm": "Sega Classics Arcade Collection (4-in-1)", "priority": 2},
+				{"searchTerm": "Sega Classics Arcade Collection - Limited Edition", "priority": 2}
+
+			]
+		},
+		{
+			"group": "Shadow of the Beast II",
+			"titles": [
+				{"searchTerm": "Beast II"},
+				{"searchTerm": "Shadow of the Beast II"},
+				{"searchTerm": "Shadow of the Beast II - Juushin no Jubaku"}
+			]
+		},
+		{
+			"group": "Silpheed (Demo)",
+			"titles": [
+				{"searchTerm": "Silpheed (Demo) (Fixed Dump)"},
+				{"searchTerm": "Silpheed (Demo)", "priority": 2}
+			]
+		},
+		{
+			"group": "Slam City with Scottie Pippen (Disc 1) (Fingers)",
+			"titles": [
+				{"searchTerm": "Slam City with Scottie Pippen (Disc 1) (Fingers)"}
+			],
+			"supersets": [
+				{"searchTerm": "^Slam City with Scottie Pippen.*\\(Disc 1\\) \\(Fingers\\) \\([SM]ega[ -]CD 32X\\)", "nameType": "regex"}
+			]
+		},
+		{
+			"group": "Slam City with Scottie Pippen (Disc 2) (Juice)",
+			"titles": [
+				{"searchTerm": "Slam City with Scottie Pippen (Disc 2) (Juice)"}
+			],
+			"supersets": [
+				{"searchTerm": "^Slam City with Scottie Pippen.*\\(Disc 2\\) \\(Juice\\) \\([SM]ega[ -]CD 32X\\)", "nameType": "regex"}
+			]
+		},
+		{
+			"group": "Slam City with Scottie Pippen (Disc 3) (Mad Dog)",
+			"titles": [
+				{"searchTerm": "Slam City with Scottie Pippen (Disc 3) (Mad Dog)"}
+			],
+			"supersets": [
+				{"searchTerm": "^Slam City with Scottie Pippen.*\\(Disc 3\\) \\(Mad Dog\\) \\([SM]ega[ -]CD 32X\\)", "nameType": "regex"}
+			]
+		},
+		{
+			"group": "Slam City with Scottie Pippen (Disc 4) (Smash)",
+			"titles": [
+				{"searchTerm": "Slam City with Scottie Pippen (Disc 4) (Smash)"}
+			],
+			"supersets": [
+				{"searchTerm": "^Slam City with Scottie Pippen.*\\(Disc 4\\) \\(Smash\\) \\([SM]ega[ -]CD 32X\\)", "nameType": "regex"}
+			]
+		},
+		{
+			"group": "Supreme Warrior (Disc 1) (Fire & Earth)",
+			"titles": [
+				{"searchTerm": "Supreme Warrior (Disc 1)"},
+				{"searchTerm": "Supreme Warrior (Disc 1) (Fire & Earth)"}
+			],
+			"supersets": [
+				{"searchTerm": "Supreme Warrior (Disc 1) (Fire & Earth) (Sega CD 32X)"},
+				{"searchTerm": "Supreme Warrior (Disc 1) (Mega-CD 32X)"}
+			]
+		},
+		{
+			"group": "Supreme Warrior (Disc 2) (Wind & Fang Tu)",
+			"titles": [
+				{"searchTerm": "Supreme Warrior (Disc 2)"},
+				{"searchTerm": "Supreme Warrior (Disc 2) (Wind & Fang Tu)"}
+			],
+			"supersets": [
+				{"searchTerm": "Supreme Warrior (Disc 2) (Wind & Fang Tu) (Sega CD 32X)"},
+				{"searchTerm": "Supreme Warrior (Disc 2) (Mega-CD 32X)"}
+			]
+		},
+		{
+			"group": "Surgical Strike",
+			"titles": [
+				{"searchTerm": "Surgical Strike"}
+			],
+			"supersets": [
+				{"searchTerm": "Surgical Strike (Sega CD 32X)"}
+			]
+		},
+		{
+			"group": "Sonic CD",
+			"titles": [
+				{"searchTerm": "Sonic CD"},
+				{"searchTerm": "Sonic The Hedgehog CD"}
+			]
+		},
+		{
+			"group": "Third World War",
+			"titles": [
+				{"searchTerm": "IIIrd World War, The"},
+				{"searchTerm": "Third World War"}
+			]
+		},
+		{
+			"group": "Vay",
+			"titles": [
+				{"searchTerm": "Vay"},
+				{"searchTerm": "Vay - Ryuusei no Yoroi"}
+			]
+		},
+		{
+			"group": "WWF - Rage in the Cage",
+			"titles": [
+				{"searchTerm": "WWF - Rage in the Cage"},
+				{"searchTerm": "WWF Mania Tour - WWF - Rage in the Cage"}
+			]
+		}
+	]
+}

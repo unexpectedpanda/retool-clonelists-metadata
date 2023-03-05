@@ -1,0 +1,272 @@
+{
+	"description": {
+		"name": "VTech - V.Smile (No-Intro)",
+		"lastUpdated": "28 January 2023",
+		"minimumVersion": "2.00"
+	},
+
+	"variants": [
+		{
+			"group": "Aladdin - Aladdins Welt der Wunder",
+			"titles": [
+				{"searchTerm": "Aladdin - Aladdins Welt der Wunder"},
+				{"searchTerm": "Aladdin - El Maravilloso Mundo de Aladdin"},
+				{"searchTerm": "Aladdin - Il magico mondo di Aladdin"}
+			]
+		},
+		{
+			"group": "Alphabet Park Adventure",
+			"titles": [
+				{"searchTerm": "ABC Land Aventure"},
+				{"searchTerm": "Abenteuer im ABC Park"},
+				{"searchTerm": "Alphabet Park Adventure"},
+				{"searchTerm": "Avventura nel Parco Alfabeto"}
+			]
+		},
+		{
+			"group": "Bob the Builder - Bob's Busy Day",
+			"titles": [
+				{"searchTerm": "Bob der Baumeister - Bobs spannender Arbeitstag"},
+				{"searchTerm": "Bob the Builder - Bob's Busy Day"},
+				{"searchTerm": "Byggare Bob - Bobs stressiga dag"},
+				{"searchTerm": "Byggemand Bob - Bobs travle dag"}
+			]
+		},
+		{
+			"group": "Cars - Rev It Up in Radiator Springs",
+			"titles": [
+				{"searchTerm": "Bilar - Koer ikapp i Kylarkoeping"},
+				{"searchTerm": "Biler - Raes i Kolerkildekobing"},
+				{"searchTerm": "Cars - Quatre roues"},
+				{"searchTerm": "Cars - Rev It Up in Radiator Springs"},
+				{"searchTerm": "Cars - Vollgas in Radiator Springs"}
+			]
+		},
+		{
+			"group": "Cinderella - Cinderella's Magic Wishes",
+			"titles": [
+				{"searchTerm": "Cendrillon - Le reve enchante de Cendrillon"},
+				{"searchTerm": "Cenerentola - I desideri magici di Cenerentola"},
+				{"searchTerm": "Cinderella - Askepots magiske onsker"},
+				{"searchTerm": "Cinderella - Askungens magiska oenskningar"},
+				{"searchTerm": "Cinderella - Cinderella's Magic Wishes"},
+				{"searchTerm": "Cinderella - Lernen im Maerchenland"}
+			]
+		},
+		{
+			"group": "Dora the Explorer - Dora's Fix-It Adventure",
+			"titles": [
+				{"searchTerm": "Dora - Doras Reparatur-Abenteuer"},
+				{"searchTerm": "Dora l'exploratrice - Les aventures de Dora Apprentie Mecano"},
+				{"searchTerm": "Dora the Explorer - Dora's Fix-It Adventure"}
+			]
+		},
+		{
+			"group": "Elmos grosses Abenteuer",
+			"titles": [
+				{"searchTerm": "Elmos grosses Abenteuer"},
+				{"searchTerm": "Grandes decouvertes d'Elmo, Les"}
+			]
+		},
+		{
+			"group": "Finding Nemo - Nemo's Ocean Discoveries",
+			"titles": [
+				{"searchTerm": "Finding Nemo - De wonderwereld van Nemo"},
+				{"searchTerm": "Finding Nemo - Nemo's Ocean Discoveries"}
+			]
+		},
+		{
+			"group": "Freds Zahlen Rallye",
+			"titles": [
+				{"searchTerm": "Apprenti' pilote"},
+				{"searchTerm": "Freds Zahlen Rallye"}
+			]
+		},
+		{
+			"group": "Fussball Schule",
+			"titles": [
+				{"searchTerm": "Football Club"},
+				{"searchTerm": "Fussball Schule"}
+			]
+		},
+		{
+			"group": "Kung Fu Panda - Path of the Panda",
+			"titles": [
+				{"searchTerm": "Kung Fu Panda - Der Weg des Panda"},
+				{"searchTerm": "Kung Fu Panda - Path of the Panda"}
+			]
+		},
+		{
+			"group": "Lion King, The - Simba's Big Adventure",
+			"titles": [
+				{"searchTerm": "Lejonkungen - Simbas stora aeventyr"},
+				{"searchTerm": "Lion King, The - Simba's Big Adventure"},
+				{"searchTerm": "Lovernes Konge - Simbas store eventyr"},
+				{"searchTerm": "Re Leone, Il - La Grande Avventura di Simba"},
+				{"searchTerm": "Roi Lion, Le - Simba decouvre la jungle"}
+			]
+		},
+		{
+			"group": "Little Mermaid, The - Ariel's Majestic Journey",
+			"titles": [
+				{"searchTerm": "Arielle die Meerjungfrau - Arielles aufregendes Abenteuer"},
+				{"searchTerm": "Den lilla sjoejungfrun - Ariels majestaetiska resa!"},
+				{"searchTerm": "Den lille havfrue - Ariels majestaetiske rejse!"},
+				{"searchTerm": "Little Mermaid, The - Ariel's Majestic Journey"},
+				{"searchTerm": "Petite Sirene, La - Ariel devient une princesse"},
+				{"searchTerm": "Sirenetta, La - Ariel e la Crociera Magica"}
+			]
+		},
+		{
+			"group": "Mein erster Hund",
+			"titles": [
+				{"searchTerm": "Mein erster Hund"},
+				{"searchTerm": "Min hundvalp"}
+			]
+		},
+		{
+			"group": "Micky - Mickys magisches Abenteuer",
+			"titles": [
+				{"searchTerm": "Micky - Mickys magisches Abenteuer"},
+				{"searchTerm": "Musse Pigg - Musses magiska aeventyr"},
+				{"searchTerm": "Topolino - Le Magiche Avventure di Topolino"}
+			]
+		},
+		{
+			"group": "Mickey Mouse Clubhouse",
+			"titles": [
+				{"searchTerm": "Mickey Mouse Clubhouse"},
+				{"searchTerm": "Micky Maus Wunderhaus"}
+			]
+		},
+		{
+			"group": "My Friends Tigger & Pooh - Die Honigjagd",
+			"titles": [
+				{"searchTerm": "My Friends Tigger & Pooh - Die Honigjagd"},
+				{"searchTerm": "Nalle Puh - Honungsjakten"},
+				{"searchTerm": "Peter Plys - Honningjagten"},
+				{"searchTerm": "Winnie l'Ourson - La Chasse au miel de Winnie"},
+				{"searchTerm": "Winnie Puuh - Die Honigjagd"},
+				{"searchTerm": "Winnie the Pooh e la caccia al miele"}
+			]
+		},
+		{
+			"group": "Noddy - Detective for a Day",
+			"titles": [
+				{"searchTerm": "Noddy - Detective for a Day"},
+				{"searchTerm": "Noddy - Detektiv fuer einen Tag"},
+				{"searchTerm": "Oui-Oui - Detective d'un jour"}
+			]
+		},
+		{
+			"group": "Ratatouille - Remys neue Rezepte",
+			"titles": [
+				{"searchTerm": "Ratatouille - Le nuove Ricette di Remy"},
+				{"searchTerm": "Ratatouille - Remys neue Rezepte"}
+			]
+		},
+		{
+			"group": "Scooby-Doo! - Funland Frenzy",
+			"titles": [
+				{"searchTerm": "Scooby-Doo! - Avventura a Funland"},
+				{"searchTerm": "Scooby-Doo! - Funland Frenzy"},
+				{"searchTerm": "Scooby-Doo! - Im Lernpark"},
+				{"searchTerm": "Scooby-Doo! - Sjov i forlystelsesparken"},
+				{"searchTerm": "Scooby-Doo! - Tivoli-tokerier"},
+				{"searchTerm": "Scooby-Doo - Panique a Funland"}
+			]
+		},
+		{
+			"group": "Shrek - Die Geschichte des Drachen",
+			"titles": [
+				{"searchTerm": "Shrek - Die Geschichte des Drachen"},
+				{"searchTerm": "Shrek - Het verhaal van draakje"},
+				{"searchTerm": "Shrek - Le rhume de Dragonne"}
+			]
+		},
+		{
+			"group": "Shrek the Third - Arthur's School Day Adventure",
+			"titles": [
+				{"searchTerm": "Shrek de Derde - Arthurs Schooldag Avontuur"},
+				{"searchTerm": "Shrek the Third - Arthur's School Day Adventure"}
+			]
+		},
+		{
+			"group": "Spider-Man & Freunde - Wettkampf im Space-Labor",
+			"titles": [
+				{"searchTerm": "Spider-Man & Friends - La Sfida del Dottor Ock"},
+				{"searchTerm": "Spider-Man & Freunde - Wettkampf im Space-Labor"}
+			]
+		},
+		{
+			"group": "Spider-Man & ses amis - Missions secretes",
+			"titles": [
+				{"searchTerm": "Spider-Man & Friends - Missioni Segrete"},
+				{"searchTerm": "Spider-Man & ses amis - Missions secretes"}
+			]
+		},
+		{
+			"group": "Spongebob Squarepants - A Day in the Life of a Sponge",
+			"titles": [
+				{"searchTerm": "Spongebob - Un giorno da Spugna"},
+				{"searchTerm": "Spongebob Schwammkopf - Der Tag des Schwamms"},
+				{"searchTerm": "Spongebob Squarepants - A Day in the Life of a Sponge"}
+			]
+		},
+		{
+			"group": "Superman - Der Superheld",
+			"titles": [
+				{"searchTerm": "Superman - A la rescousse !"},
+				{"searchTerm": "Superman - Der Superheld"}
+			]
+		},
+		{
+			"group": "Thomas & Friends - Engines Working Together",
+			"titles": [
+				{"searchTerm": "Thomas & Friends - Engines Working Together"},
+				{"searchTerm": "Thomas & Friends - Tagen hjaelps at"},
+				{"searchTerm": "Thomas & seine Freunde - Freunde halten zusammen"},
+				{"searchTerm": "Thomas et ses amis - Les locomotives s'entraident"}
+			]
+		},
+		{
+			"group": "TinkerBell",
+			"titles": [
+				{"searchTerm": "Tingeling"},
+				{"searchTerm": "TinkerBell"}
+			]
+		},
+		{
+			"group": "Toy Story 2 - Operation - Rescue Woody!",
+			"titles": [
+				{"searchTerm": "Toy Story 2 - Operation - Raedda Woody!"},
+				{"searchTerm": "Toy Story 2 - Operation - Rescue Woody!"},
+				{"searchTerm": "Toy Story 2 - Operazione - Salvataggio di Woody"},
+				{"searchTerm": "Toy Story 2 - Woodys spannende Rettung"}
+			]
+		},
+		{
+			"group": "Up",
+			"titles": [
+				{"searchTerm": "Oben"},
+				{"searchTerm": "Up"}
+			]
+		},
+		{
+			"group": "V.Smile - Art Studio",
+			"titles": [
+				{"searchTerm": "V.Smile - Art Studio"},
+				{"searchTerm": "V.Smile - Tecknarstudio"},
+				{"searchTerm": "V.Smile - Zeichenatelier"}
+			]
+		},
+		{
+			"group": "Zayzoo - An Earth Adventure",
+			"titles": [
+				{"searchTerm": "Zayzoo - An Earth Adventure"},
+				{"searchTerm": "Zayzoos Lernall"},
+				{"searchTerm": "Zezou - Notre ami venu d'ailleurs"}
+			]
+		}
+	]
+}

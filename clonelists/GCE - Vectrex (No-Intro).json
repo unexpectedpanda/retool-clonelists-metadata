@@ -1,0 +1,70 @@
+{
+	"description": {
+		"name": "GCE - Vectrex (No-Intro)",
+		"lastUpdated": "9 January 2023",
+		"minimumVersion": "2.00"
+	},
+
+	"categories": [
+		{
+			"searchTerm": "Engine Analyzer",
+			"nameType": "short",
+			"categories": ["Applications", "Preproduction"]
+		},
+		{
+			"searchTerm": "RA+A Spectrum I+ Stress Tester",
+			"nameType": "short",
+			"categories": ["Applications", "Preproduction"]
+		},
+		{
+			"searchTerm": "Test Cartridge",
+			"nameType": "short",
+			"categories": ["Applications", "Preproduction"]
+		}
+	],
+
+	"variants": [
+		{
+			"group": "Blitz! - Action Football",
+			"titles": [
+				{"searchTerm": "Blitz! - Action Football (881B27C5)"},
+				{"searchTerm": "Blitz! - Action Football (0F11CE0C)", "priority": 2}
+			]
+		},
+		{
+			"group": "Mail Plane",
+			"titles": [
+				{"searchTerm": "Mail Plane (DA1AC0DB)"},
+				{"searchTerm": "Mail Plane", "priority": 2}
+			]
+		},
+		{
+			"group": "Mine Storm II",
+			"titles": [
+				{"searchTerm": "Mine Storm"},
+				{"searchTerm": "Mine Storm II"}
+			]
+		},
+		{
+			"group": "Pole Position",
+			"titles": [
+				{"searchTerm": "Pole Position (A00ED3D6)"},
+				{"searchTerm": "Pole Position (C10F37D8)", "priority": 2}
+			]
+		},
+		{
+			"group": "Star Trek - The Motion Picture",
+			"titles": [
+				{"searchTerm": "Star Ship"},
+				{"searchTerm": "Star Trek - The Motion Picture"}
+			]
+		},
+		{
+			"group": "WebWars",
+			"titles": [
+				{"searchTerm": "WebWarp"},
+				{"searchTerm": "WebWars"}
+			]
+		}
+	]
+}

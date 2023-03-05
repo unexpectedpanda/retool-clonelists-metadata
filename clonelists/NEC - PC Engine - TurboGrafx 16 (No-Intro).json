@@ -1,0 +1,352 @@
+{
+	"description": {
+		"name": "NEC - PC Engine - TurboGrafx 16 (No-Intro)",
+		"lastUpdated": "10 January 2023",
+		"minimumVersion": "2.00"
+	},
+
+	"categories": [
+		{
+			"searchTerm": "Ten no Koe Bank",
+			"nameType": "short",
+			"categories": ["Applications"]
+		}
+	],
+
+	"variants": [
+		{
+			"group": "Air Zonk",
+			"titles": [
+				{"searchTerm": "Air Zonk"},
+				{"searchTerm": "PC Denjin - Punkic Cyborgs"}
+			]
+		},
+		{
+			"group": "Blazing Lazers",
+			"titles": [
+				{"searchTerm": "Blazing Lazers"},
+				{"searchTerm": "Gunhed"}
+			]
+		},
+		{
+			"group": "Bloody Wolf",
+			"titles": [
+				{"searchTerm": "Bloody Wolf"},
+				{"searchTerm": "Narazumono Sentou Butai - Bloody Wolf"}
+			]
+		},
+		{
+			"group": "Bonk 3 - Bonk's Big Adventure",
+			"titles": [
+				{"searchTerm": "Bonk 3 - Bonk's Big Adventure"},
+				{"searchTerm": "PC Genjin 3 - Pithecanthropus Computerurus"}
+			]
+		},
+		{
+			"group": "Bonk's Adventure",
+			"titles": [
+				{"searchTerm": "Bonk's Adventure"},
+				{"searchTerm": "PC Genjin - Pithecanthropus Computerurus"}
+			]
+		},
+		{
+			"group": "Bonk's Revenge",
+			"titles": [
+				{"searchTerm": "Bonk's Revenge"},
+				{"searchTerm": "PC Genjin 2 - Pithecanthropus Computerurus"}
+			]
+		},
+		{
+			"group": "Boxyboy",
+			"titles": [
+				{"searchTerm": "Boxyboy"},
+				{"searchTerm": "Soukoban World"}
+			]
+		},
+		{
+			"group": "Bravoman",
+			"titles": [
+				{"searchTerm": "Bravoman"},
+				{"searchTerm": "Chouzetsurinjin Bravoman"}
+			]
+		},
+		{
+			"group": "Chase H.Q.",
+			"titles": [
+				{"searchTerm": "Chase H.Q."},
+				{"searchTerm": "Taito Chase H.Q."}
+			]
+		},
+		{
+			"group": "Chew-Man-Fu",
+			"titles": [
+				{"searchTerm": "Be Ball"},
+				{"searchTerm": "Chew-Man-Fu"}
+			]
+		},
+		{
+			"group": "China Warrior",
+			"titles": [
+				{"searchTerm": "China Warrior"},
+				{"searchTerm": "Kung Fu, The"}
+			]
+		},
+		{
+			"group": "Cratermaze",
+			"titles": [
+				{"searchTerm": "Cratermaze"},
+				{"searchTerm": "Doraemon - Meikyuu Daisakusen"}
+			]
+		},
+		{
+			"group": "Dead Moon",
+			"titles": [
+				{"searchTerm": "Dead Moon"},
+				{"searchTerm": "Dead Moon - Getsu Sekai no Akumu"}
+			]
+		},
+		{
+			"group": "Deep Blue",
+			"titles": [
+				{"searchTerm": "Deep Blue"},
+				{"searchTerm": "Deep Blue - Kaitei Shinwa"}
+			]
+		},
+		{
+			"group": "Devil's Crush",
+			"titles": [
+				{"searchTerm": "Devil's Crush"},
+				{"searchTerm": "Devil Crash - Naxat Pinball"}
+			]
+		},
+		{
+			"group": "Dragon's Curse",
+			"titles": [
+				{"searchTerm": "Adventure Island"},
+				{"searchTerm": "Dragon's Curse"}
+			]
+		},
+		{
+			"group": "Drop Off",
+			"titles": [
+				{"searchTerm": "Drop Off"},
+				{"searchTerm": "Drop Rock Hora Hora"}
+			]
+		},
+		{
+			"group": "Galaga '90",
+			"titles": [
+				{"searchTerm": "Galaga '88"},
+				{"searchTerm": "Galaga '90"}
+			]
+		},
+		{
+			"group": "Hit the Ice - VHL - The Official Video Hockey League",
+			"titles": [
+				{"searchTerm": "Hit the Ice - VHL - The Official Video Hockey League"},
+				{"searchTerm": "Hit the Ice - VHL - The Video Hockey League"}
+			]
+		},
+		{
+			"group": "J.J. & Jeff",
+			"titles": [
+				{"searchTerm": "J.J. & Jeff"},
+				{"searchTerm": "Kato-chan Ken-chan"}
+			]
+		},
+		{
+			"group": "Jack Nicklaus' Turbo Golf",
+			"titles": [
+				{"searchTerm": "Jack Nicklaus' Turbo Golf"},
+				{"searchTerm": "Jack Nicklaus - Championship Golf"}
+			]
+		},
+		{
+			"group": "Jackie Chan's Action Kung Fu",
+			"titles": [
+				{"searchTerm": "Jackie Chan"},
+				{"searchTerm": "Jackie Chan's Action Kung Fu"}
+			]
+		},
+		{
+			"group": "Keith Courage in Alpha Zones",
+			"titles": [
+				{"searchTerm": "Keith Courage in Alpha Zones"},
+				{"searchTerm": "Mashin Eiyuuden Wataru"}
+			]
+		},
+		{
+			"group": "Legendary Axe, The",
+			"titles": [
+				{"searchTerm": "Legendary Axe, The"},
+				{"searchTerm": "Makyou Densetsu"}
+			]
+		},
+		{
+			"group": "Legendary Axe II",
+			"titles": [
+				{"searchTerm": "Ankoku Densetsu"},
+				{"searchTerm": "Legendary Axe II"}
+			]
+		},
+		{
+			"group": "Military Madness",
+			"titles": [
+				{"searchTerm": "Military Madness"},
+				{"searchTerm": "Nectaris"}
+			]
+		},
+		{
+			"group": "New Adventure Island",
+			"titles": [
+				{"searchTerm": "New Adventure Island"},
+				{"searchTerm": "Takahashi Meijin no Shin Bouken-jima"}
+			]
+		},
+		{
+			"group": "Ninja Spirit",
+			"titles": [
+				{"searchTerm": "Ninja Spirit"},
+				{"searchTerm": "Saigo no Nindou - Ninja Spirit"}
+			]
+		},
+		{
+			"group": "Psychosis",
+			"titles": [
+				{"searchTerm": "Paranoia"},
+				{"searchTerm": "Psychosis"}
+			]
+		},
+		{
+			"group": "R-Type I",
+			"titles": [
+				{"searchTerm": "R-Type I"}
+			],
+			"supersets": [
+				{"searchTerm": "R-Type"}
+			]
+		},
+		{
+			"group": "R-Type II",
+			"titles": [
+				{"searchTerm": "R-Type II"}
+			],
+			"supersets": [
+				{"searchTerm": "R-Type"}
+			]
+		},
+		{
+			"group": "Samurai-Ghost",
+			"titles": [
+				{"searchTerm": "Genpei Toumaden - Kan no Ni"},
+				{"searchTerm": "Samurai-Ghost"}
+			]
+		},
+		{
+			"group": "Shockman",
+			"titles": [
+				{"searchTerm": "Kaizou Choujin Shubibinman 2 - Aratanaru Teki"},
+				{"searchTerm": "Shockman"}
+			]
+		},
+		{
+			"group": "SideArms",
+			"titles": [
+				{"searchTerm": "SideArms"},
+				{"searchTerm": "SideArms - Hyper Dyne"}
+			]
+		},
+		{
+			"group": "Sinistron",
+			"titles": [
+				{"searchTerm": "Sinistron"},
+				{"searchTerm": "Violent Soldier"}
+			]
+		},
+		{
+			"group": "Somer Assault",
+			"titles": [
+				{"searchTerm": "Mesopotamia"},
+				{"searchTerm": "Somer Assault"}
+			]
+		},
+		{
+			"group": "Sonic Spike - World Championship Beach Volleyball",
+			"titles": [
+				{"searchTerm": "Sonic Spike - World Championship Beach Volleyball"},
+				{"searchTerm": "World Beach Volley"}
+			]
+		},
+		{
+			"group": "Super Volleyball",
+			"titles": [
+				{"searchTerm": "Super Volley Ball"},
+				{"searchTerm": "Super Volleyball"}
+			]
+		},
+		{
+			"group": "Takin' It to the Hoop",
+			"titles": [
+				{"searchTerm": "Takin' It to the Hoop"},
+				{"searchTerm": "USA Pro Basketball"}
+			]
+		},
+		{
+			"group": "Tiger Road",
+			"titles": [
+				{"searchTerm": "Tiger Road"},
+				{"searchTerm": "Tora e no Michi"}
+			]
+		},
+		{
+			"group": "Time Cruise",
+			"titles": [
+				{"searchTerm": "Time Cruise"},
+				{"searchTerm": "Time Cruise II"}
+			]
+		},
+		{
+			"group": "Timeball",
+			"titles": [
+				{"searchTerm": "Blodia"},
+				{"searchTerm": "Timeball"}
+			]
+		},
+		{
+			"group": "Tricky Kick",
+			"titles": [
+				{"searchTerm": "Tricky"},
+				{"searchTerm": "Tricky Kick"}
+			]
+		},
+		{
+			"group": "Victory Run",
+			"titles": [
+				{"searchTerm": "Victory Run"},
+				{"searchTerm": "Victory Run - Eikou no 13,000km"}
+			]
+		},
+		{
+			"group": "World Class Baseball",
+			"titles": [
+				{"searchTerm": "All Star Power League"},
+				{"searchTerm": "World Class Baseball"},
+				{"searchTerm": "Power League", "priority": 2}
+			]
+		},
+		{
+			"group": "World Court Tennis",
+			"titles": [
+				{"searchTerm": "Pro Tennis - World Court"},
+				{"searchTerm": "World Court Tennis"}
+			]
+		},
+		{
+			"group": "World Sports Competition",
+			"titles": [
+				{"searchTerm": "Power Sports"},
+				{"searchTerm": "World Sports Competition"}
+			]
+		}
+	]
+}

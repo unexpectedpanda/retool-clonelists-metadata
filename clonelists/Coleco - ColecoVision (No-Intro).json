@@ -1,0 +1,57 @@
+{
+	"description": {
+		"name": "Coleco - ColecoVision (No-Intro)",
+		"lastUpdated": "9 January 2023",
+		"minimumVersion": "2.00"
+	},
+
+	"categories": [
+		{
+			"searchTerm": "ColecoVision Monitor Test",
+			"nameType": "short",
+			"categories": ["Applications"]
+		},
+		{
+			"searchTerm": "Final Test Cartridge",
+			"nameType": "short",
+			"categories": ["Applications"]
+		},
+		{
+			"searchTerm": "Super Controller Tester",
+			"nameType": "short",
+			"categories": ["Applications"]
+		}
+	],
+
+	"overrides": [
+		{
+			"searchTerm": "^Super Action Football \\(Europe\\)(.*)?",
+			"nameType": "regex",
+			"newGroup": "Super Action Football Europe"
+		}
+	],
+
+	"variants": [
+		{
+			"group": "Amazing Bumpman",
+			"titles": [
+				{"searchTerm": "Amazing Bumpman"},
+				{"searchTerm": "Number Bumper", "priority": 2}
+			]
+		},
+		{
+			"group": "Defender",
+			"titles": [
+				{"searchTerm": "Defender (BUG Fixed)"},
+				{"searchTerm": "Defender", "priority": 2}
+			]
+		},
+		{
+			"group": "Front Line",
+			"titles": [
+				{"searchTerm": "Front Line (Standard Controller)"},
+				{"searchTerm": "Front Line (Super Action Controller)", "priority": 2}
+			]
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"description": {
+		"name": "Nintendo - Satellaview (No-Intro)",
+		"lastUpdated": "21 January 2023",
+		"minimumVersion": "2.00"
+	},
+
+	"variants": [
+		{
+			"group": "BS F-Zero Grand Prix 2 - Practice",
+			"titles": [
+				{"searchTerm": "BS F-Zero Grand Prix 2 - Practice (12-6)"},
+				{"searchTerm": "BS F-Zero Grand Prix 2 - Practice (10-23)", "priority": 2}
+			]
+		},
+		{
+			"group": "BS Fire Emblem - Akaneia Senki Hen - Dai-1-wa - Palace Kanraku",
+			"titles": [
+				{"searchTerm": "BS Fire Emblem - Akaneia Senki Hen - Dai-1-wa - Palace Kanraku (9-29) (SoundLink)"},
+				{"searchTerm": "BS Fire Emblem - Akaneia Senki Hen - Dai-1-wa - Palace Kanraku (4-4) (SoundLink)", "priority": 2}
+			]
+		},
+		{
+			"group": "BS Fire Emblem - Akaneia Senki Hen - Dai-4-wa - Hajimari no Toki",
+			"titles": [
+				{"searchTerm": "BS Fire Emblem - Akaneia Senki Hen - Dai-4-wa - Hajimari no Toki (4-29) (SoundLink)"},
+				{"searchTerm": "BS Fire Emblem - Akaneia Senki Hen - Dai-4-wa - Hajimari no Toki (4-28) (SoundLink)", "priority": 2}
+			]
+		},
+		{
+			"group": "BS Parlor! Parlor! - Dai-2-shuu",
+			"titles": [
+				{"searchTerm": "BS Parlor! Parlor! - Dai-2-shuu (5-13) (SoundLink)"},
+				{"searchTerm": "BS Parlor! Parlor! - Dai-2-shuu (3-13) (SoundLink)", "priority": 2}
+			]
+		},
+		{
+			"group": "BS Super Mario Collection - Dai-3-shuu",
+			"titles": [
+				{"searchTerm": "BS Super Mario Collection - Dai-3-shuu (3-17) (SoundLink)"},
+				{"searchTerm": "BS Super Mario Collection - Dai-3-shuu (1-13)", "priority": 2}
+			]
+		}
+	]
+}

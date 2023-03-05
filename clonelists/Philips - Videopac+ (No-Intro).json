@@ -1,0 +1,45 @@
+{
+	"description": {
+		"name": "Philips - Videopac+ (No-Intro)",
+		"lastUpdated": "21 January 2023",
+		"minimumVersion": "2.00"
+	},
+
+	"variants": [
+		{
+			"group": "Cosmic Conflict",
+			"titles": [
+				{"searchTerm": "Cosmic Conflict"},
+				{"searchTerm": "Guerre de l'Espace"}
+			]
+		},
+		{
+			"group": "Electronic Billiards",
+			"titles": [
+				{"searchTerm": "Billard Electrique"},
+				{"searchTerm": "Electronic Billiards"}
+			]
+		},
+		{
+			"group": "Killer Bees",
+			"titles": [
+				{"searchTerm": "Killer Bees"},
+				{"searchTerm": "Ruche Infernale, La"}
+			]
+		},
+		{
+			"group": "Race + Spin-out + Cryptogram",
+			"titles": [
+				{"searchTerm": "Course de Voitures + Autodrome + Cryptogramme"},
+				{"searchTerm": "Race + Spin-out + Cryptogram"}
+			]
+		},
+		{
+			"group": "Tenpin Bowling + Basketball",
+			"titles": [
+				{"searchTerm": "Jeu de Quilles + Basketball"},
+				{"searchTerm": "Tenpin Bowling + Basketball"}
+			]
+		}
+	]
+}

@@ -1,0 +1,648 @@
+{
+	"description": {
+		"name": "Philips - CD-i (Redump)",
+		"lastUpdated": "21 January 2023",
+		"minimumVersion": "2.00"
+	},
+
+	"mias": [
+		"Nobelia (USA, Europe) (Unl)"
+	],
+
+	"variants": [
+		{
+			"group": "7th Guest, The (Disc 1) (The Game)",
+			"titles": [
+				{"searchTerm": "7th Guest, The"},
+				{"searchTerm": "7th Guest, The (Disc 1) (Das Spiel)"},
+				{"searchTerm": "7th Guest, The (Disc 1) (Le Jeu)"},
+				{"searchTerm": "7th Guest, The (Disc 1) (The Game)"}
+			]
+		},
+		{
+			"group": "Alice in Wonderland",
+			"titles": [
+				{"searchTerm": "Alice au Pays des Merveilles"},
+				{"searchTerm": "Alice in Wonderland"}
+			]
+		},
+		{
+			"group": "Around Atlanta - The Olympic City",
+			"titles": [
+				{"searchTerm": "Around Atlanta"},
+				{"searchTerm": "Around Atlanta - The Olympic City"}
+			]
+		},
+		{
+			"group": "Art of the Czars, The",
+			"titles": [
+				{"searchTerm": "Art of the Czars, The"},
+				{"searchTerm": "Arte degli Zar, L' - San Pietroburgo e i Tesori dell'Ermitage"},
+				{"searchTerm": "Kunstschaetze der Russischen Zaren, Die"},
+				{"searchTerm": "Kunstschatten van Rusland, De"},
+				{"searchTerm": "St. Petersbourg et les Tresors de l'Ermitage - The Art of the Czars"}
+			]
+		},
+		{
+			"group": "Asterix - Caesar's Challenge",
+			"titles": [
+				{"searchTerm": "Asterix - Caesar's Challenge"},
+				{"searchTerm": "Asterix - De Uitdaging van Caesar"},
+				{"searchTerm": "Asterix - Die grosse Reise"},
+				{"searchTerm": "Asterix - El Desafio de Cesar"},
+				{"searchTerm": "Asterix - La Sfida di Cesare"},
+				{"searchTerm": "Asterix - Le Defi de Cesar"},
+				{"searchTerm": "Asterix - O Desafio de Cesar"}
+			]
+		},
+		{
+			"group": "Beauty & the Beast",
+			"titles": [
+				{"searchTerm": "Beauty & the Beast"},
+				{"searchTerm": "Belle et la Bete, La"},
+				{"searchTerm": "Schoene und das Tier, Die"}
+			]
+		},
+		{
+			"group": "Berenstain Bears, The - On Their Own",
+			"titles": [
+				{"searchTerm": "Berenstain-Baeren, Die - Selbst ist der Baer"},
+				{"searchTerm": "Berenstain Bears, The - Bij de Berenstain Beren Thuis - Thuis en bij Jou"},
+				{"searchTerm": "Berenstain Bears, The - On Their Own"},
+				{"searchTerm": "Ours Berenstain, Les - Comme des Grands"}
+			]
+		},
+		{
+			"group": "Bertelsmann Universallexikon (Fuer CD-i Player mit Digital Video Cartridge)",
+			"titles": [
+				{"searchTerm": "Bertelsmann Universal Lexikon"},
+				{"searchTerm": "Bertelsmann Universallexikon (Fuer CD-i Player mit Digital Video Cartridge)"}
+			]
+		},
+		{
+			"group": "Bose - Home Cinema Sound System - Demonstration Disc",
+			"titles": [
+				{"searchTerm": "Bose - Home Cinema Sound System - Demonstration Disc"},
+				{"searchTerm": "Bose Home Cinema Sound System Demonstration Disc"}
+			]
+		},
+		{
+			"group": "Burn-Cycle (Disc 1) (The Game)",
+			"titles": [
+				{"searchTerm": "Burn-Cycle (Disc 1) (The Game)"},
+				{"searchTerm": "Burn-Cycle (Das Spiel)"},
+				{"searchTerm": "Burn-Cycle (El Juego)"},
+				{"searchTerm": "Burn-Cycle (Il Gioco)"},
+				{"searchTerm": "Burn-Cycle (Jeu)"},
+				{"searchTerm": "Burn-Cycle", "priority": 2}
+			]
+		},
+		{
+			"group": "Centurion - Building the Winning Company",
+			"titles": [
+				{"searchTerm": "Centurion - Building the Winning Company"},
+				{"searchTerm": "Centurion - Werken aan The Winning Company - Deel I"}
+			]
+		},
+		{
+			"group": "Child is Born, A",
+			"titles": [
+				{"searchTerm": "Child is Born, A"},
+				{"searchTerm": "Grote Wonder, Het - A Child is Born"},
+				{"searchTerm": "Kind Entsteht, Ein - A Child is Born"},
+				{"searchTerm": "Naitre - A Child is Born"},
+				{"searchTerm": "Nasce un Bambino"}
+			]
+		},
+		{
+			"group": "Clue",
+			"titles": [
+				{"searchTerm": "Clue"},
+				{"searchTerm": "Cluedo"}
+			]
+		},
+		{
+			"group": "Clue - The Mysteries Continue",
+			"titles": [
+				{"searchTerm": "Clue - The Mysteries Continue"},
+				{"searchTerm": "Cluedo - The Mystery Continues"}
+			]
+		},
+		{
+			"group": "Compton's Interactive Encyclopedia (1995) (Digital Video)",
+			"titles": [
+				{"searchTerm": "Compton's Interactive Encyclopedia (1995) (Digital Video)"},
+				{"searchTerm": "Compton's Interactive Encyclopedia (1995)", "priority": 2},
+				{"searchTerm": "Compton's Interactive Encyclopedia", "priority": 3}
+			]
+		},
+		{
+			"group": "Crayon Factory, The",
+			"titles": [
+				{"searchTerm": "Crayon Factory, The"},
+				{"searchTerm": "Krijtjesfabriek, De"},
+				{"searchTerm": "Malstiftfabrik, Die"},
+				{"searchTerm": "Usine aux Crayons, L'"}
+			]
+		},
+		{
+			"group": "Creation with Digital Video (Green)",
+			"titles": [
+				{"searchTerm": "Creation with Digital Video (Green)"},
+				{"searchTerm": "Creation with Digital Video (Red)", "priority": 2}
+			]
+		},
+		{
+			"group": "Creation with MediaMogul (Blue)",
+			"titles": [
+				{"searchTerm": "Creation with MediaMogul (Blue)"},
+				{"searchTerm": "Creation with MediaMogul (Grey)", "priority": 2}
+			]
+		},
+		{
+			"group": "Dark Fables of Aesop, The",
+			"titles": [
+				{"searchTerm": "Dark Fables of Aesop, The"},
+				{"searchTerm": "Duistere Fabels van Aesopus, De"},
+				{"searchTerm": "Geheimnisvollen Fabeln von Aesop, Die"},
+				{"searchTerm": "Fables d'Esope I, Les"},
+				{"searchTerm": "Fabulas de Esopo, Las"},
+				{"searchTerm": "Meer Duistere Fabels van Aesopus"},
+				{"searchTerm": "Weitere Geheimnisvolle Fabeln von Aesop"}
+			]
+		},
+		{
+			"group": "Dictionnaire Hachette Multimedia (1995) (Version Digital Video)",
+			"titles": [
+				{"searchTerm": "Dictionnaire Hachette Multimedia (1995) (Version Digital Video)"},
+				{"searchTerm": "Dictionnaire Hachette Multimedia (1995)", "priority": 2},
+				{"searchTerm": "Dictionnaire Hachette Multimedia", "priority": 3}
+			]
+		},
+		{
+			"group": "Dutch Masters of the Seventeenth Century",
+			"titles": [
+				{"searchTerm": "Dutch Masters of the Seventeenth Century"},
+				{"searchTerm": "Hollandse Meesters uit de Zeventiende Eeuw"},
+				{"searchTerm": "Maestri Olandesi del Seicento, I"},
+				{"searchTerm": "Maestros Holandeses del Siglo XVII, Los"},
+				{"searchTerm": "Maitres de la Peinture Hollandaise, Les"},
+				{"searchTerm": "Niederlaendischen Meister des 17. Jahrhunderts, Die"}
+			]
+		},
+		{
+			"group": "Earth Command",
+			"titles": [
+				{"searchTerm": "Comando Tierra"},
+				{"searchTerm": "Earth Command"}
+			]
+		},
+		{
+			"group": "Earth Rhythms",
+			"titles": [
+				{"searchTerm": "Earth Rhythms"},
+				{"searchTerm": "Earth Rhythms - Daichi no Hibiki"}
+			]
+		},
+		{
+			"group": "Fatal Attraction (Disc 1)",
+			"titles": [
+				{"searchTerm": "Fatal Attraction (Disc 1)"},
+				{"searchTerm": "Liaison Fatale (Disc 1)"}
+			]
+		},
+		{
+			"group": "Fatal Attraction (Disc 2)",
+			"titles": [
+				{"searchTerm": "Fatal Attraction (Disc 2)"},
+				{"searchTerm": "Liaison Fatale (Disc 2)"}
+			]
+		},
+		{
+			"group": "Football",
+			"titles": [
+				{"searchTerm": "Football"},
+				{"searchTerm": "Futbol"},
+				{"searchTerm": "Voetbal"}
+			]
+		},
+		{
+			"group": "French Impressionists, The",
+			"titles": [
+				{"searchTerm": "Franceses Impresionistas, Los"},
+				{"searchTerm": "Franse Impressionisten, De"},
+				{"searchTerm": "Franzoesischen Impressionisten, Die"},
+				{"searchTerm": "French Impressionists, The"},
+				{"searchTerm": "Gli Impressionisti Francesi"},
+				{"searchTerm": "Impressionnistes Francais, Les"}
+			]
+		},
+		{
+			"group": "Ghost (Disc 1)",
+			"titles": [
+				{"searchTerm": "Ghost - Nachricht von Sam (Disc 1)"},
+				{"searchTerm": "Ghost (Disc 1)"}
+			]
+		},
+		{
+			"group": "Ghost (Disc 2)",
+			"titles": [
+				{"searchTerm": "Ghost - Nachricht von Sam (Disc 2)"},
+				{"searchTerm": "Ghost (Disc 2)"}
+			]
+		},
+		{
+			"group": "Harvest of the Sun - Van Gogh - Une Moisson de Soleils",
+			"titles": [
+				{"searchTerm": "Cosecha del Sol, La - Vincent van Gogh Revivido"},
+				{"searchTerm": "Ernte der Sonne - Vincent van Gogh"},
+				{"searchTerm": "Great Art Series, The - Taiyou o Karitoru Hito - Harvest of the Sun - Vincent van Gogh"},
+				{"searchTerm": "Harvest of the Sun"},
+				{"searchTerm": "Harvest of the Sun - Van Gogh - Une Moisson de Soleils"},
+				{"searchTerm": "Oogst van de Zon"},
+				{"searchTerm": "Raccolto del Sole, Il - Van Gogh"}
+			]
+		},
+		{
+			"group": "How the Rhinoceros Got His Skin",
+			"titles": [
+				{"searchTerm": "How the Rhinoceros Got His Skin"},
+				{"searchTerm": "Wie das Rhinozeros zu seiner Haut kam"},
+				{"searchTerm": "How the Rhino Got His Skin", "priority": 2}
+			]
+		},
+		{
+			"group": "Impressionnistes Francais, Les",
+			"titles": [
+				{"searchTerm": "Franceses Impresionistas, Los"},
+				{"searchTerm": "Franse Impressionisten, De"},
+				{"searchTerm": "Franzoesischen Impressionisten, Die"},
+				{"searchTerm": "Gli Impressionisti Francesi"},
+				{"searchTerm": "Impressionnistes Francais, Les"}
+			]
+		},
+		{
+			"group": "International Tennis Open",
+			"titles": [
+				{"searchTerm": "International Tennis Open"}
+			],
+			"supersets": [
+				{"searchTerm": "International Tennis Open (Simultaneous 2 Player Game)"},
+				{"searchTerm": "International Tennis Open (Versione 2 Giocatori)"}
+			]
+		},
+		{
+			"group": "Jazz Giants - From Big Band to Bossa Nova",
+			"titles": [
+				{"searchTerm": "Geants du Jazz, Les"},
+				{"searchTerm": "Jazz Giants - From Big Band to Bossa Nova"}
+			]
+		},
+		{
+			"group": "Labyrinth of Crete",
+			"titles": [
+				{"searchTerm": "Labyrinth of Crete"},
+				{"searchTerm": "Labyrinth von Kreta"}
+			]
+		},
+		{
+			"group": "Link - The Faces of Evil",
+			"titles": [
+				{"searchTerm": "Link - De Gezichten van het Kwaad"},
+				{"searchTerm": "Link - Die Fratzen des Boesen"},
+				{"searchTerm": "Link - The Faces of Evil"}
+			]
+		},
+		{
+			"group": "Mad Dog II - The Lost Gold",
+			"titles": [
+				{"searchTerm": "Mad Dog 2 - Le Tresor Perdu"},
+				{"searchTerm": "Mad Dog II - The Lost Gold"}
+			]
+		},
+		{
+			"group": "Marco Polo (Disc 1) (The Game)",
+			"titles": [
+				{"searchTerm": "Marco Polo (Disc 1) (Le Jeu)"},
+				{"searchTerm": "Marco Polo (Disc 1) (The Game)"}
+			]
+		},
+		{
+			"group": "Marco Polo (Disc 2) (The Documentation)",
+			"titles": [
+				{"searchTerm": "Marco Polo (Disc 2) (La Documentation)"},
+				{"searchTerm": "Marco Polo (Disc 2) (The Documentation)"}
+			]
+		},
+		{
+			"group": "More Dark Fables from Aesop",
+			"titles": [
+				{"searchTerm": "Fables d'Esope II, Les"},
+				{"searchTerm": "More Dark Fables from Aesop"}
+			]
+		},
+		{
+			"group": "Mozart - A Musical Biography",
+			"titles": [
+				{"searchTerm": "Mozart - A Musical Biography"},
+				{"searchTerm": "Mozart - Een Muzikale Biografie"},
+				{"searchTerm": "Mozart - La Vita e la Musica"},
+				{"searchTerm": "Mozart - Sono Ongaku to Shougai - A Musical Biography"},
+				{"searchTerm": "Mozart - Eine Musikalische Biographie", "priority": 2}
+			]
+		},
+		{
+			"group": "Paint School I",
+			"titles": [
+				{"searchTerm": "Malarskolan"},
+				{"searchTerm": "Nuri e Asobi I - Paint School I"},
+				{"searchTerm": "Paint School I"},
+				{"searchTerm": "Schilderschool"}
+			]
+		},
+		{
+			"group": "Palm Springs Open, The",
+			"titles": [
+				{"searchTerm": "Open de Palm Springs, L'"},
+				{"searchTerm": "Palm Springs Open, The"}
+			]
+		},
+		{
+			"group": "Patriot Games (Disc 1)",
+			"titles": [
+				{"searchTerm": "Jeux de Guerre (Disc 1)"},
+				{"searchTerm": "Patriot Games (Disc 1)"},
+				{"searchTerm": "Stunde der Patrioten, Die (Disc 1)"}
+			]
+		},
+		{
+			"group": "Patriot Games (Disc 2)",
+			"titles": [
+				{"searchTerm": "Jeux de Guerre (Disc 2)"},
+				{"searchTerm": "Patriot Games (Disc 2)"},
+				{"searchTerm": "Stunde der Patrioten, Die (Disc 2)"}
+			]
+		},
+		{
+			"group": "Pegasus",
+			"titles": [
+				{"searchTerm": "Pegase"},
+				{"searchTerm": "Pegasus"}
+			]
+		},
+		{
+			"group": "Portrait of a City - Venice",
+			"titles": [
+				{"searchTerm": "Portrait d'une Ville - Venise"},
+				{"searchTerm": "Portrait of a City - Venice"},
+				{"searchTerm": "Ritratto di Citta - Venezia"}
+			]
+		},
+		{
+			"group": "Private Lesson Series - Classical Guitar",
+			"titles": [
+				{"searchTerm": "Private Lesson Series - Classical Guitar"},
+				{"searchTerm": "Private Lesson Series - Methode de Guitare Classique"}
+			]
+		},
+		{
+			"group": "Private Lesson Series - Jazz Guitar",
+			"titles": [
+				{"searchTerm": "Jazz - Methode de Guitare"},
+				{"searchTerm": "Private Lesson Series - Jazz Guitar"}
+			]
+		},
+		{
+			"group": "Private Lesson Series - Rock Guitar - A Beginner's Guide",
+			"titles": [
+				{"searchTerm": "Methode de Guitare Rock avec Paul Personne"},
+				{"searchTerm": "Private Lesson Series - Rock Guitar - A Beginner's Guide"},
+				{"searchTerm": "Rock Gitaar - Handleiding voor Beginners"}
+			]
+		},
+		{
+			"group": "Renaissance of Florence, The",
+			"titles": [
+				{"searchTerm": "Great Art Series, The - Florence Renaissance - Renaissance of Florence, The"},
+				{"searchTerm": "Renacimiento de Florencia, El"},
+				{"searchTerm": "Renaissance a Florence, La"},
+				{"searchTerm": "Renaissance in Florenz, Die"},
+				{"searchTerm": "Renaissance of Florence, The"},
+				{"searchTerm": "Renaissance van Florence, De"},
+				{"searchTerm": "Rinascimento a Firenze, Il"}
+			]
+		},
+		{
+			"group": "Richard Scarry's Best Neighborhood Disc Ever!",
+			"titles": [
+				{"searchTerm": "Barrio mas Divertido de Richard Scarry, El"},
+				{"searchTerm": "Citta piu Felice del Mondo! di Richard Scarry, La"},
+				{"searchTerm": "Richard Scarry's Allerbeste Buurt Disc!"},
+				{"searchTerm": "Richard Scarry's Best Neighborhood Disc Ever!"},
+				{"searchTerm": "Ville Surprise de Richard Scarry 1, La"}
+			]
+		},
+		{
+			"group": "Richard Scarry's Busiest Neighborhood Disc Ever!",
+			"titles": [
+				{"searchTerm": "Richard Scarry's Allerdrukste Buurt Disc!"},
+				{"searchTerm": "Richard Scarry's Allerwitzigste Geschichten aus Schaffenau"},
+				{"searchTerm": "Richard Scarry's Busiest Neighborhood Disc Ever!"},
+				{"searchTerm": "Richard Scarry - La Citta piu Indaffarata del Mondo!"},
+				{"searchTerm": "Ville Surprise de Richard Scarry 2, La"}
+			]
+		},
+		{
+			"group": "Sandy's Circus Adventure",
+			"titles": [
+				{"searchTerm": "Aventures de Sandy au Cirque, Les"},
+				{"searchTerm": "Sandy's Circus Adventure"},
+				{"searchTerm": "Sandy's Circus Avontuur"},
+				{"searchTerm": "Sandy's Zirkus Abenteuer"}
+			]
+		},
+		{
+			"group": "Scotland Yard Interactive",
+			"titles": [
+				{"searchTerm": "Scotland Yard Interactif"},
+				{"searchTerm": "Scotland Yard Interactive"}
+			]
+		},
+		{
+			"group": "St. Petersbourg et les Tresors de l'Ermitage - The Art of the Czars",
+			"titles": [
+				{"searchTerm": "Arte degli Zar, L' - San Pietroburgo e i Tesori dell'Ermitage"},
+				{"searchTerm": "St. Petersbourg et les Tresors de l'Ermitage - The Art of the Czars"}
+			]
+		},
+		{
+			"group": "Star Trek VI - The Undiscovered Country (Disc 1)",
+			"titles": [
+				{"searchTerm": "Star Trek VI - Das unentdeckte Land (Disc 1)"},
+				{"searchTerm": "Star Trek VI - Terre Inconnue (Disc 1)"},
+				{"searchTerm": "Star Trek VI - The Undiscovered Country (Disc 1)"}
+			]
+		},
+		{
+			"group": "Star Trek VI - The Undiscovered Country (Disc 2)",
+			"titles": [
+				{"searchTerm": "Star Trek VI - Das unentdeckte Land (Disc 2)"},
+				{"searchTerm": "Star Trek VI - Terre Inconnue (Disc 2)"},
+				{"searchTerm": "Star Trek VI - The Undiscovered Country (Disc 2)"}
+			]
+		},
+		{
+			"group": "Stickybear Math",
+			"titles": [
+				{"searchTerm": "Stickybear Math"},
+				{"searchTerm": "Stickybear Maths"}
+			]
+		},
+		{
+			"group": "Story Machine - Magic Tales",
+			"titles": [
+				{"searchTerm": "J'Invente Mes Histoires - Histoires Magiques"},
+				{"searchTerm": "Maquina de Cuentos, La - Cuentos Magicos"},
+				{"searchTerm": "Story Machine - Magic Tales"},
+				{"searchTerm": "Story Maschine - Maerchenzauber"},
+				{"searchTerm": "Verhalen Toverdoos - Magische Vertellingen"}
+			]
+		},
+		{
+			"group": "Story Machine - Star Dreams",
+			"titles": [
+				{"searchTerm": "Macchina delle Favole, La - Racconti Spaziali"},
+				{"searchTerm": "Story Machine - Star Dreams"},
+				{"searchTerm": "Story Maschine - Galaxis"}
+			]
+		},
+		{
+			"group": "Tesoro dell'Isola dei Giochi, Il",
+			"titles": [
+				{"searchTerm": "Tesoro dell'Isola dei Giochi, Il"},
+				{"searchTerm": "Tresor de l'Ile aux Jeux, Le"}
+			]
+		},
+		{
+			"group": "Thunder in Paradise (Disc 1) (The Game)",
+			"titles": [
+				{"searchTerm": "Caraibes Offshore"},
+				{"searchTerm": "Thunder in Paradise"},
+				{"searchTerm": "Thunder in Paradise (Disc 1) (The Game)"}
+			]
+		},
+		{
+			"group": "Tim & Bear at the Airport",
+			"titles": [
+				{"searchTerm": "Tim & Baer auf dem Flughafen"},
+				{"searchTerm": "Tim & Bear at the Airport"},
+				{"searchTerm": "Tim & Beer op het Vliegveld"},
+				{"searchTerm": "Tim et Ted a l'Aeroport"}
+			]
+		},
+		{
+			"group": "Tim & Bear at the Harbour",
+			"titles": [
+				{"searchTerm": "Tim & Baer im Hafen"},
+				{"searchTerm": "Tim & Bear at the Harbour"},
+				{"searchTerm": "Tim & Beer in de Haven"},
+				{"searchTerm": "Tim et Ted au Port"}
+			]
+		},
+		{
+			"group": "Tim et Ted a l'Hopital",
+			"titles": [
+				{"searchTerm": "Tim & Baer im Krankenhaus"},
+				{"searchTerm": "Tim & Beer in het Ziekenhuis"},
+				{"searchTerm": "Tim et Ted a l'Hopital"}
+			]
+		},
+		{
+			"group": "Tim & Bear at the Movies",
+			"titles": [
+				{"searchTerm": "Tim & Baer beim Film"},
+				{"searchTerm": "Tim & Bear at the Movies"},
+				{"searchTerm": "Tim & Beer bij de Film"},
+				{"searchTerm": "Tim et Ted au Cinema"}
+			]
+		},
+		{
+			"group": "Time Life Presents - 35mm Photography",
+			"titles": [
+				{"searchTerm": "Time-Life Praesentiert - Kleinbild-Fotografie"},
+				{"searchTerm": "Time Life Presenta - 35mm Fotografia"},
+				{"searchTerm": "Time Life Presenta - La Fotografia in 35mm"},
+				{"searchTerm": "Time Life Presente - La Photographie 24 x 36 mm"},
+				{"searchTerm": "Time Life Presents - 35mm Photography"}
+			]
+		},
+		{
+			"group": "Tom - Magic Picture Show",
+			"titles": [
+				{"searchTerm": "Tom - Il Dizionario Magico"},
+				{"searchTerm": "Tom's Magic Picture Show"},
+				{"searchTerm": "Tom - Magic Picture Show"}
+			]
+		},
+		{
+			"group": "Treasures of the Smithsonian",
+			"titles": [
+				{"searchTerm": "Treasures of the Smithsonian"},
+				{"searchTerm": "Tresors du Smithsonian"}
+			]
+		},
+		{
+			"group": "Video Speedway - The Ultimate Racing Experience",
+			"titles": [
+				{"searchTerm": "Video Speedway - Grand Prix"},
+				{"searchTerm": "Video Speedway - The Ultimate Racing Experience"}
+			]
+		},
+		{
+			"group": "Visit to the Valley of Puebla and the Amparo Museum, A",
+			"titles": [
+				{"searchTerm": "Museo Amparo"},
+				{"searchTerm": "Visit to the Valley of Puebla and the Amparo Museum, A"}
+			]
+		},
+		{
+			"group": "Voyeur",
+			"titles": [
+				{"searchTerm": "Voyeur"},
+				{"searchTerm": "Voyeur ...Don't Get Caught"},
+				{"searchTerm": "Voyeur ...Lass Dich Nicht Erwischen!"}
+			]
+		},
+		{
+			"group": "Wines of France",
+			"titles": [
+				{"searchTerm": "Vins de France, Les"},
+				{"searchTerm": "Wines of France"}
+			]
+		},
+		{
+			"group": "World of Impressionism, The",
+			"titles": [
+				{"searchTerm": "Paris Belle Epoque"},
+				{"searchTerm": "World of Impressionism, The"}
+			]
+		},
+		{
+			"group": "Zelda - The Wand of Gamelon",
+			"titles": [
+				{"searchTerm": "Zelda - De Toverstaf van Gamelon"},
+				{"searchTerm": "Zelda - Der Zauberstab von Gamelon"},
+				{"searchTerm": "Zelda - The Wand of Gamelon"}
+			]
+		},
+		{
+			"group": "Zombie Dinos from Planet Zeltoid",
+			"titles": [
+				{"searchTerm": "Zombie Dinos de la Planete Zeltoide"},
+				{"searchTerm": "Zombie Dinos from Planet Zeltoid"},
+				{"searchTerm": "Zombie Dinos van de Planeet Zeltoid"},
+				{"searchTerm": "Zombie Dinos vom Planeten Zeltoid"}
+			]
+		}
+	]
+}

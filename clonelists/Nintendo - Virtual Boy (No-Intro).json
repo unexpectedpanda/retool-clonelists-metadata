@@ -1,0 +1,52 @@
+{
+	"description": {
+		"name": "Nintendo - Virtual Boy (No-Intro)",
+		"lastUpdated": "21 January 2023",
+		"minimumVersion": "2.00"
+	},
+
+	"variants": [
+		{
+			"group": "Elevated Speed",
+			"titles": [
+				{"searchTerm": "Elevated Speed (High Resolution Version)"},
+				{"searchTerm": "Elevated Speed (Low Resolution Version)"}
+			]
+		},
+		{
+			"group": "Galactic Pinball",
+			"titles": [
+				{"searchTerm": "Galactic Pinball"},
+				{"searchTerm": "Space Pinball", "priority": 2}
+			]
+		},
+		{
+			"group": "Golf",
+			"titles": [
+				{"searchTerm": "Golf"},
+				{"searchTerm": "T&E Virtual Golf"}
+			]
+		},
+		{
+			"group": "Jack Bros.",
+			"titles": [
+				{"searchTerm": "Jack Bros."},
+				{"searchTerm": "Jack Bros. no Meiro de Hiihoo!"}
+			]
+		},
+		{
+			"group": "Panic Bomber",
+			"titles": [
+				{"searchTerm": "Panic Bomber"},
+				{"searchTerm": "Tobidase! Panibon"}
+			]
+		},
+		{
+			"group": "Virtual League Baseball",
+			"titles": [
+				{"searchTerm": "Virtual League Baseball"},
+				{"searchTerm": "Virtual Pro Yakyuu '95"}
+			]
+		}
+	]
+}

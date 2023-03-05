@@ -1,0 +1,242 @@
+{
+	"description": {
+		"name": "Non-Redump - Sony - PlayStation Portable (No-Intro)",
+		"lastUpdated": "21 January 2023",
+		"minimumVersion": "2.00"
+	},
+
+	"overrides": [
+		{
+			"searchTerm": "TalkMan EURO - TalkMan Europa Gengo Ban (Asia) (En,Fr,De,Es,It,Ko) (v1.03) (Microphone Doukonban)",
+			"nameType": "full",
+			"newGroup": "TalkMan EURO - TalkMan Europa Gengo Ban"
+		},
+		{
+			"searchTerm": "TalkMan Euro (Asia) (En,Fr,De,Es,It,Zh) (v1.03) (Software Doukonban)",
+			"nameType": "full",
+			"newGroup": "TalkMan EURO - TalkMan Europa Gengo Ban"
+		}
+	],
+
+	"variants": [
+		{
+			"group": "Bubble Bobble - Evolution",
+			"titles": [
+				{"searchTerm": "Bubble Bobble - Evolution"},
+				{"searchTerm": "Bubble Bobble - Magical Tower Daisakusen!!"}
+			]
+		},
+		{
+			"group": "Buzz! Brain of the World",
+			"titles": [
+				{"searchTerm": "Buzz! Brain of the World"},
+				{"searchTerm": "Buzz! Il Quizzone Nazionale"}
+			]
+		},
+		{
+			"group": "Cars",
+			"titles": [
+				{"searchTerm": "Bilar"},
+				{"searchTerm": "Biler"},
+				{"searchTerm": "Cars"}
+			]
+		},
+		{
+			"group": "Coded Arms - Contagion",
+			"titles": [
+				{"searchTerm": "Coded Arms - Contagion"},
+				{"searchTerm": "Coded Gun - Contagion"}
+			]
+		},
+		{
+			"group": "Con - Gamble Fight, The",
+			"titles": [
+				{"searchTerm": "Con - Gamble Fight, The"},
+				{"searchTerm": "Gamble Con Fight"}
+			]
+		},
+		{
+			"group": "Crash Tag Team Racing",
+			"titles": [
+				{"searchTerm": "Crash Bandicoot - Gacchanko World"},
+				{"searchTerm": "Crash Tag Team Racing"}
+			]
+		},
+		{
+			"group": "Crimsongem Saga",
+			"titles": [
+				{"searchTerm": "Crimsongem Saga"},
+				{"searchTerm": "Garnet Chronicle - Kouki no Maseki"}
+			]
+		},
+		{
+			"group": "Crisis Core - Final Fantasy VII",
+			"titles": [
+				{"searchTerm": "Crisis Core - Final Fantasy VII (10th Anniversary Limited Edition)"},
+				{"searchTerm": "Crisis Core - Final Fantasy VII", "priority": 2}
+			]
+		},
+		{
+			"group": "Dante's Inferno",
+			"titles": [
+				{"searchTerm": "Dante's Inferno"},
+				{"searchTerm": "Dante's Inferno - Shinkyoku Jigoku-Hen"}
+			]
+		},
+		{
+			"group": "Dead Head Fred",
+			"titles": [
+				{"searchTerm": "Dead Head Fred"},
+				{"searchTerm": "Dead Head Fred - Kubinashi Tantei no Akumu"}
+			]
+		},
+		{
+			"group": "Dynasty Warriors Vol. 2",
+			"titles": [
+				{"searchTerm": "Dynasty Warriors Vol. 2"},
+				{"searchTerm": "Shin Sangoku Musou - 2nd Evolution"}
+			]
+		},
+		{
+			"group": "FIFA 10",
+			"titles": [
+				{"searchTerm": "FIFA 10"},
+				{"searchTerm": "FIFA 10 - World Class Soccer"}
+			]
+		},
+		{
+			"group": "FIFA 11",
+			"titles": [
+				{"searchTerm": "FIFA 11 - World Class Soccer"},
+				{"searchTerm": "FIFA 11 (Platinum Edition)"}
+			]
+		},
+		{
+			"group": "FIFA 14",
+			"titles": [
+				{"searchTerm": "FIFA 14"},
+				{"searchTerm": "FIFA 14 - World Class Soccer"}
+			]
+		},
+		{
+			"group": "FIFA Soccer 13",
+			"titles": [
+				{"searchTerm": "FIFA 13"},
+				{"searchTerm": "FIFA 13 - World Class Soccer"},
+				{"searchTerm": "FIFA Soccer 13"}
+			]
+		},
+		{
+			"group": "Final Approach 2 - 1st Priority Portable",
+			"titles": [
+				{"searchTerm": "Final Approach 2 - 1st Priority Portable"},
+				{"searchTerm": "Final Approach 2 - 1st Priority Portable (Limited Edition)", "priority": 2}
+			]
+		},
+		{
+			"group": "King of Fighters Collection, The - The Orochi Saga",
+			"titles": [
+				{"searchTerm": "King of Fighters Collection, The - The Orochi Saga"},
+				{"searchTerm": "King of Fighters Portable '94-'98, The - Chapter of Orochi"}
+			]
+		},
+		{
+			"group": "Koukaku Kidoutai - Stand Alone Complex",
+			"titles": [
+				{"searchTerm": "Koukaku Kidoutai - Stand Alone Complex"},
+				{"searchTerm": "Koukaku Kidoutai - Stand Alone Complex - Kariudo no Ryouiki"}
+			]
+		},
+		{
+			"group": "Lost Regnum - Makutsu no Koutei",
+			"titles": [
+				{"searchTerm": "Lost Regnum - Makutsu no Koutei"},
+				{"searchTerm": "Lost Regnum - The Emperor of Theives"}
+			]
+		},
+		{
+			"group": "Moeru Mahjong - Moejong",
+			"titles": [
+				{"searchTerm": "Moeru Mahjong - Moejong (Premium Box)"},
+				{"searchTerm": "Moeru Mahjong - Moejong", "priority": 2}
+			]
+		},
+		{
+			"group": "MotorStorm - Arctic Edge",
+			"titles": [
+				{"searchTerm": "MotorStorm - Arctic Edge"},
+				{"searchTerm": "MotorStorm - Raging Ice"}
+			]
+		},
+		{
+			"group": "Pursuit Force",
+			"titles": [
+				{"searchTerm": "Pursuit Force"},
+				{"searchTerm": "Pursuit Force - Daitsuiseki"}
+			]
+		},
+		{
+			"group": "Ratatouille",
+			"titles": [
+				{"searchTerm": "Ratatooee"},
+				{"searchTerm": "Ratatouille"}
+			]
+		},
+		{
+			"group": "Ratchet & Clank - Size Matters",
+			"titles": [
+				{"searchTerm": "Ratchet & Clank - Size Matters"},
+				{"searchTerm": "Ratchet & Clank 5 - Gekitotsu! Dodeka Ginga no MiriMiri Gundan"}
+			]
+		},
+		{
+			"group": "Resistance - Retribution",
+			"titles": [
+				{"searchTerm": "Resistance - Houfuku no Toki"},
+				{"searchTerm": "Resistance - Retribution"}
+			]
+		},
+		{
+			"group": "Sega Rally Revo",
+			"titles": [
+				{"searchTerm": "Sega Rally"},
+				{"searchTerm": "Sega Rally Revo"}
+			]
+		},
+		{
+			"group": "Sims 2, The",
+			"titles": [
+				{"searchTerm": "Sims 2, The"},
+				{"searchTerm": "Sims 2, The - Dr. Dominic no Inbou"}
+			]
+		},
+		{
+			"group": "Strikers 1945 Plus Portable",
+			"titles": [
+				{"searchTerm": "Strikers 1945 Plus"},
+				{"searchTerm": "Strikers 1945 Plus Portable"}
+			]
+		},
+		{
+			"group": "Up",
+			"titles": [
+				{"searchTerm": "Psila Ston Ourano"},
+				{"searchTerm": "Up"}
+			]
+		},
+		{
+			"group": "Warriors Orochi",
+			"titles": [
+				{"searchTerm": "Musou Orochi"},
+				{"searchTerm": "Warriors Orochi"}
+			]
+		},
+		{
+			"group": "WTF - Work Time Fun",
+			"titles": [
+				{"searchTerm": "Beit Hell 2000"},
+				{"searchTerm": "WTF - Work Time Fun"}
+			]
+		}
+	]
+}
