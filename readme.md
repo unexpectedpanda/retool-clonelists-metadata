@@ -14,8 +14,7 @@ that `clonelists/hash.json` is updated accordingly.
 Metadata files are auto-generated from Redump and No-Intro databases, and should not be
 manually updated.
 
-If you want to make a change to the data, don't submit a PR here. Instead, report the
-issue upstream:
+To make a change, don't submit a PR. Instead, report the issue upstream:
 
 #### No-Intro
 
