@@ -7,7 +7,7 @@
 			"These are defaults that Retool requires, don't modify this file.",
 			"Check user-config.yaml for user-editable settings."
 		],
-		"lastUpdated": "5 March 2023"
+		"lastUpdated": "13 March 2023"
 	},
 
 	"ignoreTags": [
@@ -205,6 +205,7 @@
 		"\\s?\\(Namco Museum Archives Vol [0-9]\\)",
 		"\\s?\\(NES Mini Version\\)",
 		"\\s?\\(PC Rerelease\\)",
+		"\\s?\\(Pokemon Box\\)",
 		"\\s?\\(Sega Ages\\)",
 		"\\s?\\(SEGA Classic Collection\\)",
 		"\\s?\\(Sega Smash Pack(?: [0-9])?\\)",
