@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Sony - PlayStation (Redump)",
-		"lastUpdated": "28 January 2023",
+		"lastUpdated": "17 March 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -2242,7 +2242,8 @@
 				{"searchTerm": "Card Shark"},
 				{"searchTerm": "Family Card Games Fun Pack"},
 				{"searchTerm": "Family Games Compendium (Disc 2)"},
-				{"searchTerm": "Trump Shiyou yo!"}
+				{"searchTerm": "Trump Shiyou yo!"},
+				{"searchTerm": "Trump Shiyou yo! (Fukkokuban)", "priority": 2}
 			]
 		},
 		{
@@ -6374,13 +6375,6 @@
 			"titles": [
 				{"searchTerm": "Tekkyuu - True Pinball"},
 				{"searchTerm": "True Pinball"}
-			]
-		},
-		{
-			"group": "Trump Shiyou yo!",
-			"titles": [
-				{"searchTerm": "Trump Shiyou yo!"},
-				{"searchTerm": "Trump Shiyou yo! (Fukkokuban)", "priority": 2}
 			]
 		},
 		{
