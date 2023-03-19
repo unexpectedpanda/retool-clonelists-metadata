@@ -33,7 +33,7 @@
 				{"searchTerm": "Example Title 2 - Special Edition"}
 			],
 			"compilations": [
-				{"searchTerm": "Example Title Compilation Pack", "priority": 2},
+				{"searchTerm": "Example Title Compilation Pack"},
 				{"searchTerm": "Example Title 1 & 2", "priority": 2}
 			]
 		},
@@ -173,7 +173,7 @@
 				{"searchTerm": "Title J"}
 			],
 			"compilations": [
-				{"searchTerm": "Title J + Title K", "titlePosition": 1},
+				{"searchTerm": "Title J + Title K", "priority": 2, "titlePosition": 1},
 				{"searchTerm": "Title J + Title K + Title L", "titlePosition": 1}
 			]
 		},
@@ -184,7 +184,7 @@
 			],
 			"compilations": [
 				{"searchTerm": "Title J + Title K", "titlePosition": 2},
-				{"searchTerm": "Title J + Title K + Title L", "titlePosition": 2}
+				{"searchTerm": "Title J + Title K + Title L", "priority": 2, "titlePosition": 2}
 			]
 		},
 		{
