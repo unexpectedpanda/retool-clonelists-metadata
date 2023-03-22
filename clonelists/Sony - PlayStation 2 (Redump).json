@@ -53,6 +53,11 @@
 
 	"overrides": [
 		{
+			"searchTerm": "Gadget Racers \\(Europe\\).*",
+			"nameType": "regex",
+			"newGroup": "Gadget Racers Europe"
+		},
+		{
 			"searchTerm": "^Micro Machines V4 \\((USA|Europe)\\)(.*?)",
 			"nameType": "regex",
 			"newGroup": "Micro Machines V4"
@@ -2514,7 +2519,8 @@
 		{
 			"group": "Gadget Racers",
 			"titles": [
-				{"searchTerm": "Choro Q HG 3"},
+				{"searchTerm": "Choro Q HG"},
+				{"searchTerm": "Choro Q HG (Jenny Hi-Grade Box)"},
 				{"searchTerm": "Gadget Racers"},
 				{"searchTerm": "Penny Racers"}
 			]
