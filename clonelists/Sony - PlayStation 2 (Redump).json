@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Sony - PlayStation 2 (Redump)",
-		"lastUpdated": "17 March 2023",
+		"lastUpdated": "25 March 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -55,7 +55,7 @@
 		{
 			"searchTerm": "^Micro Machines V4 \\((USA|Europe)\\)(.*?)",
 			"nameType": "regex",
-			"newGroup": "Micro Machines V4"
+			"newGroup": "Micro Machines Veefour"
 		},
 		{
 			"searchTerm": "MLB 2003 (Japan)",
@@ -68,7 +68,7 @@
 		{
 			"searchTerm": "^NBA Street V3 \\((USA|Europe|Japan|Korea)\\)(.*)?",
 			"nameType": "regex",
-			"newGroup": "NBA Street V3"
+			"newGroup": "NBA Street Veethree"
 		}
 	],
 
