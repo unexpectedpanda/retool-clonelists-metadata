@@ -58,22 +58,12 @@
 			"newGroup": "Gadget Racers Europe"
 		},
 		{
-			"searchTerm": "^Micro Machines V4 \\((USA|Europe)\\)(.*?)",
-			"nameType": "regex",
-			"newGroup": "Micro Machines V4"
-		},
-		{
 			"searchTerm": "MLB 2003 (Japan)",
 			"newGroup": "MLB 2004"
 		},
 		{
 			"searchTerm": "MLB 2004 (Japan)",
 			"newGroup": "MLB 2005"
-		},
-		{
-			"searchTerm": "^NBA Street V3 \\((USA|Europe|Japan|Korea)\\)(.*)?",
-			"nameType": "regex",
-			"newGroup": "NBA Street V3"
 		}
 	],
 
@@ -4266,6 +4256,18 @@
 			]
 		},
 		{
+			"group": "Micro Machines",
+			"titles": [
+				{"searchTerm": "Micro Machines"}
+			]
+		},
+		{
+			"group": "Micro Machines V4",
+			"titles": [
+				{"searchTerm": "Micro Machines V4"}
+			]
+		},
+		{
 			"group": "Midnight Club 3 - DUB Edition",
 			"titles": [
 				{"searchTerm": "Midnight Club 3 - DUB Edition"}
@@ -4534,10 +4536,22 @@
 			]
 		},
 		{
+			"group": "NBA Street",
+			"titles": [
+				{"searchTerm": "NBA Street"}
+			]
+		},
+		{
 			"group": "NBA Street Vol. 2",
 			"titles": [
 				{"searchTerm": "NBA Street 2 - Dunk Tengoku"},
 				{"searchTerm": "NBA Street Vol. 2"}
+			]
+		},
+		{
+			"group": "NBA Street V3",
+			"titles": [
+				{"searchTerm": "NBA Street V3"}
 			]
 		},
 		{
