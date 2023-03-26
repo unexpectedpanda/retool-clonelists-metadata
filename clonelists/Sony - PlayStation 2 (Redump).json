@@ -53,9 +53,9 @@
 
 	"overrides": [
 		{
-			"searchTerm": "Gadget Racers \\(Europe\\).*",
+			"searchTerm": "^Micro Machines V4 \\((USA|Europe)\\)(.*?)",
 			"nameType": "regex",
-			"newGroup": "Gadget Racers Europe"
+			"newGroup": "Micro Machines Veefour"
 		},
 		{
 			"searchTerm": "MLB 2003 (Japan)",
@@ -64,6 +64,11 @@
 		{
 			"searchTerm": "MLB 2004 (Japan)",
 			"newGroup": "MLB 2005"
+		},
+		{
+			"searchTerm": "^NBA Street V3 \\((USA|Europe|Japan|Korea)\\)(.*)?",
+			"nameType": "regex",
+			"newGroup": "NBA Street Veethree"
 		}
 	],
 
