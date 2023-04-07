@@ -422,6 +422,9 @@
 	"2002 FIFA World Cup (Italy)": {
 		"languages": ["It"]
 	},
+	"201 Action Adventure Games (USA)": {
+		"languages": []
+	},
 	"201 Solid Gold Games (USA)": {
 		"languages": ["En"]
 	},
@@ -656,8 +659,8 @@
 	"30 DVD Games (Europe)": {
 		"languages": ["En"]
 	},
-	"30-1 Limited Edition (France)": {
-		"languages": []
+	"30-1 Limited Edition (France) (En,Fr,De,Es,It,Nl)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
 	},
 	"30-1 Limited Edition (Germany) (En,Fr,De,Es,It,Nl)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
@@ -857,7 +860,7 @@
 	"46 (Russia)": {
 		"languages": ["Ru"]
 	},
-	"4K-Robots (Taiwan)": {
+	"4T-Robots (Taiwan)": {
 		"languages": ["Zh"]
 	},
 	"4th Unit Act. 4, The - Zero (Japan)": {
@@ -1008,10 +1011,10 @@
 		"languages": ["It"]
 	},
 	"7 Sins (Russia) (Disc 1) (Igrovoj)": {
-		"languages": []
+		"languages": ["Ru"]
 	},
 	"7 Sins (Russia) (Disc 2)": {
-		"languages": []
+		"languages": ["Ru"]
 	},
 	"7 Sins (Spain)": {
 		"languages": ["Es"]
@@ -1129,6 +1132,9 @@
 	},
 	"9 - The Last Resort (USA)": {
 		"languages": ["En"]
+	},
+	"9 - The The Last Resort (France)": {
+		"languages": []
 	},
 	"95 af Verdens Bedste Windows 95 Spil (Denmark)": {
 		"languages": ["En"]
@@ -1468,6 +1474,9 @@
 	},
 	"Ace Ventura - Detective de Mascotas (Spain)": {
 		"languages": ["Es"]
+	},
+	"Ace o Nerae! Neraiuchi Typing Smash!! (Japan)": {
+		"languages": ["Ja"]
 	},
 	"Aces - The Complete Collector's Edition (Europe)": {
 		"languages": ["En"]
@@ -1934,6 +1943,9 @@
 	"Advent Rising (USA)": {
 		"languages": ["En"]
 	},
+	"Advent Rising (USA) (Bonus DVD)": {
+		"languages": ["En"]
+	},
 	"Advent Rising (USA) (Rerelease)": {
 		"languages": ["En"]
 	},
@@ -2033,7 +2045,7 @@
 	"Adventures with Barbie - Ocean Discovery (USA) (Rerelease)": {
 		"languages": []
 	},
-	"Aegean-kai no Shizuku (Japan)": {
+	"Aege-kai no Shizuku (Japan)": {
 		"languages": ["Ja"]
 	},
 	"Aegypten Entdecken mit Playmobil (Germany)": {
@@ -2204,6 +2216,15 @@
 	"Age of Conan - Hyborian Adventures (Europe) (En,Fr,De,Es) (Disc 2)": {
 		"languages": ["De", "En", "Es", "Fr"]
 	},
+	"Age of Conan - Hyborian Adventures (USA) (En,Fr,De,Es) (Disc 1)": {
+		"languages": ["De", "En", "Es", "Fr"]
+	},
+	"Age of Conan - Hyborian Adventures (USA) (En,Fr,De,Es) (Disc 2)": {
+		"languages": ["De", "En", "Es", "Fr"]
+	},
+	"Age of Empires (Australia)": {
+		"languages": []
+	},
 	"Age of Empires (Europe)": {
 		"languages": ["En"]
 	},
@@ -2250,6 +2271,9 @@
 		"languages": ["En"]
 	},
 	"Age of Empires (USA) (OEM)": {
+		"languages": ["En"]
+	},
+	"Age of Empires (USA) (OEM) (Alt)": {
 		"languages": ["En"]
 	},
 	"Age of Empires (USA) (OEM) (v1.0a)": {
@@ -2363,9 +2387,6 @@
 	"Age of Empires II - The Age of Kings (Europe) (Xplosiv) (Alt)": {
 		"languages": ["En"]
 	},
-	"Age of Empires II - The Age of Kings (Europe, Asia)": {
-		"languages": ["En"]
-	},
 	"Age of Empires II - The Age of Kings (Germany)": {
 		"languages": ["De"]
 	},
@@ -2430,6 +2451,9 @@
 		"languages": ["En"]
 	},
 	"Age of Empires II - The Age of Kings (USA, Europe)": {
+		"languages": ["En"]
+	},
+	"Age of Empires II - The Age of Kings (World)": {
 		"languages": ["En"]
 	},
 	"Age of Empires II - The Age of Kings - Official Scenario Design Toolkit CD (USA)": {
@@ -2765,6 +2789,9 @@
 	"Age of Wonders - Shadow Magic (USA)": {
 		"languages": ["En"]
 	},
+	"Age of Wonders - Three Game Value Bundle (USA)": {
+		"languages": ["En"]
+	},
 	"Age of Wonders - Trilogy (Poland)": {
 		"languages": ["Pl"]
 	},
@@ -2969,6 +2996,9 @@
 	"AirRade -Summer- (Japan)": {
 		"languages": ["Ja"]
 	},
+	"AirStrike 2 (Russia)": {
+		"languages": ["Ru"]
+	},
 	"AirXonix (Europe)": {
 		"languages": ["En"]
 	},
@@ -3045,6 +3075,9 @@
 		"languages": ["Ja"]
 	},
 	"Akagawa Jirou - Majo-tachi no Nemuri Kanzenban (Japan)": {
+		"languages": ["Ja"]
+	},
+	"Akai Hitomi no Seraph - Red Eye's Angel & Purple Eye's Devil (Japan)": {
 		"languages": ["Ja"]
 	},
 	"Akai Takami Works - Akai Takami CD-ROM Gashuu (China) (PC Game Bundle)": {
@@ -3830,6 +3863,9 @@
 	"Alpha Prime (USA)": {
 		"languages": ["En"]
 	},
+	"Alpha Protocol (Argentina) (En,Fr,De,Es,It) (Disc 2)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
 	"Alpha Protocol (Europe) (En,Fr,De,Es,It) (Disc 1)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
@@ -4454,8 +4490,8 @@
 	"Angeraze Complete (Japan)": {
 		"languages": ["Ja"]
 	},
-	"Angry Birds (Germany)": {
-		"languages": ["De"]
+	"Angry Birds (Europe)": {
+		"languages": ["En"]
 	},
 	"Angry Birds (Russia)": {
 		"languages": ["En"]
@@ -4472,7 +4508,7 @@
 	"Angry Birds Rio (Europe)": {
 		"languages": ["En"]
 	},
-	"Angry Birds Seasons (Europe)": {
+	"Angry Birds Seasons (Europe, Australia)": {
 		"languages": ["En"]
 	},
 	"Angry Birds Seasons (USA)": {
@@ -4577,7 +4613,7 @@
 	"Anno 1404 (Russia)": {
 		"languages": ["Ru"]
 	},
-	"Anno 1404 - Gold Edition (Australia, New Zealand) (En,Fr,Es,It)": {
+	"Anno 1404 - Gold Edition (Australia) (En,Fr,Es,It)": {
 		"languages": ["En", "Es", "Fr", "It"]
 	},
 	"Anno 1404 - Gold Edition (Russia)": {
@@ -4835,11 +4871,11 @@
 	"Aoshi Sanguo - Sanfen Tianxia (China)": {
 		"languages": ["Zh"]
 	},
+	"Apach - Operaciya Antiterror (Russia)": {
+		"languages": ["Ru"]
+	},
 	"Apache - The Combat Helicopter Simulation (USA)": {
 		"languages": ["En"]
-	},
-	"Apache AH-64 - Operacija Antiterror (Russia)": {
-		"languages": ["Ru"]
 	},
 	"Apache Longbow (Europe)": {
 		"languages": ["En"]
@@ -5140,6 +5176,9 @@
 	},
 	"Area 51 (USA) (En,Fr,De,Es,It) (Disc 3)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Area 51 (USA) (En,Ja,Fr,De,Es)": {
+		"languages": ["De", "En", "Es", "Fr", "Ja"]
 	},
 	"Area D (Germany)": {
 		"languages": []
@@ -5632,6 +5671,9 @@
 	},
 	"Assassin 2015 (USA)": {
 		"languages": ["En"]
+	},
+	"Assassin Ann (Japan)": {
+		"languages": ["Ja"]
 	},
 	"Assassin Ann (Japan) (Demo)": {
 		"languages": ["Ja"]
@@ -7619,6 +7661,9 @@
 	"Bajkowy Swiat Gier 1-2008 (Poland)": {
 		"languages": []
 	},
+	"Bajkowy Swiat Gier 2-2008 (Poland)": {
+		"languages": ["Pl"]
+	},
 	"Bakevot Hamilim Havudot (Israel)": {
 		"languages": ["He"]
 	},
@@ -8086,6 +8131,9 @@
 	},
 	"Ballistics (Europe) (OEM) (20020305)": {
 		"languages": ["En"]
+	},
+	"Balls of Steel (Australia)": {
+		"languages": []
 	},
 	"Balls of Steel (Europe)": {
 		"languages": ["En"]
@@ -8966,7 +9014,7 @@
 	"Battlefield 2 (USA) (En,Ja,Fr,De,Es,It,Nl,Sv,Zh,Ko,Pl,Th) (Disc 3) (Rerelease)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Ko", "Nl", "Pl", "Sv", "Th", "Zh"]
 	},
-	"Battlefield 2 (USA, Europe) (En,Ja,Fr,De,Es,It,Nl,Sv,Zh,Ko,Pl,Th)": {
+	"Battlefield 2 (World) (En,Ja,Fr,De,Es,It,Nl,Sv,Zh,Ko,Pl,Th)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Ko", "Nl", "Pl", "Sv", "Th", "Zh"]
 	},
 	"Battlefield 2 - Booster Packs Collection (USA)": {
@@ -9402,6 +9450,9 @@
 		"languages": ["De", "En"]
 	},
 	"Beano Brain Teaser Quiz (UK)": {
+		"languages": ["En"]
+	},
+	"Bear's Imagine That! (USA)": {
 		"languages": ["En"]
 	},
 	"Bear's Sense of Adventure (USA)": {
@@ -11054,6 +11105,12 @@
 	"Black & White 2 (Europe) (En,Fr,De,Es,It,Nl,Pl)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl", "Pl"]
 	},
+	"Black & White 2 (Europe) (En,Fr,De,Es,It,Nl,Pl) (Rerelease)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Nl", "Pl"]
+	},
+	"Black & White 2 (Germany) (En,Fr,De,Es,It,Nl,Pl) (Rerelease)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Nl", "Pl"]
+	},
 	"Black & White 2 (USA) (Disc 1)": {
 		"languages": []
 	},
@@ -11063,10 +11120,19 @@
 	"Black & White 2 (USA) (Disc 2)": {
 		"languages": []
 	},
+	"Black & White 2 (USA) (Disc 2) (Alt)": {
+		"languages": []
+	},
 	"Black & White 2 (USA) (Disc 3)": {
 		"languages": []
 	},
+	"Black & White 2 (USA) (Disc 3) (Alt)": {
+		"languages": []
+	},
 	"Black & White 2 (USA) (Disc 4)": {
+		"languages": []
+	},
+	"Black & White 2 (USA) (Disc 4) (Alt)": {
 		"languages": []
 	},
 	"Black & White 2 (USA) (E3 2005 Assets - Offline Media)": {
@@ -11554,6 +11620,9 @@
 	},
 	"Blinky Bills Otroliga Ballongaeventyr (Sweden)": {
 		"languages": ["Sv"]
+	},
+	"Blitz Strasse (Japan)": {
+		"languages": ["Ja"]
 	},
 	"Blitzkrieg (Europe) (Disc 1) (Rerelease)": {
 		"languages": ["En"]
@@ -12572,6 +12641,9 @@
 	"Bridge Builder (Germany) (Linux)": {
 		"languages": ["De"]
 	},
+	"Bridge Constructor Physics Bundle, The - Vol. 1 (USA)": {
+		"languages": ["En"]
+	},
 	"Bridge Deluxe II (USA)": {
 		"languages": ["En"]
 	},
@@ -12787,6 +12859,9 @@
 	},
 	"Brothers in Arms - Hell's Highway (USA) (En,Fr,Es,It)": {
 		"languages": ["En", "Es", "Fr", "It"]
+	},
+	"Brothers in Arms - Road to Hill 30 (Asia)": {
+		"languages": []
 	},
 	"Brothers in Arms - Road to Hill 30 (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -16241,6 +16316,12 @@
 	"Campus - Student Life Simulation (Europe)": {
 		"languages": ["En"]
 	},
+	"Can Can Bunny History (Japan)": {
+		"languages": ["Ja"]
+	},
+	"Can Can Bunny Primo (Japan)": {
+		"languages": ["Ja"]
+	},
 	"Can You See What I See + Etch A Sketch - Knobby's Quest (USA)": {
 		"languages": ["En"]
 	},
@@ -17534,6 +17615,9 @@
 	"Chicken Shoot (Portugal) (En,Fr,De,Es,It,Nl,Pl,Ru,El,Hu,Tr,Ro)": {
 		"languages": ["De", "El", "En", "Es", "Fr", "Hu", "It", "Nl", "Pl", "Ro", "Ru", "Tr"]
 	},
+	"Chicken Shoot 3 (Russia)": {
+		"languages": ["Ru"]
+	},
 	"Children's Bible Stories (USA)": {
 		"languages": ["En"]
 	},
@@ -17873,6 +17957,9 @@
 	"Cidade Virtual (Portugal)": {
 		"languages": ["Pt"]
 	},
+	"Cilgin Tarla 3 - Buz Devri (Turkey)": {
+		"languages": ["Tr"]
+	},
 	"Cina - Crimini nella Citta Proibita (Italy)": {
 		"languages": ["It"]
 	},
@@ -17891,8 +17978,8 @@
 	"Cities XL (Italy)": {
 		"languages": ["It"]
 	},
-	"Cities XL 2011 (Europe, Australia)": {
-		"languages": []
+	"Cities XL 2011 (Europe, Australia) (En,Fr,De,Es,It)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Cities XL 2012 (Japan)": {
 		"languages": ["Ja"]
@@ -18851,6 +18938,9 @@
 	"Close Combat (USA, Europe)": {
 		"languages": ["En"]
 	},
+	"Close Combat - A Bridge Too Far (USA) (OEM)": {
+		"languages": ["En"]
+	},
 	"Close Combat - A Bridge Too Far (USA) (Rerelease)": {
 		"languages": ["En"]
 	},
@@ -19322,8 +19412,14 @@
 	"Colin McRae - DiRT (Europe) (En,Fr,De,Es,It) (Rerelease)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
+	"Colin McRae - DiRT (Poland)": {
+		"languages": ["Pl"]
+	},
 	"Colin McRae - DiRT (Russia)": {
 		"languages": ["Ru"]
+	},
+	"Colin McRae Rally (Australia)": {
+		"languages": []
 	},
 	"Colin McRae Rally (Europe) (En,Fr,De,Es)": {
 		"languages": ["De", "En", "Es", "Fr"]
@@ -19578,7 +19674,7 @@
 		"languages": ["De"]
 	},
 	"Combat Wings - Battle of Britain (Europe)": {
-		"languages": []
+		"languages": ["En"]
 	},
 	"Combat Zone - Special Forces (Turkey)": {
 		"languages": ["En"]
@@ -19760,9 +19856,6 @@
 	"Command & Conquer - Generals (Europe) (Disc 1)": {
 		"languages": ["En"]
 	},
-	"Command & Conquer - Generals (Europe) (Disc 2)": {
-		"languages": []
-	},
 	"Command & Conquer - Generals (France) (Disc 1) (Rerelease)": {
 		"languages": ["Fr"]
 	},
@@ -19790,8 +19883,14 @@
 	"Command & Conquer - Generals (USA) (Disc 1)": {
 		"languages": ["En"]
 	},
+	"Command & Conquer - Generals (USA) (Disc 1) (Alt)": {
+		"languages": ["En"]
+	},
 	"Command & Conquer - Generals (USA) (Disc 2)": {
 		"languages": ["En"]
+	},
+	"Command & Conquer - Generals (USA, Europe) (Disc 2)": {
+		"languages": []
 	},
 	"Command & Conquer - Generals - Bonus Officer's Club Membership CD (Taiwan)": {
 		"languages": ["En"]
@@ -19830,6 +19929,9 @@
 		"languages": ["En"]
 	},
 	"Command & Conquer - Generals - Zero Hour (USA) (Disc 2)": {
+		"languages": ["En"]
+	},
+	"Command & Conquer - Generals - Zero Hour (USA) (Disc 2) (Alt 2)": {
 		"languages": ["En"]
 	},
 	"Command & Conquer - Generals - Zero Hour (USA) (Disc 2) (Alt)": {
@@ -22118,6 +22220,9 @@
 	"Computer Shopper - Issue 235 September 2007 (UK)": {
 		"languages": []
 	},
+	"Computer Shopper - Issue 237 November 2007 (UK)": {
+		"languages": []
+	},
 	"Computer Shopper - Issue 240 February 2008 (UK)": {
 		"languages": []
 	},
@@ -22194,6 +22299,9 @@
 		"languages": ["Pl"]
 	},
 	"Conflict - Desert Storm (Europe) (En,Fr,De,Es,It)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Conflict - Desert Storm (Europe) (En,Fr,De,Es,It) (Assets Disc)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Conflict - Desert Storm (USA)": {
@@ -22592,6 +22700,12 @@
 	"Cossacks - Back to War (Germany) (Rerelease) (Alt)": {
 		"languages": ["De"]
 	},
+	"Cossacks - Back to War (Russia)": {
+		"languages": ["Ru"]
+	},
+	"Cossacks - Back to War (Russia) (Rerelease)": {
+		"languages": ["Ru"]
+	},
 	"Cossacks - Back to War (USA)": {
 		"languages": ["En"]
 	},
@@ -22637,6 +22751,12 @@
 	"Cossacks - European Wars (Netherlands) (Rerelease)": {
 		"languages": ["En"]
 	},
+	"Cossacks - European Wars (Russia)": {
+		"languages": []
+	},
+	"Cossacks - European Wars (Russia) (Rerelease)": {
+		"languages": []
+	},
 	"Cossacks - European Wars (USA)": {
 		"languages": ["En"]
 	},
@@ -22669,6 +22789,9 @@
 	},
 	"Cossacks - The Art of War (Netherlands) (Rerelease)": {
 		"languages": ["En"]
+	},
+	"Cossacks - The Art of War (Russia)": {
+		"languages": []
 	},
 	"Cossacks - The Art of War (USA)": {
 		"languages": ["En"]
@@ -22865,11 +22988,17 @@
 	"Crazy Chicken Approaching (UK)": {
 		"languages": ["En"]
 	},
+	"Crazy Chicken Heart of Tibet (Turkey)": {
+		"languages": ["En"]
+	},
 	"Crazy Chicken Kart 2 (Europe)": {
 		"languages": ["En"]
 	},
 	"Crazy Chicken Kart 3 (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Crazy Chicken Pirates (Turkey)": {
+		"languages": ["En"]
 	},
 	"Crazy Diamonds (Argentina)": {
 		"languages": ["Es"]
@@ -22885,6 +23014,9 @@
 	},
 	"Crazy Factory (Turkey)": {
 		"languages": ["Tr"]
+	},
+	"Crazy Frog Racer (Australia)": {
+		"languages": []
 	},
 	"Crazy Frog Racer (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -22922,6 +23054,9 @@
 	"Crazy Machines 2 Complete (USA)": {
 		"languages": ["En"]
 	},
+	"Crazy Machines 3 (Italy) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Ko", "Pl", "Pt", "Ru", "Zh"]
+	},
 	"Crazy Machines Compilation (Germany)": {
 		"languages": ["De"]
 	},
@@ -22958,6 +23093,9 @@
 	"Crazy Taxi (Italy) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
+	"Crazy Taxi (Japan)": {
+		"languages": ["Ja"]
+	},
 	"Crazy Taxi (USA)": {
 		"languages": ["En"]
 	},
@@ -22983,6 +23121,9 @@
 		"languages": ["En"]
 	},
 	"Create City (Europe)": {
+		"languages": ["En"]
+	},
+	"Create Your Own Model Railway (Europe) (Rerelease)": {
 		"languages": ["En"]
 	},
 	"Create Your Own Model Railway Deluxe (Europe)": {
@@ -23059,6 +23200,9 @@
 	},
 	"Creatures 2 (Germany)": {
 		"languages": []
+	},
+	"Creatures 2 (Italy)": {
+		"languages": ["It"]
 	},
 	"Creatures 2 (UK)": {
 		"languages": ["En"]
@@ -23751,6 +23895,9 @@
 		"languages": []
 	},
 	"Cyber Chess (USA)": {
+		"languages": ["En"]
+	},
+	"Cyber Grandprix Championship Ver 1.00 (Japan)": {
 		"languages": ["En"]
 	},
 	"Cyber Save Editor (for PS3) (Japan)": {
@@ -24866,6 +25013,12 @@
 	"Daemonica (Italy)": {
 		"languages": ["It"]
 	},
+	"Daemonica (Poland) (Disc 1) (Rerelease)": {
+		"languages": ["Pl"]
+	},
+	"Daemonica (Poland) (Disc 2) (Rerelease)": {
+		"languages": ["Pl"]
+	},
 	"Daemonica (USA)": {
 		"languages": ["En"]
 	},
@@ -24976,6 +25129,9 @@
 	},
 	"Dale Earnhardt Jr. - SuperSnack 500 (USA)": {
 		"languages": ["En"]
+	},
+	"Dalk Gaiden (Japan)": {
+		"languages": ["Ja"]
 	},
 	"Dama e Dama Cinese (Italy)": {
 		"languages": ["It"]
@@ -26107,6 +26263,18 @@
 	},
 	"Deadly Tide (Italy) (Disc 4) (Livelli 14 e 15)": {
 		"languages": ["It"]
+	},
+	"Deadly Tide (Japan) (Disc 1) (Setup & Level 1-3)": {
+		"languages": ["Ja"]
+	},
+	"Deadly Tide (Japan) (Disc 2) (Level 4-8)": {
+		"languages": ["Ja"]
+	},
+	"Deadly Tide (Japan) (Disc 3) (Level 9-13)": {
+		"languages": ["Ja"]
+	},
+	"Deadly Tide (Japan) (Disc 4) (Level 14-15)": {
+		"languages": ["Ja"]
 	},
 	"Deadly Tide (USA, Canada) (Disc 1) (Setup and Levels 1-3)": {
 		"languages": ["En"]
@@ -27302,6 +27470,9 @@
 	"Devastation (Lithuania)": {
 		"languages": ["Lt"]
 	},
+	"Devastation (Russia)": {
+		"languages": ["Ru"]
+	},
 	"Devil Inside, The (Europe) (En,Fr)": {
 		"languages": ["En", "Fr"]
 	},
@@ -28001,6 +28172,9 @@
 	"Digital Plarail (Japan)": {
 		"languages": ["Ja"]
 	},
+	"Digital Tomica (Japan)": {
+		"languages": ["Ja"]
+	},
 	"Digital! Magazine DVD 110-2011 (Serbia)": {
 		"languages": []
 	},
@@ -28023,6 +28197,9 @@
 		"languages": ["En"]
 	},
 	"Dilbert's Desktop Games (USA) (OEM)": {
+		"languages": ["En"]
+	},
+	"Dilbert's Desktop Games (USA) (OEM) (Rev 1)": {
 		"languages": ["En"]
 	},
 	"Dimensions for Descent (USA)": {
@@ -28126,6 +28303,9 @@
 	},
 	"Dino Crisis 2 - Zakat chelovechestva (Russia)": {
 		"languages": ["Ru"]
+	},
+	"Dino Island (Turkey)": {
+		"languages": ["Tr"]
 	},
 	"Dino Island (USA)": {
 		"languages": ["En"]
@@ -28412,6 +28592,9 @@
 	"Discworld Noir (Germany) (Disc 3)": {
 		"languages": ["De"]
 	},
+	"Disgaea - Digital Media Disc (USA)": {
+		"languages": []
+	},
 	"Dishonored (Europe)": {
 		"languages": ["En"]
 	},
@@ -28604,7 +28787,13 @@
 	"Disney G-Force (USA) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
 	},
-	"Disney Games Collection - Kim Possible (Italy)": {
+	"Disney Games Collection - Paperino e l'Hockey (Italy)": {
+		"languages": ["It"]
+	},
+	"Disney Games Collection - Pippo e la Gara di Snowboard (Italy)": {
+		"languages": ["It"]
+	},
+	"Disney Games Collection - Pluto e la Corsa di Automobili (Italy)": {
 		"languages": ["It"]
 	},
 	"Disney Hippo Hop (Italy)": {
@@ -28652,6 +28841,9 @@
 	"Disney Koda Fratello Orso (Italy)": {
 		"languages": ["It"]
 	},
+	"Disney Ksiezniczka - Bajkowa Podroz (Poland)": {
+		"languages": ["Pl"]
+	},
 	"Disney La Bella e la Bestia - Il Ballo Magico (Italy)": {
 		"languages": ["It"]
 	},
@@ -28680,6 +28872,9 @@
 		"languages": ["It"]
 	},
 	"Disney La Rivincita dei Cattivi (Italy) (Disc 2)": {
+		"languages": ["It"]
+	},
+	"Disney La Sirenetta - Alla Ricerca di Flounder (Italy)": {
 		"languages": ["It"]
 	},
 	"Disney La Sirenetta II - Il Ritorno al Mare - Bottega dei Giochi (Italy)": {
@@ -28713,6 +28908,9 @@
 		"languages": ["It"]
 	},
 	"Disney Magic Artist - Cartoon Maker (USA)": {
+		"languages": ["En"]
+	},
+	"Disney Magic Artist 3D (USA)": {
 		"languages": ["En"]
 	},
 	"Disney Magico Artista (Italy) (Covermount)": {
@@ -28811,7 +29009,7 @@
 	"Disney Studio Grafico Disney Presenta Hercules (Italy)": {
 		"languages": ["It"]
 	},
-	"Disney TRON - Evolution (Argentina) (En,Fr,De,Es,It,Nl)": {
+	"Disney TRON - Evolution (Europe) (En,Fr,De,Es,It,Nl)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
 	},
 	"Disney TRON - Evolution (Russia) (En,Ru)": {
@@ -28822,6 +29020,9 @@
 	},
 	"Disney Tarzan (Russia)": {
 		"languages": ["En"]
+	},
+	"Disney Tarzan - Avventure a Quattro Zampe (Italy)": {
+		"languages": ["It"]
 	},
 	"Disney The Princess and the Frog (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -29276,6 +29477,9 @@
 	"Disney's Toontown Online (Europe) (Rerelease)": {
 		"languages": []
 	},
+	"Disney's Toontown Online (USA)": {
+		"languages": ["En"]
+	},
 	"Disney's Toy Story (Europe)": {
 		"languages": ["En"]
 	},
@@ -29369,6 +29573,9 @@
 	"Disney-Pixar Bichos - Una Aventura en Miniatura (Spain)": {
 		"languages": ["Es"]
 	},
+	"Disney-Pixar Brave (USA) (En,Fr,De,Es,It,Nl,Pl,Ru,Cs)": {
+		"languages": ["Cs", "De", "En", "Es", "Fr", "It", "Nl", "Pl", "Ru"]
+	},
 	"Disney-Pixar Buzz Lightyear 1st Grade (USA)": {
 		"languages": ["En"]
 	},
@@ -29395,6 +29602,9 @@
 	},
 	"Disney-Pixar Cars (UK)": {
 		"languages": []
+	},
+	"Disney-Pixar Cars 2 (USA) (En,Fr,Es,Pt)": {
+		"languages": ["En", "Es", "Fr", "Pt"]
 	},
 	"Disney-Pixar Cars Print Studio (Italy) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)": {
 		"languages": ["Da", "De", "En", "Es", "Fi", "Fr", "It", "Nl", "No", "Pt", "Sv"]
@@ -29551,6 +29761,9 @@
 	},
 	"Disney-Pixar Toy Story 3 (Scandinavia) (Sv,No,Da,Fi)": {
 		"languages": ["Da", "Fi", "No", "Sv"]
+	},
+	"Disney-Pixar Toy Story 3 (USA) (En,Fr,Es,Pt)": {
+		"languages": ["En", "Es", "Fr", "Pt"]
 	},
 	"Disney-Pixar Up (Europe) (En,Fr)": {
 		"languages": ["En", "Fr"]
@@ -30650,6 +30863,9 @@
 	"Dragon Quest X - All in One Package Version 1-Version 4 (Japan)": {
 		"languages": ["Ja"]
 	},
+	"Dragon Quest X - Ibara no Miko to Horobi no Kami Online (Japan)": {
+		"languages": []
+	},
 	"Dragon Quest X - Inishie no Ryuu no Denshou Online Version 3 (Japan)": {
 		"languages": ["Ja"]
 	},
@@ -30743,6 +30959,9 @@
 	"Dragon's Lair II - Time Warp (USA)": {
 		"languages": ["En"]
 	},
+	"Dragon's Lair II - Time Warp (USA) (DVD)": {
+		"languages": ["En"]
+	},
 	"Dragon's Lair III (USA) (Disc 1)": {
 		"languages": ["En"]
 	},
@@ -30777,6 +30996,9 @@
 		"languages": ["Zh"]
 	},
 	"Dragonsphere (Europe) (3 Plus 1)": {
+		"languages": ["En"]
+	},
+	"Dragonsphere (USA)": {
 		"languages": ["En"]
 	},
 	"Drakan - Order of the Flame (Europe)": {
@@ -31127,6 +31349,9 @@
 	"Driv3r (Poland) (Disc 5)": {
 		"languages": ["Pl"]
 	},
+	"Driv3r (Poland) (Rerelease)": {
+		"languages": ["Pl"]
+	},
 	"Driv3r (USA) (En,Pt) (Install Disc 1)": {
 		"languages": ["En", "Pt"]
 	},
@@ -31198,6 +31423,9 @@
 	},
 	"Driver - Parallel Lines (Italy) (En,Fr,De,Es,It) (Covermount)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Driver - Parallel Lines (Poland)": {
+		"languages": ["Pl"]
 	},
 	"Driver - Parallel Lines (USA) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -32123,6 +32351,9 @@
 	"EA Sports_2000 - E3 1999 (USA)": {
 		"languages": []
 	},
+	"EA Strategy Collection - Game Manuals (USA)": {
+		"languages": ["En"]
+	},
 	"EA Warfare Collection Game Manuals (USA)": {
 		"languages": ["En"]
 	},
@@ -32564,6 +32795,12 @@
 	"Echelon - Wind Warriors (Europe)": {
 		"languages": ["En"]
 	},
+	"Echo (Japan) (Disc 1)": {
+		"languages": ["Ja"]
+	},
+	"Echo (Japan) (Disc 2)": {
+		"languages": ["Ja"]
+	},
 	"Echo - Secrets of the Lost Cavern (Russia) (Disc 1)": {
 		"languages": ["Ru"]
 	},
@@ -32593,6 +32830,9 @@
 	},
 	"Economic War (Italy) (Covermount)": {
 		"languages": ["It"]
+	},
+	"Economic War (Turkey)": {
+		"languages": ["En"]
 	},
 	"Ecstatica (Europe)": {
 		"languages": ["En"]
@@ -33209,7 +33449,7 @@
 	"Elder Scrolls V, The - Skyrim (USA)": {
 		"languages": ["En"]
 	},
-	"Elder Scrolls V, The - Skyrim (USA, Europe)": {
+	"Elder Scrolls V, The - Skyrim (World)": {
 		"languages": ["En"]
 	},
 	"Elder Scrolls V, The - Skyrim - Legendary Edition (Europe)": {
@@ -33476,10 +33716,10 @@
 	"Emperor's Mahjong, The (USA) (En,Fr,Nl)": {
 		"languages": ["En", "Fr", "Nl"]
 	},
-	"Empire - Total War (Australia, New Zealand) (En,Fr,De,Es,It,Pl,Cs) (Disc 1)": {
+	"Empire - Total War (Australia) (En,Fr,De,Es,It,Pl,Cs) (Disc 1)": {
 		"languages": ["Cs", "De", "En", "Es", "Fr", "It", "Pl"]
 	},
-	"Empire - Total War (Australia, New Zealand) (En,Fr,De,Es,It,Pl,Cs) (Disc 2)": {
+	"Empire - Total War (Australia) (En,Fr,De,Es,It,Pl,Cs) (Disc 2)": {
 		"languages": ["Cs", "De", "En", "Es", "Fr", "It", "Pl"]
 	},
 	"Empire - Total War (Europe) (En,Fr,De,Es,It,Pl,Ru,Cs) (Disc 1)": {
@@ -34358,6 +34598,9 @@
 	"Eurofighter Typhoon (Europe) (En,Fr,De,Es,It) (Sold Out Software)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
+	"Europa 1400 - The Guild (USA)": {
+		"languages": []
+	},
 	"Europa Universalis (Germany)": {
 		"languages": ["De"]
 	},
@@ -34368,6 +34611,9 @@
 		"languages": ["En"]
 	},
 	"Europa Universalis (USA) (Rerelease)": {
+		"languages": ["En"]
+	},
+	"Europa Universalis - Rome (USA)": {
 		"languages": ["En"]
 	},
 	"Europa Universalis - Rome - Gold (USA)": {
@@ -34757,6 +35003,12 @@
 	"Evil Days of Luckless John (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
+	"Evil Dead - Hail to the King (Czech) (Disc 1)": {
+		"languages": ["En"]
+	},
+	"Evil Dead - Hail to the King (Czech) (Disc 2)": {
+		"languages": ["En"]
+	},
 	"Evil Dead - Hail to the King (Germany) (Disc 1)": {
 		"languages": ["En"]
 	},
@@ -34870,12 +35122,6 @@
 	},
 	"Evropejskie gonki (Russia)": {
 		"languages": ["Ru"]
-	},
-	"Evropejskie vojny - Kazaki (Russia)": {
-		"languages": []
-	},
-	"Evropejskie vojny - Kazaki (Russia) (Rerelease)": {
-		"languages": []
 	},
 	"Ewige Reise - Das Neue Atlantis (Germany)": {
 		"languages": []
@@ -35204,6 +35450,9 @@
 	"F-16 Multirole Fighter (USA)": {
 		"languages": ["En"]
 	},
+	"F-16 Savasan Sahin 2 - Yeni Gorevler (Turkey)": {
+		"languages": ["Tr"]
+	},
 	"F-19 Stealth Fighter (Europe)": {
 		"languages": ["En"]
 	},
@@ -35508,6 +35757,9 @@
 		"languages": ["En"]
 	},
 	"FBI Hostage Rescue (USA)": {
+		"languages": ["En"]
+	},
+	"FEMA for Kids 2001 (USA)": {
 		"languages": ["En"]
 	},
 	"FIFA - Die WM-Qualifikation 98 (Germany) (En,Fr,De,Es,Nl,Sv)": {
@@ -36458,6 +36710,9 @@
 	"Family Game 5 Pack (Canada)": {
 		"languages": ["En"]
 	},
+	"Family Game Pack Royale (USA)": {
+		"languages": []
+	},
 	"Family Game Time (USA)": {
 		"languages": ["En"]
 	},
@@ -36638,6 +36893,9 @@
 	"Far Cry (USA) (Disc 4) (OEM)": {
 		"languages": ["En"]
 	},
+	"Far Cry (USA) (En,Fr) (Rerelease)": {
+		"languages": ["En", "Fr"]
+	},
 	"Far Cry (USA) (Install Disc 2)": {
 		"languages": ["En"]
 	},
@@ -36652,9 +36910,6 @@
 	},
 	"Far Cry (USA) (Play & Install Disc 1)": {
 		"languages": ["En"]
-	},
-	"Far Cry (USA) (Rerelease)": {
-		"languages": []
 	},
 	"Far Cry 2 (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -36753,6 +37008,9 @@
 		"languages": ["Ja"]
 	},
 	"Farland Story - Kyoushin no Miyako (Japan)": {
+		"languages": ["Ja"]
+	},
+	"Farland Story - Yottsu no Fuuin (Japan)": {
 		"languages": ["Ja"]
 	},
 	"Farm Craft 2 (Germany)": {
@@ -37454,6 +37712,21 @@
 	"Final Fantasy VIII (Russia) (En,Ru) (Disc 5)": {
 		"languages": ["En", "Ru"]
 	},
+	"Final Fantasy VIII (Taiwan) (Disc 1)": {
+		"languages": ["En"]
+	},
+	"Final Fantasy VIII (Taiwan) (Disc 2)": {
+		"languages": ["En"]
+	},
+	"Final Fantasy VIII (Taiwan) (Disc 3)": {
+		"languages": ["En"]
+	},
+	"Final Fantasy VIII (Taiwan) (Disc 4)": {
+		"languages": ["En"]
+	},
+	"Final Fantasy VIII (Taiwan) (Install Disc)": {
+		"languages": ["En"]
+	},
 	"Final Fantasy VIII (USA) (Disc 1)": {
 		"languages": ["En"]
 	},
@@ -37592,13 +37865,13 @@
 	"Final Fantasy XIV Online - Shadowbringers (Japan)": {
 		"languages": []
 	},
-	"Final Fantasy XIV Online - Starter Pack (Japan) (En,Ja,Fr,De) (Disc 1)": {
+	"Final Fantasy XIV Online - Starter Pack (Japan, Europe) (En,Ja,Fr,De) (Disc 1)": {
 		"languages": ["De", "En", "Fr", "Ja"]
 	},
-	"Final Fantasy XIV Online - Starter Pack (Japan) (En,Ja,Fr,De) (Disc 2)": {
+	"Final Fantasy XIV Online - Starter Pack (Japan, Europe) (En,Ja,Fr,De) (Disc 2)": {
 		"languages": ["De", "En", "Fr", "Ja"]
 	},
-	"Final Fantasy XIV Online - Starter Pack (Japan) (En,Ja,Fr,De) (Disc 3)": {
+	"Final Fantasy XIV Online - Starter Pack (Japan, Europe) (En,Ja,Fr,De) (Disc 3)": {
 		"languages": ["De", "En", "Fr", "Ja"]
 	},
 	"Final Fantasy XIV Online - Stormblood (Japan)": {
@@ -37913,6 +38186,12 @@
 	"FlatOut (USA) (Disc 2)": {
 		"languages": ["En"]
 	},
+	"FlatOut - Adrenaline Pack (Poland) (En,Fr,De,Es,It) (FlatOut & FlatOut 2 & FlatOut - Ultimate Carnage)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"FlatOut - Adrenaline Pack (Poland) (FlatOut 3 - Chaos & Destruction)": {
+		"languages": ["En"]
+	},
 	"FlatOut - Ultimate Carnage (Australia) (Press Kit)": {
 		"languages": ["En"]
 	},
@@ -37993,6 +38272,9 @@
 	},
 	"Flight Unlimited (Germany) (Rerelease) (19991109)": {
 		"languages": ["De"]
+	},
+	"Flight Unlimited (Taiwan)": {
+		"languages": ["Zh"]
 	},
 	"Flight Unlimited (USA)": {
 		"languages": ["En"]
@@ -38272,6 +38554,9 @@
 	},
 	"Folklore - Hontou wa H na Maerchen no Sekai (Japan)": {
 		"languages": ["Ja"]
+	},
+	"Food Force (China) (En,Zh)": {
+		"languages": ["En", "Zh"]
 	},
 	"Football Champions - Gioco di Carte Collezionabili (Italy)": {
 		"languages": ["It"]
@@ -39089,6 +39374,9 @@
 	"Friends - The One with All the Trivia (Belgium, Netherlands)": {
 		"languages": ["Nl"]
 	},
+	"Friends - The One with All the Trivia (Europe)": {
+		"languages": ["En"]
+	},
 	"Fritz 16 (Germany)": {
 		"languages": []
 	},
@@ -39554,7 +39842,7 @@
 	"Futbol Deluxe (Argentina) (En,Es)": {
 		"languages": ["En", "Es"]
 	},
-	"Futbol bez Pravil (Russia)": {
+	"Futbol bez pravil (Russia)": {
 		"languages": ["Ru"]
 	},
 	"Future Cop - L.A.P.D. (Germany)": {
@@ -39969,9 +40257,15 @@
 		"languages": ["En"]
 	},
 	"Galactic Civilizations II - Dread Lords (USA) (Disc 1)": {
+		"languages": []
+	},
+	"Galactic Civilizations II - Dread Lords (USA) (Disc 1) (Rev 1)": {
 		"languages": ["En"]
 	},
 	"Galactic Civilizations II - Dread Lords (USA) (Disc 2)": {
+		"languages": []
+	},
+	"Galactic Civilizations II - Dread Lords (USA) (Disc 2) (Rev 1)": {
 		"languages": ["En"]
 	},
 	"Galactic Civilizations II - Dread Lords (USA) (Install Disk)": {
@@ -40571,6 +40865,9 @@
 	"GameStar 0-1998 (Czech) (Disc 2)": {
 		"languages": []
 	},
+	"GameStar 01-04 (Germany) (AB-16-DVD)": {
+		"languages": ["De"]
+	},
 	"GameStar 01-04 (Germany) (AB-18-DVD)": {
 		"languages": ["De"]
 	},
@@ -40592,10 +40889,19 @@
 	"GameStar 01-07 (Germany) (AB-18-DVD)": {
 		"languages": ["De"]
 	},
+	"GameStar 01-07 (Germany) (DVD XL)": {
+		"languages": ["De"]
+	},
 	"GameStar 01-08 (Germany) (AB-18-DVD)": {
 		"languages": ["De"]
 	},
+	"GameStar 01-08 (Germany) (DVD-XL)": {
+		"languages": ["De"]
+	},
 	"GameStar 01-09 (Germany) (AB-18-DVD)": {
+		"languages": ["De"]
+	},
+	"GameStar 01-09 (Germany) (DVD-XL)": {
 		"languages": ["De"]
 	},
 	"GameStar 01-10 (Germany) (AB-18-DVD)": {
@@ -40622,6 +40928,15 @@
 	"GameStar 01-2009 (Poland)": {
 		"languages": []
 	},
+	"GameStar 01-2011 (Germany) (AB-18-DVD)": {
+		"languages": ["De"]
+	},
+	"GameStar 01-2011 (Germany) (DVD XL)": {
+		"languages": ["De"]
+	},
+	"GameStar 02-04 (Germany) (AB-16-DVD)": {
+		"languages": ["De"]
+	},
 	"GameStar 02-04 (Germany) (AB-18-DVD)": {
 		"languages": ["De"]
 	},
@@ -40637,10 +40952,25 @@
 	"GameStar 02-06 (Germany) (AB-18-DVD)": {
 		"languages": ["De"]
 	},
+	"GameStar 02-06 (Germany) (DVDplus)": {
+		"languages": ["De"]
+	},
+	"GameStar 02-07 (Germany) (AB-18-DVD)": {
+		"languages": ["De"]
+	},
+	"GameStar 02-07 (Germany) (DVD XL)": {
+		"languages": ["De"]
+	},
 	"GameStar 02-08 (Germany) (AB-18-DVD)": {
 		"languages": ["De"]
 	},
+	"GameStar 02-08 (Germany) (DVD-XL)": {
+		"languages": ["De"]
+	},
 	"GameStar 02-09 (Germany) (AB-18-DVD)": {
+		"languages": ["De"]
+	},
+	"GameStar 02-09 (Germany) (DVD-XL)": {
 		"languages": ["De"]
 	},
 	"GameStar 02-10 (Germany) (AB-18-DVD)": {
@@ -40667,10 +40997,22 @@
 	"GameStar 02-2005 (Poland) (Disc 2) (CD)": {
 		"languages": []
 	},
+	"GameStar 02-2011 (Germany) (AB-18-DVD)": {
+		"languages": ["De"]
+	},
+	"GameStar 02-2011 (Germany) (DVD XL)": {
+		"languages": ["De"]
+	},
 	"GameStar 02-2012 (Germany)": {
 		"languages": []
 	},
+	"GameStar 03-04 (Germany) (AB-16-DVD)": {
+		"languages": ["De"]
+	},
 	"GameStar 03-04 (Germany) (AB-18-DVD)": {
+		"languages": ["De"]
+	},
+	"GameStar 03-05 (Germany) (AB-16-DVD)": {
 		"languages": ["De"]
 	},
 	"GameStar 03-05 (Germany) (AB-18-DVD)": {
@@ -40682,16 +41024,25 @@
 	"GameStar 03-06 (Germany) (AB-18-DVD)": {
 		"languages": ["De"]
 	},
+	"GameStar 03-06 (Germany) (DVDplus)": {
+		"languages": ["De"]
+	},
 	"GameStar 03-07 (Germany) (AB-18-DVD)": {
 		"languages": ["De"]
 	},
 	"GameStar 03-07 (Germany) (DVD XL)": {
-		"languages": []
+		"languages": ["De"]
 	},
 	"GameStar 03-08 (Germany) (AB-18-DVD)": {
 		"languages": ["De"]
 	},
+	"GameStar 03-08 (Germany) (DVD-XL)": {
+		"languages": ["De"]
+	},
 	"GameStar 03-09 (Germany) (AB-18-DVD)": {
+		"languages": ["De"]
+	},
+	"GameStar 03-09 (Germany) (DVD-XL)": {
 		"languages": ["De"]
 	},
 	"GameStar 03-10 (Germany) (AB-18-DVD)": {
@@ -40718,10 +41069,22 @@
 	"GameStar 03-2005 (Poland) (Disc 2) (CD)": {
 		"languages": []
 	},
+	"GameStar 03-2011 (Germany) (AB-18-DVD)": {
+		"languages": ["De"]
+	},
+	"GameStar 03-2011 (Germany) (DVD XL)": {
+		"languages": ["De"]
+	},
+	"GameStar 04-04 (Germany) (AB-16-DVD)": {
+		"languages": ["De"]
+	},
 	"GameStar 04-04 (Germany) (AB-18-DVD)": {
 		"languages": ["De"]
 	},
 	"GameStar 04-04 (Germany) (Vollversion)": {
+		"languages": ["De"]
+	},
+	"GameStar 04-05 (Germany) (AB-16-DVD)": {
 		"languages": ["De"]
 	},
 	"GameStar 04-05 (Germany) (AB-18-DVD)": {
@@ -40733,16 +41096,25 @@
 	"GameStar 04-06 (Germany) (AB-18-DVD)": {
 		"languages": ["De"]
 	},
+	"GameStar 04-06 (Germany) (DVD XL)": {
+		"languages": ["De"]
+	},
 	"GameStar 04-07 (Germany) (AB-18-DVD)": {
 		"languages": ["De"]
 	},
 	"GameStar 04-07 (Germany) (DVD XL)": {
-		"languages": []
+		"languages": ["De"]
 	},
 	"GameStar 04-08 (Germany) (AB-18-DVD)": {
 		"languages": ["De"]
 	},
+	"GameStar 04-08 (Germany) (DVD-XL)": {
+		"languages": ["De"]
+	},
 	"GameStar 04-09 (Germany) (AB-18-DVD)": {
+		"languages": ["De"]
+	},
+	"GameStar 04-09 (Germany) (DVD-XL)": {
 		"languages": ["De"]
 	},
 	"GameStar 04-10 (Germany) (AB-18-DVD)": {
@@ -40753,6 +41125,9 @@
 	},
 	"GameStar 04-2003 (Poland) (CD B)": {
 		"languages": []
+	},
+	"GameStar 05-04 (Germany) (AB-16-DVD)": {
+		"languages": ["De"]
 	},
 	"GameStar 05-04 (Germany) (AB-18-DVD)": {
 		"languages": ["De"]
@@ -40772,7 +41147,13 @@
 	"GameStar 05-06 (Germany) (AB-18-DVD)": {
 		"languages": ["De"]
 	},
+	"GameStar 05-06 (Germany) (DVD XL)": {
+		"languages": ["De"]
+	},
 	"GameStar 05-07 (Germany) (AB-18-DVD)": {
+		"languages": ["De"]
+	},
+	"GameStar 05-07 (Germany) (DVD-XL)": {
 		"languages": ["De"]
 	},
 	"GameStar 05-08 (Germany) (AB-18-DVD)": {
@@ -40782,6 +41163,9 @@
 		"languages": ["De"]
 	},
 	"GameStar 05-09 (Germany) (AB-18-DVD)": {
+		"languages": ["De"]
+	},
+	"GameStar 05-09 (Germany) (DVD-XL)": {
 		"languages": ["De"]
 	},
 	"GameStar 05-2003 (DVD) (Poland)": {
@@ -40798,6 +41182,9 @@
 	},
 	"GameStar 05-2003 (Poland) (CD D)": {
 		"languages": []
+	},
+	"GameStar 06-04 (Germany) (AB-16-DVD)": {
+		"languages": ["De"]
 	},
 	"GameStar 06-04 (Germany) (Demo-CD)": {
 		"languages": ["De"]
@@ -40817,6 +41204,9 @@
 	"GameStar 06-07 (Germany) (AB-18-DVD)": {
 		"languages": ["De"]
 	},
+	"GameStar 06-07 (Germany) (DVD-XL)": {
+		"languages": ["De"]
+	},
 	"GameStar 06-08 (Germany) (AB-18-DVD)": {
 		"languages": ["De"]
 	},
@@ -40824,6 +41214,9 @@
 		"languages": ["De"]
 	},
 	"GameStar 06-09 (Germany) (AB-18-DVD)": {
+		"languages": ["De"]
+	},
+	"GameStar 06-09 (Germany) (DVD-XL)": {
 		"languages": ["De"]
 	},
 	"GameStar 06-2003 (Poland) (CD B)": {
@@ -40835,16 +41228,25 @@
 	"GameStar 06-2003 (Poland) (DVD)": {
 		"languages": []
 	},
+	"GameStar 07-03 (Germany) (AB-16-CD)": {
+		"languages": ["De"]
+	},
 	"GameStar 07-03 (Germany) (Ab-18-DVD)": {
 		"languages": ["De"]
 	},
 	"GameStar 07-03 (Germany) (DVD)": {
 		"languages": ["De"]
 	},
+	"GameStar 07-04 (Germany) (AB-16-DVD)": {
+		"languages": ["De"]
+	},
 	"GameStar 07-04 (Germany) (AB-18-DVD)": {
 		"languages": ["De"]
 	},
 	"GameStar 07-04 (Germany) (Extra-CD)": {
+		"languages": ["De"]
+	},
+	"GameStar 07-05 (Germany) (AB-16-DVD)": {
 		"languages": ["De"]
 	},
 	"GameStar 07-05 (Germany) (AB-18-DVD)": {
@@ -40856,7 +41258,19 @@
 	"GameStar 07-06 (Germany) (AB-18-DVD)": {
 		"languages": ["De"]
 	},
+	"GameStar 07-06 (Germany) (DVD XL)": {
+		"languages": ["De"]
+	},
+	"GameStar 07-07 (Germany) (AB-18-DVD)": {
+		"languages": ["De"]
+	},
+	"GameStar 07-07 (Germany) (DVD-XL)": {
+		"languages": ["De"]
+	},
 	"GameStar 07-08 (Germany) (AB-18-DVD)": {
+		"languages": ["De"]
+	},
+	"GameStar 07-08 (Germany) (DVD-XL)": {
 		"languages": ["De"]
 	},
 	"GameStar 07-09 (Germany) (AB-18-DVD)": {
@@ -40868,13 +41282,22 @@
 	"GameStar 07-2003 (Poland) (DVD)": {
 		"languages": []
 	},
+	"GameStar 08-03 (Germany) (AB-16-DVD)": {
+		"languages": ["De"]
+	},
 	"GameStar 08-03 (Germany) (Ab-18-DVD)": {
 		"languages": ["De"]
 	},
 	"GameStar 08-03 (Germany) (Video-CD)": {
 		"languages": ["De"]
 	},
+	"GameStar 08-04 (Germany) (AB-16-DVD)": {
+		"languages": ["De"]
+	},
 	"GameStar 08-04 (Germany) (AB-18-DVD)": {
+		"languages": ["De"]
+	},
+	"GameStar 08-05 (Germany) (AB-16-DVD)": {
 		"languages": ["De"]
 	},
 	"GameStar 08-05 (Germany) (AB-18-DVD)": {
@@ -40883,7 +41306,19 @@
 	"GameStar 08-06 (Germany) (AB-18-DVD)": {
 		"languages": ["De"]
 	},
+	"GameStar 08-06 (Germany) (DVD XL)": {
+		"languages": ["De"]
+	},
+	"GameStar 08-07 (Germany) (AB-18-DVD)": {
+		"languages": ["De"]
+	},
+	"GameStar 08-07 (Germany) (DVD-XL)": {
+		"languages": ["De"]
+	},
 	"GameStar 08-08 (Germany) (AB-18-DVD)": {
+		"languages": ["De"]
+	},
+	"GameStar 08-08 (Germany) (DVD-XL)": {
 		"languages": ["De"]
 	},
 	"GameStar 08-09 (Germany) (AB-18-DVD)": {
@@ -40892,7 +41327,13 @@
 	"GameStar 08-2003 (Poland) (DVD)": {
 		"languages": []
 	},
+	"GameStar 09-03 (Germany) (AB-16-DVD)": {
+		"languages": ["De"]
+	},
 	"GameStar 09-03 (Germany) (Ab-18-DVD)": {
+		"languages": ["De"]
+	},
+	"GameStar 09-04 (Germany) (AB-16-DVD)": {
 		"languages": ["De"]
 	},
 	"GameStar 09-04 (Germany) (AB-18-DVD)": {
@@ -40902,6 +41343,21 @@
 		"languages": ["De"]
 	},
 	"GameStar 09-06 (Germany) (AB-18-DVD)": {
+		"languages": ["De"]
+	},
+	"GameStar 09-06 (Germany) (DVD XL)": {
+		"languages": ["De"]
+	},
+	"GameStar 09-07 (Germany) (AB-18-DVD)": {
+		"languages": ["De"]
+	},
+	"GameStar 09-07 (Germany) (DVD-XL)": {
+		"languages": ["De"]
+	},
+	"GameStar 09-08 (Germany) (AB-18-DVD)": {
+		"languages": ["De"]
+	},
+	"GameStar 09-08 (Germany) (DVD-XL)": {
 		"languages": ["De"]
 	},
 	"GameStar 09-09 (Germany) (AB-18-DVD)": {
@@ -40970,7 +41426,13 @@
 	"GameStar 1-99 (Germany) (Bonus-CD)": {
 		"languages": ["De"]
 	},
+	"GameStar 10-03 (Germany) (AB-16-DVD)": {
+		"languages": ["De"]
+	},
 	"GameStar 10-03 (Germany) (Demo-CD)": {
+		"languages": ["De"]
+	},
+	"GameStar 10-04 (Germany) (AB-16-DVD)": {
 		"languages": ["De"]
 	},
 	"GameStar 10-04 (Germany) (AB-18-DVD)": {
@@ -40979,13 +41441,28 @@
 	"GameStar 10-05 (AB-16-DVD) (Germany)": {
 		"languages": ["De"]
 	},
+	"GameStar 10-05 (Germany) (AB-18-DVD)": {
+		"languages": ["De"]
+	},
 	"GameStar 10-05 (Germany) (Bonus-CD)": {
 		"languages": ["De"]
 	},
 	"GameStar 10-06 (Germany) (AB-18-DVD)": {
 		"languages": ["De"]
 	},
+	"GameStar 10-06 (Germany) (DVD XL)": {
+		"languages": ["De"]
+	},
+	"GameStar 10-07 (Germany) (AB-18-DVD)": {
+		"languages": ["De"]
+	},
+	"GameStar 10-07 (Germany) (DVD-XL)": {
+		"languages": ["De"]
+	},
 	"GameStar 10-08 (Germany) (AB-18-DVD)": {
+		"languages": ["De"]
+	},
+	"GameStar 10-08 (Germany) (DVD-XL)": {
 		"languages": ["De"]
 	},
 	"GameStar 10-09 (Germany) (AB-18-DVD)": {
@@ -41066,7 +41543,13 @@
 	"GameStar 10-99 (Germany) (Vollversion)": {
 		"languages": ["De"]
 	},
+	"GameStar 11-03 (Germany) (AB-16-DVD)": {
+		"languages": ["De"]
+	},
 	"GameStar 11-03 (Germany) (Ab-18-DVD)": {
+		"languages": ["De"]
+	},
+	"GameStar 11-04 (Germany) (AB-16-DVD)": {
 		"languages": ["De"]
 	},
 	"GameStar 11-04 (Germany) (AB-18-DVD)": {
@@ -41078,7 +41561,19 @@
 	"GameStar 11-06 (Germany) (AB-18-DVD)": {
 		"languages": ["De"]
 	},
+	"GameStar 11-06 (Germany) (DVD XL)": {
+		"languages": ["De"]
+	},
+	"GameStar 11-07 (Germany) (AB-18-DVD)": {
+		"languages": ["De"]
+	},
+	"GameStar 11-07 (Germany) (DVD-XL)": {
+		"languages": ["De"]
+	},
 	"GameStar 11-08 (Germany) (AB-18-DVD)": {
+		"languages": ["De"]
+	},
+	"GameStar 11-08 (Germany) (DVD-XL)": {
 		"languages": ["De"]
 	},
 	"GameStar 11-09 (Germany) (AB-18-DVD)": {
@@ -41144,6 +41639,9 @@
 	"GameStar 11-99 (Germany) (Bonus-CD)": {
 		"languages": ["De"]
 	},
+	"GameStar 12-03 (Germany) (AB-16-DVD)": {
+		"languages": ["De"]
+	},
 	"GameStar 12-03 (Germany) (Demo-CD)": {
 		"languages": ["De"]
 	},
@@ -41151,6 +41649,9 @@
 		"languages": ["De"]
 	},
 	"GameStar 12-03 (Germany) (Video-CD)": {
+		"languages": ["De"]
+	},
+	"GameStar 12-04 (Germany) (AB-16-DVD)": {
 		"languages": ["De"]
 	},
 	"GameStar 12-04 (Germany) (AB-18-DVD)": {
@@ -41166,9 +41667,18 @@
 		"languages": ["De"]
 	},
 	"GameStar 12-06 (Germany) (DVD XL)": {
-		"languages": []
+		"languages": ["De"]
+	},
+	"GameStar 12-07 (Germany) (AB-18-DVD)": {
+		"languages": ["De"]
+	},
+	"GameStar 12-07 (Germany) (DVD-XL)": {
+		"languages": ["De"]
 	},
 	"GameStar 12-08 (Germany) (AB-18-DVD)": {
+		"languages": ["De"]
+	},
+	"GameStar 12-08 (Germany) (DVD-XL)": {
 		"languages": ["De"]
 	},
 	"GameStar 12-09 (Germany) (AB-18-DVD)": {
@@ -41465,7 +41975,7 @@
 	"GameStar 5-2001 (29) (Czech) (Disc 2)": {
 		"languages": []
 	},
-	"GameStar 5-2001 (Germany)": {
+	"GameStar 5-2001 (Germany) (Demo-CD)": {
 		"languages": ["De"]
 	},
 	"GameStar 5-2001 (Germany) (Video-CD)": {
@@ -42781,6 +43291,9 @@
 	},
 	"Gensou Sangokushi II (Japan)": {
 		"languages": ["Ja"]
+	},
+	"Geo Conflict 4 - The End of Reincarnation (Taiwan)": {
+		"languages": ["Zh"]
 	},
 	"Geo Light Moon (Japan)": {
 		"languages": ["Ja"]
@@ -44549,6 +45062,9 @@
 	"Grand Theft Auto - Vice City (USA, Europe) (En,Fr,De,Es,It) (Play)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
+	"Grand Theft Auto - Vice City Skin Disc (USA)": {
+		"languages": []
+	},
 	"Grand Theft Auto 2 (Canada) (En,Es)": {
 		"languages": ["En", "Es"]
 	},
@@ -45169,6 +45685,12 @@
 	},
 	"Ground Control II - Operation Exodus (USA)": {
 		"languages": ["En"]
+	},
+	"Growlanser (Japan) (Install Disc)": {
+		"languages": ["Ja"]
+	},
+	"Growlanser (Japan) (Key Disc)": {
+		"languages": ["Ja"]
 	},
 	"Growlanser I, II, III Desktop Accessories (Japan)": {
 		"languages": ["Ja"]
@@ -46010,6 +46532,9 @@
 	"Gus Goes to Cyberopolis (USA)": {
 		"languages": ["En"]
 	},
+	"Gus Goes to Cyberopolis (USA) (Rerelease)": {
+		"languages": ["En"]
+	},
 	"Gustavinho em o Enigma da Esfinge (Brazil)": {
 		"languages": ["Pt"]
 	},
@@ -46691,6 +47216,9 @@
 	"Hard Truck - 18 stal'nyx koles (Russia)": {
 		"languages": ["Ru"]
 	},
+	"Hard Truck - Apocalypse (Turkey)": {
+		"languages": ["En"]
+	},
 	"Hard Truck - Apocalypse (USA)": {
 		"languages": ["En"]
 	},
@@ -46753,6 +47281,9 @@
 	},
 	"Harlem Blade II - Dark Angel (Japan)": {
 		"languages": ["Ja"]
+	},
+	"Harlem Blade II - Dark Angel (Taiwan)": {
+		"languages": ["Zh"]
 	},
 	"Harley-Davidson - Race Across America (USA)": {
 		"languages": ["En"]
@@ -46877,16 +47408,16 @@
 	"Harry Potter and the Deathly Hallows - Part 2 (USA) (En,Fr,De,Es,It,Pl,Ru)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Pl", "Ru"]
 	},
-	"Harry Potter and the Goblet of Fire (Australia, New Zealand) (Disc 1)": {
+	"Harry Potter and the Goblet of Fire (Australia) (Disc 1)": {
 		"languages": ["En"]
 	},
-	"Harry Potter and the Goblet of Fire (Australia, New Zealand) (Disc 1) (Rerelease)": {
+	"Harry Potter and the Goblet of Fire (Australia) (Disc 1) (Rerelease)": {
 		"languages": ["En"]
 	},
-	"Harry Potter and the Goblet of Fire (Australia, New Zealand) (Disc 2)": {
+	"Harry Potter and the Goblet of Fire (Australia) (Disc 2)": {
 		"languages": ["En"]
 	},
-	"Harry Potter and the Goblet of Fire (Australia, New Zealand) (Disc 2) (Rerelease)": {
+	"Harry Potter and the Goblet of Fire (Australia) (Disc 2) (Rerelease)": {
 		"languages": ["En"]
 	},
 	"Harry Potter and the Goblet of Fire (Europe)": {
@@ -46964,7 +47495,7 @@
 	"Harry Potter and the Order of the Phoenix (USA)": {
 		"languages": ["En"]
 	},
-	"Harry Potter and the Philosopher's Stone (Australia, New Zealand) (Manual CD)": {
+	"Harry Potter and the Philosopher's Stone (Australia) (Manual CD)": {
 		"languages": ["En"]
 	},
 	"Harry Potter and the Philosopher's Stone (Canada) (En,Fr,De)": {
@@ -47009,10 +47540,10 @@
 	"Harry Potter and the Philosopher's Stone (World) (En,Fr,De)": {
 		"languages": ["De", "En", "Fr"]
 	},
-	"Harry Potter and the Prisoner of Azkaban (Australia, New Zealand)": {
+	"Harry Potter and the Prisoner of Azkaban (Australia)": {
 		"languages": ["En"]
 	},
-	"Harry Potter and the Prisoner of Azkaban (Australia, New Zealand) (Manual CD)": {
+	"Harry Potter and the Prisoner of Azkaban (Australia) (Manual CD)": {
 		"languages": ["En"]
 	},
 	"Harry Potter and the Prisoner of Azkaban (Denmark) (En,No,Da)": {
@@ -47272,6 +47803,12 @@
 	},
 	"Heart of Darkness - Mini Game (Europe) (En,Fr,De,It) (Demo)": {
 		"languages": ["De", "En", "Fr", "It"]
+	},
+	"Heart of Hearts (Japan)": {
+		"languages": ["Ja"]
+	},
+	"Heart of Hearts (Japan) (Taikenban Trial Disc)": {
+		"languages": ["Ja"]
 	},
 	"Heartlight PC (Europe)": {
 		"languages": ["En"]
@@ -47894,8 +48431,14 @@
 	"Heroes of Might and Magic IV (USA) (Disc 1) (Install)": {
 		"languages": ["En"]
 	},
+	"Heroes of Might and Magic IV (USA) (Disc 1) (Install) (v2.2)": {
+		"languages": []
+	},
 	"Heroes of Might and Magic IV (USA) (Disc 2) (Play)": {
 		"languages": ["En"]
+	},
+	"Heroes of Might and Magic IV (USA) (Disc 2) (Play) (v2.2)": {
+		"languages": []
 	},
 	"Heroes of Might and Magic IV (USA) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -47994,6 +48537,9 @@
 		"languages": ["Pl"]
 	},
 	"Herr der Ringe, Der - Die Gefaehrten (Germany)": {
+		"languages": ["De"]
+	},
+	"Herr der Ringe, Der - Die Gefaehrten (Germany) (Alt)": {
 		"languages": ["De"]
 	},
 	"Herr der Ringe, Der - Die Rueckkehr des Koenigs (Germany) (Disc 1) (Installations-CD 1)": {
@@ -48169,6 +48715,9 @@
 	},
 	"Hidden & Dangerous (USA) (v1.2)": {
 		"languages": ["En"]
+	},
+	"Hidden & Dangerous - Anthology (Poland)": {
+		"languages": ["Pl"]
 	},
 	"Hidden & Dangerous - Devil's Bridge (USA)": {
 		"languages": ["En"]
@@ -48682,6 +49231,9 @@
 	},
 	"Hitman 2 - Silent Assassin (Europe) (Rerelease)": {
 		"languages": ["En"]
+	},
+	"Hitman 2 - Silent Assassin (France)": {
+		"languages": []
 	},
 	"Hitman 2 - Silent Assassin (Germany)": {
 		"languages": ["De"]
@@ -49661,6 +50213,9 @@
 	"Humongous Classics Collection (USA)": {
 		"languages": ["En"]
 	},
+	"Humongous Demo Sampler (USA)": {
+		"languages": ["En"]
+	},
 	"Humongous Entertainment Demo Sampler - Fall '98 (USA)": {
 		"languages": []
 	},
@@ -49745,6 +50300,9 @@
 	"Hydlide (Japan)": {
 		"languages": ["Ja"]
 	},
+	"Hydlide 1, 2, 3 (Japan)": {
+		"languages": ["Ja"]
+	},
 	"Hydlide 3 Gold Pack (Japan)": {
 		"languages": ["Ja"]
 	},
@@ -49776,6 +50334,9 @@
 		"languages": ["De"]
 	},
 	"HyperBlade (USA)": {
+		"languages": []
+	},
+	"HyperBlade (USA) (OEM)": {
 		"languages": ["En"]
 	},
 	"Hyperballoid 2 - Jezdziec czasu (Poland)": {
@@ -49850,7 +50411,7 @@
 	"I Spy Fun House (USA)": {
 		"languages": ["En"]
 	},
-	"I Spy Junior (USA)": {
+	"I Spy Junior (USA, Australia)": {
 		"languages": ["En"]
 	},
 	"I Spy Mini-Games (USA)": {
@@ -52277,6 +52838,9 @@
 	"Istoriya vojn - Napoleon (Russia)": {
 		"languages": ["Ru"]
 	},
+	"Isu - Invisible Sign (Japan)": {
+		"languages": ["Ja"]
+	},
 	"Isxod s Zemli (Russia)": {
 		"languages": ["Ru"]
 	},
@@ -52472,6 +53036,9 @@
 	"Jade Rousseau - The Fall of Sant'Antonio (UK)": {
 		"languages": ["En"]
 	},
+	"Jade Rousseau - The Secret Revelations - The Fall Of Sant'Antonio (USA)": {
+		"languages": ["En"]
+	},
 	"Jagd auf Roter Oktober (Germany)": {
 		"languages": ["En"]
 	},
@@ -52594,6 +53161,9 @@
 	},
 	"James Patterson - Women's Murder Club Collection (USA)": {
 		"languages": ["En"]
+	},
+	"James Patterson Womans Murder Club - A Darker Shade of Grey (Australia)": {
+		"languages": []
 	},
 	"Jammit (Europe)": {
 		"languages": ["En"]
@@ -54656,15 +55226,6 @@
 	"KazMania 2 - Chaos in KazMania (USA) (v2.1)": {
 		"languages": []
 	},
-	"Kazaki - Poslednij Dovod Korolej (Russia)": {
-		"languages": []
-	},
-	"Kazaki - Snova vojna (Russia)": {
-		"languages": ["Ru"]
-	},
-	"Kazaki - Snova vojna (Russia) (Rerelease)": {
-		"languages": ["Ru"]
-	},
 	"Kazaki II - Bitva za Evropu (Russia) (Disc 1)": {
 		"languages": []
 	},
@@ -55575,7 +56136,7 @@
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Knights of the Temple II (Russia)": {
-		"languages": []
+		"languages": ["Ru"]
 	},
 	"Knyaz' - Legendy Lesnoj Strany (Russia)": {
 		"languages": ["Ru"]
@@ -56906,9 +57467,6 @@
 	"Krutoj Se'm - Vtoroe prishestvie (Russia)": {
 		"languages": ["Ru"]
 	},
-	"Krylataya Myasorubka II (Russia)": {
-		"languages": ["Ru"]
-	},
 	"Krypton Egg (France) (En,Fr,De,It) (Demo)": {
 		"languages": ["De", "En", "Fr", "It"]
 	},
@@ -56989,9 +57547,6 @@
 	},
 	"Kuro no Toshokan - Demonstration Disc (Japan)": {
 		"languages": ["Ja"]
-	},
-	"Kurobojka 3 (Russia)": {
-		"languages": []
 	},
 	"Kurs na Okinavu (Russia)": {
 		"languages": ["Ru"]
@@ -57380,6 +57935,9 @@
 	"LEGO Island (USA) (Rerelease) (20070716) (Alt)": {
 		"languages": ["En"]
 	},
+	"LEGO Island 2 - The Brickster's Revenge (Australia)": {
+		"languages": []
+	},
 	"LEGO Island 2 - The Brickster's Revenge (Spain, Portugal) (Rerelease)": {
 		"languages": ["Es"]
 	},
@@ -57767,6 +58325,9 @@
 	"LOE - Legend of Enomoto (Japan)": {
 		"languages": ["Ja"]
 	},
+	"LVF 2004 Volleyball (Italy) (En,It)": {
+		"languages": ["En", "It"]
+	},
 	"La Mia Prima Lezione di Inglese - My First English Lesson (Italy) (En,It)": {
 		"languages": ["En", "It"]
 	},
@@ -58043,6 +58604,9 @@
 	"Lara Croft Tomb Raider - Anniversary (Europe) (En,Fr,De,Es,It) (OEM)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
+	"Lara Croft Tomb Raider - Anniversary (Europe) (Rerelease)": {
+		"languages": ["En"]
+	},
 	"Lara Croft Tomb Raider - Anniversary (France) (En,Fr,De,Es,It) (Rerelease)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
@@ -58060,6 +58624,9 @@
 	},
 	"Lara Croft Tomb Raider - Legend (Europe) (En,Fr,De,Es,It) (Sold Out Software)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Lara Croft Tomb Raider - Legend (Europe) (Rerelease)": {
+		"languages": ["En"]
 	},
 	"Lara Croft Tomb Raider - Legend (Italy) (En,Fr,De,Es,It) (Covermount)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -58092,6 +58659,9 @@
 		"languages": ["En"]
 	},
 	"Lara Croft Tomb Raider - The Angel of Darkness (Europe) (Disc 2) (OEM) (20030822)": {
+		"languages": ["En"]
+	},
+	"Lara Croft Tomb Raider - The Angel of Darkness (Europe) (Rerelease)": {
 		"languages": ["En"]
 	},
 	"Lara Croft Tomb Raider - The Angel of Darkness (Germany) (Disc 1)": {
@@ -58814,6 +59384,9 @@
 	"Legends of Lost Time (USA)": {
 		"languages": ["En"]
 	},
+	"Legends of Might and Magic (China)": {
+		"languages": ["Zh"]
+	},
 	"Legends of Might and Magic (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
@@ -58855,6 +59428,9 @@
 	},
 	"Leggenda del Profeta e dell'Assassino, La (Italy) (Disc 2)": {
 		"languages": ["It"]
+	},
+	"Legion (Europe)": {
+		"languages": ["En"]
 	},
 	"Legion (Germany)": {
 		"languages": []
@@ -59424,7 +60000,7 @@
 		"languages": []
 	},
 	"Level 4-2000 (Czech) (Disc 2)": {
-		"languages": []
+		"languages": ["En"]
 	},
 	"Level 4-2001 (Czech) (Disc 1)": {
 		"languages": []
@@ -59762,6 +60338,9 @@
 	"Liga Xaosa (Russia)": {
 		"languages": []
 	},
+	"Light My Fire - Hajimemashite (Japan)": {
+		"languages": ["Ja"]
+	},
 	"Lightbringer (USA) (Disc 1)": {
 		"languages": ["En"]
 	},
@@ -60080,10 +60659,19 @@
 	"Links LS 2000 (USA) (Disc 1)": {
 		"languages": ["En"]
 	},
+	"Links LS 2000 (USA) (Disc 1) (Alt)": {
+		"languages": ["En"]
+	},
 	"Links LS 2000 (USA) (Disc 2)": {
 		"languages": ["En"]
 	},
+	"Links LS 2000 (USA) (Disc 2) (Alt)": {
+		"languages": ["En"]
+	},
 	"Links LS 2000 (USA) (Disc 3)": {
+		"languages": ["En"]
+	},
+	"Links LS 2000 (USA) (Disc 3) (Alt)": {
 		"languages": ["En"]
 	},
 	"Links LS Add-On Course - Phoenix Country Club of Miyazaki, Japan (USA)": {
@@ -60340,6 +60928,9 @@
 	},
 	"Living World Racing (Germany)": {
 		"languages": []
+	},
+	"Livre de Lulu, Le Un Conte Interactif de Romain Victor-Pujebet (Japan)": {
+		"languages": ["Ja"]
 	},
 	"Lizzie Rocks (USA)": {
 		"languages": ["En"]
@@ -60683,6 +61274,9 @@
 	"Loony Labyrinth (USA)": {
 		"languages": []
 	},
+	"Lord Monarch First (Japan)": {
+		"languages": ["Ja"]
+	},
 	"Lord of the Rings - Conquest (Scandinavia) (En,Fr,De,Es,It,Sv,No,Pl,Ru)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "No", "Pl", "Ru", "Sv"]
 	},
@@ -60743,6 +61337,18 @@
 	"Lord of the Rings, The - The Battle for Middle-Earth (Germany) (En,Fr,De,Es,It,Nl,Sv,No,Pl)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl", "No", "Pl", "Sv"]
 	},
+	"Lord of the Rings, The - The Battle for Middle-Earth (Japan) (Disc 1)": {
+		"languages": ["Ja"]
+	},
+	"Lord of the Rings, The - The Battle for Middle-Earth (Japan) (Disc 2)": {
+		"languages": ["Ja"]
+	},
+	"Lord of the Rings, The - The Battle for Middle-Earth (Japan) (Disc 3)": {
+		"languages": ["Ja"]
+	},
+	"Lord of the Rings, The - The Battle for Middle-Earth (Japan) (Disc 4)": {
+		"languages": ["Ja"]
+	},
 	"Lord of the Rings, The - The Battle for Middle-Earth (Portugal) (En,Fr,De,Es,It,Nl,Sv,No,Pl)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl", "No", "Pl", "Sv"]
 	},
@@ -60755,6 +61361,9 @@
 	"Lord of the Rings, The - The Battle for Middle-Earth (USA) (Disc 1) (Alt 2)": {
 		"languages": ["En"]
 	},
+	"Lord of the Rings, The - The Battle for Middle-Earth (USA) (Disc 1) (Alt 3)": {
+		"languages": ["En"]
+	},
 	"Lord of the Rings, The - The Battle for Middle-Earth (USA) (Disc 1) (Alt)": {
 		"languages": ["En"]
 	},
@@ -60762,6 +61371,9 @@
 		"languages": []
 	},
 	"Lord of the Rings, The - The Battle for Middle-Earth (USA) (Disc 2) (Alt 2)": {
+		"languages": ["En"]
+	},
+	"Lord of the Rings, The - The Battle for Middle-Earth (USA) (Disc 2) (Alt 3)": {
 		"languages": ["En"]
 	},
 	"Lord of the Rings, The - The Battle for Middle-Earth (USA) (Disc 2) (Alt)": {
@@ -60773,6 +61385,9 @@
 	"Lord of the Rings, The - The Battle for Middle-Earth (USA) (Disc 3) (Alt 2)": {
 		"languages": ["En"]
 	},
+	"Lord of the Rings, The - The Battle for Middle-Earth (USA) (Disc 3) (Alt 3)": {
+		"languages": ["En"]
+	},
 	"Lord of the Rings, The - The Battle for Middle-Earth (USA) (Disc 3) (Alt)": {
 		"languages": ["En"]
 	},
@@ -60780,6 +61395,9 @@
 		"languages": []
 	},
 	"Lord of the Rings, The - The Battle for Middle-Earth (USA) (Disc 4) (Alt 2)": {
+		"languages": ["En"]
+	},
+	"Lord of the Rings, The - The Battle for Middle-Earth (USA) (Disc 4) (Alt 3)": {
 		"languages": ["En"]
 	},
 	"Lord of the Rings, The - The Battle for Middle-Earth (USA) (Disc 4) (Alt)": {
@@ -60825,6 +61443,9 @@
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl", "No", "Pl", "Ru", "Sv"]
 	},
 	"Lord of the Rings, The - The Battle for Middle-Earth II - The Rise of the Witch-King (USA)": {
+		"languages": ["En"]
+	},
+	"Lord of the Rings, The - The Battle for Middle-Earth II - The Rise of the Witch-King (USA) (Alt)": {
 		"languages": ["En"]
 	},
 	"Lord of the Rings, The - The Fellowship of the Ring (Australia) (Game Assets - November 2004)": {
@@ -60890,10 +61511,10 @@
 	"Lord of the Rings, The - War in the North (Europe) (En,Fr,De,Es,It,Pt,Pl,Ru)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Pl", "Pt", "Ru"]
 	},
-	"Lord of the Rings, The - War of the Ring (Czech) (Install Disc)": {
+	"Lord of the Rings, The - War of the Ring (Europe) (Install Disc)": {
 		"languages": ["En"]
 	},
-	"Lord of the Rings, The - War of the Ring (Czech) (Play Disc)": {
+	"Lord of the Rings, The - War of the Ring (Europe) (Play Disc)": {
 		"languages": ["En"]
 	},
 	"Lord of the Rings, The - War of the Ring (USA) (Install Disc)": {
@@ -60976,6 +61597,9 @@
 	},
 	"Lords of the Realm (Poland)": {
 		"languages": ["Pl"]
+	},
+	"Lords of the Realm (Taiwan)": {
+		"languages": ["Zh"]
 	},
 	"Lords of the Realm (USA)": {
 		"languages": ["En"]
@@ -61706,8 +62330,8 @@
 	"MDK (Poland)": {
 		"languages": ["Pl"]
 	},
-	"MDK (USA)": {
-		"languages": ["En"]
+	"MDK (USA) (En,Fr,Es)": {
+		"languages": ["En", "Es", "Fr"]
 	},
 	"MDK - Mission Laguna Beach (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -62006,6 +62630,9 @@
 	"Madden NFL 06 (USA) (Disc 3)": {
 		"languages": ["En"]
 	},
+	"Madden NFL 07 (USA)": {
+		"languages": ["En"]
+	},
 	"Madden NFL 08 (USA)": {
 		"languages": []
 	},
@@ -62100,6 +62727,9 @@
 		"languages": ["En"]
 	},
 	"Madden NFL 98 (USA) (Disc 1)": {
+		"languages": ["En"]
+	},
+	"Madden NFL 98 (USA) (Disc 2)": {
 		"languages": ["En"]
 	},
 	"Madden NFL 99 (USA)": {
@@ -63227,6 +63857,12 @@
 	"Maonue (Taiwan) (Disc 2)": {
 		"languages": ["Zh"]
 	},
+	"Maori Language Snap (New Zealand)": {
+		"languages": ["En"]
+	},
+	"Maori Language Zoomalong (New Zealand)": {
+		"languages": ["En"]
+	},
 	"MapleStory iTrading Card Game (USA)": {
 		"languages": ["En"]
 	},
@@ -63277,6 +63913,9 @@
 	},
 	"March! Offworld Recon (Italy)": {
 		"languages": ["It"]
+	},
+	"March! Offworld Recon (Portugal)": {
+		"languages": []
 	},
 	"Marco to Ginga-ryuu - Marco & the Galaxy Dragon (Japan) (En,Ja) (Game Disc)": {
 		"languages": ["En", "Ja"]
@@ -63657,10 +64296,10 @@
 		"languages": ["En"]
 	},
 	"Massive Assault - Rascvet Ligi (Russia) (Disc 1)": {
-		"languages": []
+		"languages": ["Ru"]
 	},
 	"Massive Assault - Rascvet Ligi (Russia) (Disc 2)": {
-		"languages": []
+		"languages": ["Ru"]
 	},
 	"Massive Memory Card Plus (USA)": {
 		"languages": []
@@ -63792,6 +64431,9 @@
 		"languages": ["En"]
 	},
 	"Matchbox Caterpillar Construction Zone 2 - Gold Mining CD-ROM (USA)": {
+		"languages": []
+	},
+	"Matchbox Cross Town Heroes (Australia)": {
 		"languages": []
 	},
 	"Matchbox Emergency Patrol (Europe)": {
@@ -63981,6 +64623,9 @@
 		"languages": ["En"]
 	},
 	"Maurice Sendak's Little Bear - Preschool Thinking Adventures (USA) (Disc 2) (Family Fun)": {
+		"languages": ["En"]
+	},
+	"Maurice Sendak's Little Bear - Rainy Day Activities (USA)": {
 		"languages": ["En"]
 	},
 	"Maurice Sendak's Little Bear - Rainy Day Activities (USA) (OEM)": {
@@ -64729,6 +65374,9 @@
 	},
 	"MechWarrior 2 - 31st Century Combat (Japan) (Alt)": {
 		"languages": ["Ja"]
+	},
+	"MechWarrior 2 - 31st Century Combat (Japan) (DOS-V)": {
+		"languages": ["En"]
 	},
 	"MechWarrior 2 - 31st Century Combat (Japan) (OEM)": {
 		"languages": ["Ja"]
@@ -66137,6 +66785,9 @@
 	"Metaltech - Battledrome (USA) (En,Fr,De)": {
 		"languages": ["De", "En", "Fr"]
 	},
+	"Metamor Panic - Doki Doki Youma Busters!! (Japan)": {
+		"languages": ["Ja"]
+	},
 	"Metro - Last Light (Europe) (En,Fr,De,Es,It,Nl,Pl,Ru,Uk,Cs)": {
 		"languages": ["Cs", "De", "En", "Es", "Fr", "It", "Nl", "Pl", "Ru"]
 	},
@@ -66470,6 +67121,9 @@
 	"Microsoft Flight Simulator (USA, Europe)": {
 		"languages": ["En"]
 	},
+	"Microsoft Flight Simulator 2000 (France) (Disc 1)": {
+		"languages": []
+	},
 	"Microsoft Flight Simulator 2000 (Italy) (Disco 1)": {
 		"languages": ["It"]
 	},
@@ -66620,7 +67274,13 @@
 	"Microsoft Flight Simulator 98 (Japan)": {
 		"languages": ["Ja"]
 	},
+	"Microsoft Flight Simulator 98 (Japan) (Rerelease)": {
+		"languages": ["Ja"]
+	},
 	"Microsoft Flight Simulator 98 (USA)": {
+		"languages": ["En"]
+	},
+	"Microsoft Flight Simulator 98 (USA) (OEM)": {
 		"languages": ["En"]
 	},
 	"Microsoft Flight Simulator 98 (USA) (Rerelease)": {
@@ -67388,6 +68048,9 @@
 	"Millie's Math House (USA)": {
 		"languages": ["En"]
 	},
+	"Millie's Math House (USA) (Alt)": {
+		"languages": ["En"]
+	},
 	"Million KNights Vermilion (Japan)": {
 		"languages": ["Ja"]
 	},
@@ -67571,8 +68234,8 @@
 	"Mirror's Edge (Europe) (En,Fr,De,Es,It,Pt,Pl,Ru,Cs,Hu) (Rerelease)": {
 		"languages": ["Cs", "De", "En", "Es", "Fr", "Hu", "It", "Pl", "Pt", "Ru"]
 	},
-	"Mirror's Edge (USA)": {
-		"languages": ["En"]
+	"Mirror's Edge (USA) (En,Fr,Es)": {
+		"languages": ["En", "Es", "Fr"]
 	},
 	"Mirror's Edge Catalyst (Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Pl,Ru) (Disc 1)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Pl", "Pt", "Ru", "Zh"]
@@ -67756,6 +68419,9 @@
 	},
 	"Mobile Forces (USA)": {
 		"languages": ["En"]
+	},
+	"Mobile Suit Gundam - White Base - The 13th Independent Force (Japan)": {
+		"languages": ["Ja"]
 	},
 	"Mobile Suit Z Gundam - Typing Z (Japan) (Disc 1)": {
 		"languages": ["Ja"]
@@ -68325,6 +68991,9 @@
 		"languages": ["En"]
 	},
 	"Monster Truck Madness (USA) (Alt)": {
+		"languages": ["En"]
+	},
+	"Monster Truck Madness (USA) (OEM)": {
 		"languages": ["En"]
 	},
 	"Monster Truck Madness 2 (Europe)": {
@@ -68978,6 +69647,9 @@
 	"Mountain Dew Stitches - Do Not Drink the Clothing (USA)": {
 		"languages": ["En"]
 	},
+	"Mouse Trophy (Poland)": {
+		"languages": ["Pl"]
+	},
 	"Mouse in a Stew (USA)": {
 		"languages": ["En"]
 	},
@@ -69109,6 +69781,9 @@
 	},
 	"Multimedia Word Games (USA)": {
 		"languages": ["En"]
+	},
+	"Multimedialna Encyklopedia Powszechna (Poland)": {
+		"languages": ["Pl"]
 	},
 	"Multimedialny Swiat Przedszkolaka 1-2008 (Poland)": {
 		"languages": []
@@ -69473,8 +70148,11 @@
 	"Myst - Masterpiece Edition (Europe)": {
 		"languages": ["En"]
 	},
-	"Myst - Masterpiece Edition (Europe) (Rerelease)": {
+	"Myst - Masterpiece Edition (Europe) (Rerelease) (20010609)": {
 		"languages": ["En"]
+	},
+	"Myst - Masterpiece Edition (Europe) (Rerelease) (20011004)": {
+		"languages": []
 	},
 	"Myst - Masterpiece Edition (Germany) (Rerelease)": {
 		"languages": ["De"]
@@ -69785,6 +70463,9 @@
 	"Mystery Case Files - Prime Suspects (USA) (Rerelease)": {
 		"languages": ["En"]
 	},
+	"Mystery Case Files - Ravenhearst & Hidden Expedition - Amazon (USA)": {
+		"languages": []
+	},
 	"Mystery Case Files - Ravenhearst (USA)": {
 		"languages": ["En"]
 	},
@@ -69856,6 +70537,9 @@
 	},
 	"Mystery P.I. - The London Caper (USA)": {
 		"languages": ["En"]
+	},
+	"Mystery P.I. - The Lottery Ticket (Australia)": {
+		"languages": []
 	},
 	"Mystery P.I. - The Lottery Ticket (USA)": {
 		"languages": ["En"]
@@ -70393,6 +71077,9 @@
 	},
 	"NBA Live 98 (Germany)": {
 		"languages": ["De"]
+	},
+	"NBA Live 98 (USA)": {
+		"languages": []
 	},
 	"NBA ShootOut 2000 (USA) (Art Disc)": {
 		"languages": ["En"]
@@ -70956,6 +71643,15 @@
 		"languages": ["Zh"]
 	},
 	"Narcissu - SIDE 2nd (Japan) (Game Disk)": {
+		"languages": ["Ja"]
+	},
+	"Narsillion (Japan) (Install 1)": {
+		"languages": ["Ja"]
+	},
+	"Narsillion (Japan) (Install 2)": {
+		"languages": ["Ja"]
+	},
+	"Narsillion (Japan) (Play CD)": {
 		"languages": ["Ja"]
 	},
 	"Naruto - Rise of a Ninja (Europe)": {
@@ -72188,6 +72884,9 @@
 	"Neverhood, The (USA)": {
 		"languages": ["En"]
 	},
+	"Neverhood, The (USA) (OEM)": {
+		"languages": ["En"]
+	},
 	"Neverville - Der Runenstein des Lichts (Germany)": {
 		"languages": []
 	},
@@ -72587,6 +73286,12 @@
 	"Nick Jr. Dora the Explorer - Backpack Adventure (USA) (Rev 1)": {
 		"languages": ["En"]
 	},
+	"Nick Jr. Dora the Explorer - Dance to the Rescue (Australia)": {
+		"languages": []
+	},
+	"Nick Jr. Dora the Explorer - Dance to the Rescue (USA)": {
+		"languages": ["En"]
+	},
 	"Nick Jr. Dora the Explorer - Fairytale Adventure (USA)": {
 		"languages": ["En"]
 	},
@@ -72671,6 +73376,9 @@
 	"Nickelodeon Go, Diego, Go! Great Dinosaur Rescue and Safari Rescue (USA)": {
 		"languages": ["En"]
 	},
+	"Nickelodeon Jimmy Neutron - Boy Genius (Australia)": {
+		"languages": []
+	},
 	"Nickelodeon Jimmy Neutron - Boy Genius (USA)": {
 		"languages": ["En"]
 	},
@@ -72743,6 +73451,9 @@
 	"Nickelodeon SpongeBob SquarePants - Lights, Camera, Pants! (USA)": {
 		"languages": ["En"]
 	},
+	"Nickelodeon SpongeBob SquarePants - Obstacle Odyssey Two - Time Trouble (USA)": {
+		"languages": []
+	},
 	"Nickelodeon SpongeBob SquarePants - Operation Krabby Patty (Argentina)": {
 		"languages": ["En"]
 	},
@@ -72798,6 +73509,9 @@
 		"languages": ["En"]
 	},
 	"Nicktoons Unite! (Australia) (Assets)": {
+		"languages": ["En"]
+	},
+	"Nicktoons Winners Cup Racing (USA)": {
 		"languages": ["En"]
 	},
 	"Nicolas Eymerich Inquisitore - Capitolo I - La Peste (Italy) (It,La)": {
@@ -72884,6 +73598,9 @@
 	"Nihongo Tanken Series - Hougen Momotarou (Japan)": {
 		"languages": ["Ja"]
 	},
+	"Nihonshi Time Machine (Japan)": {
+		"languages": ["Ja"]
+	},
 	"Nikita - Das Geheimnis des verborgenen Schatzes (Germany)": {
 		"languages": ["De"]
 	},
@@ -72928,6 +73645,9 @@
 	},
 	"Ninja - Shadow of Darkness - Digital Press Kit (Europe) (En,Fr,De)": {
 		"languages": ["De", "En", "Fr"]
+	},
+	"Ninja Blade (Europe)": {
+		"languages": ["En"]
 	},
 	"Ninja Blade (Russia)": {
 		"languages": []
@@ -74291,9 +75011,6 @@
 	"Optimum Resource Sampler (USA) (Rerelease)": {
 		"languages": ["En"]
 	},
-	"Opustoshenie (Russia)": {
-		"languages": ["Ru"]
-	},
 	"Orange Box, The (Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru,Th) (Disc 1)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Ko", "Pt", "Ru", "Th", "Zh"]
 	},
@@ -74626,6 +75343,9 @@
 	},
 	"Outforce, The (Germany)": {
 		"languages": ["De"]
+	},
+	"Outlast - A Reading for Information Game (USA)": {
+		"languages": ["En"]
 	},
 	"Outlaw Golf (Europe)": {
 		"languages": ["En"]
@@ -75050,7 +75770,13 @@
 	"PC Actual DVD 20 (Spain)": {
 		"languages": ["En"]
 	},
+	"PC Actual DVD 28 (Spain)": {
+		"languages": []
+	},
 	"PC Adviser - Issue 88 - February 2003 (Europe)": {
+		"languages": []
+	},
+	"PC Advisor - April 2006 Issue 129 (UK)": {
 		"languages": []
 	},
 	"PC Advisor - August 2005 Issue 121 (UK)": {
@@ -75307,6 +76033,9 @@
 	},
 	"PC Futbol 6.0 (Spain)": {
 		"languages": ["Es"]
+	},
+	"PC Futebol 2005 (Portugal)": {
+		"languages": ["Pt"]
 	},
 	"PC Game Best Series Vol. 22 - J. B. Harold no Jikenbo - Manhattan Requiem - Yami ni Tobu Tenshi-tachi (Japan)": {
 		"languages": ["Ja"]
@@ -77237,6 +77966,48 @@
 	"PC Magazine - 3-Volume Software SuperPac (USA)": {
 		"languages": []
 	},
+	"PC Magazine - April 2000 (UK)": {
+		"languages": []
+	},
+	"PC Magazine - August 1999 (UK)": {
+		"languages": []
+	},
+	"PC Magazine - December 1999 (UK)": {
+		"languages": []
+	},
+	"PC Magazine - January 2000 (UK)": {
+		"languages": []
+	},
+	"PC Magazine - July 1999 (UK)": {
+		"languages": []
+	},
+	"PC Magazine - June 2000 (UK)": {
+		"languages": []
+	},
+	"PC Magazine - March 1999 (UK)": {
+		"languages": []
+	},
+	"PC Magazine - March 2000 (UK)": {
+		"languages": []
+	},
+	"PC Magazine - May 1999 (UK)": {
+		"languages": []
+	},
+	"PC Magazine - May 2000 (UK)": {
+		"languages": []
+	},
+	"PC Magazine - May 2000 (UK) (Disc 2) (GameFest)": {
+		"languages": []
+	},
+	"PC Magazine - November 1999 (UK) (Disc 2) (Games Galore)": {
+		"languages": []
+	},
+	"PC Magazine - October 1999 (UK)": {
+		"languages": []
+	},
+	"PC Magazine - September 1999 (UK)": {
+		"languages": []
+	},
 	"PC Magazine - Ultimate Utilities for Windows 95 (USA)": {
 		"languages": ["En"]
 	},
@@ -77607,6 +78378,9 @@
 		"languages": []
 	},
 	"PC Press DVD PC 165 April 2010 (Serbia)": {
+		"languages": []
+	},
+	"PC Pro - August 2004 (UK)": {
 		"languages": []
 	},
 	"PC Pro - March 1997 (UK)": {
@@ -79346,6 +80120,9 @@
 	"Pet Racer (Poland)": {
 		"languages": ["Pl"]
 	},
+	"Pet Soccer (Italy) (En,Fr,De,Es,It,Pl)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Pl"]
+	},
 	"Pet Soccer (Poland)": {
 		"languages": ["Pl"]
 	},
@@ -80027,6 +80804,9 @@
 	"Pinball Builder - A Construction Kit for Windows (USA) (Rerelease)": {
 		"languages": ["En"]
 	},
+	"Pinball Collection Vol. II (Australia)": {
+		"languages": []
+	},
 	"Pinball Construction Kit (Europe)": {
 		"languages": ["En"]
 	},
@@ -80197,6 +80977,9 @@
 	},
 	"Pirates - Vivi L'Avventura del Capitano! (Italy)": {
 		"languages": ["It"]
+	},
+	"Pirates 7 (Japan)": {
+		"languages": ["Ja"]
 	},
 	"Pirates Odissey - To Each His Own (Russia)": {
 		"languages": ["Ru"]
@@ -81698,6 +82481,9 @@
 	"PlayStation Move - Media Assets (Europe)": {
 		"languages": ["En"]
 	},
+	"PlayStation Move Media Assets (Europe)": {
+		"languages": []
+	},
 	"PlayStation Network (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
@@ -81902,6 +82688,9 @@
 	"Playhouse Disney - Stanley - Wild for Sharks! (USA)": {
 		"languages": ["En"]
 	},
+	"Playhouse Disney - The Book of Pooh - A Story Without a Tail (USA)": {
+		"languages": ["En"]
+	},
 	"Playhouse Disney - The Wiggles - Wiggle Bay (USA) (Rerelease)": {
 		"languages": ["En"]
 	},
@@ -82037,11 +82826,17 @@
 	"PokeROM - Articuno (USA)": {
 		"languages": ["En"]
 	},
+	"PokeROM - Bellossom (USA)": {
+		"languages": ["En"]
+	},
 	"PokeROM - Blastoise (USA)": {
 		"languages": ["En"]
 	},
 	"PokeROM - Blissey (USA)": {
 		"languages": ["En"]
+	},
+	"PokeROM - Bulbasaur (Netherlands)": {
+		"languages": ["Nl"]
 	},
 	"PokeROM - Bulbasaur (USA)": {
 		"languages": ["En"]
@@ -82050,6 +82845,9 @@
 		"languages": ["En"]
 	},
 	"PokeROM - Charizard (USA)": {
+		"languages": ["En"]
+	},
+	"PokeROM - Charmander (UK)": {
 		"languages": ["En"]
 	},
 	"PokeROM - Charmander (USA)": {
@@ -82100,6 +82898,9 @@
 	"PokeROM - Jigglypuff (USA)": {
 		"languages": ["En"]
 	},
+	"PokeROM - Jynx (USA)": {
+		"languages": ["En"]
+	},
 	"PokeROM - Lapras (USA)": {
 		"languages": ["En"]
 	},
@@ -82143,6 +82944,9 @@
 		"languages": ["En"]
 	},
 	"PokeROM - Quagsire (USA)": {
+		"languages": ["En"]
+	},
+	"PokeROM - Scizor (USA)": {
 		"languages": ["En"]
 	},
 	"PokeROM - Sentret (USA)": {
@@ -82219,6 +83023,9 @@
 	},
 	"Pokemon Project Studio - Blue Version (USA) (Alt)": {
 		"languages": ["En"]
+	},
+	"Pokemon Project Studio - Red Version (Europe) (En,Fr,De,Es,It,Nl)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
 	},
 	"Pokemon Project Studio - Red Version (USA)": {
 		"languages": ["En"]
@@ -82363,6 +83170,9 @@
 	},
 	"Political Machine 2008, The (USA)": {
 		"languages": ["En"]
+	},
+	"Political Machine, The (USA)": {
+		"languages": []
 	},
 	"Political Tycoon (USA)": {
 		"languages": ["En"]
@@ -83522,6 +84332,9 @@
 	"Prison Tycoon (USA)": {
 		"languages": ["En"]
 	},
+	"Prison Tycoon - Gold Edition (USA)": {
+		"languages": []
+	},
 	"Prison Tycoon 2 - Maximum Security (Europe)": {
 		"languages": ["En"]
 	},
@@ -83538,6 +84351,9 @@
 		"languages": ["Zh"]
 	},
 	"Prisoner of War (Europe) (En,Fr,De,Es,It)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Prisoner of War (USA) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Private Eye (USA)": {
@@ -83604,6 +84420,9 @@
 		"languages": []
 	},
 	"Pro Evolution Soccer 3 (Europe) (En,Fr,De,Es,It)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Pro Evolution Soccer 4 (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Pro Evolution Soccer 5 (Europe) (En,Fr,De,Es,It)": {
@@ -84284,6 +85103,9 @@
 	"Puyo Puyo Fever (Japan)": {
 		"languages": ["Ja"]
 	},
+	"Puyo Puyo Fever (Japan) (Rerelease)": {
+		"languages": ["Ja"]
+	},
 	"Puyo Puyo Sun (Japan)": {
 		"languages": ["Ja"]
 	},
@@ -84947,6 +85769,9 @@
 	"RTL Biathlon 2007 (Russia)": {
 		"languages": ["Ru"]
 	},
+	"RTL Biathlon 2009 (Poland)": {
+		"languages": ["Pl"]
+	},
 	"RTL Ski Jumping 2007 (Poland)": {
 		"languages": ["Pl"]
 	},
@@ -84958,6 +85783,9 @@
 	},
 	"Rabbids Go Home (France) (En,Fr,De,Es,It,Nl) (Just for Games) (20130613)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
+	},
+	"Rabid Helix (Japan)": {
+		"languages": ["Ja"]
 	},
 	"Race - The WTCC Game (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -86366,6 +87194,9 @@
 	"Reader Rabbit's Toddler - Original Version (USA)": {
 		"languages": ["En"]
 	},
+	"Reading & Phonics (Australia)": {
+		"languages": []
+	},
 	"Reading Blaster - Ages 4-6 (USA)": {
 		"languages": ["En"]
 	},
@@ -87666,9 +88497,12 @@
 		"languages": ["It"]
 	},
 	"Restaurant Empire (USA)": {
-		"languages": ["En"]
+		"languages": []
 	},
 	"Restaurant Empire (USA) (Rerelease)": {
+		"languages": ["En"]
+	},
+	"Restaurant Empire (USA) (Rev 1)": {
 		"languages": ["En"]
 	},
 	"Restricted Area (Germany)": {
@@ -87853,6 +88687,12 @@
 	},
 	"Reunion (Europe) (En,Fr,De,It)": {
 		"languages": ["De", "En", "Fr", "It"]
+	},
+	"Revenant (China) (Disc A)": {
+		"languages": ["Zh"]
+	},
+	"Revenant (China) (Disc B)": {
+		"languages": ["Zh"]
 	},
 	"Revenant (Europe) (Disc 1) (Installation)": {
 		"languages": ["En"]
@@ -88979,6 +89819,9 @@
 	"Rock 'N Roll Your Own - A Music-Making CD-ROM Experience (USA)": {
 		"languages": ["En"]
 	},
+	"Rock 'N' Roll (Turkey)": {
+		"languages": ["En"]
+	},
 	"Rock de tu Vida, El (Argentina)": {
 		"languages": ["Es"]
 	},
@@ -89122,6 +89965,9 @@
 	},
 	"Roland Garros 1998 (Italy) (Rerelease)": {
 		"languages": ["En"]
+	},
+	"Roland Garros 2000 (France) (Covermount)": {
+		"languages": []
 	},
 	"Roland Garros French Open 2000 (Portugal)": {
 		"languages": ["En"]
@@ -89419,6 +90265,12 @@
 	},
 	"Rolypolys no Nanakorobi Yaoki (Japan) (En,Ja)": {
 		"languages": ["En", "Ja"]
+	},
+	"Roman Reine (Japan) (Disc A)": {
+		"languages": ["Ja"]
+	},
+	"Roman Reine (Japan) (Disc B)": {
+		"languages": ["Ja"]
 	},
 	"Romance of the Three Kingdoms XI (Italy)": {
 		"languages": ["En"]
@@ -89904,7 +90756,7 @@
 		"languages": []
 	},
 	"Rybka Freddi - Delo o shkol'nom prizrake (Russia)": {
-		"languages": []
+		"languages": ["Ru"]
 	},
 	"Rybka Freddi i Tajna Okeana (Russia)": {
 		"languages": []
@@ -90809,6 +91661,9 @@
 	"Sage von Nietoom, Die (Germany)": {
 		"languages": ["De"]
 	},
+	"Saikyou Densetsu - Mahjong Haou 2 - Kanzenban (Japan)": {
+		"languages": ["Ja"]
+	},
 	"Sail 2000 (USA) (En,Fr,Es,It)": {
 		"languages": ["En", "Es", "Fr", "It"]
 	},
@@ -91242,6 +92097,12 @@
 		"languages": ["Zh"]
 	},
 	"Sanguozhi VII (China)": {
+		"languages": ["Zh"]
+	},
+	"Sanguozhi VII (Taiwan)": {
+		"languages": ["Zh"]
+	},
+	"Sanguozhi VII Weili Jiaqiangban (Taiwan)": {
 		"languages": ["Zh"]
 	},
 	"Sanguozhi VIII (China)": {
@@ -92735,6 +93596,12 @@
 	"Sensible World of Soccer - European Championship Edition (Europe) (En,Fr,De,It) (Rerelease)": {
 		"languages": ["De", "En", "Fr", "It"]
 	},
+	"Sentimental Graffiti (Japan) (Disc 1)": {
+		"languages": ["Ja"]
+	},
+	"Sentimental Graffiti (Japan) (Disc 2)": {
+		"languages": ["Ja"]
+	},
 	"Sentimental Graffiti 2 (Taiwan) (Disc 1)": {
 		"languages": ["Zh"]
 	},
@@ -92964,6 +93831,12 @@
 		"languages": ["En"]
 	},
 	"Sesame Street - Elmo's Preschool (USA) (Disc 2) (Search & Learn Adventures)": {
+		"languages": ["En"]
+	},
+	"Sesame Street - Elmo's Preschool Deluxe (USA) (Disc 1) (Elmo's Preschool)": {
+		"languages": ["En"]
+	},
+	"Sesame Street - Elmo's Preschool Deluxe (USA) (Disc 2) (Search & Learn Adventures)": {
 		"languages": ["En"]
 	},
 	"Sesame Street - First Steps (USA)": {
@@ -93331,6 +94204,9 @@
 	},
 	"Shadow Force - Razor Unit (USA)": {
 		"languages": []
+	},
+	"Shadow Hearts - Special Disc (Japan)": {
+		"languages": ["Ja"]
 	},
 	"Shadow Man (Europe) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
@@ -93980,6 +94856,9 @@
 	"Shiluo Dadi (Taiwan) (Demo)": {
 		"languages": ["Zh"]
 	},
+	"Shin Eiyuu Densetsu (Japan)": {
+		"languages": ["Ja"]
+	},
 	"Shin Master of Monsters Final (Japan)": {
 		"languages": ["Ja"]
 	},
@@ -94041,6 +94920,9 @@
 		"languages": ["Ja"]
 	},
 	"Shinkyoku Soukai Polyphonica Episode 1 & 2-wa (Japan)": {
+		"languages": ["Ja"]
+	},
+	"Shinma Kourin (Japan)": {
 		"languages": ["Ja"]
 	},
 	"Shinseiki GPX Cyber Formula - SIN Cyber GrandPrix 2 (Japan)": {
@@ -94463,6 +95345,9 @@
 	"Shrek 2 Activity Centre - Twisted Fairy Tale Fun (USA)": {
 		"languages": ["En"]
 	},
+	"Shrek Swamp Fun with Early Math (Australia)": {
+		"languages": []
+	},
 	"Shrine Circus Tycoon (USA)": {
 		"languages": []
 	},
@@ -94555,6 +95440,9 @@
 	},
 	"Sid Meier's Alien Crossfire (Germany)": {
 		"languages": ["De"]
+	},
+	"Sid Meier's Alien Crossfire (USA)": {
+		"languages": []
 	},
 	"Sid Meier's Alpha Centauri (China)": {
 		"languages": ["En"]
@@ -96269,6 +97157,9 @@
 	"Simoun - Ibara Sensou - Fuuin no Ri Maajon (Japan) (Original Desktop Accessory + BGM-shuu) (PS2 Game Bundle)": {
 		"languages": ["Ja"]
 	},
+	"Simple Maori Sentences - Plus! Puzzles that talk Maori (New Zealand)": {
+		"languages": ["En"]
+	},
 	"Simpsons, The - Hit & Run (Asia) (Disc 2)": {
 		"languages": ["En"]
 	},
@@ -96491,10 +97382,10 @@
 	"Sims 2, The - Celebration! Stuff (Germany) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,Cs,Hu)": {
 		"languages": ["Cs", "Da", "De", "En", "Es", "Fi", "Fr", "Hu", "It", "Nl", "No", "Pl", "Pt", "Ru", "Sv"]
 	},
-	"Sims 2, The - Celebration! Stuff (USA) (En,Es)": {
+	"Sims 2, The - Celebration! Stuff (USA) (En,Es) (Alt)": {
 		"languages": ["En", "Es"]
 	},
-	"Sims 2, The - Celebration! Stuff (USA) (En,Es) (Alt)": {
+	"Sims 2, The - Celebration! Stuff (USA, Australia) (En,Es)": {
 		"languages": ["En", "Es"]
 	},
 	"Sims 2, The - Christmas Party Pack (Europe)": {
@@ -96520,6 +97411,9 @@
 	},
 	"Sims 2, The - Double Deluxe (Germany) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,Cs,Hu) (Spiel-DVD)": {
 		"languages": ["Cs", "Da", "De", "En", "Es", "Fi", "Fr", "Hu", "It", "Nl", "No", "Pl", "Pt", "Ru", "Sv"]
+	},
+	"Sims 2, The - Double Deluxe (Japan)": {
+		"languages": ["Ja"]
 	},
 	"Sims 2, The - Double Deluxe (USA) (Bonus DVD)": {
 		"languages": ["En"]
@@ -96701,6 +97595,9 @@
 	"Sims 2, The - Teen Style Stuff (USA) (Alt)": {
 		"languages": ["En"]
 	},
+	"Sims 2, The - Teenager Pack (Japan)": {
+		"languages": ["Ja"]
+	},
 	"Sims 2, The - University (Expansion Pack) (Europe) (Disc 1)": {
 		"languages": []
 	},
@@ -96740,7 +97637,10 @@
 	"Sims 2, The - University Life Collection (USA) (En,Es)": {
 		"languages": ["En", "Es"]
 	},
-	"Sims 3, The (Australia, New Zealand) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El,Cs,Hu)": {
+	"Sims 2, The - Winter Pack (Japan)": {
+		"languages": []
+	},
+	"Sims 3, The (Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El,Cs,Hu)": {
 		"languages": ["Cs", "Da", "De", "El", "En", "Es", "Fi", "Fr", "Hu", "It", "Nl", "No", "Pl", "Pt", "Ru", "Sv"]
 	},
 	"Sims 3, The (Brazil) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El,Cs,Hu)": {
@@ -96767,7 +97667,7 @@
 	"Sims 3, The - Ambitions (Expansion Pack) (USA, Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El,Cs,Hu)": {
 		"languages": ["Cs", "Da", "De", "El", "En", "Es", "Fi", "Fr", "Hu", "It", "Nl", "No", "Pl", "Pt", "Ru", "Sv"]
 	},
-	"Sims 3, The - Diesel Stuff (Australia, New Zealand)": {
+	"Sims 3, The - Diesel Stuff (Australia)": {
 		"languages": []
 	},
 	"Sims 3, The - Diesel Stuff (USA)": {
@@ -96779,13 +97679,13 @@
 	"Sims 3, The - Fast Lane Stuff (USA)": {
 		"languages": []
 	},
-	"Sims 3, The - Generations (Expansion Pack) (Australia, New Zealand)": {
+	"Sims 3, The - Generations (Expansion Pack) (Australia)": {
 		"languages": []
 	},
 	"Sims 3, The - Generations (Expansion Pack) (USA)": {
 		"languages": ["En"]
 	},
-	"Sims 3, The - Hidden Springs (Australia, New Zealand)": {
+	"Sims 3, The - Hidden Springs (Australia)": {
 		"languages": []
 	},
 	"Sims 3, The - Hidden Springs (USA)": {
@@ -96818,19 +97718,19 @@
 	"Sims 3, The - Mir Priklyuchenij (Russia) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Zh,Ko,Pl,Ru,El,Cs,Hu,Th)": {
 		"languages": ["Cs", "Da", "De", "El", "En", "Es", "Fr", "Hu", "It", "Ja", "Ko", "Nl", "No", "Pl", "Pt", "Ru", "Sv", "Th", "Zh"]
 	},
-	"Sims 3, The - Monte Vista (Australia, New Zealand)": {
+	"Sims 3, The - Monte Vista (Australia)": {
 		"languages": []
 	},
 	"Sims 3, The - Monte Vista (USA)": {
 		"languages": ["En"]
 	},
-	"Sims 3, The - Outdoor Living Stuff (Australia, New Zealand)": {
+	"Sims 3, The - Outdoor Living Stuff (Australia)": {
 		"languages": []
 	},
 	"Sims 3, The - Outdoor Living Stuff (USA)": {
 		"languages": []
 	},
-	"Sims 3, The - Pets (Expansion Pack) (Australia, New Zealand)": {
+	"Sims 3, The - Pets (Expansion Pack) (Australia)": {
 		"languages": []
 	},
 	"Sims 3, The - Pets (Expansion Pack) (USA)": {
@@ -96845,13 +97745,13 @@
 	"Sims 3, The - Supernatural (Expansion Pack) (USA)": {
 		"languages": []
 	},
-	"Sims 3, The - Town Life Stuff (Australia, New Zealand)": {
+	"Sims 3, The - Town Life Stuff (Australia)": {
 		"languages": []
 	},
 	"Sims 3, The - Town Life Stuff (USA)": {
 		"languages": ["En"]
 	},
-	"Sims 3, The - University Life (Expansion Pack) (Australia, New Zealand)": {
+	"Sims 3, The - University Life (Expansion Pack) (Australia)": {
 		"languages": []
 	},
 	"Sims 3, The - University Life (Expansion Pack) (USA)": {
@@ -96860,10 +97760,10 @@
 	"Sims 3, The - World Adventures (Expansion Pack) (USA)": {
 		"languages": ["En"]
 	},
-	"Sims 4, The (Europe) (Disc 1)": {
+	"Sims 4, The (Europe, Australia) (Disc 1)": {
 		"languages": []
 	},
-	"Sims 4, The (Europe) (Disc 2)": {
+	"Sims 4, The (Europe, Australia) (Disc 2)": {
 		"languages": []
 	},
 	"Sims 4, The (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,Cs) (Disc 1)": {
@@ -96872,7 +97772,7 @@
 	"Sims 4, The (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,Cs) (Disc 2)": {
 		"languages": ["Cs", "Da", "De", "En", "Es", "Fi", "Fr", "It", "Ja", "Ko", "Nl", "No", "Pl", "Pt", "Ru", "Sv", "Zh"]
 	},
-	"Sims 4, The - Get to Work (Expansion Pack) (USA)": {
+	"Sims 4, The - Get to Work (Expansion Pack) (USA, Australia)": {
 		"languages": []
 	},
 	"Sims 4, The - Island Living (USA) (En,Es)": {
@@ -96896,8 +97796,11 @@
 	"Sims Life Stories, The (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,Cs,Hu)": {
 		"languages": ["Cs", "Da", "De", "En", "Es", "Fi", "Fr", "Hu", "It", "Nl", "No", "Pl", "Pt", "Ru", "Sv"]
 	},
-	"Sims Life Stories, The (USA)": {
-		"languages": ["En"]
+	"Sims Life Stories, The (USA) (En,Es)": {
+		"languages": ["En", "Es"]
+	},
+	"Sims Magazine 26, Les (France)": {
+		"languages": []
 	},
 	"Sims Medieval, The (USA) (En,Fr,De,Es,It,Nl,Sv,Pl,Ru)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl", "Pl", "Ru", "Sv"]
@@ -97742,6 +98645,9 @@
 	"Sniper Elite (USA)": {
 		"languages": ["En"]
 	},
+	"Sniper Elite - Special'naya versiya (Russia)": {
+		"languages": ["Ru"]
+	},
 	"Sniper Elite - Zombie Army (Germany)": {
 		"languages": []
 	},
@@ -97864,6 +98770,9 @@
 	},
 	"Software Toolworks CD Deluxe Pack 4, The (USA)": {
 		"languages": ["En"]
+	},
+	"Software Toolworks' Star Wars Chess, The (Japan) (En,Ja,Fr,De,Es)": {
+		"languages": ["De", "En", "Es", "Fr", "Ja"]
 	},
 	"Software Toolworks' Star Wars Chess, The (USA)": {
 		"languages": ["En"]
@@ -98039,7 +98948,7 @@
 	"Son Cin (Turkey)": {
 		"languages": ["Tr"]
 	},
-	"Sonic & All-Stars Racing Transformed (Australia, New Zealand) (En,Fr,De,Es,It) (Rerelease)": {
+	"Sonic & All-Stars Racing Transformed (Australia) (En,Fr,De,Es,It) (Rerelease)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Sonic & All-Stars Racing Transformed (Europe) (En,Fr,De,Es,It)": {
@@ -99326,7 +100235,7 @@
 	"Split-Second - Velocity (Russia)": {
 		"languages": ["Ru"]
 	},
-	"Spore (Australia, New Zealand) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El,Cs,Hu)": {
+	"Spore (Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El,Cs,Hu)": {
 		"languages": ["Cs", "Da", "De", "El", "En", "Es", "Fi", "Fr", "Hu", "It", "Nl", "No", "Pl", "Pt", "Ru", "Sv"]
 	},
 	"Spore (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El,Cs,Hu)": {
@@ -101222,7 +102131,10 @@
 	"Star Wars - Republic Commando (USA) (Disc 2)": {
 		"languages": ["En"]
 	},
-	"Star Wars - Republic Commando (USA) (Rerelease)": {
+	"Star Wars - Republic Commando (USA) (Rerelease) (20100914)": {
+		"languages": ["En"]
+	},
+	"Star Wars - Republic Commando (USA) (Rerelease) (20101012)": {
 		"languages": ["En"]
 	},
 	"Star Wars - Republic Commando (USA) (Rerelease) (20110110)": {
@@ -102302,8 +103214,8 @@
 	"Stolen (USA) (Disc 2)": {
 		"languages": []
 	},
-	"Stolen - Ograblenije Veka (Russia) (Disc 2) (Game)": {
-		"languages": ["Ru"]
+	"Stolen - Ograblenie Veka (Russia) (Fr,De,Es,It,Ru) (Disc 2) (Igrovoj)": {
+		"languages": ["De", "Es", "Fr", "It", "Ru"]
 	},
 	"Stone Quarry Simulator (Europe)": {
 		"languages": ["En"]
@@ -102573,6 +103485,9 @@
 		"languages": []
 	},
 	"Stratosphere - Conquest of the Skies (USA) (Demo)": {
+		"languages": []
+	},
+	"Straw Harvest (Europe)": {
 		"languages": []
 	},
 	"Strawberry Shortcake - Amazing Cookie Party (USA)": {
@@ -103120,6 +104035,9 @@
 	},
 	"Sudoku Challenge!, The (Europe) (Sold Out Software)": {
 		"languages": ["En"]
+	},
+	"Sudoku Challenge, The (Australia)": {
+		"languages": []
 	},
 	"Sudoku Crunch for Kids! (USA)": {
 		"languages": []
@@ -105671,11 +106589,14 @@
 	"Tetris Gold (USA)": {
 		"languages": ["En"]
 	},
+	"Tetris Gold (USA) (Rerelease)": {
+		"languages": ["En"]
+	},
 	"Tetris Worlds (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Tetris Worlds (UK) (Rerelease)": {
-		"languages": ["En"]
+	"Tetris Worlds (Europe) (En,Fr,De,Es,It) (Rerelease)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Tetris Worlds (USA)": {
 		"languages": ["En"]
@@ -105763,6 +106684,9 @@
 	},
 	"Thandor - The Invasion (Italy)": {
 		"languages": ["It"]
+	},
+	"The Tower II - Towerkit CD - Kyoto-eki Biru - Gamera 3 (Japan)": {
+		"languages": ["Ja"]
 	},
 	"Theatre of Death & Spear of Destiny (Europe)": {
 		"languages": ["En"]
@@ -106790,6 +107714,9 @@
 	"Titan Quest (USA)": {
 		"languages": ["En"]
 	},
+	"Titan Quest (USA) (En,Fr,De,Es,It) (Demo)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
 	"Titan Quest - Deluxe Edition (Germany) (En,Fr,De,Es,It,Pl,Ru,Cs)": {
 		"languages": ["Cs", "De", "En", "Es", "Fr", "It", "Pl", "Ru"]
 	},
@@ -106885,6 +107812,12 @@
 	},
 	"To the Moon (Germany) (En,De) (Installationsdisc)": {
 		"languages": ["De", "En"]
+	},
+	"Tobikkiri Ruin (Japan) (Game Disc)": {
+		"languages": ["Ja"]
+	},
+	"Tobikkiri Ruin (Japan) (Install Disc)": {
+		"languages": ["Ja"]
 	},
 	"Todesfalle Ayers Rock (Germany)": {
 		"languages": []
@@ -107825,6 +108758,9 @@
 	"Tomb Raider (Russia)": {
 		"languages": ["Ru"]
 	},
+	"Tomb Raider (UK)": {
+		"languages": []
+	},
 	"Tomb Raider (USA)": {
 		"languages": ["En"]
 	},
@@ -107848,6 +108784,12 @@
 	},
 	"Tomb Raider - Art + Screens (USA)": {
 		"languages": []
+	},
+	"Tomb Raider - Chronicles (Europe) (Disc 1) (Sold Out Software)": {
+		"languages": ["En"]
+	},
+	"Tomb Raider - Chronicles (Europe) (Disc 2) (Sold Out Software)": {
+		"languages": ["En"]
 	},
 	"Tomb Raider - Die Chronik (Germany)": {
 		"languages": ["De"]
@@ -107902,6 +108844,9 @@
 	},
 	"Tomb Raider - Underworld (Europe) (En,Fr,De,Es,It,Nl) (Rerelease)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
+	},
+	"Tomb Raider - Underworld (Europe) (Rerelease)": {
+		"languages": ["En"]
 	},
 	"Tomb Raider - Underworld (Italy) (En,Fr,De,Es,It,Nl) (Covermount)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
@@ -108563,6 +109508,9 @@
 	"Top-Hits Ausgewaehlter Rennspiele (Germany)": {
 		"languages": ["De"]
 	},
+	"Topo Gigio no Issho ni Manabou CD-ROM Vol. 5 - Topo no Kurabete Miyou (Japan)": {
+		"languages": ["Ja"]
+	},
 	"Topshots on CD - Volume 2 (Germany) (En,De)": {
 		"languages": ["De", "En"]
 	},
@@ -108752,14 +109700,17 @@
 	"Total Annihilation (USA) (Disc 1) (Alt)": {
 		"languages": ["En"]
 	},
-	"Total Annihilation (USA) (Disc 1) (Rerelease)": {
+	"Total Annihilation (USA) (Disc 1) (Rerelease) (19980908)": {
+		"languages": ["En"]
+	},
+	"Total Annihilation (USA) (Disc 1) (Rerelease) (19980908) (Alt)": {
 		"languages": ["En"]
 	},
 	"Total Annihilation (USA) (Disc 1) (Rerelease) (20001123)": {
 		"languages": ["En"]
 	},
-	"Total Annihilation (USA) (Disc 1) (Rerelease) (Alt)": {
-		"languages": ["En"]
+	"Total Annihilation (USA) (Disc 1) (v1.1)": {
+		"languages": []
 	},
 	"Total Annihilation (USA) (Disc 2)": {
 		"languages": ["En"]
@@ -109094,6 +110045,9 @@
 	"Tow Truck Simulator (Europe)": {
 		"languages": ["En"]
 	},
+	"Tower II, The (Japan)": {
+		"languages": ["Ja"]
+	},
 	"Tower of Troy, The (Japan)": {
 		"languages": ["Ja"]
 	},
@@ -109277,6 +110231,12 @@
 	"Trainz Railroad Simulator 2004 - Deluxe Edition (Australia) (Paint Shed)": {
 		"languages": []
 	},
+	"Trainz Railway Simulator - Ultimate Collection (Europe) (Disc 1) (Rerelease)": {
+		"languages": ["En"]
+	},
+	"Trainz Railway Simulator - Ultimate Collection (Europe) (Disc 2) (Rerelease)": {
+		"languages": ["En"]
+	},
 	"Trainz Railway Simulator 2006 (Europe)": {
 		"languages": ["En"]
 	},
@@ -109417,6 +110377,9 @@
 	},
 	"Tre Regni, I (Italy) (Es,It,Zh)": {
 		"languages": ["Es", "It", "Zh"]
+	},
+	"Tre Sma Grisar (Sweden)": {
+		"languages": ["Sv"]
 	},
 	"Tread Marks (Europe)": {
 		"languages": ["En"]
@@ -110921,6 +111884,9 @@
 	"Ultimate Domain (Europe) (Rerelease)": {
 		"languages": ["En"]
 	},
+	"Ultimate Domain (USA)": {
+		"languages": ["En"]
+	},
 	"Ultimate Doom Companion (USA)": {
 		"languages": []
 	},
@@ -110949,6 +111915,9 @@
 		"languages": ["En"]
 	},
 	"Ultimate Doom, The (USA, Europe) (Rerelease) (19970613)": {
+		"languages": ["En"]
+	},
+	"Ultimate Dozen Dash Collection (USA)": {
 		"languages": ["En"]
 	},
 	"Ultimate Duck Hunting (USA)": {
@@ -112401,10 +113370,10 @@
 		"languages": ["Ru"]
 	},
 	"Velikie bitvy - Kurskaya duga (Russia) (Disc 1) (Igrovoj)": {
-		"languages": []
+		"languages": ["Ru"]
 	},
 	"Velikie bitvy - Kurskaya duga (Russia) (Disc 2)": {
-		"languages": []
+		"languages": ["Ru"]
 	},
 	"Velvet Assassin (Russia)": {
 		"languages": []
@@ -112947,6 +113916,9 @@
 		"languages": ["Ja"]
 	},
 	"Virtual Mystery Series - Josei Journalist Satsujin Jiken (Japan)": {
+		"languages": ["Ja"]
+	},
+	"Virtual Mystery Series - Josei Journalist Satsujin Jiken (Japan) (OEM)": {
 		"languages": ["Ja"]
 	},
 	"Virtual On - Cyber Troopers (Europe) (En,Fr,De,Es) (Rerelease)": {
@@ -113513,6 +114485,9 @@
 	"Wallobee Jack - The Lost Lionardo (USA)": {
 		"languages": ["En"]
 	},
+	"Wallobee Jack - The Thai Sun Adventure (Japan)": {
+		"languages": ["Ja"]
+	},
 	"Wallobee Jack - The Thai Sun Adventure (USA)": {
 		"languages": ["En"]
 	},
@@ -113611,6 +114586,9 @@
 	},
 	"War College, The - Universal Military Simulator 3 (Europe)": {
 		"languages": ["En"]
+	},
+	"War Commander (USA)": {
+		"languages": []
 	},
 	"War Diary (Germany) (En,De)": {
 		"languages": ["De", "En"]
@@ -114375,7 +115353,7 @@
 		"languages": ["En"]
 	},
 	"Wars and Warriors - Joan of Arc (Russia)": {
-		"languages": []
+		"languages": ["Ru"]
 	},
 	"Wars and Warriors - Joan of Arc (Taiwan)": {
 		"languages": ["Zh"]
@@ -115760,6 +116738,9 @@
 	"Winterspiele (Germany)": {
 		"languages": ["De"]
 	},
+	"Winx Club - Avventura a Torrenuvola! (Italy)": {
+		"languages": ["It"]
+	},
 	"Wip3out (Europe) (Press CD)": {
 		"languages": []
 	},
@@ -116058,6 +117039,9 @@
 		"languages": ["En"]
 	},
 	"Wolf (USA)": {
+		"languages": ["En"]
+	},
+	"Wolf (USA) (Alt)": {
 		"languages": ["En"]
 	},
 	"Wolf - The Simulation (Germany)": {
@@ -117437,6 +118421,33 @@
 	"X-Plane 10 (USA) (Disc 8)": {
 		"languages": ["En"]
 	},
+	"X-Plane 11 (Germany) (Disc 9) (Add-On DVD)": {
+		"languages": []
+	},
+	"X-Plane 11 (Germany) (En,Ja,Fr,De,Es,It,Pt,Zh,Ru) (Disc 1)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Pt", "Ru", "Zh"]
+	},
+	"X-Plane 11 (Germany) (En,Ja,Fr,De,Es,It,Pt,Zh,Ru) (Disc 2)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Pt", "Ru", "Zh"]
+	},
+	"X-Plane 11 (Germany) (En,Ja,Fr,De,Es,It,Pt,Zh,Ru) (Disc 3)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Pt", "Ru", "Zh"]
+	},
+	"X-Plane 11 (Germany) (En,Ja,Fr,De,Es,It,Pt,Zh,Ru) (Disc 4)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Pt", "Ru", "Zh"]
+	},
+	"X-Plane 11 (Germany) (En,Ja,Fr,De,Es,It,Pt,Zh,Ru) (Disc 5)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Pt", "Ru", "Zh"]
+	},
+	"X-Plane 11 (Germany) (En,Ja,Fr,De,Es,It,Pt,Zh,Ru) (Disc 6)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Pt", "Ru", "Zh"]
+	},
+	"X-Plane 11 (Germany) (En,Ja,Fr,De,Es,It,Pt,Zh,Ru) (Disc 7)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Pt", "Ru", "Zh"]
+	},
+	"X-Plane 11 (Germany) (En,Ja,Fr,De,Es,It,Pt,Zh,Ru) (Disc 8)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Pt", "Ru", "Zh"]
+	},
 	"X-Plane 7 Flight Simulator (Italy)": {
 		"languages": ["It"]
 	},
@@ -117740,6 +118751,9 @@
 	"XS (USA)": {
 		"languages": ["En"]
 	},
+	"Xanadu (Japan)": {
+		"languages": ["Ja"]
+	},
 	"Xanadu Next (Japan)": {
 		"languages": ["Ja"]
 	},
@@ -117902,11 +118916,11 @@
 	"Xenophage - Alien Bloodsport (USA)": {
 		"languages": ["En"]
 	},
-	"Xenus (Russia)": {
-		"languages": []
-	},
 	"Xenus - Tochka kipeniya (Russia)": {
 		"languages": ["Ru"]
+	},
+	"Xenus Gold (Russia)": {
+		"languages": []
 	},
 	"Xevious (Japan)": {
 		"languages": ["Ja"]
@@ -118970,6 +119984,9 @@
 	"Zanma Taisei Demonbane (Japan) (Install Disc 2)": {
 		"languages": ["Ja"]
 	},
+	"Zanzarah - Das Verborgene Tal (Germany)": {
+		"languages": ["De"]
+	},
 	"Zanzarah - V poiskax zateryannoj strany (Russia)": {
 		"languages": ["Ru"]
 	},
@@ -119057,6 +120074,9 @@
 	"Zeno Clash (Europe)": {
 		"languages": []
 	},
+	"Zeno Clash (Japan)": {
+		"languages": ["Ja"]
+	},
 	"Zeppelin! (USA)": {
 		"languages": ["En"]
 	},
@@ -119074,6 +120094,9 @@
 	},
 	"Zero Divide (Japan)": {
 		"languages": ["Ja"]
+	},
+	"Zero Divide (Taiwan)": {
+		"languages": ["En"]
 	},
 	"Zero Divide (USA) (Rerelease)": {
 		"languages": ["En"]
@@ -119356,6 +120379,9 @@
 	},
 	"Zoo Tycoon (Germany) (Alt)": {
 		"languages": ["De"]
+	},
+	"Zoo Tycoon (Japan)": {
+		"languages": ["Ja"]
 	},
 	"Zoo Tycoon (Taiwan)": {
 		"languages": ["Zh"]
@@ -119819,6 +120845,12 @@
 	"iP! 2006.07 (Japan) (Disc 2)": {
 		"languages": ["Ja"]
 	},
+	"iP! 2006.08 (Japan) (Disc 1)": {
+		"languages": ["Ja"]
+	},
+	"iP! 2006.08 (Japan) (Disc 2)": {
+		"languages": ["Ja"]
+	},
 	"iPanzer '44 (Europe)": {
 		"languages": ["En"]
 	},
@@ -119869,6 +120901,9 @@
 	},
 	"realMyst (Europe)": {
 		"languages": ["En"]
+	},
+	"realMyst (Japan)": {
+		"languages": ["Ja"]
 	},
 	"realMyst (USA)": {
 		"languages": ["En"]

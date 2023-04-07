@@ -278,13 +278,13 @@
 	"4chan Nintendo leak 2022-09-18 no. 3 - crush.tar.gz.003 (World) (En,Ja)": {
 		"languages": ["En", "Ja"]
 	},
+	"[BIOS] EDEV NAND (Unknown) (April 2016)": {
+		"languages": ["En"]
+	},
 	"[BIOS] Game & Watch - Super Mario Bros. (World) (En,Ja,Fr,De,Es,It,Nl)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Nl"]
 	},
 	"[BIOS] Pokewalker (World)": {
-		"languages": ["En"]
-	},
-	"[MIA] [BIOS] EDEV NAND (Unknown) (April 2016)": {
 		"languages": ["En"]
 	},
 	"Big Hero 6 Battle in the Bay (USA) (Beta) (3DS Dev Kit CIA)": {
@@ -295,6 +295,9 @@
 	},
 	"Eurocom Nintendo 64 dev files (Europe) (CD-ROM)": {
 		"languages": ["En"]
+	},
+	"Fit Meter (World)": {
+		"languages": ["nolang"]
 	},
 	"Internet Browser (World) (JP,US,EU v2.0.0-v3.0.0) (3DS) (OSS)": {
 		"languages": ["En"]
@@ -326,23 +329,8 @@
 	"Internet Browser (World) (KR,TW,HK,CH v4.0.0-v4.50) (3DS) (OSS)": {
 		"languages": ["En"]
 	},
-	"iQue Player SDK (World) (v1.5)": {
-		"languages": ["En"]
-	},
-	"Line - @Nintendo - Hoshi no Kirby - Vol. 1 (Japan) (2015-11-20)": {
-		"languages": ["Ja"]
-	},
-	"Line - @Nintendo - Hoshi no Kirby - Vol. 2 (Japan) (2015-12-11) (Wallpaper) [b]": {
-		"languages": ["Ja"]
-	},
 	"Mario Kart 8 (World) (Wii U) (OSS)": {
 		"languages": ["En"]
-	},
-	"My Nintendo Original 'Hoshi no Kirby - Discovery' Kabegami (Japan) (Nintendo Switch)": {
-		"languages": ["Ja"]
-	},
-	"My Nintendo Original 'Mario Strikers - Battle League' Kabegami (Japan) (Nintendo Switch)": {
-		"languages": ["Ja"]
 	},
 	"Nintendo 3DS - Development Unit Software - CecBoxTool (World) (SDK)": {
 		"languages": ["En"]
@@ -425,9 +413,6 @@
 	"Nintendo DS - DS-MRC (World) (En) (v1.26) (2011-09-06) (SDK)": {
 		"languages": ["En"]
 	},
-	"Nintendo DS - ensata NITRO Software Emulator (World) (Ja) (v1.3c) (SDK) [b]": {
-		"languages": ["Ja"]
-	},
 	"Nintendo DS - G2D Sample Program (World) (En) (2007-08-21) (SDK)": {
 		"languages": ["En"]
 	},
@@ -469,15 +454,6 @@
 	},
 	"Nintendo DSi - Nintendo TWL Programming Guidelines (World) (En) (v1.5) (2012-05-15) (SDK)": {
 		"languages": ["En"]
-	},
-	"Nintendo DSi - Toriatsukai Setsumeisho - Hontai Toriatsukai Setsumeisho Kihon Hen (Japan) (Nintendo DSi) (Manual)": {
-		"languages": ["Ja"]
-	},
-	"Nintendo DSi - Toriatsukai Setsumeisho - Kantan Start Guide (Japan) (Nintendo DSi) (Manual)": {
-		"languages": ["Ja"]
-	},
-	"Nintendo DSi - Toriatsukai Setsumeisho - Support Book (Japan) (Nintendo DSi) (Manual)": {
-		"languages": ["Ja"]
 	},
 	"Nintendo DSi - TWL Banner Viewer (World) (En) (v1.0.2.0) (SDK)": {
 		"languages": ["En"]
@@ -567,15 +543,6 @@
 		"languages": ["En"]
 	},
 	"Nintendo Switch (World) (v14.1.1, Later Version) (OSS)": {
-		"languages": ["En"]
-	},
-	"Nintendo Switch SDK (World) (v0.16.7) (Beta)": {
-		"languages": ["En"]
-	},
-	"Nintendo Switch SDK (World) (v13.0.0)": {
-		"languages": ["En"]
-	},
-	"Nintendo Switch SDK (World) (v14.1.0)": {
 		"languages": ["En"]
 	},
 	"Nintendo Web Framework (World) (v1.1) (Wii U) (OSS)": {
@@ -706,21 +673,6 @@
 	},
 	"Starlight Wii Hard Drive (USA)": {
 		"languages": ["En"]
-	},
-	"Twitter - @mario_odysseyJP - Super Mario Odyssey (Japan) (Nintendo Switch)": {
-		"languages": ["Ja"]
-	},
-	"Twitter - @Nintendo - Luigi Mansion 3 (Japan) (Nintendo Switch)": {
-		"languages": ["Ja"]
-	},
-	"Twitter - @Nintendo - Mario Kart 8 Deluxe (Japan) (Nintendo Switch)": {
-		"languages": ["Ja"]
-	},
-	"Twitter - @Nintendo - Star Fox Zero - The Battle Begins - Short Anime (Japan) (Wii U)": {
-		"languages": ["Ja"]
-	},
-	"Twitter - @Nintendo - Super Mario Maker 2 (Japan) (Nintendo Switch)": {
-		"languages": ["Ja"]
 	},
 	"Virtual Console Games - Nintendo DS (World) (v1.0) (Wii U) (OSS)": {
 		"languages": ["En"]
