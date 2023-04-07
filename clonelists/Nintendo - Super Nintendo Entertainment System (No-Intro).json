@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Nintendo - Super Nintendo Entertainment System (No-Intro)",
-		"lastUpdated": "5 March 2023",
+		"lastUpdated": "26 March 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -2134,6 +2134,13 @@
 			]
 		},
 		{
+			"group": "Strike Gunner S.T.G",
+			"titles": [
+				{"searchTerm": "Strike Gunner S.T.G"},
+				{"searchTerm": "Super Strike Gunner"}
+			]
+		},
+		{
 			"group": "Stunt Race FX",
 			"titles": [
 				{"searchTerm": "Stunt Race FX"},
@@ -2238,8 +2245,8 @@
 				{"searchTerm": "Super Bombliss"}
 			],
 			"compilations": [
-				{"searchTerm": "Super Tetris 2 + Bombliss Genteiban"},
-				{"searchTerm": "Super Tetris 2 + Bombliss", "priority": 2}
+				{"searchTerm": "Super Tetris 2 + Bombliss"},
+				{"searchTerm": "Super Tetris 2 + Bombliss Genteiban", "priority": 2}
 			]
 		},
 		{
@@ -2361,14 +2368,7 @@
 				{"searchTerm": "Super Mario All-Stars"},
 				{"searchTerm": "Super Mario Collection"}
 			],
-			"compilations": [
-				{"searchTerm": "Super Mario All-Stars + Super Mario World"},
-				{"searchTerm": "Super Mario All-Stars and Super Mario World"}
-			]
-		},
-		{
-			"group": "Super Mario All-Stars + Super Mario World",
-			"titles": [
+			"supersets": [
 				{"searchTerm": "Super Mario All-Stars + Super Mario World"},
 				{"searchTerm": "Super Mario All-Stars and Super Mario World"}
 			]
@@ -2386,7 +2386,7 @@
 				{"searchTerm": "Super Mario World"},
 				{"searchTerm": "Super Mario World - Super Mario Bros. 4"}
 			],
-			"compilations": [
+			"supersets": [
 				{"searchTerm": "Super Mario All-Stars + Super Mario World"},
 				{"searchTerm": "Super Mario All-Stars and Super Mario World"}
 			]
@@ -2520,13 +2520,6 @@
 			]
 		},
 		{
-			"group": "Strike Gunner S.T.G",
-			"titles": [
-				{"searchTerm": "Strike Gunner S.T.G"},
-				{"searchTerm": "Super Strike Gunner"}
-			]
-		},
-		{
 			"group": "Super Tennis",
 			"titles": [
 				{"searchTerm": "Super Tennis"},
@@ -2536,8 +2529,8 @@
 		{
 			"group": "Super Tetris 2",
 			"compilations": [
-				{"searchTerm": "Super Tetris 2 + Bombliss Genteiban"},
-				{"searchTerm": "Super Tetris 2 + Bombliss", "priority": 2}
+				{"searchTerm": "Super Tetris 2 + Bombliss"},
+				{"searchTerm": "Super Tetris 2 + Bombliss Genteiban", "priority": 2}
 			]
 		},
 		{

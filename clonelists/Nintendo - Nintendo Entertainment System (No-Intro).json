@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Nintendo - Nintendo Entertainment System (No-Intro)",
-		"lastUpdated": "18 March 2023",
+		"lastUpdated": "4 April 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -577,7 +577,7 @@
 		{
 			"group": "Blockage",
 			"titles": [
-				{"searchTerm": "Blockage"},
+				{"searchTerm": "^Blockage \\((?:(?!NESDev .*).)*$", "nameType": "regex"},
 				{"searchTerm": "^Blockage \\(World\\) .* \\(NESDev .*\\)", "nameType": "regex", "priority": 2}
 			]
 		},
@@ -986,7 +986,7 @@
 				{"searchTerm": "Destroyer"}
 			],
 			"compilations": [
-				{"searchTerm": "Caltron - 9 in 1"}
+				{"searchTerm": "Caltron - 9 in 1", "priority": 2}
 			]
 		},
 		{
@@ -1123,7 +1123,7 @@
 			"group": "Dream Fighter",
 			"compilations": [
 				{"searchTerm": "Asder - 20 in 1"},
-				{"searchTerm": "Caltron - 9 in 1"}
+				{"searchTerm": "Caltron - 9 in 1", "priority": 2}
 			]
 		},
 		{
@@ -1406,7 +1406,7 @@
 			],
 			"compilations": [
 				{"searchTerm": "Asder - 20 in 1"},
-				{"searchTerm": "Caltron - 9 in 1"}
+				{"searchTerm": "Caltron - 9 in 1", "priority": 2}
 			]
 		},
 		{
@@ -1541,7 +1541,7 @@
 				{"searchTerm": "Hit Marmot"}
 			],
 			"compilations": [
-				{"searchTerm": "Caltron - 9 in 1"}
+				{"searchTerm": "Caltron - 9 in 1", "priority": 2}
 			]
 		},
 		{
@@ -1978,7 +1978,7 @@
 				{"searchTerm": "Magic Block"}
 			],
 			"compilations": [
-				{"searchTerm": "Caltron - 9 in 1"}
+				{"searchTerm": "Caltron - 9 in 1", "priority": 2}
 			]
 		},
 		{
@@ -2093,7 +2093,7 @@
 			"compilations": [
 				{"searchTerm": "Maxi 15"},
 				{"searchTerm": "Maxi-15 Pack"},
-				{"searchTerm": "Rumble Station - 15 in 1"}
+				{"searchTerm": "Rumble Station - 15 in 1", "priority": 2}
 			]
 		},
 		{
@@ -2469,6 +2469,7 @@
 		},
 		{
 			"group": "Puzzle",
+			"searchTerm": ["Puzzle"],
 			"compilations": [
 				{"searchTerm": "Maxi 15"}
 			]
@@ -2687,7 +2688,7 @@
 		{
 			"group": "Sea of Dream Land",
 			"compilations": [
-				{"searchTerm": "Caltron - 9 in 1"}
+				{"searchTerm": "Caltron - 9 in 1", "priority": 2}
 			]
 		},
 		{
@@ -2786,7 +2787,7 @@
 			],
 			"compilations": [
 				{"searchTerm": "Asder - 20 in 1"},
-				{"searchTerm": "Caltron - 9 in 1"}
+				{"searchTerm": "Caltron - 9 in 1", "priority": 2}
 			]
 		},
 		{
@@ -2942,7 +2943,7 @@
 		{
 			"group": "Super Gun",
 			"compilations" : [
-				{"searchTerm": "Caltron - 9 in 1"}
+				{"searchTerm": "Caltron - 9 in 1", "priority": 2}
 			]
 		},
 		{
@@ -3025,7 +3026,7 @@
 			]
 		},
 		{
-			"group": "Tank (Caltron)",
+			"group": "Tank",
 			"titles": [
 				{"searchTerm": "Tanque"},
 				{"searchTerm": "Tank (Caltron)"},
@@ -3033,7 +3034,7 @@
 			],
 			"compilations": [
 				{"searchTerm": "Asder - 20 in 1"},
-				{"searchTerm": "Caltron - 9 in 1"}
+				{"searchTerm": "Caltron - 9 in 1", "priority": 2}
 			]
 		},
 		{
@@ -3257,6 +3258,9 @@
 		},
 		{
 			"group": "Turbo Magic Carpet 1001",
+			"titles": [
+				{"searchTerm": "Magic Carpet 1001"}
+			],
 			"compilations": [
 				{"searchTerm": "Asder - 20 in 1"}
 			]

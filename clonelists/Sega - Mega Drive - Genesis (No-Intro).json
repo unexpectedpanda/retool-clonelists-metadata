@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Sega - Mega Drive - Genesis (No-Intro)",
-		"lastUpdated": "30 June 2022",
+		"lastUpdated": "26 March 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -405,6 +405,10 @@
 			"titles": [
 				{"searchTerm": "Dong Gu Ri Te Chi Jak Jeon"},
 				{"searchTerm": "Dr. Robotnik's Mean Bean Machine"}
+			],
+			"compilations": [
+				{"searchTerm": "Sonic Compilation", "priority": 2},
+				{"searchTerm": "Sonic Compilation ~ Sonic Classics", "priority": 2}
 			]
 		},
 		{
@@ -1192,13 +1196,6 @@
 			]
 		},
 		{
-			"group": "Sonic Compilation ~ Sonic Classics",
-			"titles": [
-				{"searchTerm": "Sonic Compilation"},
-				{"searchTerm": "Sonic Compilation ~ Sonic Classics"}
-			]
-		},
-		{
 			"group": "Sonic & Knuckles + Sonic the Hedgehog 2",
 			"titles": [
 				{"searchTerm": "Sonic & Knuckles + Sonic the Hedgehog 2"}
@@ -1223,6 +1220,20 @@
 			],
 			"supersets": [
 				{"searchTerm": "^Sonic The Hedgehog \\(Japan.*", "nameType": "regex"}
+			],
+			"compilations": [
+				{"searchTerm": "Sonic Compilation", "priority": 2},
+				{"searchTerm": "Sonic Compilation ~ Sonic Classics", "priority": 2}
+			]
+		},
+		{
+			"group": "Sonic The Hedgehog 2",
+			"titles": [
+				{"searchTerm": "Sonic The Hedgehog 2"}
+			],
+			"compilations": [
+				{"searchTerm": "Sonic Compilation", "priority": 2},
+				{"searchTerm": "Sonic Compilation ~ Sonic Classics", "priority": 2}
 			]
 		},
 		{
