@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Sony - PlayStation 2 (Redump)",
-		"lastUpdated": "17 March 2023",
+		"lastUpdated": "07 April 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -24,38 +24,23 @@
 	],
 
 	"mias": [
-		"Armored Core - Last Raven (Japan) (Champion Tokubetsu-ban)",
-		"Castlevania (Japan) (En,Ja) (Genteiban)",
-		"Ferrari Challenge - Trofeo Pirelli (Europe) (En,Fr,De,Es,It) (v2.00)",
 		"Gran Turismo - Subaru Driving Simulator Version (Japan)",
 		"Gran Turismo 3 - A-Spec - Autobacs Tentou Shiyuu Disc (Japan)",
 		"Gran Turismo 4 - Lupo Cup Training Version (Japan)",
-		"Grandia Xtreme (Japan) (Limited Box)",
-		"Hanjuku Hero 4 - 7-nin no Hanjuku Hero (Japan) (Ginga Hanjuku Bentou)",
-		"Idol Janshi Suchie-Pai IV (Japan) (Collector's Edition)",
 		"Karat PS2-you Pro Action Replay 2 (Japan) (Unl) (Version 2.23)",
-		"LEGO Super Soccer Adventure (Europe) (Proto)",
+		"LEGO Super Soccer Adventure (Europe) (Proto 2)",
+		"LEGO Super Soccer Adventure (Europe) (Proto 3)",
 		"Medical and Engineering Joint Entrance Quiz (India)",
-		"Ougon Kishi Garo (Japan) (Genteiban)",
-		"Phase of Combat - Sentou Kokka Kai Legend (Japan) (Tokusou-ban)",
-		"Pop'n Music 10 (Japan) (Controller Set)",
-		"Pro Yakyuu Spirits 5 (Japan) (v2.00)",
-		"Sega Ages 2500 Series Vol. 22 - Advanced Daisenryaku - Deutsch Dengeki Sakusen (Japan) (v3.00)",
 		"Simple 2000 Series - The Daemiin (Korea)",
-		"SingStar '80s (Sweden) (v1.00)",
-		"Soulcalibur III (Japan) (Taikenban Special Disk)",
-		"Time Crisis 3 (Japan) (With GunCon2)",
-		"Uchuu Senkan Yamato - Ankoku Seidan Teikoku no Gyakushuu (Japan)",
-		"Wizardry Empire III - Haou no Keifu (Japan) (Good Price - Suuryou Genteiban)",
-		"Zeonic Front - Kidou Senshi Gundam 0079 (Japan) (Tokubetsu-ban)",
-		"ef - A Fairy Tale of the Two. (Japan)"
+		"Taz - Wanted (Europe) (Beta 1)",
+		"Taz - Wanted (Europe) (Beta 2)"
 	],
 
 	"overrides": [
 		{
 			"searchTerm": "^Micro Machines V4 \\((USA|Europe)\\)(.*?)",
 			"nameType": "regex",
-			"newGroup": "Micro Machines V4"
+			"newGroup": "Micro Machines Veefour"
 		},
 		{
 			"searchTerm": "MLB 2003 (Japan)",
@@ -68,7 +53,7 @@
 		{
 			"searchTerm": "^NBA Street V3 \\((USA|Europe|Japan|Korea)\\)(.*)?",
 			"nameType": "regex",
-			"newGroup": "NBA Street V3"
+			"newGroup": "NBA Street Veethree"
 		}
 	],
 

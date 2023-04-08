@@ -716,6 +716,9 @@
 	"Agent Hugo - RoboRumble (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)": {
 		"languages": ["Da", "De", "En", "Es", "Fi", "Fr", "It", "Nl", "No", "Pt", "Sv"]
 	},
+	"Agent Hugo - RoboRumble (Poland)": {
+		"languages": ["Pl"]
+	},
 	"Aggressive Inline (Europe) (Demo)": {
 		"languages": ["En"]
 	},
@@ -1422,6 +1425,9 @@
 		"languages": ["Ja"]
 	},
 	"Armored Core 2 (USA)": {
+		"languages": ["En"]
+	},
+	"Armored Core 2 - Another Age (Asia)": {
 		"languages": ["En"]
 	},
 	"Armored Core 2 - Another Age (China)": {
@@ -2719,6 +2725,9 @@
 	},
 	"Breath of Fire V - Dragon Quarter (Japan)": {
 		"languages": ["Ja"]
+	},
+	"Breath of Fire V - Dragon Quarter (Korea)": {
+		"languages": ["Ko"]
 	},
 	"Breeders' Cup - World Thoroughbred Championships (USA) (En,Fr,De,Es)": {
 		"languages": ["De", "En", "Es", "Fr"]
@@ -4364,7 +4373,7 @@
 	"Crash Bandicoot - Gatchanko World (Japan)": {
 		"languages": ["Ja"]
 	},
-	"Crash Bandicoot - Mawangui Buwhal (Korea)": {
+	"Crash Bandicoot - Mawangui Buhwal (Korea)": {
 		"languages": ["Ko"]
 	},
 	"Crash Bandicoot - The Wrath of Cortex (Europe) (En,Fr,De,Es,It,Nl) (v1.03)": {
@@ -5006,10 +5015,13 @@
 	"Dark Chronicle (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Dark Chronicle (Japan)": {
+	"Dark Chronicle (Japan) (Taikenban)": {
 		"languages": ["Ja"]
 	},
-	"Dark Chronicle (Japan) (Taikenban)": {
+	"Dark Chronicle (Japan) (v1.10)": {
+		"languages": ["Ja"]
+	},
+	"Dark Chronicle (Japan) (v2.01)": {
 		"languages": ["Ja"]
 	},
 	"Dark Cloud (Europe) (En,Fr,De,Es,It)": {
@@ -7748,7 +7760,7 @@
 	"Exciting Pro Wres 7 - WWE SmackDown! vs. Raw 2006 (Japan)": {
 		"languages": ["Ja"]
 	},
-	"Exclusive PlayStation 2 Summer Sample Disc (Australia, New Zealand)": {
+	"Exclusive PlayStation 2 Summer Sample Disc (Australia)": {
 		"languages": []
 	},
 	"Extermination (Europe) (En,Fr,De,Es,It)": {
@@ -8487,6 +8499,9 @@
 		"languages": ["Ja"]
 	},
 	"Ferrari Challenge - Trofeo Pirelli (Europe) (En,Fr,De,Es,It)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Ferrari Challenge - Trofeo Pirelli (Europe) (En,Fr,De,Es,It) (v2.00)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Ferrari Challenge - Trofeo Pirelli (USA)": {
@@ -12488,10 +12503,10 @@
 	"Initial D - Special Stage (Japan) (Tokubetsu Taikenban)": {
 		"languages": ["Ja"]
 	},
-	"Initial D - Special Stage (Japan) (v1.01)": {
+	"Initial D - Special Stage (Japan) (v2.00)": {
 		"languages": ["Ja"]
 	},
-	"Initial D - Special Stage (Japan) (v2.00)": {
+	"Initial D - Special Stage (Japan, Asia) (v1.01)": {
 		"languages": ["Ja"]
 	},
 	"Initial D - Takahashi Ryousuke no Typing Saisoku Riron (Japan)": {
@@ -14741,7 +14756,13 @@
 	"LEGO Star Wars II - The Original Trilogy (USA)": {
 		"languages": ["En"]
 	},
-	"LEGO Super Soccer Adventure (Europe) (Proto)": {
+	"LEGO Super Soccer Adventure (Europe) (Proto 1)": {
+		"languages": []
+	},
+	"LEGO Super Soccer Adventure (Europe) (Proto 2)": {
+		"languages": []
+	},
+	"LEGO Super Soccer Adventure (Europe) (Proto 3)": {
 		"languages": ["En"]
 	},
 	"LMA Manager 2002 (Europe)": {
@@ -16460,6 +16481,9 @@
 	"Mega Memory (USA) (Unl) (Version 2.20)": {
 		"languages": ["En"]
 	},
+	"Mega Memory (USA) (Unl) (Version 2.22)": {
+		"languages": []
+	},
 	"Mega Memory (USA) (Unl) (Version 2.23)": {
 		"languages": []
 	},
@@ -16579,6 +16603,9 @@
 	},
 	"Men in Black II - Alien Escape (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Men in Black II - Alien Escape (Korea)": {
+		"languages": ["En"]
 	},
 	"Men in Black II - Alien Escape (USA)": {
 		"languages": ["En"]
@@ -19133,7 +19160,7 @@
 	"Nickelodeon SpongeBob SquarePants and Friends Unite! (Europe) (En,Fr,De,Es,It,Nl)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
 	},
-	"Nickelodeon SpongeBob SquarePants featuring Nicktoons - Globs of Doom (Australia, New Zealand)": {
+	"Nickelodeon SpongeBob SquarePants featuring Nicktoons - Globs of Doom (Australia)": {
 		"languages": ["En"]
 	},
 	"Nickelodeon SpongeBob SquarePants featuring Nicktoons - Globs of Doom (Europe) (De,Es,It)": {
@@ -19148,7 +19175,7 @@
 	"Nickelodeon SpongeBob and Friends - Attack of the Toybots (Europe) (En,Fr,De,Es,It,Nl)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
 	},
-	"Nickelodeon SpongeBob and Friends - Battle for Volcano Island (Australia, New Zealand)": {
+	"Nickelodeon SpongeBob and Friends - Battle for Volcano Island (Australia)": {
 		"languages": ["En"]
 	},
 	"Nickelodeon SpongeBob and Friends - Battle for Volcano Island (Europe) (En,Fr,De,It,Nl)": {
@@ -21329,6 +21356,9 @@
 	"Panel Quiz Attack 25 (Japan)": {
 		"languages": ["Ja"]
 	},
+	"Panic Palette (Japan)": {
+		"languages": ["Ja"]
+	},
 	"Panic Palette (Japan) (Genteiban)": {
 		"languages": ["Ja"]
 	},
@@ -21846,6 +21876,9 @@
 		"languages": ["Ja"]
 	},
 	"PoPoLoCrois - Hajimari no Bouken (Japan)": {
+		"languages": ["Ja"]
+	},
+	"PoPoLoCrois - Hajimari no Bouken (Japan) (Premium Box)": {
 		"languages": ["Ja"]
 	},
 	"PoPoLoCrois - Hajimari no Bouken (Japan, Asia) (Shokai Seisanban)": {
@@ -24941,7 +24974,7 @@
 	"Sengoku Basara 2 - Heroes (Japan)": {
 		"languages": ["Ja"]
 	},
-	"Sengoku Basara X (Japan)": {
+	"Sengoku Basara X (Japan, Korea)": {
 		"languages": ["Ja"]
 	},
 	"Sengoku Musou (Japan, Asia)": {
@@ -27890,7 +27923,7 @@
 	"Spyro - A Hero's Tail (USA)": {
 		"languages": ["En"]
 	},
-	"Spyro - Enter the Dragonfly (Europe) (En,Fr,De,Es,It,Nl)": {
+	"Spyro - Enter the Dragonfly (Europe, Australia) (En,Fr,De,Es,It,Nl)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
 	},
 	"Spyro - Enter the Dragonfly (USA)": {
@@ -28431,6 +28464,9 @@
 		"languages": ["De"]
 	},
 	"Suffering, The - Ties That Bind (USA)": {
+		"languages": []
+	},
+	"Suffering, The - Ties that Bind (Europe) (Demo)": {
 		"languages": []
 	},
 	"Sugar + Spice! Ano Ko no Suteki na Nani mo Kamo (Japan)": {
@@ -29174,6 +29210,9 @@
 	"Taiko no Tatsujin - Tobikkiri! Anime Special (Japan)": {
 		"languages": ["Ja"]
 	},
+	"Taiko no Tatsujin - Tobikkiri! Anime Special (Japan) (Tatacon Doukon Set)": {
+		"languages": ["Ja"]
+	},
 	"Taiko no Tatsujin - Wai Wai Happy! Rokudaime (Japan)": {
 		"languages": ["Ja"]
 	},
@@ -29374,6 +29413,12 @@
 	},
 	"Taxi Rider (Europe)": {
 		"languages": ["En"]
+	},
+	"Taz - Wanted (Europe) (Beta 1)": {
+		"languages": []
+	},
+	"Taz - Wanted (Europe) (Beta 2)": {
+		"languages": []
 	},
 	"Taz - Wanted (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -30857,11 +30902,11 @@
 	"Tsuyokiss 2-gakki - Swift Love (Japan)": {
 		"languages": ["Ja"]
 	},
+	"Tube Mania (Europe) (Fr,Nl)": {
+		"languages": ["Fr", "Nl"]
+	},
 	"Tube Mania (France)": {
 		"languages": ["Fr"]
-	},
-	"Tube Mania (Netherlands) (Fr,Nl)": {
-		"languages": ["Fr", "Nl"]
 	},
 	"Turbo Trucks (Europe)": {
 		"languages": ["En"]
@@ -32150,6 +32195,9 @@
 	"WinBack 2 - Project Poseidon (Japan)": {
 		"languages": ["Ja"]
 	},
+	"WinBack 2 - Project Poseidon (Korea)": {
+		"languages": ["En"]
+	},
 	"WinBack 2 - Project Poseidon (USA)": {
 		"languages": ["En"]
 	},
@@ -32913,6 +32961,9 @@
 		"languages": ["Ja"]
 	},
 	"Yamiyo ni Sasayaku - Tantei Sagara Kyouichirou (Japan)": {
+		"languages": ["Ja"]
+	},
+	"Yamiyo ni Sasayaku - Tantei Sagara Kyouichirou (Japan) (Genteiban)": {
 		"languages": ["Ja"]
 	},
 	"Yanya Caballista - City Skater (USA)": {
