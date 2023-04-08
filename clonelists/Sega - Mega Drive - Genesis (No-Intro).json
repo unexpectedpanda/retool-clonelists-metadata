@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Sega - Mega Drive - Genesis (No-Intro)",
-		"lastUpdated": "26 March 2023",
+		"lastUpdated": "8 April 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -22,6 +22,15 @@
 	],
 
 	"variants": [
+		{
+			"group": "16t",
+			"titles": [
+				{"searchTerm": "16t"}
+			],
+			"compilations": [
+				{"searchTerm": "Game no Kanzume Otokuyou"}
+			]
+		},
 		{
 			"group": "Aerobiz",
 			"titles": [
@@ -59,10 +68,22 @@
 			]
 		},
 		{
+			"group": "Alien Storm",
+			"titles": [
+				{"searchTerm": "Alien Storm"}
+			],
+			"compilations": [
+				{"searchTerm": "Mega Games 3"}
+			]
+		},
+		{
 			"group": "Altered Beast",
 			"titles": [
 				{"searchTerm": "Altered Beast"},
 				{"searchTerm": "Juuouki"}
+			],
+			"compilations": [
+				{"searchTerm": "Arcade Legends Sega Mega Drive ~ Arcade Legends Sega Genesis ~ Mega Drive Play TV"}
 			]
 		},
 		{
@@ -115,6 +136,15 @@
 				{"searchTerm": "Awesome Possum"},
 				{"searchTerm": "Awesome Possum... ...Kicks Dr. Machino's Butt"},
 				{"searchTerm": "Awesome Possum Kicks Dr Machino's Butt!", "priority": 2}
+			]
+		},
+		{
+			"group": "Aworg",
+			"titles": [
+				{"searchTerm": "Aworg"}
+			],
+			"compilations": [
+				{"searchTerm": "Game no Kanzume Otokuyou"}
 			]
 		},
 		{
@@ -218,10 +248,22 @@
 			]
 		},
 		{
+			"group": "California Games",
+			"titles": [
+				{"searchTerm": "California Games"}
+			],
+			"compilations": [
+				{"searchTerm": "10 Super Jogos"}
+			]
+		},
+		{
 			"group": "Castle of Illusion Starring Mickey Mouse",
 			"titles": [
 				{"searchTerm": "Castle of Illusion Starring Mickey Mouse"},
 				{"searchTerm": "I Love Mickey Mouse - Fushigi no Oshiro Daibouken"}
+			],
+			"compilations": [
+				{"searchTerm": "Disney Collection, The - QuackShot Starring Donald Duck + Castle of Illusion Starring Mickey Mouse"}
 			]
 		},
 		{
@@ -258,6 +300,20 @@
 			"titles": [
 				{"searchTerm": "Chuck Rock II"},
 				{"searchTerm": "Chuck Rock II - Son of Chuck"}
+			]
+		},
+		{
+			"group": "Columns",
+			"titles": [
+				{"searchTerm": "Columns"}
+			],
+			"compilations": [
+				{"searchTerm": "6-Pak"},
+				{"searchTerm": "10 Super Jogos"},
+				{"searchTerm": "Mega 6 Vol. 3"},
+				{"searchTerm": "Mega Games 6"},
+				{"searchTerm": "Mega Games 6 Vol. 2"},
+				{"searchTerm": "Mega Games I"}
 			]
 		},
 		{
@@ -333,6 +389,9 @@
 			"titles": [
 				{"searchTerm": "Daimakaimura"},
 				{"searchTerm": "Daimakaimura ~ Ghouls'n Ghosts"}
+			],
+			"compilations": [
+				{"searchTerm": "Arcade Legends Street Fighter II' - Special Champion Edition ~ Mega Drive Play TV 3"}
 			]
 		},
 		{
@@ -407,6 +466,7 @@
 				{"searchTerm": "Dr. Robotnik's Mean Bean Machine"}
 			],
 			"compilations": [
+				{"searchTerm": "Arcade Legends Sega Mega Drive ~ Arcade Legends Sega Genesis ~ Mega Drive Play TV"},
 				{"searchTerm": "Sonic Compilation", "priority": 2},
 				{"searchTerm": "Sonic Compilation ~ Sonic Classics", "priority": 2}
 			]
@@ -496,6 +556,9 @@
 			"titles": [
 				{"searchTerm": "Fatal Labyrinth"},
 				{"searchTerm": "Shi no Meikyuu - Labyrinth of Death"}
+			],
+			"compilations": [
+				{"searchTerm": "Game no Kanzume Otokuyou"}
 			]
 		},
 		{
@@ -524,6 +587,18 @@
 			"titles": [
 				{"searchTerm": "Flashback"},
 				{"searchTerm": "Flashback - The Quest for Identity"}
+			]
+		},
+		{
+			"group": "Flicky",
+			"titles": [
+				{"searchTerm": "Flicky"}
+			],
+			"compilations": [
+				{"searchTerm": "10 Super Jogos"},
+				{"searchTerm": "Arcade Legends Sega Mega Drive ~ Arcade Legends Sega Genesis ~ Mega Drive Play TV"},
+				{"searchTerm": "Game no Kanzume Otokuyou"},
+				{"searchTerm": "Sega Top Five"}
 			]
 		},
 		{
@@ -576,6 +651,18 @@
 			]
 		},
 		{
+			"group": "Golden Axe",
+			"titles": [
+				{"searchTerm": "Golden Axe"}
+			],
+			"compilations": [
+				{"searchTerm": "6-Pak"},
+				{"searchTerm": "10 Super Jogos"},
+				{"searchTerm": "Arcade Legends Sega Mega Drive ~ Arcade Legends Sega Genesis ~ Mega Drive Play TV"},
+				{"searchTerm": "Mega Games 2"}
+			]
+		},
+		{
 			"group": "Great Circus Mystery Starring Mickey & Minnie, The",
 			"titles": [
 				{"searchTerm": "Great Circus Mystery - Mickey to Minnie Magical Adventure 2"},
@@ -612,6 +699,15 @@
 			]
 		},
 		{
+			"group": "Hyper Marbles",
+			"titles": [
+				{"searchTerm": "Hyper Marbles"}
+			],
+			"compilations": [
+				{"searchTerm": "Game no Kanzume Otokuyou"}
+			]
+		},
+		{
 			"group": "Immortal, The",
 			"titles": [
 				{"searchTerm": "Immortal, The"},
@@ -623,6 +719,15 @@
 			"titles": [
 				{"searchTerm": "Instruments of Chaos Starring Young Indiana Jones"},
 				{"searchTerm": "Young Indiana Jones Chronicles, The", "priority": 2}
+			]
+		},
+		{
+			"group": "Ikasuze! Koi no Doki Doki Penguin Land MD",
+			"titles": [
+				{"searchTerm": "Ikasuze! Koi no Doki Doki Penguin Land MD"}
+			],
+			"compilations": [
+				{"searchTerm": "Game no Kanzume Otokuyou"}
 			]
 		},
 		{
@@ -707,7 +812,8 @@
 			"group": "Kid Chameleon",
 			"titles": [
 				{"searchTerm": "Chameleon Kid"},
-				{"searchTerm": "Kid Chameleon"}
+				{"searchTerm": "Kid Chameleon"},
+				{"searchTerm": "Arcade Legends Sega Mega Drive ~ Arcade Legends Sega Genesis ~ Mega Drive Play TV"}
 			]
 		},
 		{
@@ -796,6 +902,15 @@
 				{"searchTerm": "Mazin Saga"},
 				{"searchTerm": "Mazin Saga - Mutant Fighter"},
 				{"searchTerm": "Mazin Wars"}
+			]
+		},
+		{
+			"group": "Medal City",
+			"titles": [
+				{"searchTerm": "Medal City"}
+			],
+			"compilations": [
+				{"searchTerm": "Game no Kanzume Otokuyou"}
 			]
 		},
 		{
@@ -930,10 +1045,22 @@
 			]
 		},
 		{
+			"group": "Paddle Fighter",
+			"titles": [
+				{"searchTerm": "Paddle Fighter"}
+			],
+			"compilations": [
+				{"searchTerm": "Game no Kanzume Otokuyou"}
+			]
+		},
+		{
 			"group": "Pat Riley Basketball",
 			"titles": [
 				{"searchTerm": "Pat Riley Basketball"},
 				{"searchTerm": "Super Real Basketball"}
+			],
+			"compilations": [
+				{"searchTerm": "Sport Games"}
 			]
 		},
 		{
@@ -1003,6 +1130,33 @@
 			]
 		},
 		{
+			"group": "Putter Golf",
+			"titles": [
+				{"searchTerm": "Putter Golf"}
+			],
+			"compilations": [
+				{"searchTerm": "Game no Kanzume Otokuyou"}
+			]
+		},
+		{
+			"group": "Pyramid Magic",
+			"titles": [
+				{"searchTerm": "Pyramid Magic"}
+			],
+			"compilations": [
+				{"searchTerm": "Game no Kanzume Otokuyou"}
+			]
+		},
+		{
+			"group": "QuackShot Starring Donald Duck",
+			"titles": [
+				{"searchTerm": "QuackShot Starring Donald Duck"}
+			],
+			"compilations": [
+				{"searchTerm": "Disney Collection, The - QuackShot Starring Donald Duck + Castle of Illusion Starring Mickey Mouse"}
+			]
+		},
+		{
 			"group": "Quad Challenge",
 			"titles": [
 				{"searchTerm": "MegaTrax"},
@@ -1028,6 +1182,12 @@
 			"titles": [
 				{"searchTerm": "Revenge of Shinobi, The"},
 				{"searchTerm": "Super Shinobi, The"}
+			],
+			"compilations": [
+				{"searchTerm": "6-Pak"},
+				{"searchTerm": "10 Super Jogos"},
+				{"searchTerm": "Mega 6 Vol. 3"},
+				{"searchTerm": "Mega Games 2"}
 			]
 		},
 		{
@@ -1052,6 +1212,15 @@
 				{"searchTerm": "Road Rash II"},
 				{"searchTerm": "Road Rash II (RR206)"},
 				{"searchTerm": "Road Rash II (RR205)", "priority": 2}
+			]
+		},
+		{
+			"group": "Robot Battler",
+			"titles": [
+				{"searchTerm": "Robot Battler"}
+			],
+			"compilations": [
+				{"searchTerm": "Game no Kanzume Otokuyou"}
 			]
 		},
 		{
@@ -1108,6 +1277,15 @@
 			"titles": [
 				{"searchTerm": "Shadow Blasters"},
 				{"searchTerm": "Shiten Myouou"}
+			]
+		},
+		{
+			"group": "Shadow Dancer - The Secret of Shinobi",
+			"titles": [
+				{"searchTerm": "Shadow Dancer - The Secret of Shinobi"}
+			],
+			"compilations": [
+				{"searchTerm": "Sega Top Five"}
 			]
 		},
 		{
@@ -1222,6 +1400,10 @@
 				{"searchTerm": "^Sonic The Hedgehog \\(Japan.*", "nameType": "regex"}
 			],
 			"compilations": [
+				{"searchTerm": "6-Pak", "priority": 2},
+				{"searchTerm": "10 Super Jogos", "priority": 2},
+				{"searchTerm": "Arcade Legends Sega Mega Drive ~ Arcade Legends Sega Genesis ~ Mega Drive Play TV", "priority": 2},
+				{"searchTerm": "Mega 6 Vol. 3", "priority": 2},
 				{"searchTerm": "Sonic Compilation", "priority": 2},
 				{"searchTerm": "Sonic Compilation ~ Sonic Classics", "priority": 2}
 			]
@@ -1323,6 +1505,21 @@
 				{"searchTerm": "Street Fighter II' Plus - Champion Edition"},
 				{"searchTerm": "ST II' Turbo", "priority": 2},
 				{"searchTerm": "Street Fighter II' - Champion Edition", "priority": 3}
+			],
+			"compilations": [
+				{"searchTerm": "Arcade Legends Street Fighter II' - Special Champion Edition ~ Mega Drive Play TV 3"}
+			]
+		},
+		{
+			"group": "Streets of Rage",
+			"titles": [
+				{"searchTerm": "Streets of Rage"}
+			],
+			"compilations": [
+				{"searchTerm": "6-Pak"},
+				{"searchTerm": "10 Super Jogos"},
+				{"searchTerm": "Mega 6 Vol. 3"},
+				{"searchTerm": "Mega Games 2"}
 			]
 		},
 		{
@@ -1361,10 +1558,36 @@
 			]
 		},
 		{
+			"group": "Super Hang-On",
+			"titles": [
+				{"searchTerm": "Super Hang-On"}
+			],
+			"compilations": [
+				{"searchTerm": "6-Pak"},
+				{"searchTerm": "10 Super Jogos"},
+				{"searchTerm": "Mega Games 6"},
+				{"searchTerm": "Mega Games 6 Vol. 2"},
+				{"searchTerm": "Mega Games I"}
+			]
+		},
+		{
 			"group": "Super Mario 2",
 			"titles": [
 				{"searchTerm": "Super Mario 2"},
 				{"searchTerm": "Sonic Jam 6", "priority": 2}
+			]
+		},
+		{
+			"group": "Super Monaco GP",
+			"titles": [
+				{"searchTerm": "Super Monaco GP"}
+			],
+			"compilations": [
+				{"searchTerm": "10 Super Jogos"},
+				{"searchTerm": "Mega 6 Vol. 3"},
+				{"searchTerm": "Mega Games 3"},
+				{"searchTerm": "Sega Sports 1"},
+				{"searchTerm": "Sega Top Five"}
 			]
 		},
 		{
@@ -1375,10 +1598,23 @@
 			]
 		},
 		{
+			"group": "Super Thunder Blade",
+			"titles": [
+				{"searchTerm": "Super Thunder Blade"}
+			],
+			"compilations": [
+				{"searchTerm": "Mega Games 3"},
+				{"searchTerm": "Sega Top Five"}
+			]
+		},
+		{
 			"group": "Super Volleyball",
 			"titles": [
 				{"searchTerm": "Super Volley Ball"},
 				{"searchTerm": "Super Volleyball"}
+			],
+			"compilations": [
+				{"searchTerm": "Sport Games"}
 			]
 		},
 		{
@@ -1428,6 +1664,15 @@
 			"titles": [
 				{"searchTerm": "Tecmo World Cup"},
 				{"searchTerm": "Tecmo World Cup '92"}
+			]
+		},
+		{
+			"group": "Teddy Boy Blues",
+			"titles": [
+				{"searchTerm": "Teddy Boy Blues"}
+			],
+			"compilations": [
+				{"searchTerm": "Game no Kanzume Otokuyou"}
 			]
 		},
 		{
@@ -1566,6 +1811,15 @@
 			]
 		},
 		{
+			"group": "Ultimate Soccer",
+			"titles": [
+				{"searchTerm": "Ultimate Soccer"}
+			],
+			"compilations": [
+				{"searchTerm": "Sega Sports 1"}
+			]
+		},
+		{
 			"group": "Uncharted Waters",
 			"titles": [
 				{"searchTerm": "Daikoukai Jidai"},
@@ -1640,6 +1894,9 @@
 			"titles": [
 				{"searchTerm": "Wimbledon"},
 				{"searchTerm": "Wimbledon Championship Tennis"}
+			],
+			"compilations": [
+				{"searchTerm": "Sega Sports 1"}
 			]
 		},
 		{
@@ -1679,11 +1936,28 @@
 			]
 		},
 		{
+			"group": "World Championship Soccer II",
+			"titles": [
+				{"searchTerm": "World Championship Soccer II"}
+			],
+			"compilations": [
+				{"searchTerm": "Sport Games"}
+			]
+		},
+		{
 			"group": "World Cup Soccer ~ World Championship Soccer",
 			"titles": [
 				{"searchTerm": "World Cup Italia '90"},
 				{"searchTerm": "World Cup Soccer"},
 				{"searchTerm": "World Cup Soccer ~ World Championship Soccer"}
+			],
+			"compilations": [
+				{"searchTerm": "10 Super Jogos"},
+				{"searchTerm": "Mega 6 Vol. 3"},
+				{"searchTerm": "Mega Games 6"},
+				{"searchTerm": "Mega Games 6 Vol. 2"},
+				{"searchTerm": "Mega Games I"},
+				{"searchTerm": "Sega Top Five"}
 			]
 		},
 		{
