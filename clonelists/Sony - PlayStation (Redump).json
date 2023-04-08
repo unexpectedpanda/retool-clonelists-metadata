@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Sony - PlayStation (Redump)",
-		"lastUpdated": "17 March 2023",
+		"lastUpdated": "8 April 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -920,9 +920,9 @@
 		{
 			"group": "Brigandine - The Legend of Forsena",
 			"titles": [
-				{"searchTerm": "Brigandine - Gensou Tairiku Senki", "priority": 2},
-				{"searchTerm": "Brigandine - Grand Edition"},
-				{"searchTerm": "Brigandine - The Legend of Forsena"}
+				{"searchTerm": "Brigandine - Gensou Tairiku Senki"},
+				{"searchTerm": "Brigandine - The Legend of Forsena"},
+				{"searchTerm": "Brigandine - Gensou Tairiku Senki", "priority": 2}
 			]
 		},
 		{
