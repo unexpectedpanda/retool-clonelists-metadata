@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Nintendo - Nintendo DS (No-Intro)",
-		"lastUpdated": "2 April 2023",
+		"lastUpdated": "8 April 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -114,7 +114,8 @@
 		{
 			"group": "4 Elements",
 			"titles": [
-				{"searchTerm": "4 Elements"}
+				{"searchTerm": "4 Elements"},
+				{"searchTerm": "Gem Quest - 4 Elements"}
 			],
 			"compilations": [
 				{"searchTerm": "Jewel Match & 4 Elements", "titlePosition": 2}
@@ -439,15 +440,6 @@
 			"titles": [
 				{"searchTerm": "Bermuda Triangle"},
 				{"searchTerm": "Bermuda Triangle - Saving the Coral"}
-			]
-		},
-		{
-			"group": "Best Friends - My Horse",
-			"titles": [
-				{"searchTerm": "Best Friends - Mijn Paard"}
-			],
-			"compilations": [
-				{"searchTerm": "2 in 1 - My Pet School + Best Friends - My Horse", "titlePosition": 2}
 			]
 		},
 		{
@@ -2096,13 +2088,6 @@
 			]
 		},
 		{
-			"group": "Gem Quest - 4 Elements",
-			"titles": [
-				{"searchTerm": "4 Elements"},
-				{"searchTerm": "Gem Quest - 4 Elements"}
-			]
-		},
-		{
 			"group": "George of the Jungle and the Search for the Secret",
 			"titles": [
 				{"searchTerm": "George of the Jungle"},
@@ -2906,7 +2891,8 @@
 				{"searchTerm": "Jewel Master - Cradle of Athena"}
 			],
 			"compilations": [
-				{"searchTerm": "3 Game Pack! - Cradle of Rome + Cradle of Athena + Cradle of Egypt", "titlePosition": 2}
+				{"searchTerm": "3 Game Pack! - Cradle of Rome + Cradle of Athena + Cradle of Egypt", "titlePosition": 2},
+				{"searchTerm": "Jewel Master Collection"}
 			]
 		},
 		{
@@ -2924,7 +2910,8 @@
 			],
 			"compilations": [
 				{"searchTerm": "3 Game Pack! - Cradle of Rome + Cradle of Athena + Cradle of Egypt", "titlePosition": 3},
-				{"searchTerm": "Double Pack - Cradle of Rome + Cradle of Egypt", "titlePosition": 2}
+				{"searchTerm": "Double Pack - Cradle of Rome + Cradle of Egypt", "titlePosition": 2},
+				{"searchTerm": "Jewel Master Collection"}
 			]
 		},
 		{
@@ -2934,6 +2921,16 @@
 			],
 			"compilations": [
 				{"searchTerm": "Jewel Match & 4 Elements", "titlePosition": 1}
+			]
+		},
+		{
+			"group": "Jewel Quest - Expeditions",
+			"titles": [
+				{"searchTerm": "Jewel Quest - Expeditions"}
+			],
+			"compilations": [
+				{"searchTerm": "Quest Trio, The"},
+				{"searchTerm": "Quest Trio, The - Jewels, Cards and Tiles"}
 			]
 		},
 		{
@@ -2949,6 +2946,10 @@
 			"titles": [
 				{"searchTerm": "Jewel Quest - Solitaire"},
 				{"searchTerm": "Jewel Quest - Solitaire - Solitaire with a Twist!"}
+			],
+			"compilations": [
+				{"searchTerm": "Quest Trio, The"},
+				{"searchTerm": "Quest Trio, The - Jewels, Cards and Tiles"}
 			]
 		},
 		{
@@ -3566,6 +3567,19 @@
 			"titles": [
 				{"searchTerm": "Eindeloos Mahjong"},
 				{"searchTerm": "Mahjong"}
+			],
+			"compilations": [
+				{"searchTerm": "2 in 1 - Mahjong + Mahjong Around the World", "titlePosition": 1}
+			]
+		},
+		{
+			"group": "Mah Jong Quest - Expeditions",
+			"titles": [
+				{"searchTerm": "Mah Jong Quest - Expeditions"}
+			],
+			"compilations": [
+				{"searchTerm": "Quest Trio, The"},
+				{"searchTerm": "Quest Trio, The - Jewels, Cards and Tiles"}
 			]
 		},
 		{
@@ -3573,6 +3587,9 @@
 			"titles": [
 				{"searchTerm": "Eindeloos Mahjong 2 - Een Reis om de Wereld"},
 				{"searchTerm": "Mahjong - Eine Reise um die Welt"}
+			],
+			"compilations": [
+				{"searchTerm": "2 in 1 - Mahjong + Mahjong Around the World", "titlePosition": 2}
 			]
 		},
 		{
