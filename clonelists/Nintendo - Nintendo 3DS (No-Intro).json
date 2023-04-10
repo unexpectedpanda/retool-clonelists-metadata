@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Nintendo - Nintendo 3DS (No-Intro)",
-		"lastUpdated": "23 July 2022",
+		"lastUpdated": "10 April 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -120,6 +120,7 @@
 			"titles": [
 				{"searchTerm": "Brain Age - Concentration Training"},
 				{"searchTerm": "Dr. Kawashima's Devilish Brain Training - Can You Stay Focused"},
+				{"searchTerm": "Kawashima Ryuuta Baksa Gamsu - Chogangnyeok! 5-bunganui Jipjungnyeok Training"},
 				{"searchTerm": "Tohoku Daigaku Karei Igaku Kenkyuusho - Kawashima Ryuuta Kyouju Kanshuu - Monosugoku Nou wo Kitaeru 5-Funkan no Oni Training"}
 			]
 		},
@@ -206,7 +207,8 @@
 			"titles": [
 				{"searchTerm": "Cooking Mama 5"},
 				{"searchTerm": "Cooking Mama 5 - Bon Appetit!"},
-				{"searchTerm": "Cooking Mama - Bon Appetit!"}
+				{"searchTerm": "Cooking Mama - Bon Appetit!"},
+				{"searchTerm": "Cooking Mama - Mamareul Dowajullae"}
 			]
 		},
 		{
@@ -214,6 +216,13 @@
 			"titles": [
 				{"searchTerm": "Corpse Party"},
 				{"searchTerm": "Corpse Party - Blood Covered - Repeated Fear"}
+			]
+		},
+		{
+			"group": "Crayon Shin-chan - Uchuu de Achoo! - Yuujou no Oba-Karate!!",
+			"titles": [
+				{"searchTerm": "Crayon Shin-chan - Uchuu de Achoo! - Yuujou no Oba-Karate!!"},
+				{"searchTerm": "Jjangguneun Monmallyeo - Pantaseutik! Ujubyeol Daemoheom!!"}
 			]
 		},
 		{
@@ -295,15 +304,17 @@
 			]
 		},
 		{
-			"group": "DoraKazu - Nobita no Suuji Daibouken",
+			"group": "Doraemon - Nobita's Number Adventure",
 			"titles": [
 				{"searchTerm": "Doraemon - Nobita's Number Adventure"},
+				{"searchTerm": "Doraemon - Jinguui Suhak Daemoheom"},
 				{"searchTerm": "DoraKazu - Nobita no Suuji Daibouken"}
 			]
 		},
 		{
 			"group": "Dragon Ball Z - Extreme Butoden",
 			"titles": [
+				{"searchTerm": "Dragon Ball Z - Chogunggeuk Mutujeon"},
 				{"searchTerm": "Dragon Ball Z - Extreme Butoden"},
 				{"searchTerm": "Dragon Ball Z - Extreme Butouden"}
 			]
@@ -334,6 +345,13 @@
 			"titles": [
 				{"searchTerm": "DualPenSports"},
 				{"searchTerm": "Touch! Double Pen Sports"}
+			]
+		},
+		{
+			"group": "Elminage Ibun - Ame no Mihashira Kai",
+			"titles": [
+				{"searchTerm": "Elminage Ibun - Ame no Mihashira Kai"},
+				{"searchTerm": "Elminage Imullok - Hwanseyomajeon - Ame no Mihashira"}
 			]
 		},
 		{
@@ -368,7 +386,8 @@
 			"group": "Etrian Odyssey Untold - The Millennium Girl",
 			"titles": [
 				{"searchTerm": "Etrian Odyssey Untold - The Millennium Girl"},
-				{"searchTerm": "Shin Sekaiju no Meikyuu - Millennium no Shoujo"}
+				{"searchTerm": "Shin Sekaiju no Meikyuu - Millennium no Shoujo"},
+				{"searchTerm": "Sin Segyesuui Migung - Millenniumui Sonyeo"}
 			]
 		},
 		{
@@ -465,6 +484,7 @@
 			"group": "Fossil Fighters - Frontier",
 			"titles": [
 				{"searchTerm": "Fossil Fighters - Frontier"},
+				{"searchTerm": "Hwaseok Fighter"},
 				{"searchTerm": "Kaseki Horider - Mugen Gear"}
 			]
 		},
@@ -487,6 +507,7 @@
 			"titles": [
 				{"searchTerm": "Gardening Mama - Forest Friends"},
 				{"searchTerm": "Gardening Mama - Mama to Mori no Nakama-tachi"},
+				{"searchTerm": "Gardening Mama - Mamawa Sup Sok Chingudeul"},
 				{"searchTerm": "Gardening Mama 2 - Forest Friends"}
 			]
 		},
@@ -494,7 +515,15 @@
 			"group": "Girls' Fashion Shoot",
 			"titles": [
 				{"searchTerm": "Girls' Fashion Shoot"},
+				{"searchTerm": "Jeongungmin Model - Audition Superstar 2"},
 				{"searchTerm": "Nicola Kanshuu - Model Oshare Audition 2"}
+			]
+		},
+		{
+			"group": "Gon BakuBaku BakuBaku Adventure",
+			"titles": [
+				{"searchTerm": "Gon BakuBaku BakuBaku Adventure"},
+				{"searchTerm": "Gon WaguWagu Adventure"}
 			]
 		},
 		{
@@ -564,7 +593,8 @@
 			"group": "Hyrule Warriors Legends",
 			"titles": [
 				{"searchTerm": "Hyrule Warriors Legends"},
-				{"searchTerm": "Zelda Musou - Hyrule All-Stars"}
+				{"searchTerm": "Zelda Musou - Hyrule All-Stars"},
+				{"searchTerm": "Zelda Mussang - Hyruleui Jeonseoldeul"}
 			]
 		},
 		{
@@ -701,6 +731,7 @@
 		{
 			"group": "Layton's Mystery Journey - Katrielle and the Millionaires' Conspiracy",
 			"titles": [
+				{"searchTerm": "Layton's Mystery Journey - Ilgop Daebuhoui Eummo"},
 				{"searchTerm": "Layton's Mystery Journey - Katrielle and the Millionaires' Conspiracy"},
 				{"searchTerm": "Layton's Mystery Journey - Katrielle to Daifugou no Inbou"}
 			]
@@ -754,6 +785,13 @@
 			]
 		},
 		{
+			"group": "LEGO Legends of Chima - Laval's Journey",
+			"titles": [
+				{"searchTerm": "LEGO Legends of Chima - Laval's Journey"},
+				{"searchTerm": "LEGO Legends of Chima - Lavalui Yeohaeng"}
+			]
+		},
+		{
 			"group": "LEGO Marvel Avengers",
 			"titles": [
 				{"searchTerm": "LEGO Marvel Avengers"},
@@ -797,6 +835,7 @@
 				{"searchTerm": "LEGO Star Wars - El Despertar de la Fuerza"},
 				{"searchTerm": "LEGO Star Wars - Force no Kakusei"},
 				{"searchTerm": "LEGO Star Wars - Il Risveglio della Forza"},
+				{"searchTerm": "LEGO Star Wars - Kkaeeonan Force"},
 				{"searchTerm": "LEGO Star Wars - Le Reveil de la Force"},
 				{"searchTerm": "LEGO Star Wars - The Force Awakens"}
 			]
@@ -913,7 +952,8 @@
 			"group": "Mario & Sonic at the Rio 2016 Olympic Games",
 			"titles": [
 				{"searchTerm": "Mario & Sonic at Rio Olympics"},
-				{"searchTerm": "Mario & Sonic at the Rio 2016 Olympic Games"}
+				{"searchTerm": "Mario & Sonic at the Rio 2016 Olympic Games"},
+				{"searchTerm": "Mariowa Sonic - Rio Olympics"}
 			]
 		},
 		{
@@ -995,10 +1035,25 @@
 			]
 		},
 		{
+			"group": "Nintendogs + Cats - French Bulldog & New Friends",
+			"titles": [
+				{"searchTerm": "Nintendogs + Cats - French Bulldog & New Friends"},
+				{"searchTerm": "Nintendogs + Cats - French Bull & New Chingudeul"}
+			]
+		},
+		{
 			"group": "Nintendogs + Cats - Golden Retriever & New Friends",
 			"titles": [
 				{"searchTerm": "Nintendogs + Cats - Golden Retriever & New Friends"},
-				{"searchTerm": "Nintendogs + Cats - Shiba & New Friends"}
+				{"searchTerm": "Nintendogs + Cats - Shiba & New Friends"},
+				{"searchTerm": "Nintendogs + Cats - Shiba Inu & New Chingudeul"}
+			]
+		},
+		{
+			"group": "Nintendogs + Cats - Toy Poodle & New Friends",
+			"titles": [
+				{"searchTerm": "Nintendogs + Cats - Poodle & New Chingudeul"},
+				{"searchTerm": "Nintendogs + Cats - Toy Poodle & New Friends"}
 			]
 		},
 		{
@@ -1103,6 +1158,7 @@
 			"group": "Pokemon Rumble Blast",
 			"titles": [
 				{"searchTerm": "Pokemon Rumble Blast"},
+				{"searchTerm": "Super Pokemon Daegyeokdol"},
 				{"searchTerm": "Super Pokemon Rumble"},
 				{"searchTerm": "Super Pokemon Scramble"}
 			]
@@ -1150,7 +1206,8 @@
 			"group": "Poochy & Yoshi's Woolly World",
 			"titles": [
 				{"searchTerm": "Poochy & Yoshi's Woolly World"},
-				{"searchTerm": "Poochy to! Yoshi Wool World"}
+				{"searchTerm": "Poochy to! Yoshi Wool World"},
+				{"searchTerm": "Poochywa! Yoshi Woolly World"}
 			]
 		},
 		{
@@ -1227,7 +1284,8 @@
 			"group": "Puzzle & Dragons Z + Puzzle & Dragons Super Mario Bros. Edition",
 			"titles": [
 				{"searchTerm": "Puzzle & Dragons - Super Mario Bros. Edition"},
-				{"searchTerm": "Puzzle & Dragons Z + Puzzle & Dragons Super Mario Bros. Edition"}
+				{"searchTerm": "Puzzle & Dragons Z + Puzzle & Dragons Super Mario Bros. Edition"},
+				{"searchTerm": "Puzzle & Dragons Z - Puzzle & Dragons Super Mario Bros Edition"}
 			]
 		},
 		{
@@ -1270,6 +1328,7 @@
 			"group": "Rhythm Paradise Megamix",
 			"titles": [
 				{"searchTerm": "Rhythm Paradise Megamix"},
+				{"searchTerm": "Rhythm Sesang - The Best+"},
 				{"searchTerm": "Rhythm Tengoku - The Best+"}
 			]
 		},
@@ -1366,10 +1425,10 @@
 			]
 		},
 		{
-			"group": "Shin Megami Tensei - Devil Survivor 2 Record Breaker",
+			"group": "Shin Megami Tensei - Devil Survivor 2 - Record Breaker",
 			"titles": [
 				{"searchTerm": "Devil Survivor 2 - Break Record"},
-				{"searchTerm": "Shin Megami Tensei - Devil Survivor 2 Record Breaker"}
+				{"searchTerm": "Shin Megami Tensei - Devil Survivor 2 - Record Breaker"}
 			]
 		},
 		{
@@ -1384,6 +1443,13 @@
 			"titles": [
 				{"searchTerm": "Shin Megami Tensei - Deep Strange Journey"},
 				{"searchTerm": "Shin Megami Tensei - Strange Journey Redux"}
+			]
+		},
+		{
+			"group": "Shin Megami Tensei IV",
+			"titles": [
+				{"searchTerm": "Shin Megami Tensei IV"},
+				{"searchTerm": "Sin Yeosin Jeonsaeng IV"}
 			]
 		},
 		{
@@ -1453,6 +1519,7 @@
 			"group": "Story of Seasons",
 			"titles": [
 				{"searchTerm": "Bokujou Monogatari - Tsunagaru Shin Tenchi"},
+				{"searchTerm": "Mokjangiyagi - Story of Seasons"},
 				{"searchTerm": "Story of Seasons"}
 			]
 		},
@@ -1510,6 +1577,13 @@
 			]
 		},
 		{
+			"group": "Taiko no Tatsujin - Don to Katsu no Jikuu Daibouken",
+			"titles": [
+				{"searchTerm": "Taegoui Darin - Kungttak Kungttak Sigong Daemoheom"},
+				{"searchTerm": "Taiko no Tatsujin - Don to Katsu no Jikuu Daibouken"}
+			]
+		},
+		{
 			"group": "Tetris Axis",
 			"titles": [
 				{"searchTerm": "Tetris"},
@@ -1564,14 +1638,15 @@
 			"group": "Yo-Kai Watch 2 - Bony Spirits",
 			"titles": [
 				{"searchTerm": "Yo-Kai Watch 2 - Bony Spirits"},
-				{"searchTerm": "Youkai Watch 2 - Ganso"},
-				{"searchTerm": "Yo-Kai Watch Wonjo"}
+				{"searchTerm": "Yogoe Watch 2 - Wonjo"},
+				{"searchTerm": "Youkai Watch 2 - Ganso"}
 			]
 		},
 		{
 			"group": "Yo-Kai Watch 2 - Fleshy Souls",
 			"titles": [
 				{"searchTerm": "Yo-Kai Watch 2 - Fleshy Souls"},
+				{"searchTerm": "Yogoe Watch 2 - Bonga"},
 				{"searchTerm": "Youkai Watch 2 - Honke"}
 			]
 		},
@@ -1579,7 +1654,7 @@
 			"group": "Yo-Kai Watch 2 - Psychic Specters",
 			"titles": [
 				{"searchTerm": "Yo-Kai Watch 2 - Psychic Specters"},
-				{"searchTerm": "Yogoe Watch 2 - Bonga"},
+				{"searchTerm": "Yogoe Watch 2 - Kkeutpanwang"},
 				{"searchTerm": "Youkai Watch 2 - Shinuchi"}
 			]
 		},
@@ -1594,7 +1669,7 @@
 			"group": "Yo-Kai Watch Blasters - Red Cat Corps",
 			"titles": [
 				{"searchTerm": "Yo-Kai Watch Blasters - Red Cat Corps"},
-				{"searchTerm": "Yogoe Watch Busters - Jeogmyodan"},
+				{"searchTerm": "Yogoe Watch Busters - Jeongmyodan"},
 				{"searchTerm": "Youkai Watch Busters - Akanekodan"}
 			]
 		},
@@ -1602,7 +1677,15 @@
 			"group": "Yo-Kai Watch Blasters - White Dog Squad",
 			"titles": [
 				{"searchTerm": "Yo-Kai Watch Blasters - White Dog Squad"},
+				{"searchTerm": "Yogoe Watch Busters - Baekgyeondae"},
 				{"searchTerm": "Youkai Watch Busters - Shiroinutai"}
+			]
+		},
+		{
+			"group": "Yoshi's New Island",
+			"titles": [
+				{"searchTerm": "Yoshi New Island"},
+				{"searchTerm": "Yoshi's New Island"}
 			]
 		},
 		{

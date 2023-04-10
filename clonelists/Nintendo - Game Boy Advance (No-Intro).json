@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Nintendo - Game Boy Advance (No-Intro)",
-		"lastUpdated": "12 January 2023",
+		"lastUpdated": "10 April 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -175,7 +175,8 @@
 			"group": "Anguna - Warriors of Virtue",
 			"titles": [
 				{"searchTerm": "Anguna - Warriors of Virtue"},
-				{"searchTerm": "Anguna - Warriors of Virtue (Patreon)"}
+				{"searchTerm": "Anguna - Warriors of Virtue (Patreon)"},
+				{"searchTerm": "Anguna - Warriors of Virtue (Retro-Bit Generations)", "priority": 2}
 			]
 		},
 		{
