@@ -701,7 +701,6 @@
 				{"searchTerm": "Cooking Mama World - Outdoor Adventures"}
 			],
 			"compilations": [
-				{"searchTerm": "Cooking Mama World - Combo Pack - Volume 1"},
 				{"searchTerm": "Mama's Combo Pack - Volume 1"}
 			]
 		},
@@ -988,7 +987,6 @@
 				{"searchTerm": "Cooking Mama"}
 			],
 			"compilations": [
-				{"searchTerm": "Cooking Mama World - Combo Pack - Volume 1"},
 				{"searchTerm": "Mama's Combo Pack - Volume 1"}
 			]
 		},
@@ -997,6 +995,10 @@
 			"titles": [
 				{"searchTerm": "Cooking Mama 2"},
 				{"searchTerm": "Cooking Mama 2 - Dinner with Friends"}
+			],
+			"compilations": [
+				{"searchTerm": "Cooking Mama World - Combo Pack - Volume 1"},
+				{"searchTerm": "Mama's Combo Pack - Volume 2"}
 			]
 		},
 		{
@@ -1006,18 +1008,7 @@
 				{"searchTerm": "Cooking Mama 3 - Shop & Chop"}
 			],
 			"compilations": [
-				{"searchTerm": "Cooking Mama World - Combo Pack - Volume 2"},
-				{"searchTerm": "Mama's Combo Pack - Volume 2"}
-			]
-		},
-		{
-			"group": "Cooking Mama World - Hobbies & Fun",
-			"titles": [
-				{"searchTerm": "Cooking Mama World - Hobbies & Fun"}
-			],
-			"compilations": [
-				{"searchTerm": "Cooking Mama World - Combo Pack - Volume 2"},
-				{"searchTerm": "Mama's Combo Pack - Volume 2"}
+				{"searchTerm": "Cooking Mama World - Combo Pack - Volume 2"}
 			]
 		},
 		{
@@ -1060,6 +1051,10 @@
 				{"searchTerm": "Cooking Mama World - Hobbies & Fun"},
 				{"searchTerm": "Craft Mama"},
 				{"searchTerm": "Crafting Mama"}
+			],
+			"compilations": [
+				{"searchTerm": "Cooking Mama World - Combo Pack - Volume 2"},
+				{"searchTerm": "Mama's Combo Pack - Volume 2"}
 			]
 		},
 		{
@@ -2079,6 +2074,15 @@
 			"titles": [
 				{"searchTerm": "Game Hits"},
 				{"searchTerm": "Game Hits!"}
+			]
+		},
+		{
+			"group": "Gardening Mama",
+			"titles": [
+				{"searchTerm": "Gardening Mama"}
+			],
+			"compilations": [
+				{"searchTerm": "Cooking Mama World - Combo Pack - Volume 1"}
 			]
 		},
 		{
@@ -6240,6 +6244,24 @@
 			"group": "Successfully Learning English",
 			"titles": [
 				{"searchTerm": "Lernerfolg Grundschule - Englisch - Klasse 1-4"},
+				{"searchTerm": "Successfully Learning English"}
+			]
+		},
+		{
+			"group": "Successfully Learning English - Year 2+3",
+			"titles": [
+				{"searchTerm": "Successfully Learning English - Year 2+3"}
+			],
+			"compilations": [
+				{"searchTerm": "Successfully Learning English"}
+			]
+		},
+		{
+			"group": "Successfully Learning English - Year 4+5",
+			"titles": [
+				{"searchTerm": "Successfully Learning English - Year 4+5"}
+			],
+			"compilations": [
 				{"searchTerm": "Successfully Learning English"}
 			]
 		},
