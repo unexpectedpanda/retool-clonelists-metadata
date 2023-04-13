@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Nintendo - Nintendo DS (No-Intro)",
-		"lastUpdated": "13 April 2023",
+		"lastUpdated": "14 April 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -6241,19 +6241,13 @@
 			]
 		},
 		{
-			"group": "Successfully Learning English",
-			"titles": [
-				{"searchTerm": "Lernerfolg Grundschule - Englisch - Klasse 1-4"},
-				{"searchTerm": "Successfully Learning English"}
-			]
-		},
-		{
 			"group": "Successfully Learning English - Year 2+3",
 			"titles": [
 				{"searchTerm": "Successfully Learning English - Year 2+3"}
 			],
 			"compilations": [
-				{"searchTerm": "Successfully Learning English"}
+				{"searchTerm": "Successfully Learning English"},
+				{"searchTerm": "Lernerfolg Grundschule - Englisch - Klasse 1-4"}
 			]
 		},
 		{
@@ -6262,7 +6256,8 @@
 				{"searchTerm": "Successfully Learning English - Year 4+5"}
 			],
 			"compilations": [
-				{"searchTerm": "Successfully Learning English"}
+				{"searchTerm": "Successfully Learning English"},
+				{"searchTerm": "Lernerfolg Grundschule - Englisch - Klasse 1-4"}
 			]
 		},
 		{
