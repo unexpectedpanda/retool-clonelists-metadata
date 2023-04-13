@@ -7,7 +7,7 @@
 			"These are defaults that Retool requires, don't modify this file.",
 			"Check user-config.yaml for user-editable settings."
 		],
-		"lastUpdated": "17 March 2023"
+		"lastUpdated": "10 April 2023"
 	},
 
 	"ignoreTags": [
@@ -60,14 +60,14 @@
 		"\\s?\\(Made in.*?\\)",
 		"\\s?\\((?:\\d{8}|\\d{4}-\\d{2}-\\d{2}|\\d{2}-\\d{2}-\\d{4}|\\d{2}-\\d{2}-\\d{2}|\\d{4}-\\d{2}-\\d{2}T\\d{6}|\\d{4}-(?:\\d{2}|xx)-xx|(?:January|February|March|April|May|June|July|August|September|October|November|December), \\d{4})\\)",
 		"\\s?\\((?:[0-9]{1,2}[A-Z](?:[ ,].[0-9]{1,2}[A-Z])*|R[E]{,1}[-]{,1}[0-9]{0,})\\)",
-		"\\s?\\(PAL [56]0Hz\\)",
-		"\\s?( -)?[( ]MPAL[ \\)]",
-        "\\s?( -)?[( ]NTSC[ \\)]",
+		"\\s?\\(PAL [56]0[Hh]z\\)",
+		"\\s?(?:-)?[( ]MPAL\\)?",
+        "\\s?(?:-)?[( ]NTSC\\)?",
         "\\s?\\[(.*)?NTSC(.*)?\\]",
         "\\s?[( ]NTSC-PAL(\\))?",
-        "\\s?( -)?[( ]PAL(?: [a-zA-Z]+| 50Hz)?(?:\\)| (?=\\())",
+        "\\s?(?:-)?[( ]PAL(?: [a-zA-Z]+| 50[Hh]z)?(?:\\)?| (?=\\())",
         "\\s?\\[(.*)?PAL(?!P)(.*)?\\]",
-        "\\s?( -)?[( ]SECAM[ \\)]",
+        "\\s?(?:-)?[( ]SECAM\\)?",
         "\\s?\\[(.*)?SECAM(.*)?\\]"
 	],
 
@@ -217,6 +217,7 @@
 		"\\s?\\(Steam Version\\)",
 		"\\s?\\(Switch\\)",
 		"\\s?\\(Switch, PS Vita\\)",
+		"\\s?\\(Cowabunga Collection, The\\)",
 		"\\s?\\(The Cowabunga Collection\\)",
 		"\\s?\\(The Disney Afternoon Collection\\)",
 		"\\s?\\(e-Reader Edition\\)"
@@ -230,6 +231,7 @@
 		"\\s?\\(Rumble Version\\)",
 		"\\s?\\(Shindou Edition\\)",
 		"\\s?\\(GB Compatible\\)",
+		"\\s?\\(GBA Enhanced\\)",
 		"\\s?\\(Legit CIA\\)",
 		"\\s?\\(J-Cart\\)",
 		"\\s?\\(Cart Present\\)",

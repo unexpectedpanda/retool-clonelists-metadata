@@ -1,11 +1,20 @@
 {
 	"description": {
 		"name": "Atari - Jaguar (No-Intro)",
-		"lastUpdated": "9 January 2023",
+		"lastUpdated": "10 April 2023",
 		"minimumVersion": "2.00"
 	},
 
 	"variants": [
+		{
+			"group": "Atomic",
+			"titles": [
+				{"searchTerm": "Atomic"}
+			],
+			"supersets": [
+				{"searchTerm": "Atomic Reloaded"}
+			]
+		},
 		{
 			"group": "Battle Sphere Gold",
 			"titles": [

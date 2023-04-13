@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Nintendo - Nintendo 64 (No-Intro)",
-		"lastUpdated": "15 January 2023",
+		"lastUpdated": "12 April 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -19,6 +19,11 @@
 		{
 			"searchTerm": "GameShark Pro",
 			"nameType": "short",
+			"categories": ["Applications"]
+		},
+		{
+			"searchTerm": "Wide-Boy64 [AC]GB.*",
+			"nameType": "regex",
 			"categories": ["Applications"]
 		}
 	],
@@ -649,6 +654,13 @@
 				{"searchTerm": "King Hill 64 - Extreme Snowboarding"},
 				{"searchTerm": "Twisted Edge - Extreme Snowboarding"},
 				{"searchTerm": "Twisted Edge - Snowboarding"}
+			]
+		},
+		{
+			"group": "Wide-Boy64",
+			"titles": [
+				{"searchTerm": "Wide-Boy64 AGB"},
+				{"searchTerm": "Wide-Boy64 CGB", "priority": 2}
 			]
 		},
 		{

@@ -9,8 +9,8 @@
    PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN"
    SYSTEM "https://raw.githubusercontent.com/unexpectedpanda/retool/main/datafile.dtd"
 
-   $Revision: 2.2 $
-   $Date: 2023/03/11 08:39:00 $
+   $Revision: 2.3 $
+   $Date: 2023/04/10 11:08:00 $
 
 -->
 
@@ -44,6 +44,8 @@
 	<!ELEMENT game (category*, comment*, description, year?, manufacturer?, release*, biosset*, game_id*, rom*, disk*, sample*, archive*)>
 		<!ATTLIST game name CDATA #REQUIRED>
 		<!ATTLIST game sourcefile CDATA #IMPLIED>
+		<!ATTLIST game id CDATA #IMPLIED>
+		<!ATTLIST game cloneofid CDATA #IMPLIED>
 		<!ATTLIST game isbios (yes|no) "no">
 		<!ATTLIST game cloneof CDATA #IMPLIED>
 		<!ATTLIST game romof CDATA #IMPLIED>

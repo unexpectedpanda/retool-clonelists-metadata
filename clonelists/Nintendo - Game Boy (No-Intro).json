@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Nintendo - Game Boy (No-Intro)",
-		"lastUpdated": "7 April 2023",
+		"lastUpdated": "10 April 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -280,6 +280,13 @@
 			]
 		},
 		{
+			"group": "Bill & Ted's Excellent Game Boy Adventure - A Bogus Journey!",
+			"titles": [
+				{"searchTerm": "Bill & Ted's Excellent Game Boy Adventure - A Bogus Journey!"},
+				{"searchTerm": "Bill & Ted's Excellent Portable Adventure - A Bogus Journey!"}
+			]
+		},
+		{
 			"group": "Bionic Battler",
 			"titles": [
 				{"searchTerm": "Bionic Battler"},
@@ -306,6 +313,13 @@
 				{"searchTerm": "Blaster Master Boy"},
 				{"searchTerm": "Blaster Master Jr."},
 				{"searchTerm": "Bomber King - Scenario 2"}
+			]
+		},
+		{
+			"group": "Blues Brothers, The",
+			"titles": [
+				{"searchTerm": "Blues Brothers, The"},
+				{"searchTerm": "Blues Brothers"}
 			]
 		},
 		{
