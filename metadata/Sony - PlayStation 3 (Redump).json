@@ -566,6 +566,9 @@
 	"Assassin's Creed - Brotherhood + Assassin's Creed - Revelations (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da)": {
 		"languages": ["Da", "De", "En", "Es", "Fr", "It", "Nl", "No", "Pt", "Sv"]
 	},
+	"Assassin's Creed - Connor Saga (Japan)": {
+		"languages": []
+	},
 	"Assassin's Creed - Ezio Saga (Japan)": {
 		"languages": []
 	},
@@ -1511,8 +1514,8 @@
 	"Buzz! Quiz World (Europe) (Pl,Ru,El,Hr,Cs)": {
 		"languages": ["Cs", "El", "Hr", "Pl", "Ru"]
 	},
-	"Buzz! Quiz World (Scandinavia) (En,No,Da,Fi)": {
-		"languages": ["Da", "En", "Fi", "No"]
+	"Buzz! Quiz World (Scandinavia) (En,Sv,No,Da,Fi)": {
+		"languages": ["Da", "En", "Fi", "No", "Sv"]
 	},
 	"Buzz! Quiz World (USA)": {
 		"languages": ["En"]
@@ -1672,6 +1675,9 @@
 	},
 	"Call of Duty - Black Ops II (Japan) (Jimakuban)": {
 		"languages": ["Ja"]
+	},
+	"Call of Duty - Black Ops II (Latin America) (En,Es)": {
+		"languages": ["En", "Es"]
 	},
 	"Call of Duty - Black Ops II (USA) (En,Fr)": {
 		"languages": ["En", "Fr"]
@@ -3092,7 +3098,7 @@
 	"Dragon Age - Origins (UK)": {
 		"languages": ["En"]
 	},
-	"Dragon Age - Origins (USA) (En,Fr,De,Es,It)": {
+	"Dragon Age - Origins (USA, Asia) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Dragon Age - Origins - Awakening (Japan)": {
@@ -3820,6 +3826,9 @@
 	},
 	"F1 2013 (Europe) (En,Fr,De,Es,It,Pl,Ru)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Pl", "Ru"]
+	},
+	"F1 2013 (Japan)": {
+		"languages": []
 	},
 	"F1 2013 (USA) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
@@ -4841,7 +4850,7 @@
 	"Grand Theft Auto IV (USA) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Grand Theft Auto V (Europe) (En,Fr,De,Es,It,Pt,Pl,Ru)": {
+	"Grand Theft Auto V (Europe, Australia) (En,Fr,De,Es,It,Pt,Pl,Ru)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Pl", "Pt", "Ru"]
 	},
 	"Grand Theft Auto V (Japan) (En,Ja) (v01.01)": {
@@ -5246,7 +5255,7 @@
 	"Hitman - Absolution (Europe) (En,De,It)": {
 		"languages": ["De", "En", "It"]
 	},
-	"Hitman - Absolution (Europe) (En,Fr,Es)": {
+	"Hitman - Absolution (Europe, Australia) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
 	},
 	"Hitman - Absolution (Japan)": {
@@ -5495,8 +5504,8 @@
 	"Invizimals - The Lost Kingdom (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru)": {
 		"languages": ["Da", "De", "En", "Es", "Fi", "Fr", "It", "Nl", "No", "Pl", "Pt", "Ru", "Sv"]
 	},
-	"Invizimals - To Chameno Vasileio (Greece)": {
-		"languages": []
+	"Invizimals - The Lost Kingdom (Europe) (Es,It,Pt,El)": {
+		"languages": ["El", "Es", "It", "Pt"]
 	},
 	"Iron Man (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -5537,7 +5546,7 @@
 	"Jackbox Party Pack, The (USA)": {
 		"languages": []
 	},
-	"Jak and Daxter Collection (USA) (En,Fr,Es)": {
+	"Jak and Daxter Collection (USA, Asia) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
 	},
 	"Jak and Daxter Trilogy, The (Europe) (En,Fr,De,Es,It,Pt,Ru)": {
@@ -6443,7 +6452,7 @@
 	"MLB 09 - The Show (USA)": {
 		"languages": ["En"]
 	},
-	"MLB 10 - The Show (USA)": {
+	"MLB 10 - The Show (USA, Korea)": {
 		"languages": ["En"]
 	},
 	"MLB 11 - The Show (USA)": {
@@ -6556,6 +6565,9 @@
 	},
 	"Madden NFL 11 (Europe)": {
 		"languages": ["En"]
+	},
+	"Madden NFL 11 (Japan)": {
+		"languages": []
 	},
 	"Madden NFL 11 (USA, Asia)": {
 		"languages": ["En"]
@@ -6767,7 +6779,7 @@
 	"Mass Effect (USA, Asia) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
 	},
-	"Mass Effect 2 (Europe) (En,Fr,De,Es,It,Ru)": {
+	"Mass Effect 2 (Europe, Australia) (En,Fr,De,Es,It,Ru)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ru"]
 	},
 	"Mass Effect 2 (Japan) (En,Ja)": {
@@ -7103,7 +7115,10 @@
 	"Mobile Suit Gundam - Target in Sight (Europe) (En,Ja)": {
 		"languages": ["En", "Ja"]
 	},
-	"Mobile Suit Gundam - Target in Sight (Japan, Asia) (En,Ja)": {
+	"Mobile Suit Gundam - Target in Sight (Japan) (v02.00)": {
+		"languages": []
+	},
+	"Mobile Suit Gundam - Target in Sight (Japan, Asia) (En,Ja) (v01.04)": {
 		"languages": ["En", "Ja"]
 	},
 	"ModNation - Mugen no Kart Oukoku (Japan)": {
@@ -7319,7 +7334,7 @@
 	"Murdered - Soul Suspect (Europe) (En,Fr,De,Es,It,Pl,Ru)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Pl", "Ru"]
 	},
-	"Murdered - Soul Suspect (USA) (En,Fr,Es)": {
+	"Murdered - Soul Suspect (USA, Korea) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
 	},
 	"Murdered - Tamashii no Yobu Koe (Japan)": {
@@ -9470,6 +9485,9 @@
 	"Rogue Warrior (USA) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
 	},
+	"Root Double - Before Crime - After Days - Xtend Edition (Japan)": {
+		"languages": []
+	},
 	"Rorona no Atelier - Arland no Renkinjutsushi (Japan)": {
 		"languages": []
 	},
@@ -10481,6 +10499,9 @@
 	"Skylanders - Imaginators (USA) (En,Fr,Es,Pt)": {
 		"languages": ["En", "Es", "Fr", "Pt"]
 	},
+	"Skylanders - Spyro no Daibouken (Japan)": {
+		"languages": []
+	},
 	"Skylanders - Spyro's Adventure (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)": {
 		"languages": ["Da", "De", "En", "Es", "Fi", "Fr", "It", "Nl", "No", "Sv"]
 	},
@@ -10684,6 +10705,9 @@
 	},
 	"Sorcery (USA) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
+	},
+	"Soulcalibur IV (Asia) (En,Ja,Fr,De,Es,It)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Ja"]
 	},
 	"Soulcalibur IV (Europe) (En,Ja,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja"]
@@ -11144,7 +11168,7 @@
 	"Tales of Zestiria (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Tales of Zestiria (Japan)": {
+	"Tales of Zestiria (Japan, Korea)": {
 		"languages": ["Ja"]
 	},
 	"Tales of Zestiria (USA) (En,Fr,De,Es,It)": {
@@ -11423,7 +11447,7 @@
 	"Tom Clancy's EndWar (USA) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Tom Clancy's Ghost Recon - Advanced Warfighter 2 (Europe) (En,Fr,De,Es,It)": {
+	"Tom Clancy's Ghost Recon - Advanced Warfighter 2 (Europe, Australia) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Tom Clancy's Ghost Recon - Advanced Warfighter 2 (Japan)": {
@@ -12218,7 +12242,7 @@
 	"WWE 2K16 (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"WWE 2K16 (USA) (En,Fr,Es)": {
+	"WWE 2K16 (USA, Korea) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
 	},
 	"WWE 2K17 (Europe) (En,Fr,De,Es,It)": {
@@ -12262,6 +12286,9 @@
 	},
 	"WWE SmackDown vs. Raw 2009 (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"WWE SmackDown vs. Raw 2009 (Japan)": {
+		"languages": []
 	},
 	"WWE SmackDown vs. Raw 2009 (USA) (Demo)": {
 		"languages": []
@@ -12851,7 +12878,7 @@
 	"inFamous 2 (Asia) (En,Zh,Ko)": {
 		"languages": ["En", "Ko", "Zh"]
 	},
-	"inFamous 2 (Europe) (En,Fr,De,Es,It,Nl,Pt,Pl,Ru)": {
+	"inFamous 2 (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Pl,Ru)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl", "Pl", "Pt", "Ru"]
 	},
 	"inFamous 2 (Japan)": {

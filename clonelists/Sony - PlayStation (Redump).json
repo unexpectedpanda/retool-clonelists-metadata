@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Sony - PlayStation (Redump)",
-		"lastUpdated": "8 April 2023",
+		"lastUpdated": "30 April 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -83,7 +83,6 @@
 		"Frogger 2 - Swampy's Revenge (USA) (Beta 5)",
 		"Frogger 2 - Swampy's Revenge (USA) (Beta 6)",
 		"Karat PS PS2-you Pro Action Replay CDX2 (Japan) (Unl)",
-		"Kosodate Quiz My Angel (Japan) (Rev 1)",
 		"Ore no Shikabane o Koete Yuke (Japan) (Demo)",
 		"Oumagatoki (Japan) (Premium Fan Disc)",
 		"R4 - Ridge Racer Type 4 (Korea)",
@@ -3580,7 +3579,7 @@
 			"group": "Magical Drop",
 			"titles": [
 				{"searchTerm": "Magical Drop"},
-				{"searchTerm": "Arcade Hits - Magical Drop", "position": 2}
+				{"searchTerm": "Arcade Hits - Magical Drop", "priority": 2}
 			]
 		},
 		{

@@ -2972,6 +2972,9 @@
 	"Buzz! Brain of the UK (UK)": {
 		"languages": ["En"]
 	},
+	"Buzz! Brain of the World (Europe) (En,No,Da)": {
+		"languages": ["Da", "En", "No"]
+	},
 	"Buzz! Brain of the World (Scandinavia) (En,Sv,Fi)": {
 		"languages": ["En", "Fi", "Sv"]
 	},
@@ -3085,9 +3088,6 @@
 	},
 	"Buzz! Megavisa (Finland)": {
 		"languages": ["Fi"]
-	},
-	"Buzz! Norgesmester (Europe) (En,No,Da)": {
-		"languages": ["Da", "En", "No"]
 	},
 	"Buzz! O Grande Quiz (Portugal)": {
 		"languages": ["Pt"]
@@ -4103,7 +4103,7 @@
 	"Codename - Kids Next Door - Operation - V.I.D.E.O.G.A.M.E. (Europe) (En,De)": {
 		"languages": ["De", "En"]
 	},
-	"Codename - Kids Next Door - Operation - V.I.D.E.O.G.A.M.E. (Europe) (En,Fr,Es,It)": {
+	"Codename - Kids Next Door - Operation - V.I.D.E.O.G.A.M.E. (Europe, Australia) (En,Fr,Es,It)": {
 		"languages": ["En", "Es", "Fr", "It"]
 	},
 	"Codename - Kids Next Door - Operation - V.I.D.E.O.G.A.M.E. (USA)": {
@@ -14732,6 +14732,9 @@
 	"LEGO Racers 2 (USA)": {
 		"languages": []
 	},
+	"LEGO Star Wars - The Video Game (Europe) (Demo)": {
+		"languages": []
+	},
 	"LEGO Star Wars - The Video Game (Europe) (En,Fr,De,Es,It,Nl,Da)": {
 		"languages": ["Da", "De", "En", "Es", "Fr", "It", "Nl"]
 	},
@@ -14912,7 +14915,7 @@
 	"Legend of Camelot (Europe) (En,Fr,De)": {
 		"languages": ["De", "En", "Fr"]
 	},
-	"Legend of Hercules (Europe) (En,De)": {
+	"Legend of Herkules (Europe) (En,De)": {
 		"languages": ["De", "En"]
 	},
 	"Legend of Kay (Europe) (En,Fr,De,Es,It)": {
@@ -16091,7 +16094,7 @@
 	"Manhunt 2 (USA)": {
 		"languages": ["En"]
 	},
-	"Maniac Mole (Europe)": {
+	"Maniac Mole (Europe, Australia)": {
 		"languages": ["En"]
 	},
 	"Maple Colors - Kessen wa Gakuensai! (Japan)": {
@@ -16244,6 +16247,9 @@
 	"Matching Maker 2 - Zoku Boku no Machi-zukuri (Japan)": {
 		"languages": ["Ja"]
 	},
+	"Matrix, The - Path of Neo (Asia) (En,Ja,Zh)": {
+		"languages": ["En", "Ja", "Zh"]
+	},
 	"Matrix, The - Path of Neo (Europe)": {
 		"languages": ["En"]
 	},
@@ -16392,6 +16398,9 @@
 		"languages": ["Es"]
 	},
 	"Medal of Honor - European Assault (USA)": {
+		"languages": ["En"]
+	},
+	"Medal of Honor - Frontline (Asia)": {
 		"languages": ["En"]
 	},
 	"Medal of Honor - Frontline (Europe) (Demo)": {
@@ -16958,7 +16967,7 @@
 	"Midnight Club II (USA)": {
 		"languages": ["En"]
 	},
-	"Midway Arcade Treasures (Europe)": {
+	"Midway Arcade Treasures (Europe, Australia)": {
 		"languages": ["En"]
 	},
 	"Midway Arcade Treasures (Germany)": {
@@ -16967,7 +16976,7 @@
 	"Midway Arcade Treasures (USA)": {
 		"languages": ["En"]
 	},
-	"Midway Arcade Treasures 2 (Europe)": {
+	"Midway Arcade Treasures 2 (Europe, Australia)": {
 		"languages": ["En"]
 	},
 	"Midway Arcade Treasures 2 (USA)": {
@@ -23960,7 +23969,7 @@
 	"SCEE Catalogue Video 3+ (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"SCEE Hits Demo (Europe) (En,Fr,De,Es,It)": {
+	"SCEE Hits Demo (Europe, Australia) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"SD Gundam - GGeneration Neo (Japan)": {
@@ -24404,7 +24413,7 @@
 	"Samurai Warriors 2 (USA)": {
 		"languages": ["En"]
 	},
-	"Samurai Warriors 2 - Empires (Europe)": {
+	"Samurai Warriors 2 - Empires (Europe, Australia)": {
 		"languages": ["En"]
 	},
 	"Samurai Warriors 2 - Empires (USA)": {
@@ -28895,7 +28904,7 @@
 	"Surf's Up (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Surf's Up (Europe) (En,Fr,Es)": {
+	"Surf's Up (Europe, Australia) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
 	},
 	"Surf's Up (USA)": {

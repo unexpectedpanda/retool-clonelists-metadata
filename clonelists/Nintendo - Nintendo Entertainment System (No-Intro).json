@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Nintendo - Nintendo Entertainment System (No-Intro)",
-		"lastUpdated": "13 April 2023",
+		"lastUpdated": "30 April 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -287,6 +287,13 @@
 			"titles": [
 				{"searchTerm": "Amagon"},
 				{"searchTerm": "Totsuzen! Macchoman"}
+			]
+		},
+		{
+			"group": "Anguna - Scourge of the Goblin King",
+			"titles": [
+				{"searchTerm": "Anguna - Scourge of the Goblin King"},
+				{"searchTerm": "Anguna - Scourge of the Goblin King (Limited Edition)", "priority": 2}
 			]
 		},
 		{
@@ -598,10 +605,24 @@
 			]
 		},
 		{
+			"group": "Blazing Rangers",
+			"titles": [
+				{"searchTerm": "Blazing Rangers"},
+				{"searchTerm": "Honoo no Rangerman"}
+			]
+		},
+		{
 			"group": "Blockage",
 			"titles": [
 				{"searchTerm": "^Blockage \\((?:(?!NESDev .*).)*$", "nameType": "regex"},
 				{"searchTerm": "^Blockage \\(World\\) .* \\(NESDev .*\\)", "nameType": "regex", "priority": 2}
+			]
+		},
+		{
+			"group": "Blow'em Out (Second Dimension)",
+			"titles": [
+				{"searchTerm": "Blow'em Out (Second Dimension)"},
+				{"searchTerm": "Blow'em Out! (GreetingCarts)", "priority": 2}
 			]
 		},
 		{
@@ -1667,6 +1688,13 @@
 			]
 		},
 		{
+			"group": "Incident, The (Remastered)",
+			"titles": [
+				{"searchTerm": "Incident, The (Remastered)"},
+				{"searchTerm": "Incident, The", "priority": 2}
+			]
+		},
+		{
 			"group": "Indiana Jones and the Last Crusade (UBI Soft)",
 			"titles": [
 				{"searchTerm": "Indiana Jones and the Last Crusade"},
@@ -1738,6 +1766,13 @@
 			"group": "JP Ronny",
 			"compilations": [
 				{"searchTerm": "Asder - 20 in 1"}
+			]
+		},
+		{
+			"group": "Justice Duel",
+			"supersets": [
+				{"searchTerm": "Justice Duel"},
+				{"searchTerm": "Justice Duel (RetroGameCon 5 Edition)", "priority": 2}
 			]
 		},
 		{
@@ -1949,11 +1984,25 @@
 			]
 		},
 		{
+			"group": "Legend of Weed N' Stiff, The",
+			"titles": [
+				{"searchTerm": "Legend of Weed N' Stiff, The (Super Deluxe Version)"},
+				{"searchTerm": "Legend of Weed N' Stiff, The", "priority": 2}
+			]
+		},
+		{
 			"group": "Legend of Zelda, The",
 			"titles": [
 				{"searchTerm": "Legend of Zelda, The"},
 				{"searchTerm": "Zelda no Densetsu 1 - The Hyrule Fantasy"},
 				{"searchTerm": "Legend of Zelda, The (Collector's Edition)", "priority": 2}
+			]
+		},
+		{
+			"group": "Leggite Luta Livre",
+			"titles": [
+				{"searchTerm": "Leggite Luta Livre (Remastered)"},
+				{"searchTerm": "Leggite Luta Livre", "priority": 2}
 			]
 		},
 		{
@@ -2032,7 +2081,8 @@
 			"group": "Lizard",
 			"titles": [
 				{"searchTerm": "Lizard"},
-				{"searchTerm": "Lizard (2011)", "priority": 2}
+				{"searchTerm": "^Lizard.*?\\([0-9]{19}\\)", "nameType": "regex"},
+				{"searchTerm": "Lizard (2011)"}
 			]
 		},
 		{
@@ -2395,6 +2445,13 @@
 			]
 		},
 		{
+			"group": "Nebs 'n Debs",
+			"titles": [
+				{"searchTerm": "Nebs 'n Debs"},
+				{"searchTerm": "Nebs 'n Debs (Kaizo)", "priority": 2}
+			]
+		},
+		{
 			"group": "NES Open Tournament Golf",
 			"titles": [
 				{"searchTerm": "Mario Open Golf"},
@@ -2652,6 +2709,15 @@
 			"titles": [
 				{"searchTerm": "Pro Wres"},
 				{"searchTerm": "Pro Wrestling"}
+			]
+		},
+		{
+			"group": "Project Blue",
+			"titles": [
+				{"searchTerm": "Project Blue"}
+			],
+			"supersets": [
+				{"searchTerm": "Project Blue (Special Edition)"}
 			]
 		},
 		{
@@ -3262,6 +3328,13 @@
 			]
 		},
 		{
+			"group": "Swords and Runes (Limited Edition)",
+			"titles": [
+				{"searchTerm": "Swords and Runes (Limited Edition)"},
+				{"searchTerm": "Swords and Runes", "priority": 2}
+			]
+		},
+		{
 			"group": "Tag Team Wrestling",
 			"titles": [
 				{"searchTerm": "Tag Team Pro-Wrestling"},
@@ -3545,6 +3618,13 @@
 			]
 		},
 		{
+			"group": "Twin Dragons",
+			"titles": [
+				{"searchTerm": "Twin Dragons"},
+				{"searchTerm": "Twin Dragons (Broke Studio)", "priority": 2}
+			]
+		},
+		{
 			"group": "Ufouria - The Saga",
 			"titles": [
 				{"searchTerm": "Hebereke"},
@@ -3599,6 +3679,13 @@
 			"titles": [
 				{"searchTerm": "Akuma no Shoutaijou"},
 				{"searchTerm": "Uninvited"}
+			]
+		},
+		{
+			"group": "UXO - Unexploded Ordnance",
+			"titles": [
+				{"searchTerm": "UXO - Unexploded Ordnance"},
+				{"searchTerm": "UXO - Unexploded Ordnance (TMG Exclusive Edition)", "priority": 2}
 			]
 		},
 		{
