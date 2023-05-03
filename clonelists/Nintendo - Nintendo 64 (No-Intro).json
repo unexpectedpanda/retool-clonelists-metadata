@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Nintendo - Nintendo 64 (No-Intro)",
-		"lastUpdated": "12 April 2023",
+		"lastUpdated": "3 May 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -30,9 +30,19 @@
 
 	"overrides": [
 		{
-			"searchTerm": "Bomberman 64 (Japan)",
-			"nameType": "full",
+			"searchTerm": "Bomberman 64 \\(Japan\\).*",
+			"nameType": "regex",
 			"newGroup": "Bomberman 64 Japan"
+		},
+		{
+			"searchTerm": "Custom Robo V2",
+			"nameType": "regionFree",
+			"newGroup": "Custom Robo Veetoo"
+		},
+		{
+			"searchTerm": "Pokemon Stadium \\(Japan\\).*",
+			"nameType": "regex",
+			"newGroup": "Pokemon Stadium Japan"
 		}
 	],
 
@@ -502,6 +512,13 @@
 			"titles": [
 				{"searchTerm": "PGA European Tour"},
 				{"searchTerm": "PGA European Tour Golf"}
+			]
+		},
+		{
+			"group": "Pokemon Stadium 2",
+			"titles": [
+				{"searchTerm": "Pokemon Stadium 2"},
+				{"searchTerm": "Pokemon Stadium Kin Gin"}
 			]
 		},
 		{

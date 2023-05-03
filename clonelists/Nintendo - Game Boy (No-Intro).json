@@ -1,11 +1,16 @@
 {
 	"description": {
 		"name": "Nintendo - Game Boy (No-Intro)",
-		"lastUpdated": "10 April 2023",
+		"lastUpdated": "3 May 2023",
 		"minimumVersion": "2.00"
 	},
 
 	"categories": [
+		{
+			"searchTerm": "(?:\\w+ )?Action Replay(?: \\w+)?.*?$",
+			"nameType": "regex",
+			"categories": ["Applications"]
+		},
 		{
 			"searchTerm": "Game Boy Camera",
 			"nameType": "short",
@@ -22,7 +27,7 @@
 			"categories": ["Applications"]
 		},
 		{
-			"searchTerm":  "Game Boy Controller Kensa Cartridge",
+			"searchTerm": "Game Boy Controller Kensa Cartridge",
 			"nameType": "short",
 			"categories": ["Applications"]
 		},
@@ -53,6 +58,16 @@
 		},
 		{
 			"searchTerm": "InfoGenius Systems - Personal Organizer with Phone Book",
+			"nameType": "short",
+			"categories": ["Applications"]
+		},
+		{
+			"searchTerm": "Pocket Camera",
+			"nameType": "short",
+			"categories": ["Applications"]
+		},
+		{
+			"searchTerm": "Pocket Sonar",
 			"nameType": "short",
 			"categories": ["Applications"]
 		},
@@ -359,6 +374,16 @@
 			]
 		},
 		{
+			"group": "Bubble Bobble",
+			"titles": [
+				{"searchTerm": "Bubble Bobble"}
+			],
+			"compilations": [
+				{"searchTerm": "Taito Variety Pack"},
+				{"searchTerm": "Mani 4 in 1 - Bubble Bobble + Elevator Action + Chase H.Q. + Sagaia"}
+			]
+		},
+		{
 			"group": "Bubble Bobble Part 2",
 			"titles": [
 				{"searchTerm": "Bubble Bobble Part 2"},
@@ -455,6 +480,10 @@
 			"titles": [
 				{"searchTerm": "Chase H.Q."},
 				{"searchTerm": "Taito Chase H.Q."}
+			],
+			"compilations": [
+				{"searchTerm": "Taito Variety Pack"},
+				{"searchTerm": "Mani 4 in 1 - Bubble Bobble + Elevator Action + Chase H.Q. + Sagaia"}
 			]
 		},
 		{
@@ -562,6 +591,16 @@
 			"titles": [
 				{"searchTerm": "Dragon's Lair - The Legend"},
 				{"searchTerm": "Dragon's Lair"}
+			]
+		},
+		{
+			"group": "Elevator Action",
+			"titles": [
+				{"searchTerm": "Elevator Action"}
+			],
+			"compilations": [
+				{"searchTerm": "Taito Variety Pack"},
+				{"searchTerm": "Mani 4 in 1 - Bubble Bobble + Elevator Action + Chase H.Q. + Sagaia"}
 			]
 		},
 		{
@@ -1337,6 +1376,16 @@
 			"titles": [
 				{"searchTerm": "Rolan's Curse II"},
 				{"searchTerm": "Velious II - Fukushuu no Jashin"}
+			]
+		},
+		{
+			"group": "Sagaia",
+			"titles": [
+				{"searchTerm": "Sagaia"}
+			],
+			"compilations": [
+				{"searchTerm": "Taito Variety Pack"},
+				{"searchTerm": "Mani 4 in 1 - Bubble Bobble + Elevator Action + Chase H.Q. + Sagaia"}
 			]
 		},
 		{
