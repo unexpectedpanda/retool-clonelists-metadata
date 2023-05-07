@@ -1,16 +1,11 @@
 {
 	"description": {
 		"name": "Nintendo - Super Nintendo Entertainment System (No-Intro)",
-		"lastUpdated": "26 March 2023",
+		"lastUpdated": "7 May 2023",
 		"minimumVersion": "2.00"
 	},
 
 	"categories": [
-		{
-			"searchTerm": "Aging Cassette",
-			"nameType": "short",
-			"categories": ["Applications"]
-		},
 		{
 			"searchTerm": "Cassette Kensaki - NUS-you S Cassette",
 			"nameType": "short",
@@ -1827,12 +1822,12 @@
 			]
 		},
 		{
-			"group": "River City Girls Zero (RCG)",
+			"group": "River City Girls Zero",
 			"titles": [
-				{"searchTerm": "River City Girls Zero (RCG Translation)"},
+				{"searchTerm": "River City Girls Zero (RCG Translation, Switch)"},
 				{"searchTerm": "Shin Nekketsu Kouha - Kunio-tachi no Banka"},
 				{"searchTerm": "River City Girls Zero", "priority": 2},
-				{"searchTerm": "River City Girls Zero (Original Translation)", "priority": 2}
+				{"searchTerm": "River City Girls Zero (Original Translation, Switch)", "priority": 2}
 			]
 		},
 		{
