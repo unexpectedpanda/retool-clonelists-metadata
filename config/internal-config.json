@@ -7,7 +7,7 @@
 			"These are defaults that Retool requires, don't modify this file.",
 			"Check user-config.yaml for user-editable settings."
 		],
-		"lastUpdated": "7 May 2023"
+		"lastUpdated": "11 May 2023"
 	},
 
 	"ignoreTags": [
@@ -144,6 +144,7 @@
 		"\\s?\\(Launch Cart\\)",
 		"\\s?\\(Light Phaser\\)",
 		"\\s?\\(Limited Run Games\\)",
+		"\\s?\\(LodgeNet\\)",
 		"\\s?\\(NESDev 2[0-9]{0,3}\\)",
 		"\\s?\\(No Cart Present\\)",
 		"\\s?\\(Not for Resale\\)",
