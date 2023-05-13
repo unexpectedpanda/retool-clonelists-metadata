@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Apple - Macintosh (Redump)",
-		"lastUpdated": "30 April 2023",
+		"lastUpdated": "11 May 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -94,6 +94,7 @@
 		"Emit Vol. 1 - Toki no Maigo (Japan) (En,Ja)",
 		"Final Doom (France)",
 		"First Live (Japan)",
+		"Flying Nightmares (Japan)",
 		"Frankenstein - Through the Eyes of the Monster (USA)",
 		"Freedom Force (USA)",
 		"Ginga Eiyuu Densetsu - Screen Saver Vol. 2 for Macintosh (Japan)",
@@ -115,7 +116,6 @@
 		"Journeyman Project 2, The - Buried in Time (Japan) (Disc 2)",
 		"Journeyman Project 2, The - Buried in Time (Japan) (Disc 3)",
 		"Kana - Imouto (Japan)",
-		"Kid Pix Deluxe 4.1 for Schools (USA) (En,Es) (Program CD)",
 		"Klik & Play (France)",
 		"Last War (Japan)",
 		"Leisure Suit Larry 6 - Shape Up or Slip Out! (USA)",
@@ -307,6 +307,15 @@
 			],
 			"supersets": [
 				{"searchTerm": "Harry Potter and the Sorcerer's Stone (Deluxe Edition)"}
+			]
+		},
+		{
+			"group": "Heroes of Might and Magic III",
+			"titles": [
+				{"searchTerm": "Heroes of Might and Magic III"}
+			],
+			"supersets": [
+				{"searchTerm": "Heroes of Might and Magic III Complete (Disc 1) (Install Disc)"}
 			]
 		},
 		{
