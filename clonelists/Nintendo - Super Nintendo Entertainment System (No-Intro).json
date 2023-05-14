@@ -1,16 +1,11 @@
 {
 	"description": {
 		"name": "Nintendo - Super Nintendo Entertainment System (No-Intro)",
-		"lastUpdated": "5 March 2023",
+		"lastUpdated": "7 May 2023",
 		"minimumVersion": "2.00"
 	},
 
 	"categories": [
-		{
-			"searchTerm": "Aging Cassette",
-			"nameType": "short",
-			"categories": ["Applications"]
-		},
 		{
 			"searchTerm": "Cassette Kensaki - NUS-you S Cassette",
 			"nameType": "short",
@@ -1827,12 +1822,12 @@
 			]
 		},
 		{
-			"group": "River City Girls Zero (RCG)",
+			"group": "River City Girls Zero",
 			"titles": [
-				{"searchTerm": "River City Girls Zero (RCG Translation)"},
+				{"searchTerm": "River City Girls Zero (RCG Translation, Switch)"},
 				{"searchTerm": "Shin Nekketsu Kouha - Kunio-tachi no Banka"},
 				{"searchTerm": "River City Girls Zero", "priority": 2},
-				{"searchTerm": "River City Girls Zero (Original Translation)", "priority": 2}
+				{"searchTerm": "River City Girls Zero (Original Translation, Switch)", "priority": 2}
 			]
 		},
 		{
@@ -2134,6 +2129,13 @@
 			]
 		},
 		{
+			"group": "Strike Gunner S.T.G",
+			"titles": [
+				{"searchTerm": "Strike Gunner S.T.G"},
+				{"searchTerm": "Super Strike Gunner"}
+			]
+		},
+		{
 			"group": "Stunt Race FX",
 			"titles": [
 				{"searchTerm": "Stunt Race FX"},
@@ -2238,8 +2240,8 @@
 				{"searchTerm": "Super Bombliss"}
 			],
 			"compilations": [
-				{"searchTerm": "Super Tetris 2 + Bombliss Genteiban"},
-				{"searchTerm": "Super Tetris 2 + Bombliss", "priority": 2}
+				{"searchTerm": "Super Tetris 2 + Bombliss"},
+				{"searchTerm": "Super Tetris 2 + Bombliss Genteiban", "priority": 2}
 			]
 		},
 		{
@@ -2361,14 +2363,7 @@
 				{"searchTerm": "Super Mario All-Stars"},
 				{"searchTerm": "Super Mario Collection"}
 			],
-			"compilations": [
-				{"searchTerm": "Super Mario All-Stars + Super Mario World"},
-				{"searchTerm": "Super Mario All-Stars and Super Mario World"}
-			]
-		},
-		{
-			"group": "Super Mario All-Stars + Super Mario World",
-			"titles": [
+			"supersets": [
 				{"searchTerm": "Super Mario All-Stars + Super Mario World"},
 				{"searchTerm": "Super Mario All-Stars and Super Mario World"}
 			]
@@ -2386,7 +2381,7 @@
 				{"searchTerm": "Super Mario World"},
 				{"searchTerm": "Super Mario World - Super Mario Bros. 4"}
 			],
-			"compilations": [
+			"supersets": [
 				{"searchTerm": "Super Mario All-Stars + Super Mario World"},
 				{"searchTerm": "Super Mario All-Stars and Super Mario World"}
 			]
@@ -2520,13 +2515,6 @@
 			]
 		},
 		{
-			"group": "Strike Gunner S.T.G",
-			"titles": [
-				{"searchTerm": "Strike Gunner S.T.G"},
-				{"searchTerm": "Super Strike Gunner"}
-			]
-		},
-		{
 			"group": "Super Tennis",
 			"titles": [
 				{"searchTerm": "Super Tennis"},
@@ -2536,8 +2524,8 @@
 		{
 			"group": "Super Tetris 2",
 			"compilations": [
-				{"searchTerm": "Super Tetris 2 + Bombliss Genteiban"},
-				{"searchTerm": "Super Tetris 2 + Bombliss", "priority": 2}
+				{"searchTerm": "Super Tetris 2 + Bombliss"},
+				{"searchTerm": "Super Tetris 2 + Bombliss Genteiban", "priority": 2}
 			]
 		},
 		{

@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Apple - Macintosh (Redump)",
-		"lastUpdated": "17 March 2023",
+		"lastUpdated": "11 May 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -45,7 +45,6 @@
 		"Baldur's Gate II - Shadows of Amn (USA) (Disc 4)",
 		"Bandai Visual CD-ROM Previews for Macintosh Vol. 1 (Japan)",
 		"Barbara ni Aitakute... (Japan)",
-		"Beach Head 2002 (USA)",
 		"Black & White (Japan) (Data Disc)",
 		"Black & White (Japan) (Game Disc)",
 		"BrainDead 13 (USA)",
@@ -82,6 +81,9 @@
 		"Daedalus Encounter, The - Episode 1 - Nanpasen no Alien (Japan) (Disc 1)",
 		"Daedalus Encounter, The - Episode 1 - Nanpasen no Alien (Japan) (Disc 2)",
 		"Daedalus Encounter, The - Episode 1 - Nanpasen no Alien (Japan) (Disc 3)",
+		"Daikoukai Jidai III - Costa del Sol (Japan)",
+		"Daisenryaku (Japan)",
+		"Dark Seed II (Japan)",
 		"Darkseed (Europe) (Fr,De)",
 		"Dig, The (UK)",
 		"Dink - Interactive Nanpa Special (Japan)",
@@ -91,6 +93,8 @@
 		"Emit Value Pack (Japan) (Disc 3) (Vol. 3 - Watashi ni Sayonara o)",
 		"Emit Vol. 1 - Toki no Maigo (Japan) (En,Ja)",
 		"Final Doom (France)",
+		"First Live (Japan)",
+		"Flying Nightmares (Japan)",
 		"Frankenstein - Through the Eyes of the Monster (USA)",
 		"Freedom Force (USA)",
 		"Ginga Eiyuu Densetsu - Screen Saver Vol. 2 for Macintosh (Japan)",
@@ -191,19 +195,14 @@
 		"Phantasmagoria (Europe) (Disc 6)",
 		"Phantasmagoria (Europe) (Disc 7)",
 		"Prisoner of Ice (France) (En,Fr,De,Nl,Sv) (Covermount)",
+		"Puyo Puyo Tsuu (Japan)",
 		"Quake (Europe)",
-		"Quake (USA) (Alt)",
 		"Quake 4 (USA)",
 		"Quake III - Arena (Europe)",
 		"Quantum Gate I - Akumu no Joshou (Japan)",
-		"Residents, The - Gingerbread Man (Europe) (Expanded Album)",
 		"Return to Zork (USA, Europe)",
-		"Rune (Japan)",
 		"Sanzennen Shokudou - Shoku Culture Simulation Game (Japan)",
 		"Sid Meier's Civilization IV (USA) (En,Fr,De)",
-		"SimCity 3000 (USA)",
-		"SimCity 4 (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Th) (Disc 1)",
-		"SimCity 4 (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Th) (Disc 2)",
 		"SimTown - The Town You Build Yourself! (Japan)",
 		"Sims 2, The (USA) (En,Ja,Fr,De,It)",
 		"Sims 2, The (USA) (Rerelease)",
@@ -225,8 +224,8 @@
 		"Train Simulator - Chuuou-sen (201-kei) (Japan)",
 		"Train Simulator - JR Shikoku Vol. 1 (Takamatsu-Kotohira, Takamatsu-Kojima) (Japan)",
 		"Train Simulator - Toukaidou Honsen (211-kei) (Japan)",
+		"URM - M15 Wakusei ni Umarete (Japan)",
 		"Ukiuki Tsuri Tengoku 2 - Hato no Gomokuzuri (Japan)",
-		"Unreal (USA)",
 		"Unreal Tournament (USA)",
 		"Vortex, The - Quantum Gate II (Japan) (Disc 1)",
 		"Vortex, The - Quantum Gate II (Japan) (Disc 2)",
@@ -308,6 +307,15 @@
 			],
 			"supersets": [
 				{"searchTerm": "Harry Potter and the Sorcerer's Stone (Deluxe Edition)"}
+			]
+		},
+		{
+			"group": "Heroes of Might and Magic III",
+			"titles": [
+				{"searchTerm": "Heroes of Might and Magic III"}
+			],
+			"supersets": [
+				{"searchTerm": "Heroes of Might and Magic III Complete (Disc 1) (Install Disc)"}
 			]
 		},
 		{

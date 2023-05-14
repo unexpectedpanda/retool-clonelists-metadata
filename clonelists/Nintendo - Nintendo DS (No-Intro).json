@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Nintendo - Nintendo DS (No-Intro)",
-		"lastUpdated": "17 January 2023",
+		"lastUpdated": "14 April 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -67,16 +67,6 @@
 			]
 		},
 		{
-			"group": "100 Classic Books",
-			"titles": [
-				{"searchTerm": "100 Classic Books"},
-				{"searchTerm": "100 Classic Book Collection"},
-				{"searchTerm": "100 Livres Classiques"},
-				{"searchTerm": "Bibliothek der Klassischen Buecher"},
-				{"searchTerm": "DS Bungaku Zenshuu"}
-			]
-		},
-		{
 			"group": "101 in 1 Sports Megamix",
 			"titles": [
 				{"searchTerm": "101 in 1 Sports Megamix"},
@@ -114,7 +104,8 @@
 		{
 			"group": "4 Elements",
 			"titles": [
-				{"searchTerm": "4 Elements"}
+				{"searchTerm": "4 Elements"},
+				{"searchTerm": "Gem Quest - 4 Elements"}
 			],
 			"compilations": [
 				{"searchTerm": "Jewel Match & 4 Elements", "titlePosition": 2}
@@ -442,15 +433,6 @@
 			]
 		},
 		{
-			"group": "Best Friends - My Horse",
-			"titles": [
-				{"searchTerm": "Best Friends - Mijn Paard"}
-			],
-			"compilations": [
-				{"searchTerm": "2 in 1 - My Pet School + Best Friends - My Horse", "titlePosition": 2}
-			]
-		},
-		{
 			"group": "Best Friends Tonight",
 			"titles": [
 				{"searchTerm": "Best Friends Tonight"},
@@ -709,7 +691,6 @@
 				{"searchTerm": "Cooking Mama World - Outdoor Adventures"}
 			],
 			"compilations": [
-				{"searchTerm": "Cooking Mama World - Combo Pack - Volume 1"},
 				{"searchTerm": "Mama's Combo Pack - Volume 1"}
 			]
 		},
@@ -985,7 +966,7 @@
 		{
 			"group": "Cookie Shop - Create Your Dream Shop",
 			"titles": [
-				{"searchTerm": "Chocoken no Omise - Patissier & Sweets Shop Game"},
+				{"searchTerm": "Chocoken no Sweets Department - Patissier Ikusei Simulation Game"},
 				{"searchTerm": "Cookie Shop - Create Your Dream Shop"},
 				{"searchTerm": "Cookie Shop - Crea la Tienda de tus Suenos"}
 			]
@@ -996,7 +977,6 @@
 				{"searchTerm": "Cooking Mama"}
 			],
 			"compilations": [
-				{"searchTerm": "Cooking Mama World - Combo Pack - Volume 1"},
 				{"searchTerm": "Mama's Combo Pack - Volume 1"}
 			]
 		},
@@ -1005,6 +985,10 @@
 			"titles": [
 				{"searchTerm": "Cooking Mama 2"},
 				{"searchTerm": "Cooking Mama 2 - Dinner with Friends"}
+			],
+			"compilations": [
+				{"searchTerm": "Cooking Mama World - Combo Pack - Volume 1"},
+				{"searchTerm": "Mama's Combo Pack - Volume 2"}
 			]
 		},
 		{
@@ -1014,18 +998,7 @@
 				{"searchTerm": "Cooking Mama 3 - Shop & Chop"}
 			],
 			"compilations": [
-				{"searchTerm": "Cooking Mama World - Combo Pack - Volume 2"},
-				{"searchTerm": "Mama's Combo Pack - Volume 2"}
-			]
-		},
-		{
-			"group": "Cooking Mama World - Hobbies & Fun",
-			"titles": [
-				{"searchTerm": "Cooking Mama World - Hobbies & Fun"}
-			],
-			"compilations": [
-				{"searchTerm": "Cooking Mama World - Combo Pack - Volume 2"},
-				{"searchTerm": "Mama's Combo Pack - Volume 2"}
+				{"searchTerm": "Cooking Mama World - Combo Pack - Volume 2"}
 			]
 		},
 		{
@@ -1068,6 +1041,10 @@
 				{"searchTerm": "Cooking Mama World - Hobbies & Fun"},
 				{"searchTerm": "Craft Mama"},
 				{"searchTerm": "Crafting Mama"}
+			],
+			"compilations": [
+				{"searchTerm": "Cooking Mama World - Combo Pack - Volume 2"},
+				{"searchTerm": "Mama's Combo Pack - Volume 2"}
 			]
 		},
 		{
@@ -1548,7 +1525,8 @@
 			"group": "Dragon Quest VI - Realms of Revelation",
 			"titles": [
 				{"searchTerm": "Dragon Quest VI - Maboroshi no Daichi"},
-				{"searchTerm": "Dragon Quest VI - Realms of Revelation"}
+				{"searchTerm": "Dragon Quest VI - Realms of Revelation"},
+				{"searchTerm": "Dragon Quest VI - Realms of Reverie"}
 			]
 		},
 		{
@@ -2089,17 +2067,19 @@
 			]
 		},
 		{
+			"group": "Gardening Mama",
+			"titles": [
+				{"searchTerm": "Gardening Mama"}
+			],
+			"compilations": [
+				{"searchTerm": "Cooking Mama World - Combo Pack - Volume 1"}
+			]
+		},
+		{
 			"group": "Garfield - A Tail of Two Kitties",
 			"titles": [
 				{"searchTerm": "Garfield - A Tail of Two Kitties"},
 				{"searchTerm": "Garfield 2"}
-			]
-		},
-		{
-			"group": "Gem Quest - 4 Elements",
-			"titles": [
-				{"searchTerm": "4 Elements"},
-				{"searchTerm": "Gem Quest - 4 Elements"}
 			]
 		},
 		{
@@ -2489,6 +2469,13 @@
 			"titles": [
 				{"searchTerm": "Haus Anubis, Das - Das Geheimnis des Osiris"},
 				{"searchTerm": "Huis Anubis, Het - Het Geheim van Osiris"}
+			]
+		},
+		{
+			"group": "I'm a Celebrity - Get Me Out of Here!",
+			"titles": [
+				{"searchTerm": "I'm a Celebrity - Get Me Out of Here!"},
+				{"searchTerm": "Koh-Lanta - Survie dans la Jungle!"}
 			]
 		},
 		{
@@ -2906,7 +2893,8 @@
 				{"searchTerm": "Jewel Master - Cradle of Athena"}
 			],
 			"compilations": [
-				{"searchTerm": "3 Game Pack! - Cradle of Rome + Cradle of Athena + Cradle of Egypt", "titlePosition": 2}
+				{"searchTerm": "3 Game Pack! - Cradle of Rome + Cradle of Athena + Cradle of Egypt", "titlePosition": 2},
+				{"searchTerm": "Jewel Master Collection"}
 			]
 		},
 		{
@@ -2924,7 +2912,8 @@
 			],
 			"compilations": [
 				{"searchTerm": "3 Game Pack! - Cradle of Rome + Cradle of Athena + Cradle of Egypt", "titlePosition": 3},
-				{"searchTerm": "Double Pack - Cradle of Rome + Cradle of Egypt", "titlePosition": 2}
+				{"searchTerm": "Double Pack - Cradle of Rome + Cradle of Egypt", "titlePosition": 2},
+				{"searchTerm": "Jewel Master Collection"}
 			]
 		},
 		{
@@ -2934,6 +2923,16 @@
 			],
 			"compilations": [
 				{"searchTerm": "Jewel Match & 4 Elements", "titlePosition": 1}
+			]
+		},
+		{
+			"group": "Jewel Quest - Expeditions",
+			"titles": [
+				{"searchTerm": "Jewel Quest - Expeditions"}
+			],
+			"compilations": [
+				{"searchTerm": "Quest Trio, The"},
+				{"searchTerm": "Quest Trio, The - Jewels, Cards and Tiles"}
 			]
 		},
 		{
@@ -2949,6 +2948,10 @@
 			"titles": [
 				{"searchTerm": "Jewel Quest - Solitaire"},
 				{"searchTerm": "Jewel Quest - Solitaire - Solitaire with a Twist!"}
+			],
+			"compilations": [
+				{"searchTerm": "Quest Trio, The"},
+				{"searchTerm": "Quest Trio, The - Jewels, Cards and Tiles"}
 			]
 		},
 		{
@@ -3097,6 +3100,13 @@
 			"titles": [
 				{"searchTerm": "GripsKids - Mathematik"},
 				{"searchTerm": "Kids Learn - Math - A+ Edition"}
+			]
+		},
+		{
+			"group": "Kids Learn Music - A+ Edition",
+			"titles": [
+				{"searchTerm": "Kids Learn Music - A+ Edition"},
+				{"searchTerm": "Music for Kids"}
 			]
 		},
 		{
@@ -3566,6 +3576,19 @@
 			"titles": [
 				{"searchTerm": "Eindeloos Mahjong"},
 				{"searchTerm": "Mahjong"}
+			],
+			"compilations": [
+				{"searchTerm": "2 in 1 - Mahjong + Mahjong Around the World", "titlePosition": 1}
+			]
+		},
+		{
+			"group": "Mah Jong Quest - Expeditions",
+			"titles": [
+				{"searchTerm": "Mah Jong Quest - Expeditions"}
+			],
+			"compilations": [
+				{"searchTerm": "Quest Trio, The"},
+				{"searchTerm": "Quest Trio, The - Jewels, Cards and Tiles"}
 			]
 		},
 		{
@@ -3573,6 +3596,9 @@
 			"titles": [
 				{"searchTerm": "Eindeloos Mahjong 2 - Een Reis om de Wereld"},
 				{"searchTerm": "Mahjong - Eine Reise um die Welt"}
+			],
+			"compilations": [
+				{"searchTerm": "2 in 1 - Mahjong + Mahjong Around the World", "titlePosition": 2}
 			]
 		},
 		{
@@ -3918,6 +3944,13 @@
 			]
 		},
 		{
+			"group": "Monster Band",
+			"titles": [
+				{"searchTerm": "Monster Band"},
+				{"searchTerm": "Music Monstars - The Ultimate Music Machine"}
+			]
+		},
+		{
 			"group": "Monster Puzzle",
 			"titles": [
 				{"searchTerm": "DS Chueogui Donghwa - Touch RO Puzzle"},
@@ -4027,6 +4060,13 @@
 			"titles": [
 				{"searchTerm": "Fashion Designer - Style Icon"},
 				{"searchTerm": "My Fashion Studio"}
+			]
+		},
+		{
+			"group": "My First Dollhouse",
+			"titles": [
+				{"searchTerm": "I Did It Mum! - Doll's House"},
+				{"searchTerm": "My First Dollhouse"}
 			]
 		},
 		{
@@ -4405,6 +4445,7 @@
 		{
 			"group": "Nickelodeon Dora and Friends' - Fantastic Flight",
 			"titles": [
+				{"searchTerm": "Dora & Friends' - Fantastic Flight"},
 				{"searchTerm": "Nickelodeon Dora and Friends' - Fantastic Flight"}
 			],
 			"compilations": [
@@ -5436,6 +5477,7 @@
 		{
 			"group": "Puzzler World 2",
 			"titles": [
+				{"searchTerm": "Knobel- und Denkspiele 2"},
 				{"searchTerm": "Puzzler World 2"},
 				{"searchTerm": "Puzzler World 2011"}
 			]
@@ -6173,6 +6215,13 @@
 			]
 		},
 		{
+			"group": "Style Lab - Makeover",
+			"titles": [
+				{"searchTerm": "Girls Life - Makeover"},
+				{"searchTerm": "Style Lab - Makeover"}
+			]
+		},
+		{
 			"group": "Style Savvy",
 			"titles": [
 				{"searchTerm": "Namanui Collection - Girls Style"},
@@ -6182,10 +6231,23 @@
 			]
 		},
 		{
-			"group": "Successfully Learning English",
+			"group": "Successfully Learning English - Year 2+3",
 			"titles": [
-				{"searchTerm": "Lernerfolg Grundschule - Englisch - Klasse 1-4"},
-				{"searchTerm": "Successfully Learning English"}
+				{"searchTerm": "Successfully Learning English - Year 2+3"}
+			],
+			"compilations": [
+				{"searchTerm": "Successfully Learning English"},
+				{"searchTerm": "Lernerfolg Grundschule - Englisch - Klasse 1-4"}
+			]
+		},
+		{
+			"group": "Successfully Learning English - Year 4+5",
+			"titles": [
+				{"searchTerm": "Successfully Learning English - Year 4+5"}
+			],
+			"compilations": [
+				{"searchTerm": "Successfully Learning English"},
+				{"searchTerm": "Lernerfolg Grundschule - Englisch - Klasse 1-4"}
 			]
 		},
 		{
@@ -6311,6 +6373,7 @@
 		{
 			"group": "Tamagotchi Connection - Corner Shop 2",
 			"titles": [
+				{"searchTerm": "Tamagotch no Puchi Puchi Omisetchi - Gohiiki Ni"},
 				{"searchTerm": "Tamagotchi Connection - Corner Shop 2"},
 				{"searchTerm": "Tamagotchi Connexion - Corner Shop 2"}
 			]

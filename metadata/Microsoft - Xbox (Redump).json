@@ -746,10 +746,10 @@
 	"Call of Duty 2 - Big Red One (Germany)": {
 		"languages": ["De"]
 	},
-	"Call of Duty 2 - Big Red One (USA, Australia) (Collector's Edition)": {
+	"Call of Duty 2 - Big Red One (World)": {
 		"languages": ["En"]
 	},
-	"Call of Duty 2 - Big Red One (World)": {
+	"Call of Duty 2 - Big Red One (World) (Collector's Edition)": {
 		"languages": ["En"]
 	},
 	"Call of Duty 3 (Europe) (Fr,It)": {
@@ -2219,7 +2219,7 @@
 	"Full Spectrum Warrior (Europe) (En,Fr,De,Es,It) (Rev 1)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Full Spectrum Warrior (Japan, Asia) (En,Ja,Ko)": {
+	"Full Spectrum Warrior (Japan, Korea) (En,Ja,Ko)": {
 		"languages": ["En", "Ja", "Ko"]
 	},
 	"Full Spectrum Warrior (USA)": {
@@ -4346,6 +4346,9 @@
 	"Off-Road - Wide Open (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
+	"Official Xbox 50 Best Games, The (UK)": {
+		"languages": []
+	},
 	"Official Xbox Magazine Best of Xbox Game Demos Vol. 1 (USA)": {
 		"languages": ["En"]
 	},
@@ -5588,8 +5591,8 @@
 	"SNK vs. Capcom - SVC Chaos (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"SNK vs. Capcom - SVC Chaos (USA)": {
-		"languages": []
+	"SNK vs. Capcom - SVC Chaos (USA, Japan) (En,Ja)": {
+		"languages": ["En", "Ja"]
 	},
 	"SRS - Street Racing Syndicate (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -6104,7 +6107,7 @@
 	"Spyro - A Hero's Tail (Europe) (En,Fr,De,Es,It,Nl)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
 	},
-	"Spyro - A Hero's Tail (USA)": {
+	"Spyro - A Hero's Tail (USA, Asia)": {
 		"languages": ["En"]
 	},
 	"Stacked with Daniel Negreanu (USA)": {
@@ -6602,9 +6605,6 @@
 	"Tetris Worlds (USA) (Online Enabled)": {
 		"languages": ["En"]
 	},
-	"The Official Xbox 50 Best Games (UK)": {
-		"languages": []
-	},
 	"Thief - Deadly Shadows (Europe) (En,Fr,De,It)": {
 		"languages": ["De", "En", "Fr", "It"]
 	},
@@ -6763,6 +6763,9 @@
 	},
 	"Tom Clancy's Splinter Cell (Asia) (En,Fr)": {
 		"languages": ["En", "Fr"]
+	},
+	"Tom Clancy's Splinter Cell (Europe) (Demo)": {
+		"languages": []
 	},
 	"Tom Clancy's Splinter Cell (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -7037,7 +7040,7 @@
 	"Una Serie de Catastroficas Desdichas de Lemony Snicket (Spain)": {
 		"languages": ["Es"]
 	},
-	"Unreal Championship (Japan, Asia)": {
+	"Unreal Championship (Japan, Korea)": {
 		"languages": ["En"]
 	},
 	"Unreal Championship (USA, Europe) (En,Fr,De,Es,It)": {

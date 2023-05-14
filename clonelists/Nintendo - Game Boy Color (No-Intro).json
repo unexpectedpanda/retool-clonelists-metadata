@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Nintendo - Game Boy Color (No-Intro)",
-		"lastUpdated": "5 March 2023",
+		"lastUpdated": "10 April 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -40,9 +40,40 @@
 
 	"overrides": [
 		{
+			"searchTerm": "Barca Total 2000",
+			"nameType": "short",
+			"newGroup": "Barca Total 2000",
+			"condition": {
+				"regionOrder": {
+					"higherRegions": ["Spain"],
+					"lowerRegions": ["Europe"],
+					"elseGroup": "Barca Total 2000",
+					"priority": 1
+				}
+			}
+		},
+		{
+			"searchTerm": "David O'Leary's Total Soccer 2000",
+			"nameType": "short",
+			"newGroup": "Barca Total 2000",
+			"condition": {
+				"regionOrder": {
+					"higherRegions": ["Europe"],
+					"lowerRegions": ["Spain"],
+					"elseGroup": "Barca Total 2000",
+					"priority": 1
+				}
+			}
+		},
+		{
 			"searchTerm": "Game Boy Gallery 3 (Japan) (SGB Enhanced) (GB Compatible)",
 			"nameType": "full",
 			"newGroup": "Game & Watch Gallery 3"
+		},
+		{
+			"searchTerm": "Micro Machines V3",
+			"nameType": "regionFree",
+			"newGroup": "Micro Machines Veethree"
 		}
 	],
 
@@ -110,13 +141,6 @@
 				{"searchTerm": "Barbie - Diepzee Avontuur"},
 				{"searchTerm": "Barbie - Ocean Discovery"},
 				{"searchTerm": "Barbie - Meeres Abenteuer"}
-			]
-		},
-		{
-			"group": "Barca Total 2000",
-			"titles": [
-				{"searchTerm": "Barca Total 2000"},
-				{"searchTerm": "David O'Leary's Total Soccer 2000", "priority": 2}
 			]
 		},
 		{
@@ -696,6 +720,21 @@
 			"titles": [
 				{"searchTerm": "European Super League"},
 				{"searchTerm": "Mia Hamm Soccer Shootout"}
+			]
+		},
+		{
+			"group": "Micro Machines",
+			"compilations": [
+				{"searchTerm": "Micro Machines 1 and 2 - Twin Turbo"}
+			]
+		},
+		{
+			"group": "Micro Machines 2 - Turbo Tournament",
+			"titles": [
+				{"searchTerm": "Micro Machines 2 - Turbo Tournament"}
+			],
+			"compilations": [
+				{"searchTerm": "Micro Machines 1 and 2 - Twin Turbo"}
 			]
 		},
 		{

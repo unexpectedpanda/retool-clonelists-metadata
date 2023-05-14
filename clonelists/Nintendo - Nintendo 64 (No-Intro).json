@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Nintendo - Nintendo 64 (No-Intro)",
-		"lastUpdated": "15 January 2023",
+		"lastUpdated": "3 May 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -20,14 +20,29 @@
 			"searchTerm": "GameShark Pro",
 			"nameType": "short",
 			"categories": ["Applications"]
+		},
+		{
+			"searchTerm": "Wide-Boy64 [AC]GB.*",
+			"nameType": "regex",
+			"categories": ["Applications"]
 		}
 	],
 
 	"overrides": [
 		{
-			"searchTerm": "Bomberman 64 (Japan)",
-			"nameType": "full",
+			"searchTerm": "Bomberman 64 \\(Japan\\).*",
+			"nameType": "regex",
 			"newGroup": "Bomberman 64 Japan"
+		},
+		{
+			"searchTerm": "Custom Robo V2",
+			"nameType": "regionFree",
+			"newGroup": "Custom Robo Veetoo"
+		},
+		{
+			"searchTerm": "Pokemon Stadium \\(Japan\\).*",
+			"nameType": "regex",
+			"newGroup": "Pokemon Stadium Japan"
 		}
 	],
 
@@ -500,6 +515,13 @@
 			]
 		},
 		{
+			"group": "Pokemon Stadium 2",
+			"titles": [
+				{"searchTerm": "Pokemon Stadium 2"},
+				{"searchTerm": "Pokemon Stadium Kin Gin"}
+			]
+		},
+		{
 			"group": "Rally Challenge 2000",
 			"titles": [
 				{"searchTerm": "Rally '99"},
@@ -649,6 +671,13 @@
 				{"searchTerm": "King Hill 64 - Extreme Snowboarding"},
 				{"searchTerm": "Twisted Edge - Extreme Snowboarding"},
 				{"searchTerm": "Twisted Edge - Snowboarding"}
+			]
+		},
+		{
+			"group": "Wide-Boy64",
+			"titles": [
+				{"searchTerm": "Wide-Boy64 AGB"},
+				{"searchTerm": "Wide-Boy64 CGB", "priority": 2}
 			]
 		},
 		{

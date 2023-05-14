@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Nintendo - Game Boy Advance (No-Intro)",
-		"lastUpdated": "12 January 2023",
+		"lastUpdated": "13 April 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -174,8 +174,7 @@
 		{
 			"group": "Anguna - Warriors of Virtue",
 			"titles": [
-				{"searchTerm": "Anguna - Warriors of Virtue"},
-				{"searchTerm": "Anguna - Warriors of Virtue (Patreon)"}
+				{"searchTerm": "Anguna - Warriors of Virtue"}
 			]
 		},
 		{
@@ -244,6 +243,15 @@
 			"titles": [
 				{"searchTerm": "Barbie Horse Adventures"},
 				{"searchTerm": "Barbie Horse Adventures - Blue Ribbon Race"}
+			]
+		},
+		{
+			"group": "Barbie Software - Groovy Games",
+			"titles": [
+				{"searchTerm": "Barbie Software - Groovy Games"}
+			],
+			"compilations": [
+				{"searchTerm": "Barbie Superpack - Secret Agent + Groovy Games"}
 			]
 		},
 		{
@@ -362,6 +370,15 @@
 			]
 		},
 		{
+			"group": "Cabela's Big Game Hunter",
+			"titles": [
+				{"searchTerm": "Cabela's Big Game Hunter"}
+			],
+			"compilations": [
+				{"searchTerm": "Sportsmans Pack 2 in 1 - Cabela's Big Game Hunter + Rapala Pro Fishing"}
+			]
+		},
+		{
 			"group": "Car Battler Joe",
 			"titles": [
 				{"searchTerm": "Car Battler Joe"},
@@ -408,6 +425,9 @@
 			"titles": [
 				{"searchTerm": "Castlevania - Akatsuki no Minuet"},
 				{"searchTerm": "Castlevania - Aria of Sorrow"}
+			],
+			"compilations": [
+				{"searchTerm": "Castlevania Double Pack"}
 			]
 		},
 		{
@@ -415,6 +435,9 @@
 			"titles": [
 				{"searchTerm": "Castlevania - Byakuya no Concerto"},
 				{"searchTerm": "Castlevania - Harmony of Dissonance"}
+			],
+			"compilations": [
+				{"searchTerm": "Castlevania Double Pack"}
 			]
 		},
 		{
@@ -557,6 +580,10 @@
 			"titles": [
 				{"searchTerm": "Crash Bandicoot 2 - N-Tranced"},
 				{"searchTerm": "Crash Bandicoot Advance 2 - Guruguru Saimin Dai-panic!"}
+			],
+			"compilations": [
+				{"searchTerm": "Crash & Spyro Super Pack Volume 1"},
+				{"searchTerm": "Crash Superpack - Crash Bandicoot 2 - N-Tranced + Crash Nitro Kart"}
 			]
 		},
 		{
@@ -565,6 +592,10 @@
 				{"searchTerm": "Crash Bandicoot Advance - Wakuwaku Tomodachi Daisakusen!"},
 				{"searchTerm": "Crash Bandicoot Fusion"},
 				{"searchTerm": "Crash Bandicoot Purple - Ripto's Rampage"}
+			],
+			"compilations": [
+				{"searchTerm": "Crash & Spyro Superpack - Spyro Orange - The Cortex Conspiracy + Crash Bandicoot Purple - Ripto's Rampage", "titlePosition": 2},
+				{"searchTerm": "Crash & Spyro Super Pack Volume 3"}
 			]
 		},
 		{
@@ -573,6 +604,9 @@
 				{"searchTerm": "Crash Bandicoot - The Huge Adventure"},
 				{"searchTerm": "Crash Bandicoot Advance"},
 				{"searchTerm": "Crash Bandicoot XS"}
+			],
+			"compilations": [
+				{"searchTerm": "Crash & Spyro Superpack - Spyro - Season of Ice + Crash Bandicoot - The Huge Adventure", "titlePosition": 2}
 			]
 		},
 		{
@@ -580,6 +614,10 @@
 			"titles": [
 				{"searchTerm": "Crash Bandicoot Bakusou! Nitro Cart"},
 				{"searchTerm": "Crash Nitro Kart"}
+			],
+			"compilations": [
+				{"searchTerm": "Crash & Spyro Super Pack Volume 2"},
+				{"searchTerm": "Crash Superpack - Crash Bandicoot 2 - N-Tranced + Crash Nitro Kart", "titlePosition": 2}
 			]
 		},
 		{
@@ -761,6 +799,24 @@
 			]
 		},
 		{
+			"group": "Dora the Explorer - Super Star Adventures!",
+			"titles": [
+				{"searchTerm": "Dora the Explorer - Super Star Adventures!"}
+			],
+			"compilations": [
+				{"searchTerm": "Dora the Explorer Double Pack"}
+			]
+		},
+		{
+			"group": "Dora the Explorer - The Search for the Pirate Pig's Treasure",
+			"titles": [
+				{"searchTerm": "Dora the Explorer - The Search for the Pirate Pig's Treasure"}
+			],
+			"compilations": [
+				{"searchTerm": "Dora the Explorer Double Pack"}
+			]
+		},
+		{
 			"group": "Dr. Seuss' The Cat in the Hat",
 			"titles": [
 				{"searchTerm": "Dr. Seuss' The Cat in the Hat"},
@@ -919,6 +975,15 @@
 			]
 		},
 		{
+			"group": "Fairly OddParents!, The - Enter the Cleft",
+			"titles": [
+				{"searchTerm": "Fairly OddParents!, The - Enter the Cleft"}
+			],
+			"compilations": [
+				{"searchTerm": "4 Games on One Game Pak (Nicktoons)"}
+			]
+		},
+		{
 			"group": "Fairly OddParents!, The - Shadow Showdown",
 			"titles": [
 				{"searchTerm": "Cosmo & Wanda - Wenn Elfen Helfen! - Das Schattenduell"},
@@ -968,7 +1033,8 @@
 			],
 			"compilations": [
 				{"searchTerm": "2 Games in 1 - Findet Nemo + Findet Nemo - Das Abenteuer Geht Weiter", "titlePosition": 2},
-				{"searchTerm": "2 Games in 1 - Finding Nemo + Finding Nemo - The Continuing Adventures", "titlePosition": 2}
+				{"searchTerm": "2 Games in 1 - Finding Nemo + Finding Nemo - The Continuing Adventures", "titlePosition": 2},
+				{"searchTerm": "2 Games in 1 - Finding Nemo - The Continuing Adventures + The Incredibles", "titlePosition": 1}
 			]
 		},
 		{
@@ -1107,6 +1173,9 @@
 			"titles": [
 				{"searchTerm": "Advance GTA"},
 				{"searchTerm": "GT Advance - Championship Racing"}
+			],
+			"compilations": [
+				{"searchTerm": "4 Games on One Game Pak (Racing)"}
 			]
 		},
 		{
@@ -1114,6 +1183,9 @@
 			"titles": [
 				{"searchTerm": "Advance Rally"},
 				{"searchTerm": "GT Advance 2 - Rally Racing"}
+			],
+			"compilations": [
+				{"searchTerm": "4 Games on One Game Pak (Racing)"}
 			]
 		},
 		{
@@ -1123,7 +1195,8 @@
 				{"searchTerm": "GT Advance 3 - Pro Concept Racing"}
 			],
 			"compilations": [
-				{"searchTerm": "2 Games in 1 - Moto GP + GT Advance 3 - Pro Concept Racing", "titlePosition": 2}
+				{"searchTerm": "2 Games in 1 - Moto GP + GT Advance 3 - Pro Concept Racing", "titlePosition": 2},
+				{"searchTerm": "4 Games on One Game Pak (Racing)"}
 			]
 		},
 		{
@@ -1152,6 +1225,9 @@
 			"titles": [
 				{"searchTerm": "Harry Potter and the Chamber of Secrets"},
 				{"searchTerm": "Harry Potter to Himitsu no Heya"}
+			],
+			"compilations": [
+				{"searchTerm": "Harry Potter Collection"}
 			]
 		},
 		{
@@ -1159,6 +1235,9 @@
 			"titles": [
 				{"searchTerm": "Harry Potter and the Prisoner of Azkaban"},
 				{"searchTerm": "Harry Potter to Azkaban no Shuujin"}
+			],
+			"compilations": [
+				{"searchTerm": "Harry Potter Collection"}
 			]
 		},
 		{
@@ -1166,6 +1245,9 @@
 			"titles": [
 				{"searchTerm": "Harry Potter and the Sorcerer's Stone"},
 				{"searchTerm": "Harry Potter to Kenja no Ishi"}
+			],
+			"compilations": [
+				{"searchTerm": "Harry Potter Collection"}
 			]
 		},
 		{
@@ -1180,6 +1262,15 @@
 			"titles": [
 				{"searchTerm": "Bokujou Monogatari - Mineral Town no Nakama-tachi for Girl"},
 				{"searchTerm": "Harvest Moon - More Friends of Mineral Town"}
+			]
+		},
+		{
+			"group": "Hey Arnold! - The Movie",
+			"titles": [
+				{"searchTerm": "Hey Arnold! - The Movie"}
+			],
+			"compilations": [
+				{"searchTerm": "4 Games on One Game Pak (Nickelodeon Movies)"}
 			]
 		},
 		{
@@ -1239,6 +1330,24 @@
 			]
 		},
 		{
+			"group": "Hugo - Bukkazoom!",
+			"titles": [
+				{"searchTerm": "Hugo - Bukkazoom!"}
+			],
+			"compilations": [
+				{"searchTerm": "Hugo 2 in 1"}
+			]
+		},
+		{
+			"group": "Hugo - The Evil Mirror",
+			"titles": [
+				{"searchTerm": "Hugo - The Evil Mirror"}
+			],
+			"compilations": [
+				{"searchTerm": "Hugo 2 in 1"}
+			]
+		},
+		{
 			"group": "Incredibles, The",
 			"titles": [
 				{"searchTerm": "Incredibili, Gli - Una 'Normale' Famiglia di Supereroi"},
@@ -1251,7 +1360,8 @@
 				{"searchTerm": "2 Games in 1 - Alla Ricerca di Nemo + Gli Incredibili - Una 'Normale' Famiglia di Supereroi", "titlePosition": 2},
 				{"searchTerm": "2 Games in 1 - Buscando a Nemo + Los Increibles", "titlePosition": 2},
 				{"searchTerm": "2 Games in 1 - Findet Nemo + Die Unglaublichen", "titlePosition": 2},
-				{"searchTerm": "2 Games in 1 - Finding Nemo + The Incredibles", "titlePosition": 2}
+				{"searchTerm": "2 Games in 1 - Finding Nemo + The Incredibles", "titlePosition": 2},
+				{"searchTerm": "2 Games in 1 - Finding Nemo - The Continuing Adventures + The Incredibles", "titlePosition": 2}
 			]
 		},
 		{
@@ -1295,7 +1405,8 @@
 				{"searchTerm": "Jimmy Neutron - Boy Genius"}
 			],
 			"compilations": [
-				{"searchTerm": "2 Games in 1 - SpongeBob SquarePants - Battle for Bikini Bottom + Jimmy Neutron Boy Genius", "titlePosition": 2}
+				{"searchTerm": "2 Games in 1 - SpongeBob SquarePants - Battle for Bikini Bottom + Jimmy Neutron Boy Genius", "titlePosition": 2},
+				{"searchTerm": "4 Games on One Game Pak (Nickelodeon Movies)"}
 			]
 		},
 		{
@@ -1417,6 +1528,15 @@
 			]
 		},
 		{
+			"group": "Lara Croft Tomb Raider - The Prophecy",
+			"titles": [
+				{"searchTerm": "Lara Croft Tomb Raider - The Prophecy"}
+			],
+			"compilations": [
+				{"searchTerm": "Prince of Persia - The Sands of Time & Lara Croft Tomb Raider - The Prophecy", "titlePosition": 1}
+			]
+		},
+		{
 			"group": "Legend of Zelda, The - A Link to the Past & Four Swords",
 			"titles": [
 				{"searchTerm": "Legend of Zelda, The - A Link to the Past & Four Swords"},
@@ -1510,6 +1630,13 @@
 			"compilations": [
 				{"searchTerm": "2 Games in 1 - Disney Princesas + Lizzie McGuire", "titlePosition": 2},
 				{"searchTerm": "2 Games in 1 - Disney Princess + Lizzie McGuire", "titlePosition": 2}
+			]
+		},
+		{
+			"group": "Lizzie McGuire 2 - Lizzie Diaries",
+			"titles": [
+				{"searchTerm": "Disney's Game + TV Episode - Lizzie McGuire 2 - Lizzie Diaries"},
+				{"searchTerm": "Lizzie McGuire 2 - Lizzie Diaries", "priority": 2}
 			]
 		},
 		{
@@ -1867,7 +1994,8 @@
 				{"searchTerm": "MotoGP"}
 			],
 			"compilations": [
-				{"searchTerm": "2 Games in 1 - Moto GP + GT Advance 3 - Pro Concept Racing", "titlePosition": 1}
+				{"searchTerm": "2 Games in 1 - Moto GP + GT Advance 3 - Pro Concept Racing", "titlePosition": 1},
+				{"searchTerm": "4 Games on One Game Pak (Racing)"}
 			]
 		},
 		{
@@ -1923,7 +2051,8 @@
 			],
 			"compilations": [
 				{"searchTerm": "2 Games in 1 - SpongeBob SquarePants - Battle for Bikini Bottom + Nicktoons - Freeze Frame Frenzy", "titlePosition": 2},
-				{"searchTerm": "2 Games in 1 - The SpongeBob SquarePants Movie + SpongeBob SquarePants and Friends in Freeze Frame Frenzy", "titlePosition": 2}
+				{"searchTerm": "2 Games in 1 - The SpongeBob SquarePants Movie + SpongeBob SquarePants and Friends in Freeze Frame Frenzy", "titlePosition": 2},
+				{"searchTerm": "4 Games on One Game Pak (Nicktoons)"}
 			]
 		},
 		{
@@ -2134,6 +2263,15 @@
 			]
 		},
 		{
+			"group": "Prince of Persia - The Sands of Time",
+			"titles": [
+				{"searchTerm": "Prince of Persia - The Sands of Time"}
+			],
+			"compilations": [
+				{"searchTerm": "Prince of Persia - The Sands of Time & Lara Croft Tomb Raider - The Prophecy", "titlePosition": 1}
+			]
+		},
+		{
 			"group": "Puyo Pop",
 			"titles": [
 				{"searchTerm": "Minna de Puyo Puyo"},
@@ -2167,6 +2305,15 @@
 			]
 		},
 		{
+			"group": "Rapala Pro Fishing",
+			"titles": [
+				{"searchTerm": "Rapala Pro Fishing"}
+			],
+			"compilations": [
+				{"searchTerm": "Sportsmans Pack 2 in 1 - Cabela's Big Game Hunter + Rapala Pro Fishing"}
+			]
+		},
+		{
 			"group": "Rave Master - Special Attack Force!",
 			"titles": [
 				{"searchTerm": "Groove Adventure Rave - Hikari to Yami no Daikessen 2"},
@@ -2178,6 +2325,15 @@
 			"titles": [
 				{"searchTerm": "Rayman - Hoodlum's Revenge"},
 				{"searchTerm": "Rayman - Hoodlums' Revenge"}
+			]
+		},
+		{
+			"group": "Rayman 3",
+			"titles": [
+				{"searchTerm": "Rayman 3"}
+			],
+			"compilations": [
+				{"searchTerm": "Winnie the Pooh's Rumbly Tumbly Adventure & Rayman 3", "titlePosition": 2}
 			]
 		},
 		{
@@ -2223,6 +2379,15 @@
 			]
 		},
 		{
+			"group": "Rocket Power - Zero Gravity Zone",
+			"titles": [
+				{"searchTerm": "Rocket Power - Zero Gravity Zone"}
+			],
+			"compilations": [
+				{"searchTerm": "4 Games on One Game Pak (Nicktoons)"}
+			]
+		},
+		{
 			"group": "Rugrats - Castle Capers",
 			"titles": [
 				{"searchTerm": "Rugrats - Castle Capers"},
@@ -2237,6 +2402,7 @@
 				{"searchTerm": "Rugrats - Go Wild"}
 			],
 			"compilations": [
+				{"searchTerm": "2 Games in 1 - Les Razmoket Rencontrent les Delajungle + SpongeBob SquarePants - SuperSponge", "titlePosition": 1},
 				{"searchTerm": "2 Games in 1 - Rugrats - Go Wild + SpongeBob SquarePants - SuperSponge", "titlePosition": 1}
 			]
 		},
@@ -2295,6 +2461,15 @@
 			"titles": [
 				{"searchTerm": "Scrabble Blast!"},
 				{"searchTerm": "Scrabble Scramble!"}
+			]
+		},
+		{
+			"group": "Secret Agent Barbie - Royal Jewels Mission",
+			"titles": [
+				{"searchTerm": "Secret Agent Barbie - Royal Jewels Mission"}
+			],
+			"compilations": [
+				{"searchTerm": "Barbie Superpack - Secret Agent + Groovy Games"}
 			]
 		},
 		{
@@ -2474,10 +2649,12 @@
 				{"searchTerm": "SpongeBob SquarePants - SuperSponge"}
 			],
 			"compilations": [
+				{"searchTerm": "2 Games in 1 - Les Razmoket Rencontrent les Delajungle + SpongeBob SquarePants - SuperSponge", "titlePosition":2},
 				{"searchTerm": "2 Games in 1 - Rugrats - Go Wild + SpongeBob SquarePants - SuperSponge", "titlePosition": 2},
 				{"searchTerm": "2 Games in 1 - SpongeBob SquarePants - Revenge of the Flying Dutchman + SpongeBob SquarePants - SuperSponge", "titlePosition": 2},
 				{"searchTerm": "2 Games in 1 - SpongeBob SquarePants - SuperSponge + SpongeBob SquarePants - Battle for Bikini Bottom", "titlePosition": 1},
-				{"searchTerm": "3 Games in 1 - Rugrats - I Gotta Go Party + SpongeBob SquarePants - SuperSponge + Tak and the Power of Juju", "titlePosition": 2}
+				{"searchTerm": "3 Games in 1 - Rugrats - I Gotta Go Party + SpongeBob SquarePants - SuperSponge + Tak and the Power of Juju", "titlePosition": 2},
+				{"searchTerm": "4 Games on One Game Pak (Nicktoons)"}
 			]
 		},
 		{
@@ -2486,7 +2663,8 @@
 				{"searchTerm": "SpongeBob SquarePants Movie, The"}
 			],
 			"compilations": [
-				{"searchTerm": "2 Games in 1 - The SpongeBob SquarePants Movie + SpongeBob SquarePants and Friends in Freeze Frame Frenzy", "titlePosition": 1}
+				{"searchTerm": "2 Games in 1 - The SpongeBob SquarePants Movie + SpongeBob SquarePants and Friends in Freeze Frame Frenzy", "titlePosition": 1},
+				{"searchTerm": "4 Games on One Game Pak (Nickelodeon Movies)"}
 			]
 		},
 		{
@@ -2497,10 +2675,25 @@
 			]
 		},
 		{
+			"group": "Spyro 2 - Season of Flame",
+			"titles": [
+				{"searchTerm": "Spyro 2 - Season of Flame"}
+			],
+			"compilations": [
+				{"searchTerm": "Crash & Spyro Super Pack Volume 2"},
+				{"searchTerm": "Spyro Superpack - Spyro - Season of Ice + Spyro 2 - Season of Flame", "titlePosition": 2}
+			]
+		},
+		{
 			"group": "Spyro - Season of Ice",
 			"titles": [
 				{"searchTerm": "Spyro - Season of Ice"},
 				{"searchTerm": "Spyro Advance"}
+			],
+			"compilations": [
+				{"searchTerm": "Crash & Spyro Super Pack Volume 1"},
+				{"searchTerm": "Crash & Spyro Superpack - Spyro - Season of Ice + Crash Bandicoot - The Huge Adventure", "titlePosition": 1},
+				{"searchTerm": "Spyro Superpack - Spyro - Season of Ice + Spyro 2 - Season of Flame", "titlePosition": 1}
 			]
 		},
 		{
@@ -2509,6 +2702,10 @@
 				{"searchTerm": "Spyro Advance - Wakuwaku Tomodachi Daisakusen!"},
 				{"searchTerm": "Spyro Orange - The Cortex Conspiracy"},
 				{"searchTerm": "Spyro Fusion"}
+			],
+			"compilations": [
+				{"searchTerm": "Crash & Spyro Superpack - Spyro Orange - The Cortex Conspiracy + Crash Bandicoot Purple - Ripto's Rampage", "titlePosition": 1},
+				{"searchTerm": "Crash & Spyro Super Pack Volume 3"}
 			]
 		},
 		{
@@ -2643,6 +2840,24 @@
 				{"searchTerm": "Tarzan - L'Appel de la Jungle"},
 				{"searchTerm": "Tarzan - Return to the Jungle"},
 				{"searchTerm": "Tarzan - Rueckkehr in den Dschungel"}
+			]
+		},
+		{
+			"group": "Teenage Mutant Ninja Turtles",
+			"titles": [
+				{"searchTerm": "Teenage Mutant Ninja Turtles"}
+			],
+			"compilations": [
+				{"searchTerm": "Teenage Mutant Ninja Turtles Double Pack"}
+			]
+		},
+		{
+			"group": "Teenage Mutant Ninja Turtles 2 - Battle Nexus",
+			"titles": [
+				{"searchTerm": "Teenage Mutant Ninja Turtles 2 - Battle Nexus"}
+			],
+			"compilations": [
+				{"searchTerm": "Teenage Mutant Ninja Turtles Double Pack"}
 			]
 		},
 		{
@@ -2827,6 +3042,9 @@
 			"titles": [
 				{"searchTerm": "Famille Delajungle, La - Le Film"},
 				{"searchTerm": "Wild Thornberrys Movie, The"}
+			],
+			"compilations": [
+				{"searchTerm": "4 Games on One Game Pak (Nickelodeon Movies)"}
 			]
 		},
 		{
@@ -2835,6 +3053,15 @@
 				{"searchTerm": "Expedition der Stachelbeeren - Zoff im Zoo"},
 				{"searchTerm": "Famille Delajungle, La - A la Poursuite de Darwin"},
 				{"searchTerm": "Wild Thornberrys, The - Chimp Chase"}
+			]
+		},
+		{
+			"group": "Winnie the Pooh's Rumbly Tumbly Adventure",
+			"titles": [
+				{"searchTerm": "Winnie the Pooh's Rumbly Tumbly Adventure"}
+			],
+			"compilations": [
+				{"searchTerm": "Winnie the Pooh's Rumbly Tumbly Adventure & Rayman 3", "titlePosition": 1}
 			]
 		},
 		{

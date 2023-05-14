@@ -1,11 +1,16 @@
 {
 	"description": {
 		"name": "Nintendo - Game Boy (No-Intro)",
-		"lastUpdated": "11 January 2023",
+		"lastUpdated": "3 May 2023",
 		"minimumVersion": "2.00"
 	},
 
 	"categories": [
+		{
+			"searchTerm": "(?:\\w+ )?Action Replay(?: \\w+)?.*?$",
+			"nameType": "regex",
+			"categories": ["Applications"]
+		},
 		{
 			"searchTerm": "Game Boy Camera",
 			"nameType": "short",
@@ -22,7 +27,7 @@
 			"categories": ["Applications"]
 		},
 		{
-			"searchTerm":  "Game Boy Controller Kensa Cartridge",
+			"searchTerm": "Game Boy Controller Kensa Cartridge",
 			"nameType": "short",
 			"categories": ["Applications"]
 		},
@@ -53,6 +58,16 @@
 		},
 		{
 			"searchTerm": "InfoGenius Systems - Personal Organizer with Phone Book",
+			"nameType": "short",
+			"categories": ["Applications"]
+		},
+		{
+			"searchTerm": "Pocket Camera",
+			"nameType": "short",
+			"categories": ["Applications"]
+		},
+		{
+			"searchTerm": "Pocket Sonar",
 			"nameType": "short",
 			"categories": ["Applications"]
 		},
@@ -136,6 +151,9 @@
 			"titles": [
 				{"searchTerm": "Adventure Island II - Aliens in Paradise"},
 				{"searchTerm": "Takahashi Meijin no Bouken-jima III"}
+			],
+			"compilations": [
+				{"searchTerm": "Mani 4 in 1 - Takahashi Meijin no Bouken-jima II + GB Genjin + Bomber Boy + Milon no Meikyuu Kumikyoku", "titlePosition": 1}
 			]
 		},
 		{
@@ -167,6 +185,15 @@
 			]
 		},
 		{
+			"group": "Alleyway",
+			"titles": [
+				{"searchTerm": "Alleyway"}
+			],
+			"compilations": [
+				{"searchTerm": "Mani 4 in 1 - Tetris + Alleyway + Yakuman + Tennis", "titlePosition": 2}
+			]
+		},
+		{
 			"group": "Amazing Penguin",
 			"titles": [
 				{"searchTerm": "Amazing Penguin"},
@@ -194,6 +221,9 @@
 				{"searchTerm": "Atomic Punk"},
 				{"searchTerm": "Bomber Boy"},
 				{"searchTerm": "Dynablaster"}
+			],
+			"compilations": [
+				{"searchTerm": "Mani 4 in 1 - Takahashi Meijin no Bouken-jima II + GB Genjin + Bomber Boy + Milon no Meikyuu Kumikyoku", "titlePosition": 3}
 			]
 		},
 		{
@@ -209,6 +239,9 @@
 				{"searchTerm": "Bonk's Adventure"},
 				{"searchTerm": "B.C. Kid"},
 				{"searchTerm": "GB Genjin"}
+			],
+			"compilations": [
+				{"searchTerm": "Mani 4 in 1 - Takahashi Meijin no Bouken-jima II + GB Genjin + Bomber Boy + Milon no Meikyuu Kumikyoku", "titlePosition": 2}
 			]
 		},
 		{
@@ -262,6 +295,13 @@
 			]
 		},
 		{
+			"group": "Bill & Ted's Excellent Game Boy Adventure - A Bogus Journey!",
+			"titles": [
+				{"searchTerm": "Bill & Ted's Excellent Game Boy Adventure - A Bogus Journey!"},
+				{"searchTerm": "Bill & Ted's Excellent Portable Adventure - A Bogus Journey!"}
+			]
+		},
+		{
 			"group": "Bionic Battler",
 			"titles": [
 				{"searchTerm": "Bionic Battler"},
@@ -288,6 +328,13 @@
 				{"searchTerm": "Blaster Master Boy"},
 				{"searchTerm": "Blaster Master Jr."},
 				{"searchTerm": "Bomber King - Scenario 2"}
+			]
+		},
+		{
+			"group": "Blues Brothers, The",
+			"titles": [
+				{"searchTerm": "Blues Brothers, The"},
+				{"searchTerm": "Blues Brothers"}
 			]
 		},
 		{
@@ -324,6 +371,16 @@
 				{"searchTerm": "Brain Bender"},
 				{"searchTerm": "Migrain"},
 				{"searchTerm": "Mind Bender", "priority": 2}
+			]
+		},
+		{
+			"group": "Bubble Bobble",
+			"titles": [
+				{"searchTerm": "Bubble Bobble"}
+			],
+			"compilations": [
+				{"searchTerm": "Taito Variety Pack"},
+				{"searchTerm": "Mani 4 in 1 - Bubble Bobble + Elevator Action + Chase H.Q. + Sagaia"}
 			]
 		},
 		{
@@ -423,6 +480,10 @@
 			"titles": [
 				{"searchTerm": "Chase H.Q."},
 				{"searchTerm": "Taito Chase H.Q."}
+			],
+			"compilations": [
+				{"searchTerm": "Taito Variety Pack"},
+				{"searchTerm": "Mani 4 in 1 - Bubble Bobble + Elevator Action + Chase H.Q. + Sagaia"}
 			]
 		},
 		{
@@ -530,6 +591,16 @@
 			"titles": [
 				{"searchTerm": "Dragon's Lair - The Legend"},
 				{"searchTerm": "Dragon's Lair"}
+			]
+		},
+		{
+			"group": "Elevator Action",
+			"titles": [
+				{"searchTerm": "Elevator Action"}
+			],
+			"compilations": [
+				{"searchTerm": "Taito Variety Pack"},
+				{"searchTerm": "Mani 4 in 1 - Bubble Bobble + Elevator Action + Chase H.Q. + Sagaia"}
 			]
 		},
 		{
@@ -648,10 +719,28 @@
 			]
 		},
 		{
+			"group": "Ganso!! Yancha Maru",
+			"titles": [
+				{"searchTerm": "Ganso!! Yancha Maru"}
+			],
+			"compilations": [
+				{"searchTerm": "Mani 4 in 1 - R-Type II + Saigo no Nindou + Ganso!! Yancha Maru + Shisenshou - Match-Mania", "titlePosition": 3}
+			]
+		},
+		{
 			"group": "Gargoyle's Quest",
 			"titles": [
 				{"searchTerm": "Gargoyle's Quest"},
 				{"searchTerm": "Red Arremer - Makaimura Gaiden"}
+			]
+		},
+		{
+			"group": "Genki Bakuhatsu Gambaruger",
+			"titles": [
+				{"searchTerm": "Genki Bakuhatsu Gambaruger"}
+			],
+			"compilations": [
+				{"searchTerm": "Mani 4 in 1 - Genki Bakuhatsu Gambaruger + Zettai Muteki Raijin-Oh + Zoids Densetsu + Miracle Adventure of Esparks - Ushinawareta Seiseki Perivron", "titlePosition": 1}
 			]
 		},
 		{
@@ -999,6 +1088,18 @@
 			"titles": [
 				{"searchTerm": "Milon's Secret Castle"},
 				{"searchTerm": "Milon no Meikyuu Kumikyoku"}
+			],
+			"compilations": [
+				{"searchTerm": "Mani 4 in 1 - Takahashi Meijin no Bouken-jima II + GB Genjin + Bomber Boy + Milon no Meikyuu Kumikyoku", "titlePosition": 4}
+			]
+		},
+		{
+			"group": "Miracle Adventure of Esparks - Ushinawareta Seiseki Perivron",
+			"titles": [
+				{"searchTerm": "Miracle Adventure of Esparks - Ushinawareta Seiseki Perivron"}
+			],
+			"compilations": [
+				{"searchTerm": "Mani 4 in 1 - Genki Bakuhatsu Gambaruger + Zettai Muteki Raijin-Oh + Zoids Densetsu + Miracle Adventure of Esparks - Ushinawareta Seiseki Perivron", "titlePosition": 4}
 			]
 		},
 		{
@@ -1013,6 +1114,9 @@
 			"titles": [
 				{"searchTerm": "Mortal Kombat"},
 				{"searchTerm": "Mortal Kombat - Shinken Kourin Densetsu"}
+			],
+			"compilations": [
+				{"searchTerm": "Mortal Kombat & Mortal Kombat II"}
 			]
 		},
 		{
@@ -1020,6 +1124,9 @@
 			"titles": [
 				{"searchTerm": "Mortal Kombat II"},
 				{"searchTerm": "Mortal Kombat II - Kyuukyoku Shinken"}
+			],
+			"compilations": [
+				{"searchTerm": "Mortal Kombat & Mortal Kombat II"}
 			]
 		},
 		{
@@ -1213,6 +1320,15 @@
 			]
 		},
 		{
+			"group": "R-Type II",
+			"titles": [
+				{"searchTerm": "R-Type II"}
+			],
+			"compilations": [
+				{"searchTerm": "Mani 4 in 1 - R-Type II + Saigo no Nindou + Ganso!! Yancha Maru + Shisenshou - Match-Mania", "titlePosition": 1}
+			]
+		},
+		{
 			"group": "Radar Mission",
 			"titles": [
 				{"searchTerm": "Radar Mission"},
@@ -1263,10 +1379,38 @@
 			]
 		},
 		{
+			"group": "Sagaia",
+			"titles": [
+				{"searchTerm": "Sagaia"}
+			],
+			"compilations": [
+				{"searchTerm": "Taito Variety Pack"},
+				{"searchTerm": "Mani 4 in 1 - Bubble Bobble + Elevator Action + Chase H.Q. + Sagaia"}
+			]
+		},
+		{
+			"group": "Saigo no Nindou",
+			"titles": [
+				{"searchTerm": "Saigo no Nindou"}
+			],
+			"compilations": [
+				{"searchTerm": "Mani 4 in 1 - R-Type II + Saigo no Nindou + Ganso!! Yancha Maru + Shisenshou - Match-Mania", "titlePosition": 2}
+			]
+		},
+		{
 			"group": "Samurai Shodown",
 			"titles": [
 				{"searchTerm": "Samurai Shodown"},
 				{"searchTerm": "Nettou Samurai Spirits"}
+			]
+		},
+		{
+			"group": "Shisenshou - Match-Mania",
+			"titles": [
+				{"searchTerm": "Shisenshou - Match-Mania"}
+			],
+			"compilations": [
+				{"searchTerm": "Mani 4 in 1 - R-Type II + Saigo no Nindou + Ganso!! Yancha Maru + Shisenshou - Match-Mania", "titlePosition": 4}
 			]
 		},
 		{
@@ -1525,6 +1669,24 @@
 			]
 		},
 		{
+			"group": "Tennis",
+			"titles": [
+				{"searchTerm": "Tennis"}
+			],
+			"compilations": [
+				{"searchTerm": "Mani 4 in 1 - Tetris + Alleyway + Yakuman + Tennis", "titlePosition": 4}
+			]
+		},
+		{
+			"group": "Tetris",
+			"titles": [
+				{"searchTerm": "Tetris"}
+			],
+			"compilations": [
+				{"searchTerm": "Mani 4 in 1 - Tetris + Alleyway + Yakuman + Tennis", "titlePosition": 1}
+			]
+		},
+		{
 			"group": "Tetris 2",
 			"titles": [
 				{"searchTerm": "Tetris 2"},
@@ -1706,6 +1868,15 @@
 			]
 		},
 		{
+			"group": "Yakuman",
+			"titles": [
+				{"searchTerm": "Yakuman"}
+			],
+			"compilations": [
+				{"searchTerm": "Mani 4 in 1 - Tetris + Alleyway + Yakuman + Tennis", "titlePosition": 3}
+			]
+		},
+		{
 			"group": "Yoshi",
 			"titles": [
 				{"searchTerm": "Yoshi"},
@@ -1718,6 +1889,24 @@
 			"titles": [
 				{"searchTerm": "Yoshi's Cookie"},
 				{"searchTerm": "Yoshi no Cookie"}
+			]
+		},
+		{
+			"group": "Zettai Muteki Raijin-Oh",
+			"titles": [
+				{"searchTerm": "Zettai Muteki Raijin-Oh"}
+			],
+			"compilations": [
+				{"searchTerm": "Mani 4 in 1 - Genki Bakuhatsu Gambaruger + Zettai Muteki Raijin-Oh + Zoids Densetsu + Miracle Adventure of Esparks - Ushinawareta Seiseki Perivron", "titlePosition": 2}
+			]
+		},
+		{
+			"group": "Zoids Densetsu",
+			"titles": [
+				{"searchTerm": "Zoids Densetsu"}
+			],
+			"compilations": [
+				{"searchTerm": "Mani 4 in 1 - Genki Bakuhatsu Gambaruger + Zettai Muteki Raijin-Oh + Zoids Densetsu + Miracle Adventure of Esparks - Ushinawareta Seiseki Perivron", "titlePosition": 3}
 			]
 		},
 		{

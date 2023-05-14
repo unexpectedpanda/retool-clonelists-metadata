@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Retool test",
-		"lastUpdated": "9 January 2023",
+		"lastUpdated": "27 March 2023",
 		"minimumVersion": "2.00.0"
 	},
 
@@ -155,7 +155,7 @@
 			"group": "Title H",
 			"compilations": [
 				{"searchTerm": "Title F + Title H", "titlePosition": 2},
-				{"searchTerm": "Title G + Title H", "titlePosition": 2}
+				{"searchTerm": "Title G + Title H", "priority": 2, "titlePosition": 2}
 			]
 		},
 		{
@@ -194,7 +194,7 @@
 			],
 			"compilations": [
 				{"searchTerm": "Title J + Title K + Title L", "titlePosition": 3},
-				{"searchTerm": "Title L + Title M", "titlePosition": 1}
+				{"searchTerm": "Title L + Title M", "titlePosition": 1, "priority": 2}
 			]
 		},
 		{
@@ -204,7 +204,7 @@
 			],
 			"compilations": [
 				{"searchTerm": "Title I + Title M", "titlePosition": 2},
-				{"searchTerm": "Title L + Title M", "titlePosition": 2}
+				{"searchTerm": "Title L + Title M", "titlePosition": 2, "priority": 2}
 			]
 		},
 		{
@@ -245,6 +245,94 @@
 			],
 			"compilations": [
 				{"searchTerm": "Every Title All At Once"}
+			]
+		},
+		{
+			"group": "Title P",
+			"titles": [
+				{"searchTerm": "Title P"}
+			],
+			"compilations": [
+				{"searchTerm": "Title P + Title Q"},
+				{"searchTerm": "Title P + Title Q + Title R"},
+				{"searchTerm": "Title P + Title Q + Title R from another publisher", "priority": 2}
+			]
+		},
+		{
+			"group": "Title Q",
+			"titles": [
+				{"searchTerm": "Title Q"}
+			],
+			"compilations": [
+				{"searchTerm": "Title P + Title Q"},
+				{"searchTerm": "Title P + Title Q + Title R"},
+				{"searchTerm": "Title P + Title Q + Title R from another publisher", "priority": 2}
+			]
+		},
+		{
+			"group": "Title R",
+			"titles": [
+				{"searchTerm": "Title R"}
+			],
+			"compilations": [
+				{"searchTerm": "Title P + Title Q + Title R"},
+				{"searchTerm": "Title P + Title Q + Title R from another publisher", "priority": 2}
+			]
+		},
+		{
+			"group": "Title S I",
+			"titles": [
+				{"searchTerm": "Title S I"}
+			],
+			"compilations": [
+				{"searchTerm": "Title S I & SII"}
+			]
+		},
+		{
+			"group": "Title S II",
+			"titles": [
+				{"searchTerm": "Title S II"}
+			],
+			"compilations": [
+				{"searchTerm": "Title S I & SII"}
+			]
+		},
+		{
+			"group": "Title T",
+			"titles": [
+				{"searchTerm": "Title T"}
+			],
+			"compilations": [
+				{"searchTerm": "Title T and Title U"}
+			]
+		},
+		{
+			"group": "Title U",
+			"titles": [
+				{"searchTerm": "Title U"}
+			],
+			"compilations": [
+				{"searchTerm": "Title T and Title U"}
+			]
+		},
+		{
+			"group": "Title V",
+			"titles": [
+				{"searchTerm": "Title V"}
+			],
+			"compilations": [
+				{"searchTerm": "Title V + Title W Genteiban"},
+				{"searchTerm": "Title V + Title W", "priority": 2}
+			]
+		},
+		{
+			"group": "Title W",
+			"titles": [
+				{"searchTerm": "Title W"}
+			],
+			"compilations": [
+				{"searchTerm": "Title V + Title W Genteiban"},
+				{"searchTerm": "Title V + Title W", "priority": 2}
 			]
 		}
 	]
