@@ -38,7 +38,22 @@
 
 	"overrides": [
 		{
-			"searchTerm": "^Micro Machines V4 \\((USA|Europe)\\)(.*?)",
+			"searchTerm": "^GuitarFreaks & DrumMania V3.*",
+			"nameType": "regex",
+			"newGroup": "GuitarFreaks & DrumMania Veethree"
+		},
+		{
+			"searchTerm": "^GuitarFreaks V & DrumMania V.*",
+			"nameType": "regex",
+			"newGroup": "GuitarFreaks Vee & DrumMania Vee"
+		},
+		{
+			"searchTerm": "^GuitarFreaks V2 & DrumMania V2.*",
+			"nameType": "regex",
+			"newGroup": "GuitarFreaks Veetoo & DrumMania Veetoo"
+		},
+		{
+			"searchTerm": "^Micro Machines V4 \\((USA|Europe)\\).*",
 			"nameType": "regex",
 			"newGroup": "Micro Machines Veefour"
 		},
@@ -51,7 +66,7 @@
 			"newGroup": "MLB 2005"
 		},
 		{
-			"searchTerm": "^NBA Street V3 \\((USA|Europe|Japan|Korea)\\)(.*)?",
+			"searchTerm": "^NBA Street V3 \\((USA|Europe|Japan|Korea)\\).*",
 			"nameType": "regex",
 			"newGroup": "NBA Street Veethree"
 		}
@@ -708,7 +723,6 @@
 				{"searchTerm": "Buzz! Deutschlands Superquiz"},
 				{"searchTerm": "Buzz! Il Quizzone Nazionale"},
 				{"searchTerm": "Buzz! Le Plus Malin des Francais"},
-				{"searchTerm": "Buzz! Norgesmester"},
 				{"searchTerm": "Buzz! Que Sabes de tu Pais"}
 			]
 		},
@@ -716,7 +730,7 @@
 			"group": "Buzz! Junior - Monster Rumble",
 			"titles": [
 				{"searchTerm": "Buzz! Junior - Monster Rumble"},
-				{"searchTerm": "Buzz! Junior - Monsterspass"}
+				{"searchTerm": "Monsterspass"}
 			]
 		},
 		{
@@ -770,6 +784,7 @@
 		{
 			"group": "Buzz! The Sports Quiz",
 			"titles": [
+				{"searchTerm": "Big, The! Sports Quiz"},
 				{"searchTerm": "Buzz! Das Sport-Quiz"},
 				{"searchTerm": "Buzz! El Gran Concurso de Deportes"},
 				{"searchTerm": "Buzz! Sporttivisa"},
@@ -867,17 +882,17 @@
 			]
 		},
 		{
+			"group": "Charlotte's Web",
+			"titles": [
+				{"searchTerm": "Charlotte's Web"},
+				{"searchTerm": "Pajeczyna Charlotty"}
+			]
+		},
+		{
 			"group": "Check-i-TV (Kyou kara Check! Pack)",
 			"titles": [
 				{"searchTerm": "Check-i-TV (Kyou kara Check! Pack)"},
 				{"searchTerm": "Check-i-TV", "priority": 2}
-			]
-		},
-		{
-			"group": "Choro Q HG (Jenny Hi-Grade Box)",
-			"titles": [
-				{"searchTerm": "Choro Q HG (Jenny Hi-Grade Box)"},
-				{"searchTerm": "Choro Q HG", "priority": 2}
 			]
 		},
 		{
@@ -992,7 +1007,7 @@
 		{
 			"group": "Crash Bandicoot - The Wrath of Cortex",
 			"titles": [
-				{"searchTerm": "Crash Bandicoot - Mawangui Buwhal"},
+				{"searchTerm": "Crash Bandicoot - Mawangui Buhwal"},
 				{"searchTerm": "Crash Bandicoot - The Wrath of Cortex"},
 				{"searchTerm": "Crash Bandicoot 4 - Sakuretsu! Majin Power"}
 			]
@@ -2490,11 +2505,19 @@
 			]
 		},
 		{
-			"group": "Gadget Racers",
+			"group": "Gadget Racers Europe",
 			"titles": [
 				{"searchTerm": "Choro Q HG 3"},
-				{"searchTerm": "Gadget Racers"},
-				{"searchTerm": "Penny Racers"}
+				{"searchTerm": "Gadget Racers \\(Europe\\).*", "nameType": "regex"}
+			]
+		},
+		{
+			"group": "Gadget Racers USA",
+			"titles": [
+				{"searchTerm": "Choro Q HG (Jenny Hi-Grade Box)"},
+				{"searchTerm": "Gadget Racers \\(USA\\).*", "nameType": "regex"},
+				{"searchTerm": "Penny Racers"},
+				{"searchTerm": "Choro Q HG", "priority": 2}
 			]
 		},
 		{
@@ -2873,7 +2896,7 @@
 				{"searchTerm": "Hanjuku Hero 4 - 7-nin no Hanjuku Hero"}
 			],
 			"supersets": [
-				{"searchTerm": "Hanjuku Hero 4 - 7-nin no Hanjuku Hero (Ginga Hanjuku Bentou)"}
+				{"searchTerm": "Hanjuku Hero 4 - 7-nin no Hanjuku Hero (Hanjuku Ginga Bento)"}
 			]
 		},
 		{
@@ -2970,7 +2993,7 @@
 			]
 		},
 		{
-			"group": "Harukanaru Toki no Naka de - Hachiyou-shou (Premium Box)",
+			"group": "Harukanaru Toki no Naka de - Hachiyou-shou",
 			"titles": [
 				{"searchTerm": "Harukanaru Toki no Naka de - Hachiyou-shou (Premium Box)"},
 				{"searchTerm": "Harukanaru Toki no Naka de - Hachiyou-shou (History Box)", "priority": 2},
@@ -2985,18 +3008,18 @@
 			]
 		},
 		{
-			"group": "Harukanaru Toki no Naka de 3 - Izayoiki (Premium Box)",
+			"group": "Harukanaru Toki no Naka de 3",
 			"titles": [
-				{"searchTerm": "Harukanaru Toki no Naka de 3 - Izayoiki (Premium Box)"},
+				{"searchTerm": "Harukanaru Toki no Naka de 3 (History Box)"},
 				{"searchTerm": "Harukanaru Toki no Naka de 3 (Triple Pack)", "priority": 2},
-				{"searchTerm": "Harukanaru Toki no Naka de 3 (History Box)", "priority": 3},
-				{"searchTerm": "Harukanaru Toki no Naka de 3", "priority": 4}
+				{"searchTerm": "Harukanaru Toki no Naka de 3", "priority": 3}
 			]
 		},
 		{
-			"group": "Harukanaru Toki no Naka de 3 - Izayoiki (Triple Pack)",
+			"group": "Harukanaru Toki no Naka de 3 - Izayoiki",
 			"titles": [
-				{"searchTerm": "Harukanaru Toki no Naka de 3 - Izayoiki (Triple Pack)"},
+				{"searchTerm": "Harukanaru Toki no Naka de 3 - Izayoiki (Premium Box)"},
+				{"searchTerm": "Harukanaru Toki no Naka de 3 - Izayoiki (Triple Pack)", "priority": 2},
 				{"searchTerm": "Harukanaru Toki no Naka de 3 - Izayoiki", "priority": 2}
 			]
 		},
@@ -4224,15 +4247,15 @@
 			"group": "Metropolismania",
 			"titles": [
 				{"searchTerm": "Metropolismania"},
-				{"searchTerm": "Simple 2000 Series Vol. 39 - The Boku no Machi-zukuri - Machi-ing Maker++"}
+				{"searchTerm": "Simple 2000 Series Vol. 39 - The Boku no Machi-zukuri - Matching Maker++"}
 			]
 		},
 		{
 			"group": "Metropolismania 2",
 			"titles": [
 				{"searchTerm": "Metropolismania 2"},
-				{"searchTerm": "Simple 2000 Series Vol. 121 - The Boku no Machi-zukuri 2 - Machi-ing Maker 2.1"},
-				{"searchTerm": "Machi-ing Maker 2 - Zoku Boku no Machi-zukuri", "priority": 2}
+				{"searchTerm": "Simple 2000 Series Vol. 121 - The Boku no Machi-zukuri 2 - Matching Maker 2.1"},
+				{"searchTerm": "Matching Maker 2 - Zoku Boku no Machi-zukuri", "priority": 2}
 			]
 		},
 		{
@@ -5073,6 +5096,13 @@
 			]
 		},
 		{
+			"group": "PoPoLoCrois - Hajimari no Bouken",
+			"titles": [
+				{"searchTerm": "PoPoLoCrois - Hajimari no Bouken (Premium Box)"},
+				{"searchTerm": "PoPoLoCrois - Hajimari no Bouken", "priority": 2}
+			]
+		},
+		{
 			"group": "Pop Star Academy",
 			"titles": [
 				{"searchTerm": "Pop Star Academy"},
@@ -5448,6 +5478,7 @@
 		{
 			"group": "Road Trip",
 			"titles": [
+				{"searchTerm": "Choro Q HG 2"},
 				{"searchTerm": "Road Trip"},
 				{"searchTerm": "Road Trip Adventure"}
 			]
@@ -6002,7 +6033,7 @@
 		{
 			"group": "Shinobido - Way of the Ninja",
 			"titles": [
-				{"searchTerm": "Shinobi-dou - Imashime"},
+				{"searchTerm": "Shinobido - Imashime"},
 				{"searchTerm": "Shinobido - Way of the Ninja"}
 			]
 		},
@@ -6899,6 +6930,7 @@
 			"group": "Tokyo Xtreme Racer 3",
 			"titles": [
 				{"searchTerm": "Shutokou Battle 01"},
+				{"searchTerm": "Sudogo Battle 01"},
 				{"searchTerm": "Tokyo Xtreme Racer 3"}
 			]
 		},
@@ -7344,6 +7376,24 @@
 			]
 		},
 		{
+			"group": "World Soccer Winning Eleven 10",
+			"titles": [
+				{"searchTerm": "World Soccer Winning Eleven 10"}
+			],
+			"supersets": [
+				{"searchTerm": "World Soccer Winning Eleven 10 - Liveware Evolution"}
+			]
+		},
+		{
+			"group": "World Soccer Winning Eleven 9",
+			"titles": [
+				{"searchTerm": "World Soccer Winning Eleven 9"}
+			],
+			"supersets": [
+				{"searchTerm": "World Soccer Winning Eleven 9 - Liveware Evolution"}
+			]
+		},
+		{
 			"group": "Winning Post 4 Maximum",
 			"titles": [
 				{"searchTerm": "Winning Post 4 Maximum"}
@@ -7600,7 +7650,8 @@
 			"group": "Yakuza",
 			"titles": [
 				{"searchTerm": "Ryuu ga Gotoku"},
-				{"searchTerm": "Yakuza"}
+				{"searchTerm": "Yakuza"},
+				{"searchTerm": "Yonggwa Gachi"}
 			]
 		},
 		{
