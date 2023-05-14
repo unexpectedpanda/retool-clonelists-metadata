@@ -5957,7 +5957,7 @@
 	"L.A. Noire (Japan)": {
 		"languages": ["Ja"]
 	},
-	"L.A. Noire (USA) (En,Fr,De,Es,It)": {
+	"L.A. Noire (USA, Asia) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"L.A. Noire - The Complete Edition (Europe) (En,Fr,De,Es,It)": {
@@ -7570,6 +7570,9 @@
 	},
 	"NBA Live 09 (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"NBA Live 09 (Japan)": {
+		"languages": []
 	},
 	"NBA Live 09 (USA) (En,Fr)": {
 		"languages": ["En", "Fr"]
@@ -9272,7 +9275,7 @@
 	"Resident Evil 6 (Germany) (En,Fr,De,Es,It,Pt,Pl,Ru)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Pl", "Pt", "Ru"]
 	},
-	"Resident Evil 6 (USA) (En,Fr,De,Es,It,Pt,Pl,Ru)": {
+	"Resident Evil 6 (USA, Asia) (En,Fr,De,Es,It,Pt,Pl,Ru)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Pl", "Pt", "Ru"]
 	},
 	"Resistance - Fall of Man (Asia) (En,Ja,Fr,De,Es,It,Nl,Pt,Ko)": {
@@ -10211,6 +10214,9 @@
 	"SingStar (Germany) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)": {
 		"languages": ["Da", "De", "En", "Es", "Fi", "Fr", "It", "Nl", "No", "Pt", "Sv"]
 	},
+	"SingStar (Norway)": {
+		"languages": []
+	},
 	"SingStar (Spain) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)": {
 		"languages": ["Da", "De", "En", "Es", "Fi", "Fr", "It", "Nl", "No", "Pt", "Sv"]
 	},
@@ -10373,8 +10379,14 @@
 	"SingStar Studio 100 (Netherlands) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru)": {
 		"languages": ["Da", "De", "En", "Es", "Fi", "Fr", "It", "Nl", "No", "Pl", "Pt", "Ru", "Sv"]
 	},
+	"SingStar SuomiBileet (Finland) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,Tr)": {
+		"languages": ["Da", "De", "En", "Es", "Fi", "Fr", "It", "Nl", "No", "Pl", "Pt", "Ru", "Sv", "Tr"]
+	},
 	"SingStar SuomiHelmet (Finland) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,Af)": {
 		"languages": ["Af", "Da", "De", "En", "Es", "Fi", "Fr", "It", "Nl", "No", "Pl", "Pt", "Ru", "Sv"]
+	},
+	"SingStar SuomiHitit (Finland) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru)": {
+		"languages": ["Da", "De", "En", "Es", "Fi", "Fr", "It", "Nl", "No", "Pl", "Pt", "Ru", "Sv"]
 	},
 	"SingStar SuomiHuiput (Finland) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,Af)": {
 		"languages": ["Af", "Da", "De", "En", "Es", "Fi", "Fr", "It", "Nl", "No", "Pl", "Pt", "Ru", "Sv"]
@@ -12685,6 +12697,9 @@
 	},
 	"World Soccer Winning Eleven 2015 (Japan)": {
 		"languages": []
+	},
+	"World Soccer Winning Eleven 2015 (Korea) (En,Zh,Ko)": {
+		"languages": ["En", "Ko", "Zh"]
 	},
 	"World of Outlaws - Sprint Cars (Europe)": {
 		"languages": ["En"]

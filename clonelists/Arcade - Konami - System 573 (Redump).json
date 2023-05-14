@@ -1,0 +1,33 @@
+{
+	"description": {
+		"name": "Arcade - Konami - System 573 (Redump)",
+		"lastUpdated": "13 May 2023",
+		"minimumVersion": "2.00"
+	},
+
+	"variants": [
+		{
+			"group": "Dance Dance Revolution 3rd Mix",
+			"titles": [
+				{"searchTerm": "Dance Dance Revolution 3rd Mix"}
+			],
+            "supersets": [
+                {"searchTerm": "Dance Dance Revolution 3rd Mix Plus"}
+            ]
+		},
+        {
+            "group": "Fisherman's Bait - A Bass Challenge",
+            "titles": [
+                {"searchTerm": "Fisherman's Bait - A Bass Challenge (UAB)"},
+                {"searchTerm": "Fisherman's Bait - A Bass Challenge (UAA)", "priority": 2}
+            ]
+        },
+        {
+            "group": "GX700 Series CD-ROM Drive Updater",
+            "titles": [
+                {"searchTerm": "GX700 Series CD-ROM Drive Updater 2.0"},
+                {"searchTerm": "GX700 Series CD-ROM Drive Updater", "priority": 2}
+            ]
+        }
+	]
+}

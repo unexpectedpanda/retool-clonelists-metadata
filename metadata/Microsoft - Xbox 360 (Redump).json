@@ -1661,6 +1661,9 @@
 	"Crysis 2 (World) (En,Fr)": {
 		"languages": ["En", "Fr"]
 	},
+	"Crysis 3 (Europe)": {
+		"languages": ["En"]
+	},
 	"Crysis 3 (Europe) (Es,It)": {
 		"languages": ["Es", "It"]
 	},
@@ -1721,8 +1724,11 @@
 	"Dance Dance Revolution Universe (USA) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
 	},
-	"Dance Dance Revolution Universe 3 (USA, Korea) (En,Fr,De,Es,It)": {
-		"languages": ["De", "En", "Es", "Fr", "It"]
+	"Dance Dance Revolution Universe 3 (USA, Korea) (En,Fr,Es)": {
+		"languages": ["En", "Es", "Fr"]
+	},
+	"Dance Dance Revolution Universe 3 - Chinese Songs Special Edition (Asia) (En,Fr,Es)": {
+		"languages": ["En", "Es", "Fr"]
 	},
 	"Dance Evolution (Japan, Europe)": {
 		"languages": []
@@ -4538,6 +4544,9 @@
 	"Just Dance 4 (Europe)": {
 		"languages": []
 	},
+	"Just Dance 4 (Europe) (Rev 1)": {
+		"languages": ["En"]
+	},
 	"Just Dance 4 (USA)": {
 		"languages": []
 	},
@@ -4631,10 +4640,10 @@
 	"Kinect Rush - A Disney-Pixar Adventure (USA)": {
 		"languages": []
 	},
-	"Kinect Sesame Street TV (Europe, Asia) (Volume 1 - Growing Up)": {
+	"Kinect Sesame Street TV (World) (Volume 1 - Growing Up)": {
 		"languages": ["En"]
 	},
-	"Kinect Sesame Street TV (Europe, Asia) (Volume 2 - Science)": {
+	"Kinect Sesame Street TV (World) (Volume 2 - Science)": {
 		"languages": ["En"]
 	},
 	"Kinect Sports (World)": {
@@ -5207,6 +5216,9 @@
 	"Marvel - Ultimate Alliance (USA, Europe)": {
 		"languages": ["En"]
 	},
+	"Marvel - Ultimate Alliance - Special Edition (USA)": {
+		"languages": []
+	},
 	"Marvel - Ultimate Alliance 2 (USA)": {
 		"languages": ["En"]
 	},
@@ -5477,11 +5489,11 @@
 	"Metro 2033 (USA, Europe) (En,Fr,Es,It,Nl)": {
 		"languages": ["En", "Es", "Fr", "It", "Nl"]
 	},
-	"Michael Jackson - The Experience (Europe) (En,Fr,De,Es,It)": {
-		"languages": ["De", "En", "Es", "Fr", "It"]
-	},
 	"Michael Jackson - The Experience (Japan)": {
 		"languages": ["Ja"]
+	},
+	"Michael Jackson - The Experience (USA, Europe) (En,Fr,De,Es,It)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Michael Phelps - Push the Limit (USA, Europe)": {
 		"languages": []
