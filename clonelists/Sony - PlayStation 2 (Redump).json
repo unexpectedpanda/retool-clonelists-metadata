@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Sony - PlayStation 2 (Redump)",
-		"lastUpdated": "17 March 2023",
+		"lastUpdated": "07 April 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -19,41 +19,41 @@
 		{
 			"searchTerm": "^Konami Kids Playground -.*",
 			"nameType": "regex",
-			"categories": ["Educational"]
+			"categories": ["Educational, Games"]
 		}
 	],
 
 	"mias": [
-		"Armored Core - Last Raven (Japan) (Champion Tokubetsu-ban)",
-		"Castlevania (Japan) (En,Ja) (Genteiban)",
-		"Ferrari Challenge - Trofeo Pirelli (Europe) (En,Fr,De,Es,It) (v2.00)",
 		"Gran Turismo - Subaru Driving Simulator Version (Japan)",
 		"Gran Turismo 3 - A-Spec - Autobacs Tentou Shiyuu Disc (Japan)",
 		"Gran Turismo 4 - Lupo Cup Training Version (Japan)",
-		"Grandia Xtreme (Japan) (Limited Box)",
-		"Hanjuku Hero 4 - 7-nin no Hanjuku Hero (Japan) (Ginga Hanjuku Bentou)",
-		"Idol Janshi Suchie-Pai IV (Japan) (Collector's Edition)",
 		"Karat PS2-you Pro Action Replay 2 (Japan) (Unl) (Version 2.23)",
-		"LEGO Super Soccer Adventure (Europe) (Proto)",
+		"LEGO Super Soccer Adventure (Europe) (Proto 2)",
+		"LEGO Super Soccer Adventure (Europe) (Proto 3)",
 		"Medical and Engineering Joint Entrance Quiz (India)",
-		"Ougon Kishi Garo (Japan) (Genteiban)",
-		"Phase of Combat - Sentou Kokka Kai Legend (Japan) (Tokusou-ban)",
-		"Pop'n Music 10 (Japan) (Controller Set)",
-		"Pro Yakyuu Spirits 5 (Japan) (v2.00)",
-		"Sega Ages 2500 Series Vol. 22 - Advanced Daisenryaku - Deutsch Dengeki Sakusen (Japan) (v3.00)",
 		"Simple 2000 Series - The Daemiin (Korea)",
-		"SingStar '80s (Sweden) (v1.00)",
-		"Soulcalibur III (Japan) (Taikenban Special Disk)",
-		"Time Crisis 3 (Japan) (With GunCon2)",
-		"Uchuu Senkan Yamato - Ankoku Seidan Teikoku no Gyakushuu (Japan)",
-		"Wizardry Empire III - Haou no Keifu (Japan) (Good Price - Suuryou Genteiban)",
-		"Zeonic Front - Kidou Senshi Gundam 0079 (Japan) (Tokubetsu-ban)",
-		"ef - A Fairy Tale of the Two. (Japan)"
+		"Taz - Wanted (Europe) (Beta 1)",
+		"Taz - Wanted (Europe) (Beta 2)"
 	],
 
 	"overrides": [
 		{
-			"searchTerm": "^Micro Machines V4 \\((USA|Europe)\\)(.*?)",
+			"searchTerm": "^GuitarFreaks & DrumMania V3.*",
+			"nameType": "regex",
+			"newGroup": "GuitarFreaks & DrumMania Veethree"
+		},
+		{
+			"searchTerm": "^GuitarFreaks V & DrumMania V.*",
+			"nameType": "regex",
+			"newGroup": "GuitarFreaks Vee & DrumMania Vee"
+		},
+		{
+			"searchTerm": "^GuitarFreaks V2 & DrumMania V2.*",
+			"nameType": "regex",
+			"newGroup": "GuitarFreaks Veetoo & DrumMania Veetoo"
+		},
+		{
+			"searchTerm": "^Micro Machines V4 \\((USA|Europe)\\).*",
 			"nameType": "regex",
 			"newGroup": "Micro Machines Veefour"
 		},
@@ -66,7 +66,7 @@
 			"newGroup": "MLB 2005"
 		},
 		{
-			"searchTerm": "^NBA Street V3 \\((USA|Europe|Japan|Korea)\\)(.*)?",
+			"searchTerm": "^NBA Street V3 \\((USA|Europe|Japan|Korea)\\).*",
 			"nameType": "regex",
 			"newGroup": "NBA Street Veethree"
 		}
@@ -723,7 +723,6 @@
 				{"searchTerm": "Buzz! Deutschlands Superquiz"},
 				{"searchTerm": "Buzz! Il Quizzone Nazionale"},
 				{"searchTerm": "Buzz! Le Plus Malin des Francais"},
-				{"searchTerm": "Buzz! Norgesmester"},
 				{"searchTerm": "Buzz! Que Sabes de tu Pais"}
 			]
 		},
@@ -785,13 +784,13 @@
 		{
 			"group": "Buzz! The Sports Quiz",
 			"titles": [
+				{"searchTerm": "Big, The! Sports Quiz"},
 				{"searchTerm": "Buzz! Das Sport-Quiz"},
 				{"searchTerm": "Buzz! El Gran Concurso de Deportes"},
 				{"searchTerm": "Buzz! Sporttivisa"},
 				{"searchTerm": "Buzz! Le Quiz du Sport"},
 				{"searchTerm": "Buzz! O Quiz Desportivo"},
-				{"searchTerm": "Buzz! The Sports Quiz"},
-				{"searchTerm": "The Big! Sports Quiz"}
+				{"searchTerm": "Buzz! The Sports Quiz"}
 			]
 		},
 		{
@@ -885,6 +884,7 @@
 		{
 			"group": "Charlotte's Web",
 			"titles": [
+				{"searchTerm": "Charlotte's Web"},
 				{"searchTerm": "Pajeczyna Charlotty"}
 			]
 		},
@@ -893,13 +893,6 @@
 			"titles": [
 				{"searchTerm": "Check-i-TV (Kyou kara Check! Pack)"},
 				{"searchTerm": "Check-i-TV", "priority": 2}
-			]
-		},
-		{
-			"group": "Choro Q HG (Jenny Hi-Grade Box)",
-			"titles": [
-				{"searchTerm": "Choro Q HG (Jenny Hi-Grade Box)"},
-				{"searchTerm": "Choro Q HG", "priority": 2}
 			]
 		},
 		{
@@ -1014,7 +1007,7 @@
 		{
 			"group": "Crash Bandicoot - The Wrath of Cortex",
 			"titles": [
-				{"searchTerm": "Crash Bandicoot - Mawangui Buwhal"},
+				{"searchTerm": "Crash Bandicoot - Mawangui Buhwal"},
 				{"searchTerm": "Crash Bandicoot - The Wrath of Cortex"},
 				{"searchTerm": "Crash Bandicoot 4 - Sakuretsu! Majin Power"}
 			]
@@ -2510,12 +2503,21 @@
 				{"searchTerm": "GI Jockey 4 (Twin Pack)"},
 				{"searchTerm": "GI Jockey 4", "priority": 2}
 			]
-		},		
+		},
 		{
-			"group": "Gadget Racers",
+			"group": "Gadget Racers Europe",
 			"titles": [
 				{"searchTerm": "Choro Q HG 3"},
-				{"searchTerm": "Gadget Racers Europe"}
+				{"searchTerm": "Gadget Racers \\(Europe\\).*", "nameType": "regex"}
+			]
+		},
+		{
+			"group": "Gadget Racers USA",
+			"titles": [
+				{"searchTerm": "Choro Q HG (Jenny Hi-Grade Box)"},
+				{"searchTerm": "Gadget Racers \\(USA\\).*", "nameType": "regex"},
+				{"searchTerm": "Penny Racers"},
+				{"searchTerm": "Choro Q HG", "priority": 2}
 			]
 		},
 		{
@@ -2853,24 +2855,6 @@
 			]
 		},
 		{
-			"group": "GuitarFreaks & DrumMania V3",
-			"titles": [
-				{"searchTerm": "GuitarFreaks & DrumMania V3"}
-			]
-		},
-		{
-			"group": "GuitarFreaks V & DrumMania V",
-			"titles": [
-				{"searchTerm": "GuitarFreaks V & DrumMania V"}
-			]
-		},
-		{
-			"group": "GuitarFreaks V2 & DrumMania V2",
-			"titles": [
-				{"searchTerm": "GuitarFreaks V2 & DrumMania V2"}
-			]
-		},
-		{
 			"group": "Gunbird Special Edition",
 			"titles": [
 				{"searchTerm": "Gunbird - Premium Package"},
@@ -2912,7 +2896,7 @@
 				{"searchTerm": "Hanjuku Hero 4 - 7-nin no Hanjuku Hero"}
 			],
 			"supersets": [
-				{"searchTerm": "Hanjuku Hero 4 - 7-nin no Hanjuku Hero (Ginga Hanjuku Bentou)"}
+				{"searchTerm": "Hanjuku Hero 4 - 7-nin no Hanjuku Hero (Hanjuku Ginga Bento)"}
 			]
 		},
 		{
@@ -3009,7 +2993,7 @@
 			]
 		},
 		{
-			"group": "Harukanaru Toki no Naka de - Hachiyou-shou (Premium Box)",
+			"group": "Harukanaru Toki no Naka de - Hachiyou-shou",
 			"titles": [
 				{"searchTerm": "Harukanaru Toki no Naka de - Hachiyou-shou (Premium Box)"},
 				{"searchTerm": "Harukanaru Toki no Naka de - Hachiyou-shou (History Box)", "priority": 2},
@@ -3024,7 +3008,7 @@
 			]
 		},
 		{
-			"group": "Harukanaru Toki no Naka de 3 (History Box)",
+			"group": "Harukanaru Toki no Naka de 3",
 			"titles": [
 				{"searchTerm": "Harukanaru Toki no Naka de 3 (History Box)"},
 				{"searchTerm": "Harukanaru Toki no Naka de 3 (Triple Pack)", "priority": 2},
@@ -3032,11 +3016,11 @@
 			]
 		},
 		{
-			"group": "Harukanaru Toki no Naka de 3 - Izayoiki (Premium Box)",
+			"group": "Harukanaru Toki no Naka de 3 - Izayoiki",
 			"titles": [
 				{"searchTerm": "Harukanaru Toki no Naka de 3 - Izayoiki (Premium Box)"},
 				{"searchTerm": "Harukanaru Toki no Naka de 3 - Izayoiki (Triple Pack)", "priority": 2},
-				{"searchTerm": "Harukanaru Toki no Naka de 3", "priority": 3}
+				{"searchTerm": "Harukanaru Toki no Naka de 3 - Izayoiki", "priority": 2}
 			]
 		},
 		{
@@ -4199,6 +4183,20 @@
 			]
 		},
 		{
+			"group": "Metal Slug",
+			"compilations": [
+				{"searchTerm": "Metal Slug Anthology"},
+				{"searchTerm": "Metal Slug Complete"}
+			]
+		},
+		{
+			"group": "Metal Slug 2",
+			"compilations": [
+				{"searchTerm": "Metal Slug Anthology"},
+				{"searchTerm": "Metal Slug Complete"}
+			]
+		},
+		{
 			"group": "Metal Slug 3",
 			"titles": [
 				{"searchTerm": "Metal Slug 3"}
@@ -4239,6 +4237,13 @@
 			]
 		},
 		{
+			"group": "Metal Slug X",
+			"compilations": [
+				{"searchTerm": "Metal Slug Anthology"},
+				{"searchTerm": "Metal Slug Complete"}
+			]
+		},
+		{
 			"group": "Metropolismania",
 			"titles": [
 				{"searchTerm": "Metropolismania"},
@@ -4261,18 +4266,6 @@
 			]
 		},
 		{
-			"group": "Micro Machines",
-			"titles": [
-				{"searchTerm": "Micro Machines"}
-			]
-		},
-		{
-			"group": "Micro Machines V4",
-			"titles": [
-				{"searchTerm": "Micro Machines V4"}
-			]
-		},
-		{
 			"group": "Midnight Club 3 - DUB Edition",
 			"titles": [
 				{"searchTerm": "Midnight Club 3 - DUB Edition"}
@@ -4281,7 +4274,6 @@
 				{"searchTerm": "Midnight Club 3 - DUB Edition Remix"}
 			]
 		},
-		
 		{
 			"group": "Minority Report - Everybody Runs",
 			"titles": [
@@ -4541,22 +4533,10 @@
 			]
 		},
 		{
-			"group": "NBA Street",
-			"titles": [
-				{"searchTerm": "NBA Street"}
-			]
-		},
-		{
 			"group": "NBA Street Vol. 2",
 			"titles": [
 				{"searchTerm": "NBA Street 2 - Dunk Tengoku"},
 				{"searchTerm": "NBA Street Vol. 2"}
-			]
-		},
-		{
-			"group": "NBA Street V3",
-			"titles": [
-				{"searchTerm": "NBA Street V3"}
 			]
 		},
 		{
@@ -4929,15 +4909,6 @@
 				{"searchTerm": "Party Girls"},
 				{"searchTerm": "Simple 2000 Series Vol. 63 - Mogitate Mizugi! Onna Mamire no - The Suiei Taikai"}
 			]
-		},		
-		{
-			"group": "Penny Racers",
-			"titles": [
-				{"searchTerm": "Choro Q HG"},
-				{"searchTerm": "Choro Q HG (Jenny Hi-Grade Box)"},
-				{"searchTerm": "Gadget Racers"},
-				{"searchTerm": "Penny Racers"}
-			]
 		},
 		{
 			"group": "Persona 3 FES (Append-ban)",
@@ -5122,6 +5093,13 @@
 			"titles": [
 				{"searchTerm": "Pool Paradise"},
 				{"searchTerm": "Pool Paradise - International Edition"}
+			]
+		},
+		{
+			"group": "PoPoLoCrois - Hajimari no Bouken",
+			"titles": [
+				{"searchTerm": "PoPoLoCrois - Hajimari no Bouken (Premium Box)"},
+				{"searchTerm": "PoPoLoCrois - Hajimari no Bouken", "priority": 2}
 			]
 		},
 		{
@@ -5500,6 +5478,7 @@
 		{
 			"group": "Road Trip",
 			"titles": [
+				{"searchTerm": "Choro Q HG 2"},
 				{"searchTerm": "Road Trip"},
 				{"searchTerm": "Road Trip Adventure"}
 			]
@@ -7394,6 +7373,24 @@
 			"titles": [
 				{"searchTerm": "Pro Evolution Soccer 6"},
 				{"searchTerm": "Winning Eleven - Pro Evolution Soccer 2007"}
+			]
+		},
+		{
+			"group": "World Soccer Winning Eleven 10",
+			"titles": [
+				{"searchTerm": "World Soccer Winning Eleven 10"}
+			],
+			"supersets": [
+				{"searchTerm": "World Soccer Winning Eleven 10 - Liveware Evolution"}
+			]
+		},
+		{
+			"group": "World Soccer Winning Eleven 9",
+			"titles": [
+				{"searchTerm": "World Soccer Winning Eleven 9"}
+			],
+			"supersets": [
+				{"searchTerm": "World Soccer Winning Eleven 9 - Liveware Evolution"}
 			]
 		},
 		{
