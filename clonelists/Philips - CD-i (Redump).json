@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Philips - CD-i (Redump)",
-		"lastUpdated": "30 April 2023",
+		"lastUpdated": "14 May 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -253,15 +253,16 @@
 			]
 		},
 		{
-			"group": "Harvest of the Sun - Van Gogh - Une Moisson de Soleils",
+			"group": "Harvest of the Sun - Vincent Van Gogh Revisited",
 			"titles": [
 				{"searchTerm": "Cosecha del Sol, La - Vincent van Gogh Revivido"},
 				{"searchTerm": "Ernte der Sonne - Vincent van Gogh"},
-				{"searchTerm": "Great Art Series, The - Taiyou o Karitoru Hito - Harvest of the Sun - Vincent van Gogh"},
-				{"searchTerm": "Harvest of the Sun"},
+				{"searchTerm": "Harvest of the Sun - Van Gogh - Une Moisson de Soleils"},
+				{"searchTerm": "Harvest of the Sun - Vincent Van Gogh Revisited"},
 				{"searchTerm": "Harvest of the Sun - Van Gogh - Une Moisson de Soleils"},
 				{"searchTerm": "Oogst van de Zon"},
-				{"searchTerm": "Raccolto del Sole, Il - Van Gogh"}
+				{"searchTerm": "Raccolto del Sole, Il - Van Gogh"},
+				{"searchTerm": "Taiyou o Karitoru Hito - Harvest of the Sun - Vincent van Gogh"}
 			]
 		},
 		{
@@ -270,16 +271,6 @@
 				{"searchTerm": "How the Rhinoceros Got His Skin"},
 				{"searchTerm": "Wie das Rhinozeros zu seiner Haut kam"},
 				{"searchTerm": "How the Rhino Got His Skin", "priority": 2}
-			]
-		},
-		{
-			"group": "Impressionnistes Francais, Les",
-			"titles": [
-				{"searchTerm": "Franceses Impresionistas, Los"},
-				{"searchTerm": "Franse Impressionisten, De"},
-				{"searchTerm": "Franzoesischen Impressionisten, Die"},
-				{"searchTerm": "Gli Impressionisti Francesi"},
-				{"searchTerm": "Impressionnistes Francais, Les"}
 			]
 		},
 		{
@@ -357,8 +348,7 @@
 			"titles": [
 				{"searchTerm": "Malarskolan"},
 				{"searchTerm": "Nuri e Asobi I - Paint School I"},
-				{"searchTerm": "Paint School I"},
-				{"searchTerm": "Schilderschool"}
+				{"searchTerm": "Paint School I"}
 			]
 		},
 		{
@@ -467,13 +457,6 @@
 			"titles": [
 				{"searchTerm": "Scotland Yard Interactif"},
 				{"searchTerm": "Scotland Yard Interactive"}
-			]
-		},
-		{
-			"group": "St. Petersbourg et les Tresors de l'Ermitage - The Art of the Czars",
-			"titles": [
-				{"searchTerm": "Arte degli Zar, L' - San Pietroburgo e i Tesori dell'Ermitage"},
-				{"searchTerm": "St. Petersbourg et les Tresors de l'Ermitage - The Art of the Czars"}
 			]
 		},
 		{
