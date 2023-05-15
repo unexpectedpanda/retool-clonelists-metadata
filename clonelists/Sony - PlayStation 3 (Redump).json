@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Sony - PlayStation 3 (Redump)",
-		"lastUpdated": "11 May 2023",
+		"lastUpdated": "14 May 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -23,7 +23,7 @@
 		"E-M Fall Refresh 3.40 IDU-IDU Update (USA)",
 		"Endcap Display - 2014 Holiday Refresh - Walmart (USA)",
 		"Endcap Display - 2015 Winter Refresh - Walmart (USA)",
-		"Evil WithinThe (Asia)",
+		"Evil Within, The (Asia)",
 		"FIFA 08 (Asia)",
 		"Fall 2013 - PS3 IDU 4.46 (USA)",
 		"Fall Refresh 2011 - 3.70 IDU FW Update (USA)",
@@ -137,6 +137,13 @@
 			]
 		},
 		{
+			"group": "Adventure Time - The Secret of the Nameless Kingdom",
+			"titles": [
+				{"searchTerm": "Adventure Time - Nameless Oukoku no 3-nin no Princess"},
+				{"searchTerm": "Adventure Time - The Secret of the Nameless Kingdom"}
+			]
+		},
+		{
 			"group": "Adventures of Tintin, The - The Game",
 			"titles": [
 				{"searchTerm": "Adventures of Tintin, The - The Game"},
@@ -176,6 +183,13 @@
 			"titles": [
 				{"searchTerm": "Anarchy Reigns"},
 				{"searchTerm": "Max Anarchy"}
+			]
+		},
+		{
+			"group": "Ape Escape",
+			"titles": [
+				{"searchTerm": "Ape Escape"},
+				{"searchTerm": "Furi Furi! Saru Get You"}
 			]
 		},
 		{
@@ -282,7 +296,8 @@
 				{"searchTerm": "Assassin's Creed III"}
 			],
 			"compilations": [
-				{"searchTerm": "Assassin's Creed - Heritage Collection"}
+				{"searchTerm": "Assassin's Creed - Heritage Collection"},
+				{"searchTerm": "Assassin's Creed - Connor Saga"}
 			]
 		},
 		{
@@ -407,6 +422,9 @@
 			"titles": [
 				{"searchTerm": "Bladestorm - Hyakunen Sensou"},
 				{"searchTerm": "Bladestorm - The Hundred Years' War"}
+			],
+			"supersets": [
+				{"searchTerm": "Bladestorm - Hyakunen Sensou & Nightmare"}
 			]
 		},
 		{
@@ -447,6 +465,13 @@
 			]
 		},
 		{
+			"group": "Borderlands 2 - Game of the Year Edition Add-On Disc",
+			"titles": [
+				{"searchTerm": "Borderlands 2 - Game of the Year Edition (Add-On Disc)"},
+				{"searchTerm": "Borderlands 2 - Game of the Year Edition (Tsuika Contents Disc)"}
+			]
+		},
+		{
 			"group": "Burnout Paradise",
 			"titles": [
 				{"searchTerm": "Burnout Paradise"}
@@ -468,6 +493,16 @@
 				{"searchTerm": "Buzz! Polskie Lamiglowki"},
 				{"searchTerm": "Buzz! Que Sabes de tu Pais"},
 				{"searchTerm": "Buzz! Quem e o Genio Portugues"}
+			]
+		},
+		{
+			"group": "Buzz! Quiz TV",
+			"titles": [
+				{"searchTerm": "Buzz Quiz TV"}
+			],
+			"supersets": [
+				{"searchTerm": "Buzz! - TV Visa Special Edition"},
+				{"searchTerm": "Buzz! Quiz TV (Special Edition)"}
 			]
 		},
 		{
@@ -496,6 +531,13 @@
 			"titles": [
 				{"searchTerm": "Condemned 2"},
 				{"searchTerm": "Condemned 2 - Bloodshot"}
+			]
+		},
+		{
+			"group": "Conflict - Denied Ops",
+			"titles": [
+				{"searchTerm": "Conflict - Denied Ops"},
+				{"searchTerm": "Double Clutch"}
 			]
 		},
 		{
@@ -542,10 +584,12 @@
 				{"searchTerm": "Dead Island"}
 			],
 			"supersets": [
-				{"searchTerm": "Dead Island - Game of the Year Edition"}
+				{"searchTerm": "Dead Island - Game of the Year Edition"},
+				{"searchTerm": "Dead Island - Zombie of the Year Edition"}
 			],
 			"compilations": [
-				{"searchTerm": "Dead Island - Double Pack"}
+				{"searchTerm": "Dead Island - Double Pack"},
+				{"searchTerm": "Dead Island - Double Zombie Pack"}
 			]
 		},
 		{
@@ -653,7 +697,8 @@
 			"group": "Disney Infinity 3.0 Edition",
 			"titles": [
 				{"searchTerm": "Disney Infinity 3.0 - Play Without Limits"},
-				{"searchTerm": "Disney Infinity 3.0 Edition"}
+				{"searchTerm": "Disney Infinity 3.0 Edition"},
+				{"searchTerm": "Disney Infinity 3.0"}
 			]
 		},
 		{
@@ -661,6 +706,13 @@
 			"titles": [
 				{"searchTerm": "Disney-Pixar Cars 2"},
 				{"searchTerm": "Disney - Pixar Arabalar 2"}
+			]
+		},
+		{
+			"group": "Disney-Pixar Ratatouille",
+			"titles": [
+				{"searchTerm": "Disney-Pixar Ratatouille"},
+				{"searchTerm": "Disney-Pixar Remy no Oishii Restaurant"}
 			]
 		},
 		{
@@ -816,6 +868,13 @@
 			]
 		},
 		{
+			"group": "Eat Lead - The Return of Matt Hazard",
+			"titles": [
+				{"searchTerm": "Eat Lead - The Return of Matt Hazard"},
+				{"searchTerm": "Eat Lead - Matt Hazard no Gyakushuu"}
+			]
+		},
+		{
 			"group": "Elder Scrolls IV, The - Oblivion",
 			"titles": [
 				{"searchTerm": "Elder Scrolls IV, The - Oblivion"}
@@ -918,6 +977,15 @@
 			]
 		},
 		{
+			"group": "Fallout 3 - Tsuika Contents Pack",
+			"titles": [
+				{"searchTerm": "Fallout 3 - Tsuika Contents Pack"}
+			],
+			"supersets": [
+				{"searchTerm": "Fallout 3 - Game of the Year Edition"}
+			]
+		},
+		{
 			"group": "Far Cry Classic",
 			"compilations": [
 				{"searchTerm": "Far Cry - The Wild Expedition"}
@@ -984,13 +1052,6 @@
 			]
 		},
 		{
-			"group": "FIFA 19 - Legacy Edition",
-			"titles": [
-				{"searchTerm": "FIFA 19 - Edicao Legacy"},
-				{"searchTerm": "FIFA 19 - Legacy Edition"}
-			]
-		},
-		{
 			"group": "FIFA Soccer 08",
 			"titles": [
 				{"searchTerm": "FIFA 08"},
@@ -1048,7 +1109,8 @@
 		{
 			"group": "Final Fantasy XIV Online - A Realm Reborn",
 			"titles": [
-				{"searchTerm": "Final Fantasy XIV Online - A Realm Reborn"}
+				{"searchTerm": "Final Fantasy XIV Online - A Realm Reborn"},
+				{"searchTerm": "Final Fantasy XIV Online - Shinsei Eorzea"}
 			],
 			"supersets": [
 				{"searchTerm": "Final Fantasy XIV Online - The Complete Experience"}
@@ -1085,6 +1147,13 @@
 			"titles": [
 				{"searchTerm": "Fist of the North Star - Ken's Rage 2"},
 				{"searchTerm": "Shin Hokuto Musou"}
+			]
+		},
+		{
+			"group": "Fit in Six",
+			"titles": [
+				{"searchTerm": "Fit in Six"},
+				{"searchTerm": "Fit in Six - Karada o Kitaeru 6-tsu no Youso"}
 			]
 		},
 		{
@@ -1214,6 +1283,13 @@
 			]
 		},
 		{
+			"group": "High Velocity Bowling",
+			"titles": [
+				{"searchTerm": "Fure! Fure! Bowling"},
+				{"searchTerm": "High Velocity Bowling"}
+			]
+		},
+		{
 			"group": "Hot Shots Golf - Out of Bounds",
 			"titles": [
 				{"searchTerm": "Everybody's Golf - World Tour"},
@@ -1223,6 +1299,7 @@
 		{
 			"group": "Hyperdimension Neptunia",
 			"titles": [
+				{"searchTerm": "Cho Chawon Game Neptune"},
 				{"searchTerm": "Chou Jigen Game Neptune"},
 				{"searchTerm": "Hyperdimension Neptunia"}
 			],
@@ -1233,6 +1310,7 @@
 		{
 			"group": "Hyperdimension Neptunia mk2",
 			"titles": [
+				{"searchTerm": "Cho Chawon Game Neptune mk2"},
 				{"searchTerm": "Chou Jigen Game Neptune mk2"},
 				{"searchTerm": "Hyperdimension Neptunia mk2"}
 			],
@@ -1341,6 +1419,13 @@
 			"titles": [
 				{"searchTerm": "JoJo's Bizarre Adventure - All Star Battle"},
 				{"searchTerm": "JoJo no Kimyou na Bouken - All Star Battle"}
+			]
+		},
+		{
+			"group": "Juiced 2 - Hot Import Nights",
+			"titles": [
+				{"searchTerm": "Drift Nights - Juiced 2"},
+				{"searchTerm": "Juiced 2 - Hot Import Nights"}
 			]
 		},
 		{
@@ -1621,6 +1706,7 @@
 		{
 			"group": "Mugen Souls",
 			"titles": [
+				{"searchTerm": "Apdojeog Yuhui - Mugen Souls"},
 				{"searchTerm": "Attouteki Yuugi - Mugen Souls"},
 				{"searchTerm": "Mugen Souls"}
 			]
@@ -1628,6 +1714,7 @@
 		{
 			"group": "Mugen Souls Z",
 			"titles": [
+				{"searchTerm": "Apdojeog Yuhui - Mugen Souls Z"},
 				{"searchTerm": "Attouteki Yuugi - Mugen Souls Z"},
 				{"searchTerm": "Mugen Souls Z"}
 			]
@@ -1913,6 +2000,13 @@
 			]
 		},
 		{
+			"group": "PlayStation Move Heroes",
+			"titles": [
+				{"searchTerm": "Gachinko Heroes"},
+				{"SearchTerm": "PlayStation Move Heroes"}
+			]
+		},
+		{
 			"group": "Port Royale 3 - Pirates & Merchants",
 			"titles": [
 				{"searchTerm": "Port Royale 3"},
@@ -1927,6 +2021,13 @@
 			"titles": [
 				{"searchTerm": "Prince of Persia - Boukyaku no Suna"},
 				{"searchTerm": "Prince of Persia - The Forgotten Sands"}
+			]
+		},
+		{
+			"group": "Pure",
+			"titles": [
+				{"searchTerm": "Pure"},
+				{"searchTerm": "Extreme Racing Pure"}
 			]
 		},
 		{
@@ -2165,7 +2266,6 @@
 			],
 			"supersets": [
 				{"searchTerm": "Saints Row - Game of the Century Edition & Gat Out of Hell"},
-				{"searchTerm": "Saints Row IV - Ultra Super Ultimate Deluxe Edition"},
 				{"searchTerm": "Saints Row IV - Game of the Century Edition", "priority": 2},
 				{"searchTerm": "Saints Row IV - National Treasure Edition", "priority": 2}
 			]
@@ -2176,8 +2276,7 @@
 				{"searchTerm": "Saints Row - Gat out of Hell"}
 			],
 			"supersets": [
-				{"searchTerm": "Saints Row - Game of the Century Edition & Gat Out of Hell"},
-				{"searchTerm": "Saints Row IV - Ultra Super Ultimate Deluxe Edition"}
+				{"searchTerm": "Saints Row - Game of the Century Edition & Gat Out of Hell"}
 			]
 		},
 		{

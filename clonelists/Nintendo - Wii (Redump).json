@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Nintendo - Wii (Redump)",
-		"lastUpdated": "14 May 2023",
+		"lastUpdated": "16 May 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -74,7 +74,8 @@
 			"group": "Active Life - Magical Carnival",
 			"titles": [
 				{"searchTerm": "Active Life - Magical Carnival"},
-				{"searchTerm": "Family Trainer - Magical Carnival"}
+				{"searchTerm": "Family Trainer - Magical Carnival"},
+				{"searchTerm": "Issho ni Asobu! Dream Theme Park"}
 			]
 		},
 		{
@@ -1324,6 +1325,13 @@
 			]
 		},
 		{
+			"group": "Just Dance - Summer Party",
+			"titles": [
+				{"searchTerm": "Just Dance - Summer Party"},
+				{"searchTerm": "Just Dance 2 - Extra Songs"}
+			]
+		},
+		{
 			"group": "Just Dance 2",
 			"titles": [
 				{"searchTerm": "Just Dance 2"}
@@ -1422,6 +1430,13 @@
 				{"searchTerm": "Baramui Klonoa - Door to Phantomile"},
 				{"searchTerm": "Kaze no Klonoa - Door to Phantomile"},
 				{"searchTerm": "Klonoa"}
+			]
+		},
+		{
+			"group": "Kore Gang, The - Outvasion from Inner Earth",
+			"titles": [
+				{"searchTerm": "Kore Gang, The - Outvasion from Inner Earth"},
+				{"searchTerm": "Kore Gang, The"}
 			]
 		},
 		{
@@ -1646,6 +1661,13 @@
 			"titles": [
 				{"searchTerm": "Maximum Racing - Super Truck Racer"},
 				{"searchTerm": "Super Truck Racer"}
+			]
+		},
+		{
+			"group": "Mercury Meltdown Revolution",
+			"titles": [
+				{"searchTerm": "Mercury Meltdown Revolution"},
+				{"searchTerm": "Tama-Run"}
 			]
 		},
 		{
@@ -2751,8 +2773,7 @@
 			"group": "Super Swing Golf Season 2",
 			"titles": [
 				{"searchTerm": "Super Swing Golf Season 2"},
-				{"searchTerm": "Swing Golf Pangya 2nd Shot!"},
-				{"searchTerm": "Super Smash Bros. Brawl"}
+				{"searchTerm": "Swing Golf Pangya 2nd Shot!"}
 			]
 		},
 		{
