@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Sony - PlayStation 3 (Redump)",
-		"lastUpdated": "14 May 2023",
+		"lastUpdated": "16 May 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -23,7 +23,7 @@
 		"E-M Fall Refresh 3.40 IDU-IDU Update (USA)",
 		"Endcap Display - 2014 Holiday Refresh - Walmart (USA)",
 		"Endcap Display - 2015 Winter Refresh - Walmart (USA)",
-		"Evil Within, The (Asia)",
+		"Evil WithinThe (Asia)",
 		"FIFA 08 (Asia)",
 		"Fall 2013 - PS3 IDU 4.46 (USA)",
 		"Fall Refresh 2011 - 3.70 IDU FW Update (USA)",
@@ -151,10 +151,25 @@
 			]
 		},
 		{
+			"group": "Aegis of Earth - Protonovus Assault",
+			"titles": [
+				{"searchTerm": "Aegis of Earth - Protonovus Assault"},
+				{"searchTerm": "Jeoldae Yogyeok Wars - Metropolis Defenders"},
+				{"searchTerm": "Zettai Geigeki Wars - Metropolis Defenders"}
+			]
+		},
+		{
 			"group": "Afrika",
 			"titles": [
 				{"searchTerm": "Afrika"},
 				{"searchTerm": "Hakuna Matata"}
+			]
+		},
+		{
+			"group": "Agarest - Generations of War",
+			"titles": [
+				{"searchTerm": "Agarest - Generations of War"},
+				{"searchTerm": "Record of Agarest War"}
 			]
 		},
 		{
@@ -498,7 +513,7 @@
 		{
 			"group": "Buzz! Quiz TV",
 			"titles": [
-				{"searchTerm": "Buzz Quiz TV"}
+				{"searchTerm": "Buzz! Quiz TV"}
 			],
 			"supersets": [
 				{"searchTerm": "Buzz! - TV Visa Special Edition"},
@@ -510,6 +525,13 @@
 			"titles": [
 				{"searchTerm": "Cabela's Dangerous Adventures"},
 				{"searchTerm": "Cabela's Dangerous Hunts 2009"}
+			]
+		},
+		{
+			"group": "Carnival Island",
+			"titles": [
+				{"searchTerm": "Carnival Island"},
+				{"searchTerm": "Happy Charlie to Soratobu Carnival"}
 			]
 		},
 		{
@@ -667,6 +689,7 @@
 			"group": "Disgaea 4 - A Promise Unforgotten",
 			"titles": [
 				{"searchTerm": "Disgaea 4 - A Promise Unforgotten"},
+				{"searchTerm": "Magye Jeongi Disgaea 4"},
 				{"searchTerm": "Makai Senki Disgaea 4"}
 			]
 		},
@@ -850,7 +873,8 @@
 			"group": "Dynasty Warriors 8 - Xtreme Legends",
 			"titles": [
 				{"searchTerm": "Dynasty Warriors 8 - Xtreme Legends"},
-				{"searchTerm": "Shin Sangoku Musou 7 - Moushouden"}
+				{"searchTerm": "Shin Sangoku Musou 7 with Moushouden"},
+				{"searchTerm": "Shin Sangoku Musou 7 - Moushouden", "priority": 2}
 			]
 		},
 		{
@@ -943,7 +967,8 @@
 		{
 			"group": "EyePet",
 			"titles": [
-				{"searchTerm": "EyePet"}
+				{"searchTerm": "EyePet"},
+				{"searchTerm": "Me & My Pet"}
 			],
 			"supersets": [
 				{"searchTerm": "EyePet - Move Edition"}
@@ -1203,6 +1228,13 @@
 			]
 		},
 		{
+			"group": "Golden Compass, The",
+			"titles": [
+				{"searchTerm": "Golden Compass, The"},
+				{"searchTerm": "Lyra no Bouken - Ougon no Rashinban"}
+			]
+		},
+		{
 			"group": "Gran Turismo 5 - Prologue Spec III",
 			"titles": [
 				{"searchTerm": "Gran Turismo 5 - Prologue Spec III"},
@@ -1274,6 +1306,7 @@
 			"group": "Heavy Rain",
 			"titles": [
 				{"searchTerm": "Heavy Rain"},
+				{"searchTerm": "Heavy Rain - Kokoro no Kishimu Toki"},
 				{"searchTerm": "Heavy Rain - Kokoro no Kishimu Toki - PlayStation Move Taiou", "priority": 2},
 				{"searchTerm": "Heavy Rain - Move Edition", "priority": 2},
 				{"searchTerm": "Heavy Rain - Edition Modifiee", "priority": 3}
@@ -1294,6 +1327,13 @@
 			"titles": [
 				{"searchTerm": "Everybody's Golf - World Tour"},
 				{"searchTerm": "Hot Shots Golf - Out of Bounds"}
+			]
+		},
+		{
+			"group": "House of the Dead, The - Overkill - Extended Cut",
+			"titles": [
+				{"searchTerm": "House of the Dead, The - Overkill - Extended Cut"},
+				{"searchTerm": "House of the Dead, The - Overkill - Director's Cut"}
 			]
 		},
 		{
@@ -1322,7 +1362,8 @@
 			"group": "Hyperdimension Neptunia Victory",
 			"titles": [
 				{"searchTerm": "Hyperdimension Neptunia Victory"},
-				{"searchTerm": "Kami Jigen Game Neptune V"}
+				{"searchTerm": "Kami Jigen Game Neptune V"},
+				{"searchTerm": "Sin Chawon Game Neptune V"}
 			],
 			"compilations": [
 				{"searchTerm": "Hyperdimension Neptunia Hypercollection"}
@@ -1371,7 +1412,8 @@
 		{
 			"group": "Injustice - Gods Among Us",
 			"titles": [
-				{"searchTerm": "Injustice - Gods Among Us"}
+				{"searchTerm": "Injustice - Gods Among Us"},
+				{"searchTerm": "Injustice - Hero no Gekitotsu"}
 			],
 			"supersets": [
 				{"searchTerm": "Injustice - Gods Among Us - Ultimate Edition"}
@@ -1403,6 +1445,13 @@
 			"titles": [
 				{"searchTerm": "Jak and Daxter Collection"},
 				{"searchTerm": "Jak and Daxter Trilogy, The"}
+			]
+		},
+		{
+			"group": "Jikkyou Powerful Pro Yakyuu 2010",
+			"titles": [
+				{"searchTerm": "Jikkyou Powerful Pro Yakyuu 2010"},
+				{"searchTerm": "Silhwang Powerful Pro Yagu 2010"}
 			]
 		},
 		{
@@ -1522,6 +1571,13 @@
 			"titles": [
 				{"searchTerm": "LEGO Harry Potter - Dai-1 Shou - Dai-4 Shou"},
 				{"searchTerm": "LEGO Harry Potter - Years 1-4"}
+			]
+		},
+		{
+			"group": "Harry Potter and the Order of the Phoenix",
+			"titles": [
+				{"searchTerm": "Harry Potter and the Order of the Phoenix"},
+				{"searchTerm": "Harry Potter to Fushichou no Kishidan"}
 			]
 		},
 		{
@@ -1688,12 +1744,20 @@
 			]
 		},
 		{
+			"group": "ModNation Racers",
+			"titles": [
+				{"searchTerm": "ModNation Racers"},
+				{"searchTerm": "ModNation - Mugen no Kart Oukoku"}
+			]
+		},
+		{
 			"group": "MotorStorm",
 			"titles": [
 				{"searchTerm": "MotorStorm"}
 			],
 			"supersets": [
-				{"searchTerm": "MotorStorm - Complete Edition"}
+				{"searchTerm": "MotorStorm - Complete Edition"},
+				{"searchTerm": "MotorStorm Complete"}
 			]
 		},
 		{
@@ -1874,6 +1938,14 @@
 			]
 		},
 		{
+			"group": "Nobunaga no Yabou - Souzou",
+			"titles": [
+				{"searchTerm": "Nobunaga no Yabou - Souzou - Sengoku Risshiden"},
+				{"searchTerm": "Nobunaga no Yabou - Souzou with Power-Up Kit", "priority": 2},
+				{"searchTerm": "Nobunaga no Yabou - Souzou", "priority": 3}
+			]
+		},
+		{
 			"group": "Nobunaga no Yabou - Tendou with Power-Up Kit",
 			"titles": [
 				{"searchTerm": "Nobunaga no Yabou - Tendou with Power-Up Kit"},
@@ -1985,11 +2057,33 @@
 			]
 		},
 		{
+			"group": "PES 2015 - Pro Evolution Soccer",
+			"titles": [
+				{"searchTerm": "PES 2015 - Pro Evolution Soccer"},
+				{"searchTerm": "World Soccer Winning Eleven 2015"}
+			]
+		},
+		{
 			"group": "PES 2016 - Pro Evolution Soccer",
 			"titles": [
 				{"searchTerm": "PES 2016 - Pro Evolution Soccer"},
-				{"searchTerm": "UEFA Euro 2016 - PES 2016 - Pro Evolution Soccer"},
-				{"searchTerm": "Winning Eleven 2016"}
+				{"searchTerm": "Winning Eleven 2016"},
+				{"searchTerm": "UEFA Euro 2016 - PES 2016 - Pro Evolution Soccer", "priority": 2},
+				{"searchTerm": "UEFA Euro 2016 - Winning Eleven 2016", "priority": 2}
+			]
+		},
+		{
+			"group": "PES 2017 - Pro Evolution Soccer",
+			"titles": [
+				{"searchTerm": "PES 2017 - Pro Evolution Soccer"},
+				{"searchTerm": "Winning Eleven 2017"}
+			]
+		},
+		{
+			"group": "PES 2018 - Pro Evolution Soccer",
+			"titles": [
+				{"searchTerm": "PES 2018 - Pro Evolution Soccer"},
+				{"searchTerm": "Winning Eleven 2018"}
 			]
 		},
 		{
@@ -2003,7 +2097,7 @@
 			"group": "PlayStation Move Heroes",
 			"titles": [
 				{"searchTerm": "Gachinko Heroes"},
-				{"SearchTerm": "PlayStation Move Heroes"}
+				{"searchTerm": "PlayStation Move Heroes"}
 			]
 		},
 		{
@@ -2021,6 +2115,13 @@
 			"titles": [
 				{"searchTerm": "Prince of Persia - Boukyaku no Suna"},
 				{"searchTerm": "Prince of Persia - The Forgotten Sands"}
+			]
+		},
+		{
+			"group": "Pro Yakyuu Spirits 6",
+			"titles": [
+				{"searchTerm": "Pro Yagu Spirits 6 - Professional Baseball Spirits"},
+				{"searchTerm": "Pro Yakyuu Spirits 6"}
 			]
 		},
 		{
@@ -2303,6 +2404,20 @@
 			]
 		},
 		{
+			"group": "Sangokushi 12",
+			"titles": [
+				{"searchTerm": "Sangokushi 12 with Power-Up Kit"},
+				{"searchTerm": "Sangokushi 12", "priority": 2}
+			]
+		},
+		{
+			"group": "Sangokushi 13",
+			"titles": [
+				{"searchTerm": "Sangokushi 13 with Power-Up Kit"},
+				{"searchTerm": "Sangokushi 13", "priority": 2}
+			]
+		},
+		{
 			"group": "SBK - Superbike World Championship",
 			"titles": [
 				{"searchTerm": "SBK - Superbike World Championship"},
@@ -2366,6 +2481,13 @@
 			]
 		},
 		{
+			"group": "Shoot, The",
+			"titles": [
+				{"searchTerm": "Shoot, The"},
+				{"searchTerm": "Shooting Studio"}
+			]
+		},
+		{
 			"group": "Short Peace - Ranko Tsukigime's Longest Day",
 			"titles": [
 				{"searchTerm": "Short Peace - Ranko Tsukigime's Longest Day"},
@@ -2404,9 +2526,17 @@
 			]
 		},
 		{
+			"group": "Skylanders - Spyro's Adventure",
+			"titles": [
+				{"searchTerm": "Skylanders - Spyro no Daibouken"},
+				{"searchTerm": "Skylanders - Spyro's Adventure"}
+			]
+		},
+		{
 			"group": "Sleeping Dogs",
 			"titles": [
-				{"searchTerm": "Sleeping Dogs"}
+				{"searchTerm": "Sleeping Dogs"},
+				{"searchTerm": "Sleeping Dogs - Hong Kong Himitsu Keisatsu"}
 			],
 			"compilations": [
 				{"searchTerm": "Ultimate Action Triple Pack"}
@@ -2421,15 +2551,6 @@
 			]
 		},
 		{
-			"group": "Sniper Elite III",
-			"titles": [
-				{"searchTerm": "Sniper Elite III"}
-			],
-			"supersets": [
-				{"searchTerm": "Sniper Elite III - Ultimate Edition"}
-			]
-		},
-		{
 			"group": "Sniper Elite",
 			"titles": [
 				{"searchTerm": "Sniper Elite"}
@@ -2437,6 +2558,15 @@
 			"supersets": [
 				{"searchTerm": "Sniper Elite - Game of the Year Edition"},
 				{"searchTerm": "Sniper Elite - Silver Star Edition"}
+			]
+		},
+		{
+			"group": "Sniper Elite III",
+			"titles": [
+				{"searchTerm": "Sniper Elite III"}
+			],
+			"supersets": [
+				{"searchTerm": "Sniper Elite III - Ultimate Edition"}
 			]
 		},
 		{
@@ -2461,10 +2591,24 @@
 			]
 		},
 		{
+			"group": "Sonic Generations",
+			"titles": [
+				{"searchTerm": "Sonic Generations"},
+				{"searchTerm": "Sonic Generations - Shiro no Jikuu"}
+			]
+		},
+		{
 			"group": "Sonic Unleashed",
 			"titles": [
 				{"searchTerm": "Sonic Unleashed"},
 				{"searchTerm": "Sonic World Adventure"}
+			]
+		},
+		{
+			"group": "Sorcery",
+			"titles": [
+				{"searchTerm": "Sorcery"},
+				{"searchTerm": "Lord of Sorcery"}
 			]
 		},
 		{
@@ -2513,6 +2657,13 @@
 			"titles": [
 				{"searchTerm": "Start the Party! Parti Baslasin!"},
 				{"searchTerm": "Start the Party! Save the World"}
+			]
+		},
+		{
+			"group": "Super Hero Generation",
+			"titles": [
+				{"searchTerm": "Super Hero Generation - Special Sound Edition"},
+				{"searchTerm": "Super Hero Generation", "priority": 2}
 			]
 		},
 		{
@@ -2651,7 +2802,8 @@
 				{"searchTerm": "Tom Clancy's Rainbow Six - Vegas"}
 			],
 			"compilations": [
-				{"searchTerm": "Tom Clancy's Rainbow Six - Vegas + Tom Clancy's Splinter Cell - Double Agent", "titlePosition": 1}
+				{"searchTerm": "Tom Clancy's Rainbow Six - Vegas + Tom Clancy's Splinter Cell - Double Agent", "titlePosition": 1},
+				{"searchTerm": "Tom Clancy's Rainbow Six - Vegas 1 + 2", "titlePosition": 1}
 			]
 		},
 		{
@@ -2663,7 +2815,8 @@
 				{"searchTerm": "Tom Clancy's Rainbow Six - Vegas 2 - Complete Edition"}
 			],
 			"compilations": [
-				{"searchTerm": "Tom Clancy's Rainbow Six - Vegas 2 - Complete Edition + Tom Clancy's Ghost Recon - Advanced Warfighter 2", "titlePosition": 1}
+				{"searchTerm": "Tom Clancy's Rainbow Six - Vegas 2 - Complete Edition + Tom Clancy's Ghost Recon - Advanced Warfighter 2", "titlePosition": 1},
+				{"searchTerm": "Tom Clancy's Rainbow Six - Vegas 1 + 2", "titlePosition": 2}
 			]
 		},
 		{
@@ -2720,6 +2873,13 @@
 			]
 		},
 		{
+			"group": "TV Superstars",
+			"titles": [
+				{"searchTerm": "TV Superstars"},
+				{"searchTerm": "TV Superstar"}
+			]
+		},
+		{
 			"group": "Two Worlds II",
 			"titles": [
 				{"searchTerm": "Two Worlds II"}
@@ -2753,6 +2913,13 @@
 			]
 		},
 		{
+			"group": "Under Defeat HD - Deluxe Edition",
+			"titles": [
+				{"searchTerm": "Under Defeat HD - Deluxe Edition"},
+				{"searchTerm": "Under Defeat HD"}
+			]
+		},
+		{
 			"group": "Unreal Tournament III",
 			"titles": [
 				{"searchTerm": "Unreal Tournament 3"},
@@ -2764,6 +2931,13 @@
 			"titles": [
 				{"searchTerm": "Senjou no Valkyria"},
 				{"searchTerm": "Valkyria Chronicles"}
+			]
+		},
+		{
+			"group": "Virtua Tennis 2009",
+			"titles": [
+				{"searchTerm": "Power Smash - Live Match!"},
+				{"searchTerm": "Virtua Tennis 2009"}
 			]
 		},
 		{
@@ -2861,6 +3035,13 @@
 			"titles": [
 				{"searchTerm": "XBlaze - Code-Embryo"},
 				{"searchTerm": "XBlaze - Code - Embryo"}
+			]
+		},
+		{
+			"group": "XBlaze - Lost - Memories",
+			"titles": [
+				{"searchTerm": "XBlaze - Lost - Memories"},
+				{"searchTerm": "XBlaze - Lost-Memories"}
 			]
 		},
 		{
