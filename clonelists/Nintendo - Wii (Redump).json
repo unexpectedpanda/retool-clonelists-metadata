@@ -1,9 +1,17 @@
 {
 	"description": {
 		"name": "Nintendo - Wii (Redump)",
-		"lastUpdated": "16 May 2023",
+		"lastUpdated": "18 May 2023",
 		"minimumVersion": "2.00"
 	},
+
+	"categories": [
+		{
+			"searchTerm": "uDraw Studio",
+			"nameType": "short",
+			"categories": ["Games"]
+		}
+	],
 
 	"overrides": [
 		{
@@ -1497,7 +1505,7 @@
 			"titles": [
 				{"searchTerm": "Little League World Series Baseball 2008"}
 			],
-			"supersets": [
+			"compilations": [
 				{"searchTerm": "Little League World Series Baseball - Double Play"}
 			]
 		},
@@ -1506,7 +1514,7 @@
 			"titles": [
 				{"searchTerm": "Little League World Series Baseball 2009"}
 			],
-			"supersets": [
+			"compilations": [
 				{"searchTerm": "Little League World Series Baseball - Double Play"}
 			]
 		},
