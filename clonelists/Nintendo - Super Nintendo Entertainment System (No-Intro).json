@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Nintendo - Super Nintendo Entertainment System (No-Intro)",
-		"lastUpdated": "7 May 2023",
+		"lastUpdated": "21 May 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -23,6 +23,11 @@
 		},
 		{
 			"searchTerm": "Game Saver",
+			"nameType": "short",
+			"categories": ["Applications"]
+		},
+		{
+			"searchTerm": "Nintendo Power Menu Program",
 			"nameType": "short",
 			"categories": ["Applications"]
 		},
