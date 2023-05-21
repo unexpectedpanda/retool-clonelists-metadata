@@ -9,8 +9,8 @@
    PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN"
    SYSTEM "https://raw.githubusercontent.com/unexpectedpanda/retool/main/datafile.dtd"
 
-   $Revision: 2.3 $
-   $Date: 2023/04/10 11:08:00 $
+   $Revision: 2.4 $
+   $Date: 2023/05/21 10:54:00 $
 
 -->
 
@@ -41,6 +41,11 @@
 			<!ATTLIST romcenter lockrommode (yes|no) "no">
 			<!ATTLIST romcenter lockbiosmode (yes|no) "no">
 			<!ATTLIST romcenter locksamplemode (yes|no) "no">
+		<!ELEMENT romvault EMPTY>
+			<!ATTLIST romvault header CDATA #IMPLIED>
+			<!ATTLIST romvault forcemerging (none|split|full) "split">
+			<!ATTLIST romvault forcenodump (obsolete|required|ignore) "obsolete">
+			<!ATTLIST romvault forcepacking (zip|unzip) "zip">
 	<!ELEMENT game (category*, comment*, description, year?, manufacturer?, release*, biosset*, game_id*, rom*, disk*, sample*, archive*)>
 		<!ATTLIST game name CDATA #REQUIRED>
 		<!ATTLIST game sourcefile CDATA #IMPLIED>
