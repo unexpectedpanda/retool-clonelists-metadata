@@ -7,6 +7,11 @@
 
 	"categories": [	
 		{
+			"searchTerm": "#Killallzombies Companion App",
+			"nameType": "short",
+			"categories": ["Add-Ons"]
+		},		
+		{
 			"searchTerm": "Amnesia World AR",
 			"nameType": "short",
 			"categories": ["Add-Ons"]
@@ -163,49 +168,7 @@
 		}																		
 	  ],	
 
-	"removes": [
-		{
-			"searchTerm": "Dairansou Dash or Dasshu!! (Japan) (PCSG00290)",
-			"nameType": "full"
-		},	
-		{
-			"searchTerm": "Dragon's Crown (Asia) (Zh,Ko) (PlayStation Vita the Best)",
-			"nameType": "full"
-		},				
-		{
-			"searchTerm": "Dynasty Warriors Next (Asia) (PlayStation Vita the Best)",
-			"nameType": "full"
-		},		
-		{
-			"searchTerm": "Mahou Shoujo Taisen Zanbatsu (Japan) (PCSG00368)",
-			"nameType": "full"
-		},		
-		{
-			"searchTerm": "Metal Gear Solid HD Collection (Japan) (PlayStation Vita the Best)",
-			"nameType": "full"
-		},
-		{
-			"searchTerm": "Ragnarok Odyssey (Asia) (En,Zh,Ko) (PlayStation Vita the Best)",
-			"nameType": "full"
-		},		
-		{
-			"searchTerm": "Ragnarok Odyssey Ace (Asia) (En,Zh,Ko) (PlayStation Vita the Best)",
-			"nameType": "full"
-		},	
-		{
-			"searchTerm": "Ragnarok Odyssey Ace (Asia) (En,Zh,Ko) (Trial)",
-			"nameType": "full"
-		},		
-		{
-			"searchTerm": "Sword Art Online - Lost Song (Asia) (PCSH00134)",
-			"nameType": "full"
-		},		
-		{
-			"searchTerm": "Toukiden (Asia) (PlayStation Vita the Best)",
-			"nameType": "full"
-		}
-
-		
+	"removes": [		
 	],
 
 	"variants": [
@@ -445,7 +408,14 @@
 				{"searchTerm": "Cursed Castilla EX"},
 				{"searchTerm": "Cursed Castilla - Maldita Castilla EX"}
 			]
-		},		
+		},	
+		{
+			"group": "Dairansou Dash or Dasshu!!",
+			"titles": [
+				{"searchTerm": "Dairansou Dash or Dasshu!! (Japan) (PCSG00395)", "nameType": "full"},
+				{"searchTerm": "Dairansou Dash or Dasshu!! (Japan) (PCSG00290)", "nameType": "full"}
+			]
+		},			
 		{
 			"group": "Damascus Gear - Operation Osaka",
 			"titles": [
@@ -477,16 +447,16 @@
 		{
 			"group": "Danganronpa V3 - Killing Harmony",
 			"titles": [
-				{"searchTerm": "Danganronpa V3 - Killing Harmony"},
-				{"searchTerm": "New Danganronpa V3 - Minna no Koroshiai Shingakki"}
+				{"searchTerm": "Danganronpa V3 - Killing Harmony (USA)", "nameType": "full"},
+				{"searchTerm": "New Danganronpa V3 - Minna no Koroshiai Shingakki (Japan)", "nameType": "full"}
 			]
 		},	
 		{
 			"group": "Danganronpa Another Episode - Ultra Despair Girls",
 			"titles": [
 				{"searchTerm": "Danganronpa Another Episode - Ultra Despair Girls"},
-				{"searchTerm": "Zettai Zetsubou Shoujo - Dangan-Ronpa - Another Episode"},
-				{"searchTerm": "Zettai Zetsubou Shoujo - Danganronpa - Another Episode"}
+				{"searchTerm": "Zettai Zetsubou Shoujo - Dangan-Ronpa - Another Episode (Asia) (Ja,Zh)", "nameType": "full"},
+				{"searchTerm": "Zettai Zetsubou Shoujo - Danganronpa - Another Episode (Japan) (PlayStation Vita the Best)", "nameType": "full"}
 			]
 		},		
 		{
@@ -565,6 +535,13 @@
 			]
 		},	
 		{
+			"group": "Dragon's Crown",
+			"titles": [
+				{"searchTerm": "Dragon's Crown"},
+				{"searchTerm": "Dragon's Crown (Asia) (Zh,Ko) (PlayStation Vita the Best)", "nameType": "full"}
+			]
+		},		
+		{
 			"group": "Dragon Fantasy Book I",
 			"titles": [
 				{"searchTerm": "Dragon Fantasy Book I"},
@@ -614,14 +591,14 @@
 			"group": "Dynasty Warriors Next",
 			"titles": [
 				{"searchTerm": "Dynasty Warriors Next"},
-				{"searchTerm": "Dynasty Warriors Next (Asia)"}
+				{"searchTerm": "Dynasty Warriors Next (Asia) (PlayStation Vita the Best)", "nameType": "full"}
 			]
 		},	
 		{
 			"group": "Earth Defense Force 2 - Invaders from Planet Space",
 			"titles": [
 				{"searchTerm": "Earth Defense Force 2 - Invaders from Planet Space"},
-				{"searchTerm": "Chikyuu Boueigun 2 Portable V2"}
+				{"searchTerm": "Chikyuu Boueigun 2 Portable V2 (Japan)", "nameType":"full"}
 			]
 		},	
 		{
@@ -721,7 +698,7 @@
 			"titles": [
 				{"searchTerm": "Gravity Rush"},
 				{"searchTerm": "Gravity Daze"},
-				{"searchTerm": "Gravity Rush (Asia) (En,Zh,Ko) (PlayStation Vita the Best)"}
+				{"searchTerm": "Gravity Rush (Asia) (En,Zh,Ko) (PlayStation Vita the Best)", "nameType": "full"}
 			]
 		},
 		{
@@ -903,6 +880,13 @@
 			]
 		},		
 		{
+			"group": "Mahou Shoujo Taisen Zanbatsu",
+			"titles": [
+				{"searchTerm": "Mahou Shoujo Taisen Zanbatsu (Japan) (PCSG00392)", "nameType": "full"},
+				{"searchTerm": "Mahou Shoujo Taisen Zanbatsu (Japan) (PCSG00368)", "nameType": "full"}
+			]
+		},		
+		{
 			"group": "MegaTagmension Blanc + Neptune vs. Zombies",
 			"titles": [
 				{"searchTerm": "MegaTagmension Blanc + Neptune vs. Zombies"},
@@ -926,8 +910,8 @@
 		{
 			"group": "Metal Gear Solid HD Collection",
 			"titles": [
-				{"searchTerm": "Metal Gear Solid 3 - Snake Eater HD Edition"},
-				{"searchTerm": "Metal Gear Solid 3 HD Edition"}
+				{"searchTerm": "Metal Gear Solid HD Collection"},
+				{"searchTerm": "Metal Gear Solid HD Collection (Japan) (PlayStation Vita the Best)", "nameType": "full"}
 			]
 		},
 		{
@@ -972,9 +956,9 @@
 			] 
 		},
 		{
-			"group": "New Game! The Challenge Stage",
+			"group": "New Game! The Challenge Stage!",
 			"titles": [
-				{"searchTerm": "New Game! The Challenge Stage"},
+				{"searchTerm": "New Game! The Challenge Stage!"},
 				{"searchTerm": "New Game! - The Challenge Stage!"}
 			]
 		},
@@ -1082,7 +1066,7 @@
 			"group": "Persona 4 Golden",
 			"titles": [
 				{"searchTerm": "Persona 4 Golden"},
-				{"searchTerm": "Persona 4 - The Golden"}
+				{"searchTerm": "Persona 4 - The Golden (Japan) (PlayStation Vita the Best)", "nameType":"full"}
 			]
 		},
 		{
@@ -1148,6 +1132,21 @@
 				{"searchTerm": "Nikoli no Puzzle V - Sudoku"}
 			]
 		},
+		{
+			"group": "Ragnarok Odyssey",
+			"titles": [
+				{"searchTerm": "Ragnarok Odyssey"},
+				{"searchTerm": "Ragnarok Odyssey (Asia) (En,Zh,Ko) (PlayStation Vita the Best)", "nameType": "full"}
+			]
+		},	
+		{
+			"group": "Ragnarok Odyssey Ace",
+			"titles": [
+				{"searchTerm": "Ragnarok Odyssey Ace"},
+				{"searchTerm": "Ragnarok Odyssey Ace (Asia) (En,Zh,Ko) (PlayStation Vita the Best)", "nameType": "full"},
+				{"searchTerm": "Ragnarok Odyssey Ace (Asia) (En,Zh,Ko) (Trial)", "nameType": "full"}
+			]
+		},			
 		{
 			"group": "Ratchet & Clank - Full Frontal Assault",
 			"titles": [
@@ -1383,6 +1382,13 @@
 			]
 		},
 		{
+			"group": "Sword Art Online - Lost Song",
+			"titles": [
+				{"searchTerm": "Sword Art Online - Lost Song"},
+				{"searchTerm": "Sword Art Online - Lost Song (Asia) (PCSH00134)", "nameType": "full"}
+			]
+		},		
+		{
 			"group": "Table Ice Hockey",
 			"titles": [
 				{"searchTerm": "Table Ice Hockey"},
@@ -1407,8 +1413,8 @@
 		{
 			"group": "Tearaway",
 			"titles": [
-				{"searchTerm": "Tearaway"},
-				{"searchTerm": "Tearaway - Hagareta Sekai no Daibouken"}
+				{"searchTerm": "Tearaway (USA) (Trial)", "nameType": "full"},
+				{"searchTerm": "Tearaway - Hagareta Sekai no Daibouken (Japan) (Trial)", "nameType":"full"}
 			]
 		},		
 		{
@@ -1439,7 +1445,15 @@
 				{"searchTerm": "Toukiden 2 - Free Alliances Version"},
 				{"searchTerm": "Toukiden 2 - Free Alliances Version - Co-Op Battle Version"}
 			]
-		},			
+		},	
+		{
+			"group": "Toukiden - The Age of Demons",
+			"titles": [
+				{"searchTerm": "Toukiden - The Age of Demons"},
+				{"searchTerm": "Toukiden (Asia) (PlayStation Vita the Best)", "nameType": "full"},
+				{"searchTerm": "Toukiden"}
+			]
+		},				
 		{
 			"group": "Trillion - God of Destruction",
 			"titles": [
