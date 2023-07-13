@@ -38,6 +38,13 @@
 			]
 		},
 		{
+			"group": "Don't filter by this title",
+			"titles": [
+				{"searchTerm": "Filter by this title"},
+				{"searchTerm": "Don't filter by this title", "priority": 2}
+			]
+		},
+		{
 			"group": "Group Test Title (With Parentheses)",
 			"titles": [
 				{"searchTerm": "Group Test Title"},
@@ -71,7 +78,8 @@
 				{"searchTerm": "Test Title That Matches the Rerelease in USA"},
 				{"searchTerm": "Test Title", "priority": 2},
 				{"searchTerm": "Test Title Clone", "priority": 2},
-				{"searchTerm": "Test Title Renamed", "priority": 2}
+				{"searchTerm": "Test Title Renamed", "priority": 2},
+				{"searchTerm": "Filter by this title special", "priority": 3}
 			],
 			"supersets": [
 				{"searchTerm": "Test Title - Super Mega Ultra Plus Edition"},

@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Microsoft - Xbox (Redump)",
-		"lastUpdated": "07 April 2023",
+		"lastUpdated": "17 June 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -501,7 +501,8 @@
 				{"searchTerm": "BDFL Manager 2003"},
 				{"searchTerm": "Football Manager Campionato 2003"},
 				{"searchTerm": "LMA Manager 2003"},
-				{"searchTerm": "Manager de Liga 2003"}
+				{"searchTerm": "Manager de Liga 2003"},
+				{"searchTerm": "Roger Lemerre - La Selection des Champions 2003"}
 			]
 		},
 		{
@@ -510,7 +511,8 @@
 				{"searchTerm": "BDFL Manager 2004"},
 				{"searchTerm": "Football Manager Campionato 2004"},
 				{"searchTerm": "LMA Manager 2004"},
-				{"searchTerm": "Manager de Liga 2004"}
+				{"searchTerm": "Manager de Liga 2004"},
+				{"searchTerm": "Roger Lemerre - La Selection des Champions 2004"}
 			]
 		},
 		{
@@ -519,7 +521,8 @@
 				{"searchTerm": "BDFL Manager 2005"},
 				{"searchTerm": "Football Manager Campionato 2005"},
 				{"searchTerm": "LMA Manager 2005"},
-				{"searchTerm": "Manager de Liga 2005"}
+				{"searchTerm": "Manager de Liga 2005"},
+				{"searchTerm": "Roger Lemerre - La Selection des Champions 2005"}
 			]
 		},
 		{
@@ -778,6 +781,15 @@
 			]
 		},
 		{
+			"group": "Shikigami no Shiro",
+			"titles": [
+				{"searchTerm": "Shikigami no Shiro"}
+			],
+			"supersets": [
+				{"searchTerm": "Shikigami no Shiro Evolution"}
+			]
+		},
+		{
 			"group": "Silent Hill 2 - Restless Dreams",
 			"titles": [
 				{"searchTerm": "Silent Hill 2 - Inner Fears"},
@@ -910,10 +922,24 @@
 			]
 		},
 		{
+			"group": "Totaled!",
+			"titles": [
+				{"searchTerm": "Crash"},
+				{"searchTerm": "Totaled!"}
+			]
+		},
+		{
 			"group": "UFC - Ultimate Fighting Championship - Tapout 2",
 			"titles": [
 				{"searchTerm": "UFC - Ultimate Fighting Championship - Tapout 2"},
 				{"searchTerm": "UFC - Ultimate Fighting Championship 2 - Tapout"}
+			]
+		},
+		{
+			"group": "Ultimate Beach Soccer",
+			"titles": [
+				{"searchTerm": "Pro Beach Soccer"},
+				{"searchTerm": "Ultimate Beach Soccer"}
 			]
 		},
 		{
@@ -954,6 +980,7 @@
 		{
 			"group": "Wreckless - The Yakuza Missions",
 			"titles": [
+				{"searchTerm": "Double-S.T.E.A.L"},
 				{"searchTerm": "Wreckless - Mission Yakusas"},
 				{"searchTerm": "Wreckless - The Yakuza Missions"}
 			]
@@ -971,6 +998,13 @@
 			"titles": [
 				{"searchTerm": "WWE Raw"},
 				{"searchTerm": "WWF Raw"}
+			]
+		},
+		{
+			"group": "X2 - Wolverine's Revenge",
+			"titles": [
+				{"searchTerm": "X2 - Wolverine's Revenge"},
+				{"searchTerm": "X-Men 2 - Wolverine's Revenge"}
 			]
 		},
 		{

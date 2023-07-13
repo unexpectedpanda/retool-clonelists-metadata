@@ -287,11 +287,23 @@
 	"[BIOS] Pokewalker (World)": {
 		"languages": ["En"]
 	},
+	"[BIOS] Wii U - Boot1 Key (World)": {
+		"languages": ["nolang"]
+	},
+	"Animal Crossing - New Horizons Starter Guide (World) (En,Fr,De,Es,It)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
 	"Big Hero 6 Battle in the Bay (USA) (Beta) (3DS Dev Kit CIA)": {
 		"languages": ["En"]
 	},
 	"CIS-004 hard drive (Japan)": {
 		"languages": ["Ja"]
+	},
+	"Earthbound - Nintendo Player's Guide (World)": {
+		"languages": ["En"]
+	},
+	"Elder Scrolls V, The - Skyrim - Nintendo Switch Alternate Covers (USA)": {
+		"languages": ["En"]
 	},
 	"Eurocom Nintendo 64 dev files (Europe) (CD-ROM)": {
 		"languages": ["En"]
@@ -299,37 +311,43 @@
 	"Fit Meter (World)": {
 		"languages": ["nolang"]
 	},
-	"Internet Browser (World) (JP,US,EU v2.0.0-v3.0.0) (3DS) (OSS)": {
+	"Internet Browser (World) (v2.0.0-v3.0.0) (JP,US,EU) (3DS) (OSS)": {
 		"languages": ["En"]
 	},
-	"Internet Browser (World) (JP,US,EU v4.0.0-v4.50) (3DS) (OSS)": {
+	"Internet Browser (World) (v4.0.0-v4.50) (JP,US,EU) (3DS) (OSS)": {
 		"languages": ["En"]
 	},
-	"Internet Browser (World) (JP,US,EU,KR,TW,HK,CH v5.0.0-v9.5.0) (3DS) (OSS)": {
+	"Internet Browser (World) (v4.0.0-v4.50) (KR,TW,HK,CH) (3DS) (OSS)": {
 		"languages": ["En"]
 	},
-	"Internet Browser (World) (JP,US,EU,KR,TW,HK,CH v9.5.0-v9.8.0) (3DS) (OSS)": {
+	"Internet Browser (World) (v5.0.0-v9.5.0) (JP,US,EU,KR,TW,HK,CH) (3DS) (OSS)": {
 		"languages": ["En"]
 	},
-	"Internet Browser (World) (JP,US,EU,KR,TW,HK,CH v9.9.0-v10.5.0) (3DS) (OSS)": {
+	"Internet Browser (World) (v9.5.0-v9.8.0) (JP,US,EU,KR,TW,HK,CH) (3DS) (OSS)": {
 		"languages": ["En"]
 	},
-	"Internet Browser (World) (JP,US,EU,KR,TW,HK,CH v10.2.0-10.5.0) (3DS) (OSS)": {
+	"Internet Browser (World) (v9.9.0-v10.5.0) (JP,US,EU,KR,TW,HK,CH) (3DS) (OSS)": {
 		"languages": ["En"]
 	},
-	"Internet Browser (World) (JP,US,EU,KR,TW,HK,CH v10.2.0-v10.5.0) (3DS) (OSS)": {
+	"Internet Browser (World) (v10.2.0-10.5.0) (JP,US,EU,KR,TW,HK,CH) (3DS) (OSS)": {
 		"languages": ["En"]
 	},
-	"Internet Browser (World) (JP,US,EU,KR,TW,HK,CH v10.6.0-11.8.0) (3DS) (OSS)": {
+	"Internet Browser (World) (v10.2.0-v10.5.0) (JP,US,EU,KR,TW,HK,CH) (3DS) (OSS)": {
 		"languages": ["En"]
 	},
-	"Internet Browser (World) (JP,US,EU,KR,TW,HK,CH v11.9.0) (3DS) (OSS)": {
+	"Internet Browser (World) (v10.6.0-11.8.0) (JP,US,EU,KR,TW,HK,CH) (3DS) (OSS)": {
 		"languages": ["En"]
 	},
-	"Internet Browser (World) (KR,TW,HK,CH v4.0.0-v4.50) (3DS) (OSS)": {
+	"Internet Browser (World) (v11.9.0) (JP,US,EU,KR,TW,HK,CH) (3DS) (OSS)": {
 		"languages": ["En"]
 	},
 	"Mario Kart 8 (World) (Wii U) (OSS)": {
+		"languages": ["En"]
+	},
+	"Mario Kart 8 Deluxe Starter Guide (USA)": {
+		"languages": ["En"]
+	},
+	"Metroid Samus Returns Starter Guide (USA)": {
 		"languages": ["En"]
 	},
 	"Nintendo 3DS - Development Unit Software - CecBoxTool (World) (SDK)": {
@@ -542,7 +560,7 @@
 	"Nintendo Switch (World) (v14.0.0-v14.1.0) (OSS)": {
 		"languages": ["En"]
 	},
-	"Nintendo Switch (World) (v14.1.1, Later Version) (OSS)": {
+	"Nintendo Switch (World) (v14.1.1) (Later Version) (OSS)": {
 		"languages": ["En"]
 	},
 	"Nintendo Web Framework (World) (v1.1) (Wii U) (OSS)": {
@@ -605,7 +623,7 @@
 	"Nintendo Web Framework (World) (v1.9.5) (Wii U) (OSS)": {
 		"languages": ["En"]
 	},
-	"Nintendo Wi-Fi Network Adapter - GPL-LGPL Tekiyou Open Source (World) (v1.50,v2.04) (OSS)": {
+	"Nintendo Wi-Fi Network Adapter - GPL-LGPL Tekiyou Open Source (World) (v1.50) (v2.04) (OSS)": {
 		"languages": ["En"]
 	},
 	"Nintendo Wi-Fi USB Connector Driver (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi) (v1.01)": {
@@ -632,22 +650,67 @@
 	"Pocket Monsters - Diamond (Japan) (Beta) (2019-05-16) [b]": {
 		"languages": ["Ja"]
 	},
+	"Printable - Animal Crossing - 2019 Birthday Calendar (USA)": {
+		"languages": ["En"]
+	},
+	"Printable - Animal Crossing - New Horizons 2020 Birthday Calendar (World) (En,Fr,De,Es,It)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
 	"Printable - Animal Crossing - New Horizons 2022 Birthday Calendar (USA)": {
+		"languages": ["En"]
+	},
+	"Printable - Animal Crossing - New Horizons 2023 Birthday Calendar (USA)": {
 		"languages": ["En"]
 	},
 	"Printable - Animal Crossing - New Horizons Gift Tags (USA)": {
 		"languages": ["En"]
 	},
+	"Printable - Animal Crossing - New Horizons Mother's Day Coupons (USA)": {
+		"languages": ["En"]
+	},
 	"Printable - Animal Crossing - New Horizons Placemats (USA)": {
+		"languages": ["En"]
+	},
+	"Printable - Animal Crossing Holiday Cards (USA)": {
+		"languages": ["En"]
+	},
+	"Printable - Animal Crossing Thanksgiving Cards (USA)": {
+		"languages": ["En"]
+	},
+	"Printable - Astral Chain Box Art Sheets (USA)": {
 		"languages": ["En"]
 	},
 	"Printable - Bravely Default II Personality Quiz (USA)": {
 		"languages": ["En"]
 	},
+	"Printable - Fire Emblem - Three Houses Box Art Cover (USA)": {
+		"languages": ["En"]
+	},
 	"Printable - Fire Emblem Warriors - Three Hopes Box Art Cover (USA)": {
 		"languages": ["En"]
 	},
+	"Printable - Happy Mario Day Card (USA)": {
+		"languages": ["En"]
+	},
+	"Printable - Happy Pokemon Day Card (USA)": {
+		"languages": ["En"]
+	},
+	"Printable - Happy Sibling Day Card (USA)": {
+		"languages": ["En"]
+	},
+	"Printable - Hyrule Warriors - Definitive Edition - Character Cards (USA)": {
+		"languages": ["En"]
+	},
+	"Printable - Kirby's Dream Buffet Pop-up Card (USA)": {
+		"languages": ["En"]
+	},
+	"Printable - Kirby's Return to Dream Land Deluxe Pop-up Card (USA)": {
+		"languages": ["En"]
+	},
 	"Printable - Mario 20 Bingo Cards (USA)": {
+		"languages": ["En"]
+	},
+	"Printable - Mario Kart 8 Deluxe Gift Tags (USA)": {
 		"languages": ["En"]
 	},
 	"Printable - Mario Kart Racer ID Card Insert (USA)": {
@@ -656,22 +719,97 @@
 	"Printable - Mario Strikers - Battle League Strategy Booklets (USA)": {
 		"languages": ["En"]
 	},
+	"Printable - Marvel Ultimate Alliance 3 The Black Order Box Art Cover (USA)": {
+		"languages": ["En"]
+	},
+	"Printable - Metroid Prime Remastered Official Box Art Cover (USA) (En,Fr,Es)": {
+		"languages": ["En", "Es", "Fr"]
+	},
+	"Printable - Nintendo eShop Gift Card Envelopes (USA)": {
+		"languages": ["En"]
+	},
+	"Printable - Nintendo Switch Game Party Invitation (USA)": {
+		"languages": ["En"]
+	},
+	"Printable - Octopath Traveler Box Art Cover (USA)": {
+		"languages": ["En"]
+	},
+	"Printable - Octopath Traveler II Day & Night Printable Box Art Covers (USA)": {
+		"languages": ["En"]
+	},
+	"Printable - Pikmin Pop-up Card (USA)": {
+		"languages": ["En"]
+	},
+	"Printable - Pokemon Mystery Dungeon - Rescue Team DX Cards (USA)": {
+		"languages": ["En"]
+	},
+	"Printable - Print-it-Yourself Cover - Final Fantasy X & X-2 HD Remaster (USA)": {
+		"languages": ["En"]
+	},
+	"Printable - Print-it-Yourself Cover - Trials of Mana (USA)": {
+		"languages": ["En"]
+	},
+	"Printable - Splatoon 2 Octo Expansion Box Art Cover (USA)": {
+		"languages": ["En"]
+	},
+	"Printable - Splatoon 2 Relationship Chart (USA)": {
+		"languages": ["En"]
+	},
+	"Printable - Splatoon 2 Splatfest - Inkling Poster (USA)": {
+		"languages": ["En"]
+	},
 	"Printable - Splatoon 2 Splatfest - Octoling Poster (USA)": {
 		"languages": ["En"]
 	},
+	"Printable - Splatoon 3 Splatfest Party Banner Flags (USA) (En,Fr,Es-MX,Pt-BR)": {
+		"languages": ["En", "Es-MX", "Fr", "Pt-BR"]
+	},
+	"Printable - Splatoon 3 Splatfest Pop-up Card (USA) (En,Fr,Es-MX,Pt-BR)": {
+		"languages": ["En", "Es-MX", "Fr", "Pt-BR"]
+	},
 	"Printable - Super Mario Bros. Theme Flower Pot Picks and Tags (USA)": {
+		"languages": ["En"]
+	},
+	"Printable - Super Mario Maker 2 - Course Planning Sheets (USA)": {
+		"languages": ["En"]
+	},
+	"Printable - Super Mario Party - Character Party Hats (USA)": {
 		"languages": ["En"]
 	},
 	"Printable - Super Mario Party - Dice Block (USA)": {
 		"languages": ["En"]
 	},
+	"Printable - Tokyo Mirage Sessions #FE Encore Box Art Cover (World) (En,Fr,De,Es,It,Nl,Pt)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Nl", "Pt"]
+	},
+	"Printable - Triangle Strategy Box Art Cover (USA)": {
+		"languages": ["En"]
+	},
+	"Printable - Xenoblade Chronicles 2 - Torna ~ The Golden Country Box Art Cover (USA)": {
+		"languages": ["En"]
+	},
 	"Printable - Xenoblade Chronicles 3 Box Art Cover (A Set of 3) (USA)": {
+		"languages": ["En"]
+	},
+	"Printable - Yoshi's Crafted World Cupcake Box (USA)": {
+		"languages": ["En"]
+	},
+	"Printable - Yoshi's Crafted World Cupcake Wrappers and Toppers (USA)": {
+		"languages": ["En"]
+	},
+	"Printable - Yoshi's Crafted World Placemats (USA)": {
+		"languages": ["En"]
+	},
+	"Splatoon 2 Starter Guide (USA)": {
 		"languages": ["En"]
 	},
 	"Starlight Wii Hard Drive (USA) (Alt)": {
 		"languages": ["En"]
 	},
 	"Starlight Wii Hard Drive (USA)": {
+		"languages": ["En"]
+	},
+	"Super Mario Odyssey Starter Guide (USA)": {
 		"languages": ["En"]
 	},
 	"Virtual Console Games - Nintendo DS (World) (v1.0) (Wii U) (OSS)": {
@@ -752,10 +890,13 @@
 	"Wii U (World) (v5.5.1) (OSS)": {
 		"languages": ["En"]
 	},
-	"Wii U (World) (v5.5.2, Later Version) (OSS)": {
+	"Wii U (World) (v5.5.2) (Later Version) (OSS)": {
 		"languages": ["En"]
 	},
 	"WIS-009 hard drive (Korea) (En)": {
+		"languages": ["En"]
+	},
+	"Wolfenstein II - The New Colossus - Nintendo Switch Alternate Covers (USA)": {
 		"languages": ["En"]
 	},
 	"Zelda no Densetsu - Kaze no Takuto (Japan) (Demo) (Kiosk) (Gekkan Nintendo Tentou Demo 2002.12.1)": {

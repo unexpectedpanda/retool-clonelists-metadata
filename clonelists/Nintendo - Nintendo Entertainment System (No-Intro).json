@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Nintendo - Nintendo Entertainment System (No-Intro)",
-		"lastUpdated": "7 May 2023",
+		"lastUpdated": "12 June 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -1940,7 +1940,7 @@
 		},
 		{
 			"group": "Justice Duel",
-			"supersets": [
+			"titles": [
 				{"searchTerm": "Justice Duel"},
 				{"searchTerm": "Justice Duel (RetroGameCon 5 Edition)", "priority": 2}
 			]

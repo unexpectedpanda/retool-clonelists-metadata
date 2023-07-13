@@ -17,10 +17,10 @@
 	"40 Winks (Europe) (En,Es,It) (Proto) (1999-10-07)": {
 		"languages": ["En", "Es", "It"]
 	},
-	"40 Winks (USA) (Proto) (2000-01-10)": {
+	"40 Winks (USA) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"40 Winks (USA) (StoneAgeGamer Everdrive 64 ROM) (Aftermarket) (Unl)": {
+	"40 Winks (USA) (Proto) (2000-01-10)": {
 		"languages": ["En"]
 	},
 	"64 de Hakken!! Tamagotchi - Minna de Tamagotchi World (Japan)": {
@@ -43,6 +43,18 @@
 	},
 	"1080 Snowboarding (Japan, USA) (En,Ja)": {
 		"languages": ["En", "Ja"]
+	},
+	"1080 Snowboarding (USA) (En,Ja) (LodgeNet)": {
+		"languages": ["En", "Ja"]
+	},
+	"[BIOS] Nintendo 64 - PIF (Brazil)": {
+		"languages": ["nolang"]
+	},
+	"[BIOS] Nintendo 64 - PIF (Europe)": {
+		"languages": ["nolang"]
+	},
+	"[BIOS] Nintendo 64 - PIF (Japan, USA)": {
+		"languages": ["nolang"]
 	},
 	"Action Replay Pro 64 (Europe) (v3.0) (Unl)": {
 		"languages": ["En"]
@@ -123,9 +135,6 @@
 		"languages": ["En"]
 	},
 	"All-Star Baseball 2000 (USA)": {
-		"languages": ["En"]
-	},
-	"All-Star Baseball 2001 (Unknown) (Beta)": {
 		"languages": ["En"]
 	},
 	"All-Star Baseball 2001 (USA)": {
@@ -342,9 +351,6 @@
 		"languages": ["En"]
 	},
 	"Bust-A-Move 3 DX (Europe)": {
-		"languages": ["En"]
-	},
-	"Bust-A-Move 3 DX (Unknown) (Beta)": {
 		"languages": ["En"]
 	},
 	"Bust-A-Move '99 (USA)": {
@@ -596,6 +602,9 @@
 	"Donkey Kong 64 (USA) (Demo) (Kiosk)": {
 		"languages": ["En"]
 	},
+	"Donkey Kong 64 (USA) (LodgeNet)": {
+		"languages": ["En"]
+	},
 	"Donkey Kong 64 (USA)": {
 		"languages": ["En"]
 	},
@@ -631,6 +640,9 @@
 	},
 	"Doubutsu no Mori (Japan)": {
 		"languages": ["Ja"]
+	},
+	"Dr. Mario 64 (USA) (LodgeNet)": {
+		"languages": ["En"]
 	},
 	"Dr. Mario 64 (USA)": {
 		"languages": ["En"]
@@ -698,6 +710,9 @@
 	"ECW Hardcore Revolution (USA)": {
 		"languages": ["En"]
 	},
+	"EEPROM & SRAM Erase Program (USA) (v1.2) (LodgeNet)": {
+		"languages": ["En"]
+	},
 	"Eikou no Saint Andrews (Japan)": {
 		"languages": ["Ja"]
 	},
@@ -711,6 +726,9 @@
 		"languages": ["Ja"]
 	},
 	"Excitebike 64 (USA) (Demo) (Kiosk)": {
+		"languages": ["En"]
+	},
+	"Excitebike 64 (USA) (LodgeNet)": {
 		"languages": ["En"]
 	},
 	"Excitebike 64 (USA) (Rev 1)": {
@@ -780,6 +798,9 @@
 		"languages": ["Ja"]
 	},
 	"F-Zero X (USA) (Beta) (The Legend of Zelda - Ocarina of Time leftover data)": {
+		"languages": ["En"]
+	},
+	"F-Zero X (USA) (LodgeNet)": {
 		"languages": ["En"]
 	},
 	"F-Zero X (USA)": {
@@ -895,6 +916,9 @@
 	},
 	"Gauntlet Legends (Japan)": {
 		"languages": ["Ja"]
+	},
+	"Gauntlet Legends (USA) (LodgeNet)": {
+		"languages": ["En"]
 	},
 	"Gauntlet Legends (USA)": {
 		"languages": ["En"]
@@ -1057,6 +1081,9 @@
 	},
 	"Hydro Thunder (France)": {
 		"languages": ["Fr"]
+	},
+	"Hydro Thunder (USA) (LodgeNet)": {
+		"languages": ["En"]
 	},
 	"Hydro Thunder (USA)": {
 		"languages": ["En"]
@@ -1274,6 +1301,9 @@
 	"Kirby 64 - The Crystal Shards (Europe)": {
 		"languages": ["En"]
 	},
+	"Kirby 64 - The Crystal Shards (USA) (LodgeNet)": {
+		"languages": ["En"]
+	},
 	"Kirby 64 - The Crystal Shards (USA)": {
 		"languages": ["En"]
 	},
@@ -1322,6 +1352,9 @@
 	"Legend of Zelda, The - Majora's Mask (USA) (GameCube)": {
 		"languages": ["En"]
 	},
+	"Legend of Zelda, The - Majora's Mask (USA) (LodgeNet)": {
+		"languages": ["En"]
+	},
 	"Legend of Zelda, The - Majora's Mask (USA)": {
 		"languages": ["En"]
 	},
@@ -1344,6 +1377,9 @@
 		"languages": ["En"]
 	},
 	"Legend of Zelda, The - Ocarina of Time (USA) (GameCube)": {
+		"languages": ["En"]
+	},
+	"Legend of Zelda, The - Ocarina of Time (USA) (LodgeNet)": {
 		"languages": ["En"]
 	},
 	"Legend of Zelda, The - Ocarina of Time (USA) (Rev 1)": {
@@ -1460,6 +1496,9 @@
 	"Mario Golf (Europe)": {
 		"languages": ["En"]
 	},
+	"Mario Golf (USA) (LodgeNet)": {
+		"languages": ["En"]
+	},
 	"Mario Golf (USA)": {
 		"languages": ["En"]
 	},
@@ -1474,6 +1513,9 @@
 	},
 	"Mario Kart 64 (Japan)": {
 		"languages": ["Ja"]
+	},
+	"Mario Kart 64 (USA) (LodgeNet)": {
+		"languages": ["En"]
 	},
 	"Mario Kart 64 (USA)": {
 		"languages": ["En"]
@@ -1508,6 +1550,9 @@
 	"Mario Party 3 (USA) (Beta)": {
 		"languages": ["En"]
 	},
+	"Mario Party 3 (USA) (LodgeNet)": {
+		"languages": ["En"]
+	},
 	"Mario Party 3 (USA)": {
 		"languages": ["En"]
 	},
@@ -1533,6 +1578,9 @@
 		"languages": ["En"]
 	},
 	"Mario Tennis (Europe)": {
+		"languages": ["En"]
+	},
+	"Mario Tennis (USA) (LodgeNet)": {
 		"languages": ["En"]
 	},
 	"Mario Tennis (USA) (Wii Virtual Console)": {
@@ -1569,6 +1617,9 @@
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Micro Machines 64 Turbo (USA)": {
+		"languages": ["En"]
+	},
+	"Midway's Greatest Arcade Hits - Volume 1 (USA) (LodgeNet)": {
 		"languages": ["En"]
 	},
 	"Midway's Greatest Arcade Hits - Volume 1 (USA)": {
@@ -1638,6 +1689,9 @@
 		"languages": ["Ja"]
 	},
 	"Mortal Kombat 4 (Europe)": {
+		"languages": ["En"]
+	},
+	"Mortal Kombat 4 (USA) (LodgeNet)": {
 		"languages": ["En"]
 	},
 	"Mortal Kombat 4 (USA)": {
@@ -1733,9 +1787,6 @@
 	"NBA Jam 99 (Europe)": {
 		"languages": ["En"]
 	},
-	"NBA Jam 99 (Unknown) (Beta)": {
-		"languages": ["En"]
-	},
 	"NBA Jam 99 (USA)": {
 		"languages": ["En"]
 	},
@@ -1770,6 +1821,9 @@
 		"languages": ["Ja"]
 	},
 	"New Tetris, The (Europe)": {
+		"languages": ["En"]
+	},
+	"New Tetris, The (USA) (LodgeNet)": {
 		"languages": ["En"]
 	},
 	"New Tetris, The (USA)": {
@@ -1922,6 +1976,9 @@
 	"Paper Mario (Europe) (En,Fr,De,Es)": {
 		"languages": ["De", "En", "Es", "Fr"]
 	},
+	"Paper Mario (USA) (LodgeNet)": {
+		"languages": ["En"]
+	},
 	"Paper Mario (USA)": {
 		"languages": ["En"]
 	},
@@ -1976,6 +2033,9 @@
 	"Pilotwings 64 (Japan)": {
 		"languages": ["Ja"]
 	},
+	"Pilotwings 64 (USA) (LodgeNet)": {
+		"languages": ["En"]
+	},
 	"Pilotwings 64 (USA)": {
 		"languages": ["En"]
 	},
@@ -2026,6 +2086,9 @@
 	},
 	"Pokemon Snap (Spain)": {
 		"languages": ["Es"]
+	},
+	"Pokemon Snap (USA) (LodgeNet)": {
+		"languages": ["En"]
 	},
 	"Pokemon Snap (USA)": {
 		"languages": ["En"]
@@ -2150,9 +2213,6 @@
 	"Quest 64 (USA)": {
 		"languages": ["En"]
 	},
-	"R64 (World) (Aftermarket) (Unl)": {
-		"languages": ["En"]
-	},
 	"Racing Simulation 2 (Germany)": {
 		"languages": ["De"]
 	},
@@ -2171,6 +2231,9 @@
 	"Rampage 2 - Universal Tour (Europe)": {
 		"languages": ["En"]
 	},
+	"Rampage 2 - Universal Tour (USA) (LodgeNet)": {
+		"languages": ["En"]
+	},
 	"Rampage 2 - Universal Tour (USA)": {
 		"languages": ["En"]
 	},
@@ -2183,8 +2246,8 @@
 	"Rat Attack (Europe) (En,Fr,De,Es,It,Nl)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
 	},
-	"Rat Attack! (USA) (En,Fr,De,Es,It,Nl)": {
-		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
+	"Rat Attack! (USA)": {
+		"languages": ["En"]
 	},
 	"Rayman 2 - The Great Escape (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -2206,6 +2269,9 @@
 	},
 	"Ready 2 Rumble Boxing (Europe) (En,Fr,De)": {
 		"languages": ["De", "En", "Fr"]
+	},
+	"Ready 2 Rumble Boxing (USA) (LodgeNet)": {
+		"languages": ["En"]
 	},
 	"Ready 2 Rumble Boxing (USA)": {
 		"languages": ["En"]
@@ -2302,6 +2368,9 @@
 	},
 	"Rush 2 - Extreme Racing USA (Europe) (En,Fr,De,Es,It,Nl)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
+	},
+	"Rush 2 - Extreme Racing USA (USA) (LodgeNet)": {
+		"languages": ["En"]
 	},
 	"Rush 2 - Extreme Racing USA (USA)": {
 		"languages": ["En"]
@@ -2477,6 +2546,9 @@
 	"Star Fox 64 (Japan)": {
 		"languages": ["Ja"]
 	},
+	"Star Fox 64 (USA) (LodgeNet)": {
+		"languages": ["En"]
+	},
 	"Star Fox 64 (USA) (Rev 1)": {
 		"languages": ["En"]
 	},
@@ -2497,6 +2569,9 @@
 	},
 	"Star Wars - Rogue Squadron (Europe) (En,Fr,De)": {
 		"languages": ["De", "En", "Fr"]
+	},
+	"Star Wars - Rogue Squadron (USA) (LodgeNet)": {
+		"languages": ["En"]
 	},
 	"Star Wars - Rogue Squadron (USA) (Rev 1)": {
 		"languages": ["En"]
@@ -2588,6 +2663,9 @@
 	"Super Mario 64 (Japan)": {
 		"languages": ["Ja"]
 	},
+	"Super Mario 64 (USA) (LodgeNet)": {
+		"languages": ["En"]
+	},
 	"Super Mario 64 (USA)": {
 		"languages": ["En"]
 	},
@@ -2602,6 +2680,9 @@
 	},
 	"Super Smash Bros. (Europe) (En,Fr,De)": {
 		"languages": ["De", "En", "Fr"]
+	},
+	"Super Smash Bros. (USA) (LodgeNet)": {
+		"languages": ["En"]
 	},
 	"Super Smash Bros. (USA)": {
 		"languages": ["En"]
@@ -2626,6 +2707,9 @@
 	},
 	"Susume! Taisen Puzzle Dama - Toukon! Marutama Chou (Japan)": {
 		"languages": ["Ja"]
+	},
+	"Swoop 64, The (World) (Aftermarket) (Unl)": {
+		"languages": ["En"]
 	},
 	"Sydney 2000 (Europe) (Proto)": {
 		"languages": ["En"]
@@ -2963,10 +3047,16 @@
 	"Virtual Chess 64 (Europe) (En,Fr,De,Es,It,Nl)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
 	},
+	"Virtual Chess 64 (USA) (En,Fr,Es) (LodgeNet)": {
+		"languages": ["En", "Es", "Fr"]
+	},
 	"Virtual Chess 64 (USA) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
 	},
 	"Virtual Pool 64 (Europe)": {
+		"languages": ["En"]
+	},
+	"Virtual Pool 64 (USA) (LodgeNet)": {
 		"languages": ["En"]
 	},
 	"Virtual Pool 64 (USA)": {
@@ -3007,6 +3097,9 @@
 	},
 	"Wave Race 64 - Kawasaki Jet Ski (Japan)": {
 		"languages": ["Ja"]
+	},
+	"Wave Race 64 - Kawasaki Jet Ski (USA) (LodgeNet)": {
+		"languages": ["En"]
 	},
 	"Wave Race 64 - Kawasaki Jet Ski (USA) (Rev 1)": {
 		"languages": ["En"]
@@ -3190,6 +3283,9 @@
 	},
 	"Yoshi's Story (Europe) (En,Fr,De)": {
 		"languages": ["De", "En", "Fr"]
+	},
+	"Yoshi's Story (USA) (En,Ja) (LodgeNet)": {
+		"languages": ["En", "Ja"]
 	},
 	"Yoshi's Story (USA) (En,Ja)": {
 		"languages": ["En", "Ja"]

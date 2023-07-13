@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Sony - PlayStation (Redump)",
-		"lastUpdated": "07 June 2023",
+		"lastUpdated": "17 June 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -917,9 +917,8 @@
 		{
 			"group": "Brigandine - The Legend of Forsena",
 			"titles": [
-				{"searchTerm": "Brigandine - Gensou Tairiku Senki"},
 				{"searchTerm": "Brigandine - The Legend of Forsena"},
-				{"searchTerm": "Brigandine - Gensou Tairiku Senki", "priority": 2}
+				{"searchTerm": "Brigandine - Gensou Tairiku Senki"}
 			]
 		},
 		{
@@ -2418,7 +2417,7 @@
 			]
 		},
 		{
-			"group": "Final Fantasy (Premium Package)",
+			"group": "Final Fantasy",
 			"titles": [
 				{"searchTerm": "Final Fantasy (Premium Package)"},
 				{"searchTerm": "Final Fantasy Origins - Final Fantasy"},
@@ -2429,7 +2428,7 @@
 			]
 		},
 		{
-			"group": "Final Fantasy II (Premium Package)",
+			"group": "Final Fantasy II",
 			"titles": [
 				{"searchTerm": "Final Fantasy II (Premium Package)"},
 				{"searchTerm": "Final Fantasy Origins - Final Fantasy II"},

@@ -113,7 +113,7 @@
 	"[BIOS] Sega CD (USA) (Rev B)": {
 		"languages": ["En"]
 	},
-	"[BIOS] Sega CD (USA) (v1.00)": {
+	"[BIOS] Sega CD (USA)": {
 		"languages": ["En"]
 	},
 	"[BIOS] Sega CDX (USA)": {
@@ -293,10 +293,10 @@
 	"Aladdin (USA) (Beta) (1993-06-27)": {
 		"languages": ["En"]
 	},
-	"Aladdin (USA) (Beta) (July, 1993)": {
+	"Aladdin (USA) (Final Cut)": {
 		"languages": ["En"]
 	},
-	"Aladdin (USA) (Final Cut)": {
+	"Aladdin (USA) (July, 1993) (Beta)": {
 		"languages": ["En"]
 	},
 	"Aladdin (USA)": {
@@ -392,7 +392,7 @@
 	"Andre Agassi Tennis (Europe)": {
 		"languages": ["En"]
 	},
-	"Andre Agassi Tennis (USA) (Beta) (August, 1992)": {
+	"Andre Agassi Tennis (USA) (August, 1992) (Beta)": {
 		"languages": ["En"]
 	},
 	"Andre Agassi Tennis (USA)": {
@@ -491,11 +491,17 @@
 	"ASAP PLZ (World) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
+	"Astebros (World) (Demo) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Astebros (World) (En) (v2.1) (Demo) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Astebros (World) (Fr) (v2.1) (Demo) (Aftermarket) (Unl)": {
 		"languages": ["Fr"]
+	},
+	"Astebros (World) (v1.1) (Demo) (Aftermarket) (Unl)": {
+		"languages": ["En"]
 	},
 	"Asterix and the Great Rescue (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -506,7 +512,7 @@
 	"Asterix and the Power of the Gods (Europe) (En,Fr,De,Es)": {
 		"languages": ["De", "En", "Es", "Fr"]
 	},
-	"Asterix and the Power of the Gods (Europe) (En,Fr,De,Es,It) (Beta) (February, 1994)": {
+	"Asterix and the Power of the Gods (Europe) (En,Fr,De,Es,It) (February, 1994) (Beta)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Atomic Robo-Kid (Japan)": {
@@ -866,10 +872,10 @@
 	"Bio Evil (World) (Demo 3) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Bio Hazard Battle (USA, Europe) (Beta 1)": {
+	"Bio Hazard Battle (USA, Europe) (August, 1992) (Beta 2)": {
 		"languages": ["En"]
 	},
-	"Bio Hazard Battle (USA, Europe) (Beta 2) (August, 1992)": {
+	"Bio Hazard Battle (USA, Europe) (Beta 1)": {
 		"languages": ["En"]
 	},
 	"Bio Hazard Battle (USA, Europe)": {
@@ -932,7 +938,7 @@
 	"Bomb on Basic City - Special Edition + Papi Commando Tennis Demo (World) (En,Fr) (Aftermarket) (Unl)": {
 		"languages": ["En", "Fr"]
 	},
-	"Bomber (Brazil) (En) (Unl)": {
+	"Bomber (Brazil) (En)": {
 		"languages": ["En"]
 	},
 	"Bomboy (Taiwan) (En) (Unl)": {
@@ -1145,29 +1151,122 @@
 	"Castlevania - The New Generation (Europe)": {
 		"languages": ["En"]
 	},
+	"Cave Story MD (World) (De) (v0.7.0) (Aftermarket) (Unl)": {
+		"languages": ["De"]
+	},
 	"Cave Story MD (World) (De) (v0.8.0) (Aftermarket) (Unl)": {
 		"languages": ["De"]
+	},
+	"Cave Story MD (World) (En) (v0.2.0) (Alpha) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Cave Story MD (World) (En) (v0.2.1) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Cave Story MD (World) (En) (v0.3.0) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Cave Story MD (World) (En) (v0.3.1) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Cave Story MD (World) (En) (v0.3.2) (NTSC) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Cave Story MD (World) (En) (v0.3.2) (PAL) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Cave Story MD (World) (En) (v0.3.3) (NTSC) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Cave Story MD (World) (En) (v0.3.3) (PAL) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Cave Story MD (World) (En) (v0.4.0) (NTSC) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Cave Story MD (World) (En) (v0.4.0) (PAL) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Cave Story MD (World) (En) (v0.5.0) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Cave Story MD (World) (En) (v0.5.0a) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Cave Story MD (World) (En) (v0.5.0b) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Cave Story MD (World) (En) (v0.5.1) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Cave Story MD (World) (En) (v0.5.1a) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Cave Story MD (World) (En) (v0.5.2) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Cave Story MD (World) (En) (v0.6.0) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Cave Story MD (World) (En) (v0.7.0) (Aftermarket) (Unl)": {
+		"languages": ["En"]
 	},
 	"Cave Story MD (World) (En) (v0.8.0) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
+	"Cave Story MD (World) (Es) (v0.7.0) (Aftermarket) (Unl)": {
+		"languages": ["Es"]
+	},
 	"Cave Story MD (World) (Es) (v0.8.0) (Aftermarket) (Unl)": {
 		"languages": ["Es"]
+	},
+	"Cave Story MD (World) (Fr) (v0.7.0) (Aftermarket) (Unl)": {
+		"languages": ["Fr"]
 	},
 	"Cave Story MD (World) (Fr) (v0.8.0) (Aftermarket) (Unl)": {
 		"languages": ["Fr"]
 	},
+	"Cave Story MD (World) (It) (v0.7.0) (Aftermarket) (Unl)": {
+		"languages": ["It"]
+	},
 	"Cave Story MD (World) (It) (v0.8.0) (Aftermarket) (Unl)": {
 		"languages": ["It"]
+	},
+	"Cave Story MD (World) (Ja) (v0.7.0) (Aftermarket) (Unl)": {
+		"languages": ["Ja"]
 	},
 	"Cave Story MD (World) (Ko) (v0.8.0) (Aftermarket) (Unl)": {
 		"languages": ["Ko"]
 	},
+	"Cave Story MD (World) (Pt-BR) (v0.7.0) (Aftermarket) (Unl)": {
+		"languages": ["Pt-BR"]
+	},
 	"Cave Story MD (World) (Pt-BR) (v0.8.0) (Aftermarket) (Unl)": {
 		"languages": ["Pt-BR"]
 	},
+	"Cave Story MD (World) (Pt-PT) (v0.7.0) (Aftermarket) (Unl)": {
+		"languages": ["Pt-PT"]
+	},
 	"Cave Story MD (World) (Pt-PT) (v0.8.0) (Aftermarket) (Unl)": {
 		"languages": ["Pt-PT"]
+	},
+	"Cave Story MD (World) (SNAPSHOT-2016-06-23) (Aftermarket) (Unl)": {
+		"languages": ["nolang"]
+	},
+	"Cave Story MD (World) (SNAPSHOT-2016-06-30) (Aftermarket) (Unl)": {
+		"languages": ["nolang"]
+	},
+	"Cave Story MD (World) (SNAPSHOT-2016-07-02) (Aftermarket) (Unl)": {
+		"languages": ["nolang"]
+	},
+	"Cave Story MD (World) (SNAPSHOT-2016-07-12) (Aftermarket) (Unl)": {
+		"languages": ["nolang"]
+	},
+	"Cave Story MD (World) (SNAPSHOT-2016-07-16) (Aftermarket) (Unl)": {
+		"languages": ["nolang"]
+	},
+	"Cave Story MD (World) (SNAPSHOT-2016-07-26) (Aftermarket) (Unl)": {
+		"languages": ["nolang"]
 	},
 	"Cave Story MD (World) (Zh) (v0.8.0) (Aftermarket) (Unl)": {
 		"languages": ["Zh"]
@@ -1610,9 +1709,6 @@
 	"Curse of Illmoore Bay, The (World) (Demo 3) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Cursed Knight, The (Europe) (En,Fr) (Aftermarket) (Unl)": {
-		"languages": ["En", "Fr"]
-	},
 	"Cursed Knight, The (World) (Demo) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
@@ -1658,7 +1754,7 @@
 	"Cyborg Justice (USA, Europe)": {
 		"languages": ["En"]
 	},
-	"Daffy Duck in Hollywood (Europe) (Beta) (August, 1994)": {
+	"Daffy Duck in Hollywood (Europe) (August, 1994) (Beta)": {
 		"languages": ["En"]
 	},
 	"Daffy Duck in Hollywood (Europe) (En,Fr,De,Es,It)": {
@@ -1754,7 +1850,7 @@
 	"Davis Cup Tennis (Japan)": {
 		"languages": ["Ja"]
 	},
-	"Davis Cup Tennis ~ Davis Cup World Tour (USA, Europe) (Beta) (June, 1993)": {
+	"Davis Cup Tennis ~ Davis Cup World Tour (USA, Europe) (June, 1993) (Beta)": {
 		"languages": ["En"]
 	},
 	"Davis Cup Tennis ~ Davis Cup World Tour (USA, Europe)": {
@@ -2003,7 +2099,7 @@
 	"Dragon's Fury (USA, Europe)": {
 		"languages": ["En"]
 	},
-	"Dragon's Lair (USA) (Proto) (June, 1994)": {
+	"Dragon's Lair (USA) (June, 1994) (Proto)": {
 		"languages": ["En"]
 	},
 	"Dragon's Revenge (Japan) (En)": {
@@ -2069,13 +2165,13 @@
 	"Dynamite Duke (World)": {
 		"languages": ["En"]
 	},
+	"Dynamite Headdy (Japan) (April, 1994) (Beta)": {
+		"languages": ["Ja"]
+	},
 	"Dynamite Headdy (Japan) (Beta) (1994-06-14)": {
 		"languages": ["Ja"]
 	},
 	"Dynamite Headdy (Japan) (Beta) (1994-06-16)": {
-		"languages": ["Ja"]
-	},
-	"Dynamite Headdy (Japan) (Beta) (April, 1994)": {
 		"languages": ["Ja"]
 	},
 	"Dynamite Headdy (Japan) (Sample)": {
@@ -2138,7 +2234,7 @@
 	"Ecco - The Tides of Time (USA) (Beta) (1994-04-29)": {
 		"languages": ["En"]
 	},
-	"Ecco - The Tides of Time (USA) (Beta) (March, 1994)": {
+	"Ecco - The Tides of Time (USA) (March, 1994) (Beta)": {
 		"languages": ["En"]
 	},
 	"Ecco - The Tides of Time (USA)": {
@@ -2501,8 +2597,11 @@
 	"Fire Shark (USA)": {
 		"languages": ["En"]
 	},
-	"Fire Shark (World) (Aftermarket)": {
+	"Fix-It Felix Jr. (USA) (Aftermarket) (Pirate)": {
 		"languages": ["En"]
+	},
+	"Fix-It Felix Jr. (World) (v0.01b) (Beta) (Aftermarket) (Pirate)": {
+		"languages": ["nolang"]
 	},
 	"Flash Point (Japan) (En) (Proto)": {
 		"languages": ["En"]
@@ -2625,9 +2724,6 @@
 		"languages": ["En"]
 	},
 	"Gaiares (Japan, USA) (En)": {
-		"languages": ["En"]
-	},
-	"Gaiares (World) (Aftermarket)": {
 		"languages": ["En"]
 	},
 	"Gain Ground (Europe)": {
@@ -2876,7 +2972,7 @@
 	"Gunstar Heroes (Europe)": {
 		"languages": ["En"]
 	},
-	"Gunstar Heroes (Japan) (Sample) (April, 1993)": {
+	"Gunstar Heroes (Japan) (April, 1993) (Sample)": {
 		"languages": ["Ja"]
 	},
 	"Gunstar Heroes (Japan)": {
@@ -2890,9 +2986,6 @@
 	},
 	"Gynoug (Japan)": {
 		"languages": ["Ja"]
-	},
-	"Handy Harvy (USA, Europe) (Aftermarket) (Unl)": {
-		"languages": ["En"]
 	},
 	"Hard Drivin' (World)": {
 		"languages": ["En"]
@@ -2936,7 +3029,7 @@
 	"Hellfire (USA)": {
 		"languages": ["En"]
 	},
-	"Hellfire (World) (Aftermarket)": {
+	"Hellfire (World) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Hercules 2 (Taiwan) (En) (Unl)": {
@@ -2966,7 +3059,7 @@
 	"Home Alone 2 - Lost in New York (USA)": {
 		"languages": ["En"]
 	},
-	"Home Alone (USA, Europe) (Beta) (July, 1992)": {
+	"Home Alone (USA, Europe) (July, 1992) (Beta)": {
 		"languages": ["En"]
 	},
 	"Home Alone (USA, Europe)": {
@@ -3002,7 +3095,7 @@
 	"Hyper Dunk (Europe)": {
 		"languages": ["En"]
 	},
-	"Hyper Dunk - The Playoff Edition (Japan) (Beta) (February, 1994)": {
+	"Hyper Dunk - The Playoff Edition (Japan) (February, 1994) (Beta)": {
 		"languages": ["Ja"]
 	},
 	"Hyper Dunk - The Playoff Edition (Japan)": {
@@ -3092,7 +3185,7 @@
 	"Instruments of Chaos Starring Young Indiana Jones (USA) (Beta) (1994-01-27)": {
 		"languages": ["En"]
 	},
-	"Instruments of Chaos Starring Young Indiana Jones (USA) (Beta) (July, 1992)": {
+	"Instruments of Chaos Starring Young Indiana Jones (USA) (July, 1992) (Beta)": {
 		"languages": ["En"]
 	},
 	"Instruments of Chaos Starring Young Indiana Jones (USA)": {
@@ -3206,7 +3299,7 @@
 	"Jim Power - The Arcade Game (USA) (Proto)": {
 		"languages": ["En"]
 	},
-	"Jim Power - The Lost Dimension (World) (Aftermarket) (Unl)": {
+	"Jim Power - The Lost Dimension in 3D (World) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Jimmy White's Whirlwind Snooker (Europe)": {
@@ -3311,7 +3404,7 @@
 	"Jurassic Park (USA) (1993-05-26) (Sega Channel)": {
 		"languages": ["En"]
 	},
-	"Jurassic Park (USA) (Beta) (June, 1993)": {
+	"Jurassic Park (USA) (June, 1993) (Beta)": {
 		"languages": ["En"]
 	},
 	"Jurassic Park (USA)": {
@@ -3695,6 +3788,9 @@
 	"Ma Qiao E Mo Ta - Devilish Mahjong Tower (Taiwan) (Unl)": {
 		"languages": ["Zh"]
 	},
+	"Mad Bomber (World) (Demo) (Aftermarket) (Unl)": {
+		"languages": ["nolang"]
+	},
 	"Mad Stalker - Full Metal Forth (Japan) (En) (Columbus Circle) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
@@ -3911,6 +4007,12 @@
 	"Mega lo Mania (Japan)": {
 		"languages": ["Ja"]
 	},
+	"Mega Man - The Sequel Wars - Episode Red (World) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Mega Man - The Sequel Wars - Episode Red (World) (v1.1) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Mega Man - The Wily Wars (Europe)": {
 		"languages": ["En"]
 	},
@@ -3922,6 +4024,9 @@
 	},
 	"Mega Marble World (World) (Aftermarket) (Unl)": {
 		"languages": ["En"]
+	},
+	"Mega Slow Mole (World) (Demo) (2023-05-22) (Aftermarket) (Unl)": {
+		"languages": ["nolang"]
 	},
 	"Mega SWIV (Europe)": {
 		"languages": ["En"]
@@ -4004,10 +4109,10 @@
 	"Mickey Mania - The Timeless Adventures of Mickey Mouse (Japan)": {
 		"languages": ["Ja"]
 	},
-	"Mickey Mania - The Timeless Adventures of Mickey Mouse (USA) (Beta) (July, 1994)": {
+	"Mickey Mania - The Timeless Adventures of Mickey Mouse (USA) (July, 1994) (Beta)": {
 		"languages": ["En"]
 	},
-	"Mickey Mania - The Timeless Adventures of Mickey Mouse (USA) (Beta) (September, 1994)": {
+	"Mickey Mania - The Timeless Adventures of Mickey Mouse (USA) (September, 1994) (Beta)": {
 		"languages": ["En"]
 	},
 	"Mickey Mania - The Timeless Adventures of Mickey Mouse (USA)": {
@@ -4127,11 +4232,17 @@
 	"Mike Ditka Power Football (USA, Europe) (Unl)": {
 		"languages": ["En"]
 	},
+	"mikeyeldey95 (World) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Mikeyeldey - The Album (World) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Minato no Traysia (Japan)": {
 		"languages": ["Ja"]
+	},
+	"Miniplanets (World) (Demo) (Aftermarket) (Unl)": {
+		"languages": ["nolang"]
 	},
 	"Miniplanets (World) (v1.2) (Aftermarket) (Unl)": {
 		"languages": ["En"]
@@ -4367,7 +4478,7 @@
 	"NBA Jam (Japan)": {
 		"languages": ["Ja"]
 	},
-	"NBA Jam (USA, Europe) (Beta) (April, 1993)": {
+	"NBA Jam (USA, Europe) (April, 1993) (Beta)": {
 		"languages": ["En"]
 	},
 	"NBA Jam (USA, Europe) (Rev 1)": {
@@ -4854,9 +4965,6 @@
 		"languages": ["En"]
 	},
 	"Papi Commando - Second Blood (World) (Demo) (Aftermarket) (Unl)": {
-		"languages": ["En"]
-	},
-	"Papi Commando Reload - TECTOY Demo (World) (Demo) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Papi Commando Remix (World) (Aftermarket) (Unl)": {
@@ -5423,6 +5531,9 @@
 	"Rainbow Islands Extra (Japan)": {
 		"languages": ["Ja"]
 	},
+	"Ralph (Russia) (Aftermarket) (Pirate)": {
+		"languages": ["Ru"]
+	},
 	"Rambo III (Japan) (En)": {
 		"languages": ["En"]
 	},
@@ -5621,7 +5732,7 @@
 	"Robot Battler (Japan) (SegaNet)": {
 		"languages": ["Ja"]
 	},
-	"Robot Wreckage (USA) (Beta) (July, 1992)": {
+	"Robot Wreckage (USA) (July, 1992) (Beta)": {
 		"languages": ["En"]
 	},
 	"Rock 'n' Roll Racing (Europe)": {
@@ -6149,25 +6260,25 @@
 	"Sonic & Knuckles + Sonic The Hedgehog 2 (World) (Beta) (1994-05-24)": {
 		"languages": ["En"]
 	},
-	"Sonic & Knuckles + Sonic The Hedgehog 2 (World) (Rev A)": {
+	"Sonic & Knuckles + Sonic The Hedgehog 2 (World) (Rev A) (Lock-on Combination)": {
 		"languages": ["En"]
 	},
 	"Sonic & Knuckles + Sonic The Hedgehog 2 + Sonic The Hedgehog 3 (World) (Virtual Console)": {
 		"languages": ["En"]
 	},
-	"Sonic & Knuckles + Sonic The Hedgehog 3 (Europe)": {
+	"Sonic & Knuckles + Sonic The Hedgehog 3 (Europe) (Lock-on Combination)": {
 		"languages": ["En"]
 	},
-	"Sonic & Knuckles + Sonic The Hedgehog 3 (Japan) (En) (Sonic Mega Collection)": {
+	"Sonic & Knuckles + Sonic The Hedgehog 3 (Japan) (En) (Lock-on Combination)": {
 		"languages": ["En"]
 	},
-	"Sonic & Knuckles + Sonic The Hedgehog 3 (USA)": {
+	"Sonic & Knuckles + Sonic The Hedgehog 3 (USA) (Lock-on Combination)": {
 		"languages": ["En"]
 	},
-	"Sonic & Knuckles + Sonic The Hedgehog (Japan, Korea) (En)": {
+	"Sonic & Knuckles + Sonic The Hedgehog (Japan, Korea) (En) (Lock-on Combination)": {
 		"languages": ["En"]
 	},
-	"Sonic & Knuckles + Sonic The Hedgehog (USA, Europe)": {
+	"Sonic & Knuckles + Sonic The Hedgehog (USA, Europe) (Lock-on Combination)": {
 		"languages": ["En"]
 	},
 	"Sonic Compilation (Europe)": {
@@ -6200,10 +6311,10 @@
 	"Sonic Spinball (USA) (1993-09-22) (Sega Channel)": {
 		"languages": ["En"]
 	},
-	"Sonic Spinball (USA) (Beta) (August, 1993)": {
+	"Sonic Spinball (USA) (August, 1993) (Beta)": {
 		"languages": ["En"]
 	},
-	"Sonic Spinball (USA) (Beta) (October, 1993)": {
+	"Sonic Spinball (USA) (October, 1993) (Beta)": {
 		"languages": ["En"]
 	},
 	"Sonic Spinball (USA)": {
@@ -6230,13 +6341,10 @@
 	"Sonic The Hedgehog 2 (World) (Beta) (1992-09-24)": {
 		"languages": ["En"]
 	},
-	"Sonic The Hedgehog 2 (World) (Beta) (July, 1992)": {
+	"Sonic The Hedgehog 2 (World) (July, 1992) (Beta)": {
 		"languages": ["En"]
 	},
-	"Sonic The Hedgehog 2 (World) (Beta) (June, 1992)": {
-		"languages": ["En"]
-	},
-	"Sonic The Hedgehog 2 (World) (Beta) (September, 1992)": {
+	"Sonic The Hedgehog 2 (World) (June, 1992) (Beta)": {
 		"languages": ["En"]
 	},
 	"Sonic The Hedgehog 2 (World) (Rev A) (Sonic Classic Collection)": {
@@ -6249,6 +6357,9 @@
 		"languages": ["En"]
 	},
 	"Sonic The Hedgehog 2 (World) (Rev B)": {
+		"languages": ["En"]
+	},
+	"Sonic The Hedgehog 2 (World) (September, 1992) (Beta)": {
 		"languages": ["En"]
 	},
 	"Sonic The Hedgehog 2 (World)": {
@@ -6353,10 +6464,10 @@
 	"Speedball 2 - Brutal Deluxe (USA)": {
 		"languages": ["En"]
 	},
-	"Spider-Man (USA, Europe) (Acclaim) (Beta) (1994-12-12)": {
+	"Spider-Man (USA, Europe) (Acclaim) (August, 1994) (Beta)": {
 		"languages": ["En"]
 	},
-	"Spider-Man (USA, Europe) (Acclaim) (Beta) (August, 1994)": {
+	"Spider-Man (USA, Europe) (Acclaim) (Beta) (1994-12-12)": {
 		"languages": ["En"]
 	},
 	"Spider-Man (USA, Europe) (Acclaim)": {
@@ -6509,13 +6620,13 @@
 	"Stormlord (USA)": {
 		"languages": ["En"]
 	},
+	"Story of Thor, The (Europe) (April, 1994) (Beta)": {
+		"languages": ["En"]
+	},
 	"Story of Thor, The (Europe) (Beta) (1994-10-04)": {
 		"languages": ["En"]
 	},
 	"Story of Thor, The (Europe) (Beta) (1994-10-17)": {
-		"languages": ["En"]
-	},
-	"Story of Thor, The (Europe) (Beta) (April, 1994)": {
 		"languages": ["En"]
 	},
 	"Story of Thor, The (Europe) (Mega Drive Mini)": {
@@ -6680,13 +6791,13 @@
 	"Sub-Terrania (Europe)": {
 		"languages": ["En"]
 	},
-	"Sub-Terrania (USA) (Beta 1) (July, 1993)": {
+	"Sub-Terrania (USA) (July, 1993) (Beta 1)": {
 		"languages": ["En"]
 	},
-	"Sub-Terrania (USA) (Beta 2) (October, 1993)": {
+	"Sub-Terrania (USA) (October, 1993) (Beta 2)": {
 		"languages": ["En"]
 	},
-	"Sub-Terrania (USA) (Beta 3) (October, 1993)": {
+	"Sub-Terrania (USA) (October, 1993) (Beta 3)": {
 		"languages": ["En"]
 	},
 	"Sub-Terrania (USA)": {
@@ -6932,7 +7043,7 @@
 	"T2 - The Arcade Game (Japan)": {
 		"languages": ["Ja"]
 	},
-	"T2 - The Arcade Game (USA) (Beta) (August, 1992)": {
+	"T2 - The Arcade Game (USA) (August, 1992) (Beta)": {
 		"languages": ["En"]
 	},
 	"T2 - The Arcade Game (USA, Europe)": {
@@ -7034,13 +7145,10 @@
 	"Technocop (USA) (Beta) (1990-09-12)": {
 		"languages": ["En"]
 	},
-	"Technocop (USA) (Beta) (September, 1990)": {
+	"Technocop (USA) (September, 1990) (Beta)": {
 		"languages": ["En"]
 	},
 	"Technocop (USA)": {
-		"languages": ["En"]
-	},
-	"TECHNOPTIMISTIC (World) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Tecmo Cup Football Game (Japan) (Proto) [b]": {
@@ -7277,7 +7385,7 @@
 	"ToeJam & Earl in Panic on Funkotron (USA) (1993-09-11) (Sega Channel)": {
 		"languages": ["En"]
 	},
-	"ToeJam & Earl in Panic on Funkotron (USA) (Beta) (August, 1993)": {
+	"ToeJam & Earl in Panic on Funkotron (USA) (August, 1993) (Beta)": {
 		"languages": ["En"]
 	},
 	"ToeJam & Earl in Panic on Funkotron (USA)": {
@@ -7313,7 +7421,7 @@
 	"Tom Mason's Dinosaurs for Hire (USA) (Beta) (1993-05-02)": {
 		"languages": ["En"]
 	},
-	"Tom Mason's Dinosaurs for Hire (USA) (Beta) (March, 1993)": {
+	"Tom Mason's Dinosaurs for Hire (USA) (March, 1993) (Beta)": {
 		"languages": ["En"]
 	},
 	"Tom Mason's Dinosaurs for Hire (USA)": {
@@ -7398,9 +7506,6 @@
 		"languages": ["Es"]
 	},
 	"True Lies (World)": {
-		"languages": ["En"]
-	},
-	"Truxton (World) (Aftermarket)": {
 		"languages": ["En"]
 	},
 	"Tun Shi Tian Di 3 - San Guo Wai Chuan (Taiwan) (Unl)": {
@@ -7499,7 +7604,7 @@
 	"Urban Strike (USA, Europe)": {
 		"languages": ["En"]
 	},
-	"UWOL - Quest for Money (World) (v1.0) (Aftermarket) (Unl)": {
+	"UWOL - Quest for Money (World) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"UWOL - Quest for Money (World) (v1.1) (Aftermarket) (Unl)": {
@@ -7541,6 +7646,9 @@
 	"Vapor Trail (USA)": {
 		"languages": ["En"]
 	},
+	"Vectorman 2 (USA) (August, 1995) (Beta)": {
+		"languages": ["En"]
+	},
 	"Vectorman 2 (USA) (Beta) (1996-08-15)": {
 		"languages": ["En"]
 	},
@@ -7554,9 +7662,6 @@
 		"languages": ["En"]
 	},
 	"Vectorman 2 (USA) (Beta) (1996-08-27)": {
-		"languages": ["En"]
-	},
-	"Vectorman 2 (USA) (Beta) (August, 1995)": {
 		"languages": ["En"]
 	},
 	"Vectorman 2 (USA) (Sample) (1996-08-28)": {
@@ -7595,10 +7700,10 @@
 	"Verytex (Japan)": {
 		"languages": ["Ja"]
 	},
-	"Viewpoint (USA) (Beta) (1994-07-22)": {
+	"Viewpoint (USA) (August, 1994) (Beta)": {
 		"languages": ["En"]
 	},
-	"Viewpoint (USA) (Beta) (August, 1994)": {
+	"Viewpoint (USA) (Beta) (1994-07-22)": {
 		"languages": ["En"]
 	},
 	"Viewpoint (USA)": {
@@ -7679,7 +7784,7 @@
 	"Wardner no Mori Special (Japan)": {
 		"languages": ["Ja"]
 	},
-	"Warlock (USA, Europe) (Beta) (December, 1994)": {
+	"Warlock (USA, Europe) (December, 1994) (Beta)": {
 		"languages": ["En"]
 	},
 	"Warlock (USA, Europe)": {
@@ -7868,7 +7973,7 @@
 	"World Championship Soccer II (USA) (Beta) (1994-03-30)": {
 		"languages": ["En"]
 	},
-	"World Championship Soccer II (USA) (Beta) (January, 1994)": {
+	"World Championship Soccer II (USA) (January, 1994) (Beta)": {
 		"languages": ["En"]
 	},
 	"World Championship Soccer II (USA)": {
@@ -8090,7 +8195,7 @@
 	"Worms (Europe)": {
 		"languages": ["En"]
 	},
-	"Worms (USA) (Proto) (June, 1995)": {
+	"Worms (USA) (June, 1995) (Proto)": {
 		"languages": ["En"]
 	},
 	"Worms (World) (Aftermarket) (Unl)": {
@@ -8099,7 +8204,7 @@
 	"Wrestle War (Japan, Europe) (En)": {
 		"languages": ["En"]
 	},
-	"Wrestle War (Japan, Europe) (Ja) (Beta) (September, 1990)": {
+	"Wrestle War (Japan, Europe) (Ja) (September, 1990) (Beta)": {
 		"languages": ["Ja"]
 	},
 	"Wrestleball (Japan)": {
@@ -8192,7 +8297,7 @@
 	"X-Men (USA)": {
 		"languages": ["En"]
 	},
-	"X-Perts (USA) (Beta) (June, 1995)": {
+	"X-Perts (USA) (June, 1995) (Beta)": {
 		"languages": ["En"]
 	},
 	"X-Perts (USA)": {
@@ -8258,7 +8363,7 @@
 	"Ys III (USA)": {
 		"languages": ["En"]
 	},
-	"Yu Yu Hakusho - Makyou Toitsusen (Japan) (Beta) (June, 1994) (Sega Channel)": {
+	"Yu Yu Hakusho - Makyou Toitsusen (Japan) (June, 1994) (Beta) (Sega Channel)": {
 		"languages": ["Ja"]
 	},
 	"Yu Yu Hakusho - Makyou Toitsusen (Japan)": {
@@ -8297,7 +8402,7 @@
 	"Zero Wing (Japan)": {
 		"languages": ["Ja"]
 	},
-	"Zero Wing (USA) (Aftermarket) (Unl)": {
+	"Zero Wing (World) (Aftermarket)": {
 		"languages": ["En"]
 	},
 	"Zhan Qi Chinese Battle Chess (Taiwan) (Unl)": {
