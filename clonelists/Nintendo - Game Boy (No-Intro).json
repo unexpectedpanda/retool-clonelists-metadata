@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Nintendo - Game Boy (No-Intro)",
-		"lastUpdated": "3 May 2023",
+		"lastUpdated": "22 June 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -223,6 +223,7 @@
 				{"searchTerm": "Dynablaster"}
 			],
 			"compilations": [
+				{"searchTerm": "Bomberman Collection"},
 				{"searchTerm": "Mani 4 in 1 - Takahashi Meijin no Bouken-jima II + GB Genjin + Bomber Boy + Milon no Meikyuu Kumikyoku", "titlePosition": 3}
 			]
 		},
@@ -241,6 +242,7 @@
 				{"searchTerm": "GB Genjin"}
 			],
 			"compilations": [
+				{"searchTerm": "Genjin Collection"},
 				{"searchTerm": "Mani 4 in 1 - Takahashi Meijin no Bouken-jima II + GB Genjin + Bomber Boy + Milon no Meikyuu Kumikyoku", "titlePosition": 2}
 			]
 		},
@@ -250,6 +252,9 @@
 				{"searchTerm": "Bonk's Revenge"},
 				{"searchTerm": "B.C. Kid 2"},
 				{"searchTerm": "GB Genjin 2"}
+			],
+			"compilations": [
+				{"searchTerm": "Genjin Collection"}
 			]
 		},
 		{
@@ -342,6 +347,15 @@
 			"titles": [
 				{"searchTerm": "Bobby's World"},
 				{"searchTerm": "Home Alone 2 - Kevin's Dream", "priority": 2}
+			]
+		},
+		{
+			"group": "Bomberman GB",
+			"titles": [
+				{"searchTerm": "Bomberman GB"}
+			],
+			"compilations": [
+				{"searchTerm": "Bomberman Collection"}
 			]
 		},
 		{
@@ -732,6 +746,15 @@
 			"titles": [
 				{"searchTerm": "Gargoyle's Quest"},
 				{"searchTerm": "Red Arremer - Makaimura Gaiden"}
+			]
+		},
+		{
+			"group": "GB Genjin Land - Viva! Chikkun Oukoku",
+			"titles": [
+				{"searchTerm": "GB Genjin Land - Viva! Chikkun Oukoku"}
+			],
+			"compilations": [
+				{"searchTerm": "Genjin Collection"}
 			]
 		},
 		{
@@ -1815,6 +1838,15 @@
 				{"searchTerm": "Baby T-Rex"},
 				{"searchTerm": "Bamse"},
 				{"searchTerm": "Edd the Duck"}
+			]
+		},
+		{
+			"group": "Wario Blast Featuring Bomberman!",
+			"titles": [
+				{"searchTerm": "Wario Blast Featuring Bomberman!"}
+			],
+			"compilations": [
+				{"searchTerm": "Bomberman Collection"}
 			]
 		},
 		{
