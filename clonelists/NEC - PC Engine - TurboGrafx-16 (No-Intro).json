@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "NEC - PC Engine - TurboGrafx-16 (No-Intro)",
-		"lastUpdated": "10 April 2023",
+		"lastUpdated": "17 July 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -131,6 +131,13 @@
 			"titles": [
 				{"searchTerm": "Drop Off"},
 				{"searchTerm": "Drop Rock Hora Hora"}
+			]
+		},
+		{
+			"group": "Final Soldier",
+			"titles": [
+				{"searchTerm": "Final Soldier"},
+				{"searchTerm": "Final Soldier - Special Version", "priority": 2}
 			]
 		},
 		{
