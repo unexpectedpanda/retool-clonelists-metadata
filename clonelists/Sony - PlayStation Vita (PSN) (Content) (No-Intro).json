@@ -1,0 +1,1447 @@
+{
+	"description": {
+		"name": "Sony - PlayStation Vita (PSN) (Content) (No-Intro)",
+		"lastUpdated": "22 July 2023",
+		"minimumVersion": "2.00"
+	},
+
+	"categories": [
+		{
+			"searchTerm": "#Killallzombies Companion App",
+			"nameType": "short",
+			"categories": ["Add-Ons"]
+		},
+		{
+			"searchTerm": "Amnesia World AR",
+			"nameType": "short",
+			"categories": ["Add-Ons"]
+		},
+		{
+			"searchTerm": "Crunchyroll",
+			"nameType": "short",
+			"categories": ["Applications"]
+		},
+		{
+			"searchTerm": "Facebook",
+			"nameType": "short",
+			"categories": ["Applications"]
+		},
+		{
+			"searchTerm": "Gravity Rush - Maid Pack",
+			"nameType": "short",
+			"categories": ["Add-Ons"]
+		},
+		{
+			"searchTerm": "Gravity Rush - Special Forces Pack",
+			"nameType": "short",
+			"categories": ["Add-Ons"]
+		},
+		{
+			"searchTerm": "Gravity Rush - Spy Pack",
+			"nameType": "short",
+			"categories": ["Add-Ons"]
+		},
+		{
+			"searchTerm": "Hatsune Miku - Project Diva F - Sync Tool",
+			"nameType": "short",
+			"categories": ["Add-Ons"]
+		},
+		{
+			"searchTerm": "Killzone - Mercenary - Digital Art Book",
+			"nameType": "short",
+			"categories": ["Add-Ons"]
+		},
+		{
+			"searchTerm": "Live from PlayStation",
+			"nameType": "short",
+			"categories": ["Applications"]
+		},
+		{
+			"searchTerm": "LiveTweet",
+			"nameType": "short",
+			"categories": ["Applications"]
+		},
+		{
+			"searchTerm": "Netflix",
+			"nameType": "short",
+			"categories": ["Applications"]
+		},
+		{
+			"searchTerm": "Network Media Player",
+			"nameType": "short",
+			"categories": ["Applications"]
+		},
+		{
+			"searchTerm": "NHK On-Demand",
+			"nameType": "short",
+			"categories": ["Applications"]
+		},
+		{
+			"searchTerm": "NHL GameCenter",
+			"nameType": "short",
+			"categories": ["Applications"]
+		},
+		{
+			"searchTerm": "Niconico",
+			"nameType": "short",
+			"categories": ["Applications"]
+		},
+		{
+			"searchTerm": "PlayStation Home Arcade",
+			"nameType": "short",
+			"categories": ["Applications"]
+		},
+		{
+			"searchTerm": "PlayStation Mobile Development Assistant",
+			"nameType": "short",
+			"categories": ["Applications"]
+		},
+		{
+			"searchTerm": "PlayStation Mobile Runtime Package",
+			"nameType": "short",
+			"categories": ["Applications"]
+		},
+		{
+			"searchTerm": "PocketStation",
+			"nameType": "short",
+			"categories": ["Applications"]
+		},
+		{
+			"searchTerm": "Resistance - Burning Skies - Augmented Reality Monument Viewer",
+			"nameType": "short",
+			"categories": ["Add-Ons"]
+		},
+		{
+			"searchTerm": "Robotics;Notes Elite AR",
+			"nameType": "short",
+			"categories": ["Add-Ons"]
+		},
+		{
+			"searchTerm": "Skype",
+			"nameType": "short",
+			"categories": ["Applications"]
+		},
+		{
+			"searchTerm": "Torne",
+			"nameType": "short",
+			"categories": ["Applications"]
+		},
+		{
+			"searchTerm": "Tsutaya TV",
+			"nameType": "short",
+			"categories": ["Applications"]
+		},
+		{
+			"searchTerm": "Tuenti",
+			"nameType": "short",
+			"categories": ["Applications"]
+		},
+		{
+			"searchTerm": "TuneIn Radio",
+			"nameType": "short",
+			"categories": ["Applications"]
+		},
+		{
+			"searchTerm": "TV Dogatchi",
+			"nameType": "short",
+			"categories": ["Applications"]
+		},
+		{
+			"searchTerm": "Twitch",
+			"nameType": "short",
+			"categories": ["Applications"]
+		},
+		{
+			"searchTerm": "Uke-Torne",
+			"nameType": "short",
+			"categories": ["Applications"]
+		},
+		{
+			"searchTerm": "U-Next",
+			"nameType": "short",
+			"categories": ["Applications"]
+		},
+		{
+			"searchTerm": "WipEout 2048 - Online Pass",
+			"nameType": "short",
+			"categories": ["Add-Ons"]
+		}
+	],
+
+	"variants": [
+		{
+			"group": "A-Men",
+			"titles": [
+				{"searchTerm": "A-Men"},
+				{"searchTerm": "Assault Armies"}
+			]
+		},
+		{
+			"group": "Accel World vs. Sword Art Online",
+			"titles": [
+				{"searchTerm": "Accel World vs. Sword Art Online"},
+				{"searchTerm": "Accel World vs. Sword Art Online - Millennium Twilight"}
+			]
+		},
+		{
+			"group": "Aegis of Earth - Protonovus Assault",
+			"titles": [
+				{"searchTerm": "Aegis of Earth - Protonovus Assault"},
+				{"searchTerm": "Zettai Geigeki Wars"}
+			]
+		},
+		{
+			"group": "AeternoBlade",
+			"titles": [
+				{"searchTerm": "AeternoBlade"},
+				{"searchTerm": "Aeternoblade - Time Avenger"}
+			]
+		},
+		{
+			"group": "Akiba's Trip - Undead & Undressed",
+			"titles": [
+				{"searchTerm": "Akiba's Trip - Undead & Undressed"},
+				{"searchTerm": "Akiba's Trip 2"}
+			]
+		},
+		{
+			"group": "Antiquia Lost",
+			"titles": [
+				{"searchTerm": "Antiqua Lost"},
+				{"searchTerm": "Antiquia Lost"}
+			]
+		},
+		{
+			"group": "Ar Nosurge Plus - Ode to an Unborn Star",
+			"titles": [
+				{"searchTerm": "Ar Nosurge Plus - Ode to an Unborn Star"},
+				{"searchTerm": "Ar Nosurge Plus - Umareizuru Hoshi e Inoru Uta"}
+			]
+		},
+		{
+			"group": "Assassin's Creed III - Liberation",
+			"titles": [
+				{"searchTerm": "Assassin's Creed III - Lady Liberty"},
+				{"searchTerm": "Assassin's Creed III - Liberation"}
+			]
+		},
+		{
+			"group": "Atelier Ayesha Plus - The Alchemist of Dusk",
+			"titles": [
+				{"searchTerm": "Atelier Ayesha Plus - The Alchemist of Dusk"},
+				{"searchTerm": "Ayesha no Atelier Plus - Koukon no Daichi no Renkinjutsu"}
+			]
+		},
+		{
+			"group": "Atelier Escha & Logy Plus - Alchemists of the Dusk Sky",
+			"titles": [
+				{"searchTerm": "Atelier Escha & Logy Plus - Alchemists of the Dusk Sky"},
+				{"searchTerm": "Escha & Logy no Atelier Plus - Tasogare no Sora no Renkinjutsushi"}
+			]
+		},
+		{
+			"group": "Atelier Firis - The Alchemist and the Mysterious Journey",
+			"titles": [
+				{"searchTerm": "Atelier Firis - The Alchemist and the Mysterious Journey"},
+				{"searchTerm": "Firis no Atelier - Fushigi na Tabi no Renkinjutsushi"}
+			]
+		},
+		{
+			"group": "Atelier Meruru Plus - The Apprentice of Arland",
+			"titles": [
+				{"searchTerm": "Atelier Meruru Plus - The Apprentice of Arland"},
+				{"searchTerm": "Meruru no Atelier Plus - Arland no Renkinjutsushi 3"}
+			]
+		},
+		{
+			"group": "Atelier Rorona Plus - The Alchemist of Arland",
+			"titles": [
+				{"searchTerm": "Atelier Rorona Plus - The Alchemist of Arland"},
+				{"searchTerm": "Shin Rorona no Atelier - Hajimari no Monogatari - Arland no Renkinjutsushi"}
+			]
+		},
+		{
+			"group": "Atelier Shallie Plus - Alchemists of the Dusk Sea",
+			"titles": [
+				{"searchTerm": "Atelier Shallie Plus - Alchemists of the Dusk Sea"},
+				{"searchTerm": "Shallie no Atelier Plus - Tasogare no Umi no Renkinjutsushi"}
+			]
+		},
+		{
+			"group": "Atelier Sophie - The Alchemist of the Mysterious Book",
+			"titles": [
+				{"searchTerm": "Atelier Sophie - Fushigi na Hon no Renkinjutsushi"},
+				{"searchTerm": "Atelier Sophie - The Alchemist of the Mysterious Book"},
+				{"searchTerm": "Sophie no Atelier - Fushigi na Hon no Renkinjutsushi"}
+			]
+		},
+		{
+			"group": "Atelier Totori Plus - The Adventurer of Arland",
+			"titles": [
+				{"searchTerm": "Atelier Totori Plus - The Adventurer of Arland"},
+				{"searchTerm": "Totori no Atelier Plus - Arland no Renkinjutsushi 2"}
+			]
+		},
+		{
+			"group": "Balthazar's Dreams",
+			"titles": [
+				{"searchTerm": "Balthazar's Dream"},
+				{"searchTerm": "Balthazar's Dreams"}
+			]
+		},
+		{
+			"group": "Berserk and the Band of the Hawk",
+			"titles": [
+				{"searchTerm": "Berserk and the Band of the Hawk"},
+				{"searchTerm": "Berserk Musou"}
+			]
+		},
+		{
+			"group": "Best of Arcade Games",
+			"titles": [
+				{"searchTerm": "Best of Arcade Games"}
+			],
+			"supersets": [
+				{"searchTerm": "Best of Arcade Games - Deluxe Edition"}
+			]
+		},
+		{
+			"group": "Blast 'Em Bunnies",
+			"titles": [
+				{"searchTerm": "Blast 'Em Bunnies"},
+				{"searchTerm": "Blast 'Em Bunnies - Warui Usagi o Yattsukero!"}
+			]
+		},
+		{
+			"group": "BlazBlue - Chrono Phantasma Extend",
+			"titles": [
+				{"searchTerm": "BlazBlue - Chrono Phantasma Extend"},
+				{"searchTerm": "BlazBlue - Chronophantasma Extend"}
+			]
+		},
+		{
+			"group": "BreakQuest - Extra Evolution",
+			"titles": [
+				{"searchTerm": "BreakQuest - Extra Evolution"}
+			],
+			"supersets": [
+				{"searchTerm": "BreakQuest - Extra Evolution Pro"}
+			]
+		},
+		{
+			"group": "Call of Duty - Black Ops - Declassified",
+			"titles": [
+				{"searchTerm": "Call of Duty - Black Ops - Declassified"},
+				{"searchTerm": "Call of Duty - Black Ops Declassified"},
+				{"searchTerm": "Call of Duty Black Ops - Declassified"}
+			]
+		},{
+			"group": "Citizens of Earth",
+			"titles": [
+				{"searchTerm": "Citizens of Earth"},
+				{"searchTerm": "Citizens of Earth - Tatakae! Fukudaitouryou to 40-nin no Shimintachi!"}
+			]
+		},
+		{
+			"group": "Cladun Returns - This Is Sengoku!",
+			"titles": [
+				{"searchTerm": "Cladun Returns - This Is Sengoku!"},
+				{"searchTerm": "Classic Dungeon Sengoku"}
+			]
+		},
+		{
+			"group": "Code - Realize - Future Blessings",
+			"titles": [
+				{"searchTerm": "Code - Realize - Future Blessings"},
+				{"searchTerm": "Code - Realize - Shukufu no Mirai"}
+			]
+		},
+		{
+			"group": "Code - Realize - Guardian of Rebirth",
+			"titles": [
+				{"searchTerm": "Code - Realize - Guardian of Rebirth"},
+				{"searchTerm": "Code - Realize - Sousei no Himegimi"}
+			]
+		},
+		{
+			"group": "Code - Realize - Wintertide Miracles",
+			"titles": [
+				{"searchTerm": "Code - Realize - Shirogane no Kiseki"},
+				{"searchTerm": "Code - Realize - Wintertide Miracles"}
+			]
+		},
+		{
+			"group": "Conception II - Children of the Seven Stars",
+			"titles": [
+				{"searchTerm": "Conception II - Children of the Seven Stars"},
+				{"searchTerm": "Conception II - Nanahoshi no Michibiki to Mazuru no Akumu"}
+			]
+		},
+		{
+			"group": "Corridor Z",
+			"titles": [
+				{"searchTerm": "Corridor Z"},
+				{"searchTerm": "Corrizor Z"}
+			]
+		},
+		{
+			"group": "Criminal Girls - Invite Only",
+			"titles": [
+				{"searchTerm": "Criminal Girls - Invite Only"},
+				{"searchTerm": "Criminal Girls - Invitation"}
+			]
+		},
+		{
+			"group": "Criminal Girls 2 - Party Favors",
+			"titles": [
+				{"searchTerm": "Criminal Girls 2"},
+				{"searchTerm": "Criminal Girls 2 - Party Favors"}
+			]
+		},
+		{
+			"group": "Cursed Castilla EX",
+			"titles": [
+				{"searchTerm": "Cursed Castilla - Maldita Castilla EX"},
+				{"searchTerm": "Cursed Castilla EX"}
+			]
+		},
+		{
+			"group": "Damascus Gear - Operation Osaka",
+			"titles": [
+				{"searchTerm": "Damascus Gear - Operation Osaka"},
+				{"searchTerm": "Damascus Gear - Saikyou Exodus"}
+			]
+		},
+		{
+			"group": "Damascus Gear - Operation Tokyo",
+			"titles": [
+				{"searchTerm": "Damascus Gear - Operation Tokyo"},
+				{"searchTerm": "Damascus Gear - Tokyo Shisen"}
+			]
+		},
+		{
+			"group": "Danganronpa - Trigger Happy Havoc",
+			"titles": [
+				{"searchTerm": "Danganronpa - Trigger Happy Havoc"},
+				{"searchTerm": "Danganronpa"}
+			]
+		},
+		{
+			"group": "Danganronpa 2 - Goodbye Despair",
+			"titles": [
+				{"searchTerm": "Danganronpa 2 - Goodbye Despair"},
+				{"searchTerm": "Super Danganronpa 2"}
+			]
+		},
+		{
+			"group": "Danganronpa Another Episode - Ultra Despair Girls",
+			"titles": [
+				{"searchTerm": "Danganronpa Another Episode - Ultra Despair Girls"},
+				{"searchTerm": "Zettai Zetsubou Shoujo - Dangan-Ronpa - Another Episode"},
+				{"searchTerm": "Zettai Zetsubou Shoujo - Danganronpa - Another Episode"}
+			]
+		},
+		{
+			"group": "Danganronpa Veethree - Killing Harmony",
+			"titles": [
+				{"searchTerm": "Danganronpa - Killing Harmony"},
+				{"searchTerm": "New Danganronpa - Minna no Koroshiai Shingakki"}
+			]
+		},
+		{
+			"group": "Darius Burst Chronicle Saviors",
+			"titles": [
+				{"searchTerm": "Darius Burst Chronicle Saviors"},
+				{"searchTerm": "Darius Burst Chronicle Saviours"}
+			]
+		},
+		{
+			"group": "Dead or Alive Xtreme 3 - Venus",
+			"titles": [
+				{"searchTerm": "Dead or Alive Xtreme 3 - Venus"},
+				{"searchTerm": "Dead or Alive Xtreme 3 - Venus - Free-to-Play Version"},
+				{"searchTerm": "Dead or Alive Xtreme 3 - Venus - Kihon Muryouban"}
+			]
+		},
+		{
+			"group": "Deemo - The Last Recital",
+			"titles": [
+				{"searchTerm": "Deemo - Last Recital"},
+				{"searchTerm": "Deemo - The Last Recital"}
+			]
+		},
+		{
+			"group": "Demon Gaze",
+			"titles": [
+				{"searchTerm": "Demon Gaze"}
+			],
+			"supersets": [
+				{"searchTerm": "Demon Gaze - Global Edition"}
+			]
+		},
+		{
+			"group": "Demon Gaze II",
+			"titles": [
+				{"searchTerm": "Demon Gaze II"}
+			],
+			"supersets": [
+				{"searchTerm": "Demon Gaze 2 Global Edition"}
+			]
+		},
+		{
+			"group": "Disgaea 3 - Absence of Detention",
+			"titles": [
+				{"searchTerm": "Disgaea 3 - Absence of Detention"},
+				{"searchTerm": "Makai Senki Disgaea 3 Return"}
+			]
+		},
+		{
+			"group": "Disgaea 4 - A Promise Revisited",
+			"titles": [
+				{"searchTerm": "Disgaea 4 - A Promise Revisited"},
+				{"searchTerm": "Makai Senki Disgaea 4 Return"}
+			]
+		},
+		{
+			"group": "Distraint - Deluxe Edition",
+			"titles": [
+				{"searchTerm": "Distraint - Deluxe Edition"},
+				{"searchTerm": "Dot Horror Story"}
+			]
+		},
+		{
+			"group": "Divekick",
+			"titles": [
+				{"searchTerm": "Divekick"},
+				{"searchTerm": "Divekick - Addition Edition"}
+			]
+		},
+		{
+			"group": "DJ Max Technika Tune",
+			"titles": [
+				{"searchTerm": "DJ Max Technika Tune"},
+				{"searchTerm": "DJMax Technika Tune"}
+			]
+		},
+		{
+			"group": "Dragon Fantasy Book I",
+			"titles": [
+				{"searchTerm": "Dragon Fantasy - The Volumes of Westeria"},
+				{"searchTerm": "Dragon Fantasy Book I"}
+			]
+		},
+		{
+			"group": "Dragon Fantasy Book II",
+			"titles": [
+				{"searchTerm": "Dragon Fantasy - The Black Tome of Ice"},
+				{"searchTerm": "Dragon Fantasy Book II"}
+			]
+		},
+		{
+			"group": "Dragon Quest Builders",
+			"titles": [
+				{"searchTerm": "Dragon Quest Builders"},
+				{"searchTerm": "Dragon Quest Builders - Alefgard o Fukkatsu Niseyo"}
+			]
+		},
+		{
+			"group": "Dungeon Travelers 2 - The Royal Library & The Royal Seal",
+			"titles": [
+				{"searchTerm": "Dungeon Travelers 2 - Ouritsu Toshokan to Mamono no Fuuin"},
+				{"searchTerm": "Dungeon Travelers 2 - The Royal Library & The Monster Seal"},
+				{"searchTerm": "Dungeon Travelers 2 - The Royal Library & The Royal Seal"}
+			]
+		},
+		{
+			"group": "Dynasty Warriors 8 - Empires",
+			"titles": [
+				{"searchTerm": "Dynasty Warriors 8 - Empires"},
+				{"searchTerm": "Dynasty Warriors 8 - Empires - Free Alliances Version"},
+				{"searchTerm": "Shin Sangoku Musou 7 - Empires"},
+				{"searchTerm": "Shin Sangoku Musou 7 - Empires - Free Alliances Version"},
+				{"searchTerm": "Shin Sangoku Musou 7 Empires"}
+			]
+		},
+		{
+			"group": "Dynasty Warriors 8 - Xtreme Legends Complete Edition",
+			"titles": [
+				{"searchTerm": "Dynasty Warriors 8 - Xtreme Legends Complete Edition"},
+				{"searchTerm": "Shin Sangoku Musou 7 with Moushouden"}
+			]
+		},
+		{
+			"group": "Earth Defense Force 2 - Invaders from Planet Space",
+			"titles": [
+				{"searchTerm": "Chikyuu Boueigun 2 Portable"},
+				{"searchTerm": "Earth Defense Force 2 - Invaders from Planet Space"}
+			]
+		},
+		{
+			"group": "Earth Defense Force 2017 Portable",
+			"titles": [
+				{"searchTerm": "Chikyuu Boueigun 3 Portable"},
+				{"searchTerm": "Earth Defense Force 2017 Portable"}
+			]
+		},
+		{
+			"group": "EscapeVektor",
+			"titles": [
+				{"searchTerm": "Dennou kara no Dasshutsu - EscapeVektor"},
+				{"searchTerm": "EscapeVektor"}
+			]
+		},
+		{
+			"group": "Everybody's Golf 6",
+			"titles": [
+				{"searchTerm": "Everybody's Golf"},
+				{"searchTerm": "Everybody's Golf 6"},
+				{"searchTerm": "Minna no Golf 6"}
+			]
+		},
+		{
+			"group": "Farming Simulator 14",
+			"titles": [
+				{"searchTerm": "Farming Simulator 14"},
+				{"searchTerm": "Farming Simulator 14 - Pocket Nouen 2"}
+			]
+		},
+		{
+			"group": "Farming Simulator 16",
+			"titles": [
+				{"searchTerm": "Farming Simulator 16"},
+				{"searchTerm": "Farming Simulator 16 - Pocket Nouen 3"}
+			]
+		},
+		{
+			"group": "Farming Simulator 18",
+			"titles": [
+				{"searchTerm": "Farming Simulator 18"},
+				{"searchTerm": "Farming Simulator 18 - Pocket Nouen 4"}
+			]
+		},
+		{
+			"group": "Fate-Extella",
+			"titles": [
+				{"searchTerm": "Fate-Extella"},
+				{"searchTerm": "Fate-Extella - The Umbral Star"}
+			]
+		},
+		{
+			"group": "Fort Defense North Menace",
+			"titles": [
+				{"searchTerm": "Fort Defense - North Menace"},
+				{"searchTerm": "Fort Defense North Menace"}
+			]
+		},
+		{
+			"group": "Gal Gun - Double Peace",
+			"titles": [
+				{"searchTerm": "Gal Gun - Double Peace"},
+				{"searchTerm": "Gal Gun - Double Peace - Bilingual"}
+			]
+		},
+		{
+			"group": "Ghoulboy",
+			"titles": [
+				{"searchTerm": "Ghoulboy"},
+				{"searchTerm": "Ghoulboy - Dark Sword of Goblin"}
+			]
+		},
+		{
+			"group": "God Eater 2 - Rage Burst",
+			"titles": [
+				{"searchTerm": "God Eater 2"},
+				{"searchTerm": "God Eater 2 - Rage Burst"}
+			]
+		},
+		{
+			"group": "God Wars - Future Past",
+			"titles": [
+				{"searchTerm": "God Wars - Future Past"},
+				{"searchTerm": "God Wars - Toki o Koete"}
+			]
+		},
+		{
+			"group": "God Wars - The Complete Legend",
+			"titles": [
+				{"searchTerm": "God Wars - Nihon Shinwa Taisen"},
+				{"searchTerm": "God Wars - The Complete Legend"}
+			]
+		},
+		{
+			"group": "Gravity Rush",
+			"titles": [
+				{"searchTerm": "Gravity Daze"},
+				{"searchTerm": "Gravity Rush"}
+			]
+		},
+		{
+			"group": "Gundam Breaker 3 - Break Edition",
+			"titles": [
+				{"searchTerm": "Gundam Breaker 3"},
+				{"searchTerm": "Gundam Breaker 3 - Break Edition"}
+			]
+		},
+		{
+			"group": "Hakuoki - Edo Blossoms",
+			"titles": [
+				{"searchTerm": "Hakuoki - Edo Blossoms"},
+				{"searchTerm": "Hakuouki - Shinkai - Hana no Shou"}
+			]
+		},
+		{
+			"group": "Hakuoki - Kyoto Winds",
+			"titles": [
+				{"searchTerm": "Hakuoki - Kyoto Winds"},
+				{"searchTerm": "Hakuouki - Shinkai - Kaze no Shou"}
+			]
+		},
+		{
+			"group": "HD Adventures of Rotating Octopus Character",
+			"titles": [
+				{"searchTerm": "HD Adventures of Rotating Octopus Character"},
+				{"searchTerm": "HD Adventures of Rotating Octopus Character, The"}
+			]
+		},
+		{
+			"group": "House in Fata Morgana, The",
+			"titles": [
+				{"searchTerm": "Fata Morgana no Kan - Collected Edition"},
+				{"searchTerm": "House in Fata Morgana, The"}
+			]
+		},
+		{
+			"group": "Hyperdimension Neptunia Re;Birth2 - Sisters Generation",
+			"titles": [
+				{"searchTerm": "Chou Tsugitsugimono Game Neptune Re;Birth2 - Sisters Generation"},
+				{"searchTerm": "Hyperdimension Neptunia Re;Birth2 - Sisters Generation"}
+			]
+		},
+		{
+			"group": "Hyperdimension Neptunia U - Action Unleashed",
+			"titles": [
+				{"searchTerm": "Chou Jigen Action - Neptune U"},
+				{"searchTerm": "Hyperdimension Neptunia U - Action Unleashed"}
+			]
+		},
+		{
+			"group": "Hyperdevotion Noire - Goddess Black Heart",
+			"titles": [
+				{"searchTerm": "Chou Megami Shinkou Noire - Gekishin Black Heart"},
+				{"searchTerm": "Hyperdevotion Noire - Goddess Black Heart"}
+			]
+		},
+		{
+			"group": "Injustice - Gods Among Us - Ultimate Edition",
+			"titles": [
+				{"searchTerm": "Injustice - Gods Among Us - Ultimate Edition"},
+				{"searchTerm": "Injustice - Kamigami no Gekitotsu"}
+			]
+		},
+		{
+			"group": "Invizimals - Hidden Challenges",
+			"titles": [
+				{"searchTerm": "Invizimals - Collectible Card Game - Hidden Challenges"},
+				{"searchTerm": "Invizimals - Hidden Challenges"}
+			]
+		},
+		{
+			"group": "Jak and Daxter Collection",
+			"titles": [
+				{"searchTerm": "Jak and Daxter Collection"},
+				{"searchTerm": "Jak and Daxter Trilogy, The"}
+			]
+		},
+		{
+			"group": "Jetpack Joyride",
+			"titles": [
+				{"searchTerm": "Jetpack Joyride"}
+			],
+			"supersets": [
+				{"searchTerm": "Jetpack Joyride Deluxe"}
+			]
+		},
+		{
+			"group": "Killzone - Mercenary",
+			"titles": [
+				{"searchTerm": "Killzone - Mercenary"},
+				{"searchTerm": "Kilzone - Mercenary"}
+			]
+		},
+		{
+			"group": "Knock-Knock",
+			"titles": [
+				{"searchTerm": "Knock-Knock"},
+				{"searchTerm": "Knock Knock"}
+			]
+		},
+		{
+			"group": "Last Blade 2, The",
+			"titles": [
+				{"searchTerm": "Bakumatsu Roman Daini Tobari - Gekka no Kenshi"},
+				{"searchTerm": "Last Blade 2, The"}
+			]
+		},
+		{
+			"group": "Legend of Heroes, The - Sora no Kiseki FC Evolution",
+			"titles": [
+				{"searchTerm": "Eiyuu Densetsu - Sora no Kiseki FC Evolution"},
+				{"searchTerm": "Legend of Heroes, The - Sora no Kiseki FC Evolution"},
+				{"searchTerm": "Yingxiong Chuanshuo - Kong Zhi Guiji Di-Yi Zhang Quanmian Jinhuaban"}
+			]
+		},
+		{
+			"group": "Legend of Heroes, The - Sora No Kiseki SC Evolution",
+			"titles": [
+				{"searchTerm": "Eiyuu Densetsu - Sora no Kiseki SC Evolution"},
+				{"searchTerm": "Legend of Heroes, The - Sora No Kiseki SC Evolution"}
+			]
+		},
+		{
+			"group": "Legend of Heroes, The - Sora No Kiseki the 3rd Evolution",
+			"titles": [
+				{"searchTerm": "Eiyuu Densetsu - Sora no Kiseki the 3rd Evolution"},
+				{"searchTerm": "Legend of Heroes, The - Sora No Kiseki the 3rd Evolution"}
+			]
+		},
+		{
+			"group": "Legend of Heroes, The - Trails of Cold Steel II",
+			"titles": [
+				{"searchTerm": "Legend of Heroes, The - Sen no Kiseki II"},
+				{"searchTerm": "Legend of Heroes, The - Trails of Cold Steel II"}
+			]
+		},
+		{
+			"group": "Legend of Heroes, The - Zero no Kiseki Evolution",
+			"titles": [
+				{"searchTerm": "Eiyuu Densetsu - Zero no Kiseki Evolution"},
+				{"searchTerm": "Legend of Heroes, The - Zero no Kiseki Evolution"}
+			]
+		},
+		{
+			"group": "Longest Five Minutes, The",
+			"titles": [
+				{"searchTerm": "Longest Five Minutes, The"},
+				{"searchTerm": "Sekai Ichi Nagai 5-fun Kan"}
+			]
+		},
+		{
+			"group": "Magical Beat",
+			"titles": [
+				{"searchTerm": "Magical Beat"},
+				{"searchTerm": "Magical Beat - Beat de Tsunaku Ochimo no Puzzle"}
+			]
+		},
+		{
+			"group": "MegaTagmension Blanc + Neptune vs. Zombies",
+			"titles": [
+				{"searchTerm": "MegaTagmension Blanc + Neptune vs. Zombies"},
+				{"searchTerm": "MegaTagmension Blanc + Neptune VS Zombies"}
+			]
+		},
+		{
+			"group": "Metal Gear Solid 2 - Sons of Liberty - HD Edition",
+			"titles": [
+				{"searchTerm": "Metal Gear Solid 2 - Sons of Liberty - HD Edition"},
+				{"searchTerm": "Metal Gear Solid 2 HD Edition"}
+			]
+		},
+		{
+			"group": "Metal Gear Solid 3 - Snake Eater HD Edition",
+			"titles": [
+				{"searchTerm": "Metal Gear Solid 3 - Snake Eater HD Edition"},
+				{"searchTerm": "Metal Gear Solid 3 HD Edition"}
+			]
+		},
+		{
+			"group": "MotorStorm RC",
+			"titles": [
+				{"searchTerm": "MotorStorm RC - Presented by Scion"}
+			],
+			"supersets": [
+				{"searchTerm": "MotorStorm RC"}
+			]
+		},
+		{
+			"group": "Mr. Pumpkin's Adventure",
+			"titles": [
+				{"searchTerm": "Mr. Pumpkin's Adventure"},
+				{"searchTerm": "Mr. Pumpkin Adventure"},
+				{"searchTerm": "Mr. Pumpkin no Fushigi na Tabi"}
+			]
+		},
+		{
+			"group": "Musynx",
+			"titles": [
+				{"searchTerm": "Musync"},
+				{"searchTerm": "Musynx"}
+			]
+		},
+		{
+			"group": "Mystery Chronicle - One Way Heroics",
+			"titles": [
+				{"searchTerm": "Mystery Chronicle - One Way Heroes"},
+				{"searchTerm": "Mystery Chronicle - One Way Heroics"},
+				{"searchTerm": "Fushigi no Chronicle - Furikaerimasen Katsu Madewa" }
+			]
+		},
+		{
+			"group": "Necrosphere",
+			"titles": [
+				{"searchTerm": "Necrosphere"}
+			],
+			"supersets": [
+				{"searchTerm": "Necrosphere Deluxe"}
+			]
+		},
+		{
+			"group": "New Game! The Challenge Stage!",
+			"titles": [
+				{"searchTerm": "New Game! - The Challenge Stage!"},
+				{"searchTerm": "New Game! The Challenge Stage!"}
+			]
+		},
+		{
+			"group": "Nihilumbra",
+			"titles": [
+				{"searchTerm": "Nihilumbra"},
+				{"searchTerm": "Nihilumbra - Seimei to Shikisai no Tabiji"}
+			]
+		},
+		{
+			"group": "No Heroes Allowed - No Puzzles Either!",
+			"titles": [
+				{"searchTerm": "No Heroes Allowed - No Puzzles Either!"},
+				{"searchTerm": "Yuusha no Kuse ni Konamaikida. G"}
+			]
+		},
+		{
+			"group": "Nobunaga's Ambition - Souzou",
+			"titles": [
+				{"searchTerm": "Nobunaga's Ambition - Souzou"},
+				{"searchTerm": "Nobunaga no Yabou - Souzou"}
+			]
+		},
+		{
+			"group": "Nobunaga's Ambition - Souzou - Sengoku Risshiden",
+			"titles": [
+				{"searchTerm": "Nobunaga's Ambition - Souzou - Sengoku Risshiden"},
+				{"searchTerm": "Nobunaga no Yabou - Souzou Sengoku Risshiden"}
+			]
+		},
+		{
+			"group": "Nobunaga's Ambition - Sphere of Influence",
+			"titles": [
+				{"searchTerm": "Nobunaga's Ambition - Sphere of Influence"},
+				{"searchTerm": "Nobunaga no Yabou - Souzou with Power-Up Kit"}
+			]
+		},
+		{
+			"group": "Octodad - Dadliest Catch",
+			"titles": [
+				{"searchTerm": "Octodad - Dadliest Catch"},
+				{"searchTerm": "Octodad - Tako to Yoba na Ide"}
+			]
+		},
+		{
+			"group": "Odin Sphere - Leifdrasir",
+			"titles": [
+				{"searchTerm": "Odin Sphere - Leifdrasir"},
+				{"searchTerm": "Odin Sphere - Leifthrasir"}
+			]
+		},
+		{
+			"group": "One Piece Unlimited World Red",
+			"titles": [
+				{"searchTerm": "One Piece - Unlimited World R"},
+				{"searchTerm": "One Piece - Unlimited World Red"},
+				{"searchTerm": "One Piece Unlimited World Red"}
+			]
+		},
+		{
+			"group": "Open Me!",
+			"titles": [
+				{"searchTerm": "Hako! Open Me"},
+				{"searchTerm": "Hako! Open Me - Digest Version"},
+				{"searchTerm": "Open Me!"},
+				{"searchTerm": "Open Me! Digest Ver."}
+			]
+		},
+		{
+			"group": "Oreshika - Tainted Bloodlines",
+			"titles": [
+				{"searchTerm": "Ore no Shikabane o Koete Yuke 2"},
+				{"searchTerm": "Oreshika - Tainted Bloodlines"}
+			]
+		},
+		{
+			"group": "Paint Park Plus",
+			"titles": [
+				{"searchTerm": "E Channel - New Paint Park"},
+				{"searchTerm": "Paint Park Plus"}
+			]
+		},
+		{
+			"group": "Perils of Baking - Refrosted",
+			"titles": [
+				{"searchTerm": "Perils of Baking"},
+				{"searchTerm": "Perils of Baking - Refrosted"}
+			]
+		},
+		{
+			"group": "Persona 3 - Dancing in Moonlight",
+			"titles": [
+				{"searchTerm": "Persona 3 - Dancing in Moonlight"},
+				{"searchTerm": "Persona 3 - Dancing Moon Night"}
+			]
+		},
+		{
+			"group": "Persona 4 Golden",
+			"titles": [
+				{"searchTerm": "Persona 4 - The Golden"},
+				{"searchTerm": "Persona 4 Golden"}
+			]
+		},
+		{
+			"group": "Persona 5 - Dancing in Starlight",
+			"titles": [
+				{"searchTerm": "Persona 5 - Dancing in Starlight"},
+				{"searchTerm": "Persona 5 - Dancing Star Night"}
+			]
+		},
+		{
+			"group": "Phineas and Ferb - Day of Doofenshmirtz",
+			"titles": [
+				{"searchTerm": "Phineas and Ferb - Day of Doofenshmirtz"},
+				{"searchTerm": "Phineas and Ferb - Day of Doofenshimirtz"}
+			]
+		},
+		{
+			"group": "PixelJunk Monsters Ultimate HD",
+			"titles": [
+				{"searchTerm": "PixelJunk Monsters - Ultimate HD"},
+				{"searchTerm": "PixelJunk Monsters Ultimate HD"}
+			]
+		},
+		{
+			"group": "Psychedelica of the Ashen Hawk",
+			"titles": [
+				{"searchTerm": "Psychedelica of Gray Hawk"},
+				{"searchTerm": "Psychedelica of the Ashen Hawk"}
+			]
+		},
+		{
+			"group": "Psycho-Pass - Mandatory Happiness",
+			"titles": [
+				{"searchTerm": "Psycho-Pass - Mandatory Happiness"},
+				{"searchTerm": "Psycho-Pass - Sentaku Naki Koufuku"}
+			]
+		},
+		{
+			"group": "PulzAR",
+			"titles": [
+				{"searchTerm": "Puls-AR"},
+				{"searchTerm": "PulzAR"}
+			]
+		},
+		{
+			"group": "Puzzle by Nikoli V - Slitherlink",
+			"titles": [
+				{"searchTerm": "Nikoli no Puzzle V - Slitherlink"},
+				{"searchTerm": "Puzzle by Nikoli V - Slitherlink"}
+			]
+		},
+		{
+			"group": "Puzzle by Nikoli V - Sudoku",
+			"titles": [
+				{"searchTerm": "Nikoli no Puzzle V - Sudoku"},
+				{"searchTerm": "Puzzle by Nikoli V - Sudoku"}
+			]
+		},
+		{
+			"group": "Ratchet & Clank - Full Frontal Assault",
+			"titles": [
+				{"searchTerm": "Ratchet & Clank - Full Frontal Assault"},
+				{"searchTerm": "Ratchet & Clank - Ginga Sentai QForce"},
+				{"searchTerm": "Ratchet & Clank - QForce"}
+			]
+		},
+		{
+			"group": "Ratchet & Clank Collection",
+			"titles": [
+				{"searchTerm": "Ratchet & Clank Collection"},
+				{"searchTerm": "Ratchet & Clank Trilogy"}
+			]
+		},
+		{
+			"group": "Reel Fishing - Master's Challenge",
+			"titles": [
+				{"searchTerm": "Reel Fishing - Master's Challenge"},
+				{"searchTerm": "Reel Fishing - Wasureteita Yakusoku"}
+			]
+		},
+		{
+			"group": "Resident Evil - Revelations 2",
+			"titles": [
+				{"searchTerm": "Biohazard - Revelations 2"},
+				{"searchTerm": "Resident Evil - Revelations 2"}
+			]
+		},
+		{
+			"group": "Retro City Rampage",
+			"titles": [
+				{"searchTerm": "Retro City Rampage"}
+			],
+			"supersets": [
+				{"searchTerm": "Retro City Rampage DX"}
+			]
+		},
+		{
+			"group": "Romance of the Three Kingdoms XIII - Fame and Strategy Expansion Pack Bundle",
+			"titles": [
+				{"searchTerm": "Romance of the Three Kingdoms XIII - Fame and Strategy Expansion Pack Bundle"},
+				{"searchTerm": "San Goku Shi 13 with Power-Up Kit"}
+			]
+		},
+		{
+			"group": "Rose in the Twilight, A",
+			"titles": [
+				{"searchTerm": "Rose in the Twilight, A"},
+				{"searchTerm": "Rose to Tasogare no Kojo"},
+				{"searchTerm": "Rose to Tasogare no Kojou"}
+			]
+		},
+		{
+			"group": "Samurai Warriors Chronicles 3",
+			"titles": [
+				{"searchTerm": "Samurai Warriors - Chronicles 3"},
+				{"searchTerm": "Samurai Warriors Chronicles 3"},
+				{"searchTerm": "Sengoku Musou Chronicle 3"}
+			]
+		},
+		{
+			"group": "Samurai Warriors 4 Empires",
+			"titles": [
+				{"searchTerm": "Samurai Warriors 4 Empires"},
+				{"searchTerm": "Sengoku Musou 4 Empires"}
+			]
+		},
+		{
+			"group": "Samurai Warriors 4-II",
+			"titles": [
+				{"searchTerm": "Samurai Warriors 4-II"},
+				{"searchTerm": "Sengoku Musou 4-II"}
+			]
+		},
+		{
+			"group": "Sayonara UmiharaKawase +",
+			"titles": [
+				{"searchTerm": "Sayonara Umihara Kawase Chirari"},
+				{"searchTerm": "Sayonara UmiharaKawase +"}
+			]
+		},
+		{
+			"group": "Secret of Mana",
+			"titles": [
+				{"searchTerm": "Secret of Mana"},
+				{"searchTerm": "Seiken Densetsu 2 - Secret of Mana"}
+			]
+		},
+		{
+			"group": "Senran Kagura - Estival Versus",
+			"titles": [
+				{"searchTerm": "Senran Kagura - Estival Versus"},
+				{"searchTerm": "Senran Kagura - Estival Versus - Shoujotachi no Sentaku"}
+			]
+		},
+		{
+			"group": "Senran Kagura Bon Appetit!",
+			"titles": [
+				{"searchTerm": "Senran Kagura Bon Appetit!"},
+				{"searchTerm": "Dekamori Senran Kagura - Body Pack A - Hanzo & Guren"},
+				{"searchTerm": "Dekamori Senran Kagura - Body Pack B"},
+				{"searchTerm": "Dekamori Senran Kagura - Hontai Pack A - Hanzo & Guren"},
+				{"searchTerm": "Dekamori Senran Kagura - Hontai Pack B"}
+			]
+		},
+		{
+			"group": "Senran Kagura Shinovi Versus",
+			"titles": [
+				{"searchTerm": "Senran Kagura Shinovi Versus"},
+				{"searchTerm": "Senran Kagura Shinovi Versus - Shoujotachi no Shoumei"}
+			]
+		},
+		{
+			"group": "Shiren the Wanderer",
+			"titles": [
+				{"searchTerm": "Shiren the Wanderer"},
+				{"searchTerm": "Shiren the Wanderer - The Tower of Fortune and the Dice of Fate"}
+			]
+		},
+		{
+			"group": "Sid Meier's Civilization Revolution 2 Plus",
+			"titles": [
+				{"searchTerm": "Sid Meier's Civilization Revolution 2+"},
+				{"searchTerm": "Sid Meier's Civilization Revolution 2 Plus"}
+			]
+		},
+		{
+			"group": "Skullgirls 2nd Encore",
+			"titles": [
+				{"searchTerm": "Skullgirls - 2nd Encore"},
+				{"searchTerm": "Skullgirls 2nd Encore"}
+			]
+		},
+		{
+			"group": "Sly 3 - Honor Among Thieves",
+			"titles": [
+				{"searchTerm": "Sly 3 - Honor Among Thieves"},
+				{"searchTerm": "Sly 3 - Honour Among Thieves"}
+			]
+		},
+		{
+			"group": "Sorcery Saga - Curse of the Great Curry God",
+			"titles": [
+				{"searchTerm": "Sei Madou Monogatari"},
+				{"searchTerm": "Sorcery Saga - Curse of the Great Curry God"}
+			]
+		},
+		{
+			"group": "Squareboy vs. Bullies - Arena Edition",
+			"titles": [
+				{"searchTerm": "Squareboy vs. Bullies - Arena Edition"},
+				{"searchTerm": "Squareboy vs Bullies - Arena Edition"}
+			]
+		},
+		{
+			"group": "Stealth Inc. - A Clone in the Dark",
+			"titles": [
+				{"searchTerm": "Stealth Inc. - A Clone in the Dark"}
+			],
+			"supersets": [
+				{"searchTerm": "Stealth Inc. - A Clone in the Dark - Ultimate Edition"}
+			]
+		},
+		{
+			"group": "Summon Night 6 - Lost Borders",
+			"titles": [
+				{"searchTerm": "Summon Night 6 - Lost Borders"},
+				{"searchTerm": "Summon Night 6 - Ushinawareta Kyoukaitachi"}
+			]
+		},
+		{
+			"group": "Super Destronaut DX",
+			"titles": [
+				{"searchTerm": "Super Destronaut DX"}
+			],
+			"supersets": [
+				{"searchTerm": "Super Destronaut DX - Intruders Edition"}
+			]
+		},
+		{
+			"group": "Super Exploding Zoo",
+			"titles": [
+				{"searchTerm": "Super Exploding Zoo"},
+				{"searchTerm": "Super Exploding Zoo!"}
+			]
+		},
+		{
+			"group": "Super Monkey Ball - Banana Splitz",
+			"titles": [
+				{"searchTerm": "Super Monkey Ball - Banana Splitz"},
+				{"searchTerm": "Super Monkey Ball - Tokumori AsoVita!"}
+			]
+		},
+		{
+			"group": "Super Robot Wars V",
+			"titles": [
+				{"searchTerm": "Super Robot Taisen V"},
+				{"searchTerm": "Super Robot Wars V"}
+			],
+			"supersets": [
+				{"searchTerm": "Super Robot Taisen V - Premium Anime Song & Sound Edition"}
+			]
+		},
+		{
+			"group": "Super Robot Wars X",
+			"titles": [
+				{"searchTerm": "Super Robot Taisen X"},
+				{"searchTerm": "Super Robot Wars X"}
+			],
+			"supersets": [
+				{"searchTerm": "Super Robot Taisen X - Premium Anime & Sound Edition"}
+			]
+		},
+		{
+			"group": "Superdimension Neptune vs. Sega Hard Girls",
+			"titles": [
+				{"searchTerm": "Superdimension Neptune vs. Sega Hard Girls"},
+				{"searchTerm": "Superdimension Neptune VS Sega Hard Girls"},
+				{"searchTerm": "Chou Jigen Taisen Neptune VS Sega Hard Girls - Yume no Gattai Special"}
+			]
+		},
+		{
+			"group": "Table Ice Hockey",
+			"titles": [
+				{"searchTerm": "Table Ice Hockey"},
+				{"searchTerm": "Table Play Ice Hockey"}
+			]
+		},
+		{
+			"group": "Table Mini Golf",
+			"titles": [
+				{"searchTerm": "Table Mini Golf"},
+				{"searchTerm": "Table Play Golf"}
+			]
+		},
+		{
+			"group": "Table Soccer",
+			"titles": [
+				{"searchTerm": "Table Football"},
+				{"searchTerm": "Table Play Soccer"},
+				{"searchTerm": "Table Soccer"}
+			]
+		},
+		{
+			"group": "Tearaway",
+			"titles": [
+				{"searchTerm": "Tearaway (Trial)"},
+				{"searchTerm": "Tearaway - Hagareta Sekai no Daibouken (Trial)"}
+			]
+		},
+		{
+			"group": "Tiny Troopers - Joint Ops",
+			"titles": [
+				{"searchTerm": "Tiny Troopers - Joint Ops"},
+				{"searchTerm": "Tiny Troopers Joint Ops"}
+			]
+		},
+		{
+			"group": "Toro's Friend Network",
+			"titles": [
+				{"searchTerm": "Toro's Friend Network"},
+				{"searchTerm": "Toro's Friendly Network"},
+				{"searchTerm": "Toro's Friends Network"}
+			]
+		},
+		{
+			"group": "Touhou Kobuto V - Burst Battle",
+			"titles": [
+				{"searchTerm": "Touhou Kobuto V - Burst Battle"},
+				{"searchTerm": "Touhou Koubutou V"}
+			]
+		},
+		{
+			"group": "Toukiden - The Age of Demons",
+			"titles": [
+				{"searchTerm": "Toukiden"},
+				{"searchTerm": "Toukiden - The Age of Demons"}
+			]
+		},
+		{
+			"group": "Toukiden 2 - Free Alliances Version",
+			"titles": [
+				{"searchTerm": "Toukiden 2 - Free Alliances Version"},
+				{"searchTerm": "Toukiden 2 - Free Alliances Version - Co-Op Battle Version"}
+			]
+		},
+		{
+			"group": "Trillion - God of Destruction",
+			"titles": [
+				{"searchTerm": "Makaigami Trillion" },
+				{"searchTerm": "Makaishin Trillion"},
+				{"searchTerm": "Trillion - God of Destruction"}
+
+			]
+		},
+		{
+			"group": "Uncharted - Golden Abyss",
+			"titles": [
+				{"searchTerm": "Uncharted - Chizu Naki Bouken no Hajimari"},
+				{"searchTerm": "Uncharted - Golden Abyss"}
+			]
+		},
+		{
+			"group": "Utawarerumono - Mask of Deception",
+			"titles": [
+				{"searchTerm": "Utawarerumono - Itsuwari no Kamen"},
+				{"searchTerm": "Utawarerumono - Mask of Deception"}
+			]
+		},
+		{
+			"group": "Utawarerumono - Mask of Truth",
+			"titles": [
+				{"searchTerm": "Utawarerumono - Futari no Hakuoro"},
+				{"searchTerm": "Utawarerumono - Mask of Truth"}
+			]
+		},
+		{
+			"group": "Utawarerumono - Prelude to the Fallen",
+			"titles": [
+				{"searchTerm": "Utawarerumono - Chiriyukusha e no Komoriuta"},
+				{"searchTerm": "Utawarerumono - Prelude to the Fallen"}
+			]
+		},
+		{
+			"group": "Valhalla Knights 3",
+			"titles": [
+				{"searchTerm": "Valhalla Knights 3"}
+			],
+			"supersets": [
+				{"searchTerm": "Valhalla Knights 3 Gold"}
+			]
+		},
+		{
+			"group": "Valkyria Revolution",
+			"titles": [
+				{"searchTerm": "Valkyria - Azure Revolution"},
+				{"searchTerm": "Valkyria Revolution"}
+			]
+		},
+		{
+			"group": "Velocity 2X",
+			"titles": [
+				{"searchTerm": "Velocity 2X"}
+			],
+			"supersets": [
+				{"searchTerm": "Velocity 2X - Critical Mass Edition"}
+			]
+		},
+		{
+			"group": "XBlaze - Lost Memories",
+			"titles": [
+				{"searchTerm": "XBlaze - Lost Memories"},
+				{"searchTerm": "XBlaze Lost - Memories"}
+			]
+		},
+		{
+			"group": "Ys - Memories of Celceta",
+			"titles": [
+				{"searchTerm": "Ys - Celceta no Jukai"},
+				{"searchTerm": "Ys - Memories of Celceta"},
+				{"searchTerm": "Ys - The Foliage Ocean in Celceta"}
+			]
+		},
+		{
+			"group": "Zero Escape - The Nonary Games",
+			"titles": [
+				{"searchTerm": "Zero Escape - 9 Jikan 9 nin 9 no Tobira Zennin Shibo Dos Double Pack"},
+				{"searchTerm": "Zero Escape - The Nonary Games"}
+			]
+		},
+		{
+			"group": "Zero Escape - Zero Time Dilemma",
+			"titles": [
+				{"searchTerm": "Zero Escape - Toki no Dilemma"},
+				{"searchTerm": "Zero Escape - Zero Time Dilemma"}
+			]
+		},
+		{
+			"group": "Zombie Tycoon II - Brainhov's Revenge",
+			"titles": [
+				{"searchTerm": "Zombie Tycoon 2 - Brainhov's Revenge"},
+				{"searchTerm": "Zombie Tycoon II - Brainhov's Revenge"}
+			]
+		}
+	]
+}
