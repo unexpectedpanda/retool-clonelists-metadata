@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Nintendo - Game Boy Advance (No-Intro)",
-		"lastUpdated": "13 April 2023",
+		"lastUpdated": "22 July 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -3105,10 +3105,10 @@
 			]
 		},
 		{
-			"group": "Yoshi Sample (SDK 3.0) (Tech Demo) (Demo)",
+			"group": "Yoshi Sample Tech Demo",
 			"titles": [
-				{"searchTerm": "Yoshi Sample (SDK 3.0) (Tech Demo) (Demo)"},
-				{"searchTerm": "Yoshi Sample (Tech Demo) (Demo)", "priority": 2}
+				{"searchTerm": "Yoshi Sample (SDK 3.0) (Tech Demo)"},
+				{"searchTerm": "Yoshi Sample (Tech Demo)", "priority": 2}
 			]
 		},
 		{

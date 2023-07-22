@@ -7,7 +7,7 @@
 			"These are defaults that Retool requires, don't modify this file.",
 			"Check user-config.yaml for user-editable settings."
 		],
-		"lastUpdated": "16 May 2023"
+		"lastUpdated": "17 July 2023"
 	},
 
 	"ignoreTags": [
@@ -28,6 +28,7 @@
 		"\\s?\\([BM][CLR][AEJKTU][BCDMST]-\\d{5}\\)",
 		"\\s?\\([CP][CLU][ACJKS][AMS]-\\d{5}\\)",
 		"\\s?\\(U[CLT][EJUS][BST]-\\d{5}\\)",
+		"\\s?\\(P[CS]{2}[ABEFGH]\\d{5}\\)",
 		"\\s?\\((?:(?:[0-9]{1,2}[ABCMRS],? ?)*|R[E]?[-]?[0-9]*)\\)",
 		"\\s?\\((?:\\w*?\\s+)*Alpha(?:\\s\\d+)?\\)",
 		"\\s?\\((?:\\w*?\\s+)*Beta(?:\\s\\d+)?\\)",
@@ -291,6 +292,7 @@
 		"\\s?\\(PlayStation the Best for Family\\)",
 		"\\s?\\(PlayStation 2 the Best\\)",
 		"\\s?\\(PlayStation 3 the Best\\)",
+		"\\s?\\(PlayStation Vita the Best\\)",
 		"\\s?\\(Platinum\\)",
 		"\\s?\\(Premium Pack\\)",
 		"\\s?\\(PSone Books\\)",

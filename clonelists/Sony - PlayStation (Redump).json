@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Sony - PlayStation (Redump)",
-		"lastUpdated": "17 June 2023",
+		"lastUpdated": "22 July 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -91,6 +91,57 @@
 		{
 			"searchTerm": "Dance Dance Revolution (Japan)",
 			"newGroup": "Dance Dance Revolution Japan"
+		},
+		{
+			"searchTerm": "Demo One (Germany) (SCES-00064)",
+			"nameType": "full",
+			"newGroup": "Demo One Vee One Germany 1"
+		},
+		{
+			"searchTerm": "Demo One (Germany) (SCES-00121)",
+			"nameType": "full",
+			"newGroup": "Demo One Vee One Germany 2"
+		},
+		{
+			"searchTerm": "Demo One (Version 1) (Europe)",
+			"nameType": "full",
+			"newGroup": "Demo One Vee One Europe"
+		},
+		{
+			"searchTerm": "Demo One (Version 2) (Europe, Australia)",
+			"nameType": "full",
+			"newGroup": "Demo One Vee Two Europe Australia"
+		},
+		{
+			"searchTerm": "Demo One (Version 3) (Europe, Australia)",
+			"nameType": "full",
+			"newGroup": "Demo One Vee Three Europe Australia"
+		},
+		{
+			"searchTerm": "Demo One (Version 4) (Europe)",
+			"nameType": "full",
+			"newGroup": "Demo One Vee Four Europe"
+		},
+		{
+			"searchTerm": "Demo One (Version 4) (Germany)",
+			"nameType": "full",
+			"newGroup": "Demo One Vee Four Germany"
+		},
+		{
+			"searchTerm": "Demo One (Version 5) (Europe)",
+			"nameType": "full",
+			"newGroup": "Demo One Vee Five Europe"
+		},
+		{
+			"searchTerm": "Demo One (Version 6) (Europe, Australia) (En,Fr,De,Es,It)",
+			"nameType": "full",
+			"newGroup": "Demo One Vee Six Europe Australia"
+		},
+
+		{
+			"searchTerm": "Demo One (Version 7) (Europe) (En,Fr,De,Es,It)",
+			"nameType": "full",
+			"newGroup": "Demo One Vee Seven Europe"
 		},
 		{
 			"searchTerm": "Gallop Racer (Japan)",
