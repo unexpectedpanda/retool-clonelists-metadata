@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Sega - Mega Drive - Genesis (No-Intro)",
-		"lastUpdated": "4 June 2023",
+		"lastUpdated": "23 July 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -86,7 +86,7 @@
 				{"searchTerm": "Juuouki"}
 			],
 			"compilations": [
-				{"searchTerm": "Arcade Legends Sega Mega Drive ~ Arcade Legends Sega Genesis ~ Mega Drive Play TV"},
+				{"searchTerm": "Arcade Legends Sega Mega Drive"},
 				{"searchTerm": "Classic Collection"}
 			]
 		},
@@ -176,7 +176,7 @@
 			"group": "Beggar Prince",
 			"titles": [
 				{"searchTerm": "Beggar Prince"},
-				{"searchTerm": "Xin Qi Gai Wang Zi"}
+				{"searchTerm": "Xin Qigai Wangzi"}
 			]
 		},
 		{
@@ -276,6 +276,13 @@
 				{"searchTerm": "Castlevania - Bloodlines"},
 				{"searchTerm": "Castlevania - The New Generation"},
 				{"searchTerm": "Vampire Killer"}
+			]
+		},
+		{
+			"group": "Cave Story - Doukutsu Monogatari",
+			"titles": [
+				{"searchTerm": "Cave Story - Doukutsu Monogatari"},
+				{"searchTerm": "Cave Story - Doukutsu Monogatari.*\\(SNAPSHOT.*?\\).*", "nameType": "regex", "priority": 2}
 			]
 		},
 		{
@@ -389,16 +396,6 @@
 			]
 		},
 		{
-			"group": "Daimakaimura ~ Ghouls'n Ghosts",
-			"titles": [
-				{"searchTerm": "Daimakaimura"},
-				{"searchTerm": "Daimakaimura ~ Ghouls'n Ghosts"}
-			],
-			"compilations": [
-				{"searchTerm": "Arcade Legends Street Fighter II' - Special Champion Edition ~ Mega Drive Play TV 3"}
-			]
-		},
-		{
 			"group": "Darius - Extra Version",
 			"titles": [
 				{"searchTerm": "Darius - Extra Version (Columbus Circle)"},
@@ -413,10 +410,10 @@
 			]
 		},
 		{
-			"group": "Davis Cup Tennis ~ Davis Cup World Tour",
+			"group": "Davis Cup World Tour",
 			"titles": [
 				{"searchTerm": "Davis Cup Tennis"},
-				{"searchTerm": "Davis Cup Tennis ~ Davis Cup World Tour"}
+				{"searchTerm": "Davis Cup World Tour"}
 			]
 		},
 		{
@@ -437,7 +434,7 @@
 			"group": "Desert Strike - Return to the Gulf",
 			"titles": [
 				{"searchTerm": "Desert Strike - Return to the Gulf"},
-				{"searchTerm": "Desert Strike - Wangan Sakusen ~ Desert Strike"}
+				{"searchTerm": "Desert Strike - Wangan Sakusen"}
 			]
 		},
 		{
@@ -470,9 +467,8 @@
 				{"searchTerm": "Dr. Robotnik's Mean Bean Machine"}
 			],
 			"compilations": [
-				{"searchTerm": "Arcade Legends Sega Mega Drive ~ Arcade Legends Sega Genesis ~ Mega Drive Play TV"},
-				{"searchTerm": "Sonic Compilation", "priority": 2},
-				{"searchTerm": "Sonic Compilation ~ Sonic Classics", "priority": 2}
+				{"searchTerm": "Arcade Legends Sega Mega Drive"},
+				{"searchTerm": "Sonic Compilation", "priority": 2}
 			]
 		},
 		{
@@ -587,6 +583,13 @@
 			]
 		},
 		{
+			"group": "Fix-It Felix Jr.",
+			"titles": [
+				{"searchTerm": "Fix-It Felix Jr."},
+				{"searchTerm": "Ralph"}
+			]
+		},
+		{
 			"group": "Flashback - The Quest for Identity",
 			"titles": [
 				{"searchTerm": "Flashback"},
@@ -600,7 +603,7 @@
 			],
 			"compilations": [
 				{"searchTerm": "10 Super Jogos"},
-				{"searchTerm": "Arcade Legends Sega Mega Drive ~ Arcade Legends Sega Genesis ~ Mega Drive Play TV"},
+				{"searchTerm": "Arcade Legends Sega Mega Drive"},
 				{"searchTerm": "Classic Collection"},
 				{"searchTerm": "Game no Kanzume Otokuyou"},
 				{"searchTerm": "Sega Top Five"}
@@ -645,7 +648,7 @@
 			"group": "Generals of the Yang Family - Clan of Heroes",
 			"titles": [
 				{"searchTerm": "Generals of the Yang Family - Clan of Heroes"},
-				{"searchTerm": "Yi Men Ying Lie - Yang Jia Jiang"}
+				{"searchTerm": "Yimen Yinglie - Yangjia Jiang"}
 			]
 		},
 		{
@@ -656,6 +659,16 @@
 			]
 		},
 		{
+			"group": "Ghouls'n Ghosts",
+			"titles": [
+				{"searchTerm": "Daimakaimura"},
+				{"searchTerm": "Ghouls'n Ghosts"}
+			],
+			"compilations": [
+				{"searchTerm": "Arcade Legends Street Fighter II' - Special Champion Edition"}
+			]
+		},
+		{
 			"group": "Golden Axe",
 			"titles": [
 				{"searchTerm": "Golden Axe"}
@@ -663,7 +676,7 @@
 			"compilations": [
 				{"searchTerm": "6-Pak"},
 				{"searchTerm": "10 Super Jogos"},
-				{"searchTerm": "Arcade Legends Sega Mega Drive ~ Arcade Legends Sega Genesis ~ Mega Drive Play TV"},
+				{"searchTerm": "Arcade Legends Sega Mega Drive"},
 				{"searchTerm": "Mega Games 2"}
 			]
 		},
@@ -836,7 +849,7 @@
 			"titles": [
 				{"searchTerm": "Chameleon Kid"},
 				{"searchTerm": "Kid Chameleon"},
-				{"searchTerm": "Arcade Legends Sega Mega Drive ~ Arcade Legends Sega Genesis ~ Mega Drive Play TV"}
+				{"searchTerm": "Arcade Legends Sega Mega Drive"}
 			]
 		},
 		{
@@ -874,7 +887,7 @@
 			"group": "Legend of Wukong",
 			"titles": [
 				{"searchTerm": "Legend of Wukong"},
-				{"searchTerm": "Wu Kong Wai Zhuan"}
+				{"searchTerm": "Wukong Waizhuan"}
 			]
 		},
 		{
@@ -899,10 +912,10 @@
 			]
 		},
 		{
-			"group": "Magic Girl Featuring Ling Ling the Little Witch",
+			"group": "Magic Girl - Featuring Ling Ling the Little Witch",
 			"titles": [
-				{"searchTerm": "Magic Girl Featuring Ling Ling the Little Witch"},
-				{"searchTerm": "Xiao Monv - Magic Girl"}
+				{"searchTerm": "Magic Girl - Featuring Ling Ling the Little Witch"},
+				{"searchTerm": "Xiao Monu - Magic Girl"}
 			]
 		},
 		{
@@ -1292,6 +1305,14 @@
 			]
 		},
 		{
+			"group": "Sacred Line Genesis",
+			"titles": [
+				{"searchTerm": "Sacred Line Genesis"},
+				{"searchTerm": "Sacred Line Genesis (Legacy Edition)", "priority": 2},
+				{"searchTerm": "Sacred Line Genesis (Digital Edition)", "priority": 3}
+			]
+		},
+		{
 			"group": "Sagaia",
 			"titles": [
 				{"searchTerm": "Darius II"},
@@ -1388,7 +1409,7 @@
 		{
 			"group": "Smart Mouse",
 			"titles": [
-				{"searchTerm": "Huan Le Tao Qi Shu - Smart Mouse"},
+				{"searchTerm": "Huanle Taoqi Shu - Smart Mouse"},
 				{"searchTerm": "Smart Mouse"}
 			]
 		},
@@ -1414,21 +1435,22 @@
 			]
 		},
 		{
-			"group": "Sonic & Knuckles + Sonic the Hedgehog 2",
+			"group": "Sonic & Knuckles + Sonic The Hedgehog 2",
 			"titles": [
-				{"searchTerm": "Sonic & Knuckles + Sonic the Hedgehog 2"}
+				{"searchTerm": "Sonic & Knuckles + Sonic The Hedgehog 2"},
+				{"searchTerm": "Sonic & Knuckles + Sonic The Hedgehog 2 (Lock-on Combination)"}
 			],
 			"compilations": [
-				{"searchTerm": "Sonic & Knuckles + Sonic the Hedgehog 2 + Sonic the Hedgehog 3"}
+				{"searchTerm": "Sonic & Knuckles + Sonic The Hedgehog 2 + Sonic The Hedgehog 3"}
 			]
 		},
 		{
-			"group": "Sonic & Knuckles + Sonic the Hedgehog 3",
+			"group": "Sonic & Knuckles + Sonic The Hedgehog 3",
 			"titles": [
-				{"searchTerm": "Sonic & Knuckles + Sonic the Hedgehog 3"}
+				{"searchTerm": "Sonic & Knuckles + Sonic The Hedgehog 3 (Lock-on Combination)"}
 			],
 			"compilations": [
-				{"searchTerm": "Sonic & Knuckles + Sonic the Hedgehog 2 + Sonic the Hedgehog 3"}
+				{"searchTerm": "Sonic & Knuckles + Sonic The Hedgehog 2 + Sonic The Hedgehog 3"}
 			]
 		},
 		{
@@ -1442,10 +1464,9 @@
 			"compilations": [
 				{"searchTerm": "6-Pak", "priority": 2},
 				{"searchTerm": "10 Super Jogos", "priority": 2},
-				{"searchTerm": "Arcade Legends Sega Mega Drive ~ Arcade Legends Sega Genesis ~ Mega Drive Play TV", "priority": 2},
+				{"searchTerm": "Arcade Legends Sega Mega Drive", "priority": 2},
 				{"searchTerm": "Mega 6 Vol. 3", "priority": 2},
-				{"searchTerm": "Sonic Compilation", "priority": 2},
-				{"searchTerm": "Sonic Compilation ~ Sonic Classics", "priority": 2}
+				{"searchTerm": "Sonic Compilation", "priority": 2}
 			]
 		},
 		{
@@ -1454,8 +1475,7 @@
 				{"searchTerm": "Sonic The Hedgehog 2"}
 			],
 			"compilations": [
-				{"searchTerm": "Sonic Compilation", "priority": 2},
-				{"searchTerm": "Sonic Compilation ~ Sonic Classics", "priority": 2}
+				{"searchTerm": "Sonic Compilation", "priority": 2}
 			]
 		},
 		{
@@ -1547,7 +1567,7 @@
 				{"searchTerm": "Street Fighter II' - Champion Edition", "priority": 3}
 			],
 			"compilations": [
-				{"searchTerm": "Arcade Legends Street Fighter II' - Special Champion Edition ~ Mega Drive Play TV 3"}
+				{"searchTerm": "Arcade Legends Street Fighter II' - Special Champion Edition"}
 			]
 		},
 		{
@@ -1686,6 +1706,13 @@
 			]
 		},
 		{
+			"group": "Tanglewood",
+			"titles": [
+				{"searchTerm": "Tanglewood"},
+				{"searchTerm": "Tanglewood (Windows)", "priority": 2}
+			]
+		},
+		{
 			"group": "Taz in Escape from Mars",
 			"titles": [
 				{"searchTerm": "Taz in Escape from Mars"},
@@ -1728,13 +1755,6 @@
 			"titles": [
 				{"searchTerm": "Teenage Mutant Hero Turtles - Tournament Fighters"},
 				{"searchTerm": "Teenage Mutant Ninja Turtles - Tournament Fighters"}
-			]
-		},
-		{
-			"group": "Tenchi o Kurau III - Sangoku Gaiden",
-			"titles": [
-				{"searchTerm": "Tenchi o Kurau III - Sangoku Gaiden"},
-				{"searchTerm": "Tun Shi Tian Di 3 - San Guo Wai Chuan", "priority": 2}
 			]
 		},
 		{
@@ -1815,10 +1835,17 @@
 			]
 		},
 		{
-			"group": "Tun Shi Tian Di III",
+			"group": "Tunshi Tiandi III",
 			"titles": [
-				{"searchTerm": "Tun Shi Tian Di III"},
-				{"searchTerm": "Tun Shi Tian Di III (Simple Chinese)"}
+				{"searchTerm": "Tunshi Tiandi III"},
+				{"searchTerm": "Tunshi Tiandi III (Simple Chinese)"}
+			]
+		},
+		{
+			"group": "Tunshi Tiandi III - Sanguo Waizhuan",
+			"titles": [
+				{"searchTerm": "Tunshi Tiandi III - Sanguo Waizhuan (Chinese Fighter)"},
+				{"searchTerm": "Tenchi o Kurau III - Sangoku Gaiden", "priority": 2}
 			]
 		},
 		{
@@ -1911,7 +1938,7 @@
 		{
 			"group": "Water Margin - A Tale of Clouds and Wind",
 			"titles": [
-				{"searchTerm": "Shui Hu - Feng Yun Zhuan"},
+				{"searchTerm": "Shuihu Fengyun Zhuan"},
 				{"searchTerm": "Water Margin - A Tale of Clouds and Wind"}
 			]
 		},
@@ -1985,11 +2012,11 @@
 			]
 		},
 		{
-			"group": "World Cup Soccer ~ World Championship Soccer",
+			"group": "World Championship Soccer",
 			"titles": [
 				{"searchTerm": "World Cup Italia '90"},
 				{"searchTerm": "World Cup Soccer"},
-				{"searchTerm": "World Cup Soccer ~ World Championship Soccer"}
+				{"searchTerm": "World Championship Soccer"}
 			],
 			"compilations": [
 				{"searchTerm": "10 Super Jogos"},
