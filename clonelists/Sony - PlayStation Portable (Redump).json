@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Sony - PlayStation Portable (Redump)",
-		"lastUpdated": "17 June 2023",
+		"lastUpdated": "23 July 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -39,8 +39,12 @@
 	],
 
 	"mias": [
+		"2010 FIFA World Cup South Africa (Canada) (En,Fr)",
 		"Bleach - Heat the Soul 7 (Korea)",
 		"Burnout Legends (Asia)",
+		"Buzz! Master Quiz (Europe) (No,Da)",
+		"Disney-Pixar WALL-E (Europe) (No,Da)",
+		"FIFA Soccer 13 (Canada) (En,Fr)",
 		"Gran Turismo (Japan) (En,Ja) (v2.00)",
 		"Gun Showdown (USA) (Beta)",
 		"Jikkyou Powerful Pro Yakyuu 2010 (Japan) (v2.00)",
@@ -52,7 +56,6 @@
 		"NBA Live 07 (Asia)",
 		"Retail Sampler No. 3 for PSP (Europe)",
 		"SOCOM - U.S. Navy SEALs - Fireteam Bravo 2 (Korea)",
-		"Silhwang Powerful Pro Yagu 2011 (Korea)",
 		"Stealth feat. WipEout Pure Stealth Edition (Japan)",
 		"Tekken 6 (Asia) (En,Ja,Fr,De,Es,It,Ko,Ru)",
 		"Tekken 6 (Korea) (En,Ja,Fr,De,Es,It,Ko,Ru)",
@@ -175,6 +178,13 @@
 			]
 		},
 		{
+			"group": "Bubble Bobble Evolution",
+			"titles": [
+				{"searchTerm": "Bubble Bobble - Magical Tower Daisakusen"},
+				{"searchTerm": "Bubble Bobble Evolution"}
+			]
+		},
+		{
 			"group": "Bust-A-Move - Deluxe",
 			"titles": [
 				{"searchTerm": "Bust-A-Move - Deluxe"},
@@ -182,11 +192,11 @@
 			]
 		},
 		{
-			"group": "Buzz! Brain of Oz",
+			"group": "Buzz! Brain of X",
 			"titles": [
-				{"searchTerm": "Buzz! Brain of Oz"},
+				{"searchTerm": "Buzz! Brain of Oz ~ Buzz! Brain of New Zealand"},
+				{"searchTerm": "Buzz! Brain of Switzerland"},
 				{"searchTerm": "Buzz! Brain of the UK"},
-				{"searchTerm": "Buzz! Danske Genier"},
 				{"searchTerm": "Buzz! Das grosse Laenderquiz"},
 				{"searchTerm": "Buzz! De Slimste van Nederland"},
 				{"searchTerm": "Buzz! De Strafste van Belgie"},
@@ -485,6 +495,13 @@
 			"titles": [
 				{"searchTerm": "Echoshift"},
 				{"searchTerm": "Jigen Kairou"}
+			]
+		},
+		{
+			"group": "Elminage Original",
+			"titles": [
+				{"searchTerm": "Elminage Original"},
+				{"searchTerm": "Elminage Original - Yami no Miko to Kamigami no Yubiwa"}
 			]
 		},
 		{
@@ -985,13 +1002,6 @@
 			]
 		},
 		{
-			"group": "Midnight Club - L.A. Remix",
-			"titles": [
-				{"searchTerm": "Midnight Club - L.A. Remix"},
-				{"searchTerm": "Midnight Club - L. A. Remix"}
-			]
-		},
-		{
 			"group": "Monster Hunter Freedom",
 			"titles": [
 				{"searchTerm": "Monster Hunter Freedom"},
@@ -1411,6 +1421,13 @@
 			]
 		},
 		{
+			"group": "Space Invaders Evolution",
+			"titles": [
+				{"searchTerm": "Space Invaders Evolution"},
+				{"searchTerm": "Space Invaders - Galaxy Beat"}
+			]
+		},
+		{
 			"group": "Spectral Souls - Resurrection of the Ethereal Empires",
 			"titles": [
 				{"searchTerm": "Shinki Gensou - SSII Unlimited Side"},
@@ -1532,6 +1549,13 @@
 			"titles": [
 				{"searchTerm": "Karakuri"},
 				{"searchTerm": "Tokobot"}
+			]
+		},
+		{
+			"group": "Transformers - Revenge of the Fallen",
+			"titles": [
+				{"searchTerm": "Transformers - Die Rache"},
+				{"searchTerm": "Transformers - Revenge of the Fallen"}
 			]
 		},
 		{

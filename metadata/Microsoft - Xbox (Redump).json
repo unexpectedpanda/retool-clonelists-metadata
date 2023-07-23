@@ -215,8 +215,8 @@
 	"Apex (Asia) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
 	},
-	"Apex (USA)": {
-		"languages": ["En"]
+	"Apex (USA) (En,Fr,Es)": {
+		"languages": ["En", "Es", "Fr"]
 	},
 	"Aquaman - Battle for Atlantis (USA)": {
 		"languages": ["En"]
@@ -1082,8 +1082,8 @@
 	"Conan (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Conflict - Desert Storm (Europe) (En,Fr,De,Es,It)": {
-		"languages": ["De", "En", "Es", "Fr", "It"]
+	"Conflict - Desert Storm (Europe)": {
+		"languages": ["En"]
 	},
 	"Conflict - Desert Storm (USA)": {
 		"languages": ["En"]
@@ -2159,14 +2159,14 @@
 	"Forgotten Realms - Demon Stone (USA)": {
 		"languages": ["En"]
 	},
-	"Forza Motorsport (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko) (Rev 1)": {
-		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Ko", "Pt", "Zh"]
-	},
 	"Forza Motorsport (USA, Europe) (Demo)": {
 		"languages": ["En"]
 	},
-	"Forza Motorsport (World) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko)": {
-		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Ko", "Pt", "Zh"]
+	"Forza Motorsport (World) (En,Ja,Fr,De,Es,It,Zh,Ko)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Ko", "Zh"]
+	},
+	"Forza Motorsport + Xbox Live Arcade (USA) (En,Ja,Fr,De,Es,It,Zh,Ko)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Ko", "Zh"]
 	},
 	"Frankie Dettori Racing (Australia)": {
 		"languages": []
@@ -3467,8 +3467,8 @@
 	"MechAssault 2 - Lone Wolf (World) (En,Ja,Fr,De,Es,It) (Bonus Disc)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja"]
 	},
-	"MechAssault 2 - Lone Wolf + OutRun 2 (USA) (En,Ja,Fr,De,Es,It) (Demo)": {
-		"languages": ["De", "En", "Es", "Fr", "It", "Ja"]
+	"MechAssault 2 - Lone Wolf + OutRun 2 (USA) (Demo)": {
+		"languages": ["En"]
 	},
 	"Medal of Honor - En Premiere Ligne (France)": {
 		"languages": []
@@ -5064,7 +5064,7 @@
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Panzer Dragoon Orta (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["En"]
 	},
 	"Panzer Dragoon Orta (USA)": {
 		"languages": ["En"]

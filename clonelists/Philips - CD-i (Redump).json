@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Philips - CD-i (Redump)",
-		"lastUpdated": "17 June 2023",
+		"lastUpdated": "23 July 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -256,6 +256,7 @@
 				{"searchTerm": "Franse Impressionisten, De"},
 				{"searchTerm": "Franzoesischen Impressionisten, Die"},
 				{"searchTerm": "French Impressionists, The"},
+				{"searchTerm": "French Impressionists, The - France Inshouha"},
 				{"searchTerm": "Gli Impressionisti Francesi"},
 				{"searchTerm": "Impressionnistes Francais, Les"}
 			]
@@ -374,6 +375,13 @@
 			]
 		},
 		{
+			"group": "Paint School II",
+			"titles": [
+				{"searchTerm": "Nuri e Asobi II - Paint School II"},
+				{"searchTerm": "Paint School II"}
+			]
+		},
+		{
 			"group": "Palm Springs Open, The",
 			"titles": [
 				{"searchTerm": "Open de Palm Springs, L'"},
@@ -446,12 +454,20 @@
 			]
 		},
 		{
+			"group": "Revolution in Color, A",
+			"titles": [
+				{"searchTerm": "Revolution in Color, A"},
+				{"searchTerm": "Revolution in Color, A - Russia Kindai Kaiga no Reimei"}
+			]
+		},
+		{
 			"group": "Richard Scarry's Best Neighborhood Disc Ever!",
 			"titles": [
 				{"searchTerm": "Barrio mas Divertido de Richard Scarry, El"},
 				{"searchTerm": "Citta piu Felice del Mondo! di Richard Scarry, La"},
 				{"searchTerm": "Richard Scarry's Allerbeste Buurt Disc!"},
 				{"searchTerm": "Richard Scarry's Best Neighborhood Disc Ever!"},
+				{"searchTerm": "Richard Scarry's Best Neighbourhood Disc Ever - Richard Scarry no Saikou ni Tanoshii Nakama-tachi"},
 				{"searchTerm": "Ville Surprise de Richard Scarry 1, La"}
 			]
 		},
@@ -461,6 +477,7 @@
 				{"searchTerm": "Richard Scarry's Allerdrukste Buurt Disc!"},
 				{"searchTerm": "Richard Scarry's Allerwitzigste Geschichten aus Schaffenau"},
 				{"searchTerm": "Richard Scarry's Busiest Neighborhood Disc Ever!"},
+				{"searchTerm": "Richard Scarry's Busiest Neighbourhood Disc Ever - Richard Scarry no Isogashii Nakama-tachi"},
 				{"searchTerm": "Richard Scarry - La Citta piu Indaffarata del Mondo!"},
 				{"searchTerm": "Ville Surprise de Richard Scarry 2, La"}
 			]
@@ -602,6 +619,20 @@
 			"titles": [
 				{"searchTerm": "Video Speedway - Grand Prix"},
 				{"searchTerm": "Video Speedway - The Ultimate Racing Experience"}
+			]
+		},
+		{
+			"group": "Visit to Sesame Street, A - Numbers",
+			"titles": [
+				{"searchTerm": "Sesame Street Kazu Asobi - A Visit to Sesame Street - Numbers"},
+				{"searchTerm": "Visit to Sesame Street, A - Numbers"}
+			]
+		},
+		{
+			"group": "Visit to Sesame Street, A - Letters",
+			"titles": [
+				{"searchTerm": "Sesame Street Moji Asobi - A Visit to Sesame Street - Letters"},
+				{"searchTerm": "Visit to Sesame Street, A - Letters"}
 			]
 		},
 		{

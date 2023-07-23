@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Microsoft - Xbox (Redump)",
-		"lastUpdated": "17 June 2023",
+		"lastUpdated": "22 July 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -378,6 +378,13 @@
 			"titles": [
 				{"searchTerm": "FIFA Football 2005"},
 				{"searchTerm": "FIFA Soccer 2005"}
+			]
+		},
+		{
+			"group": "Forza Motorsport",
+			"titles": [
+				{"searchTerm": "Forza Motorsport"},
+				{"searchTerm": "Forza Motorsport + Xbox Live Arcade"}
 			]
 		},
 		{

@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Sony - PlayStation (Redump)",
-		"lastUpdated": "22 July 2023",
+		"lastUpdated": "23 July 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -82,9 +82,7 @@
 		"Frogger 2 - Swampy's Revenge (USA) (Beta 4)",
 		"Frogger 2 - Swampy's Revenge (USA) (Beta 5)",
 		"Frogger 2 - Swampy's Revenge (USA) (Beta 6)",
-		"Karat PS PS2-you Pro Action Replay CDX2 (Japan) (Unl) (Rev 1)",
-		"Ore no Shikabane o Koete Yuke (Japan) (Demo)",
-		"Oumagatoki (Japan) (Premium Fan Disc)"
+		"Ore no Shikabane o Koete Yuke (Japan) (Demo)"
 	],
 
 	"overrides": [
@@ -137,7 +135,6 @@
 			"nameType": "full",
 			"newGroup": "Demo One Vee Six Europe Australia"
 		},
-
 		{
 			"searchTerm": "Demo One (Version 7) (Europe) (En,Fr,De,Es,It)",
 			"nameType": "full",
@@ -685,6 +682,13 @@
 			"titles": [
 				{"searchTerm": "Bases Loaded '96 - Double Header"},
 				{"searchTerm": "Moero!! Pro Yakyuu '95 - Double Header"}
+			]
+		},
+		{
+			"group": "Bass Landing 2",
+			"titles": [
+				{"searchTerm": "Bass Landing 2 (Special Fishing Set)"},
+				{"searchTerm": "Bass Landing 2", "priority": 2}
 			]
 		},
 		{
@@ -2592,13 +2596,6 @@
 			"titles": [
 				{"searchTerm": "Elf Masters presente Formula Karts - Special Edition"},
 				{"searchTerm": "Formula Karts - Special Edition"}
-			]
-		},
-		{
-			"group": "Formula One 99",
-			"titles": [
-				{"searchTerm": "Formula One 99"},
-				{"searchTerm": "Formula One '99", "priority": 2}
 			]
 		},
 		{

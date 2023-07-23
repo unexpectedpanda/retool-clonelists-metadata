@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Sony - PlayStation 3 (Redump)",
-		"lastUpdated": "17 June 2023",
+		"lastUpdated": "23 July 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -14,10 +14,10 @@
 		"Buzz! - TV Visa Special Edition (Scandinavia) (En,Sv,No,Da,Fi)",
 		"Buzz! The Ultimate Music Quiz (Greece)",
 		"Call of Duty - Advanced Warfare (United Arab Emirates) (En,Ar)",
-		"Call of Duty - Black Ops II (Latin America) (En,Es)",
 		"Call of Duty 4 - Modern Warfare (Korea)",
 		"Captain America - Super Soldier (Asia) (En,Fr,De,Es,It)",
 		"Dead Space (UK) (En,Fr,Es) (Beta)",
+		"Disney-Pixar Toy Story 3 (Scandinavia) (Sv,No,Da,Fi)",
 		"Drag-on Dragoon 3 (Asia)",
 		"Dragon Ball Z - Budokai HD Collection (Asia) (En,Fr,Es)",
 		"E-M Fall Refresh 3.40 IDU-IDU Update (USA)",
@@ -1688,6 +1688,9 @@
 			"titles": [
 				{"searchTerm": "Medieval Moves"},
 				{"searchTerm": "Medieval Moves - Deadmund's Quest"}
+			],
+			"compilations": [
+				{"searchTerm": "Sports Champions & Medieval Moves - Deadmund's Quest Combo Disc"}
 			]
 		},
 		{
@@ -2641,6 +2644,15 @@
 			"titles": [
 				{"searchTerm": "Split-Second"},
 				{"searchTerm": "Split-Second - Velocity"}
+			]
+		},
+		{
+			"group": "Sports Champions",
+			"titles": [
+				{"searchTerm": "Sports Champions"}
+			],
+			"compilations": [
+				{"searchTerm": "Sports Champions & Medieval Moves - Deadmund's Quest Combo Disc"}
 			]
 		},
 		{

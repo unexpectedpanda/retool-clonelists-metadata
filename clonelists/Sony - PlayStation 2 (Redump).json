@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Sony - PlayStation 2 (Redump)",
-		"lastUpdated": "17 June 2023",
+		"lastUpdated": "23 July 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -732,6 +732,13 @@
 			]
 		},
 		{
+			"group": "Buzz! Junior - Jungle Party",
+			"titles": [
+				{"searchTerm": "Buzz! Junior - Jungle Party"},
+				{"searchTerm": "Jungle Party"}
+			]
+		},
+		{
 			"group": "Buzz! The Big Quiz",
 			"titles": [
 				{"searchTerm": "Buzz! Das grosse Quiz"},
@@ -755,6 +762,7 @@
 		{
 			"group": "Buzz! The Mega Quiz",
 			"titles": [
+				{"searchTerm": "Buzz! Mega Quiz"},
 				{"searchTerm": "Big! Mega Quiz, The"},
 				{"searchTerm": "Buzz! Das Mega-Quiz"},
 				{"searchTerm": "Buzz! Le Mega Quiz"},
@@ -782,7 +790,7 @@
 		{
 			"group": "Buzz! The Sports Quiz",
 			"titles": [
-				{"searchTerm": "Big, The! Sports Quiz"},
+				{"searchTerm": "Big! Sports Quiz, The"},
 				{"searchTerm": "Buzz! Das Sport-Quiz"},
 				{"searchTerm": "Buzz! El Gran Concurso de Deportes"},
 				{"searchTerm": "Buzz! Sporttivisa"},
@@ -1338,6 +1346,7 @@
 			"group": "Disgaea - Hour of Darkness",
 			"titles": [
 				{"searchTerm": "Disgaea - Hour of Darkness"},
+				{"searchTerm": "Magye Jeongi Disgaea"},
 				{"searchTerm": "Makai Senki Disgaea"}
 			]
 		},
@@ -1649,14 +1658,16 @@
 			"group": "Dragon Ball Z - Budokai Tenkaichi",
 			"titles": [
 				{"searchTerm": "Dragon Ball Z - Budokai Tenkaichi"},
-				{"searchTerm": "Dragon Ball Z - Sparking!"}
+				{"searchTerm": "Dragon Ball Z - Sparking!"},
+				{"searchTerm": "Dragon Ball Z Sparking!"}
 			]
 		},
 		{
 			"group": "Dragon Ball Z - Budokai Tenkaichi 2",
 			"titles": [
 				{"searchTerm": "Dragon Ball Z - Budokai Tenkaichi 2"},
-				{"searchTerm": "Dragon Ball Z - Sparking! Neo"}
+				{"searchTerm": "Dragon Ball Z - Sparking! Neo"},
+				{"searchTerm": "Dragon Ball Z Sparking! Neo"}
 			]
 		},
 		{
@@ -4456,7 +4467,7 @@
 			"group": "Namco Transmission (Demo)",
 			"titles": [
 				{"searchTerm": "Namco Transmission (Demo)"},
-				{"searchTerm": "Namco Transmission (Bundled with Soulcalibur II) (Demo)"}
+				{"searchTerm": "Namco Transmission (PS2 Game Bundle) (Demo)"}
 			]
 		},
 		{
@@ -6912,6 +6923,7 @@
 		{
 			"group": "Tokyo Xtreme Racer - Drift",
 			"titles": [
+				{"searchTerm": "Kaidou Battle"},
 				{"searchTerm": "Kaidou Battle - Nikko, Haruna, Rokko, Hakone"},
 				{"searchTerm": "Tokyo Xtreme Racer - Drift"}
 			]
@@ -6944,6 +6956,15 @@
 			"titles": [
 				{"searchTerm": "Tom Clancy's Splinter Cell - Double Agent"},
 				{"searchTerm": "Tom Clancy's Splinter Cell - Nijuu Spy"}
+			]
+		},
+		{
+			"group": "Tomak - Save the Earth",
+			"titles": [
+				{"searchTerm": "Tomak - Save the Earth - Love Story"}
+			],
+			"supersets": [
+				{"searchTerm": "Tomak - Save the Earth - Complete Edition"}
 			]
 		},
 		{

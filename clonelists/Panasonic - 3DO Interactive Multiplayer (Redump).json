@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Panasonic - 3DO Interactive Multiplayer (Redump)",
-		"lastUpdated": "21 January 2023",
+		"lastUpdated": "23 July 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -199,6 +199,13 @@
 			"titles": [
 				{"searchTerm": "Lucienne's Quest"},
 				{"searchTerm": "Sword & Sorcery"}
+			]
+		},
+		{
+			"group": "Mad Dog II - The Lost Gold",
+			"titles": [
+				{"searchTerm": "Mad Dog II - The Lost Gold"},
+				{"searchTerm": "Mad Dog II - The Lost Gold (Arcade CD-ROM)", "priority": 2}
 			]
 		},
 		{
