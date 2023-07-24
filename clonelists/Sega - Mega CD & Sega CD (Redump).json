@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Sega - Mega CD & Sega CD (Redump)",
-		"lastUpdated": "21 January 2023",
+		"lastUpdated": "25 July 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -151,9 +151,7 @@
 		{
 			"group": "Marko",
 			"titles": [
-				{"searchTerm": "Marko"}
-			],
-			"supersets": [
+				{"searchTerm": "Marko"},
 				{"searchTerm": "Marko's Magic Football"}
 			]
 		},
