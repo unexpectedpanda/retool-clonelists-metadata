@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Sony - PlayStation (Redump)",
-		"lastUpdated": "23 July 2023",
+		"lastUpdated": "26 July 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -3255,6 +3255,12 @@
 			]
 		},
 		{
+			"group": "Kamen Rider",
+			"titles": [
+				{"searchTerm": "Kamen Rider"}
+			]
+		},
+		{
 			"group": "Kart Challenge",
 			"titles": [
 				{"searchTerm": "Kart Challenge"}
@@ -4206,7 +4212,8 @@
 			"group": "Need for Speed - V-Rally",
 			"titles": [
 				{"searchTerm": "Need for Speed - V-Rally"},
-				{"searchTerm": "V-Rally - 97 Championship Edition"}
+				{"searchTerm": "V-Rally - 97 Championship Edition"},
+				{"searchTerm": "V-Rally - Championship Edition"},
 			]
 		},
 		{
