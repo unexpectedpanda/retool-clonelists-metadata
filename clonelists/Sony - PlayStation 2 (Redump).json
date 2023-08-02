@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Sony - PlayStation 2 (Redump)",
-		"lastUpdated": "23 July 2023",
+		"lastUpdated": "02 August 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -17,7 +17,7 @@
 			"categories": ["Video"]
 		},
 		{
-			"searchTerm": "^Konami Kids Playground -.*",
+			"searchTerm": "^Konami Kids Playground.*",
 			"nameType": "regex",
 			"categories": ["Educational, Games"]
 		}
@@ -4201,6 +4201,12 @@
 			"compilations": [
 				{"searchTerm": "Metal Slug Anthology"},
 				{"searchTerm": "Metal Slug Complete"}
+			]
+		},
+		{
+			"group": "Metal Slug (2006)",
+			"titles": [
+				{"searchTerm": "Metal Slug"}
 			]
 		},
 		{
