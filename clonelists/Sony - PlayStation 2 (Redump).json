@@ -51,6 +51,10 @@
 			"newGroup": "GuitarFreaks Veetoo & DrumMania Veetoo"
 		},
 		{
+			"searchTerm": "Metal Slug (Japan)",
+			"newGroup": "Metal Slug (2006)"
+		},
+		{
 			"searchTerm": "^Micro Machines V4 \\((USA|Europe)\\).*",
 			"nameType": "regex",
 			"newGroup": "Micro Machines Veefour"
@@ -4201,12 +4205,6 @@
 			"compilations": [
 				{"searchTerm": "Metal Slug Anthology"},
 				{"searchTerm": "Metal Slug Complete"}
-			]
-		},
-		{
-			"group": "Metal Slug (2006)",
-			"titles": [
-				{"searchTerm": "Metal Slug"}
 			]
 		},
 		{
