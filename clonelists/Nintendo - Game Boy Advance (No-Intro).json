@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Nintendo - Game Boy Advance (No-Intro)",
-		"lastUpdated": "22 July 2023",
+		"lastUpdated": "4 August 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -52,7 +52,7 @@
 			"categories": ["Applications"]
 		},
 		{
-			"searchTerm": "GBA TV Tuner PAL",
+			"searchTerm": "GB-A TV Tuner PAL",
 			"nameType": "short",
 			"categories": ["Applications"]
 		},
@@ -121,9 +121,10 @@
 			]
 		},
 		{
-			"group": "Aero the Acro-Bat - Rascal Rival Revenge",
+			"group": "Aero the Acro-Bat",
 			"titles": [
 				{"searchTerm": "Acrobat Kid"},
+				{"searchTerm": "Aero the Acro-Bat"},
 				{"searchTerm": "Aero the Acro-Bat - Rascal Rival Revenge"}
 			]
 		},

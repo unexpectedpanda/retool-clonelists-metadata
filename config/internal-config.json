@@ -7,7 +7,7 @@
 			"These are defaults that Retool requires, don't modify this file.",
 			"Check user-config.yaml for user-editable settings."
 		],
-		"lastUpdated": "30 July 2023"
+		"lastUpdated": "4 August 2023"
 	},
 
 	"ignoreTags": [
@@ -175,6 +175,8 @@
 		"\\s?\\(LodgeNet\\)",
 		"\\s?\\(Micro Genius\\)",
 		"\\s?\\(Nanjing\\)",
+		"\\s?\\(GB Showdown\\)",
+		"\\s?\\(GBA Jam\\)",
 		"\\s?\\(NESDev 2[0-9]{0,3}\\)",
 		"\\s?\\(No Cart Present\\)",
 		"\\s?\\(Not for Resale\\)",
@@ -278,6 +280,8 @@
 		"\\s?\\(GB Compatible\\)",
 		"\\s?\\(GBA Enhanced\\)",
 		"\\s?\\(Legit CIA\\)",
+		"\\s?\\(Cart\\)",
+		"\\s?\\(LED Cart\\)",
 		"\\s?\\(J-Cart\\)",
 		"\\s?\\(Cart Present\\)",
 		"\\s?\\(GPS Receiver Doukonban\\)",

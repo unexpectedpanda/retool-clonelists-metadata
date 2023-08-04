@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Nintendo - Game Boy Color (No-Intro)",
-		"lastUpdated": "10 April 2023",
+		"lastUpdated": "4 August 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -809,6 +809,13 @@
 			]
 		},
 		{
+			"group": "Otcopus Stressus",
+			"titles": [
+				{"searchTerm": "Octopus Stressus"},
+				{"searchTerm": "Octupus Stressus", "priority": 2}
+			]
+		},
+		{
 			"group": "Pac-Man - Special Color Edition",
 			"titles": [
 				{"searchTerm": "Pac-Man - Special Color Edition"},
@@ -1057,6 +1064,19 @@
 				{"searchTerm": "Razmoket a Paris, Les - Le Film"},
 				{"searchTerm": "Rugrats en Paris - La pelicula"},
 				{"searchTerm": "Rugrats in Paris - The Movie"}
+			]
+		},
+		{
+			"group": "Sapphire Hotel - The Little Tales of",
+			"titles": [
+				{"searchTerm": "Sapphire Hotel - The Little Tales of (MBC5)"},
+				{"searchTerm": "Sapphire Hotel - The Little Tales of (MBC5) (Batteryless)", "priority": 2},
+				{"searchTerm": "Sapphire Hotel - The Little Tales of (MBC3)", "priority": 3},
+				{"searchTerm": "Sapphire Hotel - The Little Tales of (MBC3) (Batteryless)", "priority": 4},
+				{"searchTerm": "Yellow Sapphire Hotel - The Little Tales of (MBC5)", "priority": 5},
+				{"searchTerm": "Yellow Sapphire Hotel - The Little Tales of (MBC5) (Batteryless)", "priority": 6},
+				{"searchTerm": "Yellow Sapphire Hotel - The Little Tales of (MBC3)", "priority": 7},
+				{"searchTerm": "Yellow Sapphire Hotel - The Little Tales of (MBC3) (Batteryless)", "priority": 8}
 			]
 		},
 		{
