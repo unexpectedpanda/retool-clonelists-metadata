@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Nintendo - Super Nintendo Entertainment System (No-Intro)",
-		"lastUpdated": "21 May 2023",
+		"lastUpdated": "5 August 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -1019,6 +1019,9 @@
 			"titles": [
 				{"searchTerm": "Jim Power - The Lost Dimension in 3D"},
 				{"searchTerm": "Buck Rogers - The Arcade Game", "priority": 2}
+			],
+			"supersets": [
+				{"searchTerm": "Jim Power - The Lost Dimension in 3D (Enhanced)"}
 			]
 		},
 		{
@@ -2240,16 +2243,6 @@
 			]
 		},
 		{
-			"group": "Super Bombliss",
-			"titles": [
-				{"searchTerm": "Super Bombliss"}
-			],
-			"compilations": [
-				{"searchTerm": "Super Tetris 2 + Bombliss"},
-				{"searchTerm": "Super Tetris 2 + Bombliss Genteiban", "priority": 2}
-			]
-		},
-		{
 			"group": "Super Bonk",
 			"titles": [
 				{"searchTerm": "Super B.C. Kid"},
@@ -2524,13 +2517,6 @@
 			"titles": [
 				{"searchTerm": "Super Tennis"},
 				{"searchTerm": "Super Tennis - World Circuit"}
-			]
-		},
-		{
-			"group": "Super Tetris 2",
-			"compilations": [
-				{"searchTerm": "Super Tetris 2 + Bombliss"},
-				{"searchTerm": "Super Tetris 2 + Bombliss Genteiban", "priority": 2}
 			]
 		},
 		{
