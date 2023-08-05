@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Atari - 2600 (No-Intro)",
-		"lastUpdated": "9 January 2023",
+		"lastUpdated": "05 August 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -142,6 +142,13 @@
 			]
 		},
 		{
+			"group": "E.T. - The Extra-Terrestrial",
+			"titles": [
+				{"searchTerm": "E.T. - The Extra-Terrestrial"},
+				{"searchTerm": "E.T. The Extra-Terrestrial"}
+			]
+		},
+		{
 			"group": "Freeway",
 			"titles": [
 				{"searchTerm": "Freeway"},
@@ -174,6 +181,13 @@
 			"titles": [
 				{"searchTerm": "I.Q. 180"},
 				{"searchTerm": "I.Q. Memory Teaser"}
+			]
+		},
+		{
+			"group": "Indy 500 ~ Race",
+			"titles": [
+				{"searchTerm": "Indy 500 ~ Race"},
+				{"searchTerm": "Indy 500"}
 			]
 		},
 		{
@@ -255,6 +269,13 @@
 			]
 		},
 		{
+			"group": "Space War ~ Space Combat",
+			"titles": [
+				{"searchTerm": "Space War ~ Space Combat"},
+				{"searchTerm": "Space War"}
+			]
+		},
+		{
 			"group": "Squirrel ~ O Esquilo",
 			"titles": [
 				{"searchTerm": "Snail against Squirrel"},
@@ -262,10 +283,24 @@
 			]
 		},
 		{
+			"group": "Street Racer ~ Speedway II",
+			"titles": [
+				{"searchTerm": "Street Racer ~ Speedway II"},
+				{"searchTerm": "Street Racer - Speedway II"}
+			]
+		},
+		{
 			"group": "Stunt Man",
 			"titles": [
 				{"searchTerm": "Nightmare"},
 				{"searchTerm": "Stunt Man"}
+			]
+		},
+		{
+			"group": "Surround ~ Chase",
+			"titles": [
+				{"searchTerm": "Surround ~ Chase"},
+				{"searchTerm": "Surround"}
 			]
 		},
 		{

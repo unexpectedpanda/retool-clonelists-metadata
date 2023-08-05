@@ -533,6 +533,9 @@
 	"Amiga OS 3.5 (Europe)": {
 		"languages": []
 	},
+	"Amiga OS 3.9 (Europe)": {
+		"languages": []
+	},
 	"Amiga OS 4.0 Developer Pre-Release (USA)": {
 		"languages": ["En"]
 	},
@@ -1025,6 +1028,9 @@
 	"Best of Mecomp, The - Vol. 2 (Germany)": {
 		"languages": ["De"]
 	},
+	"Big Red Adventure, The (Europe) (En,Fr,De,It)": {
+		"languages": ["De", "En", "Fr", "It"]
+	},
 	"CU Amiga Magazine Mega CD-ROM November 1995 (Europe)": {
 		"languages": ["En"]
 	},
@@ -1097,6 +1103,12 @@
 	"Cedric (Europe) (En,De)": {
 		"languages": ["De", "En"]
 	},
+	"Cinema 4D (Europe) (Covermount)": {
+		"languages": []
+	},
+	"Code Name Hell Squad (Europe)": {
+		"languages": ["En"]
+	},
 	"Dekubi (Germany)": {
 		"languages": ["De"]
 	},
@@ -1147,6 +1159,9 @@
 	},
 	"Foundation (Europe) (En,De)": {
 		"languages": ["De", "En"]
+	},
+	"Foundation Gold (Europe) (En,Fr,De,Es,It,Nl,Sv,Da,Fi,Cs,Sk)": {
+		"languages": ["Cs", "Da", "De", "En", "Es", "Fi", "Fr", "It", "Nl", "Sk", "Sv"]
 	},
 	"French Storm - Volume 1 (France)": {
 		"languages": ["Fr"]
@@ -1226,6 +1241,9 @@
 	"GigaPD V3.0 - 3-CD ROM Set fuer Amiga Computer mit CD-ROM Laufwerk (Germany) (Disc 3) (Update 2)": {
 		"languages": ["De"]
 	},
+	"Global Amiga Experience, The (Europe)": {
+		"languages": []
+	},
 	"GoldFish - April 1994 (USA) (Disc 1) (Volume One)": {
 		"languages": ["En"]
 	},
@@ -1253,6 +1271,9 @@
 	"Hottest 4 (Europe)": {
 		"languages": ["En"]
 	},
+	"Kang Fu (Europe)": {
+		"languages": ["En"]
+	},
 	"Kargon (Europe) (En,De)": {
 		"languages": ["De", "En"]
 	},
@@ -1263,6 +1284,9 @@
 		"languages": ["En"]
 	},
 	"LSD and 17 Bit - Compendium Deluxe Volume 2 (Europe)": {
+		"languages": ["En"]
+	},
+	"Land of Genesis (Europe)": {
 		"languages": ["En"]
 	},
 	"Light Works, The - Digital Imagery (Germany) (En,De)": {
@@ -1358,14 +1382,23 @@
 	"OnEscapee (Europe) (En,Fr,De,It,Nl,Pt,Sv,Da,Fi,Hr,Sk,Tr)": {
 		"languages": ["Da", "De", "En", "Fi", "Fr", "Hr", "It", "Nl", "Pt", "Sk", "Sv", "Tr"]
 	},
+	"Payback (Europe)": {
+		"languages": ["En"]
+	},
 	"Personal Suite (Europe) (En,Fr,De,It)": {
 		"languages": ["De", "En", "Fr", "It"]
 	},
 	"Pinball Brain Damage (Europe)": {
 		"languages": ["En"]
 	},
+	"Powder (Europe)": {
+		"languages": ["En"]
+	},
 	"Quake (Europe)": {
 		"languages": []
+	},
+	"Quake (USA)": {
+		"languages": ["En"]
 	},
 	"Quake II (Europe)": {
 		"languages": []
@@ -1385,11 +1418,17 @@
 	"SAAR AMOK II Oktober 1994 (Germany)": {
 		"languages": ["De"]
 	},
+	"Samba World Cup (Europe) (En,De)": {
+		"languages": ["De", "En"]
+	},
 	"Scene Archive, The - 1988-1998 (Germany)": {
 		"languages": []
 	},
 	"Scene Xplorer '97 (Poland)": {
 		"languages": ["Pl"]
+	},
+	"Sixth Sense Investigations (Europe) (En,De)": {
+		"languages": ["De", "En"]
 	},
 	"Software 2000 - Volume 1 (UK) (Disc 1)": {
 		"languages": []
@@ -1403,8 +1442,14 @@
 	"Spielekiste 2 (Germany)": {
 		"languages": ["De"]
 	},
+	"StormC 4 (Europe)": {
+		"languages": []
+	},
 	"Strangers, The (UK) (En,De,Es,It,Nl,Sv,No,Da,Fi,Sk)": {
 		"languages": ["Da", "De", "En", "Es", "Fi", "It", "Nl", "No", "Sk", "Sv"]
+	},
+	"T-Zero (Europe)": {
+		"languages": ["En"]
 	},
 	"Tales from Heaven (Europe)": {
 		"languages": ["En"]
@@ -1436,6 +1481,9 @@
 	"Ultimate Super Skidmarks (Europe)": {
 		"languages": ["En"]
 	},
+	"Ultimate X-Treme Racing (Europe) (Unl)": {
+		"languages": ["En"]
+	},
 	"Ultimedia (Germany) (En,De)": {
 		"languages": ["De", "En"]
 	},
@@ -1448,11 +1496,23 @@
 	"Ultimedia III + IV (Germany) (En,De) (Disc 2) (Ultimedia 4)": {
 		"languages": ["De", "En"]
 	},
+	"Ultra Violent Worlds (Europe)": {
+		"languages": ["En"]
+	},
 	"Uropa^2 - The Ulterior Colony (Europe) (En,Fr,De,It,Pt,Sv,No,Da,Fi,Cs)": {
 		"languages": ["Cs", "Da", "De", "En", "Fi", "Fr", "It", "No", "Pt", "Sv"]
 	},
 	"Vulcanology - The MiniSeries Compilation (Europe) (En,Fr,De)": {
 		"languages": ["De", "En", "Fr"]
+	},
+	"Vulcanology - The MiniSeries Compilation (Europe) (En,Fr,De) (Alt)": {
+		"languages": ["De", "En", "Fr"]
+	},
+	"Wasted Dreams (Europe) (En,Fr,De,It,Nl,Pt,Sv,Da,Fi,Pl,Ru,Hr,Hu,Sl,Sr)": {
+		"languages": ["Da", "De", "En", "Fi", "Fr", "Hr", "Hu", "It", "Nl", "Pl", "Pt", "Ru", "Sl", "Sr", "Sv"]
+	},
+	"Wendetta 2175 (Europe)": {
+		"languages": ["En"]
 	},
 	"WipEout 2097 (Europe)": {
 		"languages": ["En"]

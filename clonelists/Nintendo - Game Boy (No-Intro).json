@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Nintendo - Game Boy (No-Intro)",
-		"lastUpdated": "22 June 2023",
+		"lastUpdated": "04 August 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -626,6 +626,13 @@
 			]
 		},
 		{
+			"group": "Escape 2042 - The Truth Defenders",
+			"titles": [
+				{"searchTerm": "Escape 2042 - The Truth Defenders"},
+				{"searchTerm": "Escape 2042 - Les Defenseurs de la Verite"}
+			]
+		},
+		{
 			"group": "Extra Bases",
 			"titles": [
 				{"searchTerm": "Extra Bases"},
@@ -722,6 +729,13 @@
 			"titles": [
 				{"searchTerm": "From TV Animation Slam Dunk - Gakeppuchi no Kesshou League"},
 				{"searchTerm": "From TV Animation Slam Dunk Limited Edition", "priority": 2}
+			]
+		},
+		{
+			"group": "G.B Corp.",
+			"titles": [
+				{"searchTerm": "G.B Corp."},
+				{"searchTerm": "G.B Corp. (No Link Cable)", "priority": 2}
 			]
 		},
 		{

@@ -365,14 +365,14 @@
 	"Assassin's Creed - Rogue (USA, Europe) (En,Fr,De,Es,It,Nl,Pt,Pl)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl", "Pl", "Pt"]
 	},
+	"Assassin's Creed II (Europe) (It,Pl,Ru)": {
+		"languages": ["It", "Pl", "Ru"]
+	},
 	"Assassin's Creed II (Japan) (Ja,It)": {
 		"languages": ["It", "Ja"]
 	},
 	"Assassin's Creed II (Korea) (It,Ko)": {
 		"languages": ["It", "Ko"]
-	},
-	"Assassin's Creed II (Poland)": {
-		"languages": []
 	},
 	"Assassin's Creed II (UK) (En,It)": {
 		"languages": ["En", "It"]
@@ -381,6 +381,9 @@
 		"languages": ["Da", "De", "En", "Es", "Fr", "It", "Nl", "No", "Sv"]
 	},
 	"Assassin's Creed II - Game of the Year Edition (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)": {
+		"languages": ["Da", "De", "En", "Es", "Fr", "It", "Nl", "No", "Sv"]
+	},
+	"Assassin's Creed II - Game of the Year Edition (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da) (Rev 1)": {
 		"languages": ["Da", "De", "En", "Es", "Fr", "It", "Nl", "No", "Sv"]
 	},
 	"Assassin's Creed II - Game of the Year Edition (Europe) (It,Pl,Ru)": {
@@ -404,7 +407,13 @@
 	"Assassin's Creed III (Europe) (Pl,Ru,Cs,Hu) (Disc 1)": {
 		"languages": ["Cs", "Hu", "Pl", "Ru"]
 	},
+	"Assassin's Creed III (Europe) (Pl,Ru,Cs,Hu) (Disc 1) (Rev 1)": {
+		"languages": ["Cs", "Hu", "Pl", "Ru"]
+	},
 	"Assassin's Creed III (Europe) (Pl,Ru,Cs,Hu) (Disc 2)": {
+		"languages": ["Cs", "Hu", "Pl", "Ru"]
+	},
+	"Assassin's Creed III (Europe) (Pl,Ru,Cs,Hu) (Disc 2) (Rev 1)": {
 		"languages": ["Cs", "Hu", "Pl", "Ru"]
 	},
 	"Assassin's Creed III (Europe, Asia) (Disc 1)": {
@@ -418,12 +427,6 @@
 	},
 	"Assassin's Creed III (Japan, Korea) (En,Ja,Zh,Ko) (Disc 2)": {
 		"languages": ["En", "Ja", "Ko", "Zh"]
-	},
-	"Assassin's Creed III (Poland) (Disc 1)": {
-		"languages": []
-	},
-	"Assassin's Creed III (Poland) (Disc 2)": {
-		"languages": []
 	},
 	"Assassin's Creed III (USA) (En,Fr,Es,Pt) (Disc 1) (Single-player)": {
 		"languages": ["En", "Es", "Fr", "Pt"]
@@ -664,6 +667,9 @@
 	},
 	"Battlestations - Midway (USA, Europe) (En,Fr,De,It)": {
 		"languages": ["De", "En", "Fr", "It"]
+	},
+	"Battlestations - Pacific (Japan)": {
+		"languages": ["Ja"]
 	},
 	"Battlestations - Pacific (USA)": {
 		"languages": []
@@ -1712,10 +1718,10 @@
 	"Dance Central (USA, Europe)": {
 		"languages": []
 	},
-	"Dance Central 2 (USA, Asia)": {
+	"Dance Central 2 (World)": {
 		"languages": []
 	},
-	"Dance Central 3 (USA, Asia) (En,Zh)": {
+	"Dance Central 3 (World) (En,Zh)": {
 		"languages": ["En", "Zh"]
 	},
 	"Dance Dance Revolution (USA)": {
@@ -4016,6 +4022,9 @@
 	"Guitar Hero III - Legends of Rock (USA) (Demo)": {
 		"languages": []
 	},
+	"Guitar Hero III - Legends of Rock (USA) (En,Fr,De,Es,It)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
 	"Guitar Hero III - Legends of Rock (USA, Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
@@ -4559,7 +4568,7 @@
 	"Just Dance 3 (Europe)": {
 		"languages": []
 	},
-	"Just Dance 3 (USA)": {
+	"Just Dance 3 (USA, Europe)": {
 		"languages": []
 	},
 	"Just Dance 4 (Europe)": {
@@ -5189,6 +5198,12 @@
 	"Magnacarta II (Japan) (Disc 2)": {
 		"languages": []
 	},
+	"Magnacarta II (Korea) (Disc 1)": {
+		"languages": ["Ko"]
+	},
+	"Magnacarta II (Korea) (Disc 2)": {
+		"languages": ["Ko"]
+	},
 	"Mahjong Dream C Club (Japan)": {
 		"languages": ["Ja"]
 	},
@@ -5762,6 +5777,9 @@
 	"NASCAR '14 (USA)": {
 		"languages": []
 	},
+	"NASCAR '15 (USA)": {
+		"languages": []
+	},
 	"NASCAR 08 (Europe)": {
 		"languages": []
 	},
@@ -5772,6 +5790,9 @@
 		"languages": ["En"]
 	},
 	"NASCAR 2011 - The Game (USA)": {
+		"languages": []
+	},
+	"NASCAR Unleashed (USA)": {
 		"languages": []
 	},
 	"NASCAR the Game - Inside Line (USA)": {
@@ -6033,6 +6054,9 @@
 		"languages": []
 	},
 	"Naruto Shippuden - Ultimate Ninja Storm 3 Full Burst (Europe)": {
+		"languages": []
+	},
+	"Naruto Shippuden - Ultimate Ninja Storm 3 Full Burst (USA)": {
 		"languages": []
 	},
 	"Naruto Shippuden - Ultimate Ninja Storm Generations (Europe)": {
@@ -6497,10 +6521,28 @@
 	"Official Xbox Magazine, The - Australia & New Zealand - Issue 101 (Australia, New Zealand)": {
 		"languages": []
 	},
+	"Official Xbox Magazine, The - Australia & New Zealand - Issue 103 (Australia, New Zealand)": {
+		"languages": []
+	},
+	"Official Xbox Magazine, The - Australia & New Zealand - Issue 104 (Australia, New Zealand)": {
+		"languages": []
+	},
+	"Official Xbox Magazine, The - Australia & New Zealand - Issue 105 (Australia, New Zealand)": {
+		"languages": []
+	},
 	"Official Xbox Magazine, The - Australia & New Zealand - Issue 106 (Australia, New Zealand)": {
 		"languages": []
 	},
+	"Official Xbox Magazine, The - Australia & New Zealand - Issue 107 (Australia, New Zealand)": {
+		"languages": []
+	},
+	"Official Xbox Magazine, The - Australia & New Zealand - Issue 108 (Australia, New Zealand)": {
+		"languages": []
+	},
 	"Official Xbox Magazine, The - Australia & New Zealand - Issue 109 (Australia, New Zealand)": {
+		"languages": []
+	},
+	"Official Xbox Magazine, The - Australia & New Zealand - Issue 110 (Australia, New Zealand)": {
 		"languages": []
 	},
 	"Official Xbox Magazine, The - Australia & New Zealand - Issue 111 (Australia, New Zealand)": {
@@ -7763,6 +7805,9 @@
 	"Skylanders - Swap Force (Europe) (Es,It)": {
 		"languages": ["Es", "It"]
 	},
+	"Skylanders - Swap Force (Latin America) (En,Es,Pt)": {
+		"languages": ["En", "Es", "Pt"]
+	},
 	"Skylanders - Swap Force (USA)": {
 		"languages": []
 	},
@@ -8210,24 +8255,6 @@
 	"Tetris Evolution (USA, Europe)": {
 		"languages": ["En"]
 	},
-	"The Official Xbox Magazine - Australia & New Zealand - Issue 103 (Australia, New Zealand)": {
-		"languages": []
-	},
-	"The Official Xbox Magazine - Australia & New Zealand - Issue 104 (Australia, New Zealand)": {
-		"languages": []
-	},
-	"The Official Xbox Magazine - Australia & New Zealand - Issue 105 (Australia, New Zealand)": {
-		"languages": []
-	},
-	"The Official Xbox Magazine - Australia & New Zealand - Issue 107 (Australia, New Zealand)": {
-		"languages": []
-	},
-	"The Official Xbox Magazine - Australia & New Zealand - Issue 108 (Australia, New Zealand)": {
-		"languages": []
-	},
-	"The Official Xbox Magazine - Australia & New Zealand - Issue 110 (Australia, New Zealand)": {
-		"languages": []
-	},
 	"Thief (Europe) (En,De,It)": {
 		"languages": ["De", "En", "It"]
 	},
@@ -8427,6 +8454,9 @@
 		"languages": ["Ja"]
 	},
 	"Tony Hawk - Ride (Europe)": {
+		"languages": []
+	},
+	"Tony Hawk - Ride (USA)": {
 		"languages": []
 	},
 	"Tony Hawk - Shred (USA)": {

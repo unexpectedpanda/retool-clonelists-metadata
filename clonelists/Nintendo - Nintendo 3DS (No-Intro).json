@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Nintendo - Nintendo 3DS (No-Intro)",
-		"lastUpdated": "10 April 2023",
+		"lastUpdated": "04 August 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -697,6 +697,13 @@
 				{"searchTerm": "Byeol-ui Kirby - Robobot Planet"},
 				{"searchTerm": "Hoshi no Kirby - Robobo Planet"},
 				{"searchTerm": "Kirby - Planet Robobot"}
+			]
+		},
+		{
+			"group": "Kirby - Planet Robobot Demo",
+			"titles": [
+				{"searchTerm": "Byeol-ui Kirby - Robobot Planet (Demo) (Kiosk)"},
+				{"searchTerm": "Kirby - Planet Robobot (Demo) (Kiosk)"}
 			]
 		},
 		{
@@ -1448,8 +1455,8 @@
 		{
 			"group": "Shin Megami Tensei IV",
 			"titles": [
-				{"searchTerm": "Shin Megami Tensei IV"},
-				{"searchTerm": "Sin Yeosin Jeonsaeng IV"}
+				{"searchTerm": "Jin Yeosin Jeonsaeng IV"},
+				{"searchTerm": "Shin Megami Tensei IV"}
 			]
 		},
 		{
@@ -1541,6 +1548,7 @@
 		{
 			"group": "Style Savvy - Trendsetters",
 			"titles": [
+				{"searchTerm": "Girls Style - Fashion Leader Seoneon!"},
 				{"searchTerm": "Nintendo presents - New Style Boutique"},
 				{"searchTerm": "Style Savvy - Trendsetters"},
 				{"searchTerm": "Wagamama Fashion - GirlsMode - Yokubari Sengen! Tokimeki Up!"},

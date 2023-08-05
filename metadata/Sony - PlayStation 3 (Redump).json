@@ -626,8 +626,8 @@
 	"Assassin's Creed II (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)": {
 		"languages": ["Da", "De", "En", "Es", "Fr", "It", "Nl", "No", "Sv"]
 	},
-	"Assassin's Creed II (Europe) (Pl,Ru)": {
-		"languages": ["Pl", "Ru"]
+	"Assassin's Creed II (Europe) (It,Pl,Ru)": {
+		"languages": ["It", "Pl", "Ru"]
 	},
 	"Assassin's Creed II (Japan) (En,Ja,It)": {
 		"languages": ["En", "It", "Ja"]
@@ -641,8 +641,8 @@
 	"Assassin's Creed II - Game of the Year Edition (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)": {
 		"languages": ["Da", "De", "En", "Es", "Fr", "It", "Nl", "No", "Sv"]
 	},
-	"Assassin's Creed II - Game of the Year Edition (Europe) (Pl,Ru)": {
-		"languages": ["Pl", "Ru"]
+	"Assassin's Creed II - Game of the Year Edition (Europe) (It,Pl,Ru)": {
+		"languages": ["It", "Pl", "Ru"]
 	},
 	"Assassin's Creed II - Game of the Year Edition (UK) (En,It)": {
 		"languages": ["En", "It"]
@@ -1619,9 +1619,6 @@
 	"Call of Duty - Advanced Warfare (Europe) (Pl,Ru)": {
 		"languages": ["Pl", "Ru"]
 	},
-	"Call of Duty - Advanced Warfare (Europe, Asia) (En,Fr,De,Es,It)": {
-		"languages": ["De", "En", "Es", "Fr", "It"]
-	},
 	"Call of Duty - Advanced Warfare (Japan)": {
 		"languages": []
 	},
@@ -1633,6 +1630,9 @@
 	},
 	"Call of Duty - Advanced Warfare (United Arab Emirates) (En,Ar)": {
 		"languages": ["Ar", "En"]
+	},
+	"Call of Duty - Advanced Warfare (World) (En,Fr,De,Es,It)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Call of Duty - Black Ops (Austria, Switzerland)": {
 		"languages": ["De"]
@@ -3902,6 +3902,9 @@
 	"FIFA 09 (Korea) (En,Ko)": {
 		"languages": ["En", "Ko"]
 	},
+	"FIFA 09 (USA, Asia) (En,Fr,Es)": {
+		"languages": ["En", "Es", "Fr"]
+	},
 	"FIFA 09 - World Class Soccer (Japan)": {
 		"languages": []
 	},
@@ -3971,7 +3974,7 @@
 	"FIFA 16 (Brazil)": {
 		"languages": []
 	},
-	"FIFA 16 (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Pl,Ru,Cs)": {
+	"FIFA 16 (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Pl,Ru,Cs)": {
 		"languages": ["Cs", "Da", "De", "En", "Es", "Fr", "It", "Nl", "No", "Pl", "Pt", "Ru", "Sv"]
 	},
 	"FIFA 16 (Japan)": {
@@ -4018,9 +4021,6 @@
 	},
 	"FIFA Soccer 08 (USA) (En,Es)": {
 		"languages": ["En", "Es"]
-	},
-	"FIFA Soccer 09 (USA, Asia) (En,Fr,Es)": {
-		"languages": ["En", "Es", "Fr"]
 	},
 	"FIFA Soccer 10 (USA) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
@@ -7511,7 +7511,7 @@
 	"NBA 2K14 (Japan)": {
 		"languages": []
 	},
-	"NBA 2K14 (USA, Asia) (En,Ja,Fr,De,Es,It,Zh)": {
+	"NBA 2K14 (World) (En,Ja,Fr,De,Es,It,Zh)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Zh"]
 	},
 	"NBA 2K15 (Europe) (En,Ja,Fr,De,Es,It,Zh)": {
@@ -8705,7 +8705,7 @@
 	"PlayStation 3 System Software Update (Version 2.0) (USA) (En,Fr)": {
 		"languages": ["En", "Fr"]
 	},
-	"PlayStation All-Stars Battle Royale (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru)": {
+	"PlayStation All-Stars Battle Royale (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru)": {
 		"languages": ["Da", "De", "En", "Es", "Fi", "Fr", "It", "Nl", "No", "Pl", "Pt", "Ru", "Sv"]
 	},
 	"PlayStation All-Stars Battle Royale (Japan) (En,Ja)": {
@@ -9293,7 +9293,7 @@
 	"Resident Evil 5 ~ Biohazard 5 (Asia) (En,Ja,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja"]
 	},
-	"Resident Evil 6 (Europe) (En,Fr,De,Es,It,Pt,Pl,Ru)": {
+	"Resident Evil 6 (Europe, Australia) (En,Fr,De,Es,It,Pt,Pl,Ru)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Pl", "Pt", "Ru"]
 	},
 	"Resident Evil 6 (Germany) (En,Fr,De,Es,It,Pt,Pl,Ru)": {
