@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Sega - Master System - Mark III (No-Intro)",
-		"lastUpdated": "21 January 2023",
+		"lastUpdated": "05 August 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -250,6 +250,13 @@
 			"titles": [
 				{"searchTerm": "Ninja"},
 				{"searchTerm": "Ninja, The"}
+			]
+		},
+		{
+			"group": "Nouka Densetsu",
+			"titles": [
+				{"searchTerm": "Nouka Densetsu"},
+				{"searchTerm": "Nouka Densetsu (Easy Version)", "priority": 2}
 			]
 		},
 		{

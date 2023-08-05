@@ -1,11 +1,18 @@
 {
 	"description": {
 		"name": "Benesse - Pocket Challenge W (No-Intro)",
-		"lastUpdated": "9 January 2023",
+		"lastUpdated": "05 August 2023",
 		"minimumVersion": "2.00"
 	},
 
 	"variants": [
+		{
+			"group": "Shinkenzemi 'Chuugaku Kouza' - Chuu 2 Eigo",
+			"titles": [
+				{"searchTerm": "Shinkenzemi 'Chuugaku Kouza' - Chuu 2 Eigo (5BB212SS)"},
+				{"searchTerm": "Shinkenzemi 'Chuugaku Kouza' - Chuu 2 Eigo (5BB211NH)", "priority": 2}
+			]
+		},
 		{
 			"group": "Shinkenzemi Chuugaku Kouza - Chuu 1 Eigo",
 			"titles": [
@@ -29,7 +36,8 @@
 				{"searchTerm": "Shinkenzemi Chuugaku Kouza - Chuu 3 Eigo (7BB317CB)"},
 				{"searchTerm": "Shinkenzemi Chuugaku Kouza - Chuu 3 Eigo (7BB315OW)", "priority": 2},
 				{"searchTerm": "Shinkenzemi Chuugaku Kouza - Chuu 3 Eigo (7BB313NC)", "priority": 3},
-				{"searchTerm": "Shinkenzemi Chuugaku Kouza - Chuu 3 Eigo (7BB311NH)", "priority": 4}
+				{"searchTerm": "Shinkenzemi Chuugaku Kouza - Chuu 3 Eigo (7BB312SS)", "priority": 4},
+				{"searchTerm": "Shinkenzemi Chuugaku Kouza - Chuu 3 Eigo (7BB311NH)", "priority": 5}
 			]
 		},
 		{
@@ -65,10 +73,19 @@
 			]
 		},
 		{
-			"group": "Shinkenzemi Chuugaku Kouza - Koukou Juken (Ei - Sha - Ri)",
+			"group": "Shinkenzemi Chuugaku Kouza - Koukou Juken - Ei - Sha - Ri",
 			"titles": [
 				{"searchTerm": "Shinkenzemi Chuugaku Kouza - Koukou Juken (Ei - Sha - Ri) (9BI711)"},
-				{"searchTerm": "Shinkenzemi Chuugaku Kouza - Koukou Juken (Ei - Sha - Ri) (0BI711)", "priority": 2}
+				{"searchTerm": "Shinkenzemi Chuugaku Kouza - Koukou Juken (Ei - Sha - Ri) (7BI711)", "priority": 2},
+				{"searchTerm": "Shinkenzemi Chuugaku Kouza - Koukou Juken (Ei - Sha - Ri) (1BI711)", "priority": 3},
+				{"searchTerm": "Shinkenzemi Chuugaku Kouza - Koukou Juken (Ei - Sha - Ri) (0BI711)", "priority": 4}
+			]
+		},
+		{
+			"group": "Shinkenzemi Chuugaku Kouza - Koukou Juken - Koku - Suu",
+			"titles": [
+				{"searchTerm": "Shinkenzemi Chuugaku Kouza - Koukou Juken (Koku - Suu) (9BI712)"},
+				{"searchTerm": "Shinkenzemi Chuugaku Kouza - Koukou Juken (Koku - Suu) (7BI712)", "priority": 2}
 			]
 		},
 		{
