@@ -365,14 +365,14 @@
 	"Assassin's Creed - Rogue (USA, Europe) (En,Fr,De,Es,It,Nl,Pt,Pl)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl", "Pl", "Pt"]
 	},
+	"Assassin's Creed II (Europe) (It,Pl,Ru)": {
+		"languages": ["It", "Pl", "Ru"]
+	},
 	"Assassin's Creed II (Japan) (Ja,It)": {
 		"languages": ["It", "Ja"]
 	},
 	"Assassin's Creed II (Korea) (It,Ko)": {
 		"languages": ["It", "Ko"]
-	},
-	"Assassin's Creed II (Poland)": {
-		"languages": []
 	},
 	"Assassin's Creed II (UK) (En,It)": {
 		"languages": ["En", "It"]
@@ -381,6 +381,9 @@
 		"languages": ["Da", "De", "En", "Es", "Fr", "It", "Nl", "No", "Sv"]
 	},
 	"Assassin's Creed II - Game of the Year Edition (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)": {
+		"languages": ["Da", "De", "En", "Es", "Fr", "It", "Nl", "No", "Sv"]
+	},
+	"Assassin's Creed II - Game of the Year Edition (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da) (Rev 1)": {
 		"languages": ["Da", "De", "En", "Es", "Fr", "It", "Nl", "No", "Sv"]
 	},
 	"Assassin's Creed II - Game of the Year Edition (Europe) (It,Pl,Ru)": {
@@ -404,7 +407,13 @@
 	"Assassin's Creed III (Europe) (Pl,Ru,Cs,Hu) (Disc 1)": {
 		"languages": ["Cs", "Hu", "Pl", "Ru"]
 	},
+	"Assassin's Creed III (Europe) (Pl,Ru,Cs,Hu) (Disc 1) (Rev 1)": {
+		"languages": ["Cs", "Hu", "Pl", "Ru"]
+	},
 	"Assassin's Creed III (Europe) (Pl,Ru,Cs,Hu) (Disc 2)": {
+		"languages": ["Cs", "Hu", "Pl", "Ru"]
+	},
+	"Assassin's Creed III (Europe) (Pl,Ru,Cs,Hu) (Disc 2) (Rev 1)": {
 		"languages": ["Cs", "Hu", "Pl", "Ru"]
 	},
 	"Assassin's Creed III (Europe, Asia) (Disc 1)": {
@@ -418,12 +427,6 @@
 	},
 	"Assassin's Creed III (Japan, Korea) (En,Ja,Zh,Ko) (Disc 2)": {
 		"languages": ["En", "Ja", "Ko", "Zh"]
-	},
-	"Assassin's Creed III (Poland) (Disc 1)": {
-		"languages": []
-	},
-	"Assassin's Creed III (Poland) (Disc 2)": {
-		"languages": []
 	},
 	"Assassin's Creed III (USA) (En,Fr,Es,Pt) (Disc 1) (Single-player)": {
 		"languages": ["En", "Es", "Fr", "Pt"]
@@ -664,6 +667,9 @@
 	},
 	"Battlestations - Midway (USA, Europe) (En,Fr,De,It)": {
 		"languages": ["De", "En", "Fr", "It"]
+	},
+	"Battlestations - Pacific (Japan)": {
+		"languages": ["Ja"]
 	},
 	"Battlestations - Pacific (USA)": {
 		"languages": []
@@ -4016,6 +4022,9 @@
 	"Guitar Hero III - Legends of Rock (USA) (Demo)": {
 		"languages": []
 	},
+	"Guitar Hero III - Legends of Rock (USA) (En,Fr,De,Es,It)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
 	"Guitar Hero III - Legends of Rock (USA, Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
@@ -4559,7 +4568,7 @@
 	"Just Dance 3 (Europe)": {
 		"languages": []
 	},
-	"Just Dance 3 (USA)": {
+	"Just Dance 3 (USA, Europe)": {
 		"languages": []
 	},
 	"Just Dance 4 (Europe)": {
@@ -5188,6 +5197,12 @@
 	},
 	"Magnacarta II (Japan) (Disc 2)": {
 		"languages": []
+	},
+	"Magnacarta II (Korea) (Disc 1)": {
+		"languages": ["Ko"]
+	},
+	"Magnacarta II (Korea) (Disc 2)": {
+		"languages": ["Ko"]
 	},
 	"Mahjong Dream C Club (Japan)": {
 		"languages": ["Ja"]
@@ -8439,6 +8454,9 @@
 		"languages": ["Ja"]
 	},
 	"Tony Hawk - Ride (Europe)": {
+		"languages": []
+	},
+	"Tony Hawk - Ride (USA)": {
 		"languages": []
 	},
 	"Tony Hawk - Shred (USA)": {
