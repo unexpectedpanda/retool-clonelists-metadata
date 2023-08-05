@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Sony - PlayStation 2 (Redump)",
-		"lastUpdated": "23 July 2023",
+		"lastUpdated": "05 August 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -17,7 +17,7 @@
 			"categories": ["Video"]
 		},
 		{
-			"searchTerm": "^Konami Kids Playground -.*",
+			"searchTerm": "^Konami Kids Playground.*",
 			"nameType": "regex",
 			"categories": ["Educational, Games"]
 		}
@@ -3079,7 +3079,8 @@
 			"group": "Heartbeat Boxing",
 			"titles": [
 				{"searchTerm": "Heartbeat Boxing"},
-				{"searchTerm": "Simple 2000 Series Ultimate Vol. 6 - Love - Upper!"}
+				{"searchTerm": "Simple 2000 Series Ultimate Vol. 6 - Love - Upper!"},
+				{"searchTerm": "Simple 2000 Series - Love - Upper!"}
 			]
 		},
 		{
@@ -3510,6 +3511,13 @@
 			"titles": [
 				{"searchTerm": "Kidou Senshi Z Gundam - A.E.U.G. vs. Titans (Doukonban)"},
 				{"searchTerm": "Kidou Senshi Z Gundam - A.E.U.G. vs. Titans", "priority": 2}
+			]
+		},
+		{
+			"group": "Kidou Senshi Gundam Seed - Rengou vs. Z.A.F.T.",
+			"titles": [
+				{"searchTerm": "Kidou Senshi Gundam Seed - Rengou vs. Z.A.F.T."},
+				{"searchTerm": "Mobile Suit Gundam Seed - Yeonhap vs. Z.A.F.T."}
 			]
 		},
 		{
@@ -4192,13 +4200,6 @@
 			]
 		},
 		{
-			"group": "Metal Slug",
-			"compilations": [
-				{"searchTerm": "Metal Slug Anthology"},
-				{"searchTerm": "Metal Slug Complete"}
-			]
-		},
-		{
 			"group": "Metal Slug 2",
 			"compilations": [
 				{"searchTerm": "Metal Slug Anthology"},
@@ -4305,6 +4306,13 @@
 			]
 		},
 		{
+			"group": "Mobile Suit Gundam - Climax U.C.",
+			"titles": [
+				{"searchTerm": "Gidong Jeonsa Gundam - Climax U.C."},
+				{"searchTerm": "Mobile Suit Gundam - Climax U.C."}
+			]
+		},
+		{
 			"group": "Mobile Suit Gundam - Encounters in Space",
 			"titles": [
 				{"searchTerm": "Gidong Jeonsa Gundam - Haehu-ui Uju"},
@@ -4332,6 +4340,7 @@
 		{
 			"group": "Mobile Suit Gundam - Gundam vs. Zeta Gundam",
 			"titles": [
+				{"searchTerm": "Gidong Jeonsa Gundam - Gundam vs. Z Gundam"},
 				{"searchTerm": "Kidou Senshi Gundam - Gundam vs. Z Gundam"},
 				{"searchTerm": "Mobile Suit Gundam - Gundam vs. Zeta Gundam"}
 			]
@@ -5884,7 +5893,8 @@
 			"group": "Seek and Destroy",
 			"titles": [
 				{"searchTerm": "Seek and Destroy"},
-				{"searchTerm": "Shin Combat Choro Q"}
+				{"searchTerm": "Shin Combat Choro Q"},
+				{"searchTerm": "Sin Combat Choro Q"}
 			]
 		},
 		{
@@ -6923,7 +6933,7 @@
 		{
 			"group": "Tokyo Xtreme Racer - Drift",
 			"titles": [
-				{"searchTerm": "Kaidou Battle"},
+				{"searchTerm": "Kaido Battle"},
 				{"searchTerm": "Kaidou Battle - Nikko, Haruna, Rokko, Hakone"},
 				{"searchTerm": "Tokyo Xtreme Racer - Drift"}
 			]
