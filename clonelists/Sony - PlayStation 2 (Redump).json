@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Sony - PlayStation 2 (Redump)",
-		"lastUpdated": "02 August 2023",
+		"lastUpdated": "05 August 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -49,10 +49,6 @@
 			"searchTerm": "^GuitarFreaks V2 & DrumMania V2.*",
 			"nameType": "regex",
 			"newGroup": "GuitarFreaks Veetoo & DrumMania Veetoo"
-		},
-		{
-			"searchTerm": "Metal Slug (Japan)",
-			"newGroup": "Metal Slug - 2006"
 		},
 		{
 			"searchTerm": "^Micro Machines V4 \\((USA|Europe)\\).*",
@@ -3083,7 +3079,8 @@
 			"group": "Heartbeat Boxing",
 			"titles": [
 				{"searchTerm": "Heartbeat Boxing"},
-				{"searchTerm": "Simple 2000 Series Ultimate Vol. 6 - Love - Upper!"}
+				{"searchTerm": "Simple 2000 Series Ultimate Vol. 6 - Love - Upper!"},
+				{"searchTerm": "Simple 2000 Series - Love - Upper!"}
 			]
 		},
 		{
@@ -3520,7 +3517,9 @@
 			"group": "Kidou Senshi Gundam Seed - Rengou vs. Z.A.F.T.",
 			"titles": [
 				{"searchTerm": "Kidou Senshi Gundam Seed - Rengou vs. Z.A.F.T."},
-				{"searchTerm": "Mobile Suit Gundam Seed - Rengou vs. Z.A.F.T."}
+				{"searchTerm": "Mobile Suit Gundam Seed - Yeonhap vs. Z.A.F.T."}
+			]
+		},
 		{
 			"group": "Kin'iro no Corda 2 (Premium Box)",
 			"titles": [
@@ -4198,13 +4197,6 @@
 			"titles": [
 				{"searchTerm": "Metal Saga"},
 				{"searchTerm": "Metal Saga - Sajin no Kusari"}
-			]
-		},
-		{
-			"group": "Metal Slug",
-			"compilations": [
-				{"searchTerm": "Metal Slug Anthology"},
-				{"searchTerm": "Metal Slug Complete"}
 			]
 		},
 		{
@@ -5901,7 +5893,8 @@
 			"group": "Seek and Destroy",
 			"titles": [
 				{"searchTerm": "Seek and Destroy"},
-				{"searchTerm": "Shin Combat Choro Q"}
+				{"searchTerm": "Shin Combat Choro Q"},
+				{"searchTerm": "Sin Combat Choro Q"}
 			]
 		},
 		{
@@ -6940,7 +6933,7 @@
 		{
 			"group": "Tokyo Xtreme Racer - Drift",
 			"titles": [
-				{"searchTerm": "Kaidou Battle"},
+				{"searchTerm": "Kaido Battle"},
 				{"searchTerm": "Kaidou Battle - Nikko, Haruna, Rokko, Hakone"},
 				{"searchTerm": "Tokyo Xtreme Racer - Drift"}
 			]
