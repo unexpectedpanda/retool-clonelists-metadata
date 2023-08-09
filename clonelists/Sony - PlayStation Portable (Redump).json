@@ -1200,6 +1200,13 @@
 			]
 		},
 		{
+			"group": "Pipe Mania",
+			"titles": [
+				{"searchTerm": "Pipe Mania"},
+				{"searchTerm": "Tube Mania"}
+			]
+		},
+		{
 			"group": "PixelJunk Monsters - Deluxe",
 			"titles": [
 				{"searchTerm": "PixelJunk Monsters - Deluxe"},
@@ -1349,6 +1356,13 @@
 			]
 		},
 		{
+			"group": "Scooby-Doo! Who's Watching Who",
+			"titles": [
+				{"searchTerm": "Scooby-Doo! Qui Regarde Qui"},
+				{"searchTerm": "Scooby-Doo! Who's Watching Who"}
+			]
+		},
+		{
 			"group": "Secret Agent Clank",
 			"titles": [
 				{"searchTerm": "Clank & Ratchet - Maruhi Mission Ignition!"},
@@ -1363,10 +1377,12 @@
 			]
 		},
 		{
-			"group": "Sega Rally Revo",
+			"group": "Senjou no Valkyria 3 - Unrecorded Chronicles",
 			"titles": [
-				{"searchTerm": "Sega Rally"},
-				{"searchTerm": "Sega Rally Revo"}
+				{"searchTerm": "Senjou no Valkyria 3 - Unrecorded Chronicles"},
+			],
+			"supersets": [
+				{"searchTerm": "Senjou no Valkyria 3 E2 - Extra Edition"}
 			]
 		},
 		{
@@ -1484,6 +1500,13 @@
 			"titles": [
 				{"searchTerm": "Street Fighter Alpha 3 Max"},
 				{"searchTerm": "Street Fighter Zero 3 Double Upper"}
+			]
+		},
+		{
+			"group": "Street Supremacy",
+			"titles": [
+				{"searchTerm": "Shutokou Battle"},
+				{"searchTerm": "Street Supremacy"}
 			]
 		},
 		{
