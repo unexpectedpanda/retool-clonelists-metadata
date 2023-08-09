@@ -195,6 +195,8 @@
 				{"searchTerm": "Buzz! Brain of Oz ~ Buzz! Brain of New Zealand"},
 				{"searchTerm": "Buzz! Brain of Switzerland"},
 				{"searchTerm": "Buzz! Brain of the UK"},
+				{"searchTerm": "Buzz! Brain of the World"},
+				{"searchTerm": "Buzz! Danske Genier ~ Buzz! Norgesmester"},
 				{"searchTerm": "Buzz! Das grosse Laenderquiz"},
 				{"searchTerm": "Buzz! De Slimste van Nederland"},
 				{"searchTerm": "Buzz! De Strafste van Belgie"},
@@ -248,11 +250,19 @@
 			"group": "Championship Manager 2006",
 			"titles": [
 				{"searchTerm": "Championship Manager 2006"},
+				{"Entraineur 2006, L' - Championship Manager"},
 				{"searchTerm": "Scudetto 2006 - Championship Manager"}
 			]
 		},
 		{
 			"group": "Class of Heroes",
+			"titles": [
+				{"searchTerm": "Class of Heroes 2"},
+				{"searchTerm": "Ken to Mahou to Gakuen Mono. 2"}
+			]
+		},
+		{
+			"group": "Class of Heroes 2",
 			"titles": [
 				{"searchTerm": "Class of Heroes"},
 				{"searchTerm": "Ken to Mahou to Gakuen Mono."}
@@ -956,6 +966,13 @@
 			]
 		},
 		{
+			"group": "Mana Khemia - Student Alliance",
+			"titles": [
+				{"searchTerm": "Mana-Khemia - Gakuen no Renkinjutsushi-tachi Portable +"},
+				{"searchTerm": "Mana Khemia - Student Alliance"}
+			]
+		},
+		{
 			"group": "Mawaskes Puzzle",
 			"titles": [
 				{"searchTerm": "Mawaskes Puzzle"},
@@ -1199,6 +1216,7 @@
 		{
 			"group": "PQ2 - Practical Intelligence Quotient 2",
 			"titles": [
+				{"searchTerm": "Intelligent License 2"},
 				{"searchTerm": "PQ2 - Practical Intelligence Quotient 2"},
 				{"searchTerm": "Practical IQ - Test Your Intelligence"}
 			]
