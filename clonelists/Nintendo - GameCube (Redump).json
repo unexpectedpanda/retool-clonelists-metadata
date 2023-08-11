@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Nintendo - GameCube (Redump)",
-		"lastUpdated": "30 July 2023",
+		"lastUpdated": "11 August 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -20,11 +20,15 @@
 			"searchTerm": "SmaBro DX Event-you Disc",
 			"nameType": "short",
 			"categories": ["Promotional"]
+		},
+		{
+			"searchTerm": "SSX Tricky (Jitsuen-you Sample)",
+			"nameType": "short",
+			"categories": ["Demos", "Games"]
 		}
 	],
 
 	"mias": [
-		"FIFA Soccer 07 (Latin America)",
 		"LEGO Super Soccer Adventure (Europe) (Proto)",
 		"Need for Speed - Underground 2 (Latin America)",
 		"SmaBro DX Event-you Disc (Japan)"

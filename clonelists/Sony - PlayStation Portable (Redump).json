@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Sony - PlayStation Portable (Redump)",
-		"lastUpdated": "05 August 2023",
+		"lastUpdated": "09 August 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -22,6 +22,11 @@
 			"categories": ["Multimedia"]
 		},
 		{
+			"searchTerm": "Minna no Chizu 3 (Disc 2)",
+			"nameType": "short",
+			"categories": ["Applications"]
+		},
+		{
 			"searchTerm": "Minna no Navi (Disc 1)",
 			"nameType": "short",
 			"categories": ["Applications"]
@@ -30,6 +35,16 @@
 			"searchTerm": "Minna no Navi (Disc 2)",
 			"nameType": "short",
 			"categories": ["Applications"]
+		},
+		{
+			"searchTerm": "Oh's Talk English (Disc 1)",
+			"nameType": "short",
+			"categories": ["Educational"]
+		},
+		{
+			"searchTerm": "Oh's Talk English (Disc 2)",
+			"nameType": "short",
+			"categories": ["Educational"]
 		},
 		{
 			"searchTerm": "Talkman",
@@ -195,6 +210,8 @@
 				{"searchTerm": "Buzz! Brain of Oz ~ Buzz! Brain of New Zealand"},
 				{"searchTerm": "Buzz! Brain of Switzerland"},
 				{"searchTerm": "Buzz! Brain of the UK"},
+				{"searchTerm": "Buzz! Brain of the World"},
+				{"searchTerm": "Buzz! Danske Genier ~ Buzz! Norgesmester"},
 				{"searchTerm": "Buzz! Das grosse Laenderquiz"},
 				{"searchTerm": "Buzz! De Slimste van Nederland"},
 				{"searchTerm": "Buzz! De Strafste van Belgie"},
@@ -248,6 +265,7 @@
 			"group": "Championship Manager 2006",
 			"titles": [
 				{"searchTerm": "Championship Manager 2006"},
+				{"searchTerm": "Entraineur 2006, L' - Championship Manager"},
 				{"searchTerm": "Scudetto 2006 - Championship Manager"}
 			]
 		},
@@ -256,6 +274,13 @@
 			"titles": [
 				{"searchTerm": "Class of Heroes"},
 				{"searchTerm": "Ken to Mahou to Gakuen Mono."}
+			]
+		},
+		{
+			"group": "Class of Heroes 2",
+			"titles": [
+				{"searchTerm": "Class of Heroes 2"},
+				{"searchTerm": "Ken to Mahou to Gakuen Mono. 2"}
 			]
 		},
 		{
@@ -284,6 +309,13 @@
 			"titles": [
 				{"searchTerm": "Arnaqueur, L'"},
 				{"searchTerm": "Con, The"}
+			]
+		},
+		{
+			"group": "Crash - Mind over Mutant",
+			"titles": [
+				{"searchTerm": "Crash - Mind over Mutant"},
+				{"searchTerm": "Crash - Generation Mutant"}
 			]
 		},
 		{
@@ -956,6 +988,13 @@
 			]
 		},
 		{
+			"group": "Mana Khemia - Student Alliance",
+			"titles": [
+				{"searchTerm": "Mana-Khemia - Gakuen no Renkinjutsushi-tachi Portable +"},
+				{"searchTerm": "Mana Khemia - Student Alliance"}
+			]
+		},
+		{
 			"group": "Mawaskes Puzzle",
 			"titles": [
 				{"searchTerm": "Mawaskes Puzzle"},
@@ -1183,6 +1222,13 @@
 			]
 		},
 		{
+			"group": "Pipe Mania",
+			"titles": [
+				{"searchTerm": "Pipe Mania"},
+				{"searchTerm": "Tube Mania"}
+			]
+		},
+		{
 			"group": "PixelJunk Monsters - Deluxe",
 			"titles": [
 				{"searchTerm": "PixelJunk Monsters - Deluxe"},
@@ -1199,6 +1245,7 @@
 		{
 			"group": "PQ2 - Practical Intelligence Quotient 2",
 			"titles": [
+				{"searchTerm": "Intelligent License 2"},
 				{"searchTerm": "PQ2 - Practical Intelligence Quotient 2"},
 				{"searchTerm": "Practical IQ - Test Your Intelligence"}
 			]
@@ -1331,6 +1378,13 @@
 			]
 		},
 		{
+			"group": "Scooby-Doo! Who's Watching Who",
+			"titles": [
+				{"searchTerm": "Scooby-Doo! Qui Regarde Qui"},
+				{"searchTerm": "Scooby-Doo! Who's Watching Who"}
+			]
+		},
+		{
 			"group": "Secret Agent Clank",
 			"titles": [
 				{"searchTerm": "Clank & Ratchet - Maruhi Mission Ignition!"},
@@ -1349,6 +1403,15 @@
 			"titles": [
 				{"searchTerm": "Sega Rally"},
 				{"searchTerm": "Sega Rally Revo"}
+			]
+		},
+		{
+			"group": "Senjou no Valkyria 3 - Unrecorded Chronicles",
+			"titles": [
+				{"searchTerm": "Senjou no Valkyria 3 - Unrecorded Chronicles"}
+			],
+			"supersets": [
+				{"searchTerm": "Senjou no Valkyria 3 E2 - Extra Edition"}
 			]
 		},
 		{
@@ -1378,6 +1441,13 @@
 				{"searchTerm": "P3P - Yeosin Jeonsaeng - Persona 3 Portable"},
 				{"searchTerm": "Persona 3 Portable"},
 				{"searchTerm": "Shin Megami Tensei - Persona 3 Portable"}
+			]
+		},
+		{
+			"group": "Shin Seiki Evangelion 2 - Tsukurareshi Sekai - Another Cases",
+			"titles": [
+				{"searchTerm": "Shin Seiki Evangelion 2 - Tsukurareshi Sekai - Another Cases (10-shuunen Kinen Memorial Box)"},
+				{"searchTerm": "Shin Seiki Evangelion 2 - Tsukurareshi Sekai - Another Cases", "priority": 2}
 			]
 		},
 		{
@@ -1466,6 +1536,13 @@
 			"titles": [
 				{"searchTerm": "Street Fighter Alpha 3 Max"},
 				{"searchTerm": "Street Fighter Zero 3 Double Upper"}
+			]
+		},
+		{
+			"group": "Street Supremacy",
+			"titles": [
+				{"searchTerm": "Shutokou Battle"},
+				{"searchTerm": "Street Supremacy"}
 			]
 		},
 		{
