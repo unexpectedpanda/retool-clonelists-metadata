@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Nintendo - Wii (Redump)",
-		"lastUpdated": "12 August 2023",
+		"lastUpdated": "15 August 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -1202,6 +1202,9 @@
 			"titles": [
 				{"searchTerm": "Hasbro Family Game Night"},
 				{"searchTerm": "Hasbro Family Party"}
+			],
+			"compilations": [
+				{"searchTerm": "Hasbro Family Game Night Value Pack"}
 			]
 		},
 		{
@@ -1209,6 +1212,10 @@
 			"titles": [
 				{"searchTerm": "Hasbro Family Game Night 2"},
 				{"searchTerm": "Hasbro Family Game Night Vol 2"}
+			],
+			"compilations": [
+				{"searchTerm": "Hasbro Family Game Night Fun Pack"},
+				{"searchTerm": "Hasbro Family Game Night Value Pack"}
 			]
 		},
 		{
@@ -1216,6 +1223,9 @@
 			"titles": [
 				{"searchTerm": "Hasbro Family Game Night 3"},
 				{"searchTerm": "Hasbro Family Game Night Vol 3"}
+			],
+			"compilations": [
+				{"searchTerm": "Hasbro Family Game Night Fun Pack"}
 			]
 		},
 		{
