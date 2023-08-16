@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Nintendo - Wii (Redump)",
-		"lastUpdated": "15 August 2023",
+		"lastUpdated": "16 August 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -1767,6 +1767,24 @@
 			"titles": [
 				{"searchTerm": "Monkey Mischief!"},
 				{"searchTerm": "Monkey Mischief! Party Time"}
+			]
+		},
+		{
+			"group": "Monopoly",
+			"titles": [
+				{"searchTerm": "Monopoly"}
+			],
+			"compilations": [
+				{"searchTerm": "Monopoly Collection"}
+			]
+		},
+		{
+			"group": "Monopoly Streets",
+			"titles": [
+				{"searchTerm": "Monopoly"}
+			],
+			"compilations": [
+				{"searchTerm": "Monopoly Collection"}
 			]
 		},
 		{
