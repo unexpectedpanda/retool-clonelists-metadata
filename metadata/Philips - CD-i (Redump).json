@@ -84,7 +84,8 @@
 		"languages": ["En"]
 	},
 	"AIUEO (Japan)": {
-		"languages": []
+		"languages": [],
+		"localized_name": "あいうえお"
 	},
 	"ASICS Interactive Catalogue on CD-I 1995 (Europe)": {
 		"languages": []
@@ -228,7 +229,8 @@
 		"languages": []
 	},
 	"Anniversary - Yuki Saito (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localized_name": "アニバーサリー　斉藤由貴"
 	},
 	"AntiStatic (Europe)": {
 		"languages": ["En"]
@@ -357,7 +359,8 @@
 		"languages": ["Es"]
 	},
 	"Basistegn (Denmark)": {
-		"languages": []
+		"languages": [],
+		"localized_name": "Basistegn -en ordbog på CD-i"
 	},
 	"Battleship (World)": {
 		"languages": ["En"]
@@ -402,7 +405,8 @@
 		"languages": ["Fr"]
 	},
 	"Beneteau - Gamme Voiliers 95-96 (France)": {
-		"languages": []
+		"languages": [],
+		"localized_name": "Bénéteau - 95-96 Sailing Yachts"
 	},
 	"BeoCenter AV5 (Europe)": {
 		"languages": []
@@ -432,10 +436,12 @@
 		"languages": ["De", "En"]
 	},
 	"Bertelsmann Universallexikon (Germany) (Fuer CD-i Player mit Digital Video Cartridge)": {
-		"languages": ["De"]
+		"languages": ["De"],
+		"localized_name": "Bertelsmann Universal Lexikon"
 	},
 	"Bertelsmann Universallexikon (Germany) (Fuer CD-i Player ohne Digital Video Cartridge)": {
-		"languages": ["De"]
+		"languages": ["De"],
+		"localized_name": "Bertelsmann Universal Lexikon"
 	},
 	"Besancon - Parcours d'une Ville (France)": {
 		"languages": []
@@ -474,7 +480,8 @@
 		"languages": ["En", "Fr"]
 	},
 	"Bilincli Secim (Turkey)": {
-		"languages": []
+		"languages": [],
+		"localized_name": "Bilinçli Seçim"
 	},
 	"BioNova Badeteiche (Austria)": {
 		"languages": []
@@ -600,7 +607,8 @@
 		"languages": ["Fr"]
 	},
 	"C.Hafner - Fuer Gute Zaehne - Galvanoforming Leicht Gemacht - Vol. 2-12.95 (Germany)": {
-		"languages": []
+		"languages": [],
+		"localized_name": "C.Hafner - Galvanoforming mit dem Helioform HF 600 - Vol. 2"
 	},
 	"CD Shoot (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Nl", "Pt"]
@@ -618,7 +626,8 @@
 		"languages": []
 	},
 	"CD-I CD Interactive (Japan) (Fixed Dump)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localized_name": "CD-I ソフト ラインナップ"
 	},
 	"CD-I Full Motion Video Demo - James Bond - 09-06-1992 (Europe)": {
 		"languages": []
@@ -654,10 +663,12 @@
 		"languages": []
 	},
 	"CD-I Test 4 (France)": {
-		"languages": []
+		"languages": [],
+		"localized_name": "CD-I Test - N° 4"
 	},
 	"CD-I Test 5 (France)": {
-		"languages": []
+		"languages": [],
+		"localized_name": "CD-I Test - N° 5"
 	},
 	"CD-I World - Volume 1 - Issue 1 (USA)": {
 		"languages": []
@@ -1374,13 +1385,17 @@
 		"languages": ["En"]
 	},
 	"Caesars World of Gambling (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localized_name": "シーザース・パレス 華麗なるギャンブルの世界"
 	},
 	"Caesars World of Gambling (USA) (Rev 1)": {
 		"languages": []
 	},
 	"Caesars World of Gambling (USA, Europe)": {
 		"languages": ["En"]
+	},
+	"Callas Tosca (Europe)": {
+		"languages": []
 	},
 	"Camino de Santiago, El - La Milenaria Ruta de las Estrellas (Spain)": {
 		"languages": []
@@ -1389,7 +1404,8 @@
 		"languages": []
 	},
 	"Canton HiFi-Lautsprecher 1994-95 (Germany)": {
-		"languages": ["De"]
+		"languages": ["De"],
+		"localized_name": "Das Canton HiFi-Lautsprecherprogramm 1994-95"
 	},
 	"Caraibes Offshore (France)": {
 		"languages": []
@@ -1491,7 +1507,8 @@
 		"languages": ["En"]
 	},
 	"Christmas Songbook, A ~ You Sing Christmas Favorites (Japan, Europe)": {
-		"languages": ["En"]
+		"languages": ["En"],
+		"localized_name": "クリスマス・フェイバリット ~みんなで歌おうクリスマス~"
 	},
 	"Churchill Livingstone Tumours CD-i Programme (Europe) (Demo)": {
 		"languages": []
@@ -1785,7 +1802,8 @@
 		"languages": []
 	},
 	"Discovering Pompei (Europe) (En,Fr)": {
-		"languages": ["En", "Fr"]
+		"languages": ["En", "Fr"],
+		"localized_name": "À la découverte de Pompei"
 	},
 	"Dit Was 1994 (Netherlands)": {
 		"languages": ["Nl"]
@@ -1809,7 +1827,8 @@
 		"languages": ["De"]
 	},
 	"Domino (Netherlands)": {
-		"languages": ["Nl"]
+		"languages": ["Nl"],
+		"localized_name": "Domino - Het Oudste Spel, het Nieuwste Medium"
 	},
 	"Downhome Blues, The (USA)": {
 		"languages": ["En"]
@@ -1848,13 +1867,16 @@
 		"languages": []
 	},
 	"E-Cat No 1 (Europe)": {
-		"languages": []
+		"languages": [],
+		"localized_name": "E-Cat N° 1"
 	},
 	"E-Cat No 2 (Europe)": {
-		"languages": []
+		"languages": [],
+		"localized_name": "E-Cat N° 2"
 	},
 	"E-Cat No 3 (Europe)": {
-		"languages": []
+		"languages": [],
+		"localized_name": "E-Cat N° 3"
 	},
 	"E-Z Play Today Keyboard (Europe)": {
 		"languages": []
@@ -1887,7 +1909,8 @@
 		"languages": ["Fr"]
 	},
 	"Earth Command (Germany)": {
-		"languages": ["De"]
+		"languages": ["De"],
+		"localized_name": "Earth Command - Die Zukunft unserer Welt liegt in Ihrer Hand"
 	},
 	"Earth Command (Netherlands)": {
 		"languages": ["Nl"]
@@ -1899,31 +1922,40 @@
 		"languages": []
 	},
 	"Earth Rhythms - Daichi no Hibiki (Japan)": {
-		"languages": ["En"]
+		"languages": ["En"],
+		"localized_name": "アース・リズム　～大地の響き～"
 	},
 	"Ecolauto - DV No 4 - Cours de Formation B (France)": {
-		"languages": []
+		"languages": [],
+		"localized_name": "Ecolauto - DV N° 4 - Cours de Formation B"
 	},
 	"Ecolauto - DV No 4 - Cours de Formation B (France) (Rev 1)": {
-		"languages": []
+		"languages": [],
+		"localized_name": "Ecolauto - DV N° 4 - Cours de Formation B"
 	},
 	"Ecolauto - Groupe Lourd No 1 - Epreuve Orale (France)": {
-		"languages": []
+		"languages": [],
+		"localized_name": "Ecolauto - Groupe Lourd N° 1 - Épreuve Orale"
 	},
 	"Ecolauto - Groupe Lourd No 2 - Question Ecrites (France)": {
-		"languages": []
+		"languages": [],
+		"localized_name": "Ecolauto - Groupe Lourd N° 2 - Question Écrites"
 	},
 	"Ecolauto - Moto 1 DV - Maniabilite (France)": {
-		"languages": []
+		"languages": [],
+		"localized_name": "CD-i Moto I DV - Maniabilité Sécurité - Digital Vidéo"
 	},
 	"Ecolauto - No 3 - Cours de Formation B (France)": {
-		"languages": []
+		"languages": [],
+		"localized_name": "Ecolauto - N° 3 - Cours de Formation B"
 	},
 	"Ecolauto - No 4 - Tests Codoroute (France)": {
-		"languages": []
+		"languages": [],
+		"localized_name": "Ecolauto - N°4 - Tests Codoroute"
 	},
 	"Ecolauto - No 5 - Tests Codoroute (France)": {
-		"languages": []
+		"languages": [],
+		"localized_name": "Ecolauto - N°5 - Tests Codoroute"
 	},
 	"Ecosystems - Nature in Balance (USA)": {
 		"languages": ["En"]
@@ -1998,7 +2030,8 @@
 		"languages": ["De", "En", "It"]
 	},
 	"Ernte der Sonne - Vincent van Gogh (Germany)": {
-		"languages": ["De"]
+		"languages": ["De"],
+		"localized_name": "Ernte der Sonne"
 	},
 	"Escape from CyberCity (Europe) (Beta)": {
 		"languages": []
@@ -2049,7 +2082,8 @@
 		"languages": []
 	},
 	"F-1 Grand Prix Data Book (Japan)": {
-		"languages": []
+		"languages": [],
+		"localized_name": "F-1 グランプリ データブック"
 	},
 	"FIMMBO - Materialen Interactief (Netherlands)": {
 		"languages": []
@@ -2247,7 +2281,8 @@
 		"languages": []
 	},
 	"French Impressionists, The - France Inshouha (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localized_name": "フランス印象派"
 	},
 	"Frog Feast (USA) (Unl)": {
 		"languages": []
@@ -2268,7 +2303,8 @@
 		"languages": []
 	},
 	"GOCA - Groupement des Organismes Agrees de Controle Automobile (Belgium) (Fr,Nl)": {
-		"languages": ["Fr", "Nl"]
+		"languages": ["Fr", "Nl"],
+		"localized_name": "GOCA - Groepering van Erkende Instellingen voor Automobielinspectie"
 	},
 	"Gardening by Choice - Flowers & Foliage (USA, Europe)": {
 		"languages": ["En"]
@@ -2310,7 +2346,8 @@
 		"languages": ["En"]
 	},
 	"Gevaert 100 Jaar, een Terugblik... (Belgium)": {
-		"languages": []
+		"languages": [],
+		"localized_name": "Gevaert 100 Ans, une Rétrospective..."
 	},
 	"Gewetensvragen (Netherlands)": {
 		"languages": ["Nl"]
@@ -2397,7 +2434,8 @@
 		"languages": ["En", "Ja"]
 	},
 	"Golgo 13 (Japan)": {
-		"languages": []
+		"languages": [],
+		"localized_name": "ゴルゴ１３"
 	},
 	"Good Person to Do Business With, A (UK)": {
 		"languages": []
@@ -2412,7 +2450,8 @@
 		"languages": ["En", "Es", "Fr"]
 	},
 	"Great Art Series, The - Florence Renaissance - Renaissance of Florence, The (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localized_name": "フィレンツェ・ルネッサンス"
 	},
 	"Great British Golf (UK)": {
 		"languages": []
@@ -2438,6 +2477,9 @@
 	"Grubenhunt & Ofensau - Vom Reichtum der Erde (Germany)": {
 		"languages": []
 	},
+	"Grundig - Das Car Audio-Programm 1995 (Germany)": {
+		"languages": []
+	},
 	"Guidare e Pilotare (Italy) (En,It) (Beta)": {
 		"languages": ["En", "It"]
 	},
@@ -2460,7 +2502,8 @@
 		"languages": []
 	},
 	"Hanazukin-chan no Flower-land (Japan)": {
-		"languages": []
+		"languages": [],
+		"localized_name": "花ずきんちゃんの　フラワーランド"
 	},
 	"Hanna-Barbera Cartoon Carnival (USA, Europe)": {
 		"languages": ["En"]
@@ -2598,7 +2641,8 @@
 		"languages": []
 	},
 	"Horoscope - Seiyou Senseijutsu (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localized_name": "ホロズコープ　～西洋占星術～"
 	},
 	"Hot and Cold (Europe) (En,Fr)": {
 		"languages": ["En", "Fr"]
@@ -2643,7 +2687,8 @@
 		"languages": []
 	},
 	"Humanum Corpus (Europe)": {
-		"languages": []
+		"languages": [],
+		"localized_name": "The Human Body - Le Corps Humain - Der Menschliche Korper - El Cuerpo Humano - Il Corpo Umano"
 	},
 	"Hunt for Red October, The (Europe) (Disc 1)": {
 		"languages": ["En"]
@@ -2937,7 +2982,8 @@
 		"languages": ["En"]
 	},
 	"James Brown - Non Stop Hit Machine (Japan)": {
-		"languages": ["En"]
+		"languages": ["En"],
+		"localized_name": "ジェームス・ブラウン Non Stop Hit Machine"
 	},
 	"James Brown - Non Stop Hit Machine (USA)": {
 		"languages": []
@@ -2949,7 +2995,8 @@
 		"languages": []
 	},
 	"Jazz - Methode de Guitare (France)": {
-		"languages": []
+		"languages": [],
+		"localized_name": "Jazz - Méthode de Guitare avec Louis Winsberg du Groupe Sixun"
 	},
 	"Jazz Giants - From Big Band to Bossa Nova (USA, Europe)": {
 		"languages": ["En"]
@@ -2979,7 +3026,8 @@
 		"languages": ["En"]
 	},
 	"Jigsaw - The Ultimate Electronic Puzzle (Japan, Europe)": {
-		"languages": ["En"]
+		"languages": ["En"],
+		"localized_name": "ジグソー"
 	},
 	"Jigsaw - The Ultimate Electronic Puzzle (USA)": {
 		"languages": ["En"]
@@ -3179,6 +3227,9 @@
 	"L'Oreal - Expert Technique - Interactief Salon Dialoog Programma (Netherlands)": {
 		"languages": []
 	},
+	"LG Electronics Deutschland GmbH (Germany)": {
+		"languages": ["De"]
+	},
 	"LTV Allemand (France)": {
 		"languages": []
 	},
@@ -3369,10 +3420,12 @@
 		"languages": []
 	},
 	"Let's Go Skiing with Alberto Tomba (Europe) (En,It)": {
-		"languages": ["En", "It"]
+		"languages": ["En", "It"],
+		"localized_name": "Sciamo con Alterto Tomba"
 	},
 	"Let's Go Skiing with Alberto Tomba (Europe) (En,It) (Rev 1)": {
-		"languages": ["En", "It"]
+		"languages": ["En", "It"],
+		"localized_name": "Sciamo con Alterto Tomba"
 	},
 	"Lettergreep (Netherlands)": {
 		"languages": ["Nl"]
@@ -3459,7 +3512,8 @@
 		"languages": ["En"]
 	},
 	"Louis Armstrong - An American Songbook (Japan)": {
-		"languages": ["En"]
+		"languages": ["En"],
+		"localized_name": "ルイ･アームストロング"
 	},
 	"Louis Armstrong - An American Songbook (USA)": {
 		"languages": ["En"]
@@ -3564,7 +3618,8 @@
 		"languages": []
 	},
 	"Mah-jong (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localized_name": "マージャン"
 	},
 	"Maitres de la Peinture Hollandaise, Les (France)": {
 		"languages": ["Fr"]
@@ -3609,10 +3664,12 @@
 		"languages": []
 	},
 	"Master Labyrinth (Europe) (En,Fr,De,Nl)": {
-		"languages": ["De", "En", "Fr", "Nl"]
+		"languages": ["De", "En", "Fr", "Nl"],
+		"localized_name": "Das Labyrinth der Meister"
 	},
 	"Master Labyrinth (Germany) (En,Fr,De,Nl)": {
-		"languages": ["De", "En", "Fr", "Nl"]
+		"languages": ["De", "En", "Fr", "Nl"],
+		"localized_name": "Das Labyrinth der Meister"
 	},
 	"Mathtrak K1 (USA)": {
 		"languages": []
@@ -3780,7 +3837,8 @@
 		"languages": ["It"]
 	},
 	"Mozart - Sono Ongaku to Shougai - A Musical Biography (Japan) (En,Ja)": {
-		"languages": ["En", "Ja"]
+		"languages": ["En", "Ja"],
+		"localized_name": "モーツァルト　～その音楽と生涯～"
 	},
 	"Mozart - Una Biografia Musical (Spain)": {
 		"languages": []
@@ -3915,10 +3973,12 @@
 		"languages": ["Nl"]
 	},
 	"Neue Bose Lifestyle 12 Audio Home Entertainment System, Das (Germany)": {
-		"languages": ["De"]
+		"languages": ["De"],
+		"localized_name": "Bose Lifestyle 12 Audio Home Entertainment System Vorführ-CD-i"
 	},
 	"New 106, The - Une Nouvelle Reference (Europe)": {
-		"languages": []
+		"languages": [],
+		"localized_name": "The New 106 - Une Nouvelle Réferénce"
 	},
 	"Newcomers, The (UK)": {
 		"languages": []
@@ -3933,7 +3993,8 @@
 		"languages": []
 	},
 	"Nieuwe 106, De - Showroomversie (Belgium) (En,Fr)": {
-		"languages": ["En", "Fr"]
+		"languages": ["En", "Fr"],
+		"localized_name": "Peugeot 106 - Nieuwe Trends uit Frankrijk - Talenten '96"
 	},
 	"Nieuwe Reglement Rijbewijzen, Het - Demonstratie CD-i - April 1996 (Netherlands)": {
 		"languages": []
@@ -3945,7 +4006,8 @@
 		"languages": ["Nl"]
 	},
 	"Nipponshu no Subete (Japan)": {
-		"languages": []
+		"languages": [],
+		"localized_name": "日本酒のすべて"
 	},
 	"No Problem - All the Fun of the Fair (Netherlands)": {
 		"languages": ["En"]
@@ -3966,10 +4028,12 @@
 		"languages": []
 	},
 	"Nuri e Asobi I - Paint School I (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localized_name": "ぬりえあそびⅠ"
 	},
 	"Nuri e Asobi II - Paint School II (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localized_name": "ぬりえあそび Ⅱ"
 	},
 	"OSHA MHE Forklifts (USA)": {
 		"languages": []
@@ -3993,7 +4057,8 @@
 		"languages": []
 	},
 	"Omgaan met Steriele Medische Hulpmiddelen (Netherlands)": {
-		"languages": []
+		"languages": [],
+		"localized_name": "Omgaan met Steriele Medische Hulp-Middelen"
 	},
 	"Omgaan met Steriele Medische Hulpmiddelen (Netherlands) (Demo)": {
 		"languages": []
@@ -4461,7 +4526,8 @@
 		"languages": []
 	},
 	"Renaissance in Florenz, Die (Germany)": {
-		"languages": ["De"]
+		"languages": ["De"],
+		"localized_name": "Die Renaissance von Florenz"
 	},
 	"Renaissance of Florence, The (Europe)": {
 		"languages": ["En"]
@@ -4479,7 +4545,8 @@
 		"languages": []
 	},
 	"Reserviert Ist Garantiert! (Germany)": {
-		"languages": []
+		"languages": [],
+		"localized_name": "Deutsche Bahn - Reserviert Ist Garantiert!"
 	},
 	"Retratos de Cidades - Lisboa (Portugal)": {
 		"languages": ["Pt"]
@@ -4491,10 +4558,12 @@
 		"languages": []
 	},
 	"Revolution in Color, A - Russia Kindai Kaiga no Reimei (Japan) (En,Ja,Fr,De,Es,It,Nl)": {
-		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Nl"]
+		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Nl"],
+		"localized_name": "レボリューション イン カラー ロシア近代絵画の黎明"
 	},
 	"Rhythm Maker (Japan) (En,Ja)": {
-		"languages": ["En", "Ja"]
+		"languages": ["En", "Ja"],
+		"localized_name": "リズム・メーカー"
 	},
 	"Rhythm Maker (USA)": {
 		"languages": ["En"]
@@ -4521,7 +4590,8 @@
 		"languages": ["De"]
 	},
 	"Richard Scarry's Best Neighborhood Disc Ever! (Japan, Europe)": {
-		"languages": []
+		"languages": [],
+		"localized_name": "リチャード・スカリーの最高に楽しい仲間たち"
 	},
 	"Richard Scarry's Best Neighborhood Disc Ever! (USA)": {
 		"languages": []
@@ -4530,7 +4600,8 @@
 		"languages": []
 	},
 	"Richard Scarry's Best Neighbourhood Disc Ever - Richard Scarry no Saikou ni Tanoshii Nakama-tachi (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localized_name": "リチャード・スカリーの最高に楽しい仲間たち 日本語吹替版"
 	},
 	"Richard Scarry's Busiest Neighborhood Disc Ever! (USA)": {
 		"languages": []
@@ -4542,7 +4613,8 @@
 		"languages": []
 	},
 	"Richard Scarry's Busiest Neighbourhood Disc Ever - Richard Scarry no Isogashii Nakama-tachi (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localized_name": "リチャード・スカリーの忙しい仲間たち 日本語吹替版"
 	},
 	"Rinascimento a Firenze, Il (Italy)": {
 		"languages": ["It"]
@@ -4584,10 +4656,12 @@
 		"languages": ["En"]
 	},
 	"SVO - Opleiding voor de Vleessector - Het Bewerken van Varkensvlees (Netherlands)": {
-		"languages": []
+		"languages": [],
+		"localized_name": "SVO Opleiding voor de Vleessector te Utrecht"
 	},
 	"SVO - Opleiding voor de Vleessector - Hygiene en Verse Voeding (Netherlands)": {
-		"languages": []
+		"languages": [],
+		"localized_name": "SVO Opleiding voor de Vleessector te Utrecht"
 	},
 	"Saelis Cirkus Aeventyr (Sweden)": {
 		"languages": []
@@ -4701,10 +4775,12 @@
 		"languages": []
 	},
 	"Sesame Street Kazu Asobi - A Visit to Sesame Street - Numbers (Japan)": {
-		"languages": ["En"]
+		"languages": ["En"],
+		"localized_name": "セサミストリート かずあそび"
 	},
 	"Sesame Street Moji Asobi - A Visit to Sesame Street - Letters (Japan)": {
-		"languages": ["En"]
+		"languages": ["En"],
+		"localized_name": "セサミストリート もじあそび"
 	},
 	"Shadoan (Europe)": {
 		"languages": []
@@ -4743,10 +4819,12 @@
 		"languages": []
 	},
 	"Simulation Eikaiwa - CD-I Taiken America Ryokou (Japan)": {
-		"languages": []
+		"languages": [],
+		"localized_name": "シュミレーション英会話　ＣＤ－Ｉ体験アメリカ旅行"
 	},
 	"Sinnaneun Susjanala 2 (Korea)": {
-		"languages": ["Ko"]
+		"languages": ["Ko"],
+		"localized_name": "신나는숫자나라 2"
 	},
 	"Sipa Image - First Image Catalog on CD-I (France) (En,Fr,De)": {
 		"languages": ["De", "En", "Fr"]
@@ -4983,7 +5061,8 @@
 		"languages": ["En"]
 	},
 	"TR-I - No World Order (Japan)": {
-		"languages": ["En"]
+		"languages": ["En"],
+		"localized_name": "トッドラングレン・インタラクティブ"
 	},
 	"TR-I - No World Order (USA)": {
 		"languages": ["En"]
@@ -4998,7 +5077,8 @@
 		"languages": ["Nl"]
 	},
 	"Taiyou o Karitoru Hito - Harvest of the Sun - Vincent van Gogh (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localized_name": "太陽を刈り取る人　～フィンセント･ファン･ゴッホ～"
 	},
 	"Tandem Production (France)": {
 		"languages": []
@@ -5034,7 +5114,8 @@
 		"languages": []
 	},
 	"TeleApotheke - Winterprogramm 1995 (B) (Germany)": {
-		"languages": []
+		"languages": [],
+		"localized_name": "TeleApotheke - Ausgabe Winter 95B"
 	},
 	"Tell Me Why - One (USA, Europe)": {
 		"languages": []
@@ -5286,10 +5367,12 @@
 		"languages": []
 	},
 	"Ulihamkke Bulleoyo - Chinguwa Hamkke (Korea)": {
-		"languages": ["Ko"]
+		"languages": ["Ko"],
+		"localized_name": "우리함께 불러요 - 친구와 함께"
 	},
 	"Ulihamkke Bulleoyo - Jayeongwa Hamkke (Korea)": {
-		"languages": ["Ko"]
+		"languages": ["Ko"],
+		"localized_name": "우리함께 불러요 - 자연과 함께"
 	},
 	"Ultimate Noah's Ark, The (UK)": {
 		"languages": ["En"]
@@ -5355,7 +5438,8 @@
 		"languages": ["Nl"]
 	},
 	"Vapro - Fysische Scheidingsmethoden 4 - Sorptieprocessen (Netherlands)": {
-		"languages": ["Nl"]
+		"languages": ["Nl"],
+		"localized_name": "Fysische Scheidingstechnieken - Sorptietechnieken"
 	},
 	"Vapro - Inleiding Procestechniek & Introduction to Process Technology (Netherlands) (En,Nl)": {
 		"languages": ["En", "Nl"]
@@ -5391,7 +5475,8 @@
 		"languages": ["De"]
 	},
 	"Verhalen Toverdoos - Magische Vertellingen (Netherlands)": {
-		"languages": ["Nl"]
+		"languages": ["Nl"],
+		"localized_name": "Verhalentoverdoos - Magische Vertellingen"
 	},
 	"Verhalen Toverdoos - Sterrendromen (Netherlands)": {
 		"languages": []
@@ -5508,7 +5593,8 @@
 		"languages": []
 	},
 	"Volvo 940 - Colour & Upholstery 1995 (France)": {
-		"languages": []
+		"languages": [],
+		"localized_name": "Volvo 940 - Teintes et Garnitures - CD-i Millesime 1995"
 	},
 	"Volvo 940 - Information Produit - 1995 (Europe)": {
 		"languages": ["Fr"]
@@ -5520,7 +5606,8 @@
 		"languages": []
 	},
 	"Volvo 960 - Colour & Upholstery - Edition 1 (France)": {
-		"languages": []
+		"languages": [],
+		"localized_name": "Volvo 960 - Teintes et Garnitures - CD-i Millesime 1995"
 	},
 	"Volvo 960 - Information Produit - 1995 (France)": {
 		"languages": []
@@ -5748,7 +5835,8 @@
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"What's That Bird Britain and Europe (Europe) (En,Fr,De,Es,It) (Rev 2)": {
-		"languages": ["De", "En", "Es", "Fr", "It"]
+		"languages": ["De", "En", "Es", "Fr", "It"],
+		"localized_name": "Quel est donc cet oiseau- Europe"
 	},
 	"Who Shot Johnny Rock (Europe)": {
 		"languages": ["En"]
@@ -5925,6 +6013,7 @@
 		"languages": []
 	},
 	"n-tv Gut zu Wissen - Jahresrueckblick 1995 (Germany)": {
-		"languages": ["De"]
+		"languages": ["De"],
+		"localized_name": "n-tv 1995 - Gut zu Wissen"
 	}
 }

@@ -404,11 +404,11 @@
 	"Aoki Densetsu Shoot! (Japan)": {
 		"languages": ["Ja"]
 	},
-	"Apocalypse II (Europe) (Proto)": {
+	"Apocalypse II (Europe) (Proto 1)": {
 		"languages": ["En"]
 	},
-	"Apocalypse II (Unknown) (Proto) (1997-10-28)": {
-		"languages": ["nolang"]
+	"Apocalypse II (Europe) (Proto 2) (1997-10-28)": {
+		"languages": ["En"]
 	},
 	"Appleseed - Prometheus no Shintaku (Japan)": {
 		"languages": ["Ja"]
@@ -530,7 +530,7 @@
 	"Atmosfear (USA) (Proto) (1994-07-12)": {
 		"languages": ["En"]
 	},
-	"Attack of the Petscii Robots (World) (Demo) (Aftermarket) (Unl)": {
+	"Attack of the PETSCII Robots (World) (Demo) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Axelay (Europe)": {
@@ -1041,7 +1041,8 @@
 		"languages": ["Ja"]
 	},
 	"Breath of Fire - Ryuu no Senshi (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localized_name": "ブレスオブファイア　-　竜の戦士"
 	},
 	"Breath of Fire II (Europe)": {
 		"languages": ["En"]
@@ -1062,7 +1063,8 @@
 		"languages": ["Ja"]
 	},
 	"Breath of Fire II - Shimei no Ko (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localized_name": "ブレスオブファイアII　-　使命の子"
 	},
 	"Brett Hull Hockey 95 (USA)": {
 		"languages": ["En"]
@@ -1147,6 +1149,9 @@
 	},
 	"Burai - Hachigyoku no Yuushi Densetsu (Japan)": {
 		"languages": ["Ja"]
+	},
+	"Burn-in - Test Cartridge (USA) (Rev D)": {
+		"languages": ["En"]
 	},
 	"Bushi Seiryuuden - Futari no Yuusha (Japan)": {
 		"languages": ["Ja"]
@@ -1592,13 +1597,13 @@
 	"Crayon Shin-chan - Arashi o Yobu Enji (Japan)": {
 		"languages": ["Ja"]
 	},
-	"Creepy Bird (Unknown) (v1.02) (Retro-Bit Generations) (Aftermarket) (Unl)": {
-		"languages": ["En"]
-	},
 	"Creepy Bird (World) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Creepy Bird (World) (v1.02) (Digital Release) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Creepy Bird (World) (v1.02) (Retro-Bit Generations) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Crystal Beans from Dungeon Explorer (Japan)": {
@@ -2465,6 +2470,12 @@
 	"Eye of the Beholder (Japan)": {
 		"languages": ["Ja"]
 	},
+	"Eyra - The Crow Maiden (World) (Demo) (2021-09-10) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Eyra - The Crow Maiden (World) (Demo) (2022-06-07) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"F1 Pole Position 2 (Europe)": {
 		"languages": ["En"]
 	},
@@ -2817,9 +2828,6 @@
 		"languages": ["Ja"]
 	},
 	"First Samurai (USA)": {
-		"languages": ["En"]
-	},
-	"First Samurai (World) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Fishing Koushien (Japan)": {
@@ -3533,7 +3541,7 @@
 	"Higashio Osamu Kanshuu Super Pro Yakyuu Stadium (Japan)": {
 		"languages": ["Ja"]
 	},
-	"Hilda (World) (v1.0) (Aftermarket) (Unl)": {
+	"Hilda (World) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Hind Strike (USA) (Unl)": {
@@ -3884,10 +3892,10 @@
 	"Irem Skins Game, The (USA)": {
 		"languages": ["En"]
 	},
-	"Iron Commando (Europe) (Aftermarket) (Unl)": {
+	"Iron Commando (Europe) (Proto)": {
 		"languages": ["En"]
 	},
-	"Iron Commando (Europe) (Proto)": {
+	"Iron Commando (World) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Iron Commando - Koutetsu no Senshi (Japan)": {
@@ -4119,9 +4127,6 @@
 		"languages": ["En"]
 	},
 	"Jim Power - The Lost Dimension in 3D (World) (Enhanced) (Aftermarket) (Unl)": {
-		"languages": ["En"]
-	},
-	"Jim Power - The Lost Dimension in 3D (World) (Steam) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Jim Powers (Unknown) (Proto)": {
@@ -4463,7 +4468,7 @@
 	"Kero Kero Keroppi no Bouken Nikki - Nemureru Mori no Keroleen (Japan)": {
 		"languages": ["Ja"]
 	},
-	"Kessen! Dokapon Oukoku IV - Densetsu no Yuusha-tachi (Japan) (Beta) (v.07.315)": {
+	"Kessen! Dokapon Oukoku IV - Densetsu no Yuusha-tachi (Japan) (v.07.315) (Beta)": {
 		"languages": ["Ja"]
 	},
 	"Kessen! Dokapon Oukoku IV - Densetsu no Yuusha-tachi (Japan) (v.07.431) (Beta)": {
@@ -4842,9 +4847,6 @@
 		"languages": ["En"]
 	},
 	"Legend (World) (Aftermarket) (Unl)": {
-		"languages": ["En"]
-	},
-	"Legend (World) (Steam) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Legend of the Mystical Ninja, The (Europe)": {
@@ -6335,6 +6337,9 @@
 	"Noughts & Crosses (USA) (Possible Proto) (Nintendo Gateway System)": {
 		"languages": ["En"]
 	},
+	"NTF 2.5 Test Cartridge (USA) (Rev A)": {
+		"languages": ["En"]
+	},
 	"Numbers Paradise (Japan) (Rev 1)": {
 		"languages": ["Ja"]
 	},
@@ -7064,7 +7069,7 @@
 	"Power Soukoban (Japan)": {
 		"languages": ["Ja"]
 	},
-	"PowerFest 94 (USA)": {
+	"PowerFest 94 (USA) (Competition Cart)": {
 		"languages": ["En"]
 	},
 	"PowerMonger (Europe)": {
@@ -7820,7 +7825,7 @@
 	"SD Kidou Senshi Gundam - V Sakusen Shidou (Japan)": {
 		"languages": ["Ja"]
 	},
-	"SD The Great Battle - Aratanaru Chousen (Japan) (Rev 1)": {
+	"SD The Great Battle - Aratanaru Chousen (Japan) (Rev 1) [b]": {
 		"languages": ["Ja"]
 	},
 	"SD The Great Battle - Aratanaru Chousen (Japan)": {
@@ -8225,8 +8230,8 @@
 	"Ski Paradise with Snowboard (Japan)": {
 		"languages": ["Ja"]
 	},
-	"Skipp & Friends - Unexpected Journey (World) (Aftermarket) (Unl)": {
-		"languages": ["nolang"]
+	"Skipp and Friends - Unexpected Journey (World) (Aftermarket) (Unl)": {
+		"languages": ["En"]
 	},
 	"Skuljagger - Revolt of the Westicans (USA) (Beta)": {
 		"languages": ["En"]
@@ -8308,9 +8313,6 @@
 	},
 	"Smurfs, The (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
-	},
-	"SNES Burn-in Test Cartridge (USA) (Rev D)": {
-		"languages": ["En"]
 	},
 	"sNESert Golfing (World) (Aftermarket) (Unl)": {
 		"languages": ["En"]
@@ -9431,10 +9433,10 @@
 	"Super Game Boy (Japan, USA) (En) (Beta) (1994-03-06)": {
 		"languages": ["En"]
 	},
-	"Super Game Boy (Japan, USA) (En) (Rev 1) (Beta) (1994-03-23) (Checksum OK)": {
+	"Super Game Boy (Japan, USA) (En) (Beta) (1994-03-23) (Alt)": {
 		"languages": ["En"]
 	},
-	"Super Game Boy (Japan, USA) (En) (Rev 1) (Beta) (1994-03-23)": {
+	"Super Game Boy (Japan, USA) (En) (Beta) (1994-03-23)": {
 		"languages": ["En"]
 	},
 	"Super Game Boy (Japan, USA) (En) (Rev 1)": {
@@ -9839,7 +9841,7 @@
 	"Super Nazo Puyo Tsuu - Rulue no Tetsuwan Hanjouki (Japan)": {
 		"languages": ["Ja"]
 	},
-	"Super NES Control Deck Tester (USA) (Rev 1)": {
+	"Super NES Control Deck Tester (Japan) (En) (Rev 1)": {
 		"languages": ["En"]
 	},
 	"Super Nichibutsu Mahjong 2 - Zenkoku Seiha Hen (Japan)": {
@@ -10232,13 +10234,13 @@
 	"Super Strike Gunner (Europe)": {
 		"languages": ["En"]
 	},
-	"Super Sudoku (World) (Aftermarket) (Unl)": {
-		"languages": ["En"]
-	},
 	"Super Sudoku (World) (v0.1) (Beta) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Super Sudoku (World) (v0.2) (Beta) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Super Sudoku (World) (v1.0) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Super Sudoku (World) (v1.1) (Aftermarket) (Unl)": {
@@ -10884,9 +10886,6 @@
 		"languages": ["En"]
 	},
 	"Tinhead (Europe) (Proto)": {
-		"languages": ["En"]
-	},
-	"Tinhead (World) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Tintin - Prisoners of the Sun (Europe) (En,Fr,De,Es)": {
@@ -11742,9 +11741,6 @@
 		"languages": ["En"]
 	},
 	"World Class Rugby (Japan) (En)": {
-		"languages": ["En"]
-	},
-	"World Class Service Super Nintendo Tester (USA)": {
 		"languages": ["En"]
 	},
 	"World Cup Striker (Europe) (En,Fr,De) (Beta)": {

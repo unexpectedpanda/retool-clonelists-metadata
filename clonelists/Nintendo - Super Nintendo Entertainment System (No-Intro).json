@@ -1,11 +1,16 @@
 {
 	"description": {
 		"name": "Nintendo - Super Nintendo Entertainment System (No-Intro)",
-		"lastUpdated": "05 August 2023",
+		"lastUpdated": "20 August 2023",
 		"minimumVersion": "2.00"
 	},
 
 	"categories": [
+		{
+			"searchTerm": "Burn-in - Test Cartridge",
+			"nameType": "short",
+			"categories": ["Applications"]
+		},
 		{
 			"searchTerm": "Cassette Kensaki - NUS-you S Cassette",
 			"nameType": "short",
@@ -32,6 +37,11 @@
 			"categories": ["Applications"]
 		},
 		{
+			"searchTerm": "NTF 2.5 Test Cartridge",
+			"nameType": "short",
+			"categories": ["Applications"]
+		},
+		{
 			"searchTerm": "Pro Action Replay",
 			"nameType": "short",
 			"categories": ["Applications"]
@@ -45,11 +55,6 @@
 			"searchTerm": "SA1 Demonstration Program",
 			"nameType": "short",
 			"categories": ["Demos"]
-		},
-		{
-			"searchTerm": "SNES Burn-in Test Cartridge",
-			"nameType": "short",
-			"categories": ["Applications"]
 		},
 		{
 			"searchTerm": "Super 8",
