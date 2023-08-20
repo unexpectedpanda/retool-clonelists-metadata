@@ -126,8 +126,8 @@
 			"group": "Eye of Typhoon, The",
 			"titles": [
 				{"searchTerm": "Eye of Typhoon"},
-				{"searchTerm": "Eye of Typhoon, The"},
-				{"searchTerm": "Eye of Typhoon, The (Disc 1)"}
+				{"searchTerm": "Eye of Typhoon, The", "priority": 2},
+				{"searchTerm": "Eye of Typhoon, The (Disc 1)", "priority": 3}
 			]
 		},
 		{
