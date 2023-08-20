@@ -1,15 +1,42 @@
 {
 	"description": {
 		"name": "Commodore - Amiga CD32 (Redump)",
-		"lastUpdated": "9 January 2023",
+		"lastUpdated": "20 August 2023",
 		"minimumVersion": "2.00"
 	},
 
 	"variants": [
 		{
+			"group": "Bump 'n' Burn",
+			"titles": [
+				{"searchTerm": "Bump 'n' Burn"}
+			],
+			"compilations": [
+				{"searchTerm": "Grandslam Gamer Gold Collection"}
+			]
+		},
+		{
 			"group": "F17 Challenge",
 			"compilations": [
 				{"searchTerm": "Project-X & F17 Challenge", "titlePosition": 1}
+			]
+		},
+		{
+			"group": "Jetstrike CD32",
+			"titles": [
+				{"searchTerm": "Jetstrike CD32"}
+			],
+			"compilations": [
+				{"searchTerm": "Grandslam Gamer Gold Collection"}
+			]
+		},
+		{
+			"group": "Nick Faldos Championship Golf",
+			"titles": [
+				{"searchTerm": "Nick Faldos Championship Golf"}
+			],
+			"compilations": [
+				{"searchTerm": "Grandslam Gamer Gold Collection"}
 			]
 		},
 		{

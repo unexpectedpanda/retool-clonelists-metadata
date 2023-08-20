@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Sony - PlayStation 2 (Redump)",
-		"lastUpdated": "05 August 2023",
+		"lastUpdated": "20 August 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -2893,6 +2893,13 @@
 			]
 		},
 		{
+			"group": "Hajime no Ippo - Victorious Boxers - Championship Version",
+			"titles": [
+				{"searchTerm": "Hajime no Ippo - Victorious Boxers - Championship Version"},
+				{"searchTerm": "Hajime-ui Ilbo - The Fighting! Victorious Boxers - Championship Version"}
+			]
+		},
+		{
 			"group": "Hajime no Ippo 2 - Victorious Road",
 			"titles": [
 				{"searchTerm": "Hajime no Ippo 2 - Victorious Road"},
@@ -4334,6 +4341,7 @@
 			"titles": [
 				{"searchTerm": "Kidou Senshi Gundam Seed - Owaranai Ashita e"},
 				{"searchTerm": "Mobile Suit Gundam Seed"},
+				{"searchTerm": "Mobile Suit Gundam Seed - Kkeunnaji Anneun Naeillo"},
 				{"searchTerm": "Mobile Suit Gundam Seed - Never Ending Tomorrow"}
 			]
 		},
@@ -7310,6 +7318,7 @@
 		{
 			"group": "We Love Katamari",
 			"titles": [
+				{"searchTerm": "Degul Degul Jjondeuk Jjondeuk - Goehon"},
 				{"searchTerm": "Minna Daisuki Katamari Damacy"},
 				{"searchTerm": "We Love Katamari"}
 			]
