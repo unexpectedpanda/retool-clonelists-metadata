@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Nintendo - Wii (Redump)",
-		"lastUpdated": "18 May 2023",
+		"lastUpdated": "16 August 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -1202,6 +1202,9 @@
 			"titles": [
 				{"searchTerm": "Hasbro Family Game Night"},
 				{"searchTerm": "Hasbro Family Party"}
+			],
+			"compilations": [
+				{"searchTerm": "Hasbro Family Game Night Value Pack"}
 			]
 		},
 		{
@@ -1209,6 +1212,10 @@
 			"titles": [
 				{"searchTerm": "Hasbro Family Game Night 2"},
 				{"searchTerm": "Hasbro Family Game Night Vol 2"}
+			],
+			"compilations": [
+				{"searchTerm": "Hasbro Family Game Night Fun Pack"},
+				{"searchTerm": "Hasbro Family Game Night Value Pack"}
 			]
 		},
 		{
@@ -1216,6 +1223,9 @@
 			"titles": [
 				{"searchTerm": "Hasbro Family Game Night 3"},
 				{"searchTerm": "Hasbro Family Game Night Vol 3"}
+			],
+			"compilations": [
+				{"searchTerm": "Hasbro Family Game Night Fun Pack"}
 			]
 		},
 		{
@@ -1760,6 +1770,24 @@
 			]
 		},
 		{
+			"group": "Monopoly",
+			"titles": [
+				{"searchTerm": "Monopoly"}
+			],
+			"compilations": [
+				{"searchTerm": "Monopoly Collection"}
+			]
+		},
+		{
+			"group": "Monopoly Streets",
+			"titles": [
+				{"searchTerm": "Monopoly"}
+			],
+			"compilations": [
+				{"searchTerm": "Monopoly Collection"}
+			]
+		},
+		{
 			"group": "Monster High - Ghoul Spirit",
 			"titles": [
 				{"searchTerm": "Monster High - Ghoul Spirit"},
@@ -1874,10 +1902,23 @@
 			]
 		},
 		{
+			"group": "My Word Coach",
+			"titles": [
+				{"searchTerm": "Mein Wortschatz-Coach"},
+				{"searchTerm": "Mi Experto en Vocabulario"},
+				{"searchTerm": "Mon Coach Personnel - J'enrichis Mon Vocabulaire"},
+				{"searchTerm": "My Word Coach"},
+				{"searchTerm": "My Word Coach - Verbeter Je Woordenschat"}
+			]
+		},
+		{
 			"group": "MySims",
 			"titles": [
 				{"searchTerm": "Boku to Sim no Machi"},
 				{"searchTerm": "MySims"}
+			],
+			"compilations": [
+				{"searchTerm": "MySims Collection"}
 			]
 		},
 		{
@@ -1907,6 +1948,9 @@
 			"titles": [
 				{"searchTerm": "Boku to Sim no Machi Racing"},
 				{"searchTerm": "MySims Racing"}
+			],
+			"compilations": [
+				{"searchTerm": "MySims Collection"}
 			]
 		},
 		{
@@ -2333,6 +2377,9 @@
 			"titles": [
 				{"searchTerm": "Rabbids Party"},
 				{"searchTerm": "Rayman - Raving Rabbids"}
+			],
+			"compilations": [
+				{"searchTerm": "Raving Rabbids - Party Collection"}
 			]
 		},
 		{
@@ -2340,6 +2387,9 @@
 			"titles": [
 				{"searchTerm": "Rabbids Party - TV Party"},
 				{"searchTerm": "Rayman - Raving Rabbids - TV Party"}
+			],
+			"compilations": [
+				{"searchTerm": "Raving Rabbids - Party Collection"}
 			]
 		},
 		{
@@ -2347,6 +2397,9 @@
 			"titles": [
 				{"searchTerm": "Rabbids Party Returns"},
 				{"searchTerm": "Rayman - Raving Rabbids 2"}
+			],
+			"compilations": [
+				{"searchTerm": "Raving Rabbids - Party Collection"}
 			]
 		},
 		{
@@ -2851,6 +2904,24 @@
 			"titles": [
 				{"searchTerm": "TrackMania"},
 				{"searchTerm": "TrackMania - Build to Race"}
+			]
+		},
+		{
+			"group": "Transformers - Cybertron Adventures",
+			"titles": [
+				{"searchTerm": "Transformers - Cybertron Adventures"}
+			],
+			"compilations": [
+				{"searchTerm": "Transformers - Ultimate Battle Edition"}
+			]
+		},
+		{
+			"group": "Transformers - Dark of the Moon - Stealth Force Edition",
+			"titles": [
+				{"searchTerm": "Transformers - Dark of the Moon - Stealth Force Edition"}
+			],
+			"compilations": [
+				{"searchTerm": "Transformers - Ultimate Battle Edition"}
 			]
 		},
 		{
