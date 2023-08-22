@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Sega - Dreamcast (Redump)",
-		"lastUpdated": "20 August 2023",
+		"lastUpdated": "22 August 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -15,6 +15,11 @@
 			"searchTerm": "D2 - Original Sound Track (Disc 2) (MilCD)",
 			"nameType": "short",
 			"categories": ["Audio"]
+		},
+		{
+			"searchTerm": "Debug Indie Sampler",
+			"nameType": "short",
+			"categories": ["Demos"]
 		},
 		{
 			"searchTerm": "dps - Heartbreak Diary",
