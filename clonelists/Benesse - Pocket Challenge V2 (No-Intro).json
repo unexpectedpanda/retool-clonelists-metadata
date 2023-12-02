@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Benesse - Pocket Challenge V2 (No-Intro)",
-		"lastUpdated": "9 January 2023",
+		"lastUpdated": "03 December 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -28,20 +28,27 @@
 		},
 		{
 			"group": "Chuu 2 Ei Suu Koku Pack",
-				"titles": [
-					{"searchTerm": "Chuu 2 Ei Suu Koku Pack (New Crown, Total English Taiou Ban) (6FP203)"},
-					{"searchTerm": "Chuu 2 Ei Suu Koku Pack (New Crown, Total English Taiou Ban) (4BP203)", "priority": 2},
-					{"searchTerm": "Chuu 2 Ei Suu Koku Pack (Sunshine, One World Taiou Ban)", "priority": 3},
-					{"searchTerm": "Chuu 2 Ei Suu Koku Pack (New Horizon, Columbus21 Taiou Ban)", "priority": 4}
-				]
+			"titles": [
+				{"searchTerm": "Chuu 2 Ei Suu Koku Pack (New Crown, Total English Taiou Ban) (6FP203)"},
+				{"searchTerm": "Chuu 2 Ei Suu Koku Pack (New Crown, Total English Taiou Ban) (4BP203)", "priority": 2},
+				{"searchTerm": "Chuu 2 Ei Suu Koku Pack (Sunshine, One World Taiou Ban)", "priority": 3},
+				{"searchTerm": "Chuu 2 Ei Suu Koku Pack (New Horizon, Columbus21 Taiou Ban)", "priority": 4}
+			]
+		},
+		{
+			"group": "Chuu 2 English",
+			"titles": [
+				{"searchTerm": "Chuu 2 English (New Crown, Total English Taiou Ban)"},
+				{"searchTerm": "Chuu 2 English (Sunshine, One World Taiou Ban)", "priority": 2}
+			]
 		},
 		{
 			"group": "Chuu 3 Ei - Suu - Koumin Pack",
-				"titles": [
-					{"searchTerm": "Chuu 3 Ei - Suu - Koumin Pack (New Crown, Total English Taiou Ban) (6FP313)"},
-					{"searchTerm": "Chuu 3 Ei - Suu - Koumin Pack (New Crown, Total English Taiou Ban) (5FP303)", "priority": 2},
-					{"searchTerm": "Chuu 3 Ei - Suu - Koumin Pack (New Horizon, Columbus21 Taiou Ban)", "priority": 3}
-				]
+			"titles": [
+				{"searchTerm": "Chuu 3 Ei - Suu - Koumin Pack (New Crown, Total English Taiou Ban) (6FP313)"},
+				{"searchTerm": "Chuu 3 Ei - Suu - Koumin Pack (New Crown, Total English Taiou Ban) (5FP303)", "priority": 2},
+				{"searchTerm": "Chuu 3 Ei - Suu - Koumin Pack (New Horizon, Columbus21 Taiou Ban)", "priority": 3}
+			]
 		},
 		{
 			"group": "Chuu 3 English",
@@ -70,14 +77,16 @@
 			"group": "Chuugaku Rika (1-bunya)",
 			"titles": [
 				{"searchTerm": "Chuugaku Rika (1-bunya) (6FF421)"},
-				{"searchTerm": "Chuugaku Rika (1-bunya) (5FF411)", "priority": 2}
+				{"searchTerm": "Chuugaku Rika (1-bunya) (5FF411)", "priority": 2},
+				{"searchTerm": "Chuugaku Rika (1-bunya) (2BF411)", "priority": 3}
 			]
 		},
 		{
 			"group": "Chuugaku Rika (2-bunya)",
 			"titles": [
 				{"searchTerm": "Chuugaku Rika (2-bunya) (6FF422)"},
-				{"searchTerm": "Chuugaku Rika (2-bunya) (5FF412)", "priority": 2}
+				{"searchTerm": "Chuugaku Rika (2-bunya) (5FF412)", "priority": 2},
+				{"searchTerm": "Chuugaku Rika (2-bunya) (2BF412)", "priority": 3}
 			]
 		},
 		{

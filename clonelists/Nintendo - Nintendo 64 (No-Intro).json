@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Nintendo - Nintendo 64 (No-Intro)",
-		"lastUpdated": "05 August 2023",
+		"lastUpdated": "01 December 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -504,7 +504,8 @@
 			"group": "PGA European Tour",
 			"titles": [
 				{"searchTerm": "PGA European Tour"},
-				{"searchTerm": "PGA European Tour Golf"}
+				{"searchTerm": "PGA European Tour Golf"},
+				{"searchTerm": "PGA European Tour Golf (Version B.29)", "priority": 2}
 			]
 		},
 		{

@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Atari - Jaguar (No-Intro)",
-		"lastUpdated": "10 April 2023",
+		"lastUpdated": "03 December 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -13,6 +13,20 @@
 			],
 			"supersets": [
 				{"searchTerm": "Atomic Reloaded"}
+			]
+		},
+		{
+			"group": "Bad Apple",
+			"titles": [
+				{"searchTerm": "Bad Apple (Color Version)"},
+				{"searchTerm": "Bad Apple (Monochrome Version)", "priority": 2}
+			]
+		},
+		{
+			"group": "Barbarian",
+			"titles": [
+				{"searchTerm": "Barbarian (AMIGA)"},
+				{"searchTerm": "Barbarian (Atari ST)", "priority": 2}
 			]
 		},
 		{
@@ -30,6 +44,34 @@
 			]
 		},
 		{
+			"group": "Doom 2",
+			"titles": [
+				{"searchTerm": "Doom 2 (AC 2011)"},
+				{"searchTerm": "Doom 2 (AC 98) (E-JagFest 2010)", "priority": 2}
+			]
+		},
+		{
+			"group": "Golden Axe",
+			"titles": [
+				{"searchTerm": "Golden Axe (AMIGA)"},
+				{"searchTerm": "Golden Axe (Atari ST)", "priority": 2}
+			]
+		},
+		{
+			"group": "HMS RaptoR",
+			"titles": [
+				{"searchTerm": "HMS RaptoR"},
+				{"searchTerm": "HMS RaptoR (U-235)"}
+			]
+		},
+		{
+			"group": "Martian Attack",
+			"titles": [
+				{"searchTerm": "Martian Attack"},
+				{"searchTerm": "Martian Attack (JagCode 2007)", "priority": 2}
+			]
+		},
+		{
 			"group": "Missile Command 3D",
 			"titles": [
 				{"searchTerm": "Missile Command 3D"},
@@ -41,6 +83,20 @@
 			"titles": [
 				{"searchTerm": "Protector - Special Edition"},
 				{"searchTerm": "Protector", "priority": 2}
+			]
+		},
+		{
+			"group": "Tube",
+			"titles": [
+				{"searchTerm": "Tube - Second Edition"},
+				{"searchTerm": "Tube", "pirority": 2}
+			]
+		},
+		{
+			"group": "Tube2020",
+			"titles": [
+				{"searchTerm": "Tube2020 (RC2)"},
+				{"searchTerm": "Tube2020 (RC1)", "priority": 2}
 			]
 		},
 		{

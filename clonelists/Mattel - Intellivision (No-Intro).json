@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Mattel - Intellivision (No-Intro)",
-		"lastUpdated": "9 January 2023",
+		"lastUpdated": "03 December 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -59,6 +59,13 @@
 			]
 		},
 		{
+			"group": "Checkers",
+			"titles": [
+				{"searchTerm": "Checkers (Revision)"},
+				{"searchTerm": "Checkers", "priority": 2}
+			]
+		},
+		{
 			"group": "Crosswords",
 			"titles": [
 				{"searchTerm": "Crosswords"}
@@ -74,6 +81,13 @@
 			],
 			"compilations": [
 				{"searchTerm": "Learning Fun I - Math Master, Factor Fun"}
+			]
+		},
+		{
+			"group": "Las Vegas Poker & Blackjack",
+			"titles": [
+				{"searchTerm": "Las Vegas Poker & Blackjack (1979)"},
+				{"searchTerm": "Las Vegas Poker & Blackjack (1978)", "priority": 2}
 			]
 		},
 		{

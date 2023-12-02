@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Nintendo - Nintendo DS (No-Intro)",
-		"lastUpdated": "23 July 2023",
+		"lastUpdated": "01 December 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -4521,6 +4521,17 @@
 				{"searchTerm": "Nintendogs - Labrador & Chingudeul"},
 				{"searchTerm": "Nintendogs - Labrador & Friends"},
 				{"searchTerm": "Nintendogs - Shiba & Friends"}
+			]
+		},
+		{
+			"group": "Nitro EVA",
+			"titles": [
+				{"searchTerm": "Nitro EVA. (CTR) (Ver11.1) (Program)"},
+				{"searchTerm": "Nitro EVA. (CTR) (Ver11.0) (Program)", "priority": 2},
+				{"searchTerm": "Nitro EVA. (USG) (Ver10.0) (Program)", "priority": 3},
+				{"searchTerm": "Nitro EVA. (USG) (Ver9.0) (Program)", "priority": 4},
+				{"searchTerm": "Nitro EVA. (USG) (Ver8.0) (Program)", "priority": 5},
+				{"searchTerm": "Nitro EVA. (Ver5.1) (Program)", "priority": 6}
 			]
 		},
 		{

@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Sony - PlayStation (Redump)",
-		"lastUpdated": "07 August 2023",
+		"lastUpdated": "18 November 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -70,18 +70,19 @@
 
 	"mias": [
 		"Arc the Lad III (Japan) (Demo 2)",
+		"Classic Card Games (Russia) (Unl)",
 		"Ehrgeiz - God Bless the Ring (Japan) (Demo 2)",
-		"Frogger 2 - Swampy's Revenge (Europe) (Beta 1)",
-		"Frogger 2 - Swampy's Revenge (Europe) (Beta 3)",
-		"Frogger 2 - Swampy's Revenge (Europe) (Beta 4)",
-		"Frogger 2 - Swampy's Revenge (Europe) (Beta 5)",
-		"Frogger 2 - Swampy's Revenge (Europe) (En,Fr,De,It) (Beta 2)",
-		"Frogger 2 - Swampy's Revenge (USA) (Beta 1)",
-		"Frogger 2 - Swampy's Revenge (USA) (Beta 2)",
-		"Frogger 2 - Swampy's Revenge (USA) (Beta 3)",
-		"Frogger 2 - Swampy's Revenge (USA) (Beta 4)",
-		"Frogger 2 - Swampy's Revenge (USA) (Beta 5)",
-		"Frogger 2 - Swampy's Revenge (USA) (Beta 6)",
+		"Frogger 2 - Swampy's Revenge (Europe) (Beta) (2000-02-04)",
+		"Frogger 2 - Swampy's Revenge (Europe) (Beta) (2000-06-06)",
+		"Frogger 2 - Swampy's Revenge (Europe) (Beta) (2000-06-29)",
+		"Frogger 2 - Swampy's Revenge (Europe) (Beta) (2000-07-25)",
+		"Frogger 2 - Swampy's Revenge (Europe) (En,Fr,De,It) (Beta) (2000-03-01)",
+		"Frogger 2 - Swampy's Revenge (USA) (Beta) (2000-04-05)",
+		"Frogger 2 - Swampy's Revenge (USA) (Beta) (2000-06-09)",
+		"Frogger 2 - Swampy's Revenge (USA) (Beta) (2000-06-14)",
+		"Frogger 2 - Swampy's Revenge (USA) (Beta) (2000-07-18)",
+		"Frogger 2 - Swampy's Revenge (USA) (Beta) (2000-07-25)",
+		"Frogger 2 - Swampy's Revenge (USA) (Beta) (2000-07-31)",
 		"Ore no Shikabane o Koete Yuke (Japan) (Demo)"
 	],
 
@@ -1188,6 +1189,14 @@
 			]
 		},
 		{
+			"group": "Circuit Breakers",
+			"titles": [
+				{"searchTerm": "Circuit Breakers"},
+				{"searchTerm": "Circuit Breakers (Review)", "priority": 2},
+				{"searchTerm": "Circuit Breakers (Preview)", "priority": 3}
+			]
+		},
+		{
 			"group": "City of Lost Children, The",
 			"titles": [
 				{"searchTerm": "Cite des Enfants Perdus, La"},
@@ -1859,6 +1868,7 @@
 			"titles": [
 				{"searchTerm": "Disney's Winnie the Pooh - Kindergarten"},
 				{"searchTerm": "Disney Learning - Winnie the Pooh"},
+				{"searchTerm": "Kids Station - Gomdoli Pooh Hakseup Series - Gomdoli Pooh Yuchiwon Hakseubyeohaeng"},
 				{"searchTerm": "Kids Station - Kuma no Pooh-san - Mori no Kyoushitsu"}
 			]
 		},

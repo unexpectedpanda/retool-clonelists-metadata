@@ -41,7 +41,7 @@
 	"7th Guest, The (Germany) (Disc 1) (Das Spiel) (Rev 1)": {
 		"languages": ["De"]
 	},
-	"7th Guest, The (USA) (Beta)": {
+	"7th Guest, The (USA) (Beta) (1994-02-04)": {
 		"languages": ["En"]
 	},
 	"7th Guest, The (USA) (Disc 1) (The Game)": {
@@ -53,28 +53,37 @@
 	"ACT College Search '92, The (USA)": {
 		"languages": ["En"]
 	},
-	"ADI - Accompagnement Scolaire - Francais-Maths CE2 (France)": {
+	"ADI Accompagnement Scolaire - Francais-Maths 4eme (France)": {
+		"languages": ["Fr"]
+	},
+	"ADI Accompagnement Scolaire - Francais-Maths 5eme (France)": {
+		"languages": ["Fr"]
+	},
+	"ADI Accompagnement Scolaire - Francais-Maths 6eme (France)": {
 		"languages": []
 	},
-	"ADI Francais-Maths 4eme (France)": {
+	"ADI Accompagnement Scolaire - Francais-Maths CE1 (France)": {
 		"languages": ["Fr"]
 	},
-	"ADI Francais-Maths 5eme (France)": {
-		"languages": ["Fr"]
-	},
-	"ADI Francais-Maths 6eme (France)": {
+	"ADI Accompagnement Scolaire - Francais-Maths CE2 (France)": {
 		"languages": []
 	},
-	"ADI Francais-Maths CE1 (France)": {
+	"ADI Accompagnement Scolaire - Francais-Maths CM1 (France)": {
 		"languages": ["Fr"]
 	},
-	"ADI Francais-Maths CM1 (France)": {
+	"ADI Accompagnement Scolaire - Francais-Maths CM2 (France)": {
 		"languages": ["Fr"]
 	},
-	"ADI Francais-Maths CM2 (France)": {
-		"languages": ["Fr"]
+	"ADI Spielerisch lernen - Deutsch Klasse 1+2 (Germany)": {
+		"languages": []
 	},
-	"ADI Spielerisch Lernen - Mathe Klasse 3+4 (Germany)": {
+	"ADI Spielerisch lernen - Deutsch Klasse 3+4 (Germany)": {
+		"languages": ["De"]
+	},
+	"ADI Spielerisch lernen - Mathe Klasse 1+2 (Germany)": {
+		"languages": ["De"]
+	},
+	"ADI Spielerisch lernen - Mathe Klasse 3+4 (Germany)": {
 		"languages": ["De"]
 	},
 	"AFT-IFTIM Transport Multimodal - Version 1 (France)": {
@@ -85,7 +94,7 @@
 	},
 	"AIUEO (Japan)": {
 		"languages": [],
-		"localized_name": "あいうえお"
+		"localizedName": "あいうえお"
 	},
 	"ASICS Interactive Catalogue on CD-I 1995 (Europe)": {
 		"languages": []
@@ -135,7 +144,7 @@
 	"Albero Azzurro, L' (Italy)": {
 		"languages": ["It"]
 	},
-	"Albero Azzurro, L' (Italy) (Beta)": {
+	"Albero Azzurro, L' (Italy) (Beta) (1994-08-05)": {
 		"languages": ["It"]
 	},
 	"Aldosterone - Un Toxique Cardiovasculaire (France)": {
@@ -225,12 +234,12 @@
 	"Anne Willan Presents the Food of France (USA)": {
 		"languages": []
 	},
-	"Anne Willan Presents the Food of France (USA) (Beta)": {
+	"Anne Willan Presents the Food of France (USA) (Beta) (1992-10-14)": {
 		"languages": []
 	},
 	"Anniversary - Yuki Saito (Japan)": {
 		"languages": ["Ja"],
-		"localized_name": "アニバーサリー　斉藤由貴"
+		"localizedName": "アニバーサリー　斉藤由貴"
 	},
 	"AntiStatic (Europe)": {
 		"languages": ["En"]
@@ -310,10 +319,10 @@
 	"Atlantis - The Last Resort (Europe)": {
 		"languages": ["En"]
 	},
-	"Atlantis - The Last Resort (Europe) (Beta 1)": {
+	"Atlantis - The Last Resort (Europe) (Beta) (1995-08-21)": {
 		"languages": ["En"]
 	},
-	"Atlantis - The Last Resort (Europe) (Beta 2)": {
+	"Atlantis - The Last Resort (Europe) (Beta) (1996-09-18)": {
 		"languages": ["En"]
 	},
 	"Aventures de Sandy au Cirque, Les (France)": {
@@ -360,7 +369,7 @@
 	},
 	"Basistegn (Denmark)": {
 		"languages": [],
-		"localized_name": "Basistegn -en ordbog på CD-i"
+		"localizedName": "Basistegn -en ordbog på CD-i"
 	},
 	"Battleship (World)": {
 		"languages": ["En"]
@@ -406,7 +415,7 @@
 	},
 	"Beneteau - Gamme Voiliers 95-96 (France)": {
 		"languages": [],
-		"localized_name": "Bénéteau - 95-96 Sailing Yachts"
+		"localizedName": "Bénéteau - 95-96 Sailing Yachts"
 	},
 	"BeoCenter AV5 (Europe)": {
 		"languages": []
@@ -426,7 +435,7 @@
 	"Berenstain-Baeren, Die - Selbst ist der Baer (Germany)": {
 		"languages": ["De"]
 	},
-	"Bertelsmann Universal Lexikon (Germany) (Beta)": {
+	"Bertelsmann Universal Lexikon (Germany) (Beta) (1994-11-14)": {
 		"languages": []
 	},
 	"Bertelsmann Universal Lexikon (Germany) (En,De) (Demo)": {
@@ -436,12 +445,10 @@
 		"languages": ["De", "En"]
 	},
 	"Bertelsmann Universallexikon (Germany) (Fuer CD-i Player mit Digital Video Cartridge)": {
-		"languages": ["De"],
-		"localized_name": "Bertelsmann Universal Lexikon"
+		"languages": ["De"]
 	},
 	"Bertelsmann Universallexikon (Germany) (Fuer CD-i Player ohne Digital Video Cartridge)": {
-		"languages": ["De"],
-		"localized_name": "Bertelsmann Universal Lexikon"
+		"languages": ["De"]
 	},
 	"Besancon - Parcours d'une Ville (France)": {
 		"languages": []
@@ -461,7 +468,7 @@
 	"Best of Draw 50 with Lee Ames, The (USA)": {
 		"languages": []
 	},
-	"Best of Draw 50 with Lee Ames, The (USA) (Beta)": {
+	"Best of Draw 50 with Lee Ames, The (USA) (Beta) (1992-12-16)": {
 		"languages": []
 	},
 	"Best of Manfred Deix Vol. 1, The (Austria)": {
@@ -481,7 +488,7 @@
 	},
 	"Bilincli Secim (Turkey)": {
 		"languages": [],
-		"localized_name": "Bilinçli Seçim"
+		"localizedName": "Bilinçli Seçim"
 	},
 	"BioNova Badeteiche (Austria)": {
 		"languages": []
@@ -594,7 +601,7 @@
 	"Burn-Cycle (Spain) (El Juego)": {
 		"languages": ["Es"]
 	},
-	"Burn-Cycle (USA) (Beta)": {
+	"Burn-Cycle (USA) (Beta) (1994-08-02)": {
 		"languages": []
 	},
 	"Burn-Cycle (USA, Europe) (Disc 1) (The Game)": {
@@ -608,7 +615,7 @@
 	},
 	"C.Hafner - Fuer Gute Zaehne - Galvanoforming Leicht Gemacht - Vol. 2-12.95 (Germany)": {
 		"languages": [],
-		"localized_name": "C.Hafner - Galvanoforming mit dem Helioform HF 600 - Vol. 2"
+		"localizedName": "C.Hafner - Galvanoforming mit dem Helioform HF 600 - Vol. 2"
 	},
 	"CD Shoot (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Nl", "Pt"]
@@ -627,7 +634,7 @@
 	},
 	"CD-I CD Interactive (Japan) (Fixed Dump)": {
 		"languages": ["Ja"],
-		"localized_name": "CD-I ソフト ラインナップ"
+		"localizedName": "ＣＤ－Ｉ　ソフト　ラインナップ"
 	},
 	"CD-I Full Motion Video Demo - James Bond - 09-06-1992 (Europe)": {
 		"languages": []
@@ -664,11 +671,11 @@
 	},
 	"CD-I Test 4 (France)": {
 		"languages": [],
-		"localized_name": "CD-I Test - N° 4"
+		"localizedName": "CD-I Test - N° 4"
 	},
 	"CD-I Test 5 (France)": {
 		"languages": [],
-		"localized_name": "CD-I Test - N° 5"
+		"localizedName": "CD-I Test - N° 5"
 	},
 	"CD-I World - Volume 1 - Issue 1 (USA)": {
 		"languages": []
@@ -847,7 +854,7 @@
 	"CD-i mit der Maus, Die (Germany)": {
 		"languages": []
 	},
-	"CD-i mit der Maus, Die - Auf dem Bauernhof (Germany) (Beta)": {
+	"CD-i mit der Maus, Die - Auf dem Bauernhof (Germany) (Beta) (1995-05-31)": {
 		"languages": ["De"]
 	},
 	"CD-i voor Demonstratie van Breedbeeld TV (Netherlands)": {
@@ -1378,7 +1385,7 @@
 	"Caesars World of Boxing (France)": {
 		"languages": ["Fr"]
 	},
-	"Caesars World of Boxing (USA) (Beta)": {
+	"Caesars World of Boxing (USA) (Beta) (1993-12-03)": {
 		"languages": ["En"]
 	},
 	"Caesars World of Boxing (USA) (Rev 1)": {
@@ -1386,7 +1393,7 @@
 	},
 	"Caesars World of Gambling (Japan)": {
 		"languages": ["Ja"],
-		"localized_name": "シーザース・パレス 華麗なるギャンブルの世界"
+		"localizedName": "シーザース・パレス　華麗なるギャンブルの世界"
 	},
 	"Caesars World of Gambling (USA) (Rev 1)": {
 		"languages": []
@@ -1405,7 +1412,7 @@
 	},
 	"Canton HiFi-Lautsprecher 1994-95 (Germany)": {
 		"languages": ["De"],
-		"localized_name": "Das Canton HiFi-Lautsprecherprogramm 1994-95"
+		"localizedName": "Das Canton HiFi-Lautsprecherprogramm 1994-95"
 	},
 	"Caraibes Offshore (France)": {
 		"languages": []
@@ -1434,11 +1441,14 @@
 	"Cartoon Jukebox (Netherlands)": {
 		"languages": []
 	},
-	"Cartoon Jukebox (Netherlands) (Beta)": {
+	"Cartoon Jukebox (Netherlands) (Beta) (1992-07-23)": {
 		"languages": ["Nl"]
 	},
 	"Cartoon Jukebox (USA, Europe)": {
 		"languages": ["En"]
+	},
+	"Cathedrales Gothiques d'Europe (France)": {
+		"languages": []
 	},
 	"Centurion - A Process of Change (Europe)": {
 		"languages": []
@@ -1503,12 +1513,12 @@
 	"Christmas Crisis (Europe)": {
 		"languages": ["En"]
 	},
-	"Christmas Crisis (Europe) (Beta)": {
+	"Christmas Crisis (Europe) (Beta) (1995-09-25)": {
 		"languages": ["En"]
 	},
 	"Christmas Songbook, A ~ You Sing Christmas Favorites (Japan, Europe)": {
 		"languages": ["En"],
-		"localized_name": "クリスマス・フェイバリット ~みんなで歌おうクリスマス~"
+		"localizedName": "クリスマス・フェイバリット　～みんなで歌おうクリスマス～"
 	},
 	"Churchill Livingstone Tumours CD-i Programme (Europe) (Demo)": {
 		"languages": []
@@ -1531,7 +1541,7 @@
 	"Civil War, The - The South Secedes and War Begins (USA)": {
 		"languages": ["En"]
 	},
-	"Classical Jukebox (USA) (Beta)": {
+	"Classical Jukebox (USA) (Beta) (1991-08-28)": {
 		"languages": ["En"]
 	},
 	"Classical Jukebox (USA, Europe)": {
@@ -1549,10 +1559,16 @@
 	"Cluedo - The Mystery Continues (Europe)": {
 		"languages": ["En"]
 	},
-	"Cluedo - The Mystery Continues (Europe) (Beta)": {
+	"Cluedo - The Mystery Continues (Europe) (Beta) (1995-06-12)": {
 		"languages": []
 	},
 	"Coach, The (UK)": {
+		"languages": []
+	},
+	"Color of Night (Korea) (Disc 1)": {
+		"languages": []
+	},
+	"Color of Night (Korea) (Disc 2)": {
 		"languages": []
 	},
 	"Comando Tierra (Spain)": {
@@ -1588,7 +1604,7 @@
 	"Concise Oxford Dictionary & Oxford Thesaurus, The (Europe)": {
 		"languages": ["En"]
 	},
-	"Concise Oxford Dictionary & Oxford Thesaurus, The (Europe) (Beta)": {
+	"Concise Oxford Dictionary & Oxford Thesaurus, The (Europe) (Beta) (1994-09-20)": {
 		"languages": []
 	},
 	"Conduite dans des Conditions Difficiles, La (France)": {
@@ -1768,7 +1784,7 @@
 	"Dictionnaire Hachette Multimedia (France) (1995) (Version Digital Video)": {
 		"languages": ["Fr"]
 	},
-	"Dictionnaire Hachette Multimedia (France) (Beta)": {
+	"Dictionnaire Hachette Multimedia (France) (Beta) (1993-12-10)": {
 		"languages": ["Fr"]
 	},
 	"Dictionnaire Hachette Multimedia (France) (Demo)": {
@@ -1803,7 +1819,7 @@
 	},
 	"Discovering Pompei (Europe) (En,Fr)": {
 		"languages": ["En", "Fr"],
-		"localized_name": "À la découverte de Pompei"
+		"localizedName": "À la découverte de Pompei"
 	},
 	"Dit Was 1994 (Netherlands)": {
 		"languages": ["Nl"]
@@ -1827,8 +1843,7 @@
 		"languages": ["De"]
 	},
 	"Domino (Netherlands)": {
-		"languages": ["Nl"],
-		"localized_name": "Domino - Het Oudste Spel, het Nieuwste Medium"
+		"languages": ["Nl"]
 	},
 	"Downhome Blues, The (USA)": {
 		"languages": ["En"]
@@ -1868,15 +1883,15 @@
 	},
 	"E-Cat No 1 (Europe)": {
 		"languages": [],
-		"localized_name": "E-Cat N° 1"
+		"localizedName": "E-Cat N° 1"
 	},
 	"E-Cat No 2 (Europe)": {
 		"languages": [],
-		"localized_name": "E-Cat N° 2"
+		"localizedName": "E-Cat N° 2"
 	},
 	"E-Cat No 3 (Europe)": {
 		"languages": [],
-		"localized_name": "E-Cat N° 3"
+		"localizedName": "E-Cat N° 3"
 	},
 	"E-Z Play Today Keyboard (Europe)": {
 		"languages": []
@@ -1909,8 +1924,7 @@
 		"languages": ["Fr"]
 	},
 	"Earth Command (Germany)": {
-		"languages": ["De"],
-		"localized_name": "Earth Command - Die Zukunft unserer Welt liegt in Ihrer Hand"
+		"languages": ["De"]
 	},
 	"Earth Command (Netherlands)": {
 		"languages": ["Nl"]
@@ -1923,39 +1937,39 @@
 	},
 	"Earth Rhythms - Daichi no Hibiki (Japan)": {
 		"languages": ["En"],
-		"localized_name": "アース・リズム　～大地の響き～"
+		"localizedName": "アース・リズム　～大地の響き～"
 	},
 	"Ecolauto - DV No 4 - Cours de Formation B (France)": {
 		"languages": [],
-		"localized_name": "Ecolauto - DV N° 4 - Cours de Formation B"
+		"localizedName": "Ecolauto - DV N° 4 - Cours de Formation B"
 	},
 	"Ecolauto - DV No 4 - Cours de Formation B (France) (Rev 1)": {
 		"languages": [],
-		"localized_name": "Ecolauto - DV N° 4 - Cours de Formation B"
+		"localizedName": "Ecolauto - DV N° 4 - Cours de Formation B"
 	},
 	"Ecolauto - Groupe Lourd No 1 - Epreuve Orale (France)": {
 		"languages": [],
-		"localized_name": "Ecolauto - Groupe Lourd N° 1 - Épreuve Orale"
+		"localizedName": "Ecolauto - Groupe Lourd N° 1 - Épreuve Orale"
 	},
 	"Ecolauto - Groupe Lourd No 2 - Question Ecrites (France)": {
 		"languages": [],
-		"localized_name": "Ecolauto - Groupe Lourd N° 2 - Question Écrites"
+		"localizedName": "Ecolauto - Groupe Lourd N° 2 - Question Écrites"
 	},
 	"Ecolauto - Moto 1 DV - Maniabilite (France)": {
 		"languages": [],
-		"localized_name": "CD-i Moto I DV - Maniabilité Sécurité - Digital Vidéo"
+		"localizedName": "CD-i Moto I DV - Maniabilité Sécurité - Digital Vidéo"
 	},
 	"Ecolauto - No 3 - Cours de Formation B (France)": {
 		"languages": [],
-		"localized_name": "Ecolauto - N° 3 - Cours de Formation B"
+		"localizedName": "Ecolauto - N° 3 - Cours de Formation B"
 	},
 	"Ecolauto - No 4 - Tests Codoroute (France)": {
 		"languages": [],
-		"localized_name": "Ecolauto - N°4 - Tests Codoroute"
+		"localizedName": "Ecolauto - N°4 - Tests Codoroute"
 	},
 	"Ecolauto - No 5 - Tests Codoroute (France)": {
 		"languages": [],
-		"localized_name": "Ecolauto - N°5 - Tests Codoroute"
+		"localizedName": "Ecolauto - N°5 - Tests Codoroute"
 	},
 	"Ecosystems - Nature in Balance (USA)": {
 		"languages": ["En"]
@@ -1963,7 +1977,7 @@
 	"Effacer (USA)": {
 		"languages": []
 	},
-	"Effectief Communiceren I - School Version (Netherlands) (Beta)": {
+	"Effectief Communiceren I - School Version (Netherlands) (Beta) (1994-07-12)": {
 		"languages": []
 	},
 	"Electronic Art Gallery - Funkausstellung Berlin 1991 (Germany)": {
@@ -2020,20 +2034,88 @@
 	"Engineering 6.0 (USA)": {
 		"languages": ["En"]
 	},
+	"English Interactive (Korea) (Disc 1) (Units 1-3)": {
+		"languages": []
+	},
+	"English Interactive (Korea) (Disc 10) (Units 28-30)": {
+		"languages": []
+	},
+	"English Interactive (Korea) (Disc 11) (Units 31-33)": {
+		"languages": []
+	},
+	"English Interactive (Korea) (Disc 12) (Units 34-36)": {
+		"languages": []
+	},
+	"English Interactive (Korea) (Disc 13) (Units 37-39)": {
+		"languages": []
+	},
+	"English Interactive (Korea) (Disc 14) (Units 40-42)": {
+		"languages": []
+	},
+	"English Interactive (Korea) (Disc 15) (Units 43-45)": {
+		"languages": []
+	},
+	"English Interactive (Korea) (Disc 16) (Units 46-48)": {
+		"languages": []
+	},
+	"English Interactive (Korea) (Disc 17) (Units 49-51)": {
+		"languages": []
+	},
+	"English Interactive (Korea) (Disc 18) (Units 52-54)": {
+		"languages": []
+	},
+	"English Interactive (Korea) (Disc 19) (Units 55-57)": {
+		"languages": []
+	},
+	"English Interactive (Korea) (Disc 2) (Units 4-6)": {
+		"languages": []
+	},
+	"English Interactive (Korea) (Disc 20) (Units 58-60)": {
+		"languages": []
+	},
+	"English Interactive (Korea) (Disc 21) (Units 61-63)": {
+		"languages": []
+	},
+	"English Interactive (Korea) (Disc 22) (Units 64-66)": {
+		"languages": []
+	},
+	"English Interactive (Korea) (Disc 23) (Units 67-69)": {
+		"languages": []
+	},
+	"English Interactive (Korea) (Disc 3) (Units 7-9)": {
+		"languages": []
+	},
+	"English Interactive (Korea) (Disc 4) (Units 10-12)": {
+		"languages": []
+	},
+	"English Interactive (Korea) (Disc 5) (Units 13-15)": {
+		"languages": []
+	},
+	"English Interactive (Korea) (Disc 6) (Units 16-18)": {
+		"languages": []
+	},
+	"English Interactive (Korea) (Disc 7) (Units 19-21)": {
+		"languages": []
+	},
+	"English Interactive (Korea) (Disc 8) (Units 22-24)": {
+		"languages": []
+	},
+	"English Interactive (Korea) (Disc 9) (Units 25-27)": {
+		"languages": []
+	},
 	"Enkhuizer Almanak 1997 (Netherlands)": {
 		"languages": ["Nl"]
 	},
-	"Enkhuizer Almanak 1997 (Netherlands) (Beta)": {
+	"Enkhuizer Almanak 1997 (Netherlands) (Beta) (1996-10-14)": {
 		"languages": ["Nl"]
 	},
 	"Ennio Morricone - Vidi Aquam id est Benacum (Italy) (En,De,It)": {
 		"languages": ["De", "En", "It"]
 	},
 	"Ernte der Sonne - Vincent van Gogh (Germany)": {
-		"languages": ["De"],
-		"localized_name": "Ernte der Sonne"
+		"languages": ["De"]
 	},
-	"Escape from CyberCity (Europe) (Beta)": {
+	"Escape from CyberCity (Europe) (Beta) (1992-04-03)": {
 		"languages": []
 	},
 	"Escape from CyberCity (USA, Europe)": {
@@ -2045,7 +2127,7 @@
 	"Etoiles et Galaxies - Astronomie Flammarion (France)": {
 		"languages": ["Fr"]
 	},
-	"Eureka - Gutenberg - L'Imprimerie et Ses Precurseurs (France) (Beta)": {
+	"Eureka - Gutenberg - L'Imprimerie et Ses Precurseurs (France) (Beta) (1996-05-22)": {
 		"languages": []
 	},
 	"European CD-i Association, The - CD-i Presentation (Europe)": {
@@ -2057,10 +2139,10 @@
 	"European School, The (Europe)": {
 		"languages": []
 	},
-	"Everything You Always Wanted to Ask John Hawkins (Netherlands) (Proto)": {
+	"Everything You Always Wanted to Ask John Hawkins (Netherlands) (Proto) (1993-05-27)": {
 		"languages": ["En"]
 	},
-	"Everything You Always Wanted to Ask John Hawkins (Netherlands) (Proto) (Rev 1)": {
+	"Everything You Always Wanted to Ask John Hawkins (Netherlands) (Proto) (1993-05-28)": {
 		"languages": ["En"]
 	},
 	"Everything You Ever Wanted to Know About CD-i (Europe)": {
@@ -2083,7 +2165,7 @@
 	},
 	"F-1 Grand Prix Data Book (Japan)": {
 		"languages": [],
-		"localized_name": "F-1 グランプリ データブック"
+		"localizedName": "Ｆ－１　グランプリ　データブック"
 	},
 	"FIMMBO - Materialen Interactief (Netherlands)": {
 		"languages": []
@@ -2103,7 +2185,7 @@
 	"Face Kitchen (Europe) (Rev 1)": {
 		"languages": ["En"]
 	},
-	"Face Kitchen (UK) (Beta)": {
+	"Face Kitchen (UK) (Beta) (1992-10-26)": {
 		"languages": []
 	},
 	"Facom F96 (France)": {
@@ -2169,7 +2251,7 @@
 	"Family Games II - Junkfood Jive (Europe)": {
 		"languages": ["En"]
 	},
-	"Family Games II - Junkfood Jive (Europe) (Beta)": {
+	"Family Games II - Junkfood Jive (Europe) (Beta) (1995-06-12)": {
 		"languages": ["En"]
 	},
 	"Fatal Attraction (Europe) (Disc 1)": {
@@ -2184,7 +2266,7 @@
 	"Fatal Attraction (Netherlands) (Disc 2)": {
 		"languages": ["En"]
 	},
-	"Felix the Cat's Giant Electronic Comic Book (Europe) (Proto)": {
+	"Felix the Cat's Giant Electronic Comic Book (Europe) (Proto) (1995-10-19)": {
 		"languages": []
 	},
 	"Felix the Cat's Giant Electronic Comic Book (USA, Europe) (Unl)": {
@@ -2226,13 +2308,13 @@
 	"Flashback (Europe)": {
 		"languages": ["En"]
 	},
-	"Flashback (Europe) (Beta)": {
+	"Flashback (Europe) (Beta) (1994-12-21)": {
 		"languages": []
 	},
 	"Flashback (USA)": {
 		"languages": []
 	},
-	"Flight - The Universal Dream (USA) (Proto)": {
+	"Flight - The Universal Dream (USA) (Proto) (1993-08-12)": {
 		"languages": []
 	},
 	"Flintstones-Jetsons Timewarp (Europe)": {
@@ -2250,7 +2332,7 @@
 	"Football (Europe)": {
 		"languages": ["En"]
 	},
-	"Football (Europe) (Beta)": {
+	"Football (Europe) (Beta) (1994-07-05)": {
 		"languages": []
 	},
 	"Football (France)": {
@@ -2282,7 +2364,7 @@
 	},
 	"French Impressionists, The - France Inshouha (Japan)": {
 		"languages": ["Ja"],
-		"localized_name": "フランス印象派"
+		"localizedName": "フランス印象派"
 	},
 	"Frog Feast (USA) (Unl)": {
 		"languages": []
@@ -2304,7 +2386,7 @@
 	},
 	"GOCA - Groupement des Organismes Agrees de Controle Automobile (Belgium) (Fr,Nl)": {
 		"languages": ["Fr", "Nl"],
-		"localized_name": "GOCA - Groepering van Erkende Instellingen voor Automobielinspectie"
+		"localizedName": "GOCA - Groepering van Erkende Instellingen voor Automobielinspectie"
 	},
 	"Gardening by Choice - Flowers & Foliage (USA, Europe)": {
 		"languages": ["En"]
@@ -2346,8 +2428,7 @@
 		"languages": ["En"]
 	},
 	"Gevaert 100 Jaar, een Terugblik... (Belgium)": {
-		"languages": [],
-		"localized_name": "Gevaert 100 Ans, une Rétrospective..."
+		"languages": []
 	},
 	"Gewetensvragen (Netherlands)": {
 		"languages": ["Nl"]
@@ -2430,12 +2511,12 @@
 	"Golf Tips (Europe) (En,Ja)": {
 		"languages": ["En", "Ja"]
 	},
-	"Golf Tips (Europe) (En,Ja) (Beta)": {
+	"Golf Tips (Europe) (En,Ja) (Beta) (1993-01-10)": {
 		"languages": ["En", "Ja"]
 	},
 	"Golgo 13 (Japan)": {
 		"languages": [],
-		"localized_name": "ゴルゴ１３"
+		"localizedName": "ゴルゴ１３"
 	},
 	"Good Person to Do Business With, A (UK)": {
 		"languages": []
@@ -2451,7 +2532,7 @@
 	},
 	"Great Art Series, The - Florence Renaissance - Renaissance of Florence, The (Japan)": {
 		"languages": ["Ja"],
-		"localized_name": "フィレンツェ・ルネッサンス"
+		"localizedName": "フィレンツェ・ルネッサンス"
 	},
 	"Great British Golf (UK)": {
 		"languages": []
@@ -2480,7 +2561,7 @@
 	"Grundig - Das Car Audio-Programm 1995 (Germany)": {
 		"languages": []
 	},
-	"Guidare e Pilotare (Italy) (En,It) (Beta)": {
+	"Guidare e Pilotare (Italy) (En,It) (Beta) (1996-06-03)": {
 		"languages": ["En", "It"]
 	},
 	"Guide to Heavy Duty Pumps in the Construction Market (USA)": {
@@ -2503,7 +2584,7 @@
 	},
 	"Hanazukin-chan no Flower-land (Japan)": {
 		"languages": [],
-		"localized_name": "花ずきんちゃんの　フラワーランド"
+		"localizedName": "花ずきんちゃんの　フラワーランド"
 	},
 	"Hanna-Barbera Cartoon Carnival (USA, Europe)": {
 		"languages": ["En"]
@@ -2523,13 +2604,13 @@
 	"Head Crash - Cranium Error (Europe)": {
 		"languages": []
 	},
-	"Head Crash - Cranium Error (Europe) (Beta)": {
+	"Head Crash - Cranium Error (Europe) (Beta) (1994-10-14)": {
 		"languages": []
 	},
-	"Hello U.S.A. (Europe) (Disc 1) (Hit the Road!) (Proto)": {
+	"Hello U.S.A. (Europe) (Disc 1) (Hit the Road!) (Proto) (1993-03-12)": {
 		"languages": []
 	},
-	"Hello U.S.A. (Europe) (Disc 3) (The Heart of Country Music) (Proto)": {
+	"Hello U.S.A. (Europe) (Disc 3) (The Heart of Country Music) (Proto) (1993-03-15)": {
 		"languages": []
 	},
 	"Henri Des - Les Betises (France)": {
@@ -2637,12 +2718,12 @@
 	"Hondenliefde (Netherlands)": {
 		"languages": ["Nl"]
 	},
-	"Hondenliefde (Netherlands) (Beta)": {
+	"Hondenliefde (Netherlands) (Beta) (1994-01-02)": {
 		"languages": []
 	},
 	"Horoscope - Seiyou Senseijutsu (Japan)": {
 		"languages": ["Ja"],
-		"localized_name": "ホロズコープ　～西洋占星術～"
+		"localizedName": "ホロズコープ　～西洋占星術～"
 	},
 	"Hot and Cold (Europe) (En,Fr)": {
 		"languages": ["En", "Fr"]
@@ -2671,7 +2752,7 @@
 	"How the Camel Got His Hump (USA) (En,Es)": {
 		"languages": ["En", "Es"]
 	},
-	"How the Rhino Got His Skin (USA) (Beta)": {
+	"How the Rhinoceros Got His Skin (USA) (Beta) (1991-08-21)": {
 		"languages": ["En"]
 	},
 	"How the Rhinoceros Got His Skin (USA) (En,Es)": {
@@ -2688,7 +2769,7 @@
 	},
 	"Humanum Corpus (Europe)": {
 		"languages": [],
-		"localized_name": "The Human Body - Le Corps Humain - Der Menschliche Korper - El Cuerpo Humano - Il Corpo Umano"
+		"localizedName": "The Human Body - Le Corps Humain - Der Menschliche Korper - El Cuerpo Humano - Il Corpo Umano"
 	},
 	"Hunt for Red October, The (Europe) (Disc 1)": {
 		"languages": ["En"]
@@ -2735,7 +2816,7 @@
 	"In-Store Attractor Disc (Europe)": {
 		"languages": []
 	},
-	"Inca (Europe) (Beta)": {
+	"Inca (Europe) (Beta) (1993-05-07)": {
 		"languages": []
 	},
 	"Inca (Europe) (En,Fr,De,Nl)": {
@@ -2983,7 +3064,7 @@
 	},
 	"James Brown - Non Stop Hit Machine (Japan)": {
 		"languages": ["En"],
-		"localized_name": "ジェームス・ブラウン Non Stop Hit Machine"
+		"localizedName": "ジェームス・ブラウン　Ｎｏｎ　Ｓｔｏｐ　Ｈｉｔ　Ｍａｃｈｉｎｅ"
 	},
 	"James Brown - Non Stop Hit Machine (USA)": {
 		"languages": []
@@ -2996,24 +3077,18 @@
 	},
 	"Jazz - Methode de Guitare (France)": {
 		"languages": [],
-		"localized_name": "Jazz - Méthode de Guitare avec Louis Winsberg du Groupe Sixun"
+		"localizedName": "Jazz - Méthode de Guitare avec Louis Winsberg du Groupe Sixun"
 	},
 	"Jazz Giants - From Big Band to Bossa Nova (USA, Europe)": {
-		"languages": ["En"]
-	},
-	"Je Parle l'Allemand - Junior (France)": {
-		"languages": ["De"]
-	},
-	"Je Parle l'Anglais - Senior (France)": {
 		"languages": ["En"]
 	},
 	"Jeopardy! (USA)": {
 		"languages": ["En"]
 	},
-	"Jeopardy! (USA) (Beta 2)": {
+	"Jeopardy! (USA) (Beta) (1994-07-22)": {
 		"languages": []
 	},
-	"Jeopardy! (USA) (Beta)": {
+	"Jeopardy! (USA) (Beta) (1994-09-15)": {
 		"languages": []
 	},
 	"Jeux de Guerre (France) (Disc 1)": {
@@ -3027,12 +3102,12 @@
 	},
 	"Jigsaw - The Ultimate Electronic Puzzle (Japan, Europe)": {
 		"languages": ["En"],
-		"localized_name": "ジグソー"
+		"localizedName": "ジグソー"
 	},
 	"Jigsaw - The Ultimate Electronic Puzzle (USA)": {
 		"languages": ["En"]
 	},
-	"Joker's Wild! Jr., The (Europe) (Beta)": {
+	"Joker's Wild! Jr., The (Europe) (Beta) (1994-05-30)": {
 		"languages": ["En"]
 	},
 	"Joker's Wild! Jr., The (USA)": {
@@ -3173,7 +3248,7 @@
 	"Kether (USA) (En,Fr)": {
 		"languages": ["En", "Fr"]
 	},
-	"Kether (USA) (En,Fr) (Beta)": {
+	"Kether (USA) (En,Fr) (Beta) (1993-10-06)": {
 		"languages": ["En", "Fr"]
 	},
 	"Keyn Interactive, De (Belgium)": {
@@ -3191,11 +3266,14 @@
 	"Kiss (Europe)": {
 		"languages": ["En"]
 	},
-	"Kiss (Europe) (Beta)": {
+	"Kiss (Europe) (Beta) (1994-05-30)": {
 		"languages": []
 	},
 	"Klantenservice (Belgium) (En,Es)": {
 		"languages": ["En", "Es"]
+	},
+	"Klik (Europe) (Unl)": {
+		"languages": []
 	},
 	"Know Now - Module 2 (Netherlands)": {
 		"languages": []
@@ -3421,11 +3499,11 @@
 	},
 	"Let's Go Skiing with Alberto Tomba (Europe) (En,It)": {
 		"languages": ["En", "It"],
-		"localized_name": "Sciamo con Alterto Tomba"
+		"localizedName": "Sciamo con Alterto Tomba"
 	},
 	"Let's Go Skiing with Alberto Tomba (Europe) (En,It) (Rev 1)": {
 		"languages": ["En", "It"],
-		"localized_name": "Sciamo con Alterto Tomba"
+		"localizedName": "Sciamo con Alterto Tomba"
 	},
 	"Lettergreep (Netherlands)": {
 		"languages": ["Nl"]
@@ -3447,6 +3525,12 @@
 	},
 	"Lingo (Netherlands)": {
 		"languages": ["Nl"]
+	},
+	"Linie 3 (Denmark) (Disc 1)": {
+		"languages": []
+	},
+	"Linie 3 (Denmark) (Disc 2)": {
+		"languages": []
 	},
 	"Link - De Gezichten van het Kwaad (Netherlands)": {
 		"languages": ["Nl"]
@@ -3513,7 +3597,7 @@
 	},
 	"Louis Armstrong - An American Songbook (Japan)": {
 		"languages": ["En"],
-		"localized_name": "ルイ･アームストロング"
+		"localizedName": "ルイ・アームストロング"
 	},
 	"Louis Armstrong - An American Songbook (USA)": {
 		"languages": ["En"]
@@ -3563,7 +3647,7 @@
 	"Mad Dog II - The Lost Gold (Europe)": {
 		"languages": ["En"]
 	},
-	"Mad Dog II - The Lost Gold (Europe) (Beta)": {
+	"Mad Dog II - The Lost Gold (Europe) (Beta) (1995-10-18)": {
 		"languages": ["En"]
 	},
 	"Mad Dog McCree (Europe) (Alt)": {
@@ -3584,7 +3668,7 @@
 	"Mad Dog McCree (USA) (Alt)": {
 		"languages": []
 	},
-	"Mad Dog McCree (USA) (Beta)": {
+	"Mad Dog McCree (USA) (Beta) (1993-12-09)": {
 		"languages": []
 	},
 	"Mad Dog McCree (USA, Europe)": {
@@ -3619,7 +3703,7 @@
 	},
 	"Mah-jong (Japan)": {
 		"languages": ["Ja"],
-		"localized_name": "マージャン"
+		"localizedName": "マージャン"
 	},
 	"Maitres de la Peinture Hollandaise, Les (France)": {
 		"languages": ["Fr"]
@@ -3627,7 +3711,7 @@
 	"Making the Grade (UK)": {
 		"languages": ["En"]
 	},
-	"Making the Grade (UK) (Beta)": {
+	"Making the Grade (UK) (Beta) (1994-12-08)": {
 		"languages": ["En"]
 	},
 	"Makro Belgie - Tefal Test (Belgium)": {
@@ -3665,11 +3749,11 @@
 	},
 	"Master Labyrinth (Europe) (En,Fr,De,Nl)": {
 		"languages": ["De", "En", "Fr", "Nl"],
-		"localized_name": "Das Labyrinth der Meister"
+		"localizedName": "Das Labyrinth der Meister"
 	},
 	"Master Labyrinth (Germany) (En,Fr,De,Nl)": {
 		"languages": ["De", "En", "Fr", "Nl"],
-		"localized_name": "Das Labyrinth der Meister"
+		"localizedName": "Das Labyrinth der Meister"
 	},
 	"Mathtrak K1 (USA)": {
 		"languages": []
@@ -3686,13 +3770,13 @@
 	"Max Magic (Europe)": {
 		"languages": ["En"]
 	},
-	"Max Magic (Europe) (Beta)": {
+	"Max Magic (Europe) (Beta) (1994-08-18)": {
 		"languages": []
 	},
 	"Max Magic (USA)": {
 		"languages": ["En"]
 	},
-	"Max Magic (USA) (Beta)": {
+	"Max Magic (USA) (Beta) (1994-08-24)": {
 		"languages": []
 	},
 	"McDonnell Douglas (Europe)": {
@@ -3725,7 +3809,7 @@
 	"Mega Maze (Europe)": {
 		"languages": ["En"]
 	},
-	"Mega Maze (Europe) (Beta)": {
+	"Mega Maze (Europe) (Beta) (1993-10-21)": {
 		"languages": []
 	},
 	"Mega Maze (USA)": {
@@ -3738,6 +3822,9 @@
 		"languages": []
 	},
 	"Memory Works, The - For Names and Faces (USA)": {
+		"languages": []
+	},
+	"Mercer Mayer's Little Monster at School (Europe)": {
 		"languages": []
 	},
 	"Mercer Mayer's Little Monster at School (USA)": {
@@ -3761,8 +3848,17 @@
 	"Methode de Guitare Rock avec Paul Personne (France)": {
 		"languages": ["Fr"]
 	},
+	"Methode de Langues Multimedia, La - Je Parle l'Allemand - Junior (France)": {
+		"languages": ["De"]
+	},
+	"Methode de Langues Multimedia, La - Je Parle l'Allemand - La Methode Senior (France)": {
+		"languages": []
+	},
 	"Methode de Langues Multimedia, La - Je Parle l'Anglais - La Methode Junior (France)": {
 		"languages": ["Fr"]
+	},
+	"Methode de Langues Multimedia, La - Je Parle l'Anglais - Senior (France)": {
+		"languages": ["En"]
 	},
 	"Micro Machines (Europe)": {
 		"languages": ["En"]
@@ -3770,7 +3866,7 @@
 	"Micro Machines (Europe) (Demo)": {
 		"languages": ["En"]
 	},
-	"MindQuest (Europe) (Proto)": {
+	"MindQuest (Europe) (Proto) (1992-01-24)": {
 		"languages": []
 	},
 	"Mission on Music - June 1995 (Europe)": {
@@ -3782,7 +3878,7 @@
 	"Monty Python's Invasion from the Planet Skyron (Europe)": {
 		"languages": ["En"]
 	},
-	"Monty Python's Invasion from the Planet Skyron (Europe) (Beta)": {
+	"Monty Python's Invasion from the Planet Skyron (Europe) (Beta) (1995-05-15)": {
 		"languages": []
 	},
 	"Monty Python's More Naughty Bits (Europe)": {
@@ -3838,7 +3934,7 @@
 	},
 	"Mozart - Sono Ongaku to Shougai - A Musical Biography (Japan) (En,Ja)": {
 		"languages": ["En", "Ja"],
-		"localized_name": "モーツァルト　～その音楽と生涯～"
+		"localizedName": "モーツァルト　～その音楽と生涯～"
 	},
 	"Mozart - Una Biografia Musical (Spain)": {
 		"languages": []
@@ -3858,7 +3954,7 @@
 	"Mutant Rampage - Bodyslam (USA)": {
 		"languages": []
 	},
-	"Mutant Rampage - Bodyslam (USA) (Beta)": {
+	"Mutant Rampage - Bodyslam (USA) (Beta) (1994-08-25)": {
 		"languages": []
 	},
 	"Muziek in Economie (Netherlands)": {
@@ -3867,7 +3963,7 @@
 	"Muzzy (Europe)": {
 		"languages": []
 	},
-	"Muzzy (Europe) (Beta)": {
+	"Muzzy (Europe) (Beta) (1994-07-14)": {
 		"languages": ["En"]
 	},
 	"Muzzy (USA)": {
@@ -3906,10 +4002,10 @@
 	"NFL Hall of Fame Football (USA)": {
 		"languages": ["En"]
 	},
-	"NFL Hall of Fame Football (USA) (Beta)": {
+	"NFL Hall of Fame Football (USA) (Beta) (1994-09-14)": {
 		"languages": []
 	},
-	"NFL Instant Replay (Europe) (Beta)": {
+	"NFL Instant Replay (Europe) (Beta) (1995-06-15)": {
 		"languages": []
 	},
 	"NFL Instant Replay (USA)": {
@@ -3973,12 +4069,11 @@
 		"languages": ["Nl"]
 	},
 	"Neue Bose Lifestyle 12 Audio Home Entertainment System, Das (Germany)": {
-		"languages": ["De"],
-		"localized_name": "Bose Lifestyle 12 Audio Home Entertainment System Vorführ-CD-i"
+		"languages": ["De"]
 	},
 	"New 106, The - Une Nouvelle Reference (Europe)": {
 		"languages": [],
-		"localized_name": "The New 106 - Une Nouvelle Réferénce"
+		"localizedName": "The New 106 - Une Nouvelle Réferénce"
 	},
 	"Newcomers, The (UK)": {
 		"languages": []
@@ -3993,8 +4088,7 @@
 		"languages": []
 	},
 	"Nieuwe 106, De - Showroomversie (Belgium) (En,Fr)": {
-		"languages": ["En", "Fr"],
-		"localized_name": "Peugeot 106 - Nieuwe Trends uit Frankrijk - Talenten '96"
+		"languages": ["En", "Fr"]
 	},
 	"Nieuwe Reglement Rijbewijzen, Het - Demonstratie CD-i - April 1996 (Netherlands)": {
 		"languages": []
@@ -4007,7 +4101,7 @@
 	},
 	"Nipponshu no Subete (Japan)": {
 		"languages": [],
-		"localized_name": "日本酒のすべて"
+		"localizedName": "日本酒のすべて"
 	},
 	"No Problem - All the Fun of the Fair (Netherlands)": {
 		"languages": ["En"]
@@ -4029,11 +4123,11 @@
 	},
 	"Nuri e Asobi I - Paint School I (Japan)": {
 		"languages": ["Ja"],
-		"localized_name": "ぬりえあそびⅠ"
+		"localizedName": "ぬりえあそびⅠ"
 	},
 	"Nuri e Asobi II - Paint School II (Japan)": {
 		"languages": ["Ja"],
-		"localized_name": "ぬりえあそび Ⅱ"
+		"localizedName": "ぬりえあそび Ⅱ"
 	},
 	"OSHA MHE Forklifts (USA)": {
 		"languages": []
@@ -4057,8 +4151,7 @@
 		"languages": []
 	},
 	"Omgaan met Steriele Medische Hulpmiddelen (Netherlands)": {
-		"languages": [],
-		"localized_name": "Omgaan met Steriele Medische Hulp-Middelen"
+		"languages": []
 	},
 	"Omgaan met Steriele Medische Hulpmiddelen (Netherlands) (Demo)": {
 		"languages": []
@@ -4126,10 +4219,13 @@
 	"Paint School I (Asia) (Zh,Ko)": {
 		"languages": ["Ko", "Zh"]
 	},
-	"Paint School I (Europe) (En,Fr,De,Es,It,Nl)": {
-		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
+	"Paint School I (Europe)": {
+		"languages": []
 	},
 	"Paint School I (Europe) (En,Fr,De,Es,It,Nl) (Rev 1)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
+	},
+	"Paint School I (Europe) (En,Fr,De,Es,It,Nl) (Rev 2)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
 	},
 	"Paint School I (USA)": {
@@ -4222,7 +4318,7 @@
 	"Pecos Bill (USA)": {
 		"languages": ["En"]
 	},
-	"Pecos Bill (USA) (Beta)": {
+	"Pecos Bill (USA) (Beta) (1991-08-14)": {
 		"languages": []
 	},
 	"Pegase (France)": {
@@ -4390,6 +4486,9 @@
 	"Portrait d'une Ville - Venise (France)": {
 		"languages": ["Fr"]
 	},
+	"Portrait einer Stadt - Venedig (Germany)": {
+		"languages": ["De"]
+	},
 	"Portrait of a City - Venice (Europe)": {
 		"languages": ["En"]
 	},
@@ -4441,7 +4540,7 @@
 	"Private Lesson Series - Classical Guitar (USA, Europe)": {
 		"languages": ["En"]
 	},
-	"Private Lesson Series - Jazz Guitar (USA) (Beta)": {
+	"Private Lesson Series - Jazz Guitar (USA) (Beta) (1992-07-31)": {
 		"languages": []
 	},
 	"Private Lesson Series - Jazz Guitar (USA, Europe)": {
@@ -4504,7 +4603,7 @@
 	"Reihe Privatunterricht - Rockgitarre - Eine Anleitung fuer Anfaenger (Germany)": {
 		"languages": ["De"]
 	},
-	"Rembrandt - His Art and the Music of His Era (Netherlands)": {
+	"Rembrandt - His Art and the Music of His Era (Europe)": {
 		"languages": ["En"]
 	},
 	"Rembrandt - His Art and the Music of His Era (USA)": {
@@ -4527,7 +4626,7 @@
 	},
 	"Renaissance in Florenz, Die (Germany)": {
 		"languages": ["De"],
-		"localized_name": "Die Renaissance von Florenz"
+		"localizedName": "Die Renaissance von Florenz"
 	},
 	"Renaissance of Florence, The (Europe)": {
 		"languages": ["En"]
@@ -4546,7 +4645,7 @@
 	},
 	"Reserviert Ist Garantiert! (Germany)": {
 		"languages": [],
-		"localized_name": "Deutsche Bahn - Reserviert Ist Garantiert!"
+		"localizedName": "Deutsche Bahn - Reserviert Ist Garantiert!"
 	},
 	"Retratos de Cidades - Lisboa (Portugal)": {
 		"languages": ["Pt"]
@@ -4559,19 +4658,19 @@
 	},
 	"Revolution in Color, A - Russia Kindai Kaiga no Reimei (Japan) (En,Ja,Fr,De,Es,It,Nl)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Nl"],
-		"localized_name": "レボリューション イン カラー ロシア近代絵画の黎明"
+		"localizedName": "レボリューション　イン　カラー　ロシア近代絵画の黎明"
 	},
 	"Rhythm Maker (Japan) (En,Ja)": {
 		"languages": ["En", "Ja"],
-		"localized_name": "リズム・メーカー"
+		"localizedName": "リズム・メーカー"
 	},
 	"Rhythm Maker (USA)": {
 		"languages": ["En"]
 	},
-	"Rhythm Maker (USA) (Beta)": {
+	"Rhythm Maker (USA) (Beta) (1993-03-09)": {
 		"languages": ["En"]
 	},
-	"Rhythm Maker (USA) (Beta) (Alt)": {
+	"Rhythm Maker (USA) (Beta) (1993-03-09) (Alt)": {
 		"languages": []
 	},
 	"Richard Scarry - La Citta piu Indaffarata del Mondo! (Italy)": {
@@ -4591,7 +4690,7 @@
 	},
 	"Richard Scarry's Best Neighborhood Disc Ever! (Japan, Europe)": {
 		"languages": [],
-		"localized_name": "リチャード・スカリーの最高に楽しい仲間たち"
+		"localizedName": "リチャード・スカリーの最高に楽しい仲間たち"
 	},
 	"Richard Scarry's Best Neighborhood Disc Ever! (USA)": {
 		"languages": []
@@ -4601,7 +4700,7 @@
 	},
 	"Richard Scarry's Best Neighbourhood Disc Ever - Richard Scarry no Saikou ni Tanoshii Nakama-tachi (Japan)": {
 		"languages": ["Ja"],
-		"localized_name": "リチャード・スカリーの最高に楽しい仲間たち 日本語吹替版"
+		"localizedName": "リチャード・スカリーの最高に楽しい仲間たち 日本語吹替版"
 	},
 	"Richard Scarry's Busiest Neighborhood Disc Ever! (USA)": {
 		"languages": []
@@ -4609,12 +4708,12 @@
 	"Richard Scarry's Busiest Neighborhood Disc Ever! (USA) (Rev 2)": {
 		"languages": []
 	},
-	"Richard Scarry's Busiest Neighborhood Disc Ever! (USA, Japan)": {
+	"Richard Scarry's Busiest Neighborhood Disc Ever! (World)": {
 		"languages": []
 	},
 	"Richard Scarry's Busiest Neighbourhood Disc Ever - Richard Scarry no Isogashii Nakama-tachi (Japan)": {
 		"languages": ["Ja"],
-		"localized_name": "リチャード・スカリーの忙しい仲間たち 日本語吹替版"
+		"localizedName": "リチャード・スカリーの忙しい仲間たち　日本語吹替版"
 	},
 	"Rinascimento a Firenze, Il (Italy)": {
 		"languages": ["It"]
@@ -4625,7 +4724,7 @@
 	"Rise of the Robots (Europe) (Alt)": {
 		"languages": ["En"]
 	},
-	"Rise of the Robots (Europe) (Beta)": {
+	"Rise of the Robots (Europe) (Beta) (1995-08-24)": {
 		"languages": ["En"]
 	},
 	"Ritratto di Citta - Venezia (Italy)": {
@@ -4656,12 +4755,10 @@
 		"languages": ["En"]
 	},
 	"SVO - Opleiding voor de Vleessector - Het Bewerken van Varkensvlees (Netherlands)": {
-		"languages": [],
-		"localized_name": "SVO Opleiding voor de Vleessector te Utrecht"
+		"languages": []
 	},
 	"SVO - Opleiding voor de Vleessector - Hygiene en Verse Voeding (Netherlands)": {
-		"languages": [],
-		"localized_name": "SVO Opleiding voor de Vleessector te Utrecht"
+		"languages": []
 	},
 	"Saelis Cirkus Aeventyr (Sweden)": {
 		"languages": []
@@ -4677,6 +4774,9 @@
 	},
 	"Salzburger Land (Europe) (En,De)": {
 		"languages": ["De", "En"]
+	},
+	"Sandy's Circus Adventure (Europe)": {
+		"languages": []
 	},
 	"Sandy's Circus Adventure (USA, Europe)": {
 		"languages": ["En"]
@@ -4696,7 +4796,7 @@
 	"Sargon Chess (USA)": {
 		"languages": []
 	},
-	"Sargon Chess (USA) (Beta)": {
+	"Sargon Chess (USA) (Beta) (1991-10-01)": {
 		"languages": ["En"]
 	},
 	"Say What You Want (UK)": {
@@ -4735,7 +4835,7 @@
 	"Secret Mission (Europe) (Alt)": {
 		"languages": []
 	},
-	"Secret Mission (Europe) (Beta)": {
+	"Secret Mission (Europe) (Beta) (1995-04-24)": {
 		"languages": []
 	},
 	"Secret Mission (France)": {
@@ -4751,6 +4851,9 @@
 		"languages": ["En"]
 	},
 	"Self Selling Disc (USA)": {
+		"languages": []
+	},
+	"Self Selling Disc (USA) (v3.1) (Philips)": {
 		"languages": []
 	},
 	"Sell It to Me! Part One - Preparing The Way (UK)": {
@@ -4776,11 +4879,11 @@
 	},
 	"Sesame Street Kazu Asobi - A Visit to Sesame Street - Numbers (Japan)": {
 		"languages": ["En"],
-		"localized_name": "セサミストリート かずあそび"
+		"localizedName": "セサミストリート　かずあそび"
 	},
 	"Sesame Street Moji Asobi - A Visit to Sesame Street - Letters (Japan)": {
 		"languages": ["En"],
-		"localized_name": "セサミストリート もじあそび"
+		"localizedName": "セサミストリート　もじあそび"
 	},
 	"Shadoan (Europe)": {
 		"languages": []
@@ -4806,7 +4909,7 @@
 	"Si Balla! (Italy)": {
 		"languages": []
 	},
-	"Si Balla! (Italy) (Beta)": {
+	"Si Balla! (Italy) (Beta) (1994-12-22)": {
 		"languages": ["It"]
 	},
 	"Sieben Schritte zum Erfolg (Germany)": {
@@ -4820,11 +4923,11 @@
 	},
 	"Simulation Eikaiwa - CD-I Taiken America Ryokou (Japan)": {
 		"languages": [],
-		"localized_name": "シュミレーション英会話　ＣＤ－Ｉ体験アメリカ旅行"
+		"localizedName": "シュミレーション英会話　ＣＤ－Ｉ体験アメリカ旅行"
 	},
 	"Sinnaneun Susjanala 2 (Korea)": {
 		"languages": ["Ko"],
-		"localized_name": "신나는숫자나라 2"
+		"localizedName": "신나는숫자나라 2"
 	},
 	"Sipa Image - First Image Catalog on CD-I (France) (En,Fr,De)": {
 		"languages": ["De", "En", "Fr"]
@@ -4844,7 +4947,7 @@
 	"Smithsonian Presents the Riches of Coins, The (USA)": {
 		"languages": []
 	},
-	"Smithsonian Presents, The - Stamps - Windows on the World (France)": {
+	"Smithsonian Presents, The - Stamps - Windows on the World (Europe)": {
 		"languages": ["En"]
 	},
 	"Smithsonian Presents, The - Stamps - Windows on the World (USA)": {
@@ -4856,7 +4959,7 @@
 	"Solar System (Europe)": {
 		"languages": ["En"]
 	},
-	"Solitaire (Europe) (Proto)": {
+	"Solitaire (Europe) (Proto) (1997-12-15)": {
 		"languages": []
 	},
 	"Somewhere - Une Envie de Naturel (France)": {
@@ -4955,13 +5058,16 @@
 	"Stickybear Maths (Europe) (En,Es)": {
 		"languages": ["En", "Es"]
 	},
-	"Stickybear Preschool (Europe) (En,Es) (Beta)": {
+	"Stickybear Preschool (Europe)": {
+		"languages": []
+	},
+	"Stickybear Preschool (Europe) (En,Es) (Beta) (1994-09-26)": {
 		"languages": ["En", "Es"]
 	},
 	"Stickybear Preschool (USA) (En,Es)": {
 		"languages": ["En", "Es"]
 	},
-	"Stickybear Preschool (USA) (En,Es) (Beta)": {
+	"Stickybear Preschool (USA) (En,Es) (Beta) (1994-09-21)": {
 		"languages": ["En", "Es"]
 	},
 	"Stickybear Reading (USA) (En,Es)": {
@@ -4978,6 +5084,9 @@
 	},
 	"Story Machine - Magic Tales (USA)": {
 		"languages": ["En"]
+	},
+	"Story Machine - Star Dreams (Europe)": {
+		"languages": []
 	},
 	"Story Machine - Star Dreams (USA)": {
 		"languages": []
@@ -5018,7 +5127,7 @@
 	"Stunde der Patrioten, Die (Germany) (Disc 2)": {
 		"languages": ["De"]
 	},
-	"Super Mario's Wacky Worlds (USA) (Proto)": {
+	"Super Mario's Wacky Worlds (USA) (Proto) (1993-03-03)": {
 		"languages": ["En"]
 	},
 	"Super Stories - Mom is Going to Stop It (USA)": {
@@ -5030,7 +5139,7 @@
 	"SuperTest (Europe) (De,It)": {
 		"languages": ["De", "It"]
 	},
-	"SuperTest (Europe) (De,It) (Beta)": {
+	"SuperTest (Europe) (De,It) (Beta) (1995-04-11)": {
 		"languages": ["De", "It"]
 	},
 	"Surf City (Europe)": {
@@ -5062,12 +5171,12 @@
 	},
 	"TR-I - No World Order (Japan)": {
 		"languages": ["En"],
-		"localized_name": "トッドラングレン・インタラクティブ"
+		"localizedName": "トッドラングレン・インタラクティブ"
 	},
 	"TR-I - No World Order (USA)": {
 		"languages": ["En"]
 	},
-	"TR-I - No World Order (USA) (Beta)": {
+	"TR-I - No World Order (USA) (Beta) (1993-06-22)": {
 		"languages": []
 	},
 	"TV Interactief - Site Seeing in Digitaal Eindhoven (Netherlands)": {
@@ -5078,7 +5187,7 @@
 	},
 	"Taiyou o Karitoru Hito - Harvest of the Sun - Vincent van Gogh (Japan)": {
 		"languages": ["Ja"],
-		"localized_name": "太陽を刈り取る人　～フィンセント･ファン･ゴッホ～"
+		"localizedName": "太陽を刈り取る人　～フィンセント・ファン・ゴッホ～"
 	},
 	"Tandem Production (France)": {
 		"languages": []
@@ -5089,7 +5198,7 @@
 	"Tangram (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Nl", "Pt"]
 	},
-	"Tangram (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt) (Beta)": {
+	"Tangram (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt) (Beta) (1992-08-28)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Nl", "Pt"]
 	},
 	"Targeting for Performance (UK) (Disc 1)": {
@@ -5110,12 +5219,11 @@
 	"Tele CD-i Demonstrator (Europe)": {
 		"languages": []
 	},
-	"Tele CD-i Demonstrator (Europe) (Beta)": {
+	"Tele CD-i Demonstrator (Europe) (Beta) (1994-02-22)": {
 		"languages": []
 	},
 	"TeleApotheke - Winterprogramm 1995 (B) (Germany)": {
-		"languages": [],
-		"localized_name": "TeleApotheke - Ausgabe Winter 95B"
+		"languages": []
 	},
 	"Tell Me Why - One (USA, Europe)": {
 		"languages": []
@@ -5138,7 +5246,7 @@
 	"Tesoro dell'Isola dei Giochi, Il (Italy)": {
 		"languages": ["It"]
 	},
-	"Tesoro dell'Isola dei Giochi, Il (Italy) (Beta)": {
+	"Tesoro dell'Isola dei Giochi, Il (Italy) (Beta) (1994-12-02)": {
 		"languages": ["It"]
 	},
 	"Test Codoroute I (France)": {
@@ -5150,10 +5258,10 @@
 	"Test Programados Mecanica (Spain)": {
 		"languages": []
 	},
-	"Test Reglamentacion Especifico C-C1 (Spain) (Proto)": {
+	"Test Reglamentacion Especifico C-C1 (Spain) (Proto) (1999-06-25)": {
 		"languages": []
 	},
-	"Tetris (USA) (Beta)": {
+	"Tetris (USA) (Beta) (1992-07-02)": {
 		"languages": ["En"]
 	},
 	"Tetris (USA, Europe)": {
@@ -5177,7 +5285,7 @@
 	"Thunder in Paradise (USA) (Disc 1) (The Game)": {
 		"languages": []
 	},
-	"TicTac (Europe) (Proto)": {
+	"TicTac (Europe) (Proto) (1997-12-15)": {
 		"languages": []
 	},
 	"Tim & Baer auf dem Flughafen (Germany)": {
@@ -5336,6 +5444,12 @@
 	"Triunfo do Barroco, O (Portugal) (En,Pt)": {
 		"languages": ["En", "Pt"]
 	},
+	"True Romance (Korea) (Disc 1)": {
+		"languages": []
+	},
+	"True Romance (Korea) (Disc 2)": {
+		"languages": []
+	},
 	"UEFA Champions League (Europe) (Demo)": {
 		"languages": []
 	},
@@ -5368,11 +5482,11 @@
 	},
 	"Ulihamkke Bulleoyo - Chinguwa Hamkke (Korea)": {
 		"languages": ["Ko"],
-		"localized_name": "우리함께 불러요 - 친구와 함께"
+		"localizedName": "우리함께 불러요 - 친구와 함께"
 	},
 	"Ulihamkke Bulleoyo - Jayeongwa Hamkke (Korea)": {
 		"languages": ["Ko"],
-		"localized_name": "우리함께 불러요 - 자연과 함께"
+		"localizedName": "우리함께 불러요 - 자연과 함께"
 	},
 	"Ultimate Noah's Ark, The (UK)": {
 		"languages": ["En"]
@@ -5438,8 +5552,7 @@
 		"languages": ["Nl"]
 	},
 	"Vapro - Fysische Scheidingsmethoden 4 - Sorptieprocessen (Netherlands)": {
-		"languages": ["Nl"],
-		"localized_name": "Fysische Scheidingstechnieken - Sorptietechnieken"
+		"languages": ["Nl"]
 	},
 	"Vapro - Inleiding Procestechniek & Introduction to Process Technology (Netherlands) (En,Nl)": {
 		"languages": ["En", "Nl"]
@@ -5475,8 +5588,7 @@
 		"languages": ["De"]
 	},
 	"Verhalen Toverdoos - Magische Vertellingen (Netherlands)": {
-		"languages": ["Nl"],
-		"localized_name": "Verhalentoverdoos - Magische Vertellingen"
+		"languages": ["Nl"]
 	},
 	"Verhalen Toverdoos - Sterrendromen (Netherlands)": {
 		"languages": []
@@ -5594,7 +5706,7 @@
 	},
 	"Volvo 940 - Colour & Upholstery 1995 (France)": {
 		"languages": [],
-		"localized_name": "Volvo 940 - Teintes et Garnitures - CD-i Millesime 1995"
+		"localizedName": "Volvo 940 - Teintes et Garnitures - CD-i Millesime 1995"
 	},
 	"Volvo 940 - Information Produit - 1995 (Europe)": {
 		"languages": ["Fr"]
@@ -5607,7 +5719,7 @@
 	},
 	"Volvo 960 - Colour & Upholstery - Edition 1 (France)": {
 		"languages": [],
-		"localized_name": "Volvo 960 - Teintes et Garnitures - CD-i Millesime 1995"
+		"localizedName": "Volvo 960 - Teintes et Garnitures - CD-i Millesime 1995"
 	},
 	"Volvo 960 - Information Produit - 1995 (France)": {
 		"languages": []
@@ -5774,7 +5886,7 @@
 	"Wacky World of Miniature Golf with Eugene Levy, The (USA)": {
 		"languages": ["En"]
 	},
-	"Wacky World of Miniature Golf with Eugene Levy, The (USA) (Beta)": {
+	"Wacky World of Miniature Golf with Eugene Levy, The (USA) (Beta) (1993-07-22)": {
 		"languages": []
 	},
 	"Wall in Motion - Upper GI Motility Visualized as Never Before (Europe)": {
@@ -5825,7 +5937,7 @@
 	"What is CD-i (Europe)": {
 		"languages": ["En"]
 	},
-	"What's It Worth Auction Game, The (Europe) (Proto)": {
+	"What's It Worth Auction Game, The (Europe) (Proto) (1994-05-30)": {
 		"languages": []
 	},
 	"What's That Bird Britain and Europe (Europe) (En,Fr,De,Es,It)": {
@@ -5836,12 +5948,12 @@
 	},
 	"What's That Bird Britain and Europe (Europe) (En,Fr,De,Es,It) (Rev 2)": {
 		"languages": ["De", "En", "Es", "Fr", "It"],
-		"localized_name": "Quel est donc cet oiseau- Europe"
+		"localizedName": "Quel est donc cet oiseau- Europe"
 	},
 	"Who Shot Johnny Rock (Europe)": {
 		"languages": ["En"]
 	},
-	"Who Shot Johnny Rock (Europe) (Beta)": {
+	"Who Shot Johnny Rock (Europe) (Beta) (1995-04-24)": {
 		"languages": ["En"]
 	},
 	"Who Shot Johnny Rock (France)": {
@@ -5907,7 +6019,7 @@
 	"Worlds of..., The (Europe)": {
 		"languages": ["En"]
 	},
-	"Wuzzo Goes on Holiday (Europe) (Proto)": {
+	"Wuzzo Goes on Holiday (Europe) (Proto) (1994-02-23)": {
 		"languages": []
 	},
 	"Xplora 1 - Peter Gabriel's Secret World (USA, Europe)": {
@@ -6013,7 +6125,6 @@
 		"languages": []
 	},
 	"n-tv Gut zu Wissen - Jahresrueckblick 1995 (Germany)": {
-		"languages": ["De"],
-		"localized_name": "n-tv 1995 - Gut zu Wissen"
+		"languages": ["De"]
 	}
 }

@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Sony - PlayStation Portable (Redump)",
-		"lastUpdated": "20 August 2023",
+		"lastUpdated": "18 November 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -54,31 +54,21 @@
 	],
 
 	"mias": [
-		"2010 FIFA World Cup South Africa (Canada) (En,Fr)",
 		"Bleach - Heat the Soul 7 (Korea)",
 		"Burnout Legends (Asia)",
-		"FIFA Soccer 13 (Canada) (En,Fr)",
-		"Gran Turismo (Japan) (En,Ja) (v2.00)",
 		"Gun Showdown (USA) (Beta)",
-		"Jikkyou Powerful Pro Yakyuu 2010 (Japan) (v2.00)",
-		"Killzone - Liberation (USA) (En,Fr,De,Es,It,Nl,Pt,Ru) (DEV)",
 		"MLB 09 - The Show (Asia) (Sample)",
-		"Metal Gear Solid - Portable Ops (Korea)",
 		"NBA 08 (Asia) (Sample)",
 		"NBA 10 - The Inside (Asia)",
 		"NBA Live 07 (Asia)",
 		"Retail Sampler No. 3 for PSP (Europe)",
-		"SOCOM - U.S. Navy SEALs - Fireteam Bravo 2 (Korea)",
 		"Stealth feat. WipEout Pure Stealth Edition (Japan)",
 		"Tekken 6 (Asia) (En,Ja,Fr,De,Es,It,Ko,Ru)",
-		"Tekken 6 (Korea) (En,Ja,Fr,De,Es,It,Ko,Ru)",
 		"Ultimate Ghosts'n Goblins (Korea)",
 		"WRC - FIA World Rally Championship (Europe) (En,Fr,De,Es,It,Pt,No,Fi) (Beta)",
 		"WWE SmackDown vs. Raw 2009 (Korea)",
 		"WWE SmackDown vs. Raw 2011 (Korea)",
-		"WipEout Pure (Japan) (En,Ja) (Beta)",
-		"World Soccer Winning Eleven 9 - Ubiquitous Evolution (Korea)",
-		"Worms - Open Warfare 2 (Korea)"
+		"WipEout Pure (Japan) (En,Ja) (Beta)"
 	],
 
 	"variants": [
@@ -146,6 +136,13 @@
 			],
 			"supersets": [
 				{"searchTerm": "Armored Core - Formula Front International"}
+			]
+		},
+		{
+			"group": "Arthur and the Invisibles",
+			"titles": [
+				{"searchTerm": "Arthur and the Invisibles"},
+				{"searchTerm": "Arthur and the Minimoys"}
 			]
 		},
 		{

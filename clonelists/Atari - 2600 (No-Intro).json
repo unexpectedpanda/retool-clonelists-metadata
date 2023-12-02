@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Atari - 2600 (No-Intro)",
-		"lastUpdated": "05 August 2023",
+		"lastUpdated": "01 December 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -22,9 +22,9 @@
 			"categories": ["Applications", "Preproduction"]
 		},
 		{
-			"searchTerm": "Colours",
+			"searchTerm": "Colours (Demo)",
 			"nameType": "short",
-			"categories": ["Applications", "Preproduction"]
+			"categories": ["Applications", "Demos"]
 		},
 		{
 			"searchTerm": "Frog Demo",
@@ -37,9 +37,9 @@
 			"categories": ["BIOS"]
 		},
 		{
-			"searchTerm": "Sound",
+			"searchTerm": "Sound (Demo)",
 			"nameType": "short",
-			"categories": ["Applications", "Preproduction"]
+			"categories": ["Applications", "Demos"]
 		},
 		{
 			"searchTerm": "Venetian Blinds Demo",
@@ -99,6 +99,13 @@
 			]
 		},
 		{
+			"group": "Burgertime",
+			"titles": [
+				{"searchTerm": "Burgertime"},
+				{"searchTerm": "Burgertime (PROPER 12K)", "priority": 2}
+			]
+		},
+		{
 			"group": "Casino ~ Poker Plus",
 			"titles": [
 				{"searchTerm": "Casino"},
@@ -117,13 +124,6 @@
 			"titles": [
 				{"searchTerm": "Championship Soccer"},
 				{"searchTerm": "Championship Soccer ~ Soccer"}
-			]
-		},
-		{
-			"group": "Colors",
-			"titles": [
-				{"searchTerm": "Colors"},
-				{"searchTerm": "Colours"}
 			]
 		},
 		{
@@ -262,6 +262,13 @@
 			]
 		},
 		{
+			"group": "Slot Racers",
+			"titles": [
+				{"searchTerm": "Slot Racers"},
+				{"searchTerm": "Slot Racers ~ Maze"}
+			]
+		},
+		{
 			"group": "Space Tunnel",
 			"titles": [
 				{"searchTerm": "Space Tunnel"},
@@ -304,10 +311,10 @@
 			]
 		},
 		{
-			"group": "Tanks But no Tanks",
+			"group": "Tanks but No Tanks",
 			"titles": [
 				{"searchTerm": "Phantom Tank"},
-				{"searchTerm": "Tanks But no Tanks"}
+				{"searchTerm": "Tanks but No Tanks"}
 			]
 		},
 		{

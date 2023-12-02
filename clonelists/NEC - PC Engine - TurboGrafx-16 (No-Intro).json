@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "NEC - PC Engine - TurboGrafx-16 (No-Intro)",
-		"lastUpdated": "17 July 2023",
+		"lastUpdated": "01 December 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -96,6 +96,13 @@
 			"titles": [
 				{"searchTerm": "Cratermaze"},
 				{"searchTerm": "Doraemon - Meikyuu Daisakusen"}
+			]
+		},
+		{
+			"group": "Cyber Core",
+			"titles": [
+				{"searchTerm": "Cyber Core"},
+				{"searchTerm": "Cyber-Core"}
 			]
 		},
 		{

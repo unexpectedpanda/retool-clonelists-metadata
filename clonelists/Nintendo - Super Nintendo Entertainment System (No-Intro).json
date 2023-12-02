@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Nintendo - Super Nintendo Entertainment System (No-Intro)",
-		"lastUpdated": "20 August 2023",
+		"lastUpdated": "01 December 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -75,11 +75,6 @@
 			"searchTerm": "Tri-Star",
 			"nameType": "short",
 			"categories": ["BIOS"]
-		},
-		{
-			"searchTerm": "World Class Service Super Nintendo Tester",
-			"nameType": "short",
-			"categories": ["Applications"]
 		},
 		{
 			"searchTerm": "XBAND",
@@ -477,6 +472,7 @@
 		{
 			"group": "Cybernator",
 			"titles": [
+				{"searchTerm": "Assault Suits Valken"},
 				{"searchTerm": "Cybernator"},
 				{"searchTerm": "Juusou Kihei Valken"}
 			]
@@ -1345,6 +1341,14 @@
 			]
 		},
 		{
+			"group": "MazezaM Challenge DX",
+			"titles": [
+				{"searchTerm": "MazezaM"},
+				{"searchTerm": "MazezaM Challenge DX"},
+				{"searchTerm": "MazezaM Challenge"}
+			]
+		},
+		{
 			"group": "Mecarobot Golf",
 			"titles": [
 				{"searchTerm": "Mecarobot Golf"},
@@ -1777,6 +1781,13 @@
 			]
 		},
 		{
+			"group": "Qwak",
+			"titles": [
+				{"searchTerm": "Qwak"},
+				{"searchTerm": "Qwak (No sound)", "priority": 2}
+			]
+		},
+		{
 			"group": "R-Type III",
 			"titles": [
 				{"searchTerm": "R-Type III"},
@@ -1986,6 +1997,13 @@
 			"titles": [
 				{"searchTerm": "Simpsons, The - Bart's Nightmare"},
 				{"searchTerm": "Simpsons, The - Bart no Fushigi na Yume no Daibouken"}
+			]
+		},
+		{
+			"group": "Skipp and Friends - Unexpected Journey",
+			"titles": [
+				{"searchTerm": "Skipp and Friends - Unexpected Journey"},
+				{"searchTerm": "Skipp and Friends - Unexpected Journey (PDroms Competition 4.01)", "priority": 2}
 			]
 		},
 		{

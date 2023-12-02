@@ -1,0 +1,52 @@
+{
+	"description": {
+		"name": "Arcade - Hasbro - VideoNow Color (Redump)",
+		"lastUpdated": "03 November 2023",
+		"minimumVersion": "2.00"
+	},
+
+	"variants": [
+		{
+			"group": "Hilary Duff - A Day in My Life",
+			"titles": [
+				{"searchTerm": "Hilary Duff (A Day in My Life)"},
+				{"searchTerm": "Hilary Duff (Une Journee avec Hilary Duff)"}
+			]
+		},
+		{
+			"group": "Jackie Chan Adventures - Operation Grand Surprise",
+			"titles": [
+				{"searchTerm": "Jackie Chan Adventures (Disc 2) (El Show del Perro y el Cerdo)"},
+				{"searchTerm": "Jackie Chan Adventures (Disc 2) (L'Operation Grande Surprise)"}
+			]
+		},
+		{
+			"group": "Jackie Chan Adventures - The Mask of El Toro Fuerte",
+			"titles": [
+				{"searchTerm": "Jackie Chan Adventures (Disc 1) (La Mascara Poderosa)"},
+				{"searchTerm": "Jackie Chan Adventures (Disc 1) (Le Masque d'El Toro Fuerte)"}
+			]
+		},
+		{
+			"group": "Jackie Chan Adventures - The Queen of Ombres",
+			"titles": [
+				{"searchTerm": "Jackie Chan Adventures (Disc 3) (La Reine des Ombres)"},
+				{"searchTerm": "Jackie Chan Adventures (Disc 3) (Reina de los Sombrakhan)"}
+			]
+		},
+		{
+			"group": "Totally Spies! I Want My Mommy",
+			"titles": [
+				{"searchTerm": "Totally Spies! (Ma Meilleure Momie)"},
+				{"searchTerm": "Totally Spies! (Disc 2) (Quiero a Mi Momia)"}
+			]
+		},
+		{
+			"group": "Totally Spies! Nature Nightmare",
+			"titles": [
+				{"searchTerm": "Totally Spies! (Camping Sauvage)"},
+				{"searchTerm": "Totally Spies! (Disc 3) (Pesadilla Natural)"}
+			]
+		}
+	]
+}

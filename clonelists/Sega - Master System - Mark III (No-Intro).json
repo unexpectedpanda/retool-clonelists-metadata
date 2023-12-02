@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Sega - Master System - Mark III (No-Intro)",
-		"lastUpdated": "05 August 2023",
+		"lastUpdated": "02 December 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -61,7 +61,8 @@
 			],
 			"compilations": [
 				{"searchTerm": "Astro Warrior & Pit Pot", "titlePosition": 1},
-				{"searchTerm": "Hang On & Astro Warrior", "titlePosition": 2}
+				{"searchTerm": "Hang On & Astro Warrior", "titlePosition": 2},
+				{"searchTerm": "Astro Warrior & Pit Pot (2011 Master System Evolution)", "titlePosition": 1, "priority": 2}
 			]
 		},
 		{
@@ -287,7 +288,8 @@
 				{"searchTerm": "Fushigi no Oshiro Pit Pot"}
 			],
 			"compilations": [
-				{"searchTerm": "Astro Warrior & Pit Pot", "titlePosition": 2}
+				{"searchTerm": "Astro Warrior & Pit Pot", "titlePosition": 2},
+				{"searchTerm": "Astro Warrior & Pit Pot (2011 Master System Evolution)", "titlePosition": 1, "priority": 2}
 			]
 		},
 		{

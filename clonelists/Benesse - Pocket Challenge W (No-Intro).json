@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Benesse - Pocket Challenge W (No-Intro)",
-		"lastUpdated": "05 August 2023",
+		"lastUpdated": "03 December 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -26,8 +26,9 @@
 			"group": "Shinkenzemi Chuugaku Kouza - Chuu 2 Eigo",
 			"titles": [
 				{"searchTerm": "Shinkenzemi Chuugaku Kouza - Chuu 2 Eigo (7BB214TE)"},
-				{"searchTerm": "Shinkenzemi Chuugaku Kouza - Chuu 2 Eigo (7BB212SS)", "priority": 2},
-				{"searchTerm": "Shinkenzemi Chuugaku Kouza - Chuu 2 Eigo (7BB211NH)", "priority": 3}
+				{"searchTerm": "Shinkenzemi Chuugaku Kouza - Chuu 2 Eigo (7BB213NC)", "priority": 2},
+				{"searchTerm": "Shinkenzemi Chuugaku Kouza - Chuu 2 Eigo (7BB212SS)", "priority": 3},
+				{"searchTerm": "Shinkenzemi Chuugaku Kouza - Chuu 2 Eigo (7BB211NH)", "priority": 4}
 			]
 		},
 		{
@@ -35,7 +36,7 @@
 			"titles": [
 				{"searchTerm": "Shinkenzemi Chuugaku Kouza - Chuu 3 Eigo (7BB317CB)"},
 				{"searchTerm": "Shinkenzemi Chuugaku Kouza - Chuu 3 Eigo (7BB315OW)", "priority": 2},
-				{"searchTerm": "Shinkenzemi Chuugaku Kouza - Chuu 3 Eigo (7BB313NC)", "priority": 3},
+				{"searchTerm": "Shinkenzemi Chuugaku Kouza - Chuu 3 Eigo (0BB313NC - 7BB313NC)", "priority": 3},
 				{"searchTerm": "Shinkenzemi Chuugaku Kouza - Chuu 3 Eigo (7BB312SS)", "priority": 4},
 				{"searchTerm": "Shinkenzemi Chuugaku Kouza - Chuu 3 Eigo (7BB311NH)", "priority": 5}
 			]
@@ -93,6 +94,13 @@
 			"titles": [
 				{"searchTerm": "Shinkenzemi Koukou Kouza - Juuyou Kobun Kouryaku (8BKD01)"},
 				{"searchTerm": "Shinkenzemi Koukou Kouza - Juuyou Kobun Kouryaku (0BKD01)", "priority": 2}
+			]
+		},
+		{
+			"group": "Shinkenzemi Chuugaku Kouza - Chuugaku Rekishi",
+			"titles": [
+				{"searchTerm": "Shinkenzemi Chuugaku Kouza - Chuugaku Rekishi (7BC410)"},
+				{"searchTerm": "Shinkenzemi Chuugaku Kouza - Chuugaku Rekishi (0BC410)", "priority": 2}
 			]
 		}
 	]

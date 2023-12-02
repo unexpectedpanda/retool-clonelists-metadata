@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Nintendo - Satellaview (No-Intro)",
-		"lastUpdated": "21 January 2023",
+		"lastUpdated": "03 December 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -38,7 +38,28 @@
 			"group": "BS Super Mario Collection - Dai-3-shuu",
 			"titles": [
 				{"searchTerm": "BS Super Mario Collection - Dai-3-shuu (3-17) (SoundLink)"},
-				{"searchTerm": "BS Super Mario Collection - Dai-3-shuu (1-13)", "priority": 2}
+				{"searchTerm": "BS Super Mario Collection - Dai-3-shuu (1-13) (SoundLink)", "priority": 2}
+			]
+		},
+		{
+			"group": "F-Zero",
+			"titles": [
+				{"searchTerm": "F-Zero (8-4)"},
+				{"searchTerm": "F-Zero (7-10)", "priority": 2}
+			]
+		},
+		{
+			"group": "Shanghai - Banri no Choujou",
+			"titles": [
+				{"searchTerm":"Shanghai - Banri no Choujou (9-26)"},
+				{"searchTerm":"Shanghai - Banri no Choujou (5-27)", "priority": 2}
+			]
+		},
+		{
+			"group": "Super Bomberman",
+			"titles": [
+				{"searchTerm": "Super Bomberman (5-20)"},
+				{"searchTerm": "Super Bomberman (5-3)", "priority": 2}
 			]
 		}
 	]
