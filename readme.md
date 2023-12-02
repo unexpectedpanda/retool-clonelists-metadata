@@ -1,5 +1,3 @@
-> ⏳ Retool is [on hiatus from September until December 2023](https://github.com/unexpectedpanda/retool/issues/283). There will be no updates during this time.
-
 This is the repository for [Retool's](https://unexpectedpanda.github.io/retool/) clone
 list and metadata files. It also hosts `config/internal-config.json` and `datafile.dtd`.
 
