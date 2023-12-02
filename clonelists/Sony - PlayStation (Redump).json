@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Sony - PlayStation (Redump)",
-		"lastUpdated": "18 November 2023",
+		"lastUpdated": "03 December 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -27,7 +27,7 @@
 			"categories": ["Educational", "Video"]
 		},
 		{
-			"searchTerm": "Derby Stallion Magazine 2000",
+			"searchTerm": "Derby Stallion Magazine 2000 Vol. 1",
 			"nameType": "short",
 			"categories": ["Coverdisc"]
 		},
@@ -750,6 +750,13 @@
 			"titles": [
 				{"searchTerm": "Beat Mania Append 3rdMix"},
 				{"searchTerm": "Beat Mania 3rd Mix Mini", "priority": 2}
+			]
+		},
+		{
+			"group": "Beast Wars - Transformers",
+			"titles": [
+				{"searchTerm": "Beast Wars - Transformers"},
+				{"searchTerm": "Transformers - Beast Wars"}
 			]
 		},
 		{
@@ -6409,6 +6416,13 @@
 			"titles": [
 				{"searchTerm": "Tower Dream 2"},
 				{"searchTerm": "SuperLite 1500 Series - Tower Dream 2", "priority": 2}
+			]
+		},
+		{
+			"group": "Transformers - Beast Wars Transmetals",
+			"titles": [
+				{"searchTerm": "Transformers - Beast Wars Metals"},
+				{"searchTerm": "Transformers - Beast Wars Transmetals"}
 			]
 		},
 		{
