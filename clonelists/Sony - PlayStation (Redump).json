@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Sony - PlayStation (Redump)",
-		"lastUpdated": "23 August 2023",
+		"lastUpdated": "03 December 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -27,7 +27,7 @@
 			"categories": ["Educational", "Video"]
 		},
 		{
-			"searchTerm": "Derby Stallion Magazine 2000",
+			"searchTerm": "Derby Stallion Magazine 2000 Vol. 1",
 			"nameType": "short",
 			"categories": ["Coverdisc"]
 		},
@@ -70,18 +70,19 @@
 
 	"mias": [
 		"Arc the Lad III (Japan) (Demo 2)",
+		"Classic Card Games (Russia) (Unl)",
 		"Ehrgeiz - God Bless the Ring (Japan) (Demo 2)",
-		"Frogger 2 - Swampy's Revenge (Europe) (Beta 1)",
-		"Frogger 2 - Swampy's Revenge (Europe) (Beta 3)",
-		"Frogger 2 - Swampy's Revenge (Europe) (Beta 4)",
-		"Frogger 2 - Swampy's Revenge (Europe) (Beta 5)",
-		"Frogger 2 - Swampy's Revenge (Europe) (En,Fr,De,It) (Beta 2)",
-		"Frogger 2 - Swampy's Revenge (USA) (Beta 1)",
-		"Frogger 2 - Swampy's Revenge (USA) (Beta 2)",
-		"Frogger 2 - Swampy's Revenge (USA) (Beta 3)",
-		"Frogger 2 - Swampy's Revenge (USA) (Beta 4)",
-		"Frogger 2 - Swampy's Revenge (USA) (Beta 5)",
-		"Frogger 2 - Swampy's Revenge (USA) (Beta 6)",
+		"Frogger 2 - Swampy's Revenge (Europe) (Beta) (2000-02-04)",
+		"Frogger 2 - Swampy's Revenge (Europe) (Beta) (2000-06-06)",
+		"Frogger 2 - Swampy's Revenge (Europe) (Beta) (2000-06-29)",
+		"Frogger 2 - Swampy's Revenge (Europe) (Beta) (2000-07-25)",
+		"Frogger 2 - Swampy's Revenge (Europe) (En,Fr,De,It) (Beta) (2000-03-01)",
+		"Frogger 2 - Swampy's Revenge (USA) (Beta) (2000-04-05)",
+		"Frogger 2 - Swampy's Revenge (USA) (Beta) (2000-06-09)",
+		"Frogger 2 - Swampy's Revenge (USA) (Beta) (2000-06-14)",
+		"Frogger 2 - Swampy's Revenge (USA) (Beta) (2000-07-18)",
+		"Frogger 2 - Swampy's Revenge (USA) (Beta) (2000-07-25)",
+		"Frogger 2 - Swampy's Revenge (USA) (Beta) (2000-07-31)",
 		"Ore no Shikabane o Koete Yuke (Japan) (Demo)"
 	],
 
@@ -738,13 +739,6 @@
 			]
 		},
 		{
-			"group": "Beast Wars - Transformers",
-			"titles": [
-				{"searchTerm": "Beast Wars - Transformers"},
-				{"searchTerm": "Transformers - Beast Wars"}
-			]
-		},
-		{
 			"group": "Beat-Em-Up Special (Demo)",
 			"titles": [
 				{"searchTerm": "Beat-Em-Up Special (Demo)"},
@@ -756,6 +750,13 @@
 			"titles": [
 				{"searchTerm": "Beat Mania Append 3rdMix"},
 				{"searchTerm": "Beat Mania 3rd Mix Mini", "priority": 2}
+			]
+		},
+		{
+			"group": "Beast Wars - Transformers",
+			"titles": [
+				{"searchTerm": "Beast Wars - Transformers"},
+				{"searchTerm": "Transformers - Beast Wars"}
 			]
 		},
 		{
@@ -1192,6 +1193,14 @@
 			"titles": [
 				{"searchTerm": "Chocobo Racing"},
 				{"searchTerm": "Chocobo Racing - Genkai e no Road"}
+			]
+		},
+		{
+			"group": "Circuit Breakers",
+			"titles": [
+				{"searchTerm": "Circuit Breakers"},
+				{"searchTerm": "Circuit Breakers (Review)", "priority": 2},
+				{"searchTerm": "Circuit Breakers (Preview)", "priority": 3}
 			]
 		},
 		{
@@ -1866,6 +1875,7 @@
 			"titles": [
 				{"searchTerm": "Disney's Winnie the Pooh - Kindergarten"},
 				{"searchTerm": "Disney Learning - Winnie the Pooh"},
+				{"searchTerm": "Kids Station - Gomdoli Pooh Hakseup Series - Gomdoli Pooh Yuchiwon Hakseubyeohaeng"},
 				{"searchTerm": "Kids Station - Kuma no Pooh-san - Mori no Kyoushitsu"}
 			]
 		},
