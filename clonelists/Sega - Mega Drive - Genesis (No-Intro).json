@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Sega - Mega Drive - Genesis (No-Intro)",
-		"lastUpdated": "23 July 2023",
+		"lastUpdated": "02 December 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -29,6 +29,13 @@
 			],
 			"compilations": [
 				{"searchTerm": "Game no Kanzume Otokuyou"}
+			]
+		},
+		{
+			"group": "Advanced Daisenryaku - Deutsch Dengeki Sakusen",
+			"titles": [
+				{"searchTerm": "Advanced Daisenryaku - Deutsch Dengeki Sakusen"},
+				{"searchTerm": "Da Zhanlue - Shandian Qixi", "priority": 2}
 			]
 		},
 		{
@@ -64,7 +71,8 @@
 			"titles": [
 				{"searchTerm": "Alex Kidd - Cheongong Maseong"},
 				{"searchTerm": "Alex Kidd - Tenkuu Majou"},
-				{"searchTerm": "Alex Kidd in the Enchanted Castle"}
+				{"searchTerm": "Alex Kidd in the Enchanted Castle"},
+				{"searchTerm": "Rockheaven", "priority": 2}
 			],
 			"compilations": [
 				{"searchTerm": "Classic Collection"}
@@ -121,6 +129,13 @@
 			]
 		},
 		{
+			"group": "Astebros",
+			"titles": [
+				{"searchTerm": "Astebros (PixelHeart)"},
+				{"searchTerm": "Astebros (neofid-studios.com)", "priority": 2}
+			]
+		},
+		{
 			"group": "Atomic Runner",
 			"titles": [
 				{"searchTerm": "Atomic Runner"},
@@ -156,6 +171,13 @@
 			"titles": [
 				{"searchTerm": "B.O.B."},
 				{"searchTerm": "Space Funky B.O.B."}
+			]
+		},
+		{
+			"group": "Bahamut Senki",
+			"titles": [
+				{"searchTerm": "Bahamut Senki"},
+				{"searchTerm": "Shengzhan Fengyun", "priority": 2}
 			]
 		},
 		{
@@ -221,6 +243,13 @@
 			"titles": [
 				{"searchTerm": "Boxing Legends of the Ring"},
 				{"searchTerm": "Chavez II"}
+			]
+		},
+		{
+			"group": "Brave Battle Saga - Legend of the Magic Warrior",
+			"titles": [
+				{"searchTerm": "Brave Battle Saga - Legend of the Magic Warrior"},
+				{"searchTerm": "Taikong Zhanshi - Mofa Zhanshi (Barver Battle Saga)"}
 			]
 		},
 		{
@@ -371,7 +400,8 @@
 				{"searchTerm": "Crusader of Centy"},
 				{"searchTerm": "Shin Changsegi - Ragnacenty"},
 				{"searchTerm": "Shin Souseiki Ragnacenty"},
-				{"searchTerm": "Soleil"}
+				{"searchTerm": "Soleil"},
+				{"searchTerm": "Xin Chuangshiji", "priority": 2}
 			]
 		},
 		{
@@ -518,7 +548,8 @@
 			"group": "Exile",
 			"titles": [
 				{"searchTerm": "Exile"},
-				{"searchTerm": "Exile - Toki no Hazama he"}
+				{"searchTerm": "Exile - Toki no Hazama he"},
+				{"searchTerm": "Shikong Yi Bian", "priority": 2}
 			]
 		},
 		{
@@ -572,7 +603,8 @@
 			"group": "Ferrari Grand Prix Challenge",
 			"titles": [
 				{"searchTerm": "Ferrari Grand Prix Challenge"},
-				{"searchTerm": "Nakajima Satoru Kanshuu - F-1 Hero MD"}
+				{"searchTerm": "Nakajima Satoru Kanshuu - F-1 Hero MD"},
+				{"searchTerm": "F-1 Hero MD", "priority": 2}
 			]
 		},
 		{
@@ -624,6 +656,13 @@
 			]
 		},
 		{
+			"group": "Fushigi no Umi no Nadia",
+			"titles": [
+				{"searchTerm": "Fushigi no Umi no Nadia"},
+				{"searchTerm": "Haidi Liang Wanli (Lanbaoshi Zhi Mi)", "priority": 2}
+			]
+		},
+		{
 			"group": "Gauntlet IV",
 			"titles": [
 				{"searchTerm": "Gauntlet"},
@@ -634,7 +673,8 @@
 			"group": "Gemfire",
 			"titles": [
 				{"searchTerm": "Gemfire"},
-				{"searchTerm": "Royal Blood"}
+				{"searchTerm": "Royal Blood"},
+				{"searchTerm": "Huangshi Xue Yi", "priority": 2}
 			]
 		},
 		{
@@ -655,7 +695,8 @@
 			"group": "Genghis Khan II - Clan of the Gray Wolf",
 			"titles": [
 				{"searchTerm": "Aoki Ookami to Shiroki Mejika - Genchou Hishi"},
-				{"searchTerm": "Genghis Khan II - Clan of the Gray Wolf"}
+				{"searchTerm": "Genghis Khan II - Clan of the Gray Wolf"},
+				{"searchTerm": "Chengjisihan II - Yuanchao Mishi Zhi Canglang Yu Bailu", "priority": 2}
 			]
 		},
 		{
@@ -704,7 +745,8 @@
 		{
 			"group": "Gunstar Heroes",
 			"titles": [
-				{"searchTerm": "Gunstar Heroes"}
+				{"searchTerm": "Gunstar Heroes"},
+				{"searchTerm": "Huoqiang Yingxiong", "priority": 2}
 			],
 			"compilations": [
 				{"searchTerm": "Classic Collection"}
@@ -783,7 +825,8 @@
 			"titles": [
 				{"searchTerm": "GrandSlam - The Tennis Tournament"},
 				{"searchTerm": "GrandSlam - The Tennis Tournament '92"},
-				{"searchTerm": "Jennifer Capriati Tennis"}
+				{"searchTerm": "Jennifer Capriati Tennis"},
+				{"searchTerm": "GrandSlam", "priority": 2}
 			]
 		},
 		{
@@ -791,13 +834,6 @@
 			"titles": [
 				{"searchTerm": "Jesse 'The Body' Ventura - Wrestling Superstars"},
 				{"searchTerm": "Thunder Pro Wrestling Retsuden"}
-			]
-		},
-		{
-			"group": "Joe Montana II - Sports Talk Football",
-			"titles": [
-				{"searchTerm": "Joe Montana II - Sports Talk Football"},
-				{"searchTerm": "Joe Montana II Sports Talk Football", "priority": 2}
 			]
 		},
 		{
@@ -814,6 +850,13 @@
 			"titles": [
 				{"searchTerm": "John Madden Football '92"},
 				{"searchTerm": "John Madden Football - Pro Football"}
+			]
+		},
+		{
+			"group": "John Madden Football '93",
+			"titles": [
+				{"searchTerm": "John Madden Football '93 (EA Sports)"},
+				{"searchTerm": "John Madden Football '93 (EASN)", "priority": 2}
 			]
 		},
 		{
@@ -877,6 +920,13 @@
 			]
 		},
 		{
+			"group": "Langrisser II",
+			"titles": [
+				{"searchTerm": "Langrisser II"},
+				{"searchTerm": "Menghuan Moni Zhan 2", "priority": 2}
+			]
+		},
+		{
 			"group": "Last Battle",
 			"titles": [
 				{"searchTerm": "Hokuto no Ken - Shin Seikimatsu Kyuuseishu Densetsu"},
@@ -891,10 +941,24 @@
 			]
 		},
 		{
+			"group": "Leidian Chuanshuo II",
+			"titles": [
+				{"searchTerm": "Leidian Chuanshuo II (Thunderbolt II)"},
+				{"searchTerm": "Thunderbolt II"}
+			]
+		},
+		{
 			"group": "Lightening Force - Quest for the Darkstar",
 			"titles": [
 				{"searchTerm": "Lightening Force - Quest for the Darkstar"},
 				{"searchTerm": "Thunder Force IV"}
+			]
+		},
+		{
+			"group": "Lord Monarch - Tokoton Sentou Densetsu",
+			"titles": [
+				{"searchTerm": "Lord Monarch - Tokoton Sentou Densetsu"},
+				{"searchTerm": "Mengnake Huangzu - Zuizhong Zhandou Chuanshuo", "priority": 2}
 			]
 		},
 		{
@@ -980,6 +1044,13 @@
 			]
 		},
 		{
+			"group": "Mighty Mighty Missile",
+			"titles": [
+				{"searchTerm": "Mighty Mighty Missile"},
+				{"searchTerm": "Mighty Mighty Missile (Classic Gaming Expo 2004)", "priority": 2}
+			]
+		},
+		{
 			"group": "Miniplanets",
 			"titles": [
 				{"searchTerm": "Miniplanets"}
@@ -1000,7 +1071,8 @@
 			"titles": [
 				{"searchTerm": "Kujaku Ou 2 - Geneijou"},
 				{"searchTerm": "Mystic Defender"},
-				{"searchTerm": "On Dal Jang Goon"}
+				{"searchTerm": "On Dal Jang Goon"},
+				{"searchTerm": "Kongque Wang 2 - Huanying Cheng", "priority": 2}
 			]
 		},
 		{
@@ -1021,7 +1093,9 @@
 			"group": "New Horizons",
 			"titles": [
 				{"searchTerm": "Daikoukai Jidai II"},
-				{"searchTerm": "New Horizons"}
+				{"searchTerm": "New Horizons"},
+				{"searchTerm": "Da Hanghai Shidai II (Traditional)", "priority": 2},
+				{"searchTerm": "Da Hanghai Shidai II (Simplified)", "priority": 3}
 			]
 		},
 		{
@@ -1032,13 +1106,10 @@
 			]
 		},
 		{
-			"group": "NHL Hockey",
+			"group": "NHL '94",
 			"titles": [
-				{"searchTerm": "EA Hockey"},
-				{"searchTerm": "NHL Hockey"}
-			],
-			"compilations": [
-				{"searchTerm": "EA Sports Double Header"}
+				{"searchTerm": "NHL '94"},
+				{"searchTerm": "NHL '94 (Re-release)", "priority": 2}
 			]
 		},
 		{
@@ -1053,6 +1124,37 @@
 			"titles": [
 				{"searchTerm": "NHL 96"},
 				{"searchTerm": "Elitserien 96"}
+			]
+		},
+		{
+			"group": "NHL Hockey",
+			"titles": [
+				{"searchTerm": "EA Hockey"},
+				{"searchTerm": "NHL Hockey"}
+			],
+			"compilations": [
+				{"searchTerm": "EA Sports Double Header"}
+			]
+		},
+		{
+			"group": "NHLPA Hockey 93",
+			"titles": [
+				{"searchTerm": "NHLPA Hockey 93 (EA Sports)"},
+				{"searchTerm": "NHLPA Hockey 93 (EASN)", "priority": 2}
+			]
+		},
+		{
+			"group": "Ninja Burai Densetsu",
+			"titles": [
+				{"searchTerm": "Ninja Burai Densetsu"},
+				{"searchTerm": "Renzhe Wu lei Chuanshuo", "priority": 2}
+			]
+		},
+		{
+			"group": "Nobunaga no Yabou - Haouden",
+			"titles": [
+				{"searchTerm": "Nobunaga no Yabou - Haouden"},
+				{"searchTerm": "Xin Zhang Yewang - Bawang Chuan", "priority": 2}
 			]
 		},
 		{
@@ -1087,7 +1189,8 @@
 			"group": "P.T.O. - Pacific Theater of Operations",
 			"titles": [
 				{"searchTerm": "P.T.O. - Pacific Theater of Operations"},
-				{"searchTerm": "Teitoku no Ketsudan"}
+				{"searchTerm": "Teitoku no Ketsudan"},
+				{"searchTerm": "Taipingyang Zhengba Zhan", "priority": 2}
 			]
 		},
 		{
@@ -1150,7 +1253,8 @@
 			"group": "Phantasy Star III - Generations of Doom",
 			"titles": [
 				{"searchTerm": "Phantasy Star III - Generations of Doom"},
-				{"searchTerm": "Toki no Keishousha - Phantasy Star III"}
+				{"searchTerm": "Toki no Keishousha - Phantasy Star III"},
+				{"searchTerm": "Menghuan Zhi Xing III", "priority": 2}
 			]
 		},
 		{
@@ -1163,8 +1267,9 @@
 		{
 			"group": "Pier Solar and the Great Architects (Reprint B)",
 			"titles": [
-				{"searchTerm": "Pier Solar and the Great Architects (Reprint B)"},
-				{"searchTerm": "Pier Solar and the Great Architects (Reprint A)", "priority": 4},
+				{"searchTerm": "Pier Solar and the Great Architects (Collector's Edition)"},
+				{"searchTerm": "Pier Solar and the Great Architects (Reprint B)", "priority": 2},
+				{"searchTerm": "Pier Solar and the Great Architects (Reprint A)", "priority": 3},
 				{"searchTerm": "Pier Solar and the Great Architects", "priority": 4}
 			]
 		},
@@ -1342,7 +1447,8 @@
 		{
 			"group": "Shadow Dancer - The Secret of Shinobi",
 			"titles": [
-				{"searchTerm": "Shadow Dancer - The Secret of Shinobi"}
+				{"searchTerm": "Shadow Dancer - The Secret of Shinobi"},
+				{"searchTerm": "Shadow Dancer", "priority": 2}
 			],
 			"compilations": [
 				{"searchTerm": "Sega Top Five"}
@@ -1366,7 +1472,8 @@
 			"group": "Shining Force II",
 			"titles": [
 				{"searchTerm": "Shining Force II"},
-				{"searchTerm": "Shining Force II - Inishie no Fuuin"}
+				{"searchTerm": "Shining Force II - Inishie no Fuuin"},
+				{"searchTerm": "Xin Guangming Yu Heian III - Gudai Fengyin", "priority": 2}
 			]
 		},
 		{
@@ -1489,7 +1596,8 @@
 			"group": "Sorcerer's Kingdom",
 			"titles": [
 				{"searchTerm": "Sorcer Kingdom"},
-				{"searchTerm": "Sorcerer's Kingdom"}
+				{"searchTerm": "Sorcerer's Kingdom"},
+				{"searchTerm": "Wushu Shen Jie", "priority": 2}
 			]
 		},
 		{
@@ -1585,6 +1693,7 @@
 			"group": "Streets of Rage 2",
 			"titles": [
 				{"searchTerm": "Streets of Rage 2"},
+				{"searchTerm": "Streets of Rage II"},
 				{"searchTerm": "Bare Knuckle II"}
 			]
 		},
@@ -1687,7 +1796,8 @@
 			"group": "Sword of Vermilion",
 			"titles": [
 				{"searchTerm": "Sword of Vermilion"},
-				{"searchTerm": "Vermilion"}
+				{"searchTerm": "Vermilion"},
+				{"searchTerm": "Xin Shi Zhong Jian", "priority": 2}
 			]
 		},
 		{
@@ -1695,6 +1805,21 @@
 			"titles": [
 				{"searchTerm": "SD Valis"},
 				{"searchTerm": "Syd of Valis"}
+			]
+		},
+		{
+			"group": "T2 - Terminator 2 - Judgment Day",
+			"titles": [
+				{"searchTerm": "T2 - Terminator 2 - Judgment Day"},
+				{"searchTerm": "Terminator 2", "priority": 2}
+			]
+		},
+		{
+			"group": "Taikou Risshiden",
+			"titles": [
+				{"searchTerm": "Taikou Risshiden"},
+				{"searchTerm": "Tai Ge Lizhi Chuan (Traditional)", "priority": 2},
+				{"searchTerm": "Tai Ge Lizhi Chuan (Simplified)", "priority": 3}
 			]
 		},
 		{
@@ -1708,7 +1833,8 @@
 			"group": "Tanglewood",
 			"titles": [
 				{"searchTerm": "Tanglewood"},
-				{"searchTerm": "Tanglewood (Windows)", "priority": 2}
+				{"searchTerm": "Tanglewood (Windows)", "priority": 2},
+				{"searchTerm": "Tanglewood (GOG, Itch)", "priority": 3}
 			]
 		},
 		{
@@ -1742,6 +1868,13 @@
 			]
 		},
 		{
+			"group": "Tekken Special",
+			"titles": [
+				{"searchTerm": "Tekken Special"},
+				{"searchTerm": "Tekken 3 Special", "priority": 2}
+			]
+		},
+		{
 			"group": "Teenage Mutant Ninja Turtles - The Hyperstone Heist",
 			"titles": [
 				{"searchTerm": "Teenage Mutant Hero Turtles - The Hyperstone Heist"},
@@ -1766,6 +1899,7 @@
 		{
 			"group": "Tinhead (Spectrum HoloByte)",
 			"titles": [
+				{"searchTerm": "Tinhead"},
 				{"searchTerm": "Tinhead (Spectrum HoloByte)"},
 				{"searchTerm": "Tinhead (Ballistic)", "priority": 2}
 			]
@@ -1823,7 +1957,8 @@
 			"group": "Traysia",
 			"titles": [
 				{"searchTerm": "Minato no Traysia"},
-				{"searchTerm": "Traysia"}
+				{"searchTerm": "Traysia"},
+				{"searchTerm": "Gang Du Shaonian", "priority": 2}
 			]
 		},
 		{
@@ -1836,8 +1971,8 @@
 		{
 			"group": "Tunshi Tiandi III",
 			"titles": [
-				{"searchTerm": "Tunshi Tiandi III"},
-				{"searchTerm": "Tunshi Tiandi III (Simple Chinese)"}
+				{"searchTerm": "Tunshi Tiandi III (Traditional)"},
+				{"searchTerm": "Tunshi Tiandi III (Simplified)", "priority": 2}
 			]
 		},
 		{
@@ -1889,7 +2024,8 @@
 			"group": "Uncharted Waters",
 			"titles": [
 				{"searchTerm": "Daikoukai Jidai"},
-				{"searchTerm": "Uncharted Waters"}
+				{"searchTerm": "Uncharted Waters"},
+				{"searchTerm": "Da Hanghai Shidai", "priority": 2}
 			]
 		},
 		{
@@ -1904,6 +2040,20 @@
 			"titles": [
 				{"searchTerm": "Kuuga - Operation Code 'Vapor Trail'"},
 				{"searchTerm": "Vapor Trail"}
+			]
+		},
+		{
+			"group": "Vixen 357",
+			"titles": [
+				{"searchTerm": "Vixen 357"},
+				{"searchTerm": "Teshu Budui 357", "priority": 2}
+			]
+		},
+		{
+			"group": "Wani Wani World",
+			"titles": [
+				{"searchTerm": "Wani Wani World"},
+				{"searchTerm": "Rockworld", "priority": 2}
 			]
 		},
 		{
@@ -1931,7 +2081,8 @@
 			"group": "Warsong",
 			"titles": [
 				{"searchTerm": "Langrisser"},
-				{"searchTerm": "Warsong"}
+				{"searchTerm": "Warsong"},
+				{"searchTerm": "Menghuan Moni Zhan", "priority": 2}
 			]
 		},
 		{
@@ -1970,6 +2121,13 @@
 			"titles": [
 				{"searchTerm": "Gynoug"},
 				{"searchTerm": "Wings of Wor"}
+			]
+		},
+		{
+			"group": "Winter Challenge",
+			"titles": [
+				{"searchTerm": "Winter Challenge"},
+				{"searchTerm": "Winter Challenger", "priority": 2}
 			]
 		},
 		{
@@ -2031,7 +2189,8 @@
 			"titles": [
 				{"searchTerm": "I Love Mickey and Donald - Fushigi na Magic Box"},
 				{"searchTerm": "World of Illusion Starring Mickey Mouse and Donald Duck"},
-				{"searchTerm": "World of Illusion starring Mickey Mouse & Donald Duck", "priority": 2}
+				{"searchTerm": "World of Illusion starring Mickey Mouse & Donald Duck", "priority": 2},
+				{"searchTerm": "World of Illusion", "priority": 3}
 			]
 		},
 		{
@@ -2045,6 +2204,7 @@
 		{
 			"group": "Xump 2 - Back to Space",
 			"titles": [
+				{"searchTerm": "Xump 2 - Back in Space"},
 				{"searchTerm": "Xump 2 - Back to Space"},
 				{"searchTerm": "Xump 2 - Back to Space (Physical Edition)", "priority": 2}
 			]

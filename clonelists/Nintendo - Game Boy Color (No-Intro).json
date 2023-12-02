@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Nintendo - Game Boy Color (No-Intro)",
-		"lastUpdated": "04 August 2023",
+		"lastUpdated": "02 December 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -85,6 +85,13 @@
 				{"searchTerm": "102 Dalmatians - Puppies to the Rescue"},
 				{"searchTerm": "102 Dalmatiens a la Rescousse, Les"},
 				{"searchTerm": "102 Dalmatiner"}
+			]
+		},
+		{
+			"group": "2001 Fatal Fury",
+			"titles": [
+				{"searchTerm": "2001 Fatal Fury"},
+				{"searchTerm": "Elang Chuanshuo - Shiji Zhi Zhan", "priority": 2}
 			]
 		},
 		{
@@ -230,6 +237,13 @@
 			]
 		},
 		{
+			"group": "Days Without",
+			"titles": [
+				{"searchTerm": "Days Without (Multiple Endings)"},
+				{"searchTerm": "Days Without", "priority": 2}
+			]
+		},
+		{
 			"group": "Deja Vu I & II - The Casebooks of Ace Harding",
 			"titles": [
 				{"searchTerm": "Deja Vu I & II"},
@@ -241,6 +255,23 @@
 			"titles": [
 				{"searchTerm": "Dexter's Laboratory - Robot Rampage"},
 				{"searchTerm": "Elevator Action EX"}
+			]
+		},
+		{
+			"group": "Digimon Adventure 2001",
+			"titles": [
+				{"searchTerm": "Digimon Adventure 2001"},
+				{"searchTerm": "2002 Digimon Adventure 6", "priority": 2},
+				{"searchTerm": "Shuma Baolong 9 - Baolong Pian", "priority": 3},
+				{"searchTerm": "Digimon - Yellow Jade", "priority": 4},
+				{"searchTerm": "Xin Shiqi Shidai", "priority": 5}
+			]
+		},
+		{
+			"group": "Disco Elysium - Game Boy Edition",
+			"titles": [
+				{"searchTerm": "Disco Elysium - Game Boy Edition (Music)"},
+				{"searchTerm": "Disco Elysium - Game Boy Edition (No Music)", "priority": 2}
 			]
 		},
 		{
@@ -287,6 +318,15 @@
 				{"searchTerm": "Dragon Ball Z - Legendaere Superkaempfer (All Unlocked)", "priority": 2},
 				{"searchTerm": "Dragon Ball Z - Legendary Super Warriors (All Unlocked)", "priority": 2},
 				{"searchTerm": "Dragon Ball Z - Les Guerriers Legendaires (All Unlocked)", "priority": 2}
+			]
+		},
+		{
+			"group": "Dragon Ball Z 3 - 2002 Fighting",
+			"titles": [
+				{"searchTerm": "Dragon Ball Z 3 - 2002 Fighting"},
+				{"searchTerm": "Dragon Ball Z Gedou 2005", "priority": 2},
+				{"searchTerm": "Dragon Ball Z - 2002 Fighting", "priority": 3}
+
 			]
 		},
 		{
@@ -356,12 +396,33 @@
 			]
 		},
 		{
+			"group": "Fellowship of the Rings",
+			"titles": [
+				{"searchTerm": "Fellowship of the Rings"},
+				{"searchTerm": "Mojie 3-bu Wanme de Shijie", "priority": 2}
+			]
+		},
+		{
+			"group": "Flooder",
+			"titles": [
+				{"searchTerm": "Flooder (Anniversary Edition)"},
+				{"searchTerm": "Flooder", "priority": 2}
+			]
+		},
+		{
 			"group": "Full Time Soccer",
 			"titles": [
 				{"searchTerm": "Full Time Soccer"}
 			],
 			"compilations": [
 				{"searchTerm": "Full Time Soccer & Hang Time Basketball"}
+			]
+		},
+		{
+			"group": "G.B Corp.",
+			"titles": [
+				{"searchTerm": "G.B Corp."},
+				{"searchTerm": "G.B Corp. (No Link Cable)", "priority": 2}
 			]
 		},
 		{
@@ -553,10 +614,26 @@
 			]
 		},
 		{
+			"group": "Keitai Denjuu Telefang - Speed Version",
+			"titles": [
+				{"searchTerm": "Keitai Denjuu Telefang - Speed Version"},
+				{"searchTerm": "Koudai Guaishou - Feicui Ban", "priority": 2},
+				{"searchTerm": "Pokemon Jade", "priority": 3},
+				{"searchTerm": "Pokemon Vision Jade", "priority": 4}
+			]
+		},
+		{
 			"group": "Kelly Club",
 			"titles": [
 				{"searchTerm": "Kelly Club"},
 				{"searchTerm": "Shelly Club"}
+			]
+		},
+		{
+			"group": "King of Fighters R2",
+			"titles": [
+				{"searchTerm": "King of Fighters R2"},
+				{"searchTerm": "Gedou Zhizun 2003", "priority": 2}
 			]
 		},
 		{
@@ -809,13 +886,6 @@
 			]
 		},
 		{
-			"group": "Otcopus Stressus",
-			"titles": [
-				{"searchTerm": "Octopus Stressus"},
-				{"searchTerm": "Octupus Stressus", "priority": 2}
-			]
-		},
-		{
 			"group": "Pac-Man - Special Color Edition",
 			"titles": [
 				{"searchTerm": "Pac-Man - Special Color Edition"},
@@ -892,6 +962,14 @@
 			]
 		},
 		{
+			"group": "Pokemon - Sapphire Version",
+			"titles": [
+				{"searchTerm": "Pokemon - Sapphire Version"},
+				{"searchTerm": "Koudai Guaishou - Sheng Bianshi", "priority": 2},
+				{"searchTerm": "2003 Koudai Guaishou - Lanbaoshi", "priority": 3}
+			]
+		},
+		{
 			"group": "Pokemon - Silver Version",
 			"titles": [
 				{"searchTerm": "Pocket Monsters Eun"},
@@ -922,6 +1000,13 @@
 			"titles": [
 				{"searchTerm": "Polaris SnoCross"},
 				{"searchTerm": "SnowCross"}
+			]
+		},
+		{
+			"group": "Potbound",
+			"titles": [
+				{"searchTerm": "Potbound"},
+				{"searchTerm": "Potbound (GBJam 10)"}
 			]
 		},
 		{
@@ -1069,14 +1154,8 @@
 		{
 			"group": "Sapphire Hotel - The Little Tales of",
 			"titles": [
-				{"searchTerm": "Sapphire Hotel - The Little Tales of (MBC5)"},
-				{"searchTerm": "Sapphire Hotel - The Little Tales of (MBC5) (Batteryless)", "priority": 2},
-				{"searchTerm": "Sapphire Hotel - The Little Tales of (MBC3)", "priority": 3},
-				{"searchTerm": "Sapphire Hotel - The Little Tales of (MBC3) (Batteryless)", "priority": 4},
-				{"searchTerm": "Yellow Sapphire Hotel - The Little Tales of (MBC5)", "priority": 5},
-				{"searchTerm": "Yellow Sapphire Hotel - The Little Tales of (MBC5) (Batteryless)", "priority": 6},
-				{"searchTerm": "Yellow Sapphire Hotel - The Little Tales of (MBC3)", "priority": 7},
-				{"searchTerm": "Yellow Sapphire Hotel - The Little Tales of (MBC3) (Batteryless)", "priority": 8}
+				{"searchTerm": "Sapphire Hotel - The Little Tales of"},
+				{"searchTerm": "Yellow Sapphire Hotel - The Little Tales of", "priority": 2}
 			]
 		},
 		{
@@ -1091,6 +1170,25 @@
 			"titles": [
 				{"searchTerm": "Shadowgate Classic"},
 				{"searchTerm": "Shadowgate Return"}
+			]
+		},
+		{
+			"group": "Shengui Diguo Zhi Emo Cheng",
+			"titles": [
+				{"searchTerm": "Shengui Diguo Zhi Emo Cheng"},
+				{"searchTerm": "Koudai Yaoguai Lu Baoshi", "priority": 2},
+				{"searchTerm": "Luoke Yingxiong EXE5", "priority": 3},
+				{"searchTerm": "Pian Wai Zhang - Huangjin Taiyang - Fengyin de Yuangu Lianjin Shu", "priority": 4},
+				{"searchTerm": "Yongzhe Dou E Long VIII", "priority": 5},
+				{"searchTerm": "Mojie Zhanshi Chuanshuo", "priority": 6},
+				{"searchTerm": "Emo Cheng DX", "priority": 7}
+			]
+		},
+		{
+			"group": "Shenghuo Jiangmo Lu Waizhuan",
+			"titles": [
+				{"searchTerm": "Shenghuo Jiangmo Lu Waizhuan"},
+				{"searchTerm": "Shenghuo Jiangmo Lu Waizhuan - Guang Yu An De Lunhui", "priority": 2}
 			]
 		},
 		{
@@ -1122,6 +1220,20 @@
 			"titles": [
 				{"searchTerm": "Star Heritage (Password Version)"},
 				{"searchTerm": "Star Heritage (SRAM Version)", "priority": 2}
+			]
+		},
+		{
+			"group": "Super Fighters S",
+			"titles": [
+				{"searchTerm": "Super Fighters S"},
+				{"searchTerm": "Super Fighters 99", "priority": 2}
+			]
+		},
+		{
+			"group": "Super Jacked Up Tomato Face Johnson",
+			"titles": [
+				{"searchTerm": "Super Jacked Up Tomato Face Johnson"},
+				{"searchTerm": "Super Jacked Up Tomato Face Johnson (Jam Version)", "priority": 2}
 			]
 		},
 		{
@@ -1266,6 +1378,13 @@
 			]
 		},
 		{
+			"group": "Xiao Taiji - Shenhua Lixian",
+			"titles": [
+				{"searchTerm": "Xiao Taiji - Shenhua Lixian"},
+				{"searchTerm": "Yinyang", "priority": 2}
+			]
+		},
+		{
 			"group": "Yogi Bear - Great Balloon Blast",
 			"titles": [
 				{"searchTerm": "Pop'n Pop"},
@@ -1281,6 +1400,13 @@
 				{"searchTerm": "Yu-Gi-Oh! - Duelo en las Tinieblas"},
 				{"searchTerm": "Yu-Gi-Oh! - Racconti Oscuri"},
 				{"searchTerm": "Yu-Gi-Oh! Duel Monsters III - Tri Holy God Advant"}
+			]
+		},
+		{
+			"group": "Yuenan Zhanyi X - Shenru Dihou",
+			"titles": [
+				{"searchTerm": "Yuenan Zhanyi X - Shenru Dihou"},
+				{"searchTerm": "Xin Fengkuang A Gei Pao Pao Tang", "priority": 2}
 			]
 		}
 	]

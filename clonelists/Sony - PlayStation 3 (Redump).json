@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Sony - PlayStation 3 (Redump)",
-		"lastUpdated": "20 August 2023",
+		"lastUpdated": "18 November 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -11,9 +11,9 @@
 		"3.66 IDU FW (USA)",
 		"April 2009 IDU 2.60 (USA)",
 		"Atelier Ayesha (Asia)",
-		"Buzz! - TV Visa Special Edition (Scandinavia) (En,Sv,No,Da,Fi)",
+		"Buzz! Brain of the World (Scandinavia) (En,Sv,No,Da,Fi)",
+		"Buzz! TV Visa Special Edition (Scandinavia) (En,Sv,No,Da,Fi)",
 		"Buzz! The Ultimate Music Quiz (Greece)",
-		"Call of Duty - Advanced Warfare (United Arab Emirates) (En,Ar)",
 		"Call of Duty 4 - Modern Warfare (Korea)",
 		"Captain America - Super Soldier (Asia) (En,Fr,De,Es,It)",
 		"Dead Space (UK) (En,Fr,Es) (Beta)",
@@ -29,7 +29,6 @@
 		"Fall Refresh 2011 - 3.70 IDU FW Update (USA)",
 		"GT5 - IDU FW update 3.40 (USA) (Kiosk Demo)",
 		"Gran Turismo 5 (Asia) (En,Zh)",
-		"Grand Theft Auto IV (Korea) (En,Fr,De,Es,It)",
 		"Guitar Hero - Aerosmith IDU_IDU 2.35 (USA)",
 		"Guitar Hero - Smash Hits - May 2.76 IDU Update (USA)",
 		"Guitar Hero - Warriors of Rock 3.40 IDU FW Update (USA) (Kiosk Demo)",
@@ -81,9 +80,12 @@
 		"Spring 2013 - Standard IDU 4.31 (USA)",
 		"Spring Refresh 2010 - 3.21 IDU Update (E-M) (USA)",
 		"Spring Refresh 2011 3.60 IDU FW Update (USA)",
+		"Start the Party! (Korea)",
 		"Street Fighter X Tekken (World) (Beta)",
 		"Summer Refresh 2011 - 3.65 IDU FW Update (USA)",
 		"Syberia Collection (Brazil)",
+		"Tekken Hybrid (Europe) (En,Ja,Fr,De,Es,It,Ko) (FW3.70) (Rev 1)",
+		"Tekken Hybrid (Europe) (En,Ja,Fr,De,Es,It,Ko) (FW3.73)",
 		"Walmart Endcap - 2014 Summer Refresh (USA)",
 		"Winter 2012 Refresh PS3 IDU 3.72 (USA)",
 		"Winter Refresh 2011 - 3.55 FW Update (USA)",
@@ -516,7 +518,7 @@
 				{"searchTerm": "Buzz! Quiz TV"}
 			],
 			"supersets": [
-				{"searchTerm": "Buzz! - TV Visa Special Edition"},
+				{"searchTerm": "Buzz! TV Visa Special Edition"},
 				{"searchTerm": "Buzz! Quiz TV (Special Edition)"}
 			]
 		},
@@ -2070,8 +2072,8 @@
 			"titles": [
 				{"searchTerm": "PES 2016 - Pro Evolution Soccer"},
 				{"searchTerm": "Winning Eleven 2016"},
-				{"searchTerm": "UEFA Euro 2016 - PES 2016 - Pro Evolution Soccer", "priority": 2},
-				{"searchTerm": "UEFA Euro 2016 - Winning Eleven 2016", "priority": 2}
+				{"searchTerm": "UEFA Euro 2016 - France - Winning Eleven 2016", "priority": 2},
+				{"searchTerm": "UEFA Euro 2016 - PES 2016 - Pro Evolution Soccer", "priority": 2}
 			]
 		},
 		{

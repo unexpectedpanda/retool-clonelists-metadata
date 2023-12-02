@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Nintendo - Nintendo Entertainment System (No-Intro)",
-		"lastUpdated": "31 July 2023",
+		"lastUpdated": "02 December 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -40,11 +40,6 @@
 			"searchTerm": "Playbox BASIC",
 			"nameType": "short",
 			"categories": ["Applications"]
-		},
-		{
-			"searchTerm": "Power Supply",
-			"nameType": "short",
-			"categories": ["Multimedia"]
 		},
 		{
 			"searchTerm": "^Pro Action Replay(.*)",
@@ -329,14 +324,6 @@
 			]
 		},
 		{
-			"group": "3-in-1 2p Pak",
-			"titles": [
-				{"searchTerm": "3-in-1 2p Pak (Sly Dog Studios)"},
-				{"searchTerm": "3-in-1 2p Pak (Rob Bryant's)", "priority": 2},
-				{"searchTerm": "3-in-1 2p Pak", "priority": 3}
-			]
-		},
-		{
 			"group": "3D Block",
 			"titles": [
 				{"searchTerm": "3D Block"},
@@ -421,8 +408,7 @@
 		{
 			"group": "Adam & Eve",
 			"titles": [
-				{"searchTerm": "Adam & Eve"},
-				{"searchTerm": "Adan y Eva"}
+				{"searchTerm": "Adam & Eve"}
 			],
 			"compilations": [
 				{"searchTerm": "Asder - 20 in 1"},
@@ -484,13 +470,6 @@
 			"titles": [
 				{"searchTerm": "Adventures of Lolo 3"},
 				{"searchTerm": "Adventures of Lolo II"}
-			]
-		},
-		{
-			"group": "Adventures of Panzer, The - DMuscles",
-			"titles": [
-				{"searchTerm": "Adventures of Panzer, The - DMuscles"},
-				{"searchTerm": "Adventures of Panzer, The - DMuscles (Byte-Off 2022)"}
 			]
 		},
 		{
@@ -598,13 +577,6 @@
 			]
 		},
 		{
-			"group": "Arlington Apple in an Interplanetary Pickle",
-			"titles": [
-				{"searchTerm": "Arlington Apple in an Interplanetary Pickle"},
-				{"searchTerm": "Arlington Apple in an Interplanetary Pickle (RC7a)", "priority": 2}
-			]
-		},
-		{
 			"group": "Armadillo",
 			"titles": [
 				{"searchTerm": "Armadillo"},
@@ -646,13 +618,6 @@
 			"titles": [
 				{"searchTerm": "AV Pachi-Slot"},
 				{"searchTerm": "Hot Slots", "priority": 2}
-			]
-		},
-		{
-			"group": "Babel Blox",
-			"titles": [
-				{"searchTerm": "Babel Blox (Sly Dog Studios)"},
-				{"searchTerm": "Babel Blox (Rob Bryant's)", "priority": 2}
 			]
 		},
 		{
@@ -905,8 +870,7 @@
 			"group": "Black Box Challenge",
 			"titles": [
 				{"searchTerm": "Black Box Challenge"},
-				{"searchTerm": "Black Box Challenge (Sly Dog Studios)", "priority": 2},
-				{"searchTerm": "Black Box Challenge (Jeffrey Wittenhagen's)", "priority": 3}
+				{"searchTerm": "Black Box Challenge (Jeffrey Wittenhagen's)", "priority": 2}
 			]
 		},
 		{
@@ -1215,7 +1179,7 @@
 			"titles": [
 				{"searchTerm": "Chip 'n Dale - Rescue Rangers"},
 				{"searchTerm": "Chip to Dale no Daisakusen"},
-				{"searchTerm": "Chip & Dales"},
+				{"searchTerm": "Chip & Dales (BA058)"},
 				{"searchTerm": "Super Mario & Sonic 2"}
 			]
 		},
@@ -1311,8 +1275,9 @@
 			"group": "Columbus - Ougon no Yoake",
 			"titles": [
 				{"searchTerm": "Columbus - Ougon no Yoake"},
-				{"searchTerm": "Gelunbu Zhuan", "priority": 2},
-				{"searchTerm": "Gelunbu Maoxianji", "priority": 3}
+				{"searchTerm": "Gelunbu Zhuan (FS006)", "priority": 2},
+				{"searchTerm": "Gelunbu Zhuan (FS303)", "priority": 3},
+				{"searchTerm": "Gelunbu Maoxianji", "priority": 4}
 			]
 		},
 		{
@@ -1438,13 +1403,6 @@
 			]
 		},
 		{
-			"group": "DABG - Double Action Blaster Guys",
-			"titles": [
-				{"searchTerm": "DABG - Double Action Blaster Guys"},
-				{"searchTerm": "DABG - Double Action Blaster Guys (Action 53 Version)", "priority": 2}
-			]
-		},
-		{
 			"group": "Dai-2-ji Super Robot Taisen",
 			"titles": [
 				{"searchTerm": "Dai-2-ji Super Robot Taisen"},
@@ -1528,13 +1486,6 @@
 			"titles": [
 				{"searchTerm": "Demon Sword"},
 				{"searchTerm": "Fudou Myouou Den"}
-			]
-		},
-		{
-			"group": "Depths",
-			"titles": [
-				{"searchTerm": "Depths"},
-				{"searchTerm": "Depths (Ludum Dare 44 Version)", "priority": 2}
 			]
 		},
 		{
@@ -1736,7 +1687,7 @@
 			"group": "Dragon Ball Z - Super Butouden 2",
 			"titles": [
 				{"searchTerm": "Dragon Ball Z - Super Butouden 2"},
-				{"searchTerm": "Bao Qingtian - Gedou Ban (Impartial Judge)", "priority": 2},
+				{"searchTerm": "Impartial Judge", "priority": 2},
 				{"searchTerm": "Fengshenbang (Myth Struggle)", "priority": 3}
 			]
 		},
@@ -1804,7 +1755,7 @@
 				{"searchTerm": "Dragon Quest II - Akuryou no Kamigami"},
 				{"searchTerm": "Dragon Warrior II"},
 				{"searchTerm": "Yongzhe Dou Elong II - Dragon Quest (980342)", "priority": 2},
-				{"searchTerm": "Yongzhe Dou Elong V (Dragon Quest V) (0100382)", "priority": 3}
+				{"searchTerm": "Yongzhe Dou Elong V - Dragon Quest (0100382)", "priority": 3}
 			]
 		},
 		{
@@ -1919,9 +1870,7 @@
 		{
 			"group": "F-15 City War",
 			"titles": [
-				{"searchTerm": "F-15 City War (NINA-06)"},
-				{"searchTerm": "F-15 City War (MB-91)", "priority": 2},
-				{"searchTerm": "F-15 City War", "priority": 3}
+				{"searchTerm": "F-15 City War"}
 			],
 			"compilations": [
 				{"searchTerm": "Maxi 15"},
@@ -2095,13 +2044,6 @@
 			]
 		},
 		{
-			"group": "Flea! Demo",
-			"titles": [
-				{"searchTerm": "Flea! (Demo)"},
-				{"searchTerm": "Flea! (Demo) (Byte-Off 2019)", "priority": 2}
-			]
-		},
-		{
 			"group": "Flight of the Intruder",
 			"titles": [
 				{"searchTerm": "Flight of the Intruder"},
@@ -2148,7 +2090,8 @@
 			"group": "Full Quiet",
 			"titles": [
 				{"searchTerm": "Full Quiet"},
-				{"searchTerm": "Full Quiet (Backer Test Cartridge)"}
+				{"searchTerm": "Full Quiet (Backer Test Cartridge)", "priority": 2},
+				{"searchTerm": "Full Quiet (Regular Edition)", "priority": 3}
 			]
 		},
 		{
@@ -2328,7 +2271,7 @@
 		{
 			"group": "Graveyard Dude Demo",
 			"titles": [
-				{"searchTerm": "Graveyard Dude (Enhanced) (Demo)"},
+				{"searchTerm": "Graveyard Dude (Demo) (Enhanced)"},
 				{"searchTerm": "Graveyard Dude (Demo)", "priority": 2}
 			]
 		},
@@ -2340,17 +2283,17 @@
 			]
 		},
 		{
+			"group": "Gruniozerca",
+			"titles": [
+				{"searchTerm": "Gruniozerca (NROM)"},
+				{"searchTerm": "Gruniozerca (UOROM)", "priority": 2}
+			]
+		},
+		{
 			"group": "Gruniozerca 2 - The Great Cavy Rescue!",
 			"titles": [
 				{"searchTerm": "Gruniozerca 2"},
 				{"searchTerm": "Gruniozerca 2 - The Great Cavy Rescue!"}
-			]
-		},
-		{
-			"group": "Gruniozerca 3 - The Great Cavy Clean-Up!",
-			"titles": [
-				{"searchTerm": "Gruniozerca 3 - The Great Cavy Clean-Up!"},
-				{"searchTerm": "Gruniozerca 3 - The Great Cavy Clean Up!"}
 			]
 		},
 		{
@@ -2425,10 +2368,11 @@
 			]
 		},
 		{
-			"group": "Harry Dwarf",
+			"group": "Haratyler",
 			"titles": [
-				{"searchTerm": "Harry Dwarf"},
-				{"searchTerm": "Harry Dwarf (Byte-Off 2019)", "priority": 2}
+				{"searchTerm": "Haratyler MP"},
+				{"searchTerm": "Haratyler HG", "priority": 2},
+				{"searchTerm": "Haratyler", "priority": 3}
 			]
 		},
 		{
@@ -2454,13 +2398,6 @@
 			]
 		},
 		{
-			"group": "Hey Reset",
-			"titles": [
-				{"searchTerm": "Hey Reset"},
-				{"searchTerm": "Hey Reset (Final) (Byte-Off 2019)", "priority": 2}
-			]
-		},
-		{
 			"group": "Hi-Lo Poker",
 			"compilations": [
 				{"searchTerm": "Asder - 20 in 1"}
@@ -2483,17 +2420,17 @@
 			]
 		},
 		{
+			"group": "House in the Cemetery, The",
+			"titles": [
+				{"searchTerm": "House in the Cemetery, The"},
+				{"searchTerm": "House in the Cemetery, The (Broke Studio)"}
+			]
+		},
+		{
 			"group": "Huanxiang Chuanshuo",
 			"titles": [
 				{"searchTerm": "Huanxiang Chuanshuo"},
 				{"searchTerm": "Mohuan Shijie", "priority": 2}
-			]
-		},
-		{
-			"group": "Humbled Demo",
-			"titles": [
-				{"searchTerm": "Humbled (Demo)"},
-				{"searchTerm": "Humbled (Demo) (Byte-Off 2022)"}
 			]
 		},
 		{
@@ -2832,6 +2769,13 @@
 			]
 		},
 		{
+			"group": "Koudai Guaishou - Hupo Ban",
+			"titles": [
+				{"searchTerm": "Koudai Guaishou - Hupo Ban"},
+				{"searchTerm": "Koudai Guaishou - Baiyu Ban", "priority": 2}
+			]
+		},
+		{
 			"group": "Koudai Guaishou - Shuijing Ban",
 			"titles": [
 				{"searchTerm": "Koudai Guaishou - Shuijing Ban"},
@@ -2902,13 +2846,6 @@
 			]
 		},
 		{
-			"group": "KYFF",
-			"titles": [
-				{"searchTerm": "KYFF"},
-				{"searchTerm": "KYFF (Rob Bryant's)", "priority": 2}
-			]
-		},
-		{
 			"group": "Kyouryuu Sentai Zyuranger",
 			"titles": [
 				{"searchTerm": "Kyouryuu Sentai Zyuranger"},
@@ -2970,13 +2907,6 @@
 				{"searchTerm": "Legend of Zelda, The"},
 				{"searchTerm": "Zelda no Densetsu 1 - The Hyrule Fantasy"},
 				{"searchTerm": "Dongfang de Chuanshuo - The Hyrule Fantasy", "priority": 2}
-			]
-		},
-		{
-			"group": "Leggite Luta Livre",
-			"titles": [
-				{"searchTerm": "Leggite Luta Livre (Remastered)"},
-				{"searchTerm": "Leggite Luta Livre", "priority": 2}
 			]
 		},
 		{
@@ -3131,13 +3061,6 @@
 			]
 		},
 		{
-			"group": "Mad Wizard, The - A Candelabra Chronicle",
-			"titles": [
-				{"searchTerm": "Mad Wizard, The - A Candelabra Chronicle"},
-				{"searchTerm": "Mad Wizard, The - A Candelabra Chronicle (RetroUSB)", "priority": 2}
-			]
-		},
-		{
 			"group": "Mafat Conspiracy, The",
 			"titles": [
 				{"searchTerm": "Golgo 13 - Dainishou - Icarus no Nazo"},
@@ -3281,6 +3204,13 @@
 			"titles": [
 				{"searchTerm": "Mega Man 6"},
 				{"searchTerm": "Rockman 6 - Shijou Saidai no Tatakai!!"}
+			]
+		},
+		{
+			"group": "Mega Man X",
+			"titles": [
+				{"searchTerm": "Mega Man X (Flashback Entertainment)"},
+				{"searchTerm": "Mega Man X (Pacnsacdave Reproductions)", "priority": 2}
 			]
 		},
 		{
@@ -3440,6 +3370,13 @@
 			"titles": [
 				{"searchTerm": "Meikyuu Kumikyoku - Milon no Daibouken"},
 				{"searchTerm": "Milon's Secret Castle"}
+			]
+		},
+		{
+			"group": "Missing Lands",
+			"titles": [
+				{"searchTerm": "Missing Lands DX"},
+				{"searchTerm": "Missing Lands", "priority": 2}
 			]
 		},
 		{
@@ -3707,13 +3644,6 @@
 			]
 		},
 		{
-			"group": "Nintencat - The Parody",
-			"titles": [
-				{"searchTerm": "Nintencat - The Parody (Sly Dog Studios)"},
-				{"searchTerm": "Nintencat - The Parody (Rob Bryant's)", "priority": 2}
-			]
-		},
-		{
 			"group": "Nintendo World Cup",
 			"titles": [
 				{"searchTerm": "Nekketsu Koukou Dodgeball-bu - Soccer Hen"},
@@ -3722,6 +3652,13 @@
 			"compilations": [
 				{"searchTerm": "Super Mario Bros. + Tetris + Nintendo World Cup"},
 				{"searchTerm": "Super Spike V'Ball + Nintendo World Cup"}
+			]
+		},
+		{
+			"group": "Nix - The Paradox Relic",
+			"titles": [
+				{"searchTerm": "Nix - The Paradox Relic"},
+				{"searchTerm": "Nix - The Paradox Relic (NoFlash)", "priority": 2}
 			]
 		},
 		{
@@ -3753,6 +3690,13 @@
 			],
 			"compilations": [
 				{"searchTerm": "Rumble Station - 15 in 1"}
+			]
+		},
+		{
+			"group": "Ouroboros",
+			"titles": [
+				{"searchTerm": "Ouroboros"},
+				{"searchTerm": "Ouroboros (1JAM-Loop)", "priority": 2}
 			]
 		},
 		{
@@ -3870,6 +3814,13 @@
 			]
 		},
 		{
+			"group": "Playing Nintendo in the Laundry Room",
+			"titles": [
+				{"searchTerm": "Playing Nintendo in the Laundry Room"},
+				{"searchTerm": "Playing Nintendo in the Laundry Room (No Logo Version)", "priority": 2}
+			]
+		},
+		{
 			"group": "Pocket Monster",
 			"titles": [
 				{"searchTerm": "Pocket Monster"},
@@ -3882,6 +3833,13 @@
 			"titles": [
 				{"searchTerm": "Pogo Cats"},
 				{"searchTerm": "Pogo Cats (Battery Save Version)", "priority": 2}
+			]
+		},
+		{
+			"group": "Pokemon - Leaf Green",
+			"titles": [
+				{"searchTerm": "Koudai Yaoguai - Leaf Green I"},
+				{"searchTerm": "Pokemon - Leaf Green"}
 			]
 		},
 		{
@@ -3992,6 +3950,13 @@
 			]
 		},
 		{
+			"group": "Pwn Adventure Z",
+			"titles": [
+				{"searchTerm": "Pwn Adventure Z"},
+				{"searchTerm": "Pwn Adventure Z (CSAW CTF 2015)", "priority": 2}
+			]
+		},
+		{
 			"group": "Pyramid",
 			"titles": [
 				{"searchTerm": "Pyramid"},
@@ -4020,7 +3985,9 @@
 			"group": "Quattro Sports",
 			"titles": [
 				{"searchTerm": "Quattro Sports"},
-				{"searchTerm": "Super Sports Challenge - Quattro Sports"}
+				{"searchTerm": "Super Sports Challenge - Quattro Sports (NR8QV2 PCB)"},
+				{"searchTerm": "Super Sports Challenge - Quattro Sports (NR8QV1 PCB)", "priority": 2},
+				{"searchTerm": "Super Sports Challenge - Quattro Sports", "priority": 3}
 			]
 		},
 		{
@@ -4088,13 +4055,6 @@
 			"titles": [
 				{"searchTerm": "Dash Yarou"},
 				{"searchTerm": "Rally Bike"}
-			]
-		},
-		{
-			"group": "Raven's Gate",
-			"titles": [
-				{"searchTerm": "Raven's Gate"},
-				{"searchTerm": "Raven's Gate (MMC1)"}
 			]
 		},
 		{
@@ -4485,6 +4445,13 @@
 			]
 		},
 		{
+			"group": "Shera and the 40 Thieves",
+			"titles": [
+				{"searchTerm": "Shera and the 40 Thieves - Definitive Edition"},
+				{"searchTerm": "Shera and the 40 Thieves", "priority": 2}
+			]
+		},
+		{
 			"group": "Shingen the Ruler",
 			"titles": [
 				{"searchTerm": "Shingen the Ruler"},
@@ -4609,13 +4576,6 @@
 			]
 		},
 		{
-			"group": "Slappin' Bitches (Mass Market)",
-			"titles": [
-				{"searchTerm": "Slappin' Bitches (Mass Market)"},
-				{"searchTerm": "Slappin' Bitches (First Edition)", "priority": 2}
-			]
-		},
-		{
 			"group": "Snoopy's Silly Sports Spectacular!",
 			"titles": [
 				{"searchTerm": "Donald Duck"},
@@ -4627,6 +4587,14 @@
 			"titles": [
 				{"searchTerm": "Snow Bros."},
 				{"searchTerm": "Snow Brothers"}
+			]
+		},
+		{
+			"group": "Solar Wars",
+			"titles": [
+				{"searchTerm": "Solar Wars"},
+				{"searchTerm": "Solar Wars (CNROM)", "priority": 2},
+				{"searchTerm": "Solar Wars (UNROM)", "priority": 3}
 			]
 		},
 		{
@@ -4667,15 +4635,17 @@
 		{
 			"group": "South Park",
 			"titles": [
-				{"searchTerm": "South Park (UNROM 512)"},
+				{"searchTerm": "South Park (UNROM-512)"},
 				{"searchTerm": "South Park (UNROM)", "priority": 2}
 			]
 		},
 		{
 			"group": "Space Mutants",
 			"titles": [
-				{"searchTerm": "Space Mutants (DG)"},
-				{"searchTerm": "Space Mutants (JK)", "priority": 2}
+				{"searchTerm": "Space Mutants (Extendo Uncut Edition)"},
+				{"searchTerm": "Space Mutants (DG) (Retro Achievements Version)", "priority": 2},
+				{"searchTerm": "Space Mutants (DG)", "priority": 3},
+				{"searchTerm": "Space Mutants (JK)", "priority": 4}
 			]
 		},
 		{
@@ -4688,8 +4658,10 @@
 		{
 			"group": "Spook-o'-tron",
 			"titles": [
-				{"searchTerm": "Spook-o'-tron (Backer Edition)"},
-				{"searchTerm": "Spook-o'-tron", "priority": 2}
+				{"searchTerm": "Spook-o'-tron (2023)"},
+				{"searchTerm": "Spook-o'-tron (2022)", "priority": 2},
+				{"searchTerm": "Spook-o'-tron (Backer Edition)", "priority": 3}
+
 			]
 		},
 		{
@@ -4776,11 +4748,12 @@
 			"group": "Street Fighter II - The World Warrior",
 			"titles": [
 				{"searchTerm": "Street Fighter II - The World Warrior"},
-				{"searchTerm": "City Fighter IV", "priority": 2},
-				{"searchTerm": "Mario Fighter III", "priority": 3},
-				{"searchTerm": "Super Fighter II'", "priority": 4},
-				{"searchTerm": "Master Fighter II", "priority": 5},
-				{"searchTerm": "Master Fighter III", "priority": 6}
+				{"searchTerm": "Street Fighter II - The World Warrior (Invincibility)", "priority": 2},
+				{"searchTerm": "City Fighter IV", "priority": 3},
+				{"searchTerm": "Mario Fighter III", "priority": 4},
+				{"searchTerm": "Super Fighter II'", "priority": 5},
+				{"searchTerm": "Master Fighter II", "priority": 6},
+				{"searchTerm": "Master Fighter III", "priority": 7}
 			]
 		},
 		{
@@ -4788,19 +4761,19 @@
 			"titles": [
 				{"searchTerm": "Street Fighter II Pro"},
 				{"searchTerm": "Street Fighter 6", "priority": 2},
-				{"searchTerm": "Street Fighter VI - 8 Peoples", "priority": 3},
-				{"searchTerm": "Street Fighter VI - 12 Peoples", "priority": 4},
-				{"searchTerm": "Street Fighter VI - 16 Peoples", "priority": 5},
-				{"searchTerm": "Street Blaster IV - Pro 10", "priority": 6},
-				{"searchTerm": "Street Blaster V - Turbo 20", "priority": 7},
-				{"searchTerm": "Street Blaster V - Turbo 20 (Unknown)", "priority": 8},
-				{"searchTerm": "Street Fighter V - Turbo 60", "priority": 9},
-				{"searchTerm": "Street Fighter X - Turbo 40", "priority": 10},
-				{"searchTerm": "Super Blaster VII - Turbo 28", "priority": 11},
-				{"searchTerm": "Bollywood 2003", "priority": 12},
-				{"searchTerm": "Bollywood 2007", "priority": 13},
-				{"searchTerm": "Mortal Kombat (YY-01)", "priority": 14},
-				{"searchTerm": "Street Blaster II Pro (As)", "priority": 15},
+				{"searchTerm": "Fight Street VI (16 People)", "priority": 3},
+				{"searchTerm": "Fight Street VI (8 People)", "priority": 4},
+				{"searchTerm": "Street Fighter VI (16 People)", "priority": 5},
+				{"searchTerm": "Street Fighter VI - 12 Peoples", "priority": 6},
+				{"searchTerm": "Street Blaster IV - Pro 10", "priority": 7},
+				{"searchTerm": "Street Blaster V - Turbo 20", "priority": 8},
+				{"searchTerm": "Street Blaster V - Turbo 20 (Unknown)", "priority": 9},
+				{"searchTerm": "Street Fighter V - Turbo 60", "priority": 10},
+				{"searchTerm": "Street Fighter X - Turbo 40", "priority": 11},
+				{"searchTerm": "Super Blaster VII - Turbo 28", "priority": 12},
+				{"searchTerm": "Bollywood 2003", "priority": 13},
+				{"searchTerm": "Bollywood 2007", "priority": 14},
+				{"searchTerm": "Mortal Kombat (YY-01)", "priority": 15},
 				{"searchTerm": "Street Fighter - 60 Players (S-F6)", "priority": 16}
 			]
 		},
@@ -4844,6 +4817,13 @@
 			]
 		},
 		{
+			"group": "Super City Tank",
+			"titles": [
+				{"searchTerm": "Super City Tank"},
+				{"searchTerm": "Super City Tank (Infinite Lives)", "priority": 2}
+			]
+		},
+		{
 			"group": "Superman - Sunsoft",
 			"titles": [
 				{"searchTerm": "Superman (Sunsoft)"}
@@ -4879,13 +4859,6 @@
 			]
 		},
 		{
-			"group": "Super City Mayor",
-			"titles": [
-				{"searchTerm": "Super City Mayor"},
-				{"searchTerm": "Super City Mayor (Global Game Jam 2020)", "priority": 2}
-			]
-		},
-		{
 			"group": "Super Dodge Ball",
 			"titles": [
 				{"searchTerm": "Nekketsu Koukou Dodgeball-bu"},
@@ -4915,6 +4888,14 @@
 			"titles": [
 				{"searchTerm": "Super Hero"},
 				{"searchTerm": "Hacker, The", "priority": 2}
+			]
+		},
+		{
+			"group": "Super Homebrew War",
+			"titles": [
+				{"searchTerm": "Super Homebrew War"},
+				{"searchTerm": "Super Homebrew War (BNROM)", "priority": 2},
+				{"searchTerm": "Super Homebrew War (GTROM)", "priority": 3}
 			]
 		},
 		{
@@ -5043,6 +5024,13 @@
 			"titles": [
 				{"searchTerm": "Colorful Dragon"},
 				{"searchTerm": "Tagin' Dragon"}
+			]
+		},
+		{
+			"group": "Tailgate Party",
+			"titles": [
+				{"searchTerm": "Tailgate Party (UNROM-512)"},
+				{"searchTerm": "Tailgate Party (GTROM)", "priority": 2}
 			]
 		},
 		{
@@ -5179,6 +5167,13 @@
 			]
 		},
 		{
+			"group": "Theremin",
+			"titles": [
+				{"searchTerm": "Theremin"},
+				{"searchTerm": "Theremin (Music Program)"}
+			]
+		},
+		{
 			"group": "Thunder & Lightning",
 			"titles": [
 				{"searchTerm": "Family Block"},
@@ -5190,13 +5185,6 @@
 			"titles": [
 				{"searchTerm": "Gluk the Thunder Warrior"},
 				{"searchTerm": "Thunder Warrior"}
-			]
-		},
-		{
-			"group": "Tic-Tac XO",
-			"titles": [
-				{"searchTerm": "Tic-Tac XO"},
-				{"searchTerm": "Tic-Tac XO (Rob Bryant's)", "priority": 2}
 			]
 		},
 		{
@@ -5326,7 +5314,11 @@
 			"group": "Toxic Crusaders",
 			"titles": [
 				{"searchTerm": "Toxic Crusaders"},
-				{"searchTerm": "Ninja Turtles 5"}
+				{"searchTerm": "Ninja Turtles 5", "priority": 2},
+				{"searchTerm": "Teenage Mutant Ninja Turtles - Donatello's Destiny", "priority": 3},
+				{"searchTerm": "Teenage Mutant Ninja Turtles - Leonardo's Legacy", "priority": 4},
+				{"searchTerm": "Teenage Mutant Ninja Turtles - Michelangelo's Mission", "priority": 5},
+				{"searchTerm": "Teenage Mutant Ninja Turtles - Raphael's Rampage", "priority": 6}
 			]
 		},
 		{
@@ -5366,6 +5358,13 @@
 			],
 			"compilations": [
 				{"searchTerm": "Asder - 20 in 1"}
+			]
+		},
+		{
+			"group": "Turtle Paint - Volume 1",
+			"titles": [
+				{"searchTerm": "Turtle Paint - Volume 1 (UNROM-512)"},
+				{"searchTerm": "Turtle Paint - Volume 1 (UOROM)", "priority": 2}
 			]
 		},
 		{
@@ -5465,9 +5464,7 @@
 		{
 			"group": "Venice Beach Volleyball",
 			"titles": [
-				{"searchTerm": "Venice Beach Volleyball (NINA-06)"},
-				{"searchTerm": "Venice Beach Volleyball (MB-91)", "priority": 2},
-				{"searchTerm": "Venice Beach Volleyball", "priority": 3},
+				{"searchTerm": "Venice Beach Volleyball"},
 				{"searchTerm": "Volley Ball"}
 			],
 			"compilations": [

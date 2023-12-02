@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Nintendo - Game Boy (No-Intro)",
-		"lastUpdated": "04 August 2023",
+		"lastUpdated": "03 December 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -303,7 +303,7 @@
 			"group": "Bill & Ted's Excellent Game Boy Adventure - A Bogus Journey!",
 			"titles": [
 				{"searchTerm": "Bill & Ted's Excellent Game Boy Adventure - A Bogus Journey!"},
-				{"searchTerm": "Bill & Ted's Excellent Portable Adventure - A Bogus Journey!"}
+				{"searchTerm": "Bill & Ted's Excellent Portable Adventure - A Bogus Journey! (Retro Collection)"}
 			]
 		},
 		{
@@ -732,13 +732,6 @@
 			]
 		},
 		{
-			"group": "G.B Corp.",
-			"titles": [
-				{"searchTerm": "G.B Corp."},
-				{"searchTerm": "G.B Corp. (No Link Cable)", "priority": 2}
-			]
-		},
-		{
 			"group": "Game Boy Camera Gold",
 			"titles": [
 				{"searchTerm": "Game Boy Camera Gold"},
@@ -1100,6 +1093,13 @@
 			]
 		},
 		{
+			"group": "Megami Tensei Gaiden - Last Bible",
+			"titles": [
+				{"searchTerm": "Megami Tensei Gaiden - Last Bible"},
+				{"searchTerm": "Xin Nushen Zhuansheng Waizhuan - Zuihou de Shengjing", "priority": 2}
+			]
+		},
+		{
 			"group": "Mercenary Force",
 			"titles": [
 				{"searchTerm": "Mercenary Force"},
@@ -1137,6 +1137,13 @@
 			],
 			"compilations": [
 				{"searchTerm": "Mani 4 in 1 - Genki Bakuhatsu Gambaruger + Zettai Muteki Raijin-Oh + Zoids Densetsu + Miracle Adventure of Esparks - Ushinawareta Seiseki Perivron", "titlePosition": 4}
+			]
+		},
+		{
+			"group": "Mofa Qiu - Magic Ball",
+			"titles": [
+				{"searchTerm": "Mofa Qiu - Magic Ball"},
+				{"searchTerm": "Mofa Qiu - Magic Ball (Multicart Rip)", "priority": 2}
 			]
 		},
 		{
@@ -1195,6 +1202,13 @@
 			]
 		},
 		{
+			"group": "Nyghtmare - Betrayed",
+			"titles": [
+				{"searchTerm": "Nyghtmare - Betrayed"},
+				{"searchTerm": "Nyghtmare - Betrayed (Alpha A)", "priority": 2}
+			]
+		},
+		{
 			"group": "Ninja Boy",
 			"titles": [
 				{"searchTerm": "Ninja Boy"},
@@ -1235,13 +1249,6 @@
 			"titles": [
 				{"searchTerm": "Nobunaga's Ambition"},
 				{"searchTerm": "Nobunaga no Yabou - Game Boy Ban"}
-			]
-		},
-		{
-			"group": "Winter Olympic Games",
-			"titles": [
-				{"searchTerm": "Winter Olympic Games"},
-				{"searchTerm": "Winter Gold"}
 			]
 		},
 		{
@@ -1293,6 +1300,13 @@
 			"titles": [
 				{"searchTerm": "Pinball - Revenge of the 'Gator"},
 				{"searchTerm": "Pinball - 66hiki no Wani Daikoushin!"}
+			]
+		},
+		{
+			"group": "Pocket Monsters - Midori",
+			"titles": [
+				{"searchTerm": "Pocket Monsters - Midori"},
+				{"searchTerm": "Pocket Monsters - Green Version - English Edition", "priority": 2}
 			]
 		},
 		{
@@ -1448,15 +1462,6 @@
 			],
 			"compilations": [
 				{"searchTerm": "Mani 4 in 1 - R-Type II + Saigo no Nindou + Ganso!! Yancha Maru + Shisenshou - Match-Mania", "titlePosition": 4}
-			]
-		},
-		{
-			"group": "Snail, The",
-			"titles": [
-				{"searchTerm": "Snail, The"}
-			],
-			"supersets": [
-				{"searchTerm": "Snail DX, The"}
 			]
 		},
 		{
@@ -1878,6 +1883,13 @@
 			]
 		},
 		{
+			"group": "Winter Olympic Games",
+			"titles": [
+				{"searchTerm": "Winter Olympic Games"},
+				{"searchTerm": "Winter Gold"}
+			]
+		},
+		{
 			"group": "World Beach Volley - 1992 GB Cup",
 			"titles": [
 				{"searchTerm": "World Beach Volley - 1992 GB Cup"},
@@ -1960,6 +1972,13 @@
 			"titles": [
 				{"searchTerm": "Zool - Ninja of the 'Nth' Dimension"},
 				{"searchTerm": "Zool"}
+			]
+		},
+		{
+			"group": "Zuigao Jimi",
+			"titles": [
+				{"searchTerm": "Zuigao Jimi (Top Secret)"},
+				{"searchTerm": "Zuigao Jimi (Top Secret) (Multicart Rip)", "priority": 2}
 			]
 		}
 	]

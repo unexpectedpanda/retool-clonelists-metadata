@@ -19,7 +19,7 @@
 	},
 	"G-Pod (Germany)": {
 		"languages": [],
-		"localized_name": "G·POD"
+		"localizedName": "G·POD"
 	},
 	"G-Prime (Germany)": {
 		"languages": ["De"]
@@ -35,7 +35,7 @@
 	},
 	"Metalion (Japan)": {
 		"languages": ["Ja"],
-		"localized_name": "メタリオン"
+		"localizedName": "メタリオン"
 	},
 	"Metalion (USA)": {
 		"languages": ["En"]
@@ -54,7 +54,7 @@
 	},
 	"Okigaru Igo Taikyoku (Japan)": {
 		"languages": ["Ja"],
-		"localized_name": "お気軽囲碁対局"
+		"localizedName": "お気軽囲碁対局"
 	},
 	"Pocket Athlete (USA)": {
 		"languages": ["En"]
@@ -64,6 +64,10 @@
 	},
 	"Pocket CT-ART (Russia) (En,Fr,De,Es,It,Ru)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ru"]
+	},
+	"Pocket Chess (Japan)": {
+		"languages": ["Ja"],
+		"localizedName": "ＰＯＣＫＥＴ　チェス"
 	},
 	"Pocket Flash Format (Japan)": {
 		"languages": []
@@ -76,7 +80,7 @@
 	},
 	"Pocket Mahjong (Japan)": {
 		"languages": ["Ja"],
-		"localized_name": "ＰＯＣＫＥＴ　麻雀"
+		"localizedName": "ＰＯＣＫＥＴ　麻雀"
 	},
 	"Pocket PC Software Pack (Germany)": {
 		"languages": []
@@ -89,7 +93,7 @@
 	},
 	"Pocket Shougi (Japan)": {
 		"languages": ["Ja"],
-		"localized_name": "ＰＯＣＫＥＴ　将棋"
+		"localizedName": "ＰＯＣＫＥＴ　将棋"
 	},
 	"Pocket Slide Show (Japan)": {
 		"languages": []
@@ -97,9 +101,13 @@
 	"Pocket Zipper (Japan)": {
 		"languages": ["Ja"]
 	},
+	"Pow Wow - Animalcraft (Japan)": {
+		"languages": ["Ja"],
+		"localizedName": "パウワウ　ＡＮＩＭＡＬＣＲＡＦＴ"
+	},
 	"Rayman (Japan) (En,Ja)": {
 		"languages": ["En", "Ja"],
-		"localized_name": "レイマン"
+		"localizedName": "レイマン"
 	},
 	"RocketElite (USA) (En,Fr,De)": {
 		"languages": ["De", "En", "Fr"]
@@ -150,6 +158,9 @@
 		"languages": ["En"]
 	},
 	"Ultima Underworld - The Stygian Abyss (USA)": {
+		"languages": ["En"]
+	},
+	"Vegas Casino - Vol. 1 & 2 (Canada)": {
 		"languages": ["En"]
 	},
 	"Windows Media Play Pack for Pocket PC (USA)": {

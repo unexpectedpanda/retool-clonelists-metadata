@@ -1,9 +1,16 @@
 {
 	"description": {
 		"name": "Nintendo - Nintendo 3DS (No-Intro)",
-		"lastUpdated": "04 August 2023",
+		"lastUpdated": "03 December 2023",
 		"minimumVersion": "2.00"
 	},
+
+	"categories": [
+		{
+			"searchTerm": "Gyro Sensor Calibration CTR",
+			"categories": ["Applications"]
+		}
+	],
 
 	"variants": [
 		{
@@ -199,7 +206,8 @@
 			"group": "Cooking Mama 4 - Kitchen Magic",
 			"titles": [
 				{"searchTerm": "Cooking Mama 4"},
-				{"searchTerm": "Cooking Mama 4 - Kitchen Magic"}
+				{"searchTerm": "Cooking Mama 4 - Kitchen Magic"},
+				{"searchTerm": "Cooking Mama - Mamawa Naui Yori Sigan"}
 			]
 		},
 		{
@@ -365,7 +373,8 @@
 			"group": "Etrian Odyssey 2 Untold - The Fafnir Knight",
 			"titles": [
 				{"searchTerm": "Etrian Odyssey 2 Untold - The Fafnir Knight"},
-				{"searchTerm": "Shin Sekaiju no Meikyuu 2 - Fafnir no Kishi"}
+				{"searchTerm": "Shin Sekaiju no Meikyuu 2 - Fafnir no Kishi"},
+				{"searchTerm": "Sin Segyesuui Migung 2 - Fafnir Gisa"}
 			]
 		},
 		{
@@ -718,6 +727,7 @@
 			"group": "Kirby Battle Royale",
 			"titles": [
 				{"searchTerm": "Kirby Battle Deluxe"},
+				{"searchTerm": "Kirby Battle Deluxe!"},
 				{"searchTerm": "Kirby Battle Royale"}
 			]
 		},
@@ -725,7 +735,8 @@
 			"group": "Kirby's Extra Epic Yarn",
 			"titles": [
 				{"searchTerm": "Keito no Kirby Plus"},
-				{"searchTerm": "Kirby's Extra Epic Yarn"}
+				{"searchTerm": "Kirby's Extra Epic Yarn"},
+				{"searchTerm": "Teolsil Kirby Iyagi Plus"}
 			]
 		},
 		{
@@ -778,7 +789,8 @@
 			"titles": [
 				{"searchTerm": "Legend of Zelda, The - Tri Force Heroes"},
 				{"searchTerm": "Zelda no Densetsu - Tri Force 3-Juushi"},
-				{"searchTerm": "Zelda no Densetsu - Triforce 3-Juushi"}
+				{"searchTerm": "Zelda no Densetsu - Triforce 3-Juushi"},
+				{"searchTerm": "Zelda-ui Jeonseol - Triforce Samchongsa"}
 			]
 		},
 		{
@@ -1204,7 +1216,6 @@
 		{
 			"group": "Pokemon Ultra Sun",
 			"titles": [
-				{"searchTerm": "Pocket Monster - Ultra Sun"},
 				{"searchTerm": "Pocket Monsters Ultra Sun"},
 				{"searchTerm": "Pokemon Ultra Sun"}
 			]

@@ -8,6 +8,12 @@
 	"100 Great Games for Palm OS Handhelds Vol. 3 (Canada)": {
 		"languages": ["En"]
 	},
+	"100 Great Games for the Palm Computing Platform (Canada) (1999)": {
+		"languages": ["En"]
+	},
+	"100 Great Games for the Palm Computing Platform (Canada) (2000)": {
+		"languages": []
+	},
 	"100+ Applications for PDA (Europe)": {
 		"languages": ["En"]
 	},
@@ -37,7 +43,7 @@
 	},
 	"Afro Ken Graffiti - Tenohira Size ni mo Naru (Japan)": {
 		"languages": ["Ja"],
-		"localized_name": "アフロ犬グラフィティ　～手のひらサイズにもなる～"
+		"localizedName": "アフロ犬グラフィティ　～手のひらサイズにもなる～"
 	},
 	"Airline Manager Simulator (Canada)": {
 		"languages": ["En"]
@@ -50,7 +56,7 @@
 	},
 	"BT Mahjong for PalmOS (Japan)": {
 		"languages": ["Ja"],
-		"localized_name": "ＢＴ麻雀　ｆｏｒ　ＰａｌｍＯＳ"
+		"localizedName": "ＢＴ麻雀　ｆｏｒ　ＰａｌｍＯＳ"
 	},
 	"Bejeweled Puzzle Pack (USA)": {
 		"languages": ["En"]
@@ -63,14 +69,14 @@
 	},
 	"Bomberman for Palm OS (Japan)": {
 		"languages": ["En"],
-		"localized_name": "ボンバーマン　ｆｏｒ　Ｐａｌｍ　ＯＳ"
+		"localizedName": "ボンバーマン　ｆｏｒ　Ｐａｌｍ　ＯＳ"
 	},
 	"Bounty Hunter 2099 - Pinball (Europe) (En,Fr,De)": {
 		"languages": ["De", "En", "Fr"]
 	},
 	"Bounty Hunter 2099 - Pinball (Japan)": {
 		"languages": ["En"],
-		"localized_name": "バウンティハンター２０９９　ピンボール"
+		"localizedName": "バウンティハンター２０９９　ピンボール"
 	},
 	"Casino Games (USA)": {
 		"languages": ["En"]
@@ -83,27 +89,31 @@
 	},
 	"DaDa Palm Game Series - American Football (Japan)": {
 		"languages": [],
-		"localized_name": "ＤａＤａ　ｐａｌｍ　ｇａｍｅ　ｓｅｒｉｅｓ　アメリカン　フットボール"
+		"localizedName": "ＤａＤａ　ｐａｌｍ　ｇａｍｅ　ｓｅｒｉｅｓ　アメリカン　フットボール"
 	},
 	"DaDa Palm Game Series - Baseball (Japan)": {
 		"languages": ["En"],
-		"localized_name": "ＤａＤａ　ｐａｌｍ　ｇａｍｅ　ｓｅｒｉｅｓ　ベースボール"
+		"localizedName": "ＤａＤａ　ｐａｌｍ　ｇａｍｅ　ｓｅｒｉｅｓ　ベースボール"
 	},
 	"DaDa Palm Game Series - Deluxe Mahjong (Japan)": {
 		"languages": ["Ja"],
-		"localized_name": "ＤａＤａ　ｐａｌｍ　ｇａｍｅ　ｓｅｒｉｅｓ　デラックス　麻雀"
+		"localizedName": "ＤａＤａ　ｐａｌｍ　ｇａｍｅ　ｓｅｒｉｅｓ　デラックス　麻雀"
 	},
 	"DaDa Palm Game Series - Formula Racing (Japan)": {
 		"languages": ["En"],
-		"localized_name": "ＤａＤａ　ｐａｌｍ　ｇａｍｅ　ｓｅｒｉｅｓ　フォーミュラ　レーシング"
+		"localizedName": "ＤａＤａ　ｐａｌｍ　ｇａｍｅ　ｓｅｒｉｅｓ　フォーミュラ　レーシング"
 	},
 	"DaDa Palm Game Series - Golf (Japan)": {
 		"languages": ["Ja"],
-		"localized_name": "ＤａＤａ　ｐａｌｍ　ｇａｍｅ　ｓｅｒｉｅｓ　ゴルフ"
+		"localizedName": "ＤａＤａ　ｐａｌｍ　ｇａｍｅ　ｓｅｒｉｅｓ　ゴルフ"
 	},
 	"DaDa Palm Game Series - World War 2 (Japan)": {
 		"languages": ["Ja"],
-		"localized_name": "ＤａＤａ　ｐａｌｍ　ｇａｍｅ　ｓｅｒｉｅｓ　ワールドウォー２"
+		"localizedName": "ＤａＤａ　ｐａｌｍ　ｇａｍｅ　ｓｅｒｉｅｓ　ワールドウォー２"
+	},
+	"Daisenryaku for Palm (Japan)": {
+		"languages": ["Ja"],
+		"localizedName": "大戦略　ｆｏｒ　Ｐａｌｍ"
 	},
 	"Dilbert Productivity Pack for Palm Computing Organizers (USA)": {
 		"languages": ["En"]
@@ -116,7 +126,7 @@
 	},
 	"Graffiti Sniper - Golgo 13 (Japan)": {
 		"languages": ["Ja"],
-		"localized_name": "グラフィティスナイパー　ゴルゴ１３"
+		"localizedName": "グラフィティスナイパー　ゴルゴ１３"
 	},
 	"Handango (USA)": {
 		"languages": ["En"]
@@ -125,6 +135,9 @@
 		"languages": ["En"]
 	},
 	"Hoyle Games Collection for Palm OS and Windows CE Handhelds Vol. II (USA)": {
+		"languages": ["En"]
+	},
+	"JetFighter (Canada)": {
 		"languages": ["En"]
 	},
 	"Jeux Video Mobile 2 (France)": {
@@ -165,19 +178,26 @@
 	},
 	"Morita Shougi for Palm OS (Japan)": {
 		"languages": ["Ja"],
-		"localized_name": "森田将棋　ｆｏｒ　Ｐａｌｍ　ＯＳ"
+		"localizedName": "森田将棋　ｆｏｒ　Ｐａｌｍ　ＯＳ"
 	},
 	"ODN Palm Power Pack (Japan)": {
 		"languages": []
 	},
+	"Oh-chan no Oekaki Logic for Palm (Japan)": {
+		"languages": ["Ja"],
+		"localizedName": "おーちゃんのお絵かきロジック　ｆｏｒ　Ｐａｌｍ"
+	},
 	"Okigaru Igo Taikyoku (Japan)": {
 		"languages": ["Ja"],
-		"localized_name": "お気軽囲碁対局"
+		"localizedName": "お気軽囲碁対局"
 	},
 	"OnHand Complete Astrologer (USA)": {
 		"languages": ["En"]
 	},
 	"OnHand Sports Games & Sega Swirl Lite (USA)": {
+		"languages": ["En"]
+	},
+	"Oxford Handbook of Clinical Medicine for PDAs - Seventh Edition (UK)": {
 		"languages": ["En"]
 	},
 	"PDA Essentials & GPS Advisor - Issue 43 (UK)": {
@@ -201,6 +221,13 @@
 	"PDA Power Training (USA)": {
 		"languages": ["En"]
 	},
+	"Palm Billiard (Japan)": {
+		"languages": ["En"],
+		"localizedName": "Ｐａｌｍ　ビリヤード"
+	},
+	"Palm Games 2001 (USA)": {
+		"languages": []
+	},
 	"Palm Games 2003 - Professional Edition (USA)": {
 		"languages": []
 	},
@@ -219,24 +246,30 @@
 	"Palm Tungsten E2 Software Installation CD (USA)": {
 		"languages": ["En"]
 	},
+	"Palm Tungsten T Software Installation (USA) (Disc 1) (Desktop Software)": {
+		"languages": []
+	},
+	"Palm Tungsten T Software Installation (USA) (Disc 2) (Software Essentials)": {
+		"languages": []
+	},
 	"Palm Vx - Connected Organizer (USA)": {
 		"languages": ["En"]
 	},
 	"Papa and Palm Series No. 01 - Palm Mahjong (Japan)": {
 		"languages": ["Ja"],
-		"localized_name": "パパッとパームシリーズ　Ｎｏ．０１　パーム　麻雀"
+		"localizedName": "パパッとパームシリーズ　Ｎｏ．０１　パーム　麻雀"
 	},
 	"Papa and Palm Series No. 02 - Palm Hanafuda (Japan)": {
 		"languages": ["Ja"],
-		"localized_name": "パパッとパームシリーズ　Ｎｏ．０２　パーム　花札"
+		"localizedName": "パパッとパームシリーズ　Ｎｏ．０２　パーム　花札"
 	},
 	"Papa and Palm Series No. 03 - Palm Solitaire & Casino (Japan)": {
 		"languages": ["Ja"],
-		"localized_name": "パパッとパームシリーズ　Ｎｏ．０３　パーム　ソリティア＆カジノ"
+		"localizedName": "パパッとパームシリーズ　Ｎｏ．０３　パーム　ソリティア＆カジノ"
 	},
 	"Petit Mahjong (Japan)": {
 		"languages": ["Ja"],
-		"localized_name": "プチま～じゃん"
+		"localizedName": "プチま～じゃん"
 	},
 	"Pinballz2 (USA)": {
 		"languages": ["En"]
@@ -255,14 +288,14 @@
 	},
 	"Puzzle Bobble for Palm (Japan)": {
 		"languages": ["Ja"],
-		"localized_name": "パズルボブル　ｆｏｒ　Ｐａｌｍ"
+		"localizedName": "パズルボブル　ｆｏｒ　Ｐａｌｍ"
 	},
 	"Rayman (Europe)": {
 		"languages": ["En"]
 	},
 	"Rayman (Japan) (En,Ja)": {
 		"languages": ["En", "Ja"],
-		"localized_name": "レイマン"
+		"localizedName": "レイマン"
 	},
 	"Rayman (USA)": {
 		"languages": ["En"]
@@ -281,25 +314,28 @@
 	},
 	"Shanghai for Palm (Japan)": {
 		"languages": ["Ja"],
-		"localized_name": "上海　ｆｏｒ　Ｐａｌｍ"
+		"localizedName": "上海　ｆｏｒ　Ｐａｌｍ"
+	},
+	"Shooting Gallery (Canada)": {
+		"languages": ["En"]
 	},
 	"SimCity for Palm OS Handhelds (Japan) (En,Ja,Fr,De)": {
 		"languages": ["De", "En", "Fr", "Ja"],
-		"localized_name": "シムシティー　フォーパーム"
+		"localizedName": "シムシティー　フォーパーム"
 	},
 	"SocketScan (USA)": {
 		"languages": ["En"]
 	},
 	"Star Soldier for Palm OS (Japan)": {
 		"languages": ["En"],
-		"localized_name": "スターソルジャー　ｆｏｒ　Ｐａｌｍ　ＯＳ"
+		"localizedName": "スターソルジャー　ｆｏｒ　Ｐａｌｍ　ＯＳ"
 	},
 	"Street Maps & Vacation Planner (USA)": {
 		"languages": ["En"]
 	},
 	"Sucharaka Salaryman - Deai-kei (Japan)": {
 		"languages": ["Ja"],
-		"localized_name": "スチャラカサラリーマン　出会い系"
+		"localizedName": "スチャラカサラリーマン　出会い系"
 	},
 	"Sudoku Master (USA)": {
 		"languages": ["En"]
@@ -313,13 +349,16 @@
 	"SwiftWare (USA)": {
 		"languages": ["En"]
 	},
-	"Tetris Classic Game Pak (USA) (Rerelease) (20030722)": {
+	"Tap Step Music (Japan)": {
+		"languages": ["Ja"]
+	},
+	"Tetris Classic Game Pak (USA) (Rerelease) (2003-07-23)": {
 		"languages": ["En"]
 	},
-	"Tetris Classic Game Pak (USA) (Rerelease) (20040429)": {
+	"Tetris Classic Game Pak (USA) (Rerelease) (2004-04-29)": {
 		"languages": ["En"]
 	},
-	"Tetris Classic Game Pak (USA) (Rerelease) (20040909)": {
+	"Tetris Classic Game Pak (USA) (Rerelease) (2004-09-09)": {
 		"languages": ["En"]
 	},
 	"Tetris Game Pak 2 (USA)": {
@@ -343,7 +382,7 @@
 	"Vegas Casino (Canada)": {
 		"languages": ["En"]
 	},
-	"Vegas Casino Vol. 2 (Canada)": {
+	"Vegas Casino - Vol. 2 (Canada)": {
 		"languages": ["En"]
 	},
 	"Warfare Incorporated (USA)": {
@@ -354,7 +393,7 @@
 	},
 	"ZIOGolf Special Pack (Japan)": {
 		"languages": ["Ja"],
-		"localized_name": "ジオゴルフ　スペシャルパック"
+		"localizedName": "ジオゴルフ　スペシャルパック"
 	},
 	"ZIOGolf for Palm OS (USA)": {
 		"languages": []

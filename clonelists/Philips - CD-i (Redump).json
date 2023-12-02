@@ -1,24 +1,12 @@
 {
 	"description": {
 		"name": "Philips - CD-i (Redump)",
-		"lastUpdated": "20 August 2023",
+		"lastUpdated": "03 November 2023",
 		"minimumVersion": "2.00"
 	},
 
 	"mias": [
-		"CD-i Motorrad Fahren, Die - Thema 1 - Motorrad im Detail (Germany) (v4.7)",
-		"CD-i Motorrad Fahren, Die - Thema 3 (Germany) (v4.7)",
-		"CD-i Motorrad Fahren, Die - Thema 4 + Mofa Fahren (Germany) (v4.7)",
-		"CD-i Pkw Fahren, Die - Thema 1-2 (Germany) (v6.8)",
-		"CD-i Pkw Fahren, Die - Thema 10-12 (Germany) (v6.8)",
-		"CD-i Pkw Fahren, Die - Thema 13 (Germany) (v6.8)",
-		"CD-i Pkw Fahren, Die - Thema 14 + Spezialwissen Klasse S und L (Germany) (v6.8)",
-		"CD-i Pkw Fahren, Die - Thema 3 (Germany) (v6.8)",
-		"CD-i Pkw Fahren, Die - Thema 4-5 (Germany) (v6.8)",
-		"CD-i Pkw Fahren, Die - Thema 6-7 (Germany) (v6.8)",
-		"CD-i Pkw Fahren, Die - Thema 8-9 (Germany) (v6.8)",
 		"Caesars World of Gambling (Japan)",
-		"Callas Tosca (Europe)",
 		"French Impressionists, The - France Inshouha (Japan)",
 		"James Brown - Non Stop Hit Machine (Japan)",
 		"Louis Armstrong - An American Songbook (Japan)",
@@ -293,8 +281,7 @@
 			"group": "How the Rhinoceros Got His Skin",
 			"titles": [
 				{"searchTerm": "How the Rhinoceros Got His Skin"},
-				{"searchTerm": "Wie das Rhinozeros zu seiner Haut kam"},
-				{"searchTerm": "How the Rhino Got His Skin", "priority": 2}
+				{"searchTerm": "Wie das Rhinozeros zu seiner Haut kam"}
 			]
 		},
 		{
@@ -417,6 +404,7 @@
 			"group": "Portrait of a City - Venice",
 			"titles": [
 				{"searchTerm": "Portrait d'une Ville - Venise"},
+				{"searchTerm": "Portrait einer Stadt - Venedig"},
 				{"searchTerm": "Portrait of a City - Venice"},
 				{"searchTerm": "Ritratto di Citta - Venezia"}
 			]

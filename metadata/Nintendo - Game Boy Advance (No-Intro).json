@@ -356,11 +356,20 @@
 	"007 - NightFire (USA, Europe) (En,Fr,De)": {
 		"languages": ["De", "En", "Fr"]
 	},
+	"2004Mbit Competition (World) (Unl)": {
+		"languages": ["En"]
+	},
 	"2006 FIFA World Cup - Germany 2006 (USA, Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"[BIOS] Game Boy Advance (Japan) (Debug Version)": {
-		"languages": ["Ja"]
+	"2048 Pool (World) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"[BIOS] Game Boy Advance (GBC Mode) (World)": {
+		"languages": ["En"]
+	},
+	"[BIOS] Game Boy Advance (World) (Beta)": {
+		"languages": ["En"]
 	},
 	"[BIOS] Game Boy Advance (World) (GameCube)": {
 		"languages": ["En"]
@@ -488,16 +497,16 @@
 	"Adventures of Mr. Bean (Europe) (Demo)": {
 		"languages": ["En"]
 	},
+	"Aero the Acro-Bat (Europe)": {
+		"languages": ["En"]
+	},
 	"Aero the Acro-Bat (USA) (Beta 1)": {
 		"languages": ["En"]
 	},
-	"Aero the Acro-Bat - Rascal Rival Revenge (Europe)": {
+	"Aero the Acro-Bat (USA)": {
 		"languages": ["En"]
 	},
 	"Aero the Acro-Bat - Rascal Rival Revenge (USA) (Beta 2) (2002-03-27)": {
-		"languages": ["En"]
-	},
-	"Aero the Acro-Bat - Rascal Rival Revenge (USA)": {
 		"languages": ["En"]
 	},
 	"Agassi Tennis Generation (Europe) (En,Fr,De,Es,It)": {
@@ -635,13 +644,13 @@
 	"Angelique (Japan)": {
 		"languages": ["Ja"]
 	},
-	"Anguna - Warriors of Virtue (Unknown) (Retro-Bit Generations) (Aftermarket) (Unl)": {
-		"languages": ["En"]
-	},
 	"Anguna - Warriors of Virtue (World) (2021-02-28) (Patreon) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Anguna - Warriors of Virtue (World) (Demo) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Anguna - Warriors of Virtue (World) (Retro-Bit Generations) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Anguna - Warriors of Virtue (World) (v0.91) (Aftermarket) (Unl)": {
@@ -880,7 +889,7 @@
 	},
 	"Bakuten Shoot Beyblade 2002 - Ikuze! Bakutou! Chou Jiryoku Battle!! (Japan)": {
 		"languages": ["Ja"],
-		"localized_name": "爆転シュートベイブレード２００２　いくぜ！爆闘！超磁力バトル！！"
+		"localizedName": "爆転シュートベイブレード２００２　いくぜ！爆闘！超磁力バトル！！"
 	},
 	"Bakuten Shoot Beyblade - Gekitou! Saikyou Blader (Japan)": {
 		"languages": ["Ja"]
@@ -1032,7 +1041,7 @@
 	"Battle Network - Rockman EXE (Japan)": {
 		"languages": ["Ja"]
 	},
-	"Battle Picross (World) (Aftermarket) (Unl)": {
+	"Battle Picross (World) (Unl)": {
 		"languages": ["En"]
 	},
 	"Battle X Battle - Kyodai Gyo Densetsu (Japan)": {
@@ -1057,6 +1066,9 @@
 		"languages": ["Ja"]
 	},
 	"Bee Game, The (USA)": {
+		"languages": ["En"]
+	},
+	"Bengt Swinger of Longarm (World) (Unl)": {
 		"languages": ["En"]
 	},
 	"Berenstain Bears and the Spooky Old Tree, The (USA)": {
@@ -1287,7 +1299,7 @@
 	"Boulder Dash EX (USA)": {
 		"languages": ["En"]
 	},
-	"Bounty Hunter X (Europe) (Unl)": {
+	"Bounty Hunter X (World) (Unl)": {
 		"languages": ["En"]
 	},
 	"Boxing Fever (USA, Europe)": {
@@ -1502,7 +1514,7 @@
 	},
 	"Cars (Japan)": {
 		"languages": ["Ja"],
-		"localized_name": "カーズ"
+		"localizedName": "カーズ"
 	},
 	"Cars (USA, Europe)": {
 		"languages": ["En"]
@@ -1612,6 +1624,9 @@
 	"Cat in the Hat, The (USA)": {
 		"languages": ["En"]
 	},
+	"Cat's Curse (World) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
 	"Catwoman (USA, Europe) (En,Fr,De,Es,It,Nl)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
 	},
@@ -1631,13 +1646,15 @@
 		"languages": ["En"]
 	},
 	"Chaoji Maliou 2 (China)": {
-		"languages": ["Zh"]
+		"languages": ["Zh"],
+		"localizedName": "超级马力欧2"
 	},
 	"Chaoji Maliou DX (Taiwan) (Unl)": {
 		"languages": ["Zh"]
 	},
 	"Chaoji Maliou Shijie (China)": {
-		"languages": ["Zh"]
+		"languages": ["Zh"],
+		"localizedName": "超级马力欧世界"
 	},
 	"Charlie and the Chocolate Factory (Europe) (En,Fr,Es,Nl)": {
 		"languages": ["En", "Es", "Fr", "Nl"]
@@ -1699,7 +1716,7 @@
 	"Chocobo Land - A Game of Dice (Japan)": {
 		"languages": ["Ja"]
 	},
-	"Chopper 2 The Return (Europe) (Unl)": {
+	"Chopper 2 - The Return (World) (Unl)": {
 		"languages": ["En"]
 	},
 	"Choro Q Advance 2 (Japan)": {
@@ -2025,7 +2042,7 @@
 	},
 	"Daigassou! Band-Brothers - Request Selection (Japan) (DS Expansion Cartridge)": {
 		"languages": ["Ja"],
-		"localized_name": "大合奏!バンドブラザーズ 追加曲カートリッジ"
+		"localizedName": "大合奏！バンドブラザーズ　追加曲カートリッジ"
 	},
 	"Daisenryaku for Game Boy Advance (Japan)": {
 		"languages": ["Ja"]
@@ -2586,7 +2603,8 @@
 		"languages": ["Ja"]
 	},
 	"Dragon Quest Characters - Torneko no Daibouken 3 Advance - Fushigi no Dungeon (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localizedName": "ドラゴンクエストキャラクターズ　トルネコの大冒険３　不思議のダンジョン"
 	},
 	"Dragon Quest Monsters - Caravan Heart (Japan)": {
 		"languages": ["Ja"]
@@ -2786,7 +2804,7 @@
 	"Elf Bowling 1 & 2 (USA)": {
 		"languages": ["En"]
 	},
-	"Elland - The Crystal Wars (World) (Aftermarket) (Unl)": {
+	"Elland - The Crystal Wars (World) (Digital Release) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Enchanted - Once Upon Andalasia (USA) (En,Fr)": {
@@ -2924,6 +2942,45 @@
 	"F-Zero - GP Legend (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
+	"F-Zero - GP Legend (Unknown) (Proto) (2005-08-09) (Netcard)": {
+		"languages": ["En"]
+	},
+	"F-Zero - GP Legend (Unknown) (Proto) (2005-08-11) (Netcard)": {
+		"languages": ["En"]
+	},
+	"F-Zero - GP Legend (Unknown) (Proto) (2005-08-15) (Netcard)": {
+		"languages": ["En"]
+	},
+	"F-Zero - GP Legend (Unknown) (Proto) (2005-08-16) (Netcard)": {
+		"languages": ["En"]
+	},
+	"F-Zero - GP Legend (Unknown) (Proto) (2005-08-17) (Netcard)": {
+		"languages": ["En"]
+	},
+	"F-Zero - GP Legend (Unknown) (Proto) (2005-08-18 02.40.54) (Netcard)": {
+		"languages": ["En"]
+	},
+	"F-Zero - GP Legend (Unknown) (Proto) (2005-08-18 23.00.14) (Netcard)": {
+		"languages": ["En"]
+	},
+	"F-Zero - GP Legend (Unknown) (Proto) (2005-08-23) (Netcard)": {
+		"languages": ["En"]
+	},
+	"F-Zero - GP Legend (Unknown) (Proto) (2005-08-24) (Netcard)": {
+		"languages": ["En"]
+	},
+	"F-Zero - GP Legend (Unknown) (Proto) (2005-08-26) (Netcard)": {
+		"languages": ["En"]
+	},
+	"F-Zero - GP Legend (Unknown) (Proto) (2005-08-29) (Netcard)": {
+		"languages": ["En"]
+	},
+	"F-Zero - GP Legend (Unknown) (Proto) (2005-09-02 00.17.57) (Netcard)": {
+		"languages": ["En"]
+	},
+	"F-Zero - GP Legend (Unknown) (Proto) (2005-09-02 01.21.24) (Netcard)": {
+		"languages": ["En"]
+	},
 	"F-Zero - GP Legend (USA) (Virtual Console)": {
 		"languages": ["En"]
 	},
@@ -2974,11 +3031,11 @@
 	},
 	"Famicom Mini 05 - Zelda no Densetsu 1 - The Hyrule Fantasy (Japan)": {
 		"languages": ["Ja"],
-		"localized_name": "ファミコンミニ05 ゼルダの伝説１ The Hyrule Fantasy"
+		"localizedName": "ファミコンミニ０５　ゼルダの伝説１　Ｔｈｅ　Ｈｙｒｕｌｅ　Ｆａｎｔａｓｙ"
 	},
 	"Famicom Mini 06 - Pac-Man (Japan) (En)": {
 		"languages": ["En"],
-		"localized_name": "ファミコンミニ　０６　パックマン"
+		"localizedName": "ファミコンミニ　０６　パックマン"
 	},
 	"Famicom Mini 07 - Xevious (Japan) (En)": {
 		"languages": ["En"]
@@ -3177,7 +3234,7 @@
 	},
 	"Final Fantasy Tactics Advance (Japan)": {
 		"languages": ["Ja"],
-		"localized_name": "ファイナル ファンタジー タクティクス アドバンス"
+		"localizedName": "ファイナル　ファンタジー　タクティクス　アドバンス"
 	},
 	"Final Fantasy Tactics Advance (USA) (Virtual Console)": {
 		"languages": ["En"]
@@ -3289,7 +3346,7 @@
 	},
 	"Fire Emblem - Fuuin no Tsurugi (Japan)": {
 		"languages": ["Ja"],
-		"localized_name": "ファイアーエムブレム・封印の剣"
+		"localizedName": "ファイアーエムブレム・封印の剣"
 	},
 	"Fire Emblem - Rekka no Ken (Japan) (Beta) (2003-02-06)": {
 		"languages": ["Ja"]
@@ -3302,7 +3359,7 @@
 	},
 	"Fire Emblem - Rekka no Ken (Japan)": {
 		"languages": ["Ja"],
-		"localized_name": "ファイアーエムブレム - 烈火の剣"
+		"localizedName": "ファイアーエムブレム　－　烈火の剣"
 	},
 	"Fire Emblem - Seima no Kouseki (Japan) (Beta)": {
 		"languages": ["Ja"]
@@ -3312,7 +3369,7 @@
 	},
 	"Fire Emblem - Seima no Kouseki (Japan)": {
 		"languages": ["Ja"],
-		"localized_name": "ファイアーエムブレム　聖魔の光石"
+		"localizedName": "ファイアーエムブレム　聖魔の光石"
 	},
 	"Fire Emblem - The Sacred Stones (Europe) (En,Fr,De,Es,It) (Virtual Console)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -3560,6 +3617,12 @@
 	"Gauntlet - Dark Legacy (USA)": {
 		"languages": ["En"]
 	},
+	"GB-A TV Tuner PAL (China) (v1.3) (Unl)": {
+		"languages": ["Zh"]
+	},
+	"GB-A TV Tuner PAL (China) (v2.0) (Unl)": {
+		"languages": ["Zh"]
+	},
 	"GBA AV Adapter (China) (Unl)": {
 		"languages": ["Zh"]
 	},
@@ -3571,15 +3634,6 @@
 	},
 	"GBA Personal Organizer (USA) (Unl)": {
 		"languages": ["En"]
-	},
-	"GBA TV Tuner (Europe) (Unl)": {
-		"languages": ["En"]
-	},
-	"GBA TV Tuner PAL (China) (v1.3) (Unl)": {
-		"languages": ["Zh"]
-	},
-	"GBA TV Tuner PAL (China) (v2.0) (Unl)": {
-		"languages": ["Zh"]
 	},
 	"Gegege no Kitarou - Kikiippatsu! Youkai Rettou (Japan)": {
 		"languages": ["Ja"]
@@ -3695,25 +3749,49 @@
 	"Golden Sun - The Lost Age (USA, Europe)": {
 		"languages": ["En"]
 	},
-	"Goodboy Galaxy (World) (Ar) (Demo) (Aftermarket) (Unl)": {
+	"Goodboy Galaxy - Chapter Zero (World) (Ar) (v1.0.6) (Demo) (Aftermarket) (Unl)": {
 		"languages": ["Ar"]
 	},
-	"Goodboy Galaxy (World) (En) (Demo) (Aftermarket) (Unl)": {
+	"Goodboy Galaxy - Chapter Zero (World) (Ar) (v1.0.7) (Demo) (Aftermarket) (Unl)": {
+		"languages": ["Ar"]
+	},
+	"Goodboy Galaxy - Chapter Zero (World) (De) (v1.0.7) (Demo) (Aftermarket) (Unl)": {
+		"languages": ["De"]
+	},
+	"Goodboy Galaxy - Chapter Zero (World) (En) (v1.0.6) (Demo) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Goodboy Galaxy (World) (Es) (Demo) (Aftermarket) (Unl)": {
+	"Goodboy Galaxy - Chapter Zero (World) (En) (v1.0.7) (Demo) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Goodboy Galaxy - Chapter Zero (World) (Es) (v1.0.6) (Demo) (Aftermarket) (Unl)": {
 		"languages": ["Es"]
 	},
-	"Goodboy Galaxy (World) (Fr) (Demo) (Aftermarket) (Unl)": {
+	"Goodboy Galaxy - Chapter Zero (World) (Es) (v1.0.7) (Demo) (Aftermarket) (Unl)": {
+		"languages": ["Es"]
+	},
+	"Goodboy Galaxy - Chapter Zero (World) (Fr) (v1.0.6) (Demo) (Aftermarket) (Unl)": {
 		"languages": ["Fr"]
 	},
-	"Goodboy Galaxy (World) (Ja) (Demo) (Aftermarket) (Unl)": {
+	"Goodboy Galaxy - Chapter Zero (World) (Fr) (v1.0.7) (Demo) (Aftermarket) (Unl)": {
+		"languages": ["Fr"]
+	},
+	"Goodboy Galaxy - Chapter Zero (World) (Ja) (v1.0.6) (Demo) (Aftermarket) (Unl)": {
 		"languages": ["Ja"]
 	},
-	"Goodboy Galaxy (World) (Pt) (Demo) (Aftermarket) (Unl)": {
+	"Goodboy Galaxy - Chapter Zero (World) (Ja) (v1.0.7) (Demo) (Aftermarket) (Unl)": {
+		"languages": ["Ja"]
+	},
+	"Goodboy Galaxy - Chapter Zero (World) (Pt) (v1.0.6) (Demo) (Aftermarket) (Unl)": {
 		"languages": ["Pt"]
 	},
-	"Goodboy Galaxy (World) (Zh) (Demo) (Aftermarket) (Unl)": {
+	"Goodboy Galaxy - Chapter Zero (World) (Pt) (v1.0.7) (Demo) (Aftermarket) (Unl)": {
+		"languages": ["Pt"]
+	},
+	"Goodboy Galaxy - Chapter Zero (World) (Zh) (v1.0.6) (Demo) (Aftermarket) (Unl)": {
+		"languages": ["Zh"]
+	},
+	"Goodboy Galaxy - Chapter Zero (World) (Zh) (v1.0.7) (Demo) (Aftermarket) (Unl)": {
 		"languages": ["Zh"]
 	},
 	"GP-1 Racing (USA) (Proto)": {
@@ -3741,7 +3819,10 @@
 		"languages": ["En"]
 	},
 	"Green Memories (World) (v1.2.0) (Aftermarket) (Unl)": {
-		"languages": ["nolang"]
+		"languages": ["En"]
+	},
+	"Green Memories (World) (v1.4.2) (Aftermarket) (Unl)": {
+		"languages": ["En"]
 	},
 	"Greg Hastings' Tournament Paintball Max'd (USA)": {
 		"languages": ["En"]
@@ -3832,7 +3913,7 @@
 	},
 	"Gyakuten Saiban 2 (Japan)": {
 		"languages": ["Ja"],
-		"localized_name": "逆転裁判２"
+		"localizedName": "逆転裁判２"
 	},
 	"Gyakuten Saiban 3 (Japan) (Demo) (Kiosk, GameCube)": {
 		"languages": ["Ja"]
@@ -3842,14 +3923,14 @@
 	},
 	"Gyakuten Saiban 3 (Japan)": {
 		"languages": ["Ja"],
-		"localized_name": "逆転裁判３"
+		"localizedName": "逆転裁判３"
 	},
 	"Gyakuten Saiban (Japan) (Rev 1) (Virtual Console)": {
 		"languages": ["Ja"]
 	},
 	"Gyakuten Saiban (Japan) (Rev 1)": {
 		"languages": ["Ja"],
-		"localized_name": "逆転裁判"
+		"localizedName": "逆転裁判"
 	},
 	"Gyakuten Saiban (Japan)": {
 		"languages": ["Ja"]
@@ -3910,6 +3991,9 @@
 	},
 	"Hamtaro - Rainbow Rescue (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Hamtaro - Rainbow Rescue (USA) (Proto) (2003-07-29)": {
+		"languages": ["En"]
 	},
 	"Hanabi Hyakkei Advance (Japan)": {
 		"languages": ["Ja"]
@@ -4060,7 +4144,7 @@
 	},
 	"Hikaru no Go 2 (Japan)": {
 		"languages": ["Ja"],
-		"localized_name": "ヒカルの碁２"
+		"localizedName": "ヒカルの碁２"
 	},
 	"Hikaru no Go 3 - Senyou Joy Carry Cartridge (Japan) (Rewritable Cartridge)": {
 		"languages": ["Ja"]
@@ -4093,6 +4177,9 @@
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Hobbit, The - The Prelude to the Lord of the Rings (USA)": {
+		"languages": ["En"]
+	},
+	"Holy Bible, The - World English Bible (USA) (Proto)": {
 		"languages": ["En"]
 	},
 	"Home on the Range (Europe) (En,Fr,De,Es)": {
@@ -4263,7 +4350,7 @@
 	"Initial D - Another Stage (Japan)": {
 		"languages": ["Ja"]
 	},
-	"Inky And The Alien Aquarium (World) (Demo) (Aftermarket) (Unl)": {
+	"Inky and the Alien Aquarium (World) (Demo) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Inspector Gadget - Advance Mission (Europe) (En,Fr,De,Es,It,Nl)": {
@@ -4661,11 +4748,11 @@
 	},
 	"Kinniku Banzuke - Kimero! Kiseki no Kanzen Seiha (Japan)": {
 		"languages": ["Ja"],
-		"localized_name": "筋肉番付　～決めろ！奇跡の完全制覇～"
+		"localizedName": "筋肉番付　～決めろ！奇跡の完全制覇～"
 	},
 	"Kinniku Banzuke - Kongou-kun no Daibouken! (Japan)": {
 		"languages": ["Ja"],
-		"localized_name": "筋肉番付 金剛君の大冒険！"
+		"localizedName": "筋肉番付　金剛君の大冒険！"
 	},
 	"Kinnikuman II-Sei - Seigi Choujin e no Michi (Japan)": {
 		"languages": ["Ja"]
@@ -5285,6 +5372,9 @@
 	"Marie, Elie & Anis no Atelier - Soyokaze kara no Dengon (Japan)": {
 		"languages": ["Ja"]
 	},
+	"Mario & Luigi (USA) (Demo) (Kiosk, E3 2003)": {
+		"languages": ["En"]
+	},
 	"Mario & Luigi - Superstar Saga (Europe) (En,Fr,De,Es,It) (Virtual Console)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
@@ -5887,7 +5977,7 @@
 	},
 	"Metroid Fusion (Japan)": {
 		"languages": ["Ja"],
-		"localized_name": "メトロイドフュージョン"
+		"localizedName": "メトロイドフュージョン"
 	},
 	"Metroid Fusion (USA) (Virtual Console)": {
 		"languages": ["En"]
@@ -5946,8 +6036,14 @@
 	"Mini Moni. - Onegai Ohoshi-sama! (Japan)": {
 		"languages": ["Ja"]
 	},
-	"Minicraft (World) (Aftermarket) (Unl)": {
-		"languages": ["nolang"]
+	"Minicraft (World) (v1.0) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Minicraft (World) (v1.1) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Minicraft (World) (v1.2) (Aftermarket) (Unl)": {
+		"languages": ["En"]
 	},
 	"Minna de Puyo Puyo (Japan) (En,Ja)": {
 		"languages": ["En", "Ja"]
@@ -6013,7 +6109,8 @@
 		"languages": ["En", "Es", "Fr"]
 	},
 	"Miteluode - Lingdian Renwu (China)": {
-		"languages": ["Zh"]
+		"languages": ["Zh"],
+		"localizedName": "密特罗德 零点任务"
 	},
 	"Miteluode Ronghe (China)": {
 		"languages": ["Zh"]
@@ -6174,6 +6271,12 @@
 	"Mother 3 (Japan)": {
 		"languages": ["Ja"]
 	},
+	"Moto Racer Advance (Europe) (En,Fr,De,Es,It)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Moto Racer Advance (USA) (En,Fr,De,Es,It)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
 	"Motocross Challenge (USA) (Proto)": {
 		"languages": ["En"]
 	},
@@ -6193,12 +6296,6 @@
 		"languages": ["En"]
 	},
 	"MotoGP (USA) (En,Fr,De,Es,It)": {
-		"languages": ["De", "En", "Es", "Fr", "It"]
-	},
-	"Motoracer Advance (Europe) (En,Fr,De,Es,It)": {
-		"languages": ["De", "En", "Es", "Fr", "It"]
-	},
-	"Motoracer Advance (USA) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Mr Nutz (Europe) (En,Fr,De,Es,It)": {
@@ -6569,14 +6666,14 @@
 	},
 	"Ougon no Taiyou - Hirakareshi Fuuin (Japan)": {
 		"languages": ["Ja"],
-		"localized_name": "黄金の太陽 開かれし封印"
+		"localizedName": "黄金の太陽　開かれし封印"
 	},
 	"Ougon no Taiyou - Ushinawareshi Toki (Japan) (Virtual Console)": {
 		"languages": ["Ja"]
 	},
 	"Ougon no Taiyou - Ushinawareshi Toki (Japan)": {
 		"languages": ["Ja"],
-		"localized_name": "黄金の太陽 失われし時代"
+		"localizedName": "黄金の太陽　失われし時代"
 	},
 	"Over the Hedge (Europe)": {
 		"languages": ["En"]
@@ -6839,7 +6936,7 @@
 	"Pocket Dogs (USA)": {
 		"languages": ["En"]
 	},
-	"Pocket Meat (World) (Aftermarket) (Unl)": {
+	"Pocket Meat (World) (Proto) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
 	"Pocket Monsters - Emerald (Japan)": {
@@ -6850,7 +6947,7 @@
 	},
 	"Pocket Monsters - FireRed (Japan)": {
 		"languages": ["Ja"],
-		"localized_name": "ポケットモンスター　ファイアレッド"
+		"localizedName": "ポケットモンスター　ファイアレッド"
 	},
 	"Pocket Monsters - LeafGreen (Japan) (Rev 1)": {
 		"languages": ["Ja"]
@@ -6875,7 +6972,7 @@
 	},
 	"Pocket Monsters - Sapphire (Japan)": {
 		"languages": ["Ja"],
-		"localized_name": "ポケットモンスター　サファイア"
+		"localizedName": "ポケットモンスター　サファイア"
 	},
 	"Pocket Monsters Diamond - Pocket Monsters Pearl - Manaphy Present Campaign Senyou Cartridge (Japan) (En)": {
 		"languages": ["En"]
@@ -7068,7 +7165,7 @@
 	},
 	"Pokemon Fushigi no Dungeon - Aka no Kyuujotai (Japan)": {
 		"languages": ["Ja"],
-		"localized_name": "ポケモン不思議のダンジョン　赤の救助隊"
+		"localizedName": "ポケモン不思議のダンジョン　赤の救助隊"
 	},
 	"Pokemon Mystery Dungeon - Red Rescue Team (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -7352,6 +7449,9 @@
 	"Rapala Pro Fishing (USA, Europe)": {
 		"languages": ["En"]
 	},
+	"Ratatouille (Australia, Greece) (En)": {
+		"languages": ["En"]
+	},
 	"Ratatouille (Europe) (En,It,Sv,No,Da)": {
 		"languages": ["Da", "En", "It", "No", "Sv"]
 	},
@@ -7360,9 +7460,6 @@
 	},
 	"Ratatouille (Europe) (Fr,De,Nl)": {
 		"languages": ["De", "Fr", "Nl"]
-	},
-	"Ratatouille (Greece) (En)": {
-		"languages": ["En"]
 	},
 	"Ratatouille (USA)": {
 		"languages": ["En"]
@@ -7410,7 +7507,8 @@
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Rayman IV (Russia) (Unl)": {
-		"languages": ["Ru"]
+		"languages": ["Ru"],
+		"localizedName": "Rayman - Puteshestviye Solnechnogo Sveta"
 	},
 	"Rayman IV (USA) (Unl)": {
 		"languages": ["En"]
@@ -7489,7 +7587,7 @@
 	},
 	"Rhythm Tengoku (Japan)": {
 		"languages": ["Ja"],
-		"localized_name": "リズム天国"
+		"localizedName": "リズム天国"
 	},
 	"Ripping Friends, The - The World's Most Manly Men! (USA, Europe)": {
 		"languages": ["En"]
@@ -7587,6 +7685,9 @@
 	"Rockman EXE 4 - Tournament Blue Moon (Japan) (Rev 1) (Virtual Console)": {
 		"languages": ["Ja"]
 	},
+	"Rockman EXE 4 - Tournament Blue Moon (Japan) (Rev 1)": {
+		"languages": ["Ja"]
+	},
 	"Rockman EXE 4 - Tournament Blue Moon (Japan)": {
 		"languages": ["Ja"]
 	},
@@ -7646,7 +7747,7 @@
 	},
 	"Rockman Zero 3 (Japan)": {
 		"languages": ["Ja"],
-		"localized_name": "ロックマンゼロ3"
+		"localizedName": "ロックマンゼロ３"
 	},
 	"Rockman Zero 4 (Japan) (Virtual Console)": {
 		"languages": ["Ja"]
@@ -7668,7 +7769,7 @@
 	},
 	"RPG Tsukuru Advance (Japan)": {
 		"languages": ["Ja"],
-		"localized_name": "RPGツクールアドバンス"
+		"localizedName": "ＲＰＧツクールアドバンス"
 	},
 	"Rugrats - Castle Capers (USA, Europe)": {
 		"languages": ["En"]
@@ -7681,6 +7782,18 @@
 	},
 	"Rugrats - Travesuras en el Castillo (Spain)": {
 		"languages": ["Es"]
+	},
+	"S World 3 (World) (Beta 1) (Unl)": {
+		"languages": ["En"]
+	},
+	"S World 3 (World) (Beta 2) (Unl)": {
+		"languages": ["En"]
+	},
+	"S World 3 (World) (Beta 3) (Unl)": {
+		"languages": ["En"]
+	},
+	"S World 3 (World) (Beta 4) (Unl)": {
+		"languages": ["En"]
 	},
 	"Sabre Wulf (Europe) (En,Fr,De)": {
 		"languages": ["De", "En", "Fr"]
@@ -8207,14 +8320,17 @@
 	"Sky Dancers - They Magically Fly! (USA)": {
 		"languages": ["En"]
 	},
-	"Skyland (World) (2023-05-05) (Beta) (Aftermarket) (Unl)": {
-		"languages": ["nolang"]
+	"Skyland (World) (v2023.5.5.0) (Proto) (Aftermarket) (Unl)": {
+		"languages": ["En"]
 	},
-	"Skyland (World) (2023-05-15) (Beta) (Aftermarket) (Unl)": {
-		"languages": ["nolang"]
+	"Skyland (World) (v2023.5.15.0) (Proto) (Aftermarket) (Unl)": {
+		"languages": ["En"]
 	},
-	"Skyland (World) (2023-05-26) (Beta) (Aftermarket) (Unl)": {
-		"languages": ["nolang"]
+	"Skyland (World) (v2023.5.26.0) (Proto) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Skyland (World) (v2023.8.1.1) (Proto) (Aftermarket) (Unl)": {
+		"languages": ["En"]
 	},
 	"Slime Morimori Dragon Quest - Shougeki no Shippo Dan (Japan)": {
 		"languages": ["Ja"]
@@ -8987,6 +9103,9 @@
 	"Superman - Countdown to Apokolips (USA)": {
 		"languages": ["En"]
 	},
+	"Superman Returns - Fortress of Solitude (USA, Europe) (Beta)": {
+		"languages": ["En"]
+	},
 	"Superman Returns - Fortress of Solitude (USA, Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
@@ -9073,7 +9192,7 @@
 	},
 	"Tales of the World - Narikiri Dungeon 3 (Japan)": {
 		"languages": ["Ja"],
-		"localized_name": "テイルズ オブ ザ ワールド なりきりダンジョン3"
+		"localizedName": "テイルズ　オブ　ザ　ワールド　なりきりダンジョン３"
 	},
 	"Tales of the World - Summoner's Lineage (Japan)": {
 		"languages": ["Ja"]
@@ -9441,9 +9560,12 @@
 	"Totally Spies! (USA)": {
 		"languages": ["En"]
 	},
+	"Tottoko Hamutarou 3 - Love Love Daibouken Dechu (Japan) (Beta) (2002-05-29)": {
+		"languages": ["Ja"]
+	},
 	"Tottoko Hamutarou 3 - Love Love Daibouken Dechu (Japan)": {
 		"languages": ["Ja"],
-		"localized_name": "とっとこハム太郎3 ラブラブ大冒険でちゅ"
+		"localizedName": "とっとこハム太郎３　ラブラブ大冒険でちゅ"
 	},
 	"Tottoko Hamutarou 4 - Nijiiro Daikoushin Dechu (Japan)": {
 		"languages": ["Ja"]
@@ -9478,16 +9600,19 @@
 	"Treasure Planet (USA)": {
 		"languages": ["En"]
 	},
-	"Tremblay Island (World) (En) (Kickstarter Edition) (Aftermarket) (Unl)": {
+	"Tremblay Island (World) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Tremblay Island (World) (En) (v.1.10) (Aftermarket) (Unl)": {
+	"Tremblay Island (World) (En) (v1.1) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Tremblay Island (World) (En) (v.1.10) (Solid State Version) (Aftermarket) (Unl)": {
+	"Tremblay Island (World) (En) (v1.1) (Kickstarter Edition) (Aftermarket) (Unl)": {
 		"languages": ["En"]
 	},
-	"Tremblay Island (World) (Fr) (v.1.10) (Solid State Version) (Aftermarket) (Unl)": {
+	"Tremblay Island (World) (En) (v1.1) (Solid State Version) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"Tremblay Island (World) (Fr) (v1.1) (Solid State Version) (Aftermarket) (Unl)": {
 		"languages": ["Fr"]
 	},
 	"Trick Star (Europe) (En,Fr,De,Es,It)": {
@@ -9641,7 +9766,8 @@
 		"languages": ["Ja"]
 	},
 	"Ultraman - Confrontation Between Justice and Evil (Russia) (Unl)": {
-		"languages": ["Ru"]
+		"languages": ["Ru"],
+		"localizedName": "Ul'traman - Konfrontatsiya mezhdu spravedlivost'yu i zlom"
 	},
 	"Unfabulous (USA)": {
 		"languages": ["En"]
@@ -9696,7 +9822,7 @@
 	},
 	"Vattroller X - Taikenban (Japan) (Demo) (Kiosk, GameCube)": {
 		"languages": ["Ja"],
-		"localized_name": "バトローラーエックス - 体験版"
+		"localizedName": "バトローラーエックス　－　体験版"
 	},
 	"Vecinos Invasores (Spain)": {
 		"languages": ["Es"]
@@ -9750,10 +9876,12 @@
 		"languages": ["En"]
 	},
 	"Waliou Xunbao Ji (China)": {
-		"languages": ["Zh"]
+		"languages": ["Zh"],
+		"localizedName": "瓦力欧寻宝记"
 	},
 	"Waliou Zhizao (China)": {
-		"languages": ["Zh"]
+		"languages": ["Zh"],
+		"localizedName": "瓦力欧制造"
 	},
 	"Wanko de Kururin! Wancle (Japan)": {
 		"languages": ["Ja"]
@@ -9887,8 +10015,11 @@
 	"WinX Club - Quest for the Codex (USA)": {
 		"languages": ["En"]
 	},
-	"With The Last Moonbeam (World) (Aftermarket) (Unl)": {
-		"languages": ["nolang"]
+	"With the Last Moonbeam (World) (v1.0.0) (Aftermarket) (Unl)": {
+		"languages": ["En"]
+	},
+	"With the Last Moonbeam (World) (v1.0.1) (Aftermarket) (Unl)": {
+		"languages": ["En"]
 	},
 	"Wizardry Summoner (Japan) (Rev 1)": {
 		"languages": ["Ja"]
@@ -10014,7 +10145,8 @@
 		"languages": ["Zh"]
 	},
 	"Yaoxi Dao (China)": {
-		"languages": ["Zh"]
+		"languages": ["Zh"],
+		"localizedName": "耀西岛"
 	},
 	"Yggdra Union (Japan)": {
 		"languages": ["Ja"]

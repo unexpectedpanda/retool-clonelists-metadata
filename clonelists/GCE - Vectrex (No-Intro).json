@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "GCE - Vectrex (No-Intro)",
-		"lastUpdated": "9 January 2023",
+		"lastUpdated": "01 December 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -25,13 +25,6 @@
 
 	"variants": [
 		{
-			"group": "Blitz! - Action Football",
-			"titles": [
-				{"searchTerm": "Blitz! - Action Football (881B27C5)"},
-				{"searchTerm": "Blitz! - Action Football (0F11CE0C)", "priority": 2}
-			]
-		},
-		{
 			"group": "Mail Plane",
 			"titles": [
 				{"searchTerm": "Mail Plane (DA1AC0DB)"},
@@ -43,13 +36,6 @@
 			"titles": [
 				{"searchTerm": "Mine Storm"},
 				{"searchTerm": "Mine Storm II"}
-			]
-		},
-		{
-			"group": "Pole Position",
-			"titles": [
-				{"searchTerm": "Pole Position (A00ED3D6)"},
-				{"searchTerm": "Pole Position (C10F37D8)", "priority": 2}
 			]
 		},
 		{

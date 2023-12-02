@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Microsoft - Xbox 360 (Redump)",
-		"lastUpdated": "20 August 2023",
+		"lastUpdated": "18 November 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -16,18 +16,19 @@
 	"mias": [
 		"Assassin's Creed II - Game of the Year Edition (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da) (Rev 1)",
 		"Crysis 3 (Europe)",
+		"Experience Disc Version 6.1G, The (USA) (En,Fr)",
 		"Guitar Hero III - Legends of Rock (USA) (En,Fr,De,Es,It)",
 		"Halo 3 (China) (En,Zh)",
 		"Halo 3 (USA)",
-		"Halo 3 - Essentials (Spain) (Disc 1)",
+		"Just Dance 2017 (USA)",
 		"Just Dance 4 (Europe) (Rev 1)",
 		"Kinect Adventures! (Asia) (En,Zh)",
 		"Mass Effect (France) (Bonus Content Disc)",
 		"Metal Gear Solid - HD Edition (Japan)",
-		"Michael Jackson - The Experience (Japan)",
 		"NBA Live 06 (Asia) (En,Zh)",
 		"Resident Evil 5 (World) (En,Ja,Fr,De,Es,It) (Beta)",
 		"Rock Band 3 (USA) (Rev 1)",
+		"Scene It Bright Lights! Big Screen! (Canada)",
 		"Your Shape - Fitness Evolved (Asia) (En,Zh)"
 	],
 
@@ -230,6 +231,7 @@
 				{"searchTerm": "Call of Duty - Advanced Warfare (Disc di Gioco)"},
 				{"searchTerm": "Call of Duty - Advanced Warfare (Disc do Jogo)"},
 				{"searchTerm": "Call of Duty - Advanced Warfare (Game Disc)"},
+				{"searchTerm": "Call of Duty - Advanced Warfare (Igrovoj)"},
 				{"searchTerm": "Call of Duty - Advanced Warfare (Spieldisc)"}
 			]
 		},
@@ -378,6 +380,13 @@
 			"titles": [
 				{"searchTerm": "Disney Infinity 3.0 - Play Without Limits"},
 				{"searchTerm": "Disney Infinity 3.0 Edition"}
+			]
+		},
+		{
+			"group": "Disney-Pixar Toy Story 3",
+			"titles": [
+				{"searchTerm": "Disney-Pixar Toy Story 3"},
+				{"searchTerm": "Disney-Pixar Istoriya igrushek - Bol'shoj pobeg"}
 			]
 		},
 		{
@@ -768,6 +777,7 @@
 			"group": "Godfather, The",
 			"titles": [
 				{"searchTerm": "Godfather, The"},
+				{"searchTerm": "Padrino, El"},
 				{"searchTerm": "Padrino, Il"}
 			]
 		},
@@ -1239,7 +1249,8 @@
 			"group": "Scene It Lights, Camera, Action",
 			"titles": [
 				{"searchTerm": "Scene It Lights, Camera, Action"},
-				{"searchTerm": "Scene It Lights, Camera, Action!"}
+				{"searchTerm": "Scene It Lights, Camera, Action!"},
+				{"searchTerm": "Scene It Luces, Camara, Accion!"}
 			]
 		},
 		{
@@ -1498,6 +1509,7 @@
 		{
 			"group": "Witcher 2, The - Assassins of Kings - Enhanced Edition (Disc 1)",
 			"titles": [
+				{"searchTerm": "Ved'mak 2 - Ubijcy korolej - Rasshirennoe izdanie (Disc 1) (Igra)"},
 				{"searchTerm": "Witcher 2, The - Assassins of Kings - Enhanced Edition (Disc 1)"},
 				{"searchTerm": "Witcher 2, The - Assassins of Kings - Enhanced Edition (Game Disc 1)"},
 				{"searchTerm": "Witcher 2, The - Assassins of Kings - Enhanced Edition (Silver Box)", "priority": 2}
@@ -1506,6 +1518,7 @@
 		{
 			"group": "Witcher 2, The - Assassins of Kings - Enhanced Edition (Disc 2)",
 			"titles": [
+				{"searchTerm": "Ved'mak 2 - Ubijcy korolej - Rasshirennoe izdanie (Disc 2) (Igra)"},
 				{"searchTerm": "Witcher 2, The - Assassins of Kings - Enhanced Edition (Disc 2)"},
 				{"searchTerm": "Witcher 2, The - Assassins of Kings - Enhanced Edition (Game Disc 2)"}
 			]

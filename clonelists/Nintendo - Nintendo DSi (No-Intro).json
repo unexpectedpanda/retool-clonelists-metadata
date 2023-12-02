@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Nintendo - Nintendo DSi (No-Intro)",
-		"lastUpdated": "17 January 2023",
+		"lastUpdated": "01 December 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -25,6 +25,15 @@
 			"titles": [
 				{"searchTerm": "Hair Salon"},
 				{"searchTerm": "Picture Perfect Hair Salon"}
+			]
+		},
+		{
+			"group": "TWL EVA",
+			"titles": [
+				{"searchTerm": "TWL EVA. (Ver3.1) (Program)"},
+				{"searchTerm": "TWL EVA. (Ver3.0) (Program)", "priority": 2},
+				{"searchTerm": "TWL EVA. (Ver2.1) (Program)", "priority": 3},
+				{"searchTerm": "TWL EVA. (Ver1.0) (Program)", "priority": 4}
 			]
 		}
 	]
