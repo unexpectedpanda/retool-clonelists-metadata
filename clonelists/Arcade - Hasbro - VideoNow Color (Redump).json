@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Arcade - Hasbro - VideoNow Color (Redump)",
-		"lastUpdated": "03 November 2023",
+		"lastUpdated": "03 December 2023",
 		"minimumVersion": "2.00"
 	},
 
@@ -32,6 +32,20 @@
 			"titles": [
 				{"searchTerm": "Jackie Chan Adventures (Disc 3) (La Reine des Ombres)"},
 				{"searchTerm": "Jackie Chan Adventures (Disc 3) (Reina de los Sombrakhan)"}
+			]
+		},
+		{
+			"group": "Nickelodeon SpongeBob Schwammkopf (Seifenblasen & Der Riss in der Hose)",
+			"titles": [
+				{"searchTerm": "Nickelodeon SpongeBob (Bolle di Sapone & Pantaloni Strappati)"},
+				{"searchTerm": "Nickelodeon SpongeBob Schwammkopf (Seifenblasen & Der Riss in der Hose)"}
+			]
+		},
+		{
+			"group": "Spider-Man - El Aguijon del Escorpion",
+			"titles": [
+				{"searchTerm": "Spider-Man (Disc 3) (El Aguijon del Escorpion)"},
+				{"searchTerm": "Spider-Man (Il Pungiglione Dello Scorpione)"}
 			]
 		},
 		{

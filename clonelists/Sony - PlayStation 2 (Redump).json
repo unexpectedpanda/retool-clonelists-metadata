@@ -3385,6 +3385,14 @@
 			]
 		},
 		{
+			"group": "Jonny Moseley Mad Trix",
+			"titles": [
+				{"searchTerm": "Jonny Moseley Mad Trix"},
+				{"searchTerm": "Jonny Moseley Mad Trix (DVD Preview)", "priority": 2},
+				{"searchTerm": "Jonny Moseley Mad Trix (Pre-Alpha)", "priority": 3}
+			]
+		},
+		{
 			"group": "Juiced",
 			"titles": [
 				{"searchTerm": "Juiced"},
@@ -3771,15 +3779,7 @@
 			"group": "Linux (for PlayStation 2) Release 1.0 (Disc 1) (Runtime Environment)",
 			"titles": [
 				{"searchTerm": "Linux (for PlayStation 2) Release 1.0 (Disc 1) (Runtime Environment)"},
-				{"searchTerm": "Linux for PlayStation 2 - Release 1.0 (Disc 1) (Runtime Environment)"},
 				{"searchTerm": "PS2 Linux Beta Release 1", "priority": 2}
-			]
-		},
-		{
-			"group": "Linux (for PlayStation 2) Release 1.0 (Disc 2) (Software Packages)",
-			"titles": [
-				{"searchTerm": "Linux (for PlayStation 2) Release 1.0 (Disc 2) (Software Packages)"},
-				{"searchTerm": "Linux for PlayStation 2 - Release 1.0 (Disc 2) (Software Packages)"}
 			]
 		},
 		{
@@ -5736,6 +5736,7 @@
 		{
 			"group": "Sakura Taisen - Atsuki Chishio ni",
 			"titles": [
+				{"searchTerm": "Sakura Daejeon - Tteugeoun Yeoljeongeuro"},
 				{"searchTerm": "Sakura Taisen - Atsuki Chishio ni"},
 				{"searchTerm": "Yinghua Dazhan - Chire Zhi Xue"}
 			]
@@ -5758,6 +5759,7 @@
 		{
 			"group": "Sakura Wars - So Long, My Love (Disc 2) (Japanese Voice Over)",
 			"titles": [
+				{"searchTerm": "Sakura Daejeon V - Annyeong Sarangseureon Geudaeyeo"},
 				{"searchTerm": "Sakura Taisen V - Saraba Itoshiki Hito yo"},
 				{"searchTerm": "Sakura Wars - So Long, My Love (Disc 2) (Japanese Voice Over)"}
 			]
