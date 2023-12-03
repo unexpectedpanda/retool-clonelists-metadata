@@ -1,17 +1,16 @@
 {
 	"description": {
 		"name": "VTech - V.Smile (No-Intro)",
-		"lastUpdated": "28 January 2023",
+		"lastUpdated": "03 December 2023",
 		"minimumVersion": "2.00"
 	},
 
 	"variants": [
 		{
-			"group": "Aladdin - Aladdins Welt der Wunder",
+			"group": "Adventures of Little Red Riding Hood, The",
 			"titles": [
-				{"searchTerm": "Aladdin - Aladdins Welt der Wunder"},
-				{"searchTerm": "Aladdin - El Maravilloso Mundo de Aladdin"},
-				{"searchTerm": "Aladdin - Il magico mondo di Aladdin"}
+				{"searchTerm": "Adventures of Little Red Riding Hood, The"},
+				{"searchTerm": "Entdecke die Welt von Rotkaeppchen"}
 			]
 		},
 		{
@@ -20,7 +19,23 @@
 				{"searchTerm": "ABC Land Aventure"},
 				{"searchTerm": "Abenteuer im ABC Park"},
 				{"searchTerm": "Alphabet Park Adventure"},
+				{"searchTerm": "Aventuras en el Parque Alfabeto"},
 				{"searchTerm": "Avventura nel Parco Alfabeto"}
+			]
+		},
+		{
+			"group": "Backyardigans - Viking Voyage",
+			"titles": [
+				{"searchTerm": "Backyardigans - Viking Voyage"},
+				{"searchTerm": "Backyardigans, The - Viking Voyage"},
+				{"searchTerm": "Melodilous, Les - Les explorateurs vikings"}
+			]
+		},
+		{
+			"group": "Barney - The Land of Make Believe",
+			"titles": [
+				{"searchTerm": "Barney - Erlebnis-Reise"},
+				{"searchTerm": "Barney - The Land of Make Believe"}
 			]
 		},
 		{
@@ -33,8 +48,16 @@
 			]
 		},
 		{
+			"group": "Care Bears - A Lesson in Caring",
+			"titles": [
+				{"searchTerm": "Care Bears - A Lesson in Caring"},
+				{"searchTerm": "Osos Amorosos - Una Leccion de Amor"}
+			]
+		},
+		{
 			"group": "Cars - Rev It Up in Radiator Springs",
 			"titles": [
+				{"searchTerm": "Cars"},
 				{"searchTerm": "Bilar - Koer ikapp i Kylarkoeping"},
 				{"searchTerm": "Biler - Raes i Kolerkildekobing"},
 				{"searchTerm": "Cars - Quatre roues"},
@@ -54,18 +77,54 @@
 			]
 		},
 		{
+			"group": "Disney Fairies - TinkerBell",
+			"titles": [
+				{"searchTerm": "Disney Fairies - TinkerBell"},
+				{"searchTerm": "Tingeling"},
+				{"searchTerm": "TinkerBell"}
+			]
+		},
+		{
+			"group": "Disney's Aladdin - Aladdin's Wonders of the World",
+			"titles": [
+				{"searchTerm": "Aladdin - Aladdins Welt der Wunder"},
+				{"searchTerm": "Aladdin - El Maravilloso Mundo de Aladdin"},
+				{"searchTerm": "Aladdin - Il magico mondo di Aladdin"},
+				{"searchTerm": "Disney Aladdin - Wonders of the World"},
+				{"searchTerm": "Disney's Aladdin - Aladdin's Wonders of the World"}
+			]
+		},
+		{
+			"group": "Disney's The Lion King - Simba's Big Adventure",
+			"titles": [
+				{"searchTerm": "Disney's The Lion King - Simba's Big Adventure"},
+				{"searchTerm": "Lejonkungen - Simbas stora aeventyr"},
+				{"searchTerm": "Lion King, The - Simba's Big Adventure"},
+				{"searchTerm": "Lovernes Konge - Simbas store eventyr"},
+				{"searchTerm": "Re Leone, Il - La Grande Avventura di Simba"},
+				{"searchTerm": "Roi Lion, Le - Simba decouvre la jungle"}
+			]
+		},
+		{
+			"group": "Disney's The Little Mermaid - Ariel's Majestic Journey",
+			"titles": [
+				{"searchTerm": "Arielle die Meerjungfrau - Arielles aufregendes Abenteuer"},
+				{"searchTerm": "Den lilla sjoejungfrun - Ariels majestaetiska resa!"},
+				{"searchTerm": "Den lille havfrue - Ariels majestaetiske rejse!"},
+				{"searchTerm": "Disney's The Little Mermaid - Ariel's Majestic Journey"},
+				{"searchTerm": "Little Mermaid, The - Ariel's Majestic Journey"},
+				{"searchTerm": "Petite Sirene, La - Ariel devient une princesse"},
+				{"searchTerm": "Sirenetta, La - Ariel e la Crociera Magica"},
+				{"searchTerm": "Sirenita, La - El Viaje Fantastico de Ariel"}
+			]
+		},
+		{
 			"group": "Dora the Explorer - Dora's Fix-It Adventure",
 			"titles": [
 				{"searchTerm": "Dora - Doras Reparatur-Abenteuer"},
 				{"searchTerm": "Dora l'exploratrice - Les aventures de Dora Apprentie Mecano"},
-				{"searchTerm": "Dora the Explorer - Dora's Fix-It Adventure"}
-			]
-		},
-		{
-			"group": "Elmos grosses Abenteuer",
-			"titles": [
-				{"searchTerm": "Elmos grosses Abenteuer"},
-				{"searchTerm": "Grandes decouvertes d'Elmo, Les"}
+				{"searchTerm": "Dora the Explorer - Dora's Fix-It Adventure"},
+				{"searchTerm": "Dora's Fix-it Adventure"}
 			]
 		},
 		{
@@ -76,10 +135,18 @@
 			]
 		},
 		{
-			"group": "Freds Zahlen Rallye",
+			"group": "Football Club",
+			"titles": [
+				{"searchTerm": "Football Club"},
+				{"searchTerm": "Fussball Schule"}
+			]
+		},
+		{
+			"group": "Learnin' Wheels",
 			"titles": [
 				{"searchTerm": "Apprenti' pilote"},
-				{"searchTerm": "Freds Zahlen Rallye"}
+				{"searchTerm": "Freds Zahlen Rallye"},
+				{"searchTerm": "Learnin' Wheels"}
 			]
 		},
 		{
@@ -97,24 +164,10 @@
 			]
 		},
 		{
-			"group": "Lion King, The - Simba's Big Adventure",
+			"group": "Handy Manny",
 			"titles": [
-				{"searchTerm": "Lejonkungen - Simbas stora aeventyr"},
-				{"searchTerm": "Lion King, The - Simba's Big Adventure"},
-				{"searchTerm": "Lovernes Konge - Simbas store eventyr"},
-				{"searchTerm": "Re Leone, Il - La Grande Avventura di Simba"},
-				{"searchTerm": "Roi Lion, Le - Simba decouvre la jungle"}
-			]
-		},
-		{
-			"group": "Little Mermaid, The - Ariel's Majestic Journey",
-			"titles": [
-				{"searchTerm": "Arielle die Meerjungfrau - Arielles aufregendes Abenteuer"},
-				{"searchTerm": "Den lilla sjoejungfrun - Ariels majestaetiska resa!"},
-				{"searchTerm": "Den lille havfrue - Ariels majestaetiske rejse!"},
-				{"searchTerm": "Little Mermaid, The - Ariel's Majestic Journey"},
-				{"searchTerm": "Petite Sirene, La - Ariel devient une princesse"},
-				{"searchTerm": "Sirenetta, La - Ariel e la Crociera Magica"}
+				{"searchTerm": "Handy Manny"},
+				{"searchTerm": "Meister Manny's Werkzeugkiste"}
 			]
 		},
 		{
@@ -125,8 +178,9 @@
 			]
 		},
 		{
-			"group": "Micky - Mickys magisches Abenteuer",
+			"group": "Mickey Mouse - Mickey's Magical Adventure",
 			"titles": [
+				{"searchTerm": "Mickey Mouse - Mickey's Magical Adventure"},
 				{"searchTerm": "Micky - Mickys magisches Abenteuer"},
 				{"searchTerm": "Musse Pigg - Musses magiska aeventyr"},
 				{"searchTerm": "Topolino - Le Magiche Avventure di Topolino"}
@@ -140,17 +194,6 @@
 			]
 		},
 		{
-			"group": "My Friends Tigger & Pooh - Die Honigjagd",
-			"titles": [
-				{"searchTerm": "My Friends Tigger & Pooh - Die Honigjagd"},
-				{"searchTerm": "Nalle Puh - Honungsjakten"},
-				{"searchTerm": "Peter Plys - Honningjagten"},
-				{"searchTerm": "Winnie l'Ourson - La Chasse au miel de Winnie"},
-				{"searchTerm": "Winnie Puuh - Die Honigjagd"},
-				{"searchTerm": "Winnie the Pooh e la caccia al miele"}
-			]
-		},
-		{
 			"group": "Noddy - Detective for a Day",
 			"titles": [
 				{"searchTerm": "Noddy - Detective for a Day"},
@@ -159,9 +202,10 @@
 			]
 		},
 		{
-			"group": "Ratatouille - Remys neue Rezepte",
+			"group": "Ratatouille - Remy's New Recipes",
 			"titles": [
 				{"searchTerm": "Ratatouille - Le nuove Ricette di Remy"},
+				{"searchTerm": "Ratatouille - Remy's New Recipes"},
 				{"searchTerm": "Ratatouille - Remys neue Rezepte"}
 			]
 		},
@@ -177,9 +221,25 @@
 			]
 		},
 		{
-			"group": "Shrek - Die Geschichte des Drachen",
+			"group": "Sesame Street - Bert & Ernie's Imagination Adventure",
+			"titles": [
+				{"searchTerm": "Ernies & Berts Fantastisches Abenteuer"},
+				{"searchTerm": "Sesame Street - Bert & Ernie's Imagination Adventure"}
+			]
+		},
+		{
+			"group": "Sesame Street - Elmo's World - Elmo's Big Discoveries",
+			"titles": [
+				{"searchTerm": "Elmos grosses Abenteuer"},
+				{"searchTerm": "Grandes decouvertes d'Elmo, Les"},
+				{"searchTerm": "Sesame Street - Elmo's World - Elmo's Big Discoveries"}
+			]
+		},
+		{
+			"group": "Shrek - Dragon's Tale",
 			"titles": [
 				{"searchTerm": "Shrek - Die Geschichte des Drachen"},
+				{"searchTerm": "Shrek - Dragon's Tale"},
 				{"searchTerm": "Shrek - Het verhaal van draakje"},
 				{"searchTerm": "Shrek - Le rhume de Dragonne"}
 			]
@@ -192,16 +252,18 @@
 			]
 		},
 		{
-			"group": "Spider-Man & Freunde - Wettkampf im Space-Labor",
+			"group": "Spider-Man & Friends - Doc Ock's Challenge",
 			"titles": [
+				{"searchTerm": "Spider-Man & Friends - Doc Ock's Challenge"},
 				{"searchTerm": "Spider-Man & Friends - La Sfida del Dottor Ock"},
 				{"searchTerm": "Spider-Man & Freunde - Wettkampf im Space-Labor"}
 			]
 		},
 		{
-			"group": "Spider-Man & ses amis - Missions secretes",
+			"group": "Spider-Man & Friends - Secret Missions",
 			"titles": [
 				{"searchTerm": "Spider-Man & Friends - Missioni Segrete"},
+				{"searchTerm": "Spider-Man & Friends - Secret Missions"},
 				{"searchTerm": "Spider-Man & ses amis - Missions secretes"}
 			]
 		},
@@ -214,10 +276,11 @@
 			]
 		},
 		{
-			"group": "Superman - Der Superheld",
+			"group": "Superman - The Greatest Hero",
 			"titles": [
 				{"searchTerm": "Superman - A la rescousse !"},
-				{"searchTerm": "Superman - Der Superheld"}
+				{"searchTerm": "Superman - Der Superheld"},
+				{"searchTerm": "Superman - The Greatest Hero"}
 			]
 		},
 		{
@@ -227,13 +290,6 @@
 				{"searchTerm": "Thomas & Friends - Tagen hjaelps at"},
 				{"searchTerm": "Thomas & seine Freunde - Freunde halten zusammen"},
 				{"searchTerm": "Thomas et ses amis - Les locomotives s'entraident"}
-			]
-		},
-		{
-			"group": "TinkerBell",
-			"titles": [
-				{"searchTerm": "Tingeling"},
-				{"searchTerm": "TinkerBell"}
 			]
 		},
 		{
@@ -261,9 +317,22 @@
 			]
 		},
 		{
+			"group": "Winnie the Pooh - The Honey Hunt",
+			"titles": [
+				{"searchTerm": "My Friends Tigger & Pooh - Die Honigjagd"},
+				{"searchTerm": "Nalle Puh - Honungsjakten"},
+				{"searchTerm": "Peter Plys - Honningjagten"},
+				{"searchTerm": "Winnie l'Ourson - La Chasse au miel de Winnie"},
+				{"searchTerm": "Winnie Puuh - Die Honigjagd"},
+				{"searchTerm": "Winnie the Pooh - The Honey Hunt"},
+				{"searchTerm": "Winnie the Pooh e la caccia al miele"}
+			]
+		},
+		{
 			"group": "Zayzoo - An Earth Adventure",
 			"titles": [
 				{"searchTerm": "Zayzoo - An Earth Adventure"},
+				{"searchTerm": "Zayzoo My Alien Classmate"},
 				{"searchTerm": "Zayzoos Lernall"},
 				{"searchTerm": "Zezou - Notre ami venu d'ailleurs"}
 			]
