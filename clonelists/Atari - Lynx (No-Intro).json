@@ -1,9 +1,17 @@
 {
 	"description": {
 		"name": "Atari - Lynx (No-Intro)",
-		"lastUpdated": "2 January 2024",
+		"lastUpdated": "02 January 2024",
 		"minimumVersion": "2.00"
 	},
+
+	"categories": [
+		{
+			"searchTerm": "Lynx II Production Test Program",
+			"nameType": "short",
+			"categories": ["Applications"]
+		}
+	],
 
 	"variants": [
 		{
@@ -21,13 +29,6 @@
 			],
 			"supersets": [
 				{"searchTerm": "Crystal Mines II - Buried Treasure"}
-			]
-		},
-		{
-			"group": "Lynx II Production Test Program",
-			"categories": ["Applications"],
-			"titles": [
-				{"searchTerm": "Lynx II Production Test Program"}
 			]
 		},
 		{
