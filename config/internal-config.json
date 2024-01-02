@@ -7,7 +7,7 @@
 			"These are defaults that Retool requires, don't modify this file.",
 			"Check user-config.yaml for user-editable settings."
 		],
-		"lastUpdated": "03 December 2023"
+		"lastUpdated": "02 January 2024"
 	},
 
 	"ignoreTags": [
@@ -155,6 +155,7 @@
 		"\\s?\\(FS005\\)",
 		"\\s?\\([Ii]tch.io\\)",
 		"\\s?\\(First Press Games\\)",
+		"\\s?\\(Game Jam Edition\\)",
 		"\\s?\\(GitHub\\)",
 		"\\s?\\(Global Game Jam 2[0-9]{0,3}\\)",
 		"\\s?\\(GOG\\)",
@@ -229,6 +230,7 @@
         "\\s?\\(Activision Anthology - Remix Edition\\)",
 		"\\s?\\(Aleste Collection\\)",
 		"\\s?\\(Atari Anthology\\)",
+		"\\s?\\(Atari Lynx 30th Birthday\\)",
 		"\\s?\\(AtariAge\\)",
 		"\\s?\\(Bomberman Collection\\)",
 		"\\s?\\(Bubsy Two-Fur\\)",

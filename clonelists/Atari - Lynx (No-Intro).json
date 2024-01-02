@@ -1,24 +1,40 @@
 {
 	"description": {
 		"name": "Atari - Lynx (No-Intro)",
-		"lastUpdated": "01 December 2023",
-		"minimumVersion": "0.92"
+		"lastUpdated": "2 January 2024",
+		"minimumVersion": "2.00"
 	},
 
-	"categories": [
-		{
-			"searchTerm": "Lynx II Production Test Program",
-			"nameType": "short",
-			"categories": ["Applications"]
-		}
-	],
-
 	"variants": [
+		{
+			"group": "Bug's Lynx, A (Demo)",
+			"titles": [
+				{"searchTerm": "Bug's Lynx, A (Demo)"},
+				{"searchTerm": "Bug's Lynx, A (Demo) (AC2k9)"},
+				{"searchTerm": "Bug's Lynx, A (Demo) (eJagFest 2018)"}
+			]
+		},
+		{
+			"group": "Crystal Mines II",
+			"titles": [
+				{"searchTerm": "Crystal Mines II"}
+			],
+			"supersets": [
+				{"searchTerm": "Crystal Mines II - Buried Treasure"}
+			]
+		},
+		{
+			"group": "Lynx II Production Test Program",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Lynx II Production Test Program"}
+			]
+		},
 		{
 			"group": "YNXA",
 			"titles": [
 				{"searchTerm": "YNXA"},
-				{"searchTerm": "YNXA (Game Jam Edition)", "priority": 2}
+				{"searchTerm": "YNXA (Flash)", "priority": 2}
 			]
 		}
 	]
