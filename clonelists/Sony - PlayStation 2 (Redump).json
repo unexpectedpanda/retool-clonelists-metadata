@@ -2904,13 +2904,6 @@
 			]
 		},
 		{
-			"group": "Hajime no Ippo - Victorious Boxers - Championship Version",
-			"titles": [
-				{"searchTerm": "Hajime no Ippo - Victorious Boxers - Championship Version"},
-				{"searchTerm": "Hajime-ui Ilbo - The Fighting! Victorious Boxers - Championship Version"}
-			]
-		},
-		{
 			"group": "Hajime no Ippo 2 - Victorious Road",
 			"titles": [
 				{"searchTerm": "Hajime no Ippo 2 - Victorious Road"},
@@ -3724,6 +3717,13 @@
 			"titles": [
 				{"searchTerm": "Legacy of Kain - Soul Reaver 2"},
 				{"searchTerm": "Soul Reaver 2"}
+			]
+		},
+		{
+			"group": "LEGO Island Xtreme Stunts",
+			"titles": [
+				{"searchTerm": "Island Xtreme Stunts"},
+				{"searchTerm": "LEGO Island Xtreme Stunts"}				
 			]
 		},
 		{
@@ -5300,9 +5300,10 @@
 		{
 			"group": "Pucelle, La - Tactics",
 			"titles": [
-				{"searchTerm": "Pucelle, La - Hikari no Seijo Densetsu"},
-				{"searchTerm": "Pucelle, La - Tactics"},
-				{"searchTerm": "Pucelle, La - Hikari no Seijo Densetsu - 2-shuume Hajimemashita.", "priority": 2}
+				{"searchTerm": "Pucelle, La"},
+				{"searchTerm": "Pucelle, La - Hikari no Seijo Densetsu", "priority": 2},
+				{"searchTerm": "Pucelle, La - Hikari no Seijo Densetsu - 2-shuume Hajimemashita."},
+				{"searchTerm": "Pucelle, La - Tactics"}
 			]
 		},
 		{
@@ -7233,7 +7234,9 @@
 		{
 			"group": "Victorious Boxers - Ippo's Road to Glory",
 			"titles": [
-				{"searchTerm": "Hajime no Ippo - Victorious Boxers"},
+				{"searchTerm": "Hajime no Ippo - Victorious Boxers", "priority": 2},
+				{"searchTerm": "Hajime no Ippo - Victorious Boxers - Championship Version"},
+				{"searchTerm": "Hajime-ui Ilbo - The Fighting! Victorious Boxers - Championship Version"}
 				{"searchTerm": "Victorious Boxers - Ippo's Road to Glory"}
 			]
 		},
