@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Sony - PlayStation 2 (Redump)",
-		"lastUpdated": "06 January 2024",
+		"lastUpdated": "12 January 2024",
 		"minimumVersion": "2.00"
 	},
 
@@ -1754,6 +1754,13 @@
 			"titles": [
 				{"searchTerm": "Driver - Parallel Lines (Limited Edition)"},
 				{"searchTerm": "Driver - Parallel Lines", "priority": 2}
+			]
+		},
+		{
+			"group": "DT Racer",
+			"titles": [
+				{"searchTerm": "Axel Impact: The Extreme Racing"},
+				{"searchTerm": "DT Racer"}
 			]
 		},
 		{
