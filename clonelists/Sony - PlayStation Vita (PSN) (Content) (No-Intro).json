@@ -17,12 +17,52 @@
 			"categories": ["Add-Ons"]
 		},
 		{
+			"searchTerm": "Animax Plus",
+			"nameType": "short",
+			"categories": ["Applications"]
+		},
+		{
+			"searchTerm": "Crackle",
+			"nameType": "short",
+			"categories": ["Applications"]
+		},
+		{
 			"searchTerm": "Crunchyroll",
 			"nameType": "short",
 			"categories": ["Applications"]
 		},
 		{
+			"searchTerm": "DMM.com",
+			"nameType": "short",
+			"categories": ["Applications"]
+		},
+		{
+			"searchTerm": "DramaFever",
+			"nameType": "short",
+			"categories": ["Applications"]
+		},
+		{
+			"searchTerm": "Du View",
+			"nameType": "short",
+			"categories": ["Applications"]
+		},
+		{
 			"searchTerm": "Facebook",
+			"nameType": "short",
+			"categories": ["Applications"]
+		},
+		{
+			"searchTerm": "Flickr",
+			"nameType": "short",
+			"categories": ["Applications"]
+		},
+		{
+			"searchTerm": "Foursquare",
+			"nameType": "short",
+			"categories": ["Applications"]
+		},
+		{
+			"searchTerm": "Game One",
 			"nameType": "short",
 			"categories": ["Applications"]
 		},
@@ -47,6 +87,11 @@
 			"categories": ["Add-Ons"]
 		},
 		{
+			"searchTerm": "Hulu Plus",
+			"nameType": "short",
+			"categories": ["Applications"]
+		},
+		{
 			"searchTerm": "Killzone - Mercenary - Digital Art Book",
 			"nameType": "short",
 			"categories": ["Add-Ons"]
@@ -58,6 +103,16 @@
 		},
 		{
 			"searchTerm": "LiveTweet",
+			"nameType": "short",
+			"categories": ["Applications"]
+		},
+		{
+			"searchTerm": "MLB.TV Premium",
+			"nameType": "short",
+			"categories": ["Applications"]
+		},
+		{
+			"searchTerm": "Music Unlimited",
 			"nameType": "short",
 			"categories": ["Applications"]
 		},
@@ -117,7 +172,22 @@
 			"categories": ["Add-Ons"]
 		},
 		{
+			"searchTerm": "Sky! On-Demand",
+			"nameType": "short",
+			"categories": ["Applications"]
+		},
+		{
 			"searchTerm": "Skype",
+			"nameType": "short",
+			"categories": ["Applications"]
+		},
+		{
+			"searchTerm": "SnagFilms - Watch Free Movies & TV Shows",
+			"nameType": "short",
+			"categories": ["Applications"]
+		},
+		{
+			"searchTerm": "TBS World Heritage Site Selection",
 			"nameType": "short",
 			"categories": ["Applications"]
 		},
@@ -162,9 +232,19 @@
 			"categories": ["Applications"]
 		},
 		{
+			"searchTerm": "WeatherNation",
+			"nameType": "short",
+			"categories": ["Applications"]
+		},
+		{
 			"searchTerm": "WipEout 2048 - Online Pass",
 			"nameType": "short",
 			"categories": ["Add-Ons"]
+		},
+		{
+			"searchTerm": "YouTube",
+			"nameType": "short",
+			"categories": ["Applications"]
 		}
 	],
 
@@ -708,6 +788,13 @@
 			"titles": [
 				{"searchTerm": "Fata Morgana no Kan - Collected Edition"},
 				{"searchTerm": "House in Fata Morgana, The"}
+			]
+		},
+		{
+			"group": "Hulu Plus",
+			"titles": [
+				{"searchTerm": "Hulu Plus"},
+				{"searchTerm": "Hulu"}
 			]
 		},
 		{
