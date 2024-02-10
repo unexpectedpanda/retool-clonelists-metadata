@@ -1,20 +1,87 @@
 {
 	"description": {
 		"name": "NEC - PC-FX & PC-FXGA (Redump)",
-		"lastUpdated": "09 January 2023",
-		"minimumVersion": "0.92"
+		"lastUpdated": "26 December 2023",
+		"minimumVersion": "2.02"
 	},
 
-	"categories": [
+	"variants": [
 		{
-			"searchTerm": "^Amateur Teikyou CD-ROM \\(Japan\\).*",
-			"nameType": "regex",
-			"categories": ["Demos"]
+			"group": "Amateur Teikyou CD-ROM (NEC PC-FXGA)",
+			"categories": ["Demos"],
+			"titles": [
+				{"searchTerm": "Amateur Teikyou CD-ROM (NEC PC-FXGA)"}
+			]
 		},
 		{
-			"searchTerm": "^AnimeFreak FX Vol. [0-9](.*)?",
-			"nameType": "regex",
-			"categories": ["Video"]
+			"group": "Amateur Teikyou CD-ROM (DOS-V-you) (NEC PC-FXGA)",
+			"categories": ["Demos"],
+			"titles": [
+				{"searchTerm": "Amateur Teikyou CD-ROM (DOS-V-you) (NEC PC-FXGA)"}
+			]
+		},
+		{
+			"group": "AnimeFreak FX Vol. 1",
+			"categories": ["Video"],
+			"titles": [
+				{"searchTerm": "AnimeFreak FX Vol. 1"}
+			]
+		},
+		{
+			"group": "AnimeFreak FX Vol. 2",
+			"categories": ["Video"],
+			"titles": [
+				{"searchTerm": "AnimeFreak FX Vol. 2"}
+			]
+		},
+		{
+			"group": "AnimeFreak FX Vol. 3",
+			"categories": ["Video"],
+			"titles": [
+				{"searchTerm": "AnimeFreak FX Vol. 3"}
+			]
+		},
+		{
+			"group": "AnimeFreak FX Vol. 4",
+			"categories": ["Video"],
+			"titles": [
+				{"searchTerm": "AnimeFreak FX Vol. 4"}
+			]
+		},
+		{
+			"group": "AnimeFreak FX Vol. 5 (Disc 1)",
+			"categories": ["Video"],
+			"titles": [
+				{"searchTerm": "AnimeFreak FX Vol. 5 (Disc 1)"}
+			]
+		},
+		{
+			"group": "AnimeFreak FX Vol. 5 (Disc 2)",
+			"categories": ["Video"],
+			"titles": [
+				{"searchTerm": "AnimeFreak FX Vol. 5 (Disc 2)"}
+			]
+		},
+		{
+			"group": "AnimeFreak FX Vol. 5 (Disc 1)",
+			"categories": ["Video"],
+			"titles": [
+				{"searchTerm": "AnimeFreak FX Vol. 5 (Disc 1)"}
+			]
+		},
+		{
+			"group": "AnimeFreak FX Vol. 6 (Disc 1)",
+			"categories": ["Video"],
+			"titles": [
+				{"searchTerm": "AnimeFreak FX Vol. 6 (Disc 1)"}
+			]
+		},
+		{
+			"group": "AnimeFreak FX Vol. 6 (Disc 2)",
+			"categories": ["Video"],
+			"titles": [
+				{"searchTerm": "AnimeFreak FX Vol. 6 (Disc 2)"}
+			]
 		}
 	]
 }

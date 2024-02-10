@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Sony - PlayStation 3 (Redump)",
-		"lastUpdated": "02 January 2024",
+		"lastUpdated": "10 February 2024",
 		"minimumVersion": "2.00"
 	},
 
@@ -898,8 +898,15 @@
 			],
 			"supersets": [
 				{"searchTerm": "Elder Scrolls IV, The - Oblivion - 5th Anniversary Edition"},
-				{"searchTerm": "Elder Scrolls IV, The - Oblivion - Game of the Year Edition"},
-				{"searchTerm": "^Elder Scrolls IV, The - Oblivion - Game of the Year Edition \\(Europe\\)", "nameType": "regex", "priority": 2}
+				{
+					"searchTerm": "Elder Scrolls IV, The - Oblivion - Game of the Year Edition",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["Europe"]},
+							"results": {"priority": 2}
+						}
+					]
+				}
 			]
 		},
 		{
@@ -909,8 +916,15 @@
 			],
 			"supersets": [
 				{"searchTerm": "Elder Scrolls IV, The - Oblivion - 5th Anniversary Edition"},
-				{"searchTerm": "Elder Scrolls IV, The - Oblivion - Game of the Year Edition"},
-				{"searchTerm": "^Elder Scrolls IV, The - Oblivion - Game of the Year Edition \\(Europe\\)", "nameType": "regex", "priority": 2}
+				{
+					"searchTerm": "Elder Scrolls IV, The - Oblivion - Game of the Year Edition",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["Europe"]},
+							"results": {"priority": 2}
+						}
+					]
+				}
 			]
 		},
 		{
@@ -1499,7 +1513,7 @@
 		{
 			"group": "Katamari Forever",
 			"titles": [
-				{"searchTerm": "Katamari Damashii Tribute"},
+				{"searchTerm": "Katamari Damacy Tribute"},
 				{"searchTerm": "Katamari Forever"}
 			]
 		},

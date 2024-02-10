@@ -1,114 +1,30 @@
 {
 	"description": {
 		"name": "Nintendo - Game Boy Advance (No-Intro)",
-		"lastUpdated": "04 December 2023",
-		"minimumVersion": "2.00"
+		"lastUpdated": "26 December 2023",
+		"minimumVersion": "2.02"
 	},
 
-	"categories": [
-		{
-			"searchTerm": "^Action Replay( (GBA|MAX))?",
-			"nameType": "regex",
-			"categories": ["Applications"]
-		},
-		{
-			"searchTerm": "Advanced Music Player",
-			"nameType": "short",
-			"categories": ["Applications"]
-		},
-		{
-			"searchTerm": "^Card e-Reader(?:\\+)?",
-			"nameType": "regex",
-			"categories": ["Applications"]
-		},
-		{
-			"searchTerm": "CodeBreaker",
-			"nameType": "short",
-			"categories": ["Applications"]
-		},
-		{
-			"searchTerm": "e-Reader",
-			"nameType": "short",
-			"categories": ["Applications"]
-		},
-		{
-			"searchTerm": "GameShark GBA",
-			"nameType": "short",
-			"categories": ["Applications"]
-		},
-		{
-			"searchTerm": "GBA AV Adapter",
-			"nameType": "short",
-			"categories": ["Applications"]
-		},
-		{
-			"searchTerm": "GBA Jukebox",
-			"nameType": "short",
-			"categories": ["Applications"]
-		},
-		{
-			"searchTerm": "GBA Movie Player 2 CF",
-			"nameType": "short",
-			"categories": ["Applications"]
-		},
-		{
-			"searchTerm": "GBA Personal Organizer",
-			"nameType": "short",
-			"categories": ["Applications"]
-		},
-		{
-			"searchTerm": "GB-A TV Tuner PAL",
-			"nameType": "short",
-			"categories": ["Applications"]
-		},
-		{
-			"searchTerm": "iQue Reader",
-			"nameType": "short",
-			"categories": ["Applications"]
-		},
-		{
-			"searchTerm": "iQue Video & Audio",
-			"nameType": "short",
-			"categories": ["Applications"]
-		},
-		{
-			"searchTerm": "Nintendo MP3 Player",
-			"nameType": "short",
-			"categories": ["Applications"]
-		},
-		{
-			"searchTerm": "Xploder Advance",
-			"nameType": "short",
-			"categories": ["Applications"]
-		}
-	],
-
-	"overrides": [
-		{
-			"searchTerm": "Cat in the Hat, The (USA)",
-			"newGroup": "Cat in the Hat, The USA"
-		},
-		{
-			"searchTerm": "^Gadget Racers \\(Europe\\)(.*)?",
-			"nameType": "regex",
-			"newGroup": "Shifting Gears - Road Trip"
-		},
-		{
-			"searchTerm": "Kim Possible (Japan)",
-			"newGroup": "Kim Possible 2 - Drakken's Demise"
-		},
-		{
-			"searchTerm": "Lilo & Stitch (Japan)",
-			"newGroup": "Lilo & Stitch 2 - Haemsterviel Havoc"
-		}
-	],
-
 	"variants": [
+		{
+			"group": "Action Replay MAX",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Action Replay MAX"}
+			]
+		},
 		{
 			"group": "Advance Wars",
 			"titles": [
 				{"searchTerm": "Advance Wars"},
 				{"searchTerm": "Lu-Hai-Kong Dazhan"}
+			]
+		},
+		{
+			"group": "Advanced Music Player",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Advanced Music Player"}
 			]
 		},
 		{
@@ -389,6 +305,13 @@
 			"titles": [
 				{"searchTerm": "Car Battler Joe"},
 				{"searchTerm": "Gekitou! Car Battler Go!!"}
+			]
+		},
+		{
+			"group": "Card e-Reader",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Card e-Reader"}
 			]
 		},
 		{
@@ -826,7 +749,16 @@
 			"group": "Dr. Seuss' The Cat in the Hat",
 			"titles": [
 				{"searchTerm": "Dr. Seuss' The Cat in the Hat"},
-				{"searchTerm": "Cat in the Hat, The", "priority": 2}
+				{
+					"searchTerm": "Cat in the Hat, The",
+					"priority": 2,
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["USA"]},
+							"results": {"group": "Cat in the Hat, The (USA)"}
+						}
+					]
+				}
 			]
 		},
 		{
@@ -904,6 +836,7 @@
 		},
 		{
 			"group": "e-Reader",
+			"categories": ["Applications"],
 			"titles": [
 				{"searchTerm": "Card e-Reader+"},
 				{"searchTerm": "e-Reader"}
@@ -1103,7 +1036,15 @@
 			"group": "Gadget Racers",
 			"titles": [
 				{"searchTerm": "Choro Q Advance"},
-				{"searchTerm": "Gadget Racers"},
+				{
+					"searchTerm": "Gadget Racers",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["Europe"]},
+							"results": {"group": "Shifting Gears - Road Trip"}
+						}
+					]
+				},
 				{"searchTerm": "Penny Racers"}
 			]
 		},
@@ -1117,11 +1058,47 @@
 		},
 		{
 			"group": "GameShark GBA",
+			"categories": ["Applications"],
 			"titles": [
 				{"searchTerm": "Action Replay"},
 				{"searchTerm": "GameShark GBA"},
 				{"searchTerm": "Pro Action Replay"},
 				{"searchTerm": "Action Replay GBX", "priority": 2}
+			]
+		},
+		{
+			"group": "GB-A TV Tuner",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "GB-A TV Tuner"}
+			]
+		},
+		{
+			"group": "GBA AV Adapter",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "GBA AV Adapter"}
+			]
+		},
+		{
+			"group": "GBA Jukebox",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "GBA Jukebox"}
+			]
+		},
+		{
+			"group": "GBA Movie Player 2 CF",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "GBA Movie Player 2 CF"}
+			]
+		},
+		{
+			"group": "GBA Personal Organizer",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "GBA Personal Organizer"}
 			]
 		},
 		{
@@ -1210,6 +1187,12 @@
 			"titles": [
 				{"searchTerm": "Gunstar Future Heroes"},
 				{"searchTerm": "Gunstar Super Heroes"}
+			]
+		},
+		{
+			"group": "Hali Bote IV",
+			"titles": [
+				{"searchTerm": "Hali Bote IV", "localNames": {"chinese (traditional)": "哈利波特Ⅳ"}}
 			]
 		},
 		{
@@ -1392,6 +1375,20 @@
 			]
 		},
 		{
+			"group": "iQue Reader",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "iQue Reader"}
+			]
+		},
+		{
+			"group": "iQue Video & Audio",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "iQue Video & Audio"}
+			]
+		},
+		{
 			"group": "Jackie Chan Adventures - Legend of the Dark Hand",
 			"titles": [
 				{"searchTerm": "Aventures de Jackie Chan, Les - La Legende de la Main Noire"},
@@ -1456,7 +1453,22 @@
 		{
 			"group": "Kim Possible - Revenge of Monkey Fist",
 			"titles": [
-				{"searchTerm": "Kim Possible"},
+				{
+					"searchTerm": "Kim Possible",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["Japan"]},
+							"results": {"group": "Kim Possible 2 - Drakken's Demise"}
+						},
+						{
+							"conditions": {
+								"matchLanguages": ["De", "En", "Es", "Fr"],
+								"matchRegions": ["Europe"]
+							},
+							"results": {"localNames": {"english": "Kim Possible", "french": "Kim Possible", "german": "Kim Possible - Monkey Fists Rache", "spanish": "Kim Possible"}}
+						}
+					]
+				},
 				{"searchTerm": "Kim Possible - Revenge of Monkey Fist"}
 			]
 		},
@@ -1600,6 +1612,20 @@
 			],
 			"compilations": [
 				{"searchTerm": "Pferd & Pony - Mein Pferdehof & Pferd and Pony - Lass Uns Reiten 2"}
+			]
+		},
+		{
+			"group": "Lilo & Stitch",
+			"titles": [
+				{
+					"searchTerm": "Lilo & Stitch",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["Japan"]},
+							"results": {"group": "Lilo & Stitch 2"}
+						}
+					]
+				}
 			]
 		},
 		{
@@ -1949,6 +1975,12 @@
 			]
 		},
 		{
+			"group": "Mojie Qibing",
+			"titles": [
+				{"searchTerm": "Mojie Qibing", "localNames": {"chinese (traditional)": "魔戒奇兵"}}
+			]
+		},
+		{
 			"group": "Monster Rancher Advance",
 			"titles": [
 				{"searchTerm": "Monster Farm Advance"},
@@ -2036,6 +2068,12 @@
 			]
 		},
 		{
+			"group": "Next Generation Tennis",
+			"titles": [
+				{"searchTerm": "Next Generation Tennis", "localNames": {"english": "Next Generation Tennis", "french": "Roland Garros 2002 - French Open", "german": "Next Generation Tennis", "italian": "Roland Garros 2002 - French Open", "portuguese": "Roland Garros 2002 - French Open", "spanish": "Roland Garros 2002 - French Open"}}
+			]
+		},
+		{
 			"group": "Nicktoons - Battle for Volcano Island",
 			"titles": [
 				{"searchTerm": "Nicktoons - Battle for Volcano Island"},
@@ -2073,6 +2111,13 @@
 			"titles": [
 				{"searchTerm": "Ninja Cop"},
 				{"searchTerm": "Ninja Five-0"}
+			]
+		},
+		{
+			"group": "Nintendo MP3 Player",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Nintendo MP3 Player"}
 			]
 		},
 		{
@@ -2343,10 +2388,22 @@
 			]
 		},
 		{
+			"group":"Rayman IV",
+			"titles": [
+				{"searchTerm": "Rayman IV", "localNames": {"russian": "Райман - Путешествие солнечного света"}}
+			]
+		},
+		{
 			"group": "Razor Freestyle Scooter",
 			"titles": [
 				{"searchTerm": "Freestyle Scooter"},
 				{"searchTerm": "Razor Freestyle Scooter"}
+			]
+		},
+		{
+			"group": "Renzhe Shen Gui 2",
+			"titles": [
+				{"searchTerm": "Renzhe Shen Gui 2", "localNames": {"chinese (traditional)": "忍者神龟２"}}
 			]
 		},
 		{
@@ -2507,6 +2564,18 @@
 			"titles": [
 				{"searchTerm": "Shining Force - Kuroki Ryuu no Fukkatsu"},
 				{"searchTerm": "Shining Force - Resurrection of the Dark Dragon"}
+			]
+		},
+		{
+			"group": "Shiruike II - Yu Meiren",
+			"titles": [
+				{"searchTerm": "Shiruike II - Yu Meiren", "localNames": {"chinese (traditional)": "史瑞克Ⅱ　-　虞美人"}}
+			]
+		},
+		{
+			"group": "Shrek Prezessin",
+			"titles": [
+				{"searchTerm": "Shrek Prezessin", "localNames": {"russian": "Шрек - мак-самосейка"}}
 			]
 		},
 		{
@@ -2950,8 +3019,28 @@
 		{
 			"group": "Total Soccer 2002",
 			"titles": [
-				{"searchTerm": "Total Soccer 2002"},
+				{"searchTerm": "Total Soccer 2002", "localNames": {"english": "Steven Gerrard's Total Soccer 2002", "dutch": "Total Soccer 2002", "french": "Marcel Desailly - Football Advance", "german": "Alexander Zickler Total Soccer 2002", "italian": "Total Soccer 2002", "spanish": "Total Soccer 2002"}},
 				{"searchTerm": "Total Soccer Advance"}
+			]
+		},
+		{
+			"group": "Total Soccer Manager",
+			"titles": [
+				{"searchTerm": "Total Soccer Manager", "localNames": {"english": "Alex Ferguson's Player Manager 2002", "dutch": "Total Soccer Manager", "french": "Guy Roux Manager 2002", "german": "Total Soccer Manager", "italian": "Total Soccer Manager", "spanish": "Total Soccer Manager"}}
+			]
+		},
+		{
+			"group": "Treasure Planet",
+			"titles": [
+				{
+					"searchTerm": "Treasure Planet",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["Europe"]},
+							"results": {"localNames": {"dutch": "Treasure Planet", "english": "Treasure Planet", "french": "Treasure Planet", "german": "Treasure Planet", "italian": "Treasure Planet", "spanish": "Treasure Planet"}}
+						}
+					]
+				}
 			]
 		},
 		{
@@ -2990,6 +3079,12 @@
 			"titles": [
 				{"searchTerm": "Kinnikuman II-Sei - Seigi Choujin e no Michi"},
 				{"searchTerm": "Ultimate Muscle - The Kinnikuman Legacy - The Path of the Superhero"}
+			]
+		},
+		{
+			"group": "Ultraman - Confrontation Between Justice and Evil",
+			"titles": [
+				{"searchTerm": "Ultraman - Confrontation Between Justice and Evil", "localNames": {"russian": "УЛЬТраман - Конфронтация между справедливостью и злом"}}
 			]
 		},
 		{
@@ -3097,6 +3192,7 @@
 		},
 		{
 			"group": "Xploder Advance",
+			"categories": ["Applications"],
 			"titles": [
 				{"searchTerm": "CodeBreaker"},
 				{"searchTerm": "X-Terminator Advance"},
@@ -3216,6 +3312,12 @@
 			"titles": [
 				{"searchTerm": "Z.O.E. 2173 - Testament"},
 				{"searchTerm": "Zone of the Enders - The Fist of Mars"}
+			]
+		},
+		{
+			"group": "Zook Man ZX4",
+			"titles": [
+				{"searchTerm": "Zook Man ZX4", "localNames": {"chinese (traditional)": "路克人ZX4"}}
 			]
 		},
 		{

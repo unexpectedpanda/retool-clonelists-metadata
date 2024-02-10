@@ -1,17 +1,9 @@
 {
 	"description": {
 		"name": "Sega - SG-1000 (No-Intro)",
-		"lastUpdated": "22 January 2023",
-		"minimumVersion": "2.00"
+		"lastUpdated": "26 December 2023",
+		"minimumVersion": "2.02"
 	},
-
-	"categories": [
-		{
-			"searchTerm": "SG-1000 M2 Test Cartridge",
-			"nameType": "short",
-			"categories": ["Applications"]
-		}
-	],
 
 	"variants": [
 		{
@@ -19,6 +11,13 @@
 			"titles": [
 				{"searchTerm": "Pitfall II - The Lost Caverns"},
 				{"searchTerm": "Pitfall II", "priority": 2}
+			]
+		},
+		{
+			"group": "SG-1000 M2 Test Cartridge",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "SG-1000 M2 Test Cartridge"}
 			]
 		},
 		{

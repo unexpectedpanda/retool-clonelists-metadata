@@ -28,7 +28,7 @@
 	},
 	"007 - Everything or Nothing (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "００７　エブリシング　オア　ナッシング"
+		"localName": "００７　エブリシング　オア　ナッシング"
 	},
 	"007 - Everything or Nothing (USA)": {
 		"languages": ["En"]
@@ -68,21 +68,21 @@
 	},
 	"1080 Avalanche (Korea)": {
 		"languages": ["En"],
-		"localizedName": "1080° 애벌랜츠"
+		"localName": "1080° 애벌랜츠"
 	},
 	"1080 Avalanche (USA)": {
 		"languages": ["En"]
 	},
 	"1080 Silver Storm (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "テン・エイティ　シルバーストーム"
+		"localName": "テン・エイティ　シルバーストーム"
 	},
 	"18 Wheeler - American Pro Trucker (Europe) (En,Fr,De,Es)": {
 		"languages": ["De", "En", "Es", "Fr"]
 	},
 	"18 Wheeler - American Pro Trucker (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "エイティーン・ホイーラー"
+		"localName": "エイティーン・ホイーラー"
 	},
 	"18 Wheeler - American Pro Trucker (USA)": {
 		"languages": ["En"]
@@ -128,15 +128,19 @@
 	},
 	"2002 FIFA World Cup (France)": {
 		"languages": ["Fr"],
-		"localizedName": "Coupe du Monde FIFA 2002"
+		"localName": "Coupe du Monde FIFA 2002"
 	},
 	"2002 FIFA World Cup (Germany)": {
 		"languages": ["De"],
-		"localizedName": "FIFA Fussball Weltmeisterschaft 2002"
+		"localName": "FIFA Fussball Weltmeisterschaft 2002"
 	},
 	"2002 FIFA World Cup (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "２００２　ＦＩＦＡ　ワールドカップ"
+		"localName": "２００２　ＦＩＦＡ　ワールドカップ"
+	},
+	"2002 FIFA World Cup (Japan) (Jitsuen-you Sample)": {
+		"languages": ["Ja"],
+		"localName": "２００２　ＦＩＦＡ　ワールドカップ"
 	},
 	"2002 FIFA World Cup (USA)": {
 		"languages": ["En"]
@@ -156,7 +160,7 @@
 	"Ace Golf (Europe) (En,Fr)": {
 		"languages": ["En", "Fr"]
 	},
-	"Action Replay Max (USA) (En,Fr,De,Es,It,Pt) (Unl)": {
+	"Action Replay Max (Europe) (En,Fr,De,Es,It,Pt) (Unl)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Pt"]
 	},
 	"Action Replay Ultimate Cheats for Use with Enter the Matrix (UK) (Unl)": {
@@ -222,13 +226,13 @@
 	"Action Replay for GameCube (USA) (Unl) (v1.20)": {
 		"languages": ["En"]
 	},
+	"Advance Game Port & Cheat Construction Kit (USA, Europe) (Unl)": {
+		"languages": ["En"]
+	},
 	"Advance Game Port (USA) (Unl)": {
 		"languages": ["En"]
 	},
 	"Advance Game Port (USA) (Unl) (Rev 1)": {
-		"languages": ["En"]
-	},
-	"Advance Game Port (USA, Europe) (Unl) (Rev 2)": {
 		"languages": ["En"]
 	},
 	"Aggressive Inline (Europe) (En,Fr,De,Es)": {
@@ -242,15 +246,15 @@
 	},
 	"Aging Disc DOL (Japan) (Rev 7)": {
 		"languages": ["En"],
-		"localizedName": "エージングディスク　ＤＯＬ"
+		"localName": "エージングディスク　ＤＯＬ"
 	},
 	"Aging Disc DOL-PAL (Japan) (Rev 7)": {
 		"languages": ["En"],
-		"localizedName": "エージングディスク　ＤＯＬ‐ＰＡＬ"
+		"localName": "エージングディスク　ＤＯＬ‐ＰＡＬ"
 	},
 	"Aging Disc DOL-USA (Japan) (Rev 7)": {
 		"languages": ["En"],
-		"localizedName": "エージングディスク　ＤＯＬ‐ＵＳＡ"
+		"localName": "エージングディスク　ＤＯＬ‐ＵＳＡ"
 	},
 	"Alien Hominid (USA)": {
 		"languages": ["En"]
@@ -260,7 +264,7 @@
 	},
 	"All-Star Baseball 2003 featuring Derek Jeter (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "オールスターベースボール２００３"
+		"localName": "オールスターベースボール２００３"
 	},
 	"All-Star Baseball 2003 featuring Derek Jeter (USA)": {
 		"languages": ["En"]
@@ -312,14 +316,14 @@
 	},
 	"Atsumare!! Made in Wario (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "あつまれ！！　ｍａｄｅ　ｉｎ　ｗａｒｉｏ"
+		"localName": "あつまれ！！　ｍａｄｅ　ｉｎ　ｗａｒｉｏ"
 	},
 	"Auto Modellista (USA)": {
 		"languages": ["En"]
 	},
 	"Auto Modellista - U.S.-tuned (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "アウトモデリスタ　Ｕ．Ｓ．－ｔｕｎｅｄ"
+		"localName": "アウトモデリスタ　Ｕ．Ｓ．－ｔｕｎｅｄ"
 	},
 	"BMX XXX (Europe) (En,Fr,De,Es)": {
 		"languages": ["De", "En", "Es", "Fr"]
@@ -344,7 +348,7 @@
 	},
 	"Bakuten Shoot Beyblade 2002 - Nettou! Magne Tag Battle! (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "爆転シュート　ベイブレード２００２　熱闘！マグネタッグバトル！"
+		"localName": "爆転シュート　ベイブレード２００２　熱闘！マグネタッグバトル！"
 	},
 	"Baldur's Gate - Dark Alliance (Europe) (Rev 1)": {
 		"languages": ["En"]
@@ -360,7 +364,7 @@
 	},
 	"Baseball 2003, The - Battle Ball Park Sengen Perfect Play Pro Yakyuu (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ＴＨＥ　ＢＡＳＥＢＡＬＬ　２００３　バトルボールパーク宣言　パーフェクトプレープロ野球"
+		"localName": "ＴＨＥ　ＢＡＳＥＢＡＬＬ　２００３　バトルボールパーク宣言　パーフェクトプレープロ野球"
 	},
 	"Baten Kaitos - Eternal Wings and the Lost Ocean (Europe) (En,Fr,De,Es,It) (Disc 1)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -376,31 +380,31 @@
 	},
 	"Baten Kaitos - Owaranai Tsubasa to Ushinawareta Umi (Japan) (Disc 1)": {
 		"languages": ["Ja"],
-		"localizedName": "バテン・カイトス　終わらない翼と失われた海"
+		"localName": "バテン・カイトス　終わらない翼と失われた海"
 	},
 	"Baten Kaitos - Owaranai Tsubasa to Ushinawareta Umi (Japan) (Disc 2)": {
 		"languages": ["Ja"],
-		"localizedName": "バテン・カイトス　終わらない翼と失われた海"
+		"localName": "バテン・カイトス　終わらない翼と失われた海"
 	},
 	"Baten Kaitos - Owaranai Tsubasa to Ushinawareta Umi (Japan) (Special Taiken Disc)": {
 		"languages": ["Ja"],
-		"localizedName": "バテン・カイトス　終わらない翼と失われた海"
+		"localName": "バテン・カイトス　終わらない翼と失われた海"
 	},
 	"Baten Kaitos II - Hajimari no Tsubasa to Kamigami no Shishi (Japan) (Disc 1) (Rev 1)": {
 		"languages": ["Ja"],
-		"localizedName": "バテン・カイトスⅡ　始まりの翼と神々の嗣子"
+		"localName": "バテン・カイトスⅡ　始まりの翼と神々の嗣子"
 	},
 	"Baten Kaitos II - Hajimari no Tsubasa to Kamigami no Shishi (Japan) (Disc 1) (Rev 2)": {
 		"languages": ["Ja"],
-		"localizedName": "バテン・カイトスⅡ　始まりの翼と神々の嗣子"
+		"localName": "バテン・カイトスⅡ　始まりの翼と神々の嗣子"
 	},
 	"Baten Kaitos II - Hajimari no Tsubasa to Kamigami no Shishi (Japan) (Disc 2) (Rev 1)": {
 		"languages": ["Ja"],
-		"localizedName": "バテン・カイトスⅡ　始まりの翼と神々の嗣子"
+		"localName": "バテン・カイトスⅡ　始まりの翼と神々の嗣子"
 	},
 	"Baten Kaitos II - Hajimari no Tsubasa to Kamigami no Shishi (Japan) (Disc 2) (Rev 2)": {
 		"languages": ["Ja"],
-		"localizedName": "バテン・カイトスⅡ　始まりの翼と神々の嗣子"
+		"localName": "バテン・カイトスⅡ　始まりの翼と神々の嗣子"
 	},
 	"Baten Kaitos Origins (USA) (Disc 1)": {
 		"languages": ["En"]
@@ -413,7 +417,7 @@
 	},
 	"Batman - Dark Tomorrow (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "バットマン　ダークトゥモロー"
+		"localName": "バットマン　ダークトゥモロー"
 	},
 	"Batman - Dark Tomorrow (USA) (Beta) (2002-08-25)": {
 		"languages": ["En"]
@@ -447,22 +451,22 @@
 	},
 	"Battle Houshin (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "バトル封神"
+		"localName": "バトル封神"
 	},
 	"Battle Stadium D.O.N (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "バトルスタジアムＤ．Ｏ．Ｎ"
+		"localName": "バトルスタジアムＤ．Ｏ．Ｎ"
 	},
 	"Beach Spikers - Virtua Beach Volleyball (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Beach Spikers - Virtua Beach Volleyball (Japan) (Rev 1)": {
 		"languages": ["Ja"],
-		"localizedName": "ビーチ　スパイカーズ"
+		"localName": "ビーチ　スパイカーズ"
 	},
 	"Beach Spikers - Virtua Beach Volleyball (Japan) (Taikenban)": {
 		"languages": ["Ja"],
-		"localizedName": "ビーチ　スパイカーズ"
+		"localName": "ビーチ　スパイカーズ"
 	},
 	"Beach Spikers - Virtua Beach Volleyball (USA)": {
 		"languages": ["En"]
@@ -508,59 +512,59 @@
 	},
 	"Biohazard (Japan) (Disc 1)": {
 		"languages": ["Ja"],
-		"localizedName": "バイオハザード"
+		"localName": "バイオハザード"
 	},
 	"Biohazard (Japan) (Disc 2)": {
 		"languages": ["Ja"],
-		"localizedName": "バイオハザード"
+		"localName": "バイオハザード"
 	},
 	"Biohazard (Japan) (Movie Demo Disc)": {
 		"languages": ["Ja"],
-		"localizedName": "バイオハザード"
+		"localName": "バイオハザード"
 	},
 	"Biohazard (Japan) (Tokubetsu-ban)": {
 		"languages": ["Ja"],
-		"localizedName": "バイオハザード"
+		"localName": "バイオハザード"
 	},
 	"Biohazard - Code - Veronica - Kanzenban (Japan) (Disc 1)": {
 		"languages": ["Ja"],
-		"localizedName": "バイオハザード　コード：ベロニカ　～完全版～"
+		"localName": "バイオハザード　コード：ベロニカ　～完全版～"
 	},
 	"Biohazard - Code - Veronica - Kanzenban (Japan) (Disc 2)": {
 		"languages": ["Ja"],
-		"localizedName": "バイオハザード　コード：ベロニカ　～完全版～"
+		"localName": "バイオハザード　コード：ベロニカ　～完全版～"
 	},
 	"Biohazard 2 (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "バイオハザード２"
+		"localName": "バイオハザード２"
 	},
 	"Biohazard 3 - Last Escape (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "バイオハザード３　ラストエスケープ"
+		"localName": "バイオハザード３　ラストエスケープ"
 	},
 	"Biohazard 4 (Japan) (Disc 1)": {
 		"languages": ["Ja"],
-		"localizedName": "バイオハザード４"
+		"localName": "バイオハザード４"
 	},
 	"Biohazard 4 (Japan) (Disc 2)": {
 		"languages": ["Ja"],
-		"localizedName": "バイオハザード４"
+		"localName": "バイオハザード４"
 	},
 	"Biohazard 4 (Japan) (En,Ja) (Taikenban)": {
 		"languages": ["En", "Ja"],
-		"localizedName": "バイオハザード４"
+		"localName": "バイオハザード４"
 	},
 	"Biohazard Zero (Japan) (Disc 1)": {
 		"languages": ["Ja"],
-		"localizedName": "バイオハザード０"
+		"localName": "バイオハザード０"
 	},
 	"Biohazard Zero (Japan) (Disc 2)": {
 		"languages": ["Ja"],
-		"localizedName": "バイオハザード０"
+		"localName": "バイオハザード０"
 	},
 	"Biohazard Zero - Trial Edition (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "バイオハザード０　－ＴＲＩＡＬ　ＥＤＩＴＩＯＮ－"
+		"localName": "バイオハザード０　－ＴＲＩＡＬ　ＥＤＩＴＩＯＮ－"
 	},
 	"Bionicle (Europe) (En,Fr,De,Es,It,Da)": {
 		"languages": ["Da", "De", "En", "Es", "Fr", "It"]
@@ -579,7 +583,7 @@
 	},
 	"Bleach GC - Tasogare ni Mamieru Shinigami (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ブリーチＧＣ　黄昏にまみえる死神"
+		"localName": "ブリーチＧＣ　黄昏にまみえる死神"
 	},
 	"Blood Omen 2 - The Legacy of Kain Series (Europe)": {
 		"languages": ["En"]
@@ -607,7 +611,7 @@
 	},
 	"Bloody Roar - Extreme (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ブラッディ　ロア　エクストリーム"
+		"localName": "ブラッディ　ロア　エクストリーム"
 	},
 	"Bloody Roar - Primal Fury (Europe)": {
 		"languages": ["En"]
@@ -623,38 +627,38 @@
 	},
 	"Boboboubo Boubobo - Dasshutsu!! Hajike Royale (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ボボボーボ・ボーボボ　脱出！！　ハジケ・ロワイアル"
+		"localName": "ボボボーボ・ボーボボ　脱出！！　ハジケ・ロワイアル"
 	},
 	"Bokujou Monogatari - Shiawase no Uta (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "牧場物語　しあわせの詩"
+		"localName": "牧場物語　しあわせの詩"
 	},
 	"Bokujou Monogatari - Shiawase no Uta (Japan) (Rev 1)": {
 		"languages": ["Ja"],
-		"localizedName": "牧場物語　しあわせの詩"
+		"localName": "牧場物語　しあわせの詩"
 	},
 	"Bokujou Monogatari - Shiawase no Uta for World (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "牧場物語　しあわせの詩　ｆｏｒ　ワールド"
+		"localName": "牧場物語　しあわせの詩　ｆｏｒ　ワールド"
 	},
 	"Bokujou Monogatari - Wonderful Life (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "牧場物語　ワンダフルライフ"
+		"localName": "牧場物語　ワンダフルライフ"
 	},
 	"Bokujou Monogatari - Wonderful Life (Japan) (Rev 1)": {
 		"languages": ["Ja"],
-		"localizedName": "牧場物語　ワンダフルライフ"
+		"localName": "牧場物語　ワンダフルライフ"
 	},
 	"Bokujou Monogatari - Wonderful Life for Girl (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "牧場物語　ワンダフルライフ　ｆｏｒ　ガール"
+		"localName": "牧場物語　ワンダフルライフ　ｆｏｒ　ガール"
 	},
 	"Bomberman Generation (Europe) (En,Fr,De)": {
 		"languages": ["De", "En", "Fr"]
 	},
 	"Bomberman Generation (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ボンバーマン　ジェネレーション"
+		"localName": "ボンバーマン　ジェネレーション"
 	},
 	"Bomberman Generation (USA)": {
 		"languages": ["En"]
@@ -664,17 +668,14 @@
 	},
 	"Bomberman Jetters (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ボンバーマン　ジェッターズ"
+		"localName": "ボンバーマン　ジェッターズ"
 	},
 	"Bomberman Jetters (USA)": {
 		"languages": ["En"]
 	},
 	"Bomberman Land 2 (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ボンバーマンランド２"
-	},
-	"Bonus Powersaves (USA) (Unl)": {
-		"languages": ["En"]
+		"localName": "ボンバーマンランド２"
 	},
 	"Bratz - Forever Diamondz (Europe) (En,Fr)": {
 		"languages": ["En", "Fr"]
@@ -750,7 +751,7 @@
 	},
 	"Call of Duty - Finest Hour (France)": {
 		"languages": ["Fr"],
-		"localizedName": "Call of Duty - Le Jour de Gloire"
+		"localName": "Call of Duty - Le Jour de Gloire"
 	},
 	"Call of Duty - Finest Hour (Germany)": {
 		"languages": ["De"]
@@ -778,11 +779,11 @@
 	},
 	"Capcom vs. SNK 2 EO (Japan) (Rev 1)": {
 		"languages": ["Ja"],
-		"localizedName": "カプコン　バーサス　エス・エヌ・ケイ　２　ＥＯ"
+		"localName": "カプコン　バーサス　エス・エヌ・ケイ　２　ＥＯ"
 	},
 	"Capcom vs. SNK 2 EO (Japan) (Tentou Taikenban)": {
 		"languages": ["Ja"],
-		"localizedName": "カプコン　バーサス　エス・エヌ・ケイ２　ＥＯ"
+		"localName": "カプコン　バーサス　エス・エヌ・ケイ２　ＥＯ"
 	},
 	"Capcom vs. SNK 2 EO (USA)": {
 		"languages": ["En"]
@@ -792,7 +793,7 @@
 	},
 	"Captain Tsubasa - Ougon Sedai no Chousen (Japan) (Rev 1)": {
 		"languages": ["Ja"],
-		"localizedName": "キャプテン翼　黄金世代の挑戦"
+		"localName": "キャプテン翼　黄金世代の挑戦"
 	},
 	"Carmen Sandiego - The Secret of the Stolen Drums (Europe) (De,Es)": {
 		"languages": ["De", "Es"]
@@ -829,11 +830,11 @@
 	},
 	"Chaos Field Expanded (Japan) (Rev 2)": {
 		"languages": ["Ja"],
-		"localizedName": "カオスフィールド　エクスパンデッド"
+		"localName": "カオスフィールド　エクスパンデッド"
 	},
 	"Charinko Hero (Japan) (Rev 1)": {
 		"languages": ["Ja"],
-		"localizedName": "チャリンコヒーロー"
+		"localName": "チャリンコヒーロー"
 	},
 	"Charlie and the Chocolate Factory (Europe) (En,Fr,Es,Nl)": {
 		"languages": ["En", "Es", "Fr", "Nl"]
@@ -852,14 +853,14 @@
 	},
 	"Chibi-Robo! (Japan) (Rev 1)": {
 		"languages": ["Ja"],
-		"localizedName": "ちびロボ！"
+		"localName": "ちびロボ！"
 	},
 	"Chibi-Robo! (USA)": {
 		"languages": ["En"]
 	},
 	"Choro Q! (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "チョロＱ！"
+		"localName": "チョロＱ！"
 	},
 	"Chronicles of Narnia, The - The Lion, the Witch and the Wardrobe (Europe)": {
 		"languages": ["En"]
@@ -875,7 +876,7 @@
 	},
 	"Club Nintendo Original e-Catalog 2004 (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "クラブニンテンドー　オリジナルｅカタログ　２００４"
+		"localName": "クラブニンテンドー　オリジナルｅカタログ　２００４"
 	},
 	"Cocoto Funfair (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -918,11 +919,11 @@
 	},
 	"Crash Bandicoot - Bakusou! Nitro Kart (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "クラッシュ・バンディクー　爆走！ニトロカート"
+		"localName": "クラッシュ・バンディクー　爆走！ニトロカート"
 	},
 	"Crash Bandicoot - Gatchanko World (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "クラッシュ・バンディクー　がっちゃんこワールド"
+		"localName": "クラッシュ・バンディクー　がっちゃんこワールド"
 	},
 	"Crash Bandicoot - The Wrath of Cortex (Europe) (En,Fr,De,Es,It,Nl)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
@@ -935,7 +936,7 @@
 	},
 	"Crash Bandicoot 4 - Sakuretsu! Majin Power (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "クラッシュ・バンディクー４　さくれつ！魔神パワー"
+		"localName": "クラッシュ・バンディクー４　さくれつ！魔神パワー"
 	},
 	"Crash Nitro Kart (Europe)": {
 		"languages": ["En"]
@@ -963,7 +964,7 @@
 	},
 	"Crazy Taxi (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "クレイジータクシー"
+		"localName": "クレイジータクシー"
 	},
 	"Crazy Taxi (USA)": {
 		"languages": ["En"]
@@ -973,7 +974,7 @@
 	},
 	"Croket! Ban-King no Kiki o Sukue (Japan) (Rev 1)": {
 		"languages": ["Ja"],
-		"localizedName": "コロッケ！　バン王の危機を救え"
+		"localName": "コロッケ！　バン王の危機を救え"
 	},
 	"Cube CD 01 (20) (Europe) (Unl)": {
 		"languages": ["En"]
@@ -1052,27 +1053,27 @@
 	},
 	"Custom Robo - Battle Revolution (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "カスタムロボ　バトルレボリューション"
+		"localName": "カスタムロボ　バトルレボリューション"
 	},
 	"Dabi Tsuku 3 - Derby-ba o Tsukurou! (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ダビつく３　ダービー馬をつくろう！"
+		"localName": "ダビつく３　ダービー馬をつくろう！"
 	},
 	"Dairantou Smash Brothers DX (Japan) (En,Ja)": {
 		"languages": ["En", "Ja"],
-		"localizedName": "大乱闘スマッシュブラザーズＤＸ"
+		"localName": "大乱闘スマッシュブラザーズＤＸ"
 	},
 	"Dairantou Smash Brothers DX (Japan) (En,Ja) (Rev 1)": {
 		"languages": ["En", "Ja"],
-		"localizedName": "大乱闘スマッシュブラザーズＤＸ"
+		"localName": "大乱闘スマッシュブラザーズＤＸ"
 	},
 	"Dairantou Smash Brothers DX (Japan) (En,Ja) (Rev 2)": {
 		"languages": ["En", "Ja"],
-		"localizedName": "大乱闘スマッシュブラザーズＤＸ"
+		"localName": "大乱闘スマッシュブラザーズＤＸ"
 	},
 	"Dairantou Smash Brothers DX (Japan) (Taikenban)": {
 		"languages": ["Ja"],
-		"localizedName": "大乱闘スマッシュブラザーズＤＸ"
+		"localName": "大乱闘スマッシュブラザーズＤＸ"
 	},
 	"Dakar 2 (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -1085,7 +1086,7 @@
 	},
 	"Dance Dance Revolution with Mario (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ダンスダンスレボリューション　ウィズ　マリオ"
+		"localName": "ダンスダンスレボリューション　ウィズ　マリオ"
 	},
 	"Dancing Stage Mario Mix (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -1134,7 +1135,7 @@
 	},
 	"Densetsu no Quiz-ou Kettei-sen (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "伝説のクイズ王決定戦"
+		"localName": "伝説のクイズ王決定戦"
 	},
 	"Desastreuses Aventures des Orphelins Baudelaire, Les - D'Apres Lemony Snicket (France)": {
 		"languages": ["Fr"]
@@ -1153,7 +1154,7 @@
 	},
 	"Digimon Battle Chronicle (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "デジモンバトルクロニクル"
+		"localName": "デジモンバトルクロニクル"
 	},
 	"Digimon Rumble Arena 2 (Europe) (En,Fr,De,Es)": {
 		"languages": ["De", "En", "Es", "Fr"]
@@ -1166,7 +1167,7 @@
 	},
 	"Digimon World X (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "デジモン　ワールド　Ｘ"
+		"localName": "デジモン　ワールド　Ｘ"
 	},
 	"Dinotopia - The Sunstone Odyssey (USA)": {
 		"languages": ["En"]
@@ -1179,14 +1180,14 @@
 	},
 	"Disney Sports - American Football (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ディズニー　スポーツ　－　アメリカン　フットボール"
+		"localName": "ディズニー　スポーツ　－　アメリカン　フットボール"
 	},
 	"Disney Sports - Basketball (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Disney Sports - Basketball (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ディズニー　スポーツ　－　バスケットボール"
+		"localName": "ディズニー　スポーツ　－　バスケットボール"
 	},
 	"Disney Sports - Basketball (USA)": {
 		"languages": ["En"]
@@ -1202,14 +1203,14 @@
 	},
 	"Disney Sports - Skateboarding (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ディズニースポーツ：スケートボーディング"
+		"localName": "ディズニースポーツ：スケートボーディング"
 	},
 	"Disney Sports - Skateboarding (USA)": {
 		"languages": ["En"]
 	},
 	"Disney Sports - Soccer (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ディズニースポーツ：サッカー"
+		"localName": "ディズニースポーツ：サッカー"
 	},
 	"Disney Sports - Soccer (USA)": {
 		"languages": ["En"]
@@ -1219,7 +1220,7 @@
 	},
 	"Disney's Chicken Little (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "チキン·リトル"
+		"localName": "チキン·リトル"
 	},
 	"Disney's Chicken Little (USA)": {
 		"languages": ["En"]
@@ -1259,19 +1260,19 @@
 	},
 	"Disney's Magical Park (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ディズニーのマジカルパーク"
+		"localName": "ディズニーのマジカルパーク"
 	},
 	"Disney's Magical Park (Japan) (Jitsuen-you Sample)": {
 		"languages": ["Ja"],
-		"localizedName": "ディズニーのマジカルパーク"
+		"localName": "ディズニーのマジカルパーク"
 	},
 	"Disney's Mickey Mouse no Fushigi na Kagami (Japan) (Rev 1)": {
 		"languages": ["Ja"],
-		"localizedName": "ディズニーのミッキーマウスの不思議な鏡"
+		"localName": "ディズニーのミッキーマウスの不思議な鏡"
 	},
 	"Disney's Mickey to Minnie Trick & Chase (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ディズニーのミッキー＆ミニー　トリック＆チェイス"
+		"localName": "ディズニーのミッキー＆ミニー　トリック＆チェイス"
 	},
 	"Disney's PK - Out of the Shadows (USA) (En,Fr,De,It)": {
 		"languages": ["De", "En", "Fr", "It"]
@@ -1311,14 +1312,14 @@
 	},
 	"Disney-Pixar Cars (France)": {
 		"languages": ["Fr"],
-		"localizedName": "Disney-Pixar Cars Quatre Roues"
+		"localName": "Disney-Pixar Cars Quatre Roues"
 	},
 	"Disney-Pixar Cars (Germany)": {
 		"languages": ["De"]
 	},
 	"Disney-Pixar Cars (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "カーズ"
+		"localName": "カーズ"
 	},
 	"Disney-Pixar Cars (Netherlands)": {
 		"languages": ["Nl"]
@@ -1340,7 +1341,7 @@
 	},
 	"Disney-Pixar Finding Nemo (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ファインディング・ニモ"
+		"localName": "ファインディング・ニモ"
 	},
 	"Disney-Pixar Finding Nemo (USA)": {
 		"languages": ["En"]
@@ -1362,15 +1363,15 @@
 	},
 	"Disney-Pixar Mr. Incredible (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "Ｍｒ．インクレディブル"
+		"localName": "Ｍｒ．インクレディブル"
 	},
 	"Disney-Pixar Mr. Incredible - Kyouteki Underminer Toujou (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "Ｍｒ．　インクレディブル　強敵アンダーマイナー登場"
+		"localName": "Ｍｒ．　インクレディブル　強敵アンダーマイナー登場"
 	},
 	"Disney-Pixar Nemo-reul Chajaseo (Korea)": {
 		"languages": ["Ko"],
-		"localizedName": "니모를 찾아서"
+		"localName": "니모를 찾아서"
 	},
 	"Disney-Pixar Ratatouille (France)": {
 		"languages": ["Fr"]
@@ -1404,14 +1405,14 @@
 	},
 	"Dokapon DX - Wataru Sekai wa Oni Darake (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ドカポンＤＸ　わたる世界はオニだらけ"
+		"localName": "ドカポンＤＸ　わたる世界はオニだらけ"
 	},
 	"Donkey Kong Jungle Beat (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Donkey Kong Jungle Beat (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ドンキーコング　ジャングルビート"
+		"localName": "ドンキーコング　ジャングルビート"
 	},
 	"Donkey Kong Jungle Beat (USA)": {
 		"languages": ["En"]
@@ -1421,7 +1422,7 @@
 	},
 	"Donkey Konga (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ドンキーコンガ"
+		"localName": "ドンキーコンガ"
 	},
 	"Donkey Konga (USA)": {
 		"languages": ["En"]
@@ -1434,45 +1435,45 @@
 	},
 	"Donkey Konga 2 - Hit Song Parade (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ドンキーコンガ２　ヒットソングパレード"
+		"localName": "ドンキーコンガ２　ヒットソングパレード"
 	},
 	"Donkey Konga 3 - Tabehoudai! Haru Mogitate 50-kyoku (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ドンキーコンガ３　食べ放題！春もぎたて５０曲"
+		"localName": "ドンキーコンガ３　食べ放題！春もぎたて５０曲"
 	},
 	"Doraemon - Minna de Asobou! Miniland (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ドラえもん　みんなで遊ぼう！ミニドランド"
+		"localName": "ドラえもん　みんなで遊ぼう！ミニドランド"
 	},
 	"Doshin the Giant (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Doubutsu Banchou (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "動物番長　（ドーブッ　バンチョー）"
+		"localName": "動物番長　（ドーブツ　バンチョー）"
 	},
 	"Doubutsu no Mori + (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "どうぶつの森＋"
+		"localName": "どうぶつの森＋"
 	},
 	"Doubutsu no Mori + (Japan) (Rev 1)": {
 		"languages": ["Ja"],
-		"localizedName": "どうぶつの森＋"
+		"localName": "どうぶつの森＋"
 	},
 	"Doubutsu no Mori e+ (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "どうぶつの森ｅ＋"
+		"localName": "どうぶつの森ｅ＋"
 	},
 	"Doubutsu no Mori e+ (Japan) (Rev 1)": {
 		"languages": ["Ja"],
-		"localizedName": "どうぶつの森ｅ＋"
+		"localName": "どうぶつの森ｅ＋"
 	},
 	"Dr. Muto (USA)": {
 		"languages": ["En"]
 	},
 	"Dragon Ball Z (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ドラゴンボールＺ"
+		"localName": "ドラゴンボールＺ"
 	},
 	"Dragon Ball Z - Budokai (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -1491,11 +1492,11 @@
 	},
 	"Dragon Drive - D-Masters Shot (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ドラゴンドライブ　ディマスターズショット"
+		"localName": "ドラゴンドライブ　ディマスターズショット"
 	},
 	"Dragon Drive - D-Masters Shot (Japan) (Anime Disc)": {
 		"languages": ["Ja"],
-		"localizedName": "ドラゴンドライブ　ディマスターズショット"
+		"localName": "ドラゴンドライブ　ディマスターズショット"
 	},
 	"Dragon's Lair 3D - Return to the Lair (USA)": {
 		"languages": ["En"]
@@ -1505,7 +1506,7 @@
 	},
 	"Dream Mix TV - World Fighters (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ドリームミックスＴＶ　ワールドファイターズ"
+		"localName": "ドリームミックスＴＶ　ワールドファイターズ"
 	},
 	"DreamWorks & Aardman Flushed Away (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -1530,7 +1531,7 @@
 	},
 	"DreamWorks Madagascar (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "マダガスカル"
+		"localName": "マダガスカル"
 	},
 	"DreamWorks Madagascar (Netherlands)": {
 		"languages": ["Nl"]
@@ -1561,7 +1562,7 @@
 	},
 	"DreamWorks Shark Tale (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ＤｒｅａｍＷｏｒｋｓ　シャーク・テイル"
+		"localName": "ＤｒｅａｍＷｏｒｋｓ　シャーク・テイル"
 	},
 	"DreamWorks Shark Tale (USA)": {
 		"languages": ["En"]
@@ -1601,7 +1602,7 @@
 	},
 	"Duel Masters - Nettou! Battle Arena (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "デュエル・マスターズ　熱闘！　バトルアリーナ"
+		"localName": "デュエル・マスターズ　熱闘！　バトルアリーナ"
 	},
 	"ESPN International Winter Sports (Europe) (En,Fr,De,It)": {
 		"languages": ["De", "En", "Fr", "It"]
@@ -1623,14 +1624,14 @@
 	},
 	"Egg Mania - Tsukande! Mawashite! Dossun Puzzle!! (Japan) (Rev 1)": {
 		"languages": ["Ja"],
-		"localizedName": "エッグマニア　つかんで！まわして！どっすんぱず～る！！"
+		"localName": "エッグマニア　つかんで！まわして！どっすんぱず～る！！"
 	},
 	"Eggo Mania (Europe) (En,Fr,De)": {
 		"languages": ["De", "En", "Fr"]
 	},
 	"Eisei Meijin VI (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "永世名人ＶＩ"
+		"localName": "永世名人ＶＩ"
 	},
 	"Enter the Matrix (Europe) (En,Fr,De,Es,It) (Disc 1)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -1640,19 +1641,19 @@
 	},
 	"Enter the Matrix (Japan) (Disc 1)": {
 		"languages": ["Ja"],
-		"localizedName": "エンター　ザ　マトリックス"
+		"localName": "エンター　ザ　マトリックス"
 	},
 	"Enter the Matrix (Japan) (Disc 2)": {
 		"languages": ["Ja"],
-		"localizedName": "エンター　ザ　マトリックス"
+		"localName": "エンター　ザ　マトリックス"
 	},
 	"Enter the Matrix (Korea) (Disc 1)": {
 		"languages": ["En"],
-		"localizedName": "엔터　더　매트릭스"
+		"localName": "엔터　더　매트릭스"
 	},
 	"Enter the Matrix (Korea) (Disc 2)": {
 		"languages": ["En"],
-		"localizedName": "엔터　더　매트릭스"
+		"localName": "엔터　더　매트릭스"
 	},
 	"Enter the Matrix (USA) (Disc 1)": {
 		"languages": ["En"]
@@ -1662,18 +1663,18 @@
 	},
 	"Eternal Arcadia Legends (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "エターナル　アルカディア　レジェンド"
+		"localName": "エターナル　アルカディア　レジェンド"
 	},
 	"Eternal Darkness - Manekareta 13-nin (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "エターナルダークネス　－招かれた１３人－"
+		"localName": "エターナルダークネス　－招かれた１３人－"
 	},
 	"Eternal Darkness - Sanity's Requiem (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Eternal Darkness - Sanity's Requiem (Korea)": {
 		"languages": ["En"],
-		"localizedName": "이터널　다크니스"
+		"localName": "이터널　다크니스"
 	},
 	"Eternal Darkness - Sanity's Requiem (USA)": {
 		"languages": ["En"]
@@ -1683,7 +1684,7 @@
 	},
 	"Evolution Skateboarding (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "エボリューション　スケートボーディング"
+		"localName": "エボリューション　スケートボーディング"
 	},
 	"Evolution Skateboarding (USA)": {
 		"languages": ["En"]
@@ -1705,11 +1706,11 @@
 	},
 	"F-Zero GX (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "エフゼロ　ＧＸ"
+		"localName": "エフゼロ　ＧＸ"
 	},
 	"F-Zero GX (Korea)": {
 		"languages": ["En"],
-		"localizedName": "에프제로 GX"
+		"localName": "에프제로 GX"
 	},
 	"F-Zero GX (USA)": {
 		"languages": ["En"]
@@ -1752,11 +1753,11 @@
 	},
 	"FIFA 2002 - Road to FIFA World Cup (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ＦＩＦＡ　２００２　－　ロード　トゥ　ＦＩＦＡ　ワールドカップ"
+		"localName": "ＦＩＦＡ　２００２　－　ロード　トゥ　ＦＩＦＡ　ワールドカップ"
 	},
 	"FIFA 2003 (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ＦＩＦＡ　２００３　ヨーロッパサッカー"
+		"localName": "ＦＩＦＡ　２００３　ヨーロッパサッカー"
 	},
 	"FIFA Football 2003 (Europe)": {
 		"languages": ["En"]
@@ -1850,7 +1851,10 @@
 	},
 	"FIFA World Cup Germany 2006 (France)": {
 		"languages": ["Fr"],
-		"localizedName": "Coupe du Monde de la FIFA 2006"
+		"localName": "Coupe du Monde de la FIFA 2006"
+	},
+	"FIFA World Cup Germany 2006 (Latin America)": {
+		"languages": ["Es"]
 	},
 	"FIFA World Cup Germany 2006 (USA)": {
 		"languages": ["En"]
@@ -1863,7 +1867,7 @@
 	},
 	"Family Stadium 2003 (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ファミリースタジアム　２００３"
+		"localName": "ファミリースタジアム　２００３"
 	},
 	"Fantastic 4 (Europe)": {
 		"languages": ["En"]
@@ -1876,7 +1880,7 @@
 	},
 	"Fantastic 4 (Spain)": {
 		"languages": ["Es"],
-		"localizedName": "Los 4 Fantásticos"
+		"localName": "Los 4 Fantásticos"
 	},
 	"Fantastic 4 (USA)": {
 		"languages": ["En"]
@@ -1889,7 +1893,7 @@
 	},
 	"Fight Night Round 2 (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ファイトナイトラウンド２"
+		"localName": "ファイトナイトラウンド２"
 	},
 	"Fight Night Round 2 (USA)": {
 		"languages": ["En"]
@@ -1899,7 +1903,7 @@
 	},
 	"Final Fantasy Crystal Chronicles (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ファイナルファンタジー・クリスタルクロニクル"
+		"localName": "ファイナルファンタジー・クリスタルクロニクル"
 	},
 	"Final Fantasy Crystal Chronicles (USA)": {
 		"languages": ["En"]
@@ -1912,7 +1916,7 @@
 	},
 	"Fire Emblem - Souen no Kiseki (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ファイアーエムブレム　蒼炎の軌跡"
+		"localName": "ファイアーエムブレム　蒼炎の軌跡"
 	},
 	"FireBlade (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -1929,13 +1933,16 @@
 	"Freaky Flyers (USA) (Disc 2)": {
 		"languages": ["En"]
 	},
-	"FreeLoader for GameCube (Australia) (Unl) (v1.04)": {
-		"languages": ["En"]
-	},
 	"FreeLoader for GameCube (Europe) (Unl) (GameCube + Wii)": {
 		"languages": ["En"]
 	},
-	"FreeLoader for GameCube (Europe) (Unl) (v1.06)": {
+	"FreeLoader for GameCube (Europe) (Unl) (v1.04)": {
+		"languages": ["En"]
+	},
+	"FreeLoader for GameCube (Europe) (Unl) (v1.06B)": {
+		"languages": ["En"]
+	},
+	"FreeLoader for GameCube (USA, Europe) (Unl) (v1.06b)": {
 		"languages": ["En"]
 	},
 	"Freedom Fighters (Europe)": {
@@ -1964,7 +1971,7 @@
 	},
 	"Frogger (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "フロッガー"
+		"localName": "フロッガー"
 	},
 	"Frogger - Ancient Shadow (USA) (En,Es)": {
 		"languages": ["En", "Es"]
@@ -1980,11 +1987,11 @@
 	},
 	"From TV Animation One Piece - Treasure Battle! (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "Ｆｒｏｍ　ＴＶ　Ａｎｉｍａｔｉｏｎ　Ｏｎｅ　Ｐｉｅｃｅ　トレジャーバトル！"
+		"localName": "Ｆｒｏｍ　ＴＶ　Ａｎｉｍａｔｉｏｎ　Ｏｎｅ　Ｐｉｅｃｅ　トレジャーバトル！"
 	},
 	"Future GPX Cyber Formula - Road to the Evolution (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "新世紀ＧＰＸサイバーフォーミュラ　ロード　トゥ　ザ　エボリューション"
+		"localName": "新世紀ＧＰＸサイバーフォーミュラ　ロード　トゥ　ザ　エボリューション"
 	},
 	"Future Tactics - The Uprising (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -1994,25 +2001,25 @@
 	},
 	"GT Cube (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ジーティーキューブ"
+		"localName": "ジーティーキューブ"
 	},
 	"GT Cube (Japan) (Rev 1)": {
 		"languages": ["Ja"],
-		"localizedName": "ジーティーキューブ"
+		"localName": "ジーティーキューブ"
 	},
 	"Gadget Racers (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Gakuen Toshi Vara Noir Roses (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "学園都市ヴァラノワール　ローゼス"
+		"localName": "学園都市ヴァラノワール　ローゼス"
 	},
 	"Galleon (USA) (Proto)": {
 		"languages": []
 	},
 	"Game Boy Player (Korea) (Rev 1)": {
 		"languages": ["En"],
-		"localizedName": "게임보이 플레이어"
+		"localName": "게임보이 플레이어"
 	},
 	"Game Boy Player Start-Up Disc (Europe) (En,Fr,De,Es,It) (Rev 1)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -2022,15 +2029,15 @@
 	},
 	"Game Boy Player Start-Up Disc (Japan) (Rev 1)": {
 		"languages": ["Ja"],
-		"localizedName": "ゲームボーイプレーヤー　スタートアップディスク"
+		"localName": "ゲームボーイプレーヤー　スタートアップディスク"
 	},
 	"Game Boy Player Start-Up Disc (Japan) (Rev 2)": {
 		"languages": ["Ja"],
-		"localizedName": "ゲームボーイプレーヤー　スタートアップディスク"
+		"localName": "ゲームボーイプレーヤー　スタートアップディスク"
 	},
 	"Game Boy Player Start-Up Disc (Japan) (Rev 3)": {
 		"languages": ["Ja"],
-		"localizedName": "ゲームボーイプレーヤー　スタートアップディスク"
+		"localName": "ゲームボーイプレーヤー　スタートアップディスク"
 	},
 	"Game Boy Player Start-Up Disc (USA) (Rev 2)": {
 		"languages": ["En"]
@@ -2040,7 +2047,7 @@
 	},
 	"Game Taikai Yuushou Kinen - Tokusei SmaBro DX Movie Disc (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ゲーム大会優勝記念：特製スマブラＤＸムービーディスク"
+		"localName": "ゲーム大会優勝記念：特製スマブラＤＸムービーディスク"
 	},
 	"Gauntlet - Dark Legacy (Europe) (En,Fr,De)": {
 		"languages": ["De", "En", "Fr"]
@@ -2059,251 +2066,251 @@
 	},
 	"Gekitou Pro Yakyuu - Mizushima Shinji All Stars vs. Pro Yakyuu (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "激闘プロ野球　水島新司オールスターズ　ＶＳ　プロ野球"
+		"localName": "激闘プロ野球　水島新司オールスターズ　ＶＳ　プロ野球"
 	},
 	"Gekkan Nintendo Tentou Demo 2002.10.1 (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "月刊任天堂店頭デモ　１０月号"
+		"localName": "月刊任天堂店頭デモ　１０月号"
 	},
 	"Gekkan Nintendo Tentou Demo 2002.11.1 (Japan) (Disc A)": {
 		"languages": ["Ja"],
-		"localizedName": "月刊任天堂店頭デモ　１１月号"
+		"localName": "月刊任天堂店頭デモ　１１月号"
 	},
 	"Gekkan Nintendo Tentou Demo 2002.11.1 (Japan) (Disc B)": {
 		"languages": ["Ja"],
-		"localizedName": "月刊任天堂店頭デモ　１１月号"
+		"localName": "月刊任天堂店頭デモ　１１月号"
 	},
 	"Gekkan Nintendo Tentou Demo 2002.12.1 (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "月刊任天堂店頭デモ　１２月号"
+		"localName": "月刊任天堂店頭デモ　１２月号"
 	},
 	"Gekkan Nintendo Tentou Demo 2002.5.1 (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "月刊任天堂店頭デモ　５月号"
+		"localName": "月刊任天堂店頭デモ　５月号"
 	},
 	"Gekkan Nintendo Tentou Demo 2002.6.1 (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "月刊任天堂店頭デモ　６月号"
+		"localName": "月刊任天堂店頭デモ　６月号"
 	},
 	"Gekkan Nintendo Tentou Demo 2002.7.1 (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "月刊任天堂店頭デモ　７月号"
+		"localName": "月刊任天堂店頭デモ　７月号"
 	},
 	"Gekkan Nintendo Tentou Demo 2002.7.10 (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "月刊任天堂店頭デモ　７月増刊号"
+		"localName": "月刊任天堂店頭デモ　７月増刊号"
 	},
 	"Gekkan Nintendo Tentou Demo 2002.9.1 (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "月刊任天堂店頭デモ　９月号"
+		"localName": "月刊任天堂店頭デモ　９月号"
 	},
 	"Gekkan Nintendo Tentou Demo 2003.1.1 (Japan) (Disc A)": {
 		"languages": ["Ja"],
-		"localizedName": "月刊任天堂店頭デモ　１月号"
+		"localName": "月刊任天堂店頭デモ　１月号"
 	},
 	"Gekkan Nintendo Tentou Demo 2003.1.1 (Japan) (Disc B)": {
 		"languages": ["Ja"],
-		"localizedName": "月刊任天堂店頭デモ　１月号"
+		"localName": "月刊任天堂店頭デモ　１月号"
 	},
 	"Gekkan Nintendo Tentou Demo 2003.10.1 (Japan) (Rev 1)": {
 		"languages": ["Ja"],
-		"localizedName": "月刊任天堂店頭デモ　１０月号"
+		"localName": "月刊任天堂店頭デモ　１０月号"
 	},
 	"Gekkan Nintendo Tentou Demo 2003.11.1 (Japan) (Disc A)": {
 		"languages": ["Ja"],
-		"localizedName": "月刊任天堂店頭デモ　１１月号"
+		"localName": "月刊任天堂店頭デモ　１１月号"
 	},
 	"Gekkan Nintendo Tentou Demo 2003.11.1 (Japan) (Disc B)": {
 		"languages": ["Ja"],
-		"localizedName": "月刊任天堂店頭デモ　１１月号"
+		"localName": "月刊任天堂店頭デモ　１１月号"
 	},
 	"Gekkan Nintendo Tentou Demo 2003.12.1 (Japan) (Disc A)": {
 		"languages": ["Ja"],
-		"localizedName": "月刊任天堂店頭デモ　１２月号"
+		"localName": "月刊任天堂店頭デモ　１２月号"
 	},
 	"Gekkan Nintendo Tentou Demo 2003.12.1 (Japan) (Disc B)": {
 		"languages": ["Ja"],
-		"localizedName": "月刊任天堂店頭デモ　１２月号"
+		"localName": "月刊任天堂店頭デモ　１２月号"
 	},
 	"Gekkan Nintendo Tentou Demo 2003.2.1 (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "月刊任天堂店頭デモ　２月号"
+		"localName": "月刊任天堂店頭デモ　２月号"
 	},
 	"Gekkan Nintendo Tentou Demo 2003.3.1 (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "月刊任天堂店頭デモ　３月号"
+		"localName": "月刊任天堂店頭デモ　３月号"
 	},
 	"Gekkan Nintendo Tentou Demo 2003.4.1 (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "月刊任天堂店頭デモ　４月号"
+		"localName": "月刊任天堂店頭デモ　４月号"
 	},
 	"Gekkan Nintendo Tentou Demo 2003.5.1 (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "月刊任天堂店頭デモ　５月号"
+		"localName": "月刊任天堂店頭デモ　５月号"
 	},
 	"Gekkan Nintendo Tentou Demo 2003.6.1 (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "月刊任天堂店頭デモ　６月号"
+		"localName": "月刊任天堂店頭デモ　６月号"
 	},
 	"Gekkan Nintendo Tentou Demo 2003.7.1 (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "月刊任天堂店頭デモ　７月号"
+		"localName": "月刊任天堂店頭デモ　７月号"
 	},
 	"Gekkan Nintendo Tentou Demo 2003.8.1 (Japan) (Disc A)": {
 		"languages": ["Ja"],
-		"localizedName": "月刊任天堂店頭デモ　８月号"
+		"localName": "月刊任天堂店頭デモ　８月号"
 	},
 	"Gekkan Nintendo Tentou Demo 2003.8.1 (Japan) (Disc B)": {
 		"languages": ["Ja"],
-		"localizedName": "月刊任天堂店頭デモ　８月号"
+		"localName": "月刊任天堂店頭デモ　８月号"
 	},
 	"Gekkan Nintendo Tentou Demo 2003.9.1 (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "月刊任天堂店頭デモ　９月号"
+		"localName": "月刊任天堂店頭デモ　９月号"
 	},
 	"Gekkan Nintendo Tentou Demo 2004-2005 Nenmatsunenshi-gou (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "月刊任天堂店頭デモ　２００４‐２００５年末年始号"
+		"localName": "月刊任天堂店頭デモ　２００４‐２００５年末年始号"
 	},
 	"Gekkan Nintendo Tentou Demo 2004.1.1 (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "月刊任天堂店頭デモ　１月号"
+		"localName": "月刊任天堂店頭デモ　１月号"
 	},
 	"Gekkan Nintendo Tentou Demo 2004.10.1 (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "月刊任天堂店頭デモ　１０月号"
+		"localName": "月刊任天堂店頭デモ　１０月号"
 	},
 	"Gekkan Nintendo Tentou Demo 2004.11.1 (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "月刊任天堂店頭デモ　１１月号"
+		"localName": "月刊任天堂店頭デモ　１１月号"
 	},
 	"Gekkan Nintendo Tentou Demo 2004.12.1 (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "月刊任天堂店頭デモ　１２月号"
+		"localName": "月刊任天堂店頭デモ　１２月号"
 	},
 	"Gekkan Nintendo Tentou Demo 2004.2.1 (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "月刊任天堂店頭デモ　２月号"
+		"localName": "月刊任天堂店頭デモ　２月号"
 	},
 	"Gekkan Nintendo Tentou Demo 2004.3.1 (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "月刊任天堂店頭デモ　３月号"
+		"localName": "月刊任天堂店頭デモ　３月号"
 	},
 	"Gekkan Nintendo Tentou Demo 2004.4.1 (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "月刊任天堂店頭デモ　４月号"
+		"localName": "月刊任天堂店頭デモ　４月号"
 	},
 	"Gekkan Nintendo Tentou Demo 2004.5.1 (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "月刊任天堂店頭デモ　５月号"
+		"localName": "月刊任天堂店頭デモ　５月号"
 	},
 	"Gekkan Nintendo Tentou Demo 2004.6.1 (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "月刊任天堂店頭デモ　６月号"
+		"localName": "月刊任天堂店頭デモ　６月号"
 	},
 	"Gekkan Nintendo Tentou Demo 2004.7.1 (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "月刊任天堂店頭デモ　７月号"
+		"localName": "月刊任天堂店頭デモ　７月号"
 	},
 	"Gekkan Nintendo Tentou Demo 2004.8.1 (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "月刊任天堂店頭デモ　８月号"
+		"localName": "月刊任天堂店頭デモ　８月号"
 	},
 	"Gekkan Nintendo Tentou Demo 2004.9.1 (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "月刊任天堂店頭デモ　９月号"
+		"localName": "月刊任天堂店頭デモ　９月号"
 	},
 	"Gekkan Nintendo Tentou Demo 2005.1.1 (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "月刊任天堂店頭デモ　１月号"
+		"localName": "月刊任天堂店頭デモ　１月号"
 	},
 	"Gekkan Nintendo Tentou Demo 2005.10.1 (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "月刊任天堂店頭デモ　１０月号"
+		"localName": "月刊任天堂店頭デモ　１０月号"
 	},
 	"Gekkan Nintendo Tentou Demo 2005.11.1 (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "月刊任天堂店頭デモ　１１月号"
+		"localName": "月刊任天堂店頭デモ　１１月号"
 	},
 	"Gekkan Nintendo Tentou Demo 2005.11.1 (Japan) (Rev 1)": {
 		"languages": ["Ja"],
-		"localizedName": "月刊任天堂店頭デモ　１１月号"
+		"localName": "月刊任天堂店頭デモ　１１月号"
 	},
 	"Gekkan Nintendo Tentou Demo 2005.12.1 (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "月刊任天堂店頭デモ　１２月号"
+		"localName": "月刊任天堂店頭デモ　１２月号"
 	},
 	"Gekkan Nintendo Tentou Demo 2005.2.1 (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "月刊任天堂店頭デモ　２月号"
+		"localName": "月刊任天堂店頭デモ　２月号"
 	},
 	"Gekkan Nintendo Tentou Demo 2005.3.1 (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "月刊任天堂店頭デモ　３月号"
+		"localName": "月刊任天堂店頭デモ　３月号"
 	},
 	"Gekkan Nintendo Tentou Demo 2005.4.1 (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "月刊任天堂店頭デモ　４月号"
+		"localName": "月刊任天堂店頭デモ　４月号"
 	},
 	"Gekkan Nintendo Tentou Demo 2005.5.1 (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "月刊任天堂店頭デモ　５月号"
+		"localName": "月刊任天堂店頭デモ　５月号"
 	},
 	"Gekkan Nintendo Tentou Demo 2005.6.1 (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "月刊任天堂店頭デモ　６月号"
+		"localName": "月刊任天堂店頭デモ　６月号"
 	},
 	"Gekkan Nintendo Tentou Demo 2005.7.1 (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "月刊任天堂店頭デモ　７月号"
+		"localName": "月刊任天堂店頭デモ　７月号"
 	},
 	"Gekkan Nintendo Tentou Demo 2005.8.1 (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "月刊任天堂店頭デモ　８月号"
+		"localName": "月刊任天堂店頭デモ　８月号"
 	},
 	"Gekkan Nintendo Tentou Demo 2005.9.1 (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "月刊任天堂店頭デモ　２００５　９月号"
+		"localName": "月刊任天堂店頭デモ　２００５　９月号"
 	},
 	"Gekkan Nintendo Tentou Demo 2006.1.1 (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "月刊任天堂店頭デモ　１月号"
+		"localName": "月刊任天堂店頭デモ　１月号"
 	},
 	"Gekkan Nintendo Tentou Demo 2006.2.1 (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "月刊任天堂店頭デモ　２月号"
+		"localName": "月刊任天堂店頭デモ　２月号"
 	},
 	"Gekkan Nintendo Tentou Demo 2006.4.1 (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "月刊任天堂店頭デモ　４月号"
+		"localName": "月刊任天堂店頭デモ　４月号"
 	},
 	"Gekkan Nintendo Tentou Demo 2006.6.1 (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "月刊任天堂店頭デモ　６月号"
+		"localName": "月刊任天堂店頭デモ　６月号"
 	},
 	"Gekkan Nintendo Tentou Demo 2006.7.1 (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "月刊任天堂店頭デモ　７月号"
+		"localName": "月刊任天堂店頭デモ　７月号"
 	},
 	"Gekkan Nintendo Tentou Demo 2006.8.1 (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "月刊任天堂店頭デモ　８月号"
+		"localName": "月刊任天堂店頭デモ　８月号"
 	},
 	"Gekkan Nintendo Tentou Demo 2006.9.1 (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "月刊任天堂店頭デモ　９月号"
+		"localName": "月刊任天堂店頭デモ　９月号"
 	},
 	"Generation of Chaos Exceed - Yami no Koujo Roze (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ジェネレーション　オブ　カオス　イクシード　～闇の皇女ロゼ～"
+		"localName": "ジェネレーション　オブ　カオス　イクシード　～闇の皇女ロゼ～"
 	},
 	"Giant Egg - Billy Hatcher no Daibouken (Japan) (Rev 1)": {
 		"languages": ["Ja"],
-		"localizedName": "ジャイアントエッグ　ビリー・ハッチャーの大冒険"
+		"localName": "ジャイアントエッグ　ビリー・ハッチャーの大冒険"
 	},
 	"Giftpia (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ギフトピア"
+		"localName": "ギフトピア"
 	},
 	"Gladius (Europe) (En,Es,It)": {
 		"languages": ["En", "Es", "It"]
@@ -2334,7 +2341,7 @@
 	},
 	"Godzilla - Kaijuu Dairantou (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ゴジラ　怪獣大乱闘"
+		"localName": "ゴジラ　怪獣大乱闘"
 	},
 	"GoldenEye - Agente Corrupto (Spain) (Disc 1)": {
 		"languages": ["Es"]
@@ -2344,11 +2351,11 @@
 	},
 	"GoldenEye - Dark Agent (Japan) (Disc 1)": {
 		"languages": ["Ja"],
-		"localizedName": "ゴールデンアイ　ダーク・エージェント"
+		"localName": "ゴールデンアイ　ダーク・エージェント"
 	},
 	"GoldenEye - Dark Agent (Japan) (Disc 2)": {
 		"languages": ["Ja"],
-		"localizedName": "ゴールデンアイ　ダーク・エージェント"
+		"localName": "ゴールデンアイ　ダーク・エージェント"
 	},
 	"GoldenEye - Rogue Agent (Europe) (En,It,Nl,Sv) (Disc 1)": {
 		"languages": ["En", "It", "Nl", "Sv"]
@@ -2358,11 +2365,11 @@
 	},
 	"GoldenEye - Rogue Agent (France) (Disc 1)": {
 		"languages": ["Fr"],
-		"localizedName": "GoldenEye - Au Service Du Mal"
+		"localName": "GoldenEye - Au Service Du Mal"
 	},
 	"GoldenEye - Rogue Agent (France) (Disc 2)": {
 		"languages": ["Fr"],
-		"localizedName": "GoldenEye - Au Service Du Mal"
+		"localName": "GoldenEye - Au Service Du Mal"
 	},
 	"GoldenEye - Rogue Agent (Germany) (Disc 1)": {
 		"languages": ["De"]
@@ -2381,7 +2388,7 @@
 	},
 	"Gotcha Force (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ガチャフォース"
+		"localName": "ガチャフォース"
 	},
 	"Gotcha Force (USA)": {
 		"languages": ["En"]
@@ -2391,7 +2398,7 @@
 	},
 	"Groove Adventure Rave - Fighting Live (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "グルーヴ　アドベンチャー　レイヴ　ファイティングライブ"
+		"localName": "グルーヴ　アドベンチャー　レイヴ　ファイティングライブ"
 	},
 	"Grooverider - Slot Car Thunder (USA)": {
 		"languages": ["En"]
@@ -2416,7 +2423,7 @@
 	},
 	"Harry Potter - Quidditch World Cup (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ハリー・ポッター　クィディッチ　ワールドカップ"
+		"localName": "ハリー・ポッター　クィディッチ　ワールドカップ"
 	},
 	"Harry Potter - Quidditch World Cup (USA) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
@@ -2486,19 +2493,19 @@
 	},
 	"Harry Potter to Azkaban no Shuujin (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ハリー・ポッターとアズカバンの囚人"
+		"localName": "ハリー・ポッターとアズカバンの囚人"
 	},
 	"Harry Potter to Himitsu no Heya (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ハリー・ポッターと秘密の部屋"
+		"localName": "ハリー・ポッターと秘密の部屋"
 	},
 	"Harry Potter to Honoo no Goblet (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ハリー・ポッターと炎のゴブレット"
+		"localName": "ハリー・ポッターと炎のゴブレット"
 	},
 	"Harry Potter to Kenja no Ishi (Japan) (En,Ja)": {
 		"languages": ["En", "Ja"],
-		"localizedName": "ハリー・ポッターと賢者の石"
+		"localName": "ハリー・ポッターと賢者の石"
 	},
 	"Harry Potter und der Feuerkelch (Germany)": {
 		"languages": ["De"]
@@ -2547,7 +2554,7 @@
 	},
 	"Hikaru no Go 3 (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ヒカルの碁３"
+		"localName": "ヒカルの碁３"
 	},
 	"Hitman 2 - Silent Assassin (Europe)": {
 		"languages": ["En"]
@@ -2572,27 +2579,27 @@
 	},
 	"Homeland (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ホームランド"
+		"localName": "ホームランド"
 	},
 	"Homeland (Japan) (Rev 1)": {
 		"languages": ["Ja"],
-		"localizedName": "ホームランド"
+		"localName": "ホームランド"
 	},
 	"Homeland (Japan) (Test Disc)": {
 		"languages": ["Ja"],
-		"localizedName": "ホームランド"
+		"localName": "ホームランド"
 	},
 	"Hontai Kensa Disc DOL (Japan) (Rev 3)": {
 		"languages": ["En"],
-		"localizedName": "本体検査ディスク　ＤＯＬ"
+		"localName": "本体検査ディスク　ＤＯＬ"
 	},
 	"Hontai Kensa Disc DOL (Japan) (Rev 6)": {
 		"languages": ["En"],
-		"localizedName": "本体検査ディスク　ＤＯＬ"
+		"localName": "本体検査ディスク　ＤＯＬ"
 	},
 	"Hontai Kensa Disc DOL-USA (Japan) (Rev 5)": {
 		"languages": ["En"],
-		"localizedName": "本体検査ディスク　ＤＯＬ－ＵＳＡ"
+		"localName": "本体検査ディスク　ＤＯＬ－ＵＳＡ"
 	},
 	"Hot Wheels - Velocity X (Europe)": {
 		"languages": ["En"]
@@ -2608,19 +2615,19 @@
 	},
 	"Hudson Selection Vol. 1 - Cubic Lode Runner (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ハドソンセレクション　Ｖｏｌ．１　キュービックロードランナー"
+		"localName": "ハドソンセレクション　Ｖｏｌ．１　キュービックロードランナー"
 	},
 	"Hudson Selection Vol. 2 - Star Soldier (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ハドソンセレクションＶｏｌ．２　スターソルジャー"
+		"localName": "ハドソンセレクションＶｏｌ．２　スターソルジャー"
 	},
 	"Hudson Selection Vol. 3 - PC Genjin - Pithecanthropus Computerurus (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ハドソンセレクションＶｏｌ．３　ＰＣ原人"
+		"localName": "ハドソンセレクションＶｏｌ．３　ＰＣ原人"
 	},
 	"Hudson Selection Vol. 4 - Takahashi-Meijin no Boukenjima (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ハドソンセレクションＶｏｌ．４　高橋名人の冒険島"
+		"localName": "ハドソンセレクションＶｏｌ．４　高橋名人の冒険島"
 	},
 	"Hulk (Europe)": {
 		"languages": ["En"]
@@ -2645,7 +2652,7 @@
 	},
 	"Hyper Sports 2002 Winter (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ハイパースポーツ２００２ＷＩＮＴＥＲ"
+		"localName": "ハイパースポーツ２００２ＷＩＮＴＥＲ"
 	},
 	"I-Ninja (USA)": {
 		"languages": ["En"]
@@ -2661,7 +2668,7 @@
 	},
 	"Ikaruga (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "斑鳩"
+		"localName": "斑鳩"
 	},
 	"Ikaruga (USA)": {
 		"languages": ["En"]
@@ -2887,43 +2894,43 @@
 	},
 	"Jikkyou Powerful Major League (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "実況パワフル　メジャーリーグ"
+		"localName": "実況パワフル　メジャーリーグ"
 	},
 	"Jikkyou Powerful Pro Yakyuu 10 (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "実況パワフルプロ野球１０"
+		"localName": "実況パワフルプロ野球１０"
 	},
 	"Jikkyou Powerful Pro Yakyuu 10 Chou Ketteiban - 2003 Memorial (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "実況パワフルプロ野球　１０　超決定版　～２００３　メモリアル～"
+		"localName": "実況パワフルプロ野球　１０　超決定版　～２００３　メモリアル～"
 	},
 	"Jikkyou Powerful Pro Yakyuu 11 (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "実況パワフルプロ野球　１１"
+		"localName": "実況パワフルプロ野球　１１"
 	},
 	"Jikkyou Powerful Pro Yakyuu 11 Chou Ketteiban (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "実況パワフルプロ野球　１１　超決定版"
+		"localName": "実況パワフルプロ野球　１１　超決定版"
 	},
 	"Jikkyou Powerful Pro Yakyuu 12 (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "実況パワフルプロ野球１２"
+		"localName": "実況パワフルプロ野球１２"
 	},
 	"Jikkyou Powerful Pro Yakyuu 12 - Ketteiban (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "実況パワフルプロ野球１２決定版"
+		"localName": "実況パワフルプロ野球１２決定版"
 	},
 	"Jikkyou Powerful Pro Yakyuu 9 (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "実況パワフルプロ野球　９"
+		"localName": "実況パワフルプロ野球　９"
 	},
 	"Jikkyou Powerful Pro Yakyuu 9 - Ketteiban (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "実況パワフルプロ野球９決定版"
+		"localName": "実況パワフルプロ野球９決定版"
 	},
 	"Jikkyou World Soccer 2002 (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "実況ワールドサッカー　２００２"
+		"localName": "実況ワールドサッカー　２００２"
 	},
 	"Judge Dredd - Dredd vs. Death (Europe) (En,Fr)": {
 		"languages": ["En", "Fr"]
@@ -2936,7 +2943,7 @@
 	},
 	"Kaijuu no Shima - Amazing Island (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "カイジュウの島　～アメージングアイランド～"
+		"localName": "カイジュウの島　～アメージングアイランド～"
 	},
 	"Kao the Kangaroo - Round 2 (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -2947,9 +2954,9 @@
 	"Karaoke Revolution Party (USA)": {
 		"languages": ["En"]
 	},
-	"Karat GC-you Pro Action Replay PAR GC-you (Japan) (Unl)": {
+	"Karat GC-you Pro Action Replay PAR GC-you (Japan) (Unl) (v1.20A)": {
 		"languages": ["Ja"],
-		"localizedName": "ＫＡＲＡＴ　（ＧＣ用）　プロアクションリプレイ　ＰＡＲ　（ＧＣ用）"
+		"localName": "ＫＡＲＡＴ　（ＧＣ用）　プロアクションリプレイ　ＰＡＲ　（ＧＣ用）"
 	},
 	"Kelly Slater's Pro Surfer (Europe)": {
 		"languages": ["En"]
@@ -2962,23 +2969,23 @@
 	},
 	"Kero Kero King DX (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ケロケロキングＤＸ"
+		"localName": "ケロケロキングＤＸ"
 	},
 	"Kidou Senshi Gundam - Gundam vs. Z Gundam (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "機動戦士　ガンダム　ガンダム　ｖｓ．　Ｚガンダム"
+		"localName": "機動戦士　ガンダム　ガンダム　ｖｓ．　Ｚガンダム"
 	},
 	"Kidou Senshi Gundam - Senshi-tachi no Kiseki (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "機動戦士ガンダム　戦士達の軌跡"
+		"localName": "機動戦士ガンダム　戦士達の軌跡"
 	},
 	"Kidou Senshi Gundam - Senshi-tachi no Kiseki (Japan) (Special Disc)": {
 		"languages": ["Ja"],
-		"localizedName": "機動戦士ガンダム　戦士達の軌跡"
+		"localName": "機動戦士ガンダム　戦士達の軌跡"
 	},
 	"Kidou Senshi Gundam - Senshi-tachi no Kiseki - Kadokawa Shoten Rengou Kikaku Tokubetsu-hen (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "機動戦士ガンダム　戦士達の軌跡　角川書店連合企画　特別編"
+		"localName": "機動戦士ガンダム　戦士達の軌跡　角川書店連合企画　特別編"
 	},
 	"Killer7 (Europe) (En,Fr,De) (Disc 1)": {
 		"languages": ["De", "En", "Fr"]
@@ -2988,11 +2995,11 @@
 	},
 	"Killer7 (Japan) (Disc 1) (Rev 2)": {
 		"languages": ["Ja"],
-		"localizedName": "キラー７"
+		"localName": "キラー７"
 	},
 	"Killer7 (Japan) (Disc 2) (Rev 2)": {
 		"languages": ["Ja"],
-		"localizedName": "キラー７"
+		"localName": "キラー７"
 	},
 	"Killer7 (USA) (Disc 1) (Rev 1)": {
 		"languages": ["En"]
@@ -3008,25 +3015,25 @@
 	},
 	"Kinnikuman Nisei - Shinsedai Choujin vs. Densetsu Choujin (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "キン肉マンＩＩ世　新世代超人ＶＳ伝説超人"
+		"localName": "キン肉マンＩＩ世　新世代超人ＶＳ伝説超人"
 	},
 	"Kirby Air Ride (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Kirby Air Ride (Korea)": {
 		"languages": ["En"],
-		"localizedName": "카비 에어라이드"
+		"localName": "카비 에어라이드"
 	},
 	"Kirby Air Ride (USA)": {
 		"languages": ["En"]
 	},
 	"Kirby's Airride (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "カービィのエアライド"
+		"localName": "カービィのエアライド"
 	},
 	"Kiwame Mahjong DX II - The 4th MONDO21Cup Competition (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "極　麻雀ＤＸ　ＩＩ　Ｔｈｅ　４ｔｈ　ＭＯＮＤＯ２１Ｃｕｐ　Ｃｏｍｐｅｔｉｔｉｏｎ"
+		"localName": "極　麻雀ＤＸ　ＩＩ　Ｔｈｅ　４ｔｈ　ＭＯＮＤＯ２１Ｃｕｐ　Ｃｏｍｐｅｔｉｔｉｏｎ"
 	},
 	"Knights of the Temple - Infernal Crusade (Europe) (En,Fr,De,Es)": {
 		"languages": ["De", "En", "Es", "Fr"]
@@ -3039,23 +3046,23 @@
 	},
 	"Konjiki no Gashbell!! Go! Go! Mamono Fight!! (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "金色のガッシュベル！！　ゴー！ゴー！魔物ファイト！！"
+		"localName": "金色のガッシュベル！！　ゴー！ゴー！魔物ファイト！！"
 	},
 	"Konjiki no Gashbell!! Yuujou Tag Battle - Full Power (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "金色のガッシュベル！！友情タッグバトル　ＦＵＬＬ　ＰＯＷＥＲ"
+		"localName": "金色のガッシュベル！！友情タッグバトル　ＦＵＬＬ　ＰＯＷＥＲ"
 	},
 	"Konjiki no Gashbell!! Yuujou Tag Battle 2 (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "金色のガッシュベル！！友情タッグバトル２"
+		"localName": "金色のガッシュベル！！友情タッグバトル２"
 	},
 	"Kururin Squash! (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "くるりんスカッシュ！"
+		"localName": "くるりんスカッシュ！"
 	},
 	"Kyojin no Doshin (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "巨人のドシン"
+		"localName": "巨人のドシン"
 	},
 	"LEGO Star Wars - The Video Game (Europe)": {
 		"languages": ["En"]
@@ -3095,7 +3102,7 @@
 	},
 	"Legend of Golfer (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "レジェンド　オブ　ゴルファー"
+		"localName": "レジェンド　オブ　ゴルファー"
 	},
 	"Legend of Spyro, The - A New Beginning (Europe) (En,Fr,De,Es,It,Nl)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
@@ -3132,7 +3139,7 @@
 	},
 	"Legend of Zelda, The - The Wind Waker (Korea)": {
 		"languages": ["En"],
-		"localizedName": "젤다의　전설　바람의　택트"
+		"localName": "젤다의　전설　바람의　택트"
 	},
 	"Legend of Zelda, The - The Wind Waker (USA)": {
 		"languages": ["En"]
@@ -3175,19 +3182,19 @@
 	},
 	"Lord of the Rings - Futatsu no Tou (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ロード　オブ・ザ　リング　二つの塔"
+		"localName": "ロード　オブ・ザ　リング　二つの塔"
 	},
 	"Lord of the Rings - Nakatsu Kuni Daisanki (Japan) (Disc 1)": {
 		"languages": ["Ja"],
-		"localizedName": "ロード・オブ・ザ・リング　中つ国第三紀"
+		"localName": "ロード・オブ・ザ・リング　中つ国第三紀"
 	},
 	"Lord of the Rings - Nakatsu Kuni Daisanki (Japan) (Disc 2)": {
 		"languages": ["Ja"],
-		"localizedName": "ロード・オブ・ザ・リング　中つ国第三紀"
+		"localName": "ロード・オブ・ザ・リング　中つ国第三紀"
 	},
 	"Lord of the Rings - Ou no Kikan (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ロード・オブ・ザ・リング　王の帰還"
+		"localName": "ロード・オブ・ザ・リング　王の帰還"
 	},
 	"Lord of the Rings, The - The Return of the King (Europe) (En,Nl,Sv)": {
 		"languages": ["En", "Nl", "Sv"]
@@ -3230,7 +3237,7 @@
 	},
 	"Luigi Mansion (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ルイージマンション"
+		"localName": "ルイージマンション"
 	},
 	"Luigi's Mansion (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -3243,11 +3250,11 @@
 	},
 	"Lupin III - Umi ni Kieta Hihou (Japan) (Disc 1)": {
 		"languages": ["Ja"],
-		"localizedName": "ルパン三世　海に消えた秘宝"
+		"localName": "ルパン三世　海に消えた秘宝"
 	},
 	"Lupin III - Umi ni Kieta Hihou (Japan) (Disc 2)": {
 		"languages": ["Ja"],
-		"localizedName": "ルパン三世　海に消えた秘宝"
+		"localName": "ルパン三世　海に消えた秘宝"
 	},
 	"MC Groovz Dance Craze (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -3311,21 +3318,21 @@
 	},
 	"Mahou no Pumpkin - An to Greg no Daibouken (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "魔法のパンプキン　～アンとグレッグの大冒険～"
+		"localName": "魔法のパンプキン　～アンとグレッグの大冒険～"
 	},
 	"Major League Baseball 2K6 (USA)": {
 		"languages": ["En"]
 	},
 	"Mario Golf - Family Tour (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "マリオゴルフ　ファミリーツアー"
+		"localName": "マリオゴルフ　ファミリーツアー"
 	},
 	"Mario Golf - Toadstool Tour (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Mario Golf - Toadstool Tour (Korea)": {
 		"languages": ["En"],
-		"localizedName": "마리오　골프"
+		"localName": "마리오　골프"
 	},
 	"Mario Golf - Toadstool Tour (USA)": {
 		"languages": ["En"]
@@ -3335,11 +3342,11 @@
 	},
 	"Mario Kart - Double Dash!! (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "マリオカート　ダブルダッシュ！！"
+		"localName": "マリオカート　ダブルダッシュ！！"
 	},
 	"Mario Kart - Double Dash!! (Korea)": {
 		"languages": ["En"],
-		"localizedName": "마리오 카트 더블대시!!"
+		"localName": "마리오 카트 더블대시!!"
 	},
 	"Mario Kart - Double Dash!! (USA)": {
 		"languages": ["En"]
@@ -3361,11 +3368,11 @@
 	},
 	"Mario Party 4 (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "マリオパーティ４"
+		"localName": "マリオパーティ４"
 	},
 	"Mario Party 4 (Korea)": {
 		"languages": ["En"],
-		"localizedName": "마리오　파티　４"
+		"localName": "마리오　파티　４"
 	},
 	"Mario Party 4 (USA)": {
 		"languages": ["En"]
@@ -3378,11 +3385,11 @@
 	},
 	"Mario Party 5 (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "マリオパーティ５"
+		"localName": "マリオパーティ５"
 	},
 	"Mario Party 5 (Korea)": {
 		"languages": ["En"],
-		"localizedName": "마리오 파티 5"
+		"localName": "마리오 파티 5"
 	},
 	"Mario Party 5 (USA)": {
 		"languages": ["En"]
@@ -3392,7 +3399,7 @@
 	},
 	"Mario Party 6 (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "マリオパーティ６"
+		"localName": "マリオパーティ６"
 	},
 	"Mario Party 6 (USA)": {
 		"languages": ["En"]
@@ -3402,7 +3409,7 @@
 	},
 	"Mario Party 7 (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "マリオパーティ７"
+		"localName": "マリオパーティ７"
 	},
 	"Mario Party 7 (USA) (Rev 1)": {
 		"languages": ["En"]
@@ -3427,11 +3434,11 @@
 	},
 	"Mario Tennis GC (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "マリオテニスＧＣ"
+		"localName": "マリオテニスＧＣ"
 	},
 	"Mario Tennis GC (Japan) (Rev 1)": {
 		"languages": ["Ja"],
-		"localizedName": "マリオテニスＧＣ"
+		"localName": "マリオテニスＧＣ"
 	},
 	"Mark Davis Pro Bass Challenge (USA)": {
 		"languages": ["En"]
@@ -3469,10 +3476,13 @@
 	"Max Drive Pro (USA, Europe) (Unl)": {
 		"languages": ["En"]
 	},
-	"MaxPlay (USA) (Unl)": {
+	"Max Memory Power Saves - Volume 1 (USA) (Unl)": {
 		"languages": ["En"]
 	},
-	"MaxPlay Volume 01 (Europe) (Unl)": {
+	"MaxPlay (Europe) (Unl)": {
+		"languages": ["En"]
+	},
+	"MaxPlay (USA) (Unl)": {
 		"languages": ["En"]
 	},
 	"Medabots Infinity (Europe) (En,Fr,De,Nl)": {
@@ -3489,7 +3499,7 @@
 	},
 	"Medal of Honor - Europa Kyoushuu (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "メダル　オブ　オナー　ヨーロッパ　強襲"
+		"localName": "メダル　オブ　オナー　ヨーロッパ　強襲"
 	},
 	"Medal of Honor - European Assault (Europe)": {
 		"languages": ["En"]
@@ -3532,11 +3542,11 @@
 	},
 	"Medal of Honor - Rising Sun (Japan) (Disc 1)": {
 		"languages": ["Ja"],
-		"localizedName": "メダル　オブ　オナー　ライジングサン"
+		"localName": "メダル　オブ　オナー　ライジングサン"
 	},
 	"Medal of Honor - Rising Sun (Japan) (Disc 2)": {
 		"languages": ["Ja"],
-		"localizedName": "メダル　オブ　オナー　ライジングサン"
+		"localName": "メダル　オブ　オナー　ライジングサン"
 	},
 	"Medal of Honor - Rising Sun (USA) (Disc 1)": {
 		"languages": ["En"]
@@ -3552,7 +3562,7 @@
 	},
 	"Medarot Brave (Japan) (Rev 1)": {
 		"languages": ["Ja"],
-		"localizedName": "メダロット　ブレイブ"
+		"localName": "メダロット　ブレイブ"
 	},
 	"Mega Man Anniversary Collection (USA) (Rev 1)": {
 		"languages": ["En"]
@@ -3598,11 +3608,11 @@
 	},
 	"Metal Gear Solid - The Twin Snakes (Japan) (En,Ja) (Disc 1)": {
 		"languages": ["En", "Ja"],
-		"localizedName": "メタルギアソリッド　ザ・ツインスネークス"
+		"localName": "メタルギアソリッド　ザ・ツインスネークス"
 	},
 	"Metal Gear Solid - The Twin Snakes (Japan) (En,Ja) (Disc 2)": {
 		"languages": ["En", "Ja"],
-		"localizedName": "メタルギアソリッド　ザ・ツインスネークス"
+		"localName": "メタルギアソリッド　ザ・ツインスネークス"
 	},
 	"Metal Gear Solid - The Twin Snakes (USA) (Disc 1)": {
 		"languages": ["En"]
@@ -3612,18 +3622,18 @@
 	},
 	"Metal Gear Solid - The Twin Snakes - Special Disc (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "メタルギア　スペシャルディスク"
+		"localName": "メタルギア　スペシャルディスク"
 	},
 	"Metroid Prime (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Metroid Prime (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "メトロイドプライム"
+		"localName": "メトロイドプライム"
 	},
 	"Metroid Prime (Korea)": {
 		"languages": ["En"],
-		"localizedName": "메트로이드　프라임"
+		"localName": "메트로이드　프라임"
 	},
 	"Metroid Prime (USA)": {
 		"languages": ["En"]
@@ -3636,7 +3646,7 @@
 	},
 	"Metroid Prime 2 - Dark Echoes (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "メトロイドプライム２　ダークエコーズ"
+		"localName": "メトロイドプライム２　ダークエコーズ"
 	},
 	"Metroid Prime 2 - Echoes (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -3679,25 +3689,25 @@
 	},
 	"Mission - Impossible - Operation Surma (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ミッション－インポッシブル　－Ｏｐｅｒａｔｉｏｎ　Ｓｕｒｍａ－"
+		"localName": "ミッション－インポッシブル　－Ｏｐｅｒａｔｉｏｎ　Ｓｕｒｍａ－"
 	},
 	"Mission - Impossible - Operation Surma (USA)": {
 		"languages": ["En"]
 	},
 	"Momotarou Dentetsu 11 - Black Bombee Shutsugen! no Maki (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "桃太郎電鉄１１　ブラックボンビー出現！の巻"
+		"localName": "桃太郎電鉄１１　ブラックボンビー出現！の巻"
 	},
 	"Momotarou Dentetsu 12 - Nishi Nihon-hen mo Arimasse! (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "桃太郎電鉄１２　西日本編もありまっせー！"
+		"localName": "桃太郎電鉄１２　西日本編もありまっせー！"
 	},
 	"Monde de Narnia, Le - Chapitre 1 - Le Lion, la Sorciere Blanche et l'Armoire Magique (France)": {
 		"languages": ["Fr"]
 	},
 	"Monopoly - Mezase!! Daifugou Jinsei!! (Japan) (Rev 1)": {
 		"languages": ["Ja"],
-		"localizedName": "モノポリー　めざせっ！！　大富豪人生！！"
+		"localName": "モノポリー　めざせっ！！　大富豪人生！！"
 	},
 	"Monopoly Party (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -3740,18 +3750,18 @@
 	},
 	"Mr. Driller - Drill Land (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ミスタードリラー　ドリルランド"
+		"localName": "ミスタードリラー　ドリルランド"
 	},
 	"Muppets - Party Cruise (USA)": {
 		"languages": ["En"]
 	},
 	"Muscle Champion - Kinniku-jima no Kessen (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "マッスルちゃんぴよん　筋肉島の決戦"
+		"localName": "マッスルちゃんぴよん　筋肉島の決戦"
 	},
 	"Mutsu to Nohohon (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ＭＵＴＳＵ　とのほほん"
+		"localName": "ＭＵＴＳＵ　とのほほん"
 	},
 	"Mystic Heroes (Europe)": {
 		"languages": ["En"]
@@ -3788,7 +3798,7 @@
 	},
 	"NBA Courtside 2002 (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ＮＢＡ　コートサイド　２００２"
+		"localName": "ＮＢＡ　コートサイド　２００２"
 	},
 	"NBA Courtside 2002 (USA)": {
 		"languages": ["En"]
@@ -3819,7 +3829,7 @@
 	},
 	"NBA Street (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ＮＢＡ　ストリート"
+		"localName": "ＮＢＡ　ストリート"
 	},
 	"NBA Street (USA)": {
 		"languages": ["En"]
@@ -3832,7 +3842,7 @@
 	},
 	"NBA Street V3 - Mario de Dunk (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ＮＢＡストリートＶ３　マリオでダンク"
+		"localName": "ＮＢＡストリートＶ３　マリオでダンク"
 	},
 	"NBA Street Vol. 2 (Europe) (En,Fr)": {
 		"languages": ["En", "Fr"]
@@ -3896,7 +3906,7 @@
 	},
 	"NHK Tensai Bit-kun - Glamon Battle (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ＮＨＫ　天才ビットくん　グラモン　バトル"
+		"localName": "ＮＨＫ　天才ビットくん　グラモン　バトル"
 	},
 	"NHL 06 (Europe) (En,Fr)": {
 		"languages": ["En", "Fr"]
@@ -3969,35 +3979,35 @@
 	},
 	"Naruto - Gekitou Ninja Taisen! (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ＮＡＲＵＴＯ－ナルト－　激闘忍者大戦！"
+		"localName": "ＮＡＲＵＴＯ－ナルト－　激闘忍者大戦！"
 	},
 	"Naruto - Gekitou Ninja Taisen! 2 (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ＮＡＲＵＴＯ－ナルト－　激闘忍者大戦！２"
+		"localName": "ＮＡＲＵＴＯ－ナルト－　激闘忍者大戦！２"
 	},
 	"Naruto - Gekitou Ninja Taisen! 2 (Japan) (Rev 1)": {
 		"languages": ["Ja"],
-		"localizedName": "ＮＡＲＵＴＯ－ナルト－　激闘忍者大戦！２"
+		"localName": "ＮＡＲＵＴＯ－ナルト－　激闘忍者大戦！２"
 	},
 	"Naruto - Gekitou Ninja Taisen! 3 (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ＮＡＲＵＴＯ－ナルト－　激闘忍者大戦！３"
+		"localName": "ＮＡＲＵＴＯ－ナルト－　激闘忍者大戦！３"
 	},
 	"Naruto - Gekitou Ninja Taisen! 3 (Japan) (Rev 1)": {
 		"languages": ["Ja"],
-		"localizedName": "ＮＡＲＵＴＯ－ナルト－　激闘忍者大戦！３"
+		"localName": "ＮＡＲＵＴＯ－ナルト－　激闘忍者大戦！３"
 	},
 	"Naruto - Gekitou Ninja Taisen! 4 (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ＮＡＲＵＴＯ－ナルト－　激闘忍者大戦！４"
+		"localName": "ＮＡＲＵＴＯ－ナルト－　激闘忍者大戦！４"
 	},
 	"Naruto - Gekitou Ninja Taisen! 4 (Japan) (Taikai Sen'you Disc) (Rev 1)": {
 		"languages": ["Ja"],
-		"localizedName": "ＮＡＲＵＴＯ－ナルト－　激闘忍者大戦！４"
+		"localName": "ＮＡＲＵＴＯ－ナルト－　激闘忍者大戦！４"
 	},
 	"Naruto Collection (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ナルト　コレクション"
+		"localName": "ナルト　コレクション"
 	},
 	"Need for Speed - Carbon (Europe)": {
 		"languages": ["En"]
@@ -4028,7 +4038,7 @@
 	},
 	"Need for Speed - Most Wanted (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ニード・フォー・スピード　モスト・ウォンテッド"
+		"localName": "ニード・フォー・スピード　モスト・ウォンテッド"
 	},
 	"Need for Speed - Most Wanted (USA)": {
 		"languages": ["En"]
@@ -4047,7 +4057,7 @@
 	},
 	"Need for Speed - Underground (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ニード・フォー・スピード　～アンダーグラウンド～"
+		"localName": "ニード・フォー・スピード　～アンダーグラウンド～"
 	},
 	"Need for Speed - Underground (USA)": {
 		"languages": ["En"]
@@ -4063,7 +4073,7 @@
 	},
 	"Need for Speed - Underground 2 (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ニード・フォー・スピード　～アンダーグラウンド２～"
+		"localName": "ニード・フォー・スピード　～アンダーグラウンド２～"
 	},
 	"Need for Speed - Underground 2 (Latin America)": {
 		"languages": ["En"]
@@ -4073,7 +4083,7 @@
 	},
 	"Neighbours from Hell (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"],
-		"localizedName": "Böse Nachbarn"
+		"localName": "Böse Nachbarn"
 	},
 	"Nick Jr. Dora the Explorer - Journey to the Purple Planet (Europe) (En,Fr)": {
 		"languages": ["En", "Fr"]
@@ -4230,41 +4240,41 @@
 	},
 	"Nintendo GameCube Soft e-Catalog 2003 Enjoy Plus-ban (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ニンテンドー　ゲームキューブ　ソフトｅカタログ　２００３　エンジョイ　プラス版"
+		"localName": "ニンテンドー　ゲームキューブ　ソフトｅカタログ　２００３　エンジョイ　プラス版"
 	},
 	"Nintendo GameCube Soft e-Catalog 2003 Haru (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ニンテンドー　ゲームキューブ　ソフトｅカタログ　２００３・春"
+		"localName": "ニンテンドー　ゲームキューブ　ソフトｅカタログ　２００３・春"
 	},
 	"Nintendo Puzzle Collection (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ＮＩＮＴＥＮＤＯ　パズルコレクション"
+		"localName": "ＮＩＮＴＥＮＤＯ　パズルコレクション"
 	},
 	"Odama (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Odama (Japan) (Rev 1)": {
 		"languages": ["Ja"],
-		"localizedName": "大玉"
+		"localName": "大玉"
 	},
 	"Odama (USA) (Rev 1)": {
 		"languages": ["En"]
 	},
 	"Ohenro-San - Hosshin no Dojo (Awa Kuni) Hen (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "お遍路さん　発心の道場　（阿波国）　編"
+		"localName": "お遍路さん　発心の道場　（阿波国）　編"
 	},
 	"One Piece - Grand Battle! 3 (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ＯＮＥ　ＰＩＥＣＥ　～グランド・バトル！３～"
+		"localName": "ＯＮＥ　ＰＩＥＣＥ　～グランド・バトル！３～"
 	},
 	"One Piece - Grand Battle! Rush (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ワンピース　グラバト！　ラッシュ"
+		"localName": "ワンピース　グラバト！　ラッシュ"
 	},
 	"One Piece - Pirates Carnival (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ワンピース　パイレーツカーニバル"
+		"localName": "ワンピース　パイレーツカーニバル"
 	},
 	"Open Season (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -4289,11 +4299,11 @@
 	},
 	"P.N. 03 (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ピーエヌスリー"
+		"localName": "ピーエヌスリー"
 	},
 	"P.N. 03 (Japan) (Demo Eizou)": {
 		"languages": ["Ja"],
-		"localizedName": "ピーエヌスリー"
+		"localName": "ピーエヌスリー"
 	},
 	"P.N. 03 (USA)": {
 		"languages": ["En"]
@@ -4306,11 +4316,11 @@
 	},
 	"Pac-Man Vs. (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "パックマン　ＶＳ．"
+		"localName": "パックマン　ＶＳ．"
 	},
 	"Pac-Man Vs. (Japan) (Club Nintendo Genteiban)": {
 		"languages": ["Ja"],
-		"localizedName": "パックマン　ｖｓ．"
+		"localName": "パックマン　ｖｓ．"
 	},
 	"Pac-Man Vs. (USA)": {
 		"languages": ["En"]
@@ -4338,7 +4348,7 @@
 	},
 	"Paper Mario RPG (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ペーパーマリオＲＰＧ"
+		"localName": "ペーパーマリオＲＰＧ"
 	},
 	"Peter Jackson's King Kong - The Official Game of the Movie (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)": {
 		"languages": ["Da", "De", "En", "Es", "Fi", "Fr", "It", "Nl", "No", "Sv"]
@@ -4354,11 +4364,11 @@
 	},
 	"Phantasy Star Online Episode I & II (Japan) (En,Ja,Fr,De,Es) (Rev 2)": {
 		"languages": ["De", "En", "Es", "Fr", "Ja"],
-		"localizedName": "ファンタシースターオンライン　エピソード１＆２"
+		"localName": "ファンタシースターオンライン　エピソード１＆２"
 	},
 	"Phantasy Star Online Episode I & II (Japan) (En,Ja,Fr,De,Es) (Rev 3)": {
 		"languages": ["De", "En", "Es", "Fr", "Ja"],
-		"localizedName": "ファンタシースターオンライン　エピソード１＆２"
+		"localName": "ファンタシースターオンライン　エピソード１＆２"
 	},
 	"Phantasy Star Online Episode I & II (USA) (En,Ja,Fr,De,Es)": {
 		"languages": ["De", "En", "Es", "Fr", "Ja"]
@@ -4368,15 +4378,15 @@
 	},
 	"Phantasy Star Online Episode I & II - Trial Edition (Japan) (Taikenban)": {
 		"languages": ["Ja"],
-		"localizedName": "ファンタシースターオンライン　エピソード１＆２　トライアルエディション"
+		"localName": "ファンタシースターオンライン　エピソード１＆２　トライアルエディション"
 	},
 	"Phantasy Star Online Episode I & II Plus (Japan) (En,Ja,Fr,De,Es) (Rev 4)": {
 		"languages": ["De", "En", "Es", "Fr", "Ja"],
-		"localizedName": "ファンタシースターオンライン　エピソード１＆２　プラス"
+		"localName": "ファンタシースターオンライン　エピソード１＆２　プラス"
 	},
 	"Phantasy Star Online Episode I & II Plus (Japan) (En,Ja,Fr,De,Es) (Rev 5)": {
 		"languages": ["De", "En", "Es", "Fr", "Ja"],
-		"localizedName": "ファンタシースターオンライン　エピソード１＆２　プラス"
+		"localName": "ファンタシースターオンライン　エピソード１＆２　プラス"
 	},
 	"Phantasy Star Online Episode I & II Plus (USA) (En,Ja,Fr,De,Es) (Rev 2)": {
 		"languages": ["De", "En", "Es", "Fr", "Ja"]
@@ -4386,32 +4396,32 @@
 	},
 	"Phantasy Star Online Episode III - C.A.R.D. Revolution (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ファンタシースターオンライン　エピソード３　カードレボリューション"
+		"localName": "ファンタシースターオンライン　エピソード３　カードレボリューション"
 	},
 	"Phantasy Star Online Episode III - C.A.R.D. Revolution (USA) (En,Ja)": {
 		"languages": ["En", "Ja"]
 	},
 	"Phantasy Star Online Episode III - C.A.R.D. Revolution - Trial Edition (Japan) (Taikenban)": {
 		"languages": ["Ja"],
-		"localizedName": "ファンタシースターオンライン　エピソード３　カードレボリューション　トライアルエディション"
+		"localName": "ファンタシースターオンライン　エピソード３　カードレボリューション　トライアルエディション"
 	},
 	"Pickles (USA) (Proto)": {
-		"languages": []
+		"languages": ["En"]
 	},
 	"Pikmin (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Pikmin (Japan) (Jitsuen-you Sample)": {
 		"languages": ["Ja"],
-		"localizedName": "ピクミン"
+		"localName": "ピクミン"
 	},
 	"Pikmin (Japan) (Rev 1)": {
 		"languages": ["Ja"],
-		"localizedName": "ピクミン"
+		"localName": "ピクミン"
 	},
 	"Pikmin (Japan) (Rev 2)": {
 		"languages": ["Ja"],
-		"localizedName": "ピクミン"
+		"localName": "ピクミン"
 	},
 	"Pikmin (USA)": {
 		"languages": ["En"]
@@ -4424,7 +4434,7 @@
 	},
 	"Pikmin 2 (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ピクミン２"
+		"localName": "ピクミン２"
 	},
 	"Pikmin 2 (USA)": {
 		"languages": ["En"]
@@ -4437,11 +4447,11 @@
 	},
 	"Pitfall - The Lost Expedition (France)": {
 		"languages": ["Fr"],
-		"localizedName": "Pitfall - L'Expédition Perdue"
+		"localName": "Pitfall - L'Expédition Perdue"
 	},
 	"Pitfall - The Lost Expedition (Germany)": {
 		"languages": ["De"],
-		"localizedName": "Pitfall - Die verlorene Expedition"
+		"localName": "Pitfall - Die verlorene Expedition"
 	},
 	"Pitfall - The Lost Expedition (USA)": {
 		"languages": ["En"]
@@ -4451,7 +4461,7 @@
 	},
 	"Pokemon Box - Ruby & Sapphire (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ポケモンボックス　ルビー＆サファイア"
+		"localName": "ポケモンボックス　ルビー＆サファイア"
 	},
 	"Pokemon Box - Ruby & Sapphire (USA) (Rev 1)": {
 		"languages": ["En"]
@@ -4467,18 +4477,18 @@
 	},
 	"Pokemon Channel - Bangumi Kakuchou Pack (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ポケモンチャンネル　番組拡張パック"
+		"localName": "ポケモンチャンネル　番組拡張パック"
 	},
 	"Pokemon Channel - Pikachu to Issho! (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ポケモンチャンネル　～ピカチュウといっしょ！～"
+		"localName": "ポケモンチャンネル　～ピカチュウといっしょ！～"
 	},
 	"Pokemon Colosseum (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Pokemon Colosseum (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ポケモンコロシアム"
+		"localName": "ポケモンコロシアム"
 	},
 	"Pokemon Colosseum (USA)": {
 		"languages": ["En"]
@@ -4488,11 +4498,11 @@
 	},
 	"Pokemon Colosseum - Kakuchou Disc (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ポケモンコロシアム　拡張ディスク"
+		"localName": "ポケモンコロシアム　拡張ディスク"
 	},
 	"Pokemon Colosseum - Nintendo Tokusei Disc (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ポケモンコロシアム　任天堂特製ディスク"
+		"localName": "ポケモンコロシアム　任天堂特製ディスク"
 	},
 	"Pokemon XD - Gale of Darkness (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -4502,7 +4512,7 @@
 	},
 	"Pokemon XD - Yami no Kaze Dark Lugia (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ポケモンＸＤ　闇の旋風　ダーク・ルギア"
+		"localName": "ポケモンＸＤ　闇の旋風　ダーク・ルギア"
 	},
 	"Polar Express, The (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -4512,7 +4522,7 @@
 	},
 	"Pool Edge (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "プール　エッジ"
+		"localName": "プール　エッジ"
 	},
 	"Pool Paradise (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -4579,7 +4589,7 @@
 	},
 	"Puyo Puyo Fever (Japan) (En,Ja,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja"],
-		"localizedName": "ぷよぷよフィーバー"
+		"localName": "ぷよぷよフィーバー"
 	},
 	"R-Racing (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -4589,11 +4599,11 @@
 	},
 	"R-Racing Evolution - Life in the Fast Lane (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "Ｒ　レーシングエヴォリューション"
+		"localName": "Ｒ　レーシングエヴォリューション"
 	},
 	"Radirgy Generic (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ラジルギ・ジェネリック"
+		"localName": "ラジルギ・ジェネリック"
 	},
 	"Rally Championship (Europe) (En,Fr,De,Es,It) (Rev 1)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -4636,7 +4646,7 @@
 	},
 	"Rei Fighter Gekitsui Senki (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "零ファイター　撃墜戦記"
+		"localName": "零ファイター　撃墜戦記"
 	},
 	"Reign of Fire (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -4739,7 +4749,7 @@
 	},
 	"RoboCop - Aratanaru Kiki (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ロボコップ　新たなる危機"
+		"localName": "ロボコップ　新たなる危機"
 	},
 	"Robotech - Battlecry (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -4752,18 +4762,18 @@
 	},
 	"Robots (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ロボッツ"
+		"localName": "ロボッツ"
 	},
 	"Robots (USA)": {
 		"languages": ["En"]
 	},
 	"Rockman EXE Transmission (Japan) (Rev 1)": {
 		"languages": ["Ja"],
-		"localizedName": "ロックマンエグゼ　トランスミッション"
+		"localName": "ロックマンエグゼ　トランスミッション"
 	},
 	"Rockman X - Command Mission (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ロックマンＸ　コマンドミッション"
+		"localName": "ロックマンＸ　コマンドミッション"
 	},
 	"Rocky (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -4776,33 +4786,33 @@
 	},
 	"Rogue Ops (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ローグ　オプス"
+		"localName": "ローグ　オプス"
 	},
 	"Rogue Ops (USA)": {
 		"languages": ["En"]
 	},
 	"Rune (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ルーン"
+		"localName": "ルーン"
 	},
 	"Rune (USA) (Beta) (2003-03-04)": {
 		"languages": ["En"]
 	},
 	"Rune II - Koruten no Kagi no Himitsu (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ルーンＩＩ　コルテンの鍵の秘密"
+		"localName": "ルーンＩＩ　コルテンの鍵の秘密"
 	},
 	"Rune II - Koruten no Kagi no Himitsu (Japan) (Taikenban)": {
 		"languages": ["Ja"],
-		"localizedName": "ルーンＩＩ　コルテンの鍵の秘密"
+		"localName": "ルーンＩＩ　コルテンの鍵の秘密"
 	},
 	"SD Gundam - Gashapon Wars (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ＳＤガンダム　ガシャポンウォーズ"
+		"localName": "ＳＤガンダム　ガシャポンウォーズ"
 	},
 	"SD Gundam - Gashapon Wars (Japan) (Taikenban)": {
 		"languages": ["Ja"],
-		"localizedName": "ＳＤガンダム　ガシャポンウォーズ　体験版"
+		"localName": "ＳＤガンダム　ガシャポンウォーズ　体験版"
 	},
 	"SRS - Street Racing Syndicate (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -4827,7 +4837,7 @@
 	},
 	"SSX Tricky (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ＳＳＸ　トリッキー"
+		"localName": "ＳＳＸ　トリッキー"
 	},
 	"SSX Tricky (Japan) (Jitsuen-you Sample)": {
 		"languages": ["Ja"]
@@ -4846,7 +4856,7 @@
 	},
 	"SSX on Tour with Mario (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ＳＳＸ　オン　ツアー　ｗｉｔｈ　マリオ"
+		"localName": "ＳＳＸ　オン　ツアー　ｗｉｔｈ　マリオ"
 	},
 	"SX Superstar (Europe) (En,Fr,De,Es)": {
 		"languages": ["De", "En", "Es", "Fr"]
@@ -4919,7 +4929,7 @@
 	},
 	"Sega Soccer Slam (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "セガ　サッカースラム"
+		"localName": "セガ　サッカースラム"
 	},
 	"Sega Soccer Slam (USA)": {
 		"languages": ["En"]
@@ -4959,22 +4969,22 @@
 	},
 	"Shadow the Hedgehog (Japan) (En,Ja,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja"],
-		"localizedName": "シャドウ・ザ・ヘッジホッグ"
+		"localName": "シャドウ・ザ・ヘッジホッグ"
 	},
 	"Shadow the Hedgehog (USA) (En,Ja,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja"]
 	},
 	"Shaman King - Soul Fight (Japan) (Rev 1)": {
 		"languages": ["Ja"],
-		"localizedName": "シャーマンキング　ソウルファイト"
+		"localName": "シャーマンキング　ソウルファイト"
 	},
 	"Shikigami no Shiro II (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "式神の城Ⅱ"
+		"localName": "式神の城Ⅱ"
 	},
 	"Shinki Sekai Evolutia (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "神機世界エヴォルシア"
+		"localName": "神機世界エヴォルシア"
 	},
 	"Shonen Jump's One Piece - Grand Adventure (USA)": {
 		"languages": ["En"]
@@ -5050,7 +5060,7 @@
 	},
 	"Sims, The (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ザ・シムズ"
+		"localName": "ザ・シムズ"
 	},
 	"Sims, The (USA)": {
 		"languages": ["En"]
@@ -5069,7 +5079,7 @@
 	},
 	"SmaBro DX Event-you Disc (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "スマブラＤＸ　イベント用ディスク"
+		"localName": "スマブラＤＸ　イベント用ディスク"
 	},
 	"Smashing Drive (USA)": {
 		"languages": ["En"]
@@ -5085,14 +5095,14 @@
 	},
 	"Sonic Adventure 2 - Battle (Japan) (En,Ja,Fr,De,Es)": {
 		"languages": ["De", "En", "Es", "Fr", "Ja"],
-		"localizedName": "ソニックアドベンチャー２　バトル"
+		"localName": "ソニックアドベンチャー２　バトル"
 	},
 	"Sonic Adventure 2 - Battle (USA) (En,Ja,Fr,De,Es)": {
 		"languages": ["De", "En", "Es", "Fr", "Ja"]
 	},
 	"Sonic Adventure DX (Japan) (En,Ja,Fr,De,Es)": {
 		"languages": ["De", "En", "Es", "Fr", "Ja"],
-		"localizedName": "ソニック　アドベンチャー　ＤＸ　デラックス"
+		"localName": "ソニック　アドベンチャー　ＤＸ　デラックス"
 	},
 	"Sonic Adventure DX - Director's Cut (Europe) (En,Ja,Fr,De,Es) (Rev 1)": {
 		"languages": ["De", "En", "Es", "Fr", "Ja"]
@@ -5105,7 +5115,7 @@
 	},
 	"Sonic Gems Collection (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ソニック　ジェムズ　コレクション"
+		"localName": "ソニック　ジェムズ　コレクション"
 	},
 	"Sonic Gems Collection (USA)": {
 		"languages": ["En"]
@@ -5115,7 +5125,7 @@
 	},
 	"Sonic Heroes (Japan) (En,Ja,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja"],
-		"localizedName": "ソニック　ヒーローズ"
+		"localName": "ソニック　ヒーローズ"
 	},
 	"Sonic Heroes (USA) (En,Ja,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja"]
@@ -5125,7 +5135,7 @@
 	},
 	"Sonic Mega Collection (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ソニック　メガコレクション"
+		"localName": "ソニック　メガコレクション"
 	},
 	"Sonic Mega Collection (USA)": {
 		"languages": ["En"]
@@ -5135,7 +5145,7 @@
 	},
 	"Sonic Riders (Japan) (En,Ja,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja"],
-		"localizedName": "ソニックライダーズ"
+		"localName": "ソニックライダーズ"
 	},
 	"Sonic Riders (USA) (En,Ja,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja"]
@@ -5145,7 +5155,7 @@
 	},
 	"Soulcalibur II (Japan) (Rev 1)": {
 		"languages": ["Ja"],
-		"localizedName": "ソウルキャリバーⅡ"
+		"localName": "ソウルキャリバーⅡ"
 	},
 	"Soulcalibur II (USA)": {
 		"languages": ["En"]
@@ -5155,11 +5165,11 @@
 	},
 	"Space Raiders (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "スペース　レイダース"
+		"localName": "スペース　レイダース"
 	},
 	"Space Raiders (Korea)": {
 		"languages": ["Ko"],
-		"localizedName": "스페이스　레이더스"
+		"localName": "스페이스　레이더스"
 	},
 	"Space Raiders (USA)": {
 		"languages": ["En"]
@@ -5184,7 +5194,7 @@
 	},
 	"Special Jinsei Game (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "Ｓｐｅｃｉａｌ　人生ゲーム"
+		"localName": "Ｓｐｅｃｉａｌ　人生ゲーム"
 	},
 	"Speed Challenge - Jacques Villeneuve's Racing Vision (Europe) (En,Fr)": {
 		"languages": ["En", "Fr"]
@@ -5215,7 +5225,7 @@
 	},
 	"Spider-Man (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "スパイダーマン"
+		"localName": "スパイダーマン"
 	},
 	"Spider-Man (USA)": {
 		"languages": ["En"]
@@ -5264,7 +5274,7 @@
 	},
 	"Star Fox - Assault (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "スターフォックス　アサルト"
+		"localName": "スターフォックス　アサルト"
 	},
 	"Star Fox - Assault (USA)": {
 		"languages": ["En"]
@@ -5277,11 +5287,11 @@
 	},
 	"Star Fox Adventures (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "スターフォックスアドベンチャー"
+		"localName": "スターフォックスアドベンチャー"
 	},
 	"Star Fox Adventures (Japan) (Rev 1)": {
 		"languages": ["Ja"],
-		"localizedName": "スターフォックスアドベンチャー"
+		"localName": "スターフォックスアドベンチャー"
 	},
 	"Star Fox Adventures (USA)": {
 		"languages": ["En"]
@@ -5327,11 +5337,11 @@
 	},
 	"Star Wars - Rogue Squadron II (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "スター・ウォーズ　ローグ　スコードロン　ＩＩ"
+		"localName": "スター・ウォーズ　ローグ　スコードロン　ＩＩ"
 	},
 	"Star Wars - Rogue Squadron II (Japan) (Jitsuen-you Sample)": {
 		"languages": ["Ja"],
-		"localizedName": "スター・ウォーズ　ローグ　スコードロン　Ⅱ"
+		"localName": "スター・ウォーズ　ローグ　スコードロン　Ⅱ"
 	},
 	"Star Wars - Rogue Squadron II - Rogue Leader (Europe)": {
 		"languages": ["En"]
@@ -5353,7 +5363,7 @@
 	},
 	"Star Wars - Rogue Squadron III (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "スター・ウォーズ　ローグ　スコードロン　ＩＩＩ"
+		"localName": "スター・ウォーズ　ローグ　スコードロン　ＩＩＩ"
 	},
 	"Star Wars - Rogue Squadron III - Rebel Strike (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -5370,6 +5380,9 @@
 	"Star Wars - Rogue Squadron III - Rebel Strike (USA) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
+	"Star Wars - Rogue Squadron III - Rebel Strike (USA) (En,Fr,De,Es,It) (Rev 1)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
 	"Star Wars - Rogue Squadron III - Rebel Strike (USA) (Limited Edition Preview Disc)": {
 		"languages": ["En"]
 	},
@@ -5384,7 +5397,7 @@
 	},
 	"Star Wars - The Clone Wars (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "スター・ウォーズ　クローン戦争"
+		"localName": "スター・ウォーズ　クローン戦争"
 	},
 	"Star Wars - The Clone Wars (USA)": {
 		"languages": ["En"]
@@ -5427,11 +5440,11 @@
 	},
 	"Super Mario Stadium - Miracle Baseball (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "スーパーマリオスタジアム　ミラクルベースボール"
+		"localName": "スーパーマリオスタジアム　ミラクルベースボール"
 	},
 	"Super Mario Strikers (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "スーパーマリオ　ストライカーズ"
+		"localName": "スーパーマリオ　ストライカーズ"
 	},
 	"Super Mario Strikers (USA)": {
 		"languages": ["En"]
@@ -5441,15 +5454,15 @@
 	},
 	"Super Mario Sunshine (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "スーパーマリオサンシャイン"
+		"localName": "スーパーマリオサンシャイン"
 	},
 	"Super Mario Sunshine (Japan) (Rev 1)": {
 		"languages": ["Ja"],
-		"localizedName": "スーパーマリオサンシャイン"
+		"localName": "スーパーマリオサンシャイン"
 	},
 	"Super Mario Sunshine (Korea)": {
 		"languages": ["En"],
-		"localizedName": "슈퍼 마리오 선샤인"
+		"localName": "슈퍼 마리오 선샤인"
 	},
 	"Super Mario Sunshine (USA)": {
 		"languages": ["En"]
@@ -5459,7 +5472,7 @@
 	},
 	"Super Monkey Ball (Japan) (Rev 2)": {
 		"languages": ["Ja"],
-		"localizedName": "スーパーモンキーボール"
+		"localName": "スーパーモンキーボール"
 	},
 	"Super Monkey Ball (USA)": {
 		"languages": ["En"]
@@ -5469,11 +5482,11 @@
 	},
 	"Super Monkey Ball 2 (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "スーパーモンキーボール２"
+		"localName": "スーパーモンキーボール２"
 	},
 	"Super Monkey Ball 2 (Japan) (Taikenban)": {
 		"languages": ["Ja"],
-		"localizedName": "スーパーモンキーボール２"
+		"localName": "スーパーモンキーボール２"
 	},
 	"Super Monkey Ball 2 (USA)": {
 		"languages": ["En"]
@@ -5486,22 +5499,22 @@
 	},
 	"Super Puzzle Bobble All Stars (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "スーパーパズルボブル　オールスターズ"
+		"localName": "スーパーパズルボブル　オールスターズ"
 	},
 	"Super Puzzle Bobble All Stars (Korea)": {
 		"languages": ["En"],
-		"localizedName": "슈퍼퍼즐버블　올스타"
+		"localName": "슈퍼퍼즐버블　올스타"
 	},
 	"Super Robot Taisen GC (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "スーパーロボット大戦ＧＣ"
+		"localName": "スーパーロボット大戦ＧＣ"
 	},
 	"Super Smash Bros. Melee (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Super Smash Bros. Melee (Korea) (En,Ja)": {
 		"languages": ["En", "Ja"],
-		"localizedName": "대난투　스매쉬　브라더스　ＤＸ"
+		"localName": "대난투　스매쉬　브라더스　ＤＸ"
 	},
 	"Super Smash Bros. Melee (USA) (En,Ja)": {
 		"languages": ["En", "Ja"]
@@ -5523,7 +5536,7 @@
 	},
 	"Swingerz Golf (Korea)": {
 		"languages": ["En"],
-		"localizedName": "와！와！　골프"
+		"localName": "와！와！　골프"
 	},
 	"Swingerz Golf (USA)": {
 		"languages": ["En"]
@@ -5560,7 +5573,7 @@
 	},
 	"Tak and the Power of Juju (Korea)": {
 		"languages": ["En"],
-		"localizedName": "원시소년 탁과 마법사 주주"
+		"localName": "원시소년 탁과 마법사 주주"
 	},
 	"Tak and the Power of Juju (USA)": {
 		"languages": ["En"]
@@ -5594,11 +5607,11 @@
 	},
 	"Tales of Symphonia (Japan) (Disc 1)": {
 		"languages": ["Ja"],
-		"localizedName": "テイルズ　オブ　シンフォニア"
+		"localName": "テイルズ　オブ　シンフォニア"
 	},
 	"Tales of Symphonia (Japan) (Disc 2)": {
 		"languages": ["Ja"],
-		"localizedName": "テイルズ　オブ　シンフォニア"
+		"localName": "テイルズ　オブ　シンフォニア"
 	},
 	"Tales of Symphonia (Spain) (Disc 1)": {
 		"languages": ["Es"]
@@ -5659,14 +5672,14 @@
 	},
 	"Tengai Makyou II - Manji Maru (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "天外魔境ＩＩ　ＭＡＮＪＩＭＡＲＵ"
+		"localName": "天外魔境ＩＩ　ＭＡＮＪＩＭＡＲＵ"
 	},
 	"Terminator 3 - The Redemption (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Terminator 3 - The Redemption (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ターミネーター３　ザ・レデンプション"
+		"localName": "ターミネーター３　ザ・レデンプション"
 	},
 	"Terminator 3 - The Redemption (USA)": {
 		"languages": ["En"]
@@ -5676,7 +5689,7 @@
 	},
 	"Tetris Worlds (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "テトリス　ワールド"
+		"localName": "テトリス　ワールド"
 	},
 	"Tetris Worlds (USA)": {
 		"languages": ["En"]
@@ -5749,7 +5762,7 @@
 	},
 	"TimeSplitters 2 (Korea)": {
 		"languages": ["En"],
-		"localizedName": "타임　스플리터즈　２"
+		"localName": "타임　스플리터즈　２"
 	},
 	"TimeSplitters 2 (USA)": {
 		"languages": ["En"]
@@ -5849,7 +5862,7 @@
 	},
 	"Tony Hawk's Pro Skater 3 (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "トニーホーク　プロスケーター３"
+		"localName": "トニーホーク　プロスケーター３"
 	},
 	"Tony Hawk's Pro Skater 3 (USA)": {
 		"languages": ["En"]
@@ -5886,7 +5899,7 @@
 	},
 	"Top Gun - Ace of the Sky (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "トップガン　エース　オブ　ザ　スカイ"
+		"localName": "トップガン　エース　オブ　ザ　スカイ"
 	},
 	"Top Gun - Combat Zones (Europe) (En,Fr,De,Es,It,Nl)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
@@ -5896,11 +5909,11 @@
 	},
 	"Totsugeki!! Famicom Wars (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "突撃！！　ファミコンウォーズ"
+		"localName": "突撃！！　ファミコンウォーズ"
 	},
 	"Tower of Druaga, The (Japan)": {
 		"languages": ["En"],
-		"localizedName": "ドルアーガの塔"
+		"localName": "ドルアーガの塔"
 	},
 	"TransWorld Surf - Next Wave (USA)": {
 		"languages": ["En"]
@@ -5958,7 +5971,7 @@
 	},
 	"UFC - Ultimate Fighting Championship 2 - Tapout - Final Spec (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "アルティメット　ファイティング　チャンピオンシップ　２　タップアウト　ファイナルスペック"
+		"localName": "アルティメット　ファイティング　チャンピオンシップ　２　タップアウト　ファイナルスペック"
 	},
 	"Ultimate Cheats for Use with Metroid Prime (UK) (Unl)": {
 		"languages": ["En"]
@@ -6001,7 +6014,7 @@
 	},
 	"Ultimate Spider-Man (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "アルティメット　スパイダーマン"
+		"localName": "アルティメット　スパイダーマン"
 	},
 	"Ultimate Spider-Man (Spain)": {
 		"languages": ["Es"]
@@ -6014,7 +6027,7 @@
 	},
 	"Universal Studios Japan Adventure (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ユニバーサル・スタジオ・ジャパン・アドベンチャー"
+		"localName": "ユニバーサル・スタジオ・ジャパン・アドベンチャー"
 	},
 	"Universal Studios Theme Park Adventure (Europe) (En,Fr,De,Es)": {
 		"languages": ["De", "En", "Es", "Fr"]
@@ -6030,7 +6043,7 @@
 	},
 	"Urbz, The - Sims in the City (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ザ・アーブズ　シムズ・イン・ザ・シティ"
+		"localName": "ザ・アーブズ　シムズ・イン・ザ・シティ"
 	},
 	"Urbz, The - Sims in the City (USA)": {
 		"languages": ["En"]
@@ -6040,7 +6053,7 @@
 	},
 	"V-Rally 3 (Japan) (En,Ja,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja"],
-		"localizedName": "Ｖ－ＲＡＬＬＹ３"
+		"localName": "Ｖ－ＲＡＬＬＹ３"
 	},
 	"Vexx (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -6056,14 +6069,14 @@
 	},
 	"Viewtiful Joe (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ビューティフル　ジョー"
+		"localName": "ビューティフル　ジョー"
 	},
 	"Viewtiful Joe (USA)": {
 		"languages": ["En"]
 	},
 	"Viewtiful Joe - Battle Carnival (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ビューティフルジョー　バトルカーニバル"
+		"localName": "ビューティフルジョー　バトルカーニバル"
 	},
 	"Viewtiful Joe - Red Hot Rumble (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -6079,15 +6092,15 @@
 	},
 	"Viewtiful Joe 2 - Black Film no Nazo (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ビューティフル　ジョー　２　ブラックフィルムの謎"
+		"localName": "ビューティフル　ジョー　２　ブラックフィルムの謎"
 	},
 	"Viewtiful Joe Revival (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ビューティフルジョー　リバイバル"
+		"localName": "ビューティフルジョー　リバイバル"
 	},
 	"Virtua Fighter Cyber Generation - Judgment Six no Yabou (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "バーチャファイターサイバージェネレーション　ジャッジメントシックスの野望"
+		"localName": "バーチャファイターサイバージェネレーション　ジャッジメントシックスの野望"
 	},
 	"Virtua Quest (USA)": {
 		"languages": ["En"]
@@ -6100,14 +6113,14 @@
 	},
 	"Virtua Striker 3 Ver. 2002 (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "バーチャストライカー３　Ｖｅｒ．２００２"
+		"localName": "バーチャストライカー３　Ｖｅｒ．２００２"
 	},
 	"WTA Tour Tennis (USA)": {
 		"languages": ["En"]
 	},
 	"WTA Tour Tennis Pro Evolution (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ＷＴＡツアーテニス　プロエボリューション"
+		"localName": "ＷＴＡツアーテニス　プロエボリューション"
 	},
 	"WWE Crush Hour (Europe)": {
 		"languages": ["En"]
@@ -6123,7 +6136,7 @@
 	},
 	"WWE Day of Reckoning (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ＷＷＥ　デイ・オブ・レコニング"
+		"localName": "ＷＷＥ　デイ・オブ・レコニング"
 	},
 	"WWE Day of Reckoning (USA)": {
 		"languages": ["En"]
@@ -6142,7 +6155,11 @@
 	},
 	"WWE WrestleMania X8 (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "レッスルマニアＸ８"
+		"localName": "ＷＷＥ　レッスルマニアＸ８"
+	},
+	"WWE WrestleMania X8 (Japan) (Taikenban)": {
+		"languages": [],
+		"localName": "ＷＷＥ　レッスルマニアＸ８"
 	},
 	"WWE WrestleMania X8 (USA)": {
 		"languages": ["En"]
@@ -6152,18 +6169,18 @@
 	},
 	"WWE WrestleMania XIX (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "レッスルマニアＸＩＸ"
+		"localName": "レッスルマニアＸＩＸ"
 	},
 	"WWE WrestleMania XIX (Korea)": {
 		"languages": ["En"],
-		"localizedName": "레슬매니아１９"
+		"localName": "레슬매니아１９"
 	},
 	"WWE WrestleMania XIX (USA)": {
 		"languages": ["En"]
 	},
 	"Wai Wai Golf (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "わいわいゴルフ"
+		"localName": "わいわいゴルフ"
 	},
 	"Wallace & Gromit in Project Zoo (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -6182,11 +6199,11 @@
 	},
 	"Wario World (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ワリオワールド"
+		"localName": "ワリオワールド"
 	},
 	"Wario World (Korea)": {
 		"languages": ["En"],
-		"localizedName": "와리오 월드"
+		"localName": "와리오 월드"
 	},
 	"Wario World (USA)": {
 		"languages": ["En"]
@@ -6205,7 +6222,7 @@
 	},
 	"Wave Race - Blue Storm (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ウェーブレース　ブルーストーム"
+		"localName": "ウェーブレース　ブルーストーム"
 	},
 	"Wave Race - Blue Storm (USA)": {
 		"languages": ["En"]
@@ -6227,7 +6244,7 @@
 	},
 	"World Soccer Winning Eleven 6 - Final Evolution (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ワールドサッカー　ウイニングイレブン６　ファイナルエヴォリューション"
+		"localName": "ワールドサッカー　ウイニングイレブン６　ファイナルエヴォリューション"
 	},
 	"Worms 3D (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -6291,11 +6308,11 @@
 	},
 	"XGIII - Extreme G Racing (Europe) (En,Fr,De,Es)": {
 		"languages": ["De", "En", "Es", "Fr"],
-		"localizedName": "XGIII"
+		"localName": "XGIII"
 	},
 	"XGIII - Extreme G Racing (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "エクストリームＧ３"
+		"localName": "エクストリームＧ３"
 	},
 	"XGIII - Extreme G Racing (USA)": {
 		"languages": ["En"]
@@ -6320,11 +6337,11 @@
 	},
 	"Yu-Gi-Oh! Falsebound Kingdom - Kyokou ni Tozasareta Oukoku (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "遊戯王　フォルスバウンド　キングダム　虚構に閉ざされた王国"
+		"localName": "遊戯王　フォルスバウンド　キングダム　虚構に閉ざされた王国"
 	},
 	"Yu-Gi-Oh! Falsebound Kingdom - Kyokou ni Tozasareta Oukoku (Japan) (Taikenban)": {
 		"languages": ["Ja"],
-		"localizedName": "遊戯王　フォルスバウンド　キングダム　虚構に閉ざされた王国"
+		"localName": "遊戯王　フォルスバウンド　キングダム　虚構に閉ざされた王国"
 	},
 	"Yu-Gi-Oh! The Falsebound Kingdom (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -6346,23 +6363,23 @@
 	},
 	"Zelda Collection (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ゼルダ　コレクション"
+		"localName": "ゼルダ　コレクション"
 	},
 	"Zelda no Densetsu - 4-tsu no Tsurugi+ (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ゼルダの伝説　４つの剣＋"
+		"localName": "ゼルダの伝説　４つの剣＋"
 	},
 	"Zelda no Densetsu - Kaze no Takuto (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ゼルダの伝説　風のタクト"
+		"localName": "ゼルダの伝説　風のタクト"
 	},
 	"Zelda no Densetsu - Toki no Ocarina GC (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ゼルダの伝説　時のオカリナＧＣ　裏バージョン搭載"
+		"localName": "ゼルダの伝説　時のオカリナＧＣ　裏バージョン搭載"
 	},
 	"Zelda no Densetsu - Twilight Princess (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ゼルダの伝説　トワイライトプリンセス"
+		"localName": "ゼルダの伝説　トワイライトプリンセス"
 	},
 	"Zoids - Battle Legends (USA)": {
 		"languages": ["En"]
@@ -6372,30 +6389,30 @@
 	},
 	"Zoids Vs. (Japan) (Rev 1)": {
 		"languages": ["Ja"],
-		"localizedName": "ゾイド　バーサス"
+		"localName": "ゾイド　バーサス"
 	},
 	"Zoids Vs. II (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ゾイド　バーサスⅡ"
+		"localName": "ゾイド　バーサスⅡ"
 	},
 	"Zoids Vs. II (Japan) (Rev 1)": {
 		"languages": ["Ja"],
-		"localizedName": "ゾイド　バーサスⅡ"
+		"localName": "ゾイド　バーサスⅡ"
 	},
 	"Zoids Vs. III (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ゾイド　バーサスⅢ"
+		"localName": "ゾイド　バーサスⅢ"
 	},
 	"Zoids Vs. III (Japan) (Rev 2)": {
 		"languages": ["Ja"],
-		"localizedName": "ゾイド　バーサスⅢ"
+		"localName": "ゾイド　バーサスⅢ"
 	},
 	"ZooCube (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"ZooCube (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ズーキューブ"
+		"localName": "ズーキューブ"
 	},
 	"ZooCube (USA)": {
 		"languages": ["En"]

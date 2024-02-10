@@ -43,7 +43,7 @@
 	},
 	"1080 Snowboarding (Japan, USA) (En,Ja)": {
 		"languages": ["En", "Ja"],
-		"localizedName": "テン・エイティ　スノーボーディング"
+		"localName": "テン・エイティ　スノーボーディング"
 	},
 	"1080 Snowboarding (USA) (En,Ja) (LodgeNet)": {
 		"languages": ["En", "Ja"]
@@ -179,7 +179,7 @@
 	},
 	"Baku Bomberman (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "爆ＢＯＭＢＥＲＭＡＮ"
+		"localName": "爆ＢＯＭＢＥＲＭＡＮ"
 	},
 	"Bakuretsu Muteki Bangaioh (Japan)": {
 		"languages": ["Ja"]
@@ -294,11 +294,11 @@
 	},
 	"Bokujou Monogatari 2 (Japan) (Rev 2)": {
 		"languages": ["Ja"],
-		"localizedName": "牧場物語２"
+		"localName": "牧場物語２"
 	},
 	"Bokujou Monogatari 2 (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "牧場物語２"
+		"localName": "牧場物語２"
 	},
 	"Bomberman 64 (Europe)": {
 		"languages": ["En"]
@@ -491,7 +491,7 @@
 	},
 	"Controller Kensa-ki NUS-yo N Cassette (Japan) (Test Program)": {
 		"languages": ["Ja"],
-		"localizedName": "コントローラ検査器　ＮＵＳ用Ｎカセット"
+		"localName": "コントローラ検査器　ＮＵＳ用Ｎカセット"
 	},
 	"Cruis'n Exotica (USA)": {
 		"languages": ["En"]
@@ -525,7 +525,7 @@
 	},
 	"Custom Robo V2 (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "カスタムロボＶ２"
+		"localName": "カスタムロボＶ２"
 	},
 	"CyberTiger (Europe)": {
 		"languages": ["En"]
@@ -610,7 +610,7 @@
 	},
 	"Donkey Kong 64 (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ドンキーコング６４"
+		"localName": "ドンキーコング６４"
 	},
 	"Donkey Kong 64 (USA) (Demo) (Kiosk)": {
 		"languages": ["En"]
@@ -653,7 +653,7 @@
 	},
 	"Doubutsu no Mori (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "どうぶつの森"
+		"localName": "どうぶつの森"
 	},
 	"Dr. Mario 64 (USA) (LodgeNet)": {
 		"languages": ["En"]
@@ -741,7 +741,7 @@
 	},
 	"Excitebike 64 (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "エキサイトバイク６４"
+		"localName": "エキサイトバイク６４"
 	},
 	"Excitebike 64 (USA) (Demo) (Kiosk)": {
 		"languages": ["En"]
@@ -814,7 +814,7 @@
 	},
 	"F-Zero X (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "エフゼロ　エックス"
+		"localName": "エフゼロ　エックス"
 	},
 	"F-Zero X (USA) (Beta) (The Legend of Zelda - Ocarina of Time leftover data)": {
 		"languages": ["En"]
@@ -1002,6 +1002,9 @@
 	"GoldenEye 007 (Europe)": {
 		"languages": ["En"]
 	},
+	"GoldenEye 007 (Japan) (Switch Online)": {
+		"languages": ["Ja"]
+	},
 	"GoldenEye 007 (Japan)": {
 		"languages": ["Ja"]
 	},
@@ -1082,7 +1085,7 @@
 	},
 	"Hoshi no Kirby 64 (Japan) (Rev 3)": {
 		"languages": ["Ja"],
-		"localizedName": "星のカービィ６４"
+		"localName": "星のカービィ６４"
 	},
 	"Hoshi no Kirby 64 (Japan)": {
 		"languages": ["Ja"]
@@ -1530,7 +1533,7 @@
 	},
 	"Mario Golf 64 (Japan) (Rev 1)": {
 		"languages": ["Ja"],
-		"localizedName": "マリオゴルフ６４"
+		"localName": "マリオゴルフ６４"
 	},
 	"Mario Golf 64 (Japan)": {
 		"languages": ["Ja"]
@@ -1552,7 +1555,7 @@
 	},
 	"Mario Kart 64 (Japan) (Rev 1)": {
 		"languages": ["Ja"],
-		"localizedName": "マリオカート６４"
+		"localName": "マリオカート６４"
 	},
 	"Mario Kart 64 (Japan)": {
 		"languages": ["Ja"]
@@ -1577,7 +1580,7 @@
 	},
 	"Mario Party 2 (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "マリオパーティ２"
+		"localName": "マリオパーティ２"
 	},
 	"Mario Party 2 (USA) (Wii Virtual Console)": {
 		"languages": ["En"]
@@ -1605,21 +1608,21 @@
 	},
 	"Mario Party (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "マリオパーティ"
+		"localName": "マリオパーティ"
 	},
 	"Mario Party (USA)": {
 		"languages": ["En"]
 	},
 	"Mario Story (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "マリオストーリー"
+		"localName": "マリオストーリー"
 	},
 	"Mario Tennis 64 (Japan) (Wii Virtual Console)": {
 		"languages": ["Ja"]
 	},
 	"Mario Tennis 64 (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "マリオテニス６４"
+		"localName": "マリオテニス６４"
 	},
 	"Mario Tennis (Europe) (Wii Virtual Console)": {
 		"languages": ["En"]
@@ -1950,7 +1953,7 @@
 	},
 	"Nintendo All-Star! Dairantou Smash Brothers (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ニンテンドウオールスター！　大乱闘スマッシュブラザーズ"
+		"localName": "ニンテンドウオールスター！　大乱闘スマッシュブラザーズ"
 	},
 	"Nuclear Strike 64 (Europe) (En,Fr)": {
 		"languages": ["En", "Fr"]
@@ -1996,7 +1999,7 @@
 	},
 	"Ogre Battle 64 - Person of Lordly Caliber (Japan) (Rev 1)": {
 		"languages": ["Ja"],
-		"localizedName": "オウガバトル６４"
+		"localName": "オウガバトル６４"
 	},
 	"Ogre Battle 64 - Person of Lordly Caliber (USA) (Rev 1)": {
 		"languages": ["En"]
@@ -2079,6 +2082,9 @@
 	"PGA European Tour Golf (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
+	"Pikachuu Genki de Chuu (Japan) (Beta)": {
+		"languages": ["Ja"]
+	},
 	"Pikachuu Genki de Chuu (Japan)": {
 		"languages": ["Ja"]
 	},
@@ -2135,11 +2141,11 @@
 	},
 	"Pokemon Snap (Japan) (Rev 1) (Wii Virtual Console)": {
 		"languages": ["Ja"],
-		"localizedName": "ポケモンスナップ"
+		"localName": "ポケモンスナップ"
 	},
 	"Pokemon Snap (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ポケモンスナップ"
+		"localName": "ポケモンスナップ"
 	},
 	"Pokemon Snap (Spain)": {
 		"languages": ["Es"]
@@ -2167,7 +2173,7 @@
 	},
 	"Pokemon Stadium 2 (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ポケモンスタジアム２"
+		"localName": "ポケモンスタジアム２"
 	},
 	"Pokemon Stadium 2 (Spain)": {
 		"languages": ["Es"]
@@ -2192,7 +2198,7 @@
 	},
 	"Pokemon Stadium (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ポケモンスタジアム"
+		"localName": "ポケモンスタジアム"
 	},
 	"Pokemon Stadium (Spain)": {
 		"languages": ["Es"]
@@ -2208,7 +2214,7 @@
 	},
 	"Pokemon Stadium Kin Gin (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ポケモンスタジアム　金　銀"
+		"localName": "ポケモンスタジアム　金　銀"
 	},
 	"Polaris SnoCross (USA)": {
 		"languages": ["En"]
@@ -2608,7 +2614,7 @@
 	},
 	"Star Fox 64 (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "スターフォックス６４"
+		"localName": "スターフォックス６４"
 	},
 	"Star Fox 64 (USA) (LodgeNet)": {
 		"languages": ["En"]
@@ -2729,11 +2735,11 @@
 	},
 	"Super Mario 64 (Japan) (Rev 3) (Shindou Edition)": {
 		"languages": ["Ja"],
-		"localizedName": "スーパーマリオ６４"
+		"localName": "スーパーマリオ６４"
 	},
 	"Super Mario 64 (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "スーパーマリオ６４"
+		"localName": "スーパーマリオ６４"
 	},
 	"Super Mario 64 (USA) (LodgeNet)": {
 		"languages": ["En"]
@@ -2974,7 +2980,7 @@
 	},
 	"Tsumi to Batsu - Hoshi no Keishousha (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "罪と罰　地球の継承者"
+		"localName": "罪と罰　地球の継承者"
 	},
 	"Turok 2 - Seeds of Evil (Europe) (Demo) (Kiosk)": {
 		"languages": ["En"]
@@ -3170,7 +3176,7 @@
 	},
 	"Wave Race 64 - Kawasaki Jet Ski (Japan) (Rev 2) (Shindou Edition)": {
 		"languages": ["Ja"],
-		"localizedName": "ウエーブレース６４"
+		"localName": "ウエーブレース６４"
 	},
 	"Wave Race 64 - Kawasaki Jet Ski (Japan)": {
 		"languages": ["Ja"]
@@ -3366,7 +3372,7 @@
 	},
 	"Yoshi Story (Japan)": {
 		"languages": ["Ja"],
-		"localizedName": "ヨッシーストーリー"
+		"localName": "ヨッシーストーリー"
 	},
 	"Yoshi's Story (Europe) (En,Fr,De)": {
 		"languages": ["De", "En", "Fr"]
@@ -3385,7 +3391,7 @@
 	},
 	"Zelda no Densetsu - Mujura no Kamen (Japan) (Rev 1)": {
 		"languages": ["Ja"],
-		"localizedName": "ゼルダの伝説　ムジュラの仮面"
+		"localName": "ゼルダの伝説　ムジュラの仮面"
 	},
 	"Zelda no Densetsu - Mujura no Kamen (Japan)": {
 		"languages": ["Ja"]
@@ -3398,7 +3404,7 @@
 	},
 	"Zelda no Densetsu - Toki no Ocarina (Japan) (Rev 2)": {
 		"languages": ["Ja"],
-		"localizedName": "ゼルダの伝説　時のオカリナ"
+		"localName": "ゼルダの伝説　時のオカリナ"
 	},
 	"Zelda no Densetsu - Toki no Ocarina (Japan)": {
 		"languages": ["Ja"]

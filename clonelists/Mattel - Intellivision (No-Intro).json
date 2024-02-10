@@ -1,22 +1,9 @@
 {
 	"description": {
 		"name": "Mattel - Intellivision (No-Intro)",
-		"lastUpdated": "03 December 2023",
-		"minimumVersion": "2.00"
+		"lastUpdated": "26 December 2023",
+		"minimumVersion": "2.02"
 	},
-
-	"categories": [
-		{
-			"searchTerm": "^Demonstration Cartridge (- .*)?",
-			"nameType": "regex",
-			"categories": ["Demos"]
-		},
-		{
-			"searchTerm": "^MTE 201 Test Cartridge.*",
-			"nameType": "regex",
-			"categories": ["Applications"]
-		}
-	],
 
 	"variants": [
 		{
@@ -75,12 +62,40 @@
 			]
 		},
 		{
+			"group": "Demonstration Cartridge - Blue",
+			"categories": ["Demos"],
+			"titles": [
+				{"searchTerm": "Demonstration Cartridge - Blue"}
+			]
+		},
+		{
+			"group": "Demonstration Cartridge - Green",
+			"categories": ["Demos"],
+			"titles": [
+				{"searchTerm": "Demonstration Cartridge - Green"}
+			]
+		},
+		{
+			"group": "Demonstration Cartridge - Red",
+			"categories": ["Demos"],
+			"titles": [
+				{"searchTerm": "Demonstration Cartridge - Red"}
+			]
+		},
+		{
 			"group": "Factor Fun",
 			"titles": [
 				{"searchTerm": "Factor Fun"}
 			],
 			"compilations": [
 				{"searchTerm": "Learning Fun I - Math Master, Factor Fun"}
+			]
+		},
+		{
+			"group": "International Demonstration Cartridge",
+			"categories": ["Demos"],
+			"titles": [
+				{"searchTerm": "International Demonstration Cartridge"}
 			]
 		},
 		{
@@ -106,6 +121,14 @@
 			],
 			"compilations": [
 				{"searchTerm": "Learning Fun II - Word Wizard, Memory Fun"}
+			]
+		},
+		{
+			"group": "MTE 201 Test Cartridge",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "MTE 201 Test Cartridge"},
+				{"searchTerm": "MTE 201 Test Cartridgea"}
 			]
 		},
 		{

@@ -1,17 +1,9 @@
 {
 	"description": {
 		"name": "SNK NeoGeo Pocket Color (No-Intro)",
-		"lastUpdated": "23 April 2023",
-		"minimumVersion": "2.00"
+		"lastUpdated": "26 December 2023",
+		"minimumVersion": "2.02"
 	},
-
-	"categories": [
-		{
-			"searchTerm": "PP-AA01 - Pusher - Program - Hontai Controller Gawa",
-			"nameType": "short",
-			"categories": ["Applications"]
-		}
-	],
 
 	"variants": [
 		{
@@ -61,6 +53,13 @@
 			"titles": [
 				{"searchTerm": "Oekaki Puzzle"},
 				{"searchTerm": "Picture Puzzle"}
+			]
+		},
+		{
+			"group": "PP-AA01 - Pusher - Program - Hontai Controller Gawa",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "PP-AA01 - Pusher - Program - Hontai Controller Gawa"}
 			]
 		},
 		{

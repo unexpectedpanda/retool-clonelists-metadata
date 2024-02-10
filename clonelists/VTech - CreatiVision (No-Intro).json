@@ -1,19 +1,18 @@
 {
 	"description": {
 		"name": "VTech - CreatiVision (No-Intro)",
-		"lastUpdated": "11 May 2023",
-		"minimumVersion": "2.00"
+		"lastUpdated": "26 December 2023",
+		"minimumVersion": "2.02"
 	},
 
-	"categories": [
-		{
-			"searchTerm": "BASIC",
-			"nameType": "short",
-			"categories": ["Applications"]
-		}
-	],
-
 	"variants": [
+		{
+			"group": "BASIC",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "BASIC"}
+			]
+		},
 		{
 			"group": "Tennis",
 			"titles": [

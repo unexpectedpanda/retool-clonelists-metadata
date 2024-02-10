@@ -1,135 +1,9 @@
 {
 	"description": {
 		"name": "Nintendo - Game Boy (No-Intro)",
-		"lastUpdated": "03 December 2023",
-		"minimumVersion": "2.00"
+		"lastUpdated": "10 February 2024",
+		"minimumVersion": "2.02"
 	},
-
-	"categories": [
-		{
-			"searchTerm": "(?:\\w+ )?Action Replay(?: \\w+)?.*?$",
-			"nameType": "regex",
-			"categories": ["Applications"]
-		},
-		{
-			"searchTerm": "Game Boy Camera",
-			"nameType": "short",
-			"categories": ["Applications"]
-		},
-		{
-			"searchTerm": "Game Boy Camera Gold",
-			"nameType": "short",
-			"categories": ["Applications"]
-		},
-		{
-			"searchTerm": "Game Boy Aging Cartridge",
-			"nameType": "short",
-			"categories": ["Applications"]
-		},
-		{
-			"searchTerm": "Game Boy Controller Kensa Cartridge",
-			"nameType": "short",
-			"categories": ["Applications"]
-		},
-		{
-			"searchTerm": "Game Boy Datenlogger 1",
-			"nameType": "short",
-			"categories": ["Applications"]
-		},
-		{
-			"searchTerm": "Game Boy Digital Sampling Oscilloscope",
-			"nameType": "short",
-			"categories": ["Applications"]
-		},
-		{
-			"searchTerm": "Game Genie",
-			"nameType": "short",
-			"categories": ["Applications"]
-		},
-		{
-			"searchTerm": "GameShark",
-			"nameType": "short",
-			"categories": ["Applications"]
-		},
-		{
-			"searchTerm": "^InfoGenius Productivity Pak.*",
-			"nameType": "regex",
-			"categories": ["Applications", "Educational"]
-		},
-		{
-			"searchTerm": "InfoGenius Systems - Personal Organizer with Phone Book",
-			"nameType": "short",
-			"categories": ["Applications"]
-		},
-		{
-			"searchTerm": "Pocket Camera",
-			"nameType": "short",
-			"categories": ["Applications"]
-		},
-		{
-			"searchTerm": "Pocket Sonar",
-			"nameType": "short",
-			"categories": ["Applications"]
-		},
-		{
-			"searchTerm": "Pro Action Replay",
-			"nameType": "short",
-			"categories": ["Applications"]
-		},
-		{
-			"searchTerm": "SMARTCOM",
-			"nameType": "short",
-			"categories": ["Applications"]
-		}
-	],
-
-	"overrides": [
-		{
-			"searchTerm": "Bomberman GB (Japan) (SGB Enhanced)",
-			"nameType": "full",
-			"newGroup": "Wario Blast Featuring Bomberman!"
-		},
-		{
-			"searchTerm": "Bomberman GB 2 (Japan) (SGB Enhanced)",
-			"nameType": "full",
-			"newGroup": "Bomberman GB"
-		},
-		{
-			"searchTerm": "Donkey Kong Land (Japan) (SGB Enhanced)",
-			"nameType": "full",
-			"newGroup": "Donkey Kong Land 2"
-		},
-		{
-			"searchTerm": "Hugo (World) (Aftermarket) (Homebrew)",
-			"nameType": "full",
-			"newGroup": "Huge homebrew"
-		},
-		{
-			"searchTerm": "Mickey Mouse (Japan)",
-			"nameType": "full",
-			"newGroup": "Bugs Bunny Crazy Castle, The"
-		},
-		{
-			"searchTerm": "Soccer (Japan)",
-			"nameType": "full",
-			"newGroup": "Football International"
-		},
-		{
-			"searchTerm": "Game Boy Gallery (Japan) (SGB Enhanced)",
-			"nameType": "full",
-			"newGroup": "Game & Watch Gallery"
-		},
-		{
-			"searchTerm": "Game Boy Gallery 2 (Australia) (SGB Enhanced)",
-			"nameType": "full",
-			"newGroup": "Game & Watch Gallery"
-		},
-		{
-			"searchTerm": "Space Invaders (Japan)",
-			"nameType": "full",
-			"newGroup": "Space Invaders Japan"
-		}
-	],
 
 	"variants": [
 		{
@@ -137,6 +11,13 @@
 			"titles": [
 				{"searchTerm": "A-mazing Tater"},
 				{"searchTerm": "Puzzle Boy II"}
+			]
+		},
+		{
+			"group": "Action Replay Pro",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Action Replay Pro"}
 			]
 		},
 		{
@@ -352,10 +233,32 @@
 		{
 			"group": "Bomberman GB",
 			"titles": [
-				{"searchTerm": "Bomberman GB"}
+				{
+					"searchTerm": "Bomberman GB",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["Japan"]},
+							"results": {"group": "Wario Blast Featuring Bomberman!"}
+						}
+					]
+				}
 			],
 			"compilations": [
 				{"searchTerm": "Bomberman Collection"}
+			]
+		},
+		{
+			"group": "Bomberman GB 2",
+			"titles": [
+				{
+					"searchTerm": "Bomberman GB 2",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["Japan"]},
+							"results": {"group": "Bomberman GB"}
+						}
+					]
+				}
 			]
 		},
 		{
@@ -417,8 +320,25 @@
 			"group": "Bugs Bunny Crazy Castle 2, The",
 			"titles": [
 				{"searchTerm": "Bugs Bunny Crazy Castle 2, The"},
-				{"searchTerm": "Hugo"},
-				{"searchTerm": "Mickey Mouse"},
+				{
+					"searchTerm": "Hugo",
+					"filters": [
+						{
+							"conditions": {"matchString": "Homebrew"},
+							"results": {"group": "Hugo (Homebrew)"}
+						}
+					]
+
+				},
+				{
+					"searchTerm": "Mickey Mouse",
+					"filters": [
+						{
+							"conditions" : {"matchRegions": ["Japan"]},
+							"results": {"group": "Bugs Bunny Crazy Castle, The"}
+						}
+					]
+				},
 				{"searchTerm": "Mickey Mouse II"}
 			],
 			"compilations": [
@@ -581,7 +501,15 @@
 		{
 			"group": "Donkey Kong Land",
 			"titles": [
-				{"searchTerm": "Donkey Kong Land"},
+				{
+					"searchTerm": "Donkey Kong Land",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["Japan"]},
+							"results": {"group": "Donkey Kong Land 2"}
+						}
+					]
+				},
 				{"searchTerm": "Super Donkey Kong GB"}
 			]
 		},
@@ -621,7 +549,15 @@
 			"group": "Elite Soccer",
 			"titles": [
 				{"searchTerm": "Elite Soccer"},
-				{"searchTerm": "Soccer"},
+				{
+					"searchTerm": "Soccer",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["Japan"]},
+							"results": {"group": "Football International"}
+						}
+					]
+				},
 				{"searchTerm": "World Cup Striker"}
 			]
 		},
@@ -732,11 +668,82 @@
 			]
 		},
 		{
+			"group": "Game Boy Aging Cartridge",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Game Boy Aging Cartridge"}
+			]
+		},
+		{
 			"group": "Game Boy Camera Gold",
+			"categories": ["Applications"],
 			"titles": [
 				{"searchTerm": "Game Boy Camera Gold"},
 				{"searchTerm": "Game Boy Camera", "priority": 2},
 				{"searchTerm": "Pocket Camera"}
+			]
+		},
+		{
+			"group": "Game Boy Controller Kensa Cartridge",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Game Boy Controller Kensa Cartridge"}
+			]
+		},
+		{
+			"group": "Game Boy Datenlogger 1",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Game Boy Datenlogger 1"}
+			]
+		},
+		{
+			"group": "Game Boy Digital Sampling Oscilloscope",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Game Boy Digital Sampling Oscilloscope"}
+			]
+		},
+		{
+			"group": "Game Boy Gallery",
+			"titles": [
+				{
+					"searchTerm": "Game Boy Gallery",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["Japan"]},
+							"results": {"group": "Game & Watch Gallery"}
+						}
+					]
+				}
+			]
+		},
+		{
+			"group": "Game Boy Gallery 2",
+			"titles": [
+				{
+					"searchTerm": "Game Boy Gallery 2",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["Australia"]},
+							"results": {"group": "Game & Watch Gallery"}
+						}
+					]
+				}
+			]
+		},
+		{
+			"group": "Game Genie",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Game Genie"}
+			]
+		},
+		{
+			"group": "GameShark",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "GameShark"}
 			]
 		},
 		{
@@ -814,7 +821,7 @@
 			"group": "Hammerin' Harry",
 			"titles": [
 				{"searchTerm": "Hammerin' Harry"},
-				{"searchTerm": "Daiku no Gen-san - Ghost Building Company"}
+				{"searchTerm": "Daiku no Gen-san - Ghost Building Company", "localNames": {"japanese": "大工の源さん ゴーストビルディングカンパニー"}}
 			]
 		},
 		{
@@ -854,9 +861,52 @@
 		},
 		{
 			"group": "InfoGenius Productivity Pak - Personal Organizer and Phone Book",
+			"categories": ["Applications", "Educational"],
 			"titles": [
 				{"searchTerm": "InfoGenius Productivity Pak - Personal Organizer and Phone Book"},
 				{"searchTerm": "InfoGenius Systems - Personal Organizer with Phone Book"}
+			]
+		},
+		{
+			"group": "InfoGenius Productivity Pak - Berlitz French Translator",
+			"categories": ["Applications", "Educational"],
+			"titles": [
+				{"searchTerm": "InfoGenius Productivity Pak - Berlitz French Translator"}
+			]
+		},
+		{
+			"group": "InfoGenius Productivity Pak - Berlitz German Translator",
+			"categories": ["Applications", "Educational"],
+			"titles": [
+				{"searchTerm": "InfoGenius Productivity Pak - Berlitz German Translator"}
+			]
+		},
+		{
+			"group": "InfoGenius Productivity Pak - Berlitz Japanese Translator",
+			"categories": ["Applications", "Educational"],
+			"titles": [
+				{"searchTerm": "InfoGenius Productivity Pak - Berlitz Japanese Translator"}
+			]
+		},
+		{
+			"group": "InfoGenius Productivity Pak - Berlitz Spanish Translator",
+			"categories": ["Applications", "Educational"],
+			"titles": [
+				{"searchTerm": "InfoGenius Productivity Pak - Berlitz Spanish Translator"}
+			]
+		},
+		{
+			"group": "InfoGenius Productivity Pak - Frommer's Travel Guide",
+			"categories": ["Applications", "Educational"],
+			"titles": [
+				{"searchTerm": "InfoGenius Productivity Pak - Frommer's Travel Guide"}
+			]
+		},
+		{
+			"group": "InfoGenius Productivity Pak - Spell Checker and Calculator",
+			"categories": ["Applications", "Educational"],
+			"titles": [
+				{"searchTerm": "InfoGenius Productivity Pak - Spell Checker and Calculator"}
 			]
 		},
 		{
@@ -1142,8 +1192,8 @@
 		{
 			"group": "Mofa Qiu - Magic Ball",
 			"titles": [
-				{"searchTerm": "Mofa Qiu - Magic Ball"},
-				{"searchTerm": "Mofa Qiu - Magic Ball (Multicart Rip)", "priority": 2}
+				{"searchTerm": "Mofa Qiu - Magic Ball", "localNames": {"chinese (traditional)": "魔法球"}},
+				{"searchTerm": "Mofa Qiu - Magic Ball (Multicart Rip)", "priority": 2, "localNames": {"chinese (traditional)": "魔法球"}}
 			]
 		},
 		{
@@ -1310,6 +1360,20 @@
 			]
 		},
 		{
+			"group": "Pocket Camera",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Pocket Camera"}
+			]
+		},
+		{
+			"group": "Pocket Sonar",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Pocket Sonar"}
+			]
+		},
+		{
 			"group": "Pokemon - Blue Version",
 			"titles": [
 				{"searchTerm": "Pokemon - Blue Version"},
@@ -1368,6 +1432,13 @@
 			"titles": [
 				{"searchTerm": "Prehistorik Man"},
 				{"searchTerm": "P-Man GB"}
+			]
+		},
+		{
+			"group": "Pro Action Replay",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Pro Action Replay"}
 			]
 		},
 		{
@@ -1503,6 +1574,13 @@
 			]
 		},
 		{
+			"group": "SMARTCOM",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "SMARTCOM"}
+			]
+		},
+		{
 			"group": "Snoopy's Magic Show",
 			"titles": [
 				{"searchTerm": "Snoopy's Magic Show"},
@@ -1521,6 +1599,20 @@
 			"titles": [
 				{"searchTerm": "Soccer Mania"},
 				{"searchTerm": "Soccer Boy"}
+			]
+		},
+		{
+			"group": "Space Invaders",
+			"titles": [
+				{
+					"searchTerm": "Space Invaders",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["Japan"]},
+							"results": {"group": "Space Invaders (Japan)"}
+						}
+					]
+				}
 			]
 		},
 		{
@@ -1814,6 +1906,13 @@
 			]
 		},
 		{
+			"group": "Traumatarium",
+			"titles": [
+				{"searchTerm": "Traumatarium"},
+				{"searchTerm": "Traumatarium (Broke Studio)", "priority": 2}
+			]
+		},
+		{
 			"group": "Trax",
 			"titles": [
 				{"searchTerm": "Trax"},
@@ -1935,6 +2034,12 @@
 			]
 		},
 		{
+			"group": "Yelu Wangzi (Prince Yeh Rude)",
+			"titles": [
+				{"searchTerm": "Yelu Wangzi (Prince Yeh Rude)", "localNames": {"chinese (traditional)": "耶魯王子"}}
+			]
+		},
+		{
 			"group": "Yoshi",
 			"titles": [
 				{"searchTerm": "Yoshi"},
@@ -1977,8 +2082,8 @@
 		{
 			"group": "Zuigao Jimi",
 			"titles": [
-				{"searchTerm": "Zuigao Jimi (Top Secret)"},
-				{"searchTerm": "Zuigao Jimi (Top Secret) (Multicart Rip)", "priority": 2}
+				{"searchTerm": "Zuigao Jimi (Top Secret)", "localNames": {"chinese (traditional)": "最高機密"}},
+				{"searchTerm": "Zuigao Jimi (Top Secret) (Multicart Rip)", "priority": 2, "localNames": {"chinese (traditional)": "最高機密"}}
 			]
 		}
 	]

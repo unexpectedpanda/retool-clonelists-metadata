@@ -9,12 +9,12 @@
    PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN"
    SYSTEM "https://raw.githubusercontent.com/unexpectedpanda/retool/main/datafile.dtd"
 
-   $Revision: 2.4 $
-   $Date: 2023/05/21 10:54:00 $
+   $Revision: 2.5 $
+   $Date: 2023/12/24 08:42:00 $
 
 -->
 
-<!ELEMENT datafile (header?, game+)>
+<!ELEMENT datafile (header?, (game|machine)*)>
 	<!ATTLIST datafile build CDATA #IMPLIED>
 	<!ATTLIST datafile debug (yes|no) "no">
 	<!ELEMENT header (name, description, category?, version, date?, author, email?, homepage?, url?, comment?, clrmamepro?, romcenter?)>
@@ -46,7 +46,7 @@
 			<!ATTLIST romvault forcemerging (none|split|full) "split">
 			<!ATTLIST romvault forcenodump (obsolete|required|ignore) "obsolete">
 			<!ATTLIST romvault forcepacking (zip|unzip) "zip">
-	<!ELEMENT game (category*, comment*, description, year?, manufacturer?, release*, biosset*, game_id*, rom*, disk*, sample*, archive*)>
+	<!ELEMENT game (category*, comment*, description, year?, manufacturer?, release*, biosset*, game_id?, id?, rom*, disk*, sample*, archive*)>
 		<!ATTLIST game name CDATA #REQUIRED>
 		<!ATTLIST game sourcefile CDATA #IMPLIED>
 		<!ATTLIST game id CDATA #IMPLIED>
@@ -57,6 +57,54 @@
 		<!ATTLIST game sampleof CDATA #IMPLIED>
 		<!ATTLIST game board CDATA #IMPLIED>
 		<!ATTLIST game rebuildto CDATA #IMPLIED>
+		<!ELEMENT year (#PCDATA)>
+		<!ELEMENT manufacturer (#PCDATA)>
+		<!ELEMENT release EMPTY>
+			<!ATTLIST release name CDATA #REQUIRED>
+			<!ATTLIST release region CDATA #REQUIRED>
+			<!ATTLIST release language CDATA #IMPLIED>
+			<!ATTLIST release date CDATA #IMPLIED>
+			<!ATTLIST release default (yes|no) "no">
+		<!ELEMENT biosset EMPTY>
+			<!ATTLIST biosset name CDATA #REQUIRED>
+			<!ATTLIST biosset description CDATA #REQUIRED>
+			<!ATTLIST biosset default (yes|no) "no">
+		<!ELEMENT game_id (#PCDATA)>
+		<!ELEMENT rom EMPTY>
+			<!ATTLIST rom name CDATA #REQUIRED>
+			<!ATTLIST rom size CDATA #IMPLIED>
+			<!ATTLIST rom header CDATA #IMPLIED>
+			<!ATTLIST rom mia (yes|no) "no">
+			<!ATTLIST rom crc CDATA #IMPLIED>
+			<!ATTLIST rom sha1 CDATA #IMPLIED>
+			<!ATTLIST rom sha256 CDATA #IMPLIED>
+			<!ATTLIST rom md5 CDATA #IMPLIED>
+			<!ATTLIST rom merge CDATA #IMPLIED>
+			<!ATTLIST rom status (baddump|nodump|good|verified) "good">
+			<!ATTLIST rom date CDATA #IMPLIED>
+			<!ATTLIST rom serial CDATA #IMPLIED>
+		<!ELEMENT disk EMPTY>
+			<!ATTLIST disk name CDATA #REQUIRED>
+			<!ATTLIST disk sha1 CDATA #IMPLIED>
+			<!ATTLIST disk sha256 CDATA #IMPLIED>
+			<!ATTLIST disk md5 CDATA #IMPLIED>
+			<!ATTLIST disk merge CDATA #IMPLIED>
+			<!ATTLIST disk status (baddump|nodump|good|verified) "good">
+		<!ELEMENT sample EMPTY>
+			<!ATTLIST sample name CDATA #REQUIRED>
+		<!ELEMENT archive EMPTY>
+			<!ATTLIST archive name CDATA #REQUIRED>
+	<!ELEMENT machine (category*, comment*, description, year?, manufacturer?, release*, biosset*, game_id?, id?, rom*, disk*, sample*, archive*)>
+		<!ATTLIST machine name CDATA #REQUIRED>
+		<!ATTLIST machine sourcefile CDATA #IMPLIED>
+		<!ATTLIST machine id CDATA #IMPLIED>
+		<!ATTLIST machine cloneofid CDATA #IMPLIED>
+		<!ATTLIST machine isbios (yes|no) "no">
+		<!ATTLIST machine cloneof CDATA #IMPLIED>
+		<!ATTLIST machine romof CDATA #IMPLIED>
+		<!ATTLIST machine sampleof CDATA #IMPLIED>
+		<!ATTLIST machine board CDATA #IMPLIED>
+		<!ATTLIST machine rebuildto CDATA #IMPLIED>
 		<!ELEMENT year (#PCDATA)>
 		<!ELEMENT manufacturer (#PCDATA)>
 		<!ELEMENT release EMPTY>

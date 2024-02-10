@@ -1,17 +1,9 @@
 {
 	"description": {
 		"name": "Atari - Lynx (No-Intro)",
-		"lastUpdated": "02 January 2024",
-		"minimumVersion": "2.00"
+		"lastUpdated": "10 February 2024",
+		"minimumVersion": "2.02"
 	},
-
-	"categories": [
-		{
-			"searchTerm": "Lynx II Production Test Program",
-			"nameType": "short",
-			"categories": ["Applications"]
-		}
-	],
 
 	"variants": [
 		{
@@ -32,10 +24,33 @@
 			]
 		},
 		{
+			"group": "Hungry Monsters",
+			"titles": [
+				{"searchTerm": "Hungry Monsters"},
+				{"searchTerm": "Hungry Monsters (Retro Platform Jam #4)"}
+			]
+		},
+		{
+			"group": "Lynx II Production Test Program",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Lynx II Production Test Program"}
+			]
+		},
+		{
+			"group": "Peg Solitaire",
+			"titles": [
+				{"searchTerm": "Peg Solitaire"},
+				{"searchTerm": "Peg Solitaire (512K)", "priority": 2},
+				{"searchTerm": "Peg Solitaire (256K)", "priority": 3}
+			]
+		},
+		{
 			"group": "YNXA",
 			"titles": [
 				{"searchTerm": "YNXA"},
-				{"searchTerm": "YNXA (Flash)", "priority": 2}
+				{"searchTerm": "YNXA - Leaf and the Guardians of Time"},
+				{"searchTerm": "YNXA - Leaf and the Guardians of Time (LynxJam23)"}
 			]
 		}
 	]

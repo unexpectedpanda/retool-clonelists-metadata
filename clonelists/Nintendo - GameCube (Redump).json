@@ -1,119 +1,14 @@
 {
 	"description": {
 		"name": "Nintendo - GameCube (Redump)",
-		"lastUpdated": "03 December 2023",
+		"lastUpdated": "10 February 2024",
 		"minimumVersion": "2.00"
 	},
 
-	"categories": [
-		{
-			"searchTerm": "Kidou Senshi Gundam - Senshi-tachi no Kiseki - Kadokawa Shoten Rengou Kikaku Tokubetsu-hen",
-			"nameType": "short",
-			"categories": ["Promotional"]
-		},
-		{
-			"searchTerm": "Ribbit King Plus! (Bonus Disc)",
-			"nameType": "short",
-			"categories": ["Video"]
-		},
-		{
-			"searchTerm": "SmaBro DX Event-you Disc",
-			"nameType": "short",
-			"categories": ["Promotional"]
-		},
-		{
-			"searchTerm": "SSX Tricky (Jitsuen-you Sample)",
-			"nameType": "short",
-			"categories": ["Demos", "Games"]
-		}
-	],
-
 	"mias": [
 		"LEGO Super Soccer Adventure (Europe) (Proto)",
-		"SmaBro DX Event-you Disc (Japan)"
-	],
-
-	"overrides": [
-		{
-			"searchTerm": "Aging Disc DOL",
-			"nameType": "short",
-			"newGroup": "Aging Disc DOL",
-			"condition": {
-				"regionOrder": {
-					"higherRegions": ["Japan", "Korea", "Taiwan", "Asia"],
-					"lowerRegions": ["USA", "Canada", "Latin America", "UK", "Australia", "New Zealand", "Singapore", "Ireland", "Europe", "Spain", "Brazil", "Thailand", "Portugal", "France", "Belgium", "Netherlands", "Germany", "Austria", "Italy", "Switzerland", "Hong Kong", "Ukraine", "Estonia", "Poland", "Latvia", "Lithuania", "Denmark", "Norway", "Sweden", "Scandinavia", "Finland", "Iceland", "Hungary", "Czech", "Greece", "India", "South Africa", "Israel", "Slovakia", "Turkey", "Croatia", "Slovenia", "United Arab Emirates", "Bulgaria", "Romania", "Albania", "Serbia", "Indonesia"],
-					"elseGroup": "Aging Disc DOL",
-					"priority": 1
-				}
-			}
-		},
-		{
-			"searchTerm": "Aging Disc DOL-USA",
-			"nameType": "short",
-			"newGroup": "Aging Disc DOL",
-			"condition": {
-				"regionOrder": {
-					"higherRegions": ["USA", "Canada", "Latin America"],
-					"lowerRegions": ["Japan", "Korea", "Taiwan", "Asia", "UK", "Australia", "New Zealand", "Singapore", "Ireland", "Europe", "Spain", "Brazil", "Thailand", "Portugal", "France", "Belgium", "Netherlands", "Germany", "Austria", "Italy", "Switzerland", "Hong Kong", "Ukraine", "Estonia", "Poland", "Latvia", "Lithuania", "Denmark", "Norway", "Sweden", "Scandinavia", "Finland", "Iceland", "Hungary", "Czech", "Greece", "India", "South Africa", "Israel", "Slovakia", "Turkey", "Croatia", "Slovenia", "United Arab Emirates", "Bulgaria", "Romania", "Albania", "Serbia", "Indonesia"],
-					"elseGroup": "Aging Disc DOL",
-					"priority": 1
-				}
-			}
-		},
-		{
-			"searchTerm": "Aging Disc DOL-PAL",
-			"nameType": "short",
-			"newGroup": "Aging Disc DOL",
-			"condition": {
-				"regionOrder": {
-					"higherRegions": ["UK", "Australia", "New Zealand", "Singapore", "Ireland", "Europe", "Spain", "Brazil", "Thailand", "Portugal", "France", "Belgium", "Netherlands", "Germany", "Austria", "Italy", "Switzerland", "China", "Hong Kong", "Ukraine", "Estonia", "Poland", "Latvia", "Lithuania", "Denmark", "Norway", "Sweden", "Scandinavia", "Finland", "Iceland", "Hungary", "Czech", "Greece", "India", "South Africa", "Israel", "Slovakia", "Turkey", "Croatia", "Slovenia", "United Arab Emirates", "Bulgaria", "Romania", "Albania", "Serbia", "Indonesia"],
-					"lowerRegions": ["USA", "Canada", "Latin America", "Japan", "Korea", "Taiwan", "Asia"],
-					"elseGroup": "Aging Disc DOL",
-					"priority": 1
-				}
-			}
-		},
-		{
-			"searchTerm": "^Disney Sports - Football \\(Europe\\)(.*)?",
-			"nameType": "regex",
-			"newGroup": "Disney Sports - Soccer"
-		},
-		{
-			"searchTerm": "Hontai Kensa Disc DOL",
-			"nameType": "short",
-			"newGroup": "Hontai Kensa Disc DOL",
-			"condition": {
-				"regionOrder": {
-					"higherRegions": ["Japan", "Korea", "Taiwan", "Asia"],
-					"lowerRegions": ["USA", "Canada", "Latin America", "UK", "Australia", "New Zealand", "Singapore", "Ireland", "Europe", "Spain", "Brazil", "Thailand", "Portugal", "France", "Belgium", "Netherlands", "Germany", "Austria", "Italy", "Switzerland", "Hong Kong", "Ukraine", "Estonia", "Poland", "Latvia", "Lithuania", "Denmark", "Norway", "Sweden", "Scandinavia", "Finland", "Iceland", "Hungary", "Czech", "Greece", "India", "South Africa", "Israel", "Slovakia", "Turkey", "Croatia", "Slovenia", "United Arab Emirates", "Bulgaria", "Romania", "Albania", "Serbia", "Indonesia"],
-					"elseGroup": "Hontai Kensa Disc DOL",
-					"priority": 1
-				}
-			}
-		},
-		{
-			"searchTerm": "Hontai Kensa Disc DOL-USA",
-			"nameType": "short",
-			"newGroup": "Hontai Kensa Disc DOL",
-			"condition": {
-				"regionOrder": {
-					"higherRegions": ["USA", "Canada", "Latin America"],
-					"lowerRegions": ["Japan", "Korea", "Taiwan", "Asia", "UK", "Australia", "New Zealand", "Singapore", "Ireland", "Europe", "Spain", "Brazil", "Thailand", "Portugal", "France", "Belgium", "Netherlands", "Germany", "Austria", "Italy", "Switzerland", "Hong Kong", "Ukraine", "Estonia", "Poland", "Latvia", "Lithuania", "Denmark", "Norway", "Sweden", "Scandinavia", "Finland", "Iceland", "Hungary", "Czech", "Greece", "India", "South Africa", "Israel", "Slovakia", "Turkey", "Croatia", "Slovenia", "United Arab Emirates", "Bulgaria", "Romania", "Albania", "Serbia", "Indonesia"],
-					"elseGroup": "Hontai Kensa Disc DOL",
-					"priority": 1
-				}
-			}
-		},
-		{
-			"searchTerm": "^NBA Street V3( - Mario de Dunk)? \\((Europe|Japan|USA)\\)(.*)?",
-			"nameType": "regex",
-			"newGroup": "NBA Street Veethree"
-		},
-		{
-			"searchTerm": "^Virtua Striker 3 Ver\\. 2002 \\((Europe|Japan)\\)(.*)?",
-			"nameType": "regex",
-			"newGroup": "Virtua Striker 2002"
-		}
+		"SmaBro DX Event-you Disc (Japan)",
+		"WWE WrestleMania X8 (Japan) (Taikenban)"
 	],
 
 	"variants": [
@@ -176,6 +71,41 @@
 			"titles": [
 				{"searchTerm": "Action Replay Ultimate Codes Max Pack"},
 				{"searchTerm": "Action Replay Ultimative Cheats Greatest Hits 2003"}
+			]
+		},
+		{
+			"group": "Aging Disc DOL",
+			"titles": [
+				{
+					"searchTerm": "Aging Disc DOL",
+					"priority": 2,
+					"filters": [
+						{
+							"conditions": {"regionOrder": {"higherRegions": ["Japan", "Korea", "Taiwan", "Asia"], "lowerRegions": ["All other regions"]}},
+							"results": {"priority": 1}
+						}
+					]
+				},
+				{
+					"searchTerm": "Aging Disc DOL-PAL",
+					"priority": 2,
+					"filters": [
+						{
+							"conditions": {"regionOrder": {"higherRegions": ["UK", "Australia", "New Zealand", "Singapore", "Ireland", "Europe", "Spain", "Brazil", "Thailand", "Portugal", "France", "Belgium", "Netherlands", "Germany", "Austria", "Italy", "Switzerland", "China", "Hong Kong", "Ukraine", "Estonia", "Poland", "Latvia", "Lithuania", "Denmark", "Norway", "Sweden", "Scandinavia", "Finland", "Iceland", "Hungary", "Czech", "Greece", "India", "South Africa", "Israel", "Slovakia", "Turkey", "Croatia", "Slovenia", "United Arab Emirates", "Bulgaria", "Romania", "Albania", "Serbia", "Indonesia"], "lowerRegions": ["All other regions"]}},
+							"results": {"priority": 1}
+						}
+					]
+				},
+				{
+					"searchTerm": "Aging Disc DOL-USA",
+					"priority": 2,
+					"filters": [
+						{
+							"conditions": {"regionOrder": {"higherRegions": ["USA", "Canada", "Latin America"], "lowerRegions": ["All other regions"]}},
+							"results": {"priority": 1}
+						}
+					]
+				}
 			]
 		},
 		{
@@ -477,7 +407,15 @@
 			"group": "Disney Sports - Football",
 			"titles": [
 				{"searchTerm": "Disney Sports - American Football"},
-				{"searchTerm": "Disney Sports - Football"}
+				{
+					"searchTerm": "Disney Sports - Football",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["Europe"]},
+							"results": {"group": "Disney Sports - Soccer"}
+						}
+					]
+				}
 			]
 		},
 		{
@@ -727,10 +665,42 @@
 			]
 		},
 		{
+			"group": "Hontai Kensa Disc DOL",
+			"titles": [
+				{
+					"searchTerm": "Hontai Kensa Disc DOL",
+					"priority": 2,
+					"filters": [
+						{
+							"conditions": {"regionOrder": {"higherRegions": ["Japan", "Korea", "Taiwan", "Asia"], "lowerRegions": ["All other regions"]}},
+							"results": {"priority": 1}
+						}
+					]
+				},
+				{
+					"searchTerm": "Hontai Kensa Disc DOL-USA",
+					"priority": 2,
+					"filters": [
+						{
+							"conditions": {"regionOrder": {"higherRegions": ["USA", "Canada", "Latin America"], "lowerRegions": ["All other regions"]}},
+							"results": {"priority": 1}
+						}
+					]
+				}
+			]
+		},
+		{
 			"group": "International Superstar Soccer 2",
 			"titles": [
 				{"searchTerm": "International Superstar Soccer 2"},
 				{"searchTerm": "Jikkyou World Soccer 2002"}
+			]
+		},
+		{
+			"group": "Kidou Senshi Gundam - Senshi-tachi no Kiseki - Kadokawa Shoten Rengou Kikaku Tokubetsu-hen",
+			"categories": ["Promotional"],
+			"titles": [
+				{"searchTerm": "Kidou Senshi Gundam - Senshi-tachi no Kiseki - Kadokawa Shoten Rengou Kikaku Tokubetsu-hen"}
 			]
 		},
 		{
@@ -969,6 +939,26 @@
 			]
 		},
 		{
+			"group": "NBA Street",
+			"titles": [
+				{
+					"searchTerm": "NBA Street",
+					"filters": [
+						{
+							"conditions": {"matchString": "V3"},
+							"results": {"group": "NBA Street V3"}
+						}
+					]
+				}
+			]
+		},
+		{
+			"group": "NBA Street V3",
+			"titles": [
+				{"searchTerm": "NBA Street V3 - Mario de Dunk", "nameType": "regex"}
+			]
+		},
+		{
 			"group": "Nickelodeon Avatar - The Last Airbender",
 			"titles": [
 				{"searchTerm": "Nickelodeon Avatar - The Last Airbender"},
@@ -1200,6 +1190,13 @@
 			]
 		},
 		{
+			"group": "Ribbit King Plus! (Bonus Disc)",
+			"categories": ["Video"],
+			"titles": [
+				{"searchTerm": "Ribbit King Plus! (Bonus Disc)"}
+			]
+		},
+		{
 			"group": "Road Trip - The Arcade Edition",
 			"titles": [
 				{"searchTerm": "Choro Q!"},
@@ -1245,6 +1242,13 @@
 			]
 		},
 		{
+			"group": "SmaBro DX Event-you Disc",
+			"categories": ["Promotional"],
+			"titles": [
+				{"searchTerm": "SmaBro DX Event-you Disc"}
+			]
+		},
+		{
 			"group": "Sonic Adventure DX - Director's Cut",
 			"titles": [
 				{"searchTerm": "Sonic Adventure DX"},
@@ -1264,6 +1268,13 @@
 			"titles": [
 				{"searchTerm": "SSX On Tour"},
 				{"searchTerm": "SSX On Tour with Mario"}
+			]
+		},
+		{
+			"group": "SSX Tricky (Jitsuen-you Sample)",
+			"categories": ["Demos", "Games"],
+			"titles": [
+				{"searchTerm": "SSX Tricky (Jitsuen-you Sample)"}
 			]
 		},
 		{
@@ -1394,6 +1405,13 @@
 			"titles": [
 				{"searchTerm": "Virtua Fighter Cyber Generation - Judgment Six no Yabou"},
 				{"searchTerm": "Virtua Quest"}
+			]
+		},
+		{
+			"group": "Virtua Striker 2002",
+			"titles": [
+				{"searchTerm": "Virtua Striker 2002"},
+				{"searchTerm": "Virtua Striker 3 Ver\\. 2002", "nameType": "regex"}
 			]
 		},
 		{

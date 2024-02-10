@@ -1,72 +1,9 @@
 {
 	"description": {
 		"name": "Sony - PlayStation (Redump)",
-		"lastUpdated": "02 January 2024",
+		"lastUpdated": "10 February 2024",
 		"minimumVersion": "2.00"
 	},
-
-	"categories": [
-		{
-			"searchTerm": "Ace Combat 3 - Electrosphere - Direct Audio with AppenDisc",
-			"nameType": "short",
-			"categories": ["Audio"]
-		},
-		{
-			"searchTerm": "Arc the Lad III (Japan) (Demo 2)",
-			"nameType": "full",
-			"categories": ["Demos", "Multimedia"]
-		},
-		{
-			"searchTerm": "Arc-en-Ciel, L' - Light my Fire",
-			"nameType": "short",
-			"categories": ["Video"]
-		},
-		{
-			"searchTerm": "^Cinema Eikaiwa Series Dai.*",
-			"nameType": "regex",
-			"categories": ["Educational", "Video"]
-		},
-		{
-			"searchTerm": "Derby Stallion Magazine 2000 Vol. 1",
-			"nameType": "short",
-			"categories": ["Coverdisc"]
-		},
-		{
-			"searchTerm": "Derby Stallion Magazine 2000 Vol. 2",
-			"nameType": "short",
-			"categories": ["Coverdisc"]
-		},
-		{
-			"searchTerm": "^Derby Stallion Magazine Furoku.*",
-			"nameType": "regex",
-			"categories": ["Coverdisc"]
-		},
-		{
-			"searchTerm": "Dino Crisis (Europe) (Demo)",
-			"nameType": "full",
-			"categories": ["Demos", "Preproduction"]
-		},
-		{
-			"searchTerm": "Doko Demo Issho (Calpis Water Version)",
-			"nameType": "short",
-			"categories": ["Demos", "Promotional"]
-		},
-		{
-			"searchTerm": "Kowloon's Gate (Special Disc)",
-			"nameType": "short",
-			"categories": ["Demos"]
-		},
-		{
-			"searchTerm": "Play-Pre Vol. 8",
-			"nameType": "short",
-			"categories": ["Demos"]
-		},
-		{
-			"searchTerm": "StationMaster 04-2001 Xploder (Germany) (Demo) (Unl)",
-			"nameType": "full",
-			"categories": ["Demos", "Applications"]
-		}
-	],
 
 	"mias": [
 		"Arc the Lad III (Japan) (Demo 2)",
@@ -84,129 +21,6 @@
 		"Frogger 2 - Swampy's Revenge (USA) (Beta) (2000-07-25)",
 		"Frogger 2 - Swampy's Revenge (USA) (Beta) (2000-07-31)",
 		"Ore no Shikabane o Koete Yuke (Japan) (Demo)"
-	],
-
-	"overrides": [
-		{
-			"searchTerm": "Dance Dance Revolution (Japan)",
-			"newGroup": "Dance Dance Revolution Japan"
-		},
-		{
-			"searchTerm": "Demo One (Germany) (SCES-00064)",
-			"nameType": "full",
-			"newGroup": "Demo One Vee One Germany 1"
-		},
-		{
-			"searchTerm": "Demo One (Germany) (SCES-00121)",
-			"nameType": "full",
-			"newGroup": "Demo One Vee One Germany 2"
-		},
-		{
-			"searchTerm": "Demo One (Version 1) (Europe)",
-			"nameType": "full",
-			"newGroup": "Demo One Vee One Europe"
-		},
-		{
-			"searchTerm": "Demo One (Version 2) (Europe, Australia)",
-			"nameType": "full",
-			"newGroup": "Demo One Vee Two Europe Australia"
-		},
-		{
-			"searchTerm": "Demo One (Version 3) (Europe, Australia)",
-			"nameType": "full",
-			"newGroup": "Demo One Vee Three Europe Australia"
-		},
-		{
-			"searchTerm": "Demo One (Version 4) (Europe)",
-			"nameType": "full",
-			"newGroup": "Demo One Vee Four Europe"
-		},
-		{
-			"searchTerm": "Demo One (Version 4) (Germany)",
-			"nameType": "full",
-			"newGroup": "Demo One Vee Four Germany"
-		},
-		{
-			"searchTerm": "Demo One (Version 5) (Europe)",
-			"nameType": "full",
-			"newGroup": "Demo One Vee Five Europe"
-		},
-		{
-			"searchTerm": "Demo One (Version 6) (Europe, Australia) (En,Fr,De,Es,It)",
-			"nameType": "full",
-			"newGroup": "Demo One Vee Six Europe Australia"
-		},
-		{
-			"searchTerm": "Demo One (Version 7) (Europe) (En,Fr,De,Es,It)",
-			"nameType": "full",
-			"newGroup": "Demo One Vee Seven Europe"
-		},
-		{
-			"searchTerm": "Gallop Racer (Japan)",
-			"newGroup": "Gallop Racer Japan"
-		},
-		{
-			"searchTerm": "King's Field II (Japan)",
-			"newGroup": "King's Field"
-		},
-		{
-			"searchTerm": "King's Field (Japan)",
-			"newGroup": "King's Field Japan"
-		},
-		{
-			"searchTerm": "^Mobile Suit Gundam - Version 2.0.*",
-			"nameType": "regex",
-			"newGroup": "Mobile Suit Gundam 2.0"
-		},
-		{
-			"searchTerm": "^Motor Toon Grand Prix \\(Japan\\)(.*)?",
-			"nameType": "regex",
-			"newGroup": "Motor Toon Grand Prix Japan"
-		},
-		{
-			"searchTerm": "Space Invaders (Japan)",
-			"newGroup": "Space Invaders Japan"
-		},
-		{
-			"searchTerm": "Strikers 1945 (Japan)",
-			"newGroup": "Strikers 1945 Japan"
-		},
-		{
-			"searchTerm": "^Tomb Raider III - Adventures of Lara Croft \\((Japan|Asia)\\) \\(Disc 1\\) \\(Japanese Version\\)(.*)?",
-			"nameType": "regex",
-			"newGroup": "Tomb Raider III - Adventures of Lara Croft Disc 1 Japanese Version",
-			"condition": {
-				"regionOrder": {
-					"higherRegions": ["Japan", "Asia"],
-					"lowerRegions": ["USA", "Europe", "France", "Germany", "Italy", "Spain"],
-					"elseGroup": "Tomb Raider III - Adventures of Lara Croft"
-				}
-			}
-		},
-		{
-			"searchTerm": "^Tomb Raider III - Adventures of Lara Croft \\((Japan|Asia)\\) \\(Disc 2\\) \\(International Version\\)(.*)?",
-			"nameType": "regex",
-			"newGroup": "Tomb Raider III - Adventures of Lara Croft Disc 2 International Version",
-			"condition": {
-				"regionOrder": {
-					"higherRegions": ["Japan", "Asia"],
-					"lowerRegions": ["USA", "Europe", "France", "Germany", "Italy", "Spain"],
-					"elseGroup": "Tomb Raider III - Adventures of Lara Croft"
-				}
-			}
-		},
-		{
-			"searchTerm": "^Tomb Raider III - (Adventures of|Les Aventures de) Lara Croft \\((Europe|France|Germany|Italy|Spain|USA)\\)(.*)?",
-			"nameType": "regex",
-			"newGroup": "Tomb Raider III - Adventures of Lara Croft Disc 2 International Version",
-			"condition": {
-				"regionOrder": {
-					"higherRegions": ["Japan", "Asia"],
-					"lowerRegions": ["USA", "Europe", "France", "Germany", "Italy", "Spain"],
-					"elseGroup": "Tomb Raider III - Adventures of Lara Croft"
-				}
-			}
-		}
 	],
 
 	"variants": [
@@ -270,6 +84,12 @@
 			"titles": [
 				{"searchTerm": "A5 - A Ressha de Ikou 5"},
 				{"searchTerm": "SuperLite 1500 Series - A5 - A Ressha de Ikou 5", "priority": 2}
+			]
+		},
+		{
+			"group": "Ace Combat 3 - Electrosphere - Direct Audio with AppenDisc",
+			"titles": [
+				{"searchTerm": "Ace Combat 3 - Electrosphere - Direct Audio with AppenDisc", "categories": ["Audio"]}
 			]
 		},
 		{
@@ -491,6 +311,12 @@
 			"titles": [
 				{"searchTerm": "Arc the Lad Collection - Arc the Lad III (Disc 2)"},
 				{"searchTerm": "Arc the Lad III (Disc 2)"}
+			]
+		},
+		{
+			"group": "Arc-en-Ciel, L' - Light my Fire",
+			"titles": [
+				{"searchTerm": "Arc-en-Ciel, L' - Light my Fire", "categories": ["Video"]}
 			]
 		},
 		{
@@ -1175,6 +1001,132 @@
 			]
 		},
 		{
+			"group": "Cinema Eikaiwa Series Dai-1-dan - Tengoku ni Ikenai Papa (Disc 1) (Joukan)",
+			"titles": [
+				{"searchTerm": "Cinema Eikaiwa Series Dai-1-dan - Tengoku ni Ikenai Papa (Disc 1) (Joukan)", "categories": ["Educational", "Video"]}
+			]
+		},
+		{
+			"group": "Cinema Eikaiwa Series Dai-1-dan - Tengoku ni Ikenai Papa (Disc 2) (Chuukan)",
+			"titles": [
+				{"searchTerm": "Cinema Eikaiwa Series Dai-1-dan - Tengoku ni Ikenai Papa (Disc 2) (Chuukan)", "categories": ["Educational", "Video"]}
+			]
+		},
+		{
+			"group": "Cinema Eikaiwa Series Dai-1-dan - Tengoku ni Ikenai Papa (Disc 3) (Gekan)",
+			"titles": [
+				{"searchTerm": "Cinema Eikaiwa Series Dai-1-dan - Tengoku ni Ikenai Papa (Disc 3) (Gekan)", "categories": ["Educational", "Video"]}
+			]
+		},
+		{
+			"group": "Cinema Eikaiwa Series Dai-2-dan - Interceptor (Disc 1) (Joukan)",
+			"titles": [
+				{"searchTerm": "Cinema Eikaiwa Series Dai-2-dan - Interceptor (Disc 1) (Joukan)", "categories": ["Educational", "Video"]}
+			]
+		},
+		{
+			"group": "Cinema Eikaiwa Series Dai-2-dan - Interceptor (Disc 2) (Chuukan)",
+			"titles": [
+				{"searchTerm": "Cinema Eikaiwa Series Dai-2-dan - Interceptor (Disc 2) (Chuukan)", "categories": ["Educational", "Video"]}
+			]
+		},
+		{
+			"group": "Cinema Eikaiwa Series Dai-2-dan - Interceptor (Disc 3) (Gekan)",
+			"titles": [
+				{"searchTerm": "Cinema Eikaiwa Series Dai-2-dan - Interceptor (Disc 3) (Gekan)", "categories": ["Educational", "Video"]}
+			]
+		},
+		{
+			"group": "Cinema Eikaiwa Series Dai-3-dan - Arashigaoka (Disc 1) (Joukan)",
+			"titles": [
+				{"searchTerm": "Cinema Eikaiwa Series Dai-3-dan - Arashigaoka (Disc 1) (Joukan)", "categories": ["Educational", "Video"]}
+			]
+		},
+		{
+			"group": "Cinema Eikaiwa Series Dai-3-dan - Arashigaoka (Disc 2) (Chuukan)",
+			"titles": [
+				{"searchTerm": "Cinema Eikaiwa Series Dai-3-dan - Arashigaoka (Disc 2) (Chuukan)", "categories": ["Educational", "Video"]}
+			]
+		},
+		{
+			"group": "Cinema Eikaiwa Series Dai-3-dan - Arashigaoka (Disc 3) (Gekan)",
+			"titles": [
+				{"searchTerm": "Cinema Eikaiwa Series Dai-3-dan - Arashigaoka (Disc 3) (Gekan)", "categories": ["Educational", "Video"]}
+			]
+		},
+		{
+			"group": "Cinema Eikaiwa Series Dai-4-dan - Boy's Life (Disc 1)",
+			"titles": [
+				{"searchTerm": "Cinema Eikaiwa Series Dai-4-dan - Boy's Life (Disc 1)", "categories": ["Educational", "Video"]}
+			]
+		},
+		{
+			"group": "Cinema Eikaiwa Series Dai-4-dan - Boy's Life (Disc 2)",
+			"titles": [
+				{"searchTerm": "Cinema Eikaiwa Series Dai-4-dan - Boy's Life (Disc 2)", "categories": ["Educational", "Video"]}
+			]
+		},
+		{
+			"group": "Cinema Eikaiwa Series Dai-4-dan - Boy's Life (Disc 3)",
+			"titles": [
+				{"searchTerm": "Cinema Eikaiwa Series Dai-4-dan - Boy's Life (Disc 3)", "categories": ["Educational", "Video"]}
+			]
+		},
+		{
+			"group": "Cinema Eikaiwa Series Dai-4-dan - Boy's Life (Disc 4)",
+			"titles": [
+				{"searchTerm": "Cinema Eikaiwa Series Dai-4-dan - Boy's Life (Disc 4)", "categories": ["Educational", "Video"]}
+			]
+		},
+		{
+			"group": "Cinema Eikaiwa Series Dai-5-dan - Zombie (Disc 1)",
+			"titles": [
+				{"searchTerm": "Cinema Eikaiwa Series Dai-5-dan - Zombie (Disc 1)", "categories": ["Educational", "Video"]}
+			]
+		},
+		{
+			"group": "Cinema Eikaiwa Series Dai-5-dan - Zombie (Disc 2)",
+			"titles": [
+				{"searchTerm": "Cinema Eikaiwa Series Dai-5-dan - Zombie (Disc 2)", "categories": ["Educational", "Video"]}
+			]
+		},
+		{
+			"group": "Cinema Eikaiwa Series Dai-5-dan - Zombie (Disc 3)",
+			"titles": [
+				{"searchTerm": "Cinema Eikaiwa Series Dai-5-dan - Zombie (Disc 3)", "categories": ["Educational", "Video"]}
+			]
+		},
+		{
+			"group": "Cinema Eikaiwa Series Dai-5-dan - Zombie (Disc 4)",
+			"titles": [
+				{"searchTerm": "Cinema Eikaiwa Series Dai-5-dan - Zombie (Disc 4)", "categories": ["Educational", "Video"]}
+			]
+		},
+		{
+			"group": "Cinema Eikaiwa Series Dai-6-dan - Ai no Hate ni (Disc 1)",
+			"titles": [
+				{"searchTerm": "Cinema Eikaiwa Series Dai-6-dan - Ai no Hate ni (Disc 1)", "categories": ["Educational", "Video"]}
+			]
+		},
+		{
+			"group": "Cinema Eikaiwa Series Dai-6-dan - Ai no Hate ni (Disc 2)",
+			"titles": [
+				{"searchTerm": "Cinema Eikaiwa Series Dai-6-dan - Ai no Hate ni (Disc 2)", "categories": ["Educational", "Video"]}
+			]
+		},
+		{
+			"group": "Cinema Eikaiwa Series Dai-6-dan - Ai no Hate ni (Disc 3)",
+			"titles": [
+				{"searchTerm": "Cinema Eikaiwa Series Dai-6-dan - Ai no Hate ni (Disc 3)", "categories": ["Educational", "Video"]}
+			]
+		},
+		{
+			"group": "Cinema Eikaiwa Series Dai-6-dan - Ai no Hate ni (Disc 4)",
+			"titles": [
+				{"searchTerm": "Cinema Eikaiwa Series Dai-6-dan - Ai no Hate ni (Disc 4)", "categories": ["Educational", "Video"]}
+			]
+		},
+		{
 			"group": "Chou Kousoku Gran Doll (Disc 1) (Premium Edition)",
 			"titles": [
 				{"searchTerm": "Chou Kousoku Gran Doll (Disc 1) (Premium Edition)"},
@@ -1468,6 +1420,20 @@
 			]
 		},
 		{
+			"group": "Dance Dance Revolution",
+			"titles": [
+				{
+					"searchTerm": "Dance Dance Revolution",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["Japan"]},
+							"results": {"group": "Dance Dance Revolution (Japan)"}
+						}
+					]
+				}
+			]
+		},
+		{
 			"group": "Dance Dance Revolution - Disney Mix",
 			"titles": [
 				{"searchTerm": "Dance Dance Revolution - Disney's Rave"},
@@ -1534,10 +1500,146 @@
 			]
 		},
 		{
+			"group": "Demo One",
+			"titles": [
+				{
+					"searchTerm": "Demo One (Demo)",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["Europe"], "matchString": "\\(Version 1\\)"},
+							"results": {"group": "Demo One (Europe) (v1)"}
+						},
+						{
+							"conditions": {"matchRegions": ["Europe", "Australia"], "matchString": "\\(Version 2\\)"},
+							"results": {"group": "Demo One (Europe) (v2)"}
+						},
+						{
+							"conditions": {"matchRegions": ["Europe", "Australia"], "matchString": "\\(Version 3\\)"},
+							"results": {"group": "Demo One (Europe) (v3)"}
+						},
+						{
+							"conditions": {"matchRegions": ["Europe"], "matchString": "\\(Version 4\\)"},
+							"results": {"group": "Demo One (Europe) (v4)"}
+						},
+						{
+							"conditions": {"matchRegions": ["Europe"], "matchString": "\\(Version 5\\)"},
+							"results": {"group": "Demo One (Europe) (v5)"}
+						},
+						{
+							"conditions": {"matchRegions": ["Europe", "Australia"], "matchString": "\\(Version 6\\)"},
+							"results": {"group": "Demo One (Europe) (v6)"}
+						},
+						{
+							"conditions": {"matchRegions": ["Europe"], "matchString": "\\(Version 7\\)"},
+							"results": {"group": "Demo One (Europe) (v7)"}
+						},
+						{
+							"conditions": {"matchRegions": ["Germany"], "matchString": "\\(SCES-00064\\)"},
+							"results": {"group": "Demo One (Germany)"}
+						},
+						{
+							"conditions": {"matchRegions": ["Germany"], "matchString": "\\(SCES-00121\\)"},
+							"results": {"group": "Demo One (Germany) (Alt)"}
+						}
+					]
+				}
+			]
+		},
+		{
 			"group": "Densetsu-juu no Ana - Monster Complete World",
 			"titles": [
 				{"searchTerm": "Densetsu-juu no Ana - Monster Complete World"},
 				{"searchTerm": "SuperLite 1500 Series - Densetsu-juu no Ana - Monster Complete World", "priority": 2}
+			]
+		},
+		{
+			"group": "Derby Stallion Magazine 2000 Vol. 1",
+			"titles": [
+				{"searchTerm": "Derby Stallion Magazine 2000 Vol. 1", "categories": ["Coverdisc"]}
+			]
+		},
+		{
+			"group": "Derby Stallion Magazine 2000 Vol. 2",
+			"titles": [
+				{"searchTerm": "Derby Stallion Magazine 2000 Vol. 2", "categories": ["Coverdisc"]}
+			]
+		},
+		{
+			"group": "Derby Stallion Magazine Furoku CD-ROM Soushuu-hen",
+			"titles": [
+				{"searchTerm": "Derby Stallion Magazine Furoku CD-ROM Soushuu-hen", "categories": ["Coverdisc"]}
+			]
+		},
+		{
+			"group": "Derby Stallion Magazine Furoku CD-ROM Vol. 1",
+			"titles": [
+				{"searchTerm": "Derby Stallion Magazine Furoku CD-ROM Vol. 1", "categories": ["Coverdisc"]}
+			]
+		},
+		{
+			"group": "Derby Stallion Magazine Furoku CD-ROM Vol. 2",
+			"titles": [
+				{"searchTerm": "Derby Stallion Magazine Furoku CD-ROM Vol. 2", "categories": ["Coverdisc"]}
+			]
+		},
+		{
+			"group": "Derby Stallion Magazine Furoku CD-ROM Vol. 3",
+			"titles": [
+				{"searchTerm": "Derby Stallion Magazine Furoku CD-ROM Vol. 3", "categories": ["Coverdisc"]}
+			]
+		},
+		{
+			"group": "Derby Stallion Magazine Furoku CD-ROM Vol. 4",
+			"titles": [
+				{"searchTerm": "Derby Stallion Magazine Furoku CD-ROM Vol. 4", "categories": ["Coverdisc"]}
+			]
+		},
+		{
+			"group": "Derby Stallion Magazine Furoku CD-ROM Vol. 5",
+			"titles": [
+				{"searchTerm": "Derby Stallion Magazine Furoku CD-ROM Vol. 5", "categories": ["Coverdisc"]}
+			]
+		},
+		{
+			"group": "Derby Stallion Magazine Furoku CD-ROM Vol. 6",
+			"titles": [
+				{"searchTerm": "Derby Stallion Magazine Furoku CD-ROM Vol. 6", "categories": ["Coverdisc"]}
+			]
+		},
+		{
+			"group": "Derby Stallion Magazine Furoku CD-ROM Vol. 7",
+			"titles": [
+				{"searchTerm": "Derby Stallion Magazine Furoku CD-ROM Vol. 7", "categories": ["Coverdisc"]}
+			]
+		},
+		{
+			"group": "Derby Stallion Magazine Furoku CD-ROM Vol. 8",
+			"titles": [
+				{"searchTerm": "Derby Stallion Magazine Furoku CD-ROM Vol. 8", "categories": ["Coverdisc"]}
+			]
+		},
+		{
+			"group": "Derby Stallion Magazine Furoku CD-ROM Vol. 9",
+			"titles": [
+				{"searchTerm": "Derby Stallion Magazine Furoku CD-ROM Vol. 9", "categories": ["Coverdisc"]}
+			]
+		},
+		{
+			"group": "Derby Stallion Magazine Furoku CD-ROM Vol. 10",
+			"titles": [
+				{"searchTerm": "Derby Stallion Magazine Furoku CD-ROM Vol. 10", "categories": ["Coverdisc"]}
+			]
+		},
+		{
+			"group": "Derby Stallion Magazine Furoku CD-ROM Vol. 11",
+			"titles": [
+				{"searchTerm": "Derby Stallion Magazine Furoku CD-ROM Vol. 11", "categories": ["Coverdisc"]}
+			]
+		},
+		{
+			"group": "Derby Stallion Magazine Furoku CD-ROM Vol. 12",
+			"titles": [
+				{"searchTerm": "Derby Stallion Magazine Furoku CD-ROM Vol. 12", "categories": ["Coverdisc"]}
 			]
 		},
 		{
@@ -1611,6 +1713,17 @@
 				{"searchTerm": "Digimon World 2003"},
 				{"searchTerm": "Digimon World 3"},
 				{"searchTerm": "DigimonWorld 3 - Aratanaru Bouken no Tobira"}
+			]
+		},
+		{
+			"group": "Dino Crisis (Demo)",
+			"titles": [
+				{
+					"searchTerm": "Dino Crisis (Europe) (Demo)",
+					"nameType": "full",
+					"categories": ["Demos", "Preproduction"]
+				},
+				{"searchTerm": "Dino Crisis (Demo)"}
 			]
 		},
 		{
@@ -1897,6 +2010,12 @@
 			"titles": [
 				{"searchTerm": "Diver's Dream"},
 				{"searchTerm": "Dolphin's Dream"}
+			]
+		},
+		{
+			"group": "Doko Demo Issho (Calpis Water Version)",
+			"titles" :[
+				{"searchTerm": "Doko Demo Issho (Calpis Water Version)", "categories": ["Demos", "Promotional"]}
 			]
 		},
 		{
@@ -2690,7 +2809,15 @@
 		{
 			"group": "Gallop Racer",
 			"titles": [
-				{"searchTerm": "Gallop Racer"},
+				{
+					"searchTerm": "Gallop Racer",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["Japan"]},
+							"results": {"group": "Gallop Racer (Japan)"}
+						}
+					]
+				},
 				{"searchTerm": "Gallop Racer 3"}
 			]
 		},
@@ -3264,7 +3391,7 @@
 			]
 		},
 		{
-			"group": "Kamen Rider Vee Three",
+			"group": "Kamen Rider V3",
 			"titles": [
 				{"searchTerm": "Kamen Rider V3", "nameType": "regionFree"}
 			]
@@ -3324,9 +3451,31 @@
 			]
 		},
 		{
+			"group": "King's Field",
+			"titles": [
+				{
+					"searchTerm": "King's Field",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["Japan"]},
+							"results": {"group": "King's Field (Japan)"}
+						}
+					]
+				}
+			]
+		},
+		{
 			"group": "King's Field II",
 			"titles": [
-				{"searchTerm": "King's Field II"},
+				{
+					"searchTerm": "King's Field II",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["Japan"]},
+							"results": {"group": "King's Field"}
+						}
+					]
+				},
 				{"searchTerm": "King's Field III"}
 			]
 		},
@@ -3399,6 +3548,12 @@
 			"titles": [
 				{"searchTerm": "Kouyasai - A Sherd of Youthful Memories"},
 				{"searchTerm": "SuperLite 1500 Series - Kouyasai - A Sherd of Youthful Memories", "priority": 2}
+			]
+		},
+		{
+			"group": "Kowloon's Gate (Special Disc)",
+			"titles": [
+				{"searchTerm": "Kowloon's Gate (Special Disc)", "categories": ["Demos"]}
 			]
 		},
 		{
@@ -3952,6 +4107,30 @@
 			]
 		},
 		{
+			"group": "Mobile Suit Gundam",
+			"titles": [
+				{
+					"searchTerm": "Mobile Suit Gundam",
+					"filters": [
+						{
+							"conditions": {"matchString": "- Version 2\\.0"},
+							"results": {"group": "Mobile Suit Gundam - Version 2.0"}
+						}
+					]
+				},
+				{
+					"searchTerm": "Mobile Suit Gundam - Version 2.0 (Limited Edition)",
+					"nameType": "regionFree",
+					"filters": [
+						{
+							"conditions": {"matchString": "- Version 2\\.0"},
+							"results": {"group": "Mobile Suit Gundam - Version 2.0"}
+						}
+					]
+				}
+			]
+		},
+		{
 			"group": "Monaco Grand Prix",
 			"titles": [
 				{"searchTerm": "Monaco Grand Prix"},
@@ -4011,7 +4190,15 @@
 		{
 			"group": "Motor Toon Grand Prix",
 			"titles": [
-				{"searchTerm": "Motor Toon Grand Prix"},
+				{
+					"searchTerm": "Motor Toon Grand Prix",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["Japan"]},
+							"results": {"group": "Motor Toon Grand Prix (Japan)"}
+						}
+					]
+				},
 				{"searchTerm": "Motor Toon Grand Prix - USA Edition"},
 				{"searchTerm": "Motor Toon Grand Prix 2"},
 				{"searchTerm": "Motor Toon Grand Prix 2 (Disc 1)"}
@@ -4169,7 +4356,7 @@
 		{
 			"group": "Necronomicon - The Dawning of Darkness (Disc 1)",
 			"titles": [
-				{"searchTerm": "Necronomicon - Das Mysterium der Daemmerung (Disc 1)"},
+				{"searchTerm": "Necronomicon - Das Mysterium der Daemmerung (Disc 1)", "localNames": {"german": "Das Mysterium der Dämmerung"}},
 				{"searchTerm": "Necronomicon - El Alba de las Tinieblas (Disc 1)"},
 				{"searchTerm": "Necronomicon - Ispirato alle opere di H.P. Lovecraft (Disc 1)"},
 				{"searchTerm": "Necronomicon - L'Aube des Tenebres (Disc 1)"},
@@ -4180,7 +4367,7 @@
 		{
 			"group": "Necronomicon - The Dawning of Darkness (Disc 2)",
 			"titles": [
-				{"searchTerm": "Necronomicon - Das Mysterium der Daemmerung (Disc 2)"},
+				{"searchTerm": "Necronomicon - Das Mysterium der Daemmerung (Disc 2)", "localNames": {"german": "Das Mysterium der Dämmerung"}},
 				{"searchTerm": "Necronomicon - El Alba de las Tinieblas (Disc 2)"},
 				{"searchTerm": "Necronomicon - Ispirato alle opere di H.P. Lovecraft (Disc 2)"},
 				{"searchTerm": "Necronomicon - L'Aube des Tenebres (Disc 2)"},
@@ -4634,6 +4821,12 @@
 			]
 		},
 		{
+			"group": "Play-Pre Vol. 8",
+			"titles": [
+				{"searchTerm": "Play-Pre Vol. 8", "categories": ["Demos"]}
+			]
+		},
+		{
 			"group": "Play with the Teletubbies",
 			"titles": [
 				{"searchTerm": "Gioca con i Teletubbies"},
@@ -4971,6 +5164,12 @@
 			"titles": [
 				{"searchTerm": "Red Asphalt"},
 				{"searchTerm": "Rock & Roll Racing 2 - Red Asphalt"}
+			]
+		},
+		{
+			"group": "Ren'ai Kouza - Real Age - The Art of Eguchi Hisashi",
+			"titles": [
+				{"searchTerm": "Ren'ai Kouza - Real Age - The Art of Eguchi Hisashi", "localNames": {"japanese": "恋愛講座　ＲＥＡＬ　ＡＧＥ　－　江口 寿史の美術"}}
 			]
 		},
 		{
@@ -5433,7 +5632,15 @@
 		{
 			"group": "Space Invaders",
 			"titles": [
-				{"searchTerm": "Space Invaders"},
+				{
+					"searchTerm": "Space Invaders",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["Japan"]},
+							"results": {"group": "Space Invaders (Japan)"}
+						}
+					]
+				},
 				{"searchTerm": "Space Invaders X"}
 			]
 		},
@@ -5642,7 +5849,15 @@
 		{
 			"group": "Strikers 1945",
 			"titles": [
-				{"searchTerm": "Strikers 1945"},
+				{
+					"searchTerm": "Strikers 1945",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["Japan"]},
+							"results": {"group": "Strikers 1945 (Japan)"}
+						}
+					]
+				},
 				{"searchTerm": "Strikers 1945 II"},
 				{"searchTerm": "SuperLite 1500 Series - Strikers 1945 II", "priority": 2}
 			]
@@ -6341,6 +6556,54 @@
 			]
 		},
 		{
+			"group": "Tomb Raider III - Adventures of Lara Croft",
+			"titles": [
+				{
+					"searchTerm": "Tomb Raider III - Adventures of Lara Croft",
+					"filters": [
+						{
+							"conditions": {"regionOrder": {"higherRegions": ["Japan", "Asia"], "lowerRegions": ["USA", "Europe", "France", "Germany", "Italy", "Spain"]}},
+							"results": {"group": "Tomb Raider III - Adventures of Lara Croft (Disc 2) (International Version)"}
+						}
+					]
+				},
+				{
+					"searchTerm": "Tomb Raider III - Adventures of Lara Croft (Disc 1) (Japanese Version)",
+					"filters": [
+						{
+							"conditions": {"regionOrder": {"higherRegions": ["Japan", "Asia"], "lowerRegions": ["USA", "Europe", "France", "Germany", "Italy", "Spain"]}},
+							"results": {"group": "Tomb Raider III - Adventures of Lara Croft (Disc 1) (Japanese Version)"}
+						}
+					]
+				},
+				{
+					"searchTerm": "Tomb Raider III - Adventures of Lara Croft (Disc 2) (International Version)",
+					"filters": [
+						{
+							"conditions": {"regionOrder": {"higherRegions": ["Japan", "Asia"], "lowerRegions": ["USA", "Europe", "France", "Germany", "Italy", "Spain"]}},
+							"results": {"group": "Tomb Raider III - Adventures of Lara Croft (Disc 2) (International Version)"}
+						}
+					]
+				},
+				{
+					"searchTerm": "Tomb Raider III - Les Aventures de Lara Croft",
+					"filters": [
+						{
+							"conditions": {"regionOrder": {"higherRegions": ["Japan", "Asia"], "lowerRegions": ["USA", "Europe", "France", "Germany", "Italy", "Spain"]}},
+							"results": {"group": "Tomb Raider III - Adventures of Lara Croft (Disc 2) (International Version)"}
+						}
+					]
+				}
+			]
+		},
+		{
+			"group": "Tomb Raider III - Adventures of Lara Croft (Demo)",
+			"titles": [
+				{"searchTerm": "Tomb Raider III - Adventures of Lara Croft (Demo)"},
+				{"searchTerm": "Tomb Raider III - Les Aventures de Lara Croft (Demo)"}
+			]
+		},
+		{
 			"group": "Tomb Raider Chronicles",
 			"titles": [
 				{"searchTerm": "Tomb Raider - Die Chronik"},
@@ -6652,13 +6915,6 @@
 			]
 		},
 		{
-			"group": "Wacky Races",
-			"titles": [
-				{"searchTerm": "Chiki Chiki Machine Mou Race - Wacky Races"},
-				{"searchTerm": "Wacky Races"}
-			]
-		},
-		{
 			"group": "Wai Wai Bowling",
 			"titles": [
 				{"searchTerm": "Wai Wai Bowling"},
@@ -6950,6 +7206,20 @@
 			"titles": [
 				{"searchTerm": "You Don't Know Jack"},
 				{"searchTerm": "You Don't Know Jack (Disc 1)"}
+			]
+		},
+		{
+			"group": "You Don't Know Jack (Disc 2)",
+			"titles": [
+				{
+					"searchTerm": "You Don't Know Jack (Disc 2)",
+					"filters": [
+						{
+							"conditions": {"regionOrder": {"higherRegions": ["Germany"], "lowerRegions": ["USA"]}},
+							"results": {"group": "You Don't Know Jack (Disc 1)"}
+						}
+					]
+				}
 			]
 		},
 		{

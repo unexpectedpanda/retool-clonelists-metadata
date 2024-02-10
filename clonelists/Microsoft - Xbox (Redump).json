@@ -1,17 +1,9 @@
 {
 	"description": {
 		"name": "Microsoft - Xbox (Redump)",
-		"lastUpdated": "10 December 2023",
-		"minimumVersion": "2.00"
+		"lastUpdated": "26 December 2023",
+		"minimumVersion": "2.02"
 	},
-
-	"categories": [
-		{
-			"searchTerm": "Official Xbox Magazine Game Disc 48 (Europe) (Fr,Es,It,Pt)",
-			"nameType": "full",
-			"categories": ["Coverdiscs"]
-		}
-	],
 
 	"mias": [
 		"Colin McRae Rally 04 (Asia)",
@@ -682,6 +674,13 @@
 				{"searchTerm": "Oddworld - La Fureur de l'Etranger"},
 				{"searchTerm": "Oddworld - Stranger's Wrath"},
 				{"searchTerm": "Oddworld - Strangers Vergeltung"}
+			]
+		},
+		{
+			"group": "Official Xbox Magazine Game Disc 48",
+			"categories": ["Coverdiscs"],
+			"titles": [
+				{"searchTerm": "Official Xbox Magazine Game Disc 48"}
 			]
 		},
 		{

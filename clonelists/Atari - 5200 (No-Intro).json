@@ -1,19 +1,32 @@
 {
 	"description": {
 		"name": "Atari - 5200 (No-Intro)",
-		"lastUpdated": "09 January 2023",
-		"minimumVersion": "2.00"
+		"lastUpdated": "26 December 2023",
+		"minimumVersion": "2.02"
 	},
 
-	"categories": [
-		{
-			"searchTerm": "^Atari PAM.*",
-			"nameType": "regex",
-			"categories": ["Applications"]
-		}
-	],
-
 	"variants": [
+		{
+			"group": "Atari PAM - Pete's Test",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Atari PAM - Pete's Test"}
+			]
+		},
+		{
+			"group": "Atari PAM Diagnostics",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Atari PAM Diagnostics"}
+			]
+		},
+		{
+			"group": "Atari PAM System Test",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Atari PAM System Test"}
+			]
+		},
 		{
 			"group": "Rescue on Fractalus!",
 			"titles": [

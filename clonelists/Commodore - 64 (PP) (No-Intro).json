@@ -1,15 +1,17 @@
 {
 	"description": {
 		"name": "Commodore - 64 (PP) (No-Intro)",
-		"lastUpdated": "09 January 2023",
-		"minimumVersion": "0.92"
+		"lastUpdated": "26 December 2023",
+		"minimumVersion": "2.02"
 	},
 
-	"categories": [
+	"variants": [
 		{
-			"searchTerm": "Activision Action Demonstration (Promo)",
-			"nameType": "short",
-			"categories": ["Demos", "Promotional"]
+			"group": "Activision Action Demonstration (Promo)",
+			"categories": ["Demos", "Promotional"],
+			"titles": [
+				{"searchTerm": "Activision Action Demonstration (Promo)"}
+			]
 		}
 	]
 }

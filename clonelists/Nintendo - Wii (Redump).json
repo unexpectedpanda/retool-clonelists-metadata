@@ -1,30 +1,9 @@
 {
 	"description": {
 		"name": "Nintendo - Wii (Redump)",
-		"lastUpdated": "03 December 2023",
-		"minimumVersion": "2.00"
+		"lastUpdated": "26 December 2023",
+		"minimumVersion": "2.02"
 	},
-
-	"categories": [
-		{
-			"searchTerm": "uDraw Studio",
-			"nameType": "short",
-			"categories": ["Games"]
-		}
-	],
-
-	"overrides": [
-		{
-			"searchTerm": "^Super Swing Golf \\(Europe\\)(.*)?",
-			"nameType": "regex",
-			"newGroup": "Super Swing Golf Season 2"
-		},
-		{
-			"searchTerm": "^Who Wants to Be a Millionaire \\(Europe\\)(.*)?",
-			"nameType": "regex",
-			"newGroup": "Who Wants to Be a Millionaire Europe"
-		}
-	],
 
 	"variants": [
 		{
@@ -1772,7 +1751,7 @@
 		{
 			"group": "Monopoly",
 			"titles": [
-				{"searchTerm": "Monopoly Streets"}
+				{"searchTerm": "Monopoly"}
 			],
 			"compilations": [
 				{"searchTerm": "Monopoly Collection"}
@@ -1781,7 +1760,7 @@
 		{
 			"group": "Monopoly Streets",
 			"titles": [
-				{"searchTerm": "Monopoly"}
+				{"searchTerm": "Monopoly Streets"}
 			],
 			"compilations": [
 				{"searchTerm": "Monopoly Collection"}
@@ -1891,14 +1870,6 @@
 			"titles": [
 				{"searchTerm": "My Horse Club - On the Trail of the Mysterious Appaloosa"},
 				{"searchTerm": "Real Stories - Mission Equitation"}
-			]
-		},
-		{
-			"group": "My Pet Hotel",
-			"titles": [
-				{"searchTerm": "Meine Tierpension"},
-				{"searchTerm": "Mijn Dierenpension - Verzorg en Speel met de Leukste Dieren!"},
-				{"searchTerm": "My Pet Hotel"}
 			]
 		},
 		{
@@ -2811,6 +2782,7 @@
 		{
 			"group": "Super Smash Bros. Brawl",
 			"titles": [
+				{"searchTerm": "Super Smash Bros. Brawl"},
 				{"searchTerm": "Daenantu Smash Brothers X"},
 				{"searchTerm": "Dairantou Smash Brothers X"}
 			]
@@ -2825,7 +2797,15 @@
 		{
 			"group": "Super Swing Golf",
 			"titles": [
-				{"searchTerm": "Super Swing Golf"},
+				{
+					"searchTerm": "Super Swing Golf",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["Europe"]},
+							"results": {"group": "Super Swing Golf Season 2"}
+						}
+					]
+				},
 				{"searchTerm": "Pangya! Golf with Style"},
 				{"searchTerm": "Swing Golf Pangya"}
 			]
@@ -2946,6 +2926,13 @@
 			]
 		},
 		{
+			"group": "uDraw Studio",
+			"categories": ["Games"],
+			"titles": [
+				{"searchTerm": "uDraw Studio"}
+			]
+		},
+		{
 			"group": "Ultimate Shooting Collection",
 			"titles": [
 				{"searchTerm": "Milestone Shooting Collection - Karous Wii"},
@@ -3039,6 +3026,20 @@
 			"titles": [
 				{"searchTerm": "Where the Wild Things Are"},
 				{"searchTerm": "Where the Wild Things Are - The Videogame"}
+			]
+		},
+		{
+			"group": "Who Wants to Be a Millionaire",
+			"titles": [
+				{
+					"searchTerm": "Who Wants to Be a Millionaire",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["Europe"]},
+							"results": {"group": "Who Wants to Be a Millionaire (Europe)"}
+						}
+					]
+				}
 			]
 		},
 		{

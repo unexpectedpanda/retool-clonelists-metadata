@@ -1,27 +1,9 @@
 {
 	"description": {
 		"name": "Panasonic - 3DO Interactive Multiplayer (Redump)",
-		"lastUpdated": "18 August 2023",
-		"minimumVersion": "2.00"
+		"lastUpdated": "26 December 2023",
+		"minimumVersion": "2.02"
 	},
-
-	"categories": [
-		{
-			"searchTerm": "Crime Patrol (3DO Developer Services)",
-			"nameType": "short",
-			"categories": ["Preproduction"]
-		},
-		{
-			"searchTerm": "^Panasonic REAL 3DO Interactive Multiplayer - Sampler CD(.*)?",
-			"nameType": "regex",
-			"categories": ["Demos", "Multimedia"]
-		},
-		{
-			"searchTerm": "Putt-Putt Goes to the Moon",
-			"nameType": "short",
-			"categories": ["Educational"]
-		}
-	],
 
 	"variants": [
 		{
@@ -49,7 +31,7 @@
 			"group": "Crime Patrol",
 			"titles": [
 				{"searchTerm": "Crime Patrol"},
-				{"searchTerm": "Crime Patrol (3DO Developer Services)", "priority": 2}
+				{"searchTerm": "Crime Patrol (3DO Developer Services)", "categories": ["Preproduction"], "priority": 2}
 			]
 		},
 		{
@@ -232,10 +214,12 @@
 			]
 		},
 		{
-			"group": "Panasonic REAL 3DO Interactive Multiplayer - Sampler CD (ZBZ)",
+			"group": "Panasonic REAL 3DO Interactive Multiplayer - Sampler CD",
+			"categories": ["Demos", "Multimedia"],
 			"titles": [
-				{"searchTerm": "Panasonic REAL 3DO Interactive Multiplayer - Sampler CD (ZBZ)"},
-				{"searchTerm": "Panasonic REAL 3DO Interactive Multiplayer - Sampler CD (ZAZ)", "priority": 2}
+				{"searchTerm": "Panasonic REAL 3DO Interactive Multiplayer - Sampler CD"},
+				{"searchTerm": "Panasonic REAL 3DO Interactive Multiplayer - Sampler CD (ZBZ)", "priority": 2},
+				{"searchTerm": "Panasonic REAL 3DO Interactive Multiplayer - Sampler CD (ZAZ)", "priority": 3}
 			]
 		},
 		{
@@ -244,6 +228,13 @@
 				{"searchTerm": "Pebble Beach Golf Links"},
 				{"searchTerm": "T&E VR Golf - Pebble Beach no Hatou"},
 				{"searchTerm": "True Golf Classics - Pebble Beach Golf Links"}
+			]
+		},
+		{
+			"group": "Putt-Putt Goes to the Moon",
+			"categories": ["Educational"],
+			"titles": [
+				{"searchTerm": "Putt-Putt Goes to the Moon"}
 			]
 		},
 		{
