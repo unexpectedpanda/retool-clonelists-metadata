@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Sony - PlayStation Vita (PSN) (Content) (No-Intro)",
-		"lastUpdated": "26 December 2023",
+		"lastUpdated": "10 February 2023",
 		"minimumVersion": "2.02"
 	},
 
@@ -11,6 +11,21 @@
 			"categories": ["Add-Ons"],
 			"titles": [
 				{"searchTerm": "#Killallzombies Companion App"}
+			]
+		},
+		{
+			"group": "1001 Spikes",
+			"titles": [
+				{"searchTerm": "1001 Spikes"},
+				{"searchTerm": "Aban Hawkings and the 1001 Spikes - The Temple of the Dead Mourns"}
+			]
+		},
+		{
+			"group": "A.W. - Phoenix Festa",
+			"titles": [
+				{"searchTerm": "A.W. - Phoenix Festa"},
+				{"searchTerm": "Asterisk War, The - The Academy City on the Water Houaa Kenran"},
+				{"searchTerm": "Gakusen Toshi Asterisk Festa - Houka Kenran"}
 			]
 		},
 		{
@@ -49,6 +64,13 @@
 			]
 		},
 		{
+			"group": "Amnesia - Memories",
+			"titles": [
+				{"searchTerm": "Amnesia - Memories"},
+				{"searchTerm": "Amnesia V Edition"}
+			]
+		},
+		{
 			"group": "Amnesia World AR",
 			"categories": ["Add-Ons"],
 			"titles": [
@@ -56,10 +78,24 @@
 			]
 		},
 		{
+			"group": "Animax Plus",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Animax Plus"}
+			]
+		},
+		{
 			"group": "Antiquia Lost",
 			"titles": [
 				{"searchTerm": "Antiqua Lost"},
 				{"searchTerm": "Antiquia Lost"}
+			]
+		},
+		{
+			"group": "Aqua Kitty - Milk Mine Defender DX",
+			"titles": [
+				{"searchTerm": "Aqua Kitty - Milk Mine Defender DX"},
+				{"searchTerm": "Aqua Kitty DX"}
 			]
 		},
 		{
@@ -134,6 +170,13 @@
 			]
 		},
 		{
+			"group": "Attack on Titan - Wings of Freedom",
+			"titles": [
+				{"searchTerm": "Attack on Titan"},
+				{"searchTerm": "Attack on Titan - Wings of Freedom"}
+			]
+		},
+		{
 			"group": "Balthazar's Dreams",
 			"titles": [
 				{"searchTerm": "Balthazar's Dream"},
@@ -180,13 +223,42 @@
 			]
 		},
 		{
+			"group": "Breeder Homegrown",
+			"titles": [
+				{"searchTerm": "Breeder - Homegrown - Director's Cut"},
+				{"searchTerm": "Breeder Homegrown"}
+			]
+		},
+		{
+			"group": "Bunny Must Die! Chelsea and the 7 Devils",
+			"titles": [
+				{"searchTerm": "Bunny Must Die! Chelsea and the 7 Devils"},
+				{"searchTerm": "Chelsea-san wa 7 no Majin o Bussatsu Saneba Naranai"}
+			]
+		},
+		{
 			"group": "Call of Duty - Black Ops - Declassified",
 			"titles": [
 				{"searchTerm": "Call of Duty - Black Ops - Declassified"},
 				{"searchTerm": "Call of Duty - Black Ops Declassified"},
 				{"searchTerm": "Call of Duty Black Ops - Declassified"}
 			]
-		},{
+		},
+		{
+			"group": "Caligula Effect, The",
+			"titles": [
+				{"searchTerm": "Caligula"},
+				{"searchTerm": "Caligula Effect, The"}
+			]
+		},
+		{
+			"group": "Certain Magical Virtual-On, A",
+			"titles": [
+				{"searchTerm": "Certain Magical Virtual-On, A"},
+				{"searchTerm": "Dennou Senki - Virtual On x Toaru Majutsu no Kinsho Mokuroku - Toaru Majutsu no Dennou Senki"}
+			]
+		},
+		{
 			"group": "Citizens of Earth",
 			"titles": [
 				{"searchTerm": "Citizens of Earth"},
@@ -233,6 +305,20 @@
 			"titles": [
 				{"searchTerm": "Corridor Z"},
 				{"searchTerm": "Corrizor Z"}
+			]
+		},
+		{
+			"group": "Coven and Labyrinth of Refrain",
+			"titles": [
+				{"searchTerm": "Coven and Labyrinth of Refrain"},
+				{"searchTerm": "Refrain no Chika Meikyuu to Majo no Ryodan"}
+			]
+		},
+		{
+			"group": "Crackle",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Crackle"}
 			]
 		},
 		{
@@ -382,6 +468,13 @@
 			]
 		},
 		{
+			"group": "DMM.com",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "DMM.com"}
+			]
+		},
+		{
 			"group": "Dragon Fantasy Book I",
 			"titles": [
 				{"searchTerm": "Dragon Fantasy - The Volumes of Westeria"},
@@ -400,6 +493,34 @@
 			"titles": [
 				{"searchTerm": "Dragon Quest Builders"},
 				{"searchTerm": "Dragon Quest Builders - Alefgard o Fukkatsu Niseyo"}
+			]
+		},
+		{
+			"group": "DramaFever",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "DramaFever"}
+			]
+		},
+		{
+			"group": "Duck Souls+",
+			"titles": [
+				{"searchTerm": "Duck Souls"},
+				{"searchTerm": "Duck Souls+"}
+			]
+		},
+		{
+			"group": "Dungeon Hunter - Alliance",
+			"titles": [
+				{"searchTerm": "Dark Quest - Alliance"},
+				{"searchTerm": "Dungeon Hunter - Alliance"}
+			]
+		},
+		{
+			"group": "Du View",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Du View"}
 			]
 		},
 		{
@@ -449,14 +570,6 @@
 			]
 		},
 		{
-			"group": "Everybody's Golf 6",
-			"titles": [
-				{"searchTerm": "Everybody's Golf"},
-				{"searchTerm": "Everybody's Golf 6"},
-				{"searchTerm": "Minna no Golf 6"}
-			]
-		},
-		{
 			"group": "Facebook",
 			"categories": ["Applications"],
 			"titles": [
@@ -492,6 +605,13 @@
 			]
 		},
 		{
+			"group": "Flickr",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Flickr"}
+			]
+		},
+		{
 			"group": "Fort Defense North Menace",
 			"titles": [
 				{"searchTerm": "Fort Defense - North Menace"},
@@ -499,10 +619,31 @@
 			]
 		},
 		{
+			"group": "Fortune Street - Dragon Quest & Final Fantasy 30th Anniversary",
+			"titles": [
+				{"searchTerm": "Fortune Street - Dragon Quest & Final Fantasy 30th Anniversary"},
+				{"searchTerm": "Itadaki Street - Dragon Quest & Final Fantasy 30th Anniversary"}
+			]
+		},
+		{
+			"group": "Foursquare",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Foursquare"}
+			]
+		},
+		{
 			"group": "Gal Gun - Double Peace",
 			"titles": [
 				{"searchTerm": "Gal Gun - Double Peace"},
 				{"searchTerm": "Gal Gun - Double Peace - Bilingual"}
+			]
+		},
+		{
+			"group": "Game One",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Game One"}
 			]
 		},
 		{
@@ -597,10 +738,27 @@
 			]
 		},
 		{
+			"group": "Hot Shots Golf - World Invitational",
+			"titles": [
+				{"searchTerm": "Everybody's Golf"},
+				{"searchTerm": "Everybody's Golf 6"},
+				{"searchTerm": "Hot Shots Golf - World Invitational"},
+				{"searchTerm": "Minna no Golf 6"}
+			]
+		},
+		{
 			"group": "House in Fata Morgana, The",
 			"titles": [
 				{"searchTerm": "Fata Morgana no Kan - Collected Edition"},
 				{"searchTerm": "House in Fata Morgana, The"}
+			]
+		},
+		{
+			"group": "Hulu Plus",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Hulu"},
+				{"searchTerm": "Hulu Plus"}
 			]
 		},
 		{
@@ -669,6 +827,13 @@
 			]
 		},
 		{
+			"group": "Kin'iro no Corda 4",
+			"titles": [
+				{"searchTerm": "Corda d'Oro 4, La"},
+				{"searchTerm": "Kin'iro no Corda 4"}
+			]
+		},
+		{
 			"group": "Knock-Knock",
 			"titles": [
 				{"searchTerm": "Knock-Knock"},
@@ -680,6 +845,13 @@
 			"titles": [
 				{"searchTerm": "Bakumatsu Roman Daini Tobari - Gekka no Kenshi"},
 				{"searchTerm": "Last Blade 2, The"}
+			]
+		},
+		{
+			"group": "Legend of Heroes, The - Ao no Kiseki Evolution",
+			"titles": [
+				{"searchTerm": "Eiyuu Densetsu - Ao no Kiseki Evolution"},
+				{"searchTerm": "Legend of Heroes, The - Ao no Kiseki Evolution"}
 			]
 		},
 		{
@@ -705,8 +877,17 @@
 			]
 		},
 		{
+			"group": "Legend of Heroes, The - Trails of Cold Steel",
+			"titles": [
+				{"searchTerm": "Eiyuu Densetsu - Sen no Kiseki"},
+				{"searchTerm": "Legend of Heroes, The - Sen no Kiseki"},
+				{"searchTerm": "Legend of Heroes, The - Trails of Cold Steel"}
+			]
+		},
+		{
 			"group": "Legend of Heroes, The - Trails of Cold Steel II",
 			"titles": [
+				{"searchTerm": "Eiyuu Densetsu - Sen no Kiseki II"},
 				{"searchTerm": "Legend of Heroes, The - Sen no Kiseki II"},
 				{"searchTerm": "Legend of Heroes, The - Trails of Cold Steel II"}
 			]
@@ -730,6 +911,13 @@
 			"categories": ["Applications"],
 			"titles": [
 				{"searchTerm": "LiveTweet"}
+			]
+		},
+		{
+			"group": "London Detective Mysteria",
+			"titles": [
+				{"searchTerm": "Eikoku Tantei Mysteria - The Crown"},
+				{"searchTerm": "London Detective Mysteria"}
 			]
 		},
 		{
@@ -768,6 +956,13 @@
 			]
 		},
 		{
+			"group": "MLB.TV Premium",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "MLB.TV Premium"}
+			]
+		},
+		{
 			"group": "MotorStorm RC",
 			"titles": [
 				{"searchTerm": "MotorStorm RC - Presented by Scion"}
@@ -782,6 +977,13 @@
 				{"searchTerm": "Mr. Pumpkin's Adventure"},
 				{"searchTerm": "Mr. Pumpkin Adventure"},
 				{"searchTerm": "Mr. Pumpkin no Fushigi na Tabi"}
+			]
+		},
+		{
+			"group": "Music Unlimited",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Music Unlimited"}
 			]
 		},
 		{
@@ -806,6 +1008,14 @@
 			],
 			"supersets": [
 				{"searchTerm": "Necrosphere Deluxe"}
+			]
+		},
+		{
+			"group": "NekoBuro - Cats Block",
+			"titles": [
+				{"searchTerm": "CatsBlock Vestival"},
+				{"searchTerm": "NekoBuro - Cats Block"},
+				{"searchTerm": "Nyan-derful Puzzle - NekoBuro"}
 			]
 		},
 		{
@@ -1058,6 +1268,13 @@
 			]
 		},
 		{
+			"group": "Red Bow",
+			"titles": [
+				{"searchTerm": "Akai Ribbon - Kimyou na Yume"},
+				{"searchTerm": "Red Bow"}
+			]
+		},
+		{
 			"group": "Resident Evil - Revelations 2",
 			"titles": [
 				{"searchTerm": "Biohazard - Revelations 2"},
@@ -1184,6 +1401,13 @@
 			]
 		},
 		{
+			"group": "Sky! On-Demand",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Sky! On-Demand"}
+			]
+		},
+		{
 			"group": "Skype",
 			"categories": ["Applications"],
 			"titles": [
@@ -1195,6 +1419,13 @@
 			"titles": [
 				{"searchTerm": "Sly 3 - Honor Among Thieves"},
 				{"searchTerm": "Sly 3 - Honour Among Thieves"}
+			]
+		},
+		{
+			"group": "SnagFilms - Watch Free Movies & TV Shows",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "SnagFilms - Watch Free Movies & TV Shows"}
 			]
 		},
 		{
@@ -1298,6 +1529,13 @@
 				{"searchTerm": "Table Football"},
 				{"searchTerm": "Table Play Soccer"},
 				{"searchTerm": "Table Soccer"}
+			]
+		},
+		{
+			"group": "TBS World Heritage Site Selection",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "TBS World Heritage Site Selection"}
 			]
 		},
 		{
@@ -1462,6 +1700,13 @@
 			]
 		},
 		{
+			"group": "WeatherNation",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "WeatherNation"}
+			]
+		},
+		{
 			"group": "WipEout 2048 - Online Pass",
 			"categories": ["Add-Ons"],
 			"titles": [
@@ -1473,6 +1718,13 @@
 			"titles": [
 				{"searchTerm": "XBlaze - Lost Memories"},
 				{"searchTerm": "XBlaze Lost - Memories"}
+			]
+		},
+		{
+			"group": "YouTube",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "YouTube"}
 			]
 		},
 		{
