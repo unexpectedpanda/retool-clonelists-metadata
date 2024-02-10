@@ -1,8 +1,8 @@
 {
 	"description": {
 		"name": "Sony - PlayStation 3 (Redump)",
-		"lastUpdated": "10 February 2024",
-		"minimumVersion": "2.00"
+		"lastUpdated": "11 February 2024",
+		"minimumVersion": "2.02"
 	},
 
 	"mias": [
@@ -2076,9 +2076,12 @@
 			"group": "PES 2016 - Pro Evolution Soccer",
 			"titles": [
 				{"searchTerm": "PES 2016 - Pro Evolution Soccer"},
-				{"searchTerm": "Winning Eleven 2016"},
-				{"searchTerm": "UEFA Euro 2016 - France - Winning Eleven 2016", "priority": 2},
-				{"searchTerm": "UEFA Euro 2016 - PES 2016 - Pro Evolution Soccer", "priority": 2}
+				{"searchTerm": "PES 2016 - Pro Evolution Soccer - Winning Eleven 2016"},
+				{"searchTerm": "Winning Eleven 2016"}
+			],
+			"supersets": [
+				{"searchTerm": "UEFA Euro 2016 - France - Winning Eleven 2016"},
+				{"searchTerm": "UEFA Euro 2016 - PES 2016 - Pro Evolution Soccer"}
 			]
 		},
 		{
