@@ -1,22 +1,9 @@
 {
 	"description": {
 		"name": "Non-Redump - Sony - PlayStation Portable (No-Intro)",
-		"lastUpdated": "11 May 2023",
-		"minimumVersion": "2.00"
+		"lastUpdated": "26 December 2023",
+		"minimumVersion": "2.02"
 	},
-
-	"overrides": [
-		{
-			"searchTerm": "TalkMan EURO - TalkMan Europa Gengo Ban (Asia) (En,Fr,De,Es,It,Ko) (v1.03) (Microphone Doukonban)",
-			"nameType": "full",
-			"newGroup": "TalkMan EURO - TalkMan Europa Gengo Ban"
-		},
-		{
-			"searchTerm": "TalkMan Euro (Asia) (En,Fr,De,Es,It,Zh) (v1.03) (Software Doukonban)",
-			"nameType": "full",
-			"newGroup": "TalkMan EURO - TalkMan Europa Gengo Ban"
-		}
-	],
 
 	"variants": [
 		{
@@ -194,6 +181,13 @@
 			"titles": [
 				{"searchTerm": "Strikers 1945 Plus"},
 				{"searchTerm": "Strikers 1945 Plus Portable"}
+			]
+		},
+		{
+			"group": "TalkMan EURO - TalkMan Europa Gengo Ban",
+			"titles": [
+				{"searchTerm": "TalkMan Euro"},
+				{"searchTerm": "TalkMan EURO - TalkMan Europa Gengo Ban"}
 			]
 		},
 		{

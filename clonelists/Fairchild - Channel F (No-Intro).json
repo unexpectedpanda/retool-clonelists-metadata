@@ -1,19 +1,25 @@
 {
 	"description": {
 		"name": "Fairchild - Channel F (No-Intro)",
-		"lastUpdated": "09 January 2023",
-		"minimumVersion": "2.00"
+		"lastUpdated": "26 December 2023",
+		"minimumVersion": "2.02"
 	},
 
-	"categories": [
-		{
-			"searchTerm": "^Demonstration Cartridge( [0-9])?",
-			"nameType": "regex",
-			"categories": ["Demos"]
-		}
-	],
-
 	"variants": [
+		{
+			"group": "Demonstration Cartridge",
+			"categories": ["Demos"],
+			"titles": [
+				{"searchTerm": "Demonstration Cartridge"}
+			]
+		},
+		{
+			"group": "Demonstration Cartridge 2",
+			"categories": ["Demos"],
+			"titles": [
+				{"searchTerm": "Demonstration Cartridge 2"}
+			]
+		},
 		{
 			"group": "Hangman",
 			"titles": [

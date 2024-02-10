@@ -1,35 +1,9 @@
 {
 	"description": {
 		"name": "Coleco - ColecoVision (No-Intro)",
-		"lastUpdated": "09 January 2023",
-		"minimumVersion": "2.00"
+		"lastUpdated": "26 December 2023",
+		"minimumVersion": "2.02"
 	},
-
-	"categories": [
-		{
-			"searchTerm": "ColecoVision Monitor Test",
-			"nameType": "short",
-			"categories": ["Applications"]
-		},
-		{
-			"searchTerm": "Final Test Cartridge",
-			"nameType": "short",
-			"categories": ["Applications"]
-		},
-		{
-			"searchTerm": "Super Controller Tester",
-			"nameType": "short",
-			"categories": ["Applications"]
-		}
-	],
-
-	"overrides": [
-		{
-			"searchTerm": "^Super Action Football \\(Europe\\)(.*)?",
-			"nameType": "regex",
-			"newGroup": "Super Action Football Europe"
-		}
-	],
 
 	"variants": [
 		{
@@ -40,6 +14,12 @@
 			]
 		},
 		{
+			"group": "ColecoVision Monitor Test",
+			"titles": [
+				{"searchTerm": "ColecoVision Monitor Test", "categories": ["Applications"]}
+			]
+		},
+		{
 			"group": "Defender",
 			"titles": [
 				{"searchTerm": "Defender (BUG Fixed)"},
@@ -47,10 +27,36 @@
 			]
 		},
 		{
+			"group": "Final Test Cartridge",
+			"titles": [
+				{"searchTerm": "Final Test Cartridge", "categories": ["Applications"]}
+			]
+		},
+		{
 			"group": "Front Line",
 			"titles": [
 				{"searchTerm": "Front Line (Standard Controller)"},
 				{"searchTerm": "Front Line (Super Action Controller)", "priority": 2}
+			]
+		},
+		{
+			"group": "Super Action Football",
+			"titles": [
+				{
+					"searchTerm": "Super Action Football",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["Europe"]},
+							"results": {"group": "Super Action Football (Europe)"}
+						}
+					]
+				}
+			]
+		},
+		{
+			"group": "Super Controller Tester",
+			"titles": [
+				{"searchTerm": "Super Controller Tester", "categories": ["Applications"]}
 			]
 		}
 	]

@@ -1,0 +1,241 @@
+{
+	"description": {
+		"name": "Nintendo - Family Computer Disk System (FDS) (No-Intro)",
+		"lastUpdated": "26 December 2023",
+		"minimumVersion": "2.02"
+	},
+
+	"variants": [
+		{
+			"group": "Disk Hacker",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Disk Hacker"}
+			]
+		},
+		{
+			"group": "Disk Hacker II - Copy Plus 3",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Disk Hacker II - Copy Plus 3"}
+			]
+		},
+		{
+			"group": "Disk Keeper",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Disk Keeper"}
+			]
+		},
+		{
+			"group": "Dot E Creator Contest",
+			"categories": ["Multimedia"],
+			"titles": [
+				{"searchTerm": "Dot E Creator Contest"}
+			]
+		},
+		{
+			"group": "FMC Disk Card Checker Ver 1.3 (Developer Card)",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "FMC Disk Card Checker Ver 1.3 (Developer Card)"}
+			]
+		},
+		{
+			"group": "Golf - Japan Course",
+			"titles": [
+				{"searchTerm": "Golf - Japan Course"},
+				{"searchTerm": "Golf - Japan Course (Prize Card)", "priority": 2}
+			]
+		},
+		{
+			"group": "Golf - US Course",
+			"titles": [
+				{"searchTerm": "Golf - US Course"},
+				{"searchTerm": "Golf - Special Course (Prize Card)", "priority": 2}
+			]
+		},
+		{
+			"group": "Graphic Editor Hokusai - Ver 1.2",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Graphic Editor Hokusai - Ver 1.2"}
+			]
+		},
+		{
+			"group": "Kosodate Gokko",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Kosodate Gokko"}
+			]
+		},
+		{
+			"group": "Link no Bouken - The Legend of Zelda 2 (Collector's Edition)",
+			"titles": [
+				{"searchTerm": "Link no Bouken - The Legend of Zelda 2 (Collector's Edition)"},
+				{"searchTerm": "Link no Bouken - The Legend of Zelda 2", "priority": 2}
+			]
+		},
+		{
+			"group": "Quick Hunter",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Quick Hunter"}
+			]
+		},
+		{
+			"group": "Quick Hunter - Parameter Disk Vol.1",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Quick Hunter - Parameter Disk Vol.1"}
+			]
+		},
+		{
+			"group": "Souseiki Fammy - ROM-QD for 256K+64K",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Souseiki Fammy - ROM-QD for 256K+64K"}
+			]
+		},
+		{
+			"group": "Sunsoft Dev Disk Lot - 'D167B23' no. 1",
+			"categories": ["Preproduction"],
+			"titles": [
+				{"searchTerm": "Sunsoft Dev Disk Lot - 'D167B23' no. 1"}
+			]
+		},
+		{
+			"group": "Sunsoft Dev Disk Lot - 'D167B23' no. 2",
+			"categories": ["Preproduction"],
+			"titles": [
+				{"searchTerm": "Sunsoft Dev Disk Lot - 'D167B23' no. 2"}
+			]
+		},
+		{
+			"group": "Sunsoft Dev Disk Lot - 'D167B23' no. 3",
+			"categories": ["Preproduction"],
+			"titles": [
+				{"searchTerm": "Sunsoft Dev Disk Lot - 'D167B23' no. 3"}
+			]
+		},
+		{
+			"group": "Sunsoft Dev Disk Lot - 'D167B23' no. 4",
+			"categories": ["Preproduction"],
+			"titles": [
+				{"searchTerm": "Sunsoft Dev Disk Lot - 'D167B23' no. 4"}
+			]
+		},
+		{
+			"group": "Sunsoft Dev Disk Lot - 'D167B23' no. 5",
+			"categories": ["Preproduction"],
+			"titles": [
+				{"searchTerm": "Sunsoft Dev Disk Lot - 'D167B23' no. 5"}
+			]
+		},
+		{
+			"group": "Sunsoft Dev Disk Lot - 'D167B23' no. 6",
+			"categories": ["Preproduction"],
+			"titles": [
+				{"searchTerm": "Sunsoft Dev Disk Lot - 'D167B23' no. 6"}
+			]
+		},
+		{
+			"group": "Sunsoft Dev Disk Lot - 'E180L05' no. 1",
+			"categories": ["Preproduction"],
+			"titles": [
+				{"searchTerm": "Sunsoft Dev Disk Lot - 'E180L05' no. 1"}
+			]
+		},
+		{
+			"group": "Sunsoft Dev Disk Lot - 'E180L05' no. 2 and no. 3",
+			"categories": ["Preproduction"],
+			"titles": [
+				{"searchTerm": "Sunsoft Dev Disk Lot - 'E180L05' no. 2 and no. 3"}
+			]
+		},
+		{
+			"group": "Sunsoft Dev Disk Lot - 'E180L05' no. 4",
+			"categories": ["Preproduction"],
+			"titles": [
+				{"searchTerm": "Sunsoft Dev Disk Lot - 'E180L05' no. 4"}
+			]
+		},
+		{
+			"group": "Sunsoft Dev Disk Lot - 'F087D22'",
+			"categories": ["Preproduction"],
+			"titles": [
+				{"searchTerm": "Sunsoft Dev Disk Lot - 'F087D22'"}
+			]
+		},
+		{
+			"group": "Sunsoft Dev Disk Lot - 'F266F13'",
+			"categories": ["Preproduction"],
+			"titles": [
+				{"searchTerm": "Sunsoft Dev Disk Lot - 'F266F13'"}
+			]
+		},
+		{
+			"group": "Sunsoft Dev Disk Lot - 'G188D21N' no. 1",
+			"categories": ["Preproduction"],
+			"titles": [
+				{"searchTerm": "Sunsoft Dev Disk Lot - 'G188D21N' no. 1"}
+			]
+		},
+		{
+			"group": "Sunsoft Dev Disk Lot - 'G188D21N' no. 2",
+			"categories": ["Preproduction"],
+			"titles": [
+				{"searchTerm": "Sunsoft Dev Disk Lot - 'G188D21N' no. 2"}
+			]
+		},
+		{
+			"group": "Sunsoft Dev Disk Lot - 'G188D21N' no. 3",
+			"categories": ["Preproduction"],
+			"titles": [
+				{"searchTerm": "Sunsoft Dev Disk Lot - 'G188D21N' no. 3"}
+			]
+		},
+		{
+			"group": "Sunsoft Dev Disk Lot - 'J226I22' no. 1",
+			"categories": ["Preproduction"],
+			"titles": [
+				{"searchTerm": "Sunsoft Dev Disk Lot - 'J226I22' no. 1"}
+			]
+		},
+		{
+			"group": "Sunsoft Dev Disk Lot - 'J226I22' no. 3",
+			"categories": ["Preproduction"],
+			"titles": [
+				{"searchTerm": "Sunsoft Dev Disk Lot - 'J226I22' no. 3"}
+			]
+		},
+		{
+			"group": "Sunsoft Dev Disk Lot - 'K057G06'",
+			"categories": ["Preproduction"],
+			"titles": [
+				{"searchTerm": "Sunsoft Dev Disk Lot - 'K057G06'"}
+			]
+		},
+		{
+			"group": "Tonkachi Editor",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Tonkachi Editor"}
+			]
+		},
+		{
+			"group": "Topple Zip",
+			"titles": [
+				{"searchTerm": "Topple Zip"},
+				{"searchTerm": "Topple Zip (Project EGG)", "priority": 2}
+			]
+		},
+		{
+			"group": "Zelda no Densetsu - The Hyrule Fantasy (Collector's Edition)",
+			"titles": [
+				{"searchTerm": "Zelda no Densetsu - The Hyrule Fantasy (Collector's Edition)"},
+				{"searchTerm": "Zelda no Densetsu - The Hyrule Fantasy", "priority": 2}
+			]
+		}
+	]
+}

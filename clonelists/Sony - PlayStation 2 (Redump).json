@@ -1,76 +1,19 @@
 {
 	"description": {
 		"name": "Sony - PlayStation 2 (Redump)",
-		"lastUpdated": "02 January 2024",
+		"lastUpdated": "10 February 2024",
 		"minimumVersion": "2.00"
 	},
-
-	"categories": [
-		{
-			"searchTerm": "Arc the Lad - Jeongryeongui Hwanghon - Premiere Disc (Korea)",
-			"nameType": "full",
-			"categories": ["Promo", "Video"]
-		},
-		{
-			"searchTerm": "Jak and Daxter Complete Trilogy",
-			"nameType": "short",
-			"categories": ["Video"]
-		},
-		{
-			"searchTerm": "^Konami Kids Playground.*",
-			"nameType": "regex",
-			"categories": ["Educational, Games"]
-		}
-	],
 
 	"mias": [
 		"Gran Turismo - Subaru Driving Simulator Version (Japan)",
 		"Gran Turismo 3 - A-Spec - Autobacs Tentou Shiyuu Disc (Japan)",
 		"Gran Turismo 4 - Lupo Cup Training Version (Japan)",
-		"Herdy Gerdy (Korea)",
-		"Karat PS2-you Pro Action Replay 2 (Japan) (Unl) (v2.23)",
 		"LEGO Super Soccer Adventure (Europe) (Proto) (2003-03-27)",
 		"LEGO Super Soccer Adventure (Europe) (Proto) (2003-04-24)",
-		"Nickelodeon Tak 2 - The Staff of Dreams (Korea)",
 		"Routes PE (Japan) (Shokai Genteiban)",
 		"Taz - Wanted (Europe) (Beta) (2001-11-27)",
 		"Taz - Wanted (Europe) (Beta) (2002-04-02)"
-	],
-
-	"overrides": [
-		{
-			"searchTerm": "^GuitarFreaks & DrumMania V3.*",
-			"nameType": "regex",
-			"newGroup": "GuitarFreaks & DrumMania Veethree"
-		},
-		{
-			"searchTerm": "^GuitarFreaks V & DrumMania V.*",
-			"nameType": "regex",
-			"newGroup": "GuitarFreaks Vee & DrumMania Vee"
-		},
-		{
-			"searchTerm": "^GuitarFreaks V2 & DrumMania V2.*",
-			"nameType": "regex",
-			"newGroup": "GuitarFreaks Veetoo & DrumMania Veetoo"
-		},
-		{
-			"searchTerm": "^Micro Machines V4 \\((USA|Europe)\\).*",
-			"nameType": "regex",
-			"newGroup": "Micro Machines Veefour"
-		},
-		{
-			"searchTerm": "MLB 2003 (Japan)",
-			"newGroup": "MLB 2004"
-		},
-		{
-			"searchTerm": "MLB 2004 (Japan)",
-			"newGroup": "MLB 2005"
-		},
-		{
-			"searchTerm": "^NBA Street V3 \\((USA|Europe|Japan|Korea)\\).*",
-			"nameType": "regex",
-			"newGroup": "NBA Street Veethree"
-		}
 	],
 
 	"variants": [
@@ -347,6 +290,13 @@
 			]
 		},
 		{
+			"group": "Aoi Shiro",
+			"titles": [
+				{"searchTerm": "Aoi Shiro"},
+				{"searchTerm": "SuperLite 2000 Vol. 44 - Aoi Shiro", "priority": 2}
+			]
+		},
+		{
 			"group": "Ape Escape - Pumped & Primed",
 			"titles": [
 				{"searchTerm": "Ape Escape - Pumped & Primed"},
@@ -396,6 +346,13 @@
 			"titles": [
 				{"searchTerm": "Arc the Lad - End of Darkness"},
 				{"searchTerm": "Arc the Lad - Generation"}
+			]
+		},
+		{
+			"group": "Arc the Lad - Jeongryeongui Hwanghon - Premiere Disc",
+			"categories": ["Promotional", "Video"],
+			"titles": [
+				{"searchTerm": "Arc the Lad - Jeongryeongui Hwanghon - Premiere Disc"}
 			]
 		},
 		{
@@ -817,6 +774,20 @@
 			],
 			"supersets": [
 				{"searchTerm": "Call of Duty 2 - Big Red One (Collector's Edition)"}
+			]
+		},
+		{
+			"group": "C@m Station",
+			"titles": [
+				{"searchTerm": "C@m Station (Doukonban)"},
+				{"searchTerm": "C@m Station", "priority": 2}
+			]
+		},
+		{
+			"group": "Cafe Lindbergh - Summer Season",
+			"titles": [
+				{"searchTerm": "Cafe Lindbergh - Summer Season"},
+				{"searchTerm": "Cafe Lindbergh - Summer Season (Sweet Box)", "priority": 2}
 			]
 		},
 		{
@@ -1757,6 +1728,13 @@
 			]
 		},
 		{
+			"group": "DT Racer",
+			"titles": [
+				{"searchTerm": "Axel Impact - The Extreme Racing"},
+				{"searchTerm": "DT Racer"}
+			]
+		},
+		{
 			"group": "Duel Masters",
 			"titles": [
 				{"searchTerm": "Duel Masters"},
@@ -2204,6 +2182,13 @@
 			"titles": [
 				{"searchTerm": "FIFA Football 2005"},
 				{"searchTerm": "FIFA Soccer 2005"}
+			]
+		},
+		{
+			"group": "Fighter Maker 2",
+			"titles": [
+				{"searchTerm": "3D Kakutou Tkool 2"},
+				{"searchTerm": "Fighter Maker 2"}
 			]
 		},
 		{
@@ -2883,6 +2868,18 @@
 			]
 		},
 		{
+			"group": "GuitarFreaks & DrumMania V3",
+			"titles": [
+				{"searchTerm": "GuitarFreaks & DrumMania V3", "nameType": "regionFree"}
+			]
+		},
+		{
+			"group": "GuitarFreaks V2 & DrumMania V2",
+			"titles": [
+				{"searchTerm": "GuitarFreaks V2 & DrumMania V2", "nameType": "regionFree"}
+			]
+		},
+		{
 			"group": "Guncom 2",
 			"titles": [
 				{"searchTerm": "Death Crimson OX+"},
@@ -2901,13 +2898,6 @@
 			"titles": [
 				{"searchTerm": "Gungrave - Overdose"},
 				{"searchTerm": "Gungrave O.D."}
-			]
-		},
-		{
-			"group": "Hajime no Ippo - Victorious Boxers - Championship Version",
-			"titles": [
-				{"searchTerm": "Hajime no Ippo - Victorious Boxers - Championship Version"},
-				{"searchTerm": "Hajime-ui Ilbo - The Fighting! Victorious Boxers - Championship Version"}
 			]
 		},
 		{
@@ -3029,6 +3019,13 @@
 			]
 		},
 		{
+			"group": "Harukanaru Toki no Naka de - Maihitoyo",
+			"titles": [
+				{"searchTerm": "Harukanaru Toki no Naka de - Maihitoyo (Premium Box)"},
+				{"searchTerm": "Harukanaru Toki no Naka de - Maihitoyo", "priority": 2}
+			]
+		},
+		{
 			"group": "Harukanaru Toki no Naka de 2 (Premium Box)",
 			"titles": [
 				{"searchTerm": "Harukanaru Toki no Naka de 2 (Premium Box)"},
@@ -3054,8 +3051,9 @@
 		{
 			"group": "Harukanaru Toki no Naka de 3 - Unmei no Labyrinth (Triple Pack)",
 			"titles": [
-				{"searchTerm": "Harukanaru Toki no Naka de 3 - Unmei no Labyrinth (Triple Pack)"},
-				{"searchTerm": "Harukanaru Toki no Naka de 3 - Unmei no Labyrinth", "priority": 2}
+				{"searchTerm": "Harukanaru Toki no Naka de 3 - Unmei no Labyrinth (Premium Box)"},
+				{"searchTerm": "Harukanaru Toki no Naka de 3 - Unmei no Labyrinth (Triple Pack)", "priority": 2},
+				{"searchTerm": "Harukanaru Toki no Naka de 3 - Unmei no Labyrinth", "priority": 3}
 			]
 		},
 		{
@@ -3113,6 +3111,7 @@
 		{
 			"group": "Hello Kitty - Roller Rescue",
 			"titles": [
+				{"searchTerm": "Hello Kitty - Mission Rescue"},
 				{"searchTerm": "Hello Kitty - Roller Rescue"},
 				{"searchTerm": "Hello Kitty no PikoPiko Daisakusen"}
 			]
@@ -3341,6 +3340,13 @@
 			]
 		},
 		{
+			"group": "Jak and Daxter Complete Trilogy",
+			"categories": ["Video"],
+			"titles": [
+				{"searchTerm": "Jak and Daxter Complete Trilogy"}
+			]
+		},
+		{
 			"group": "Jak II",
 			"titles": [
 				{"searchTerm": "Jak II"},
@@ -3528,6 +3534,13 @@
 			]
 		},
 		{
+			"group": "Kin'iro no Corda",
+			"titles": [
+				{"searchTerm": "Kin'iro no Corda (Premium Box)"},
+				{"searchTerm": "Kin'iro no Corda", "priority": 2}
+			]
+		},
+		{
 			"group": "Kin'iro no Corda 2 Encore",
 			"titles": [
 				{"searchTerm": "Kin'iro no Corda 2 Encore (Premium Box)"},
@@ -3664,6 +3677,41 @@
 			]
 		},
 		{
+			"group": "Konami Kids Playground (Demo)",
+			"categories": ["Demo", "Educational", "Games"],
+			"titles": [
+				{"searchTerm": "Konami Kids Playground (Demo)"}
+			]
+		},
+		{
+			"group": "Konami Kids Playground - Alphabet Circus",
+			"categories": ["Educational", "Games"],
+			"titles": [
+				{"searchTerm": "Konami Kids Playground - Alphabet Circus"}
+			]
+		},
+		{
+			"group": "Konami Kids Playground - Dinosaurs - Shapes & Colors",
+			"categories": ["Educational", "Games"],
+			"titles": [
+				{"searchTerm": "Konami Kids Playground - Dinosaurs - Shapes & Colors"}
+			]
+		},
+		{
+			"group": "Konami Kids Playground - Frogger - Hop, Skip & Jumpin' Fun",
+			"categories": ["Educational", "Games"],
+			"titles": [
+				{"searchTerm": "Konami Kids Playground - Frogger - Hop, Skip & Jumpin' Fun"}
+			]
+		},
+		{
+			"group": "Konami Kids Playground - Toy Pals Fun with Numbers",
+			"categories": ["Educational", "Games"],
+			"titles": [
+				{"searchTerm": "Konami Kids Playground - Toy Pals Fun with Numbers"}
+			]
+		},
+		{
 			"group": "Konohana 2 - Todokanai Requiem",
 			"titles": [
 				{"searchTerm": "Konohana 2 - Todokanai Requiem"},
@@ -3724,6 +3772,13 @@
 			"titles": [
 				{"searchTerm": "Legacy of Kain - Soul Reaver 2"},
 				{"searchTerm": "Soul Reaver 2"}
+			]
+		},
+		{
+			"group": "LEGO Island Xtreme Stunts",
+			"titles": [
+				{"searchTerm": "Island Xtreme Stunts"},
+				{"searchTerm": "LEGO Island Xtreme Stunts"}
 			]
 		},
 		{
@@ -4135,6 +4190,13 @@
 			]
 		},
 		{
+			"group": "Memories Off - Sorekara Again",
+			"titles": [
+				{"searchTerm": "Memories Off - Sorekara Again"},
+				{"searchTerm": "SuperLite 2000 Vol. 43 - Memories Off - Sorekara Again", "priority": 2}
+			]
+		},
+		{
 			"group": "Memories Off - After Rain Vol. 1 - Orizuru (Special Edition)",
 			"titles": [
 				{"searchTerm": "Memories Off - After Rain Vol. 1 - Orizuru (Special Edition)"},
@@ -4310,6 +4372,20 @@
 			]
 		},
 		{
+			"group": "Micro Machines",
+			"titles": [
+				{
+					"searchTerm": "Micro Machines",
+					"filters": [
+						{
+							"conditions": {"matchString": "V4"},
+							"results": {"group": "Micro Machines V4"}
+						}
+					]
+				}
+			]
+		},
+		{
 			"group": "Midnight Club 3 - DUB Edition",
 			"titles": [
 				{"searchTerm": "Midnight Club 3 - DUB Edition"}
@@ -4330,6 +4406,34 @@
 			"titles": [
 				{"searchTerm": "Mister Mosquito"},
 				{"searchTerm": "Mr Moskeeto"}
+			]
+		},
+		{
+			"group": "MLB 2003",
+			"titles": [
+				{
+					"searchTerm": "MLB 2003",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["Japan"]},
+							"results": {"group": "MLB 2004"}
+						}
+					]
+				}
+			]
+		},
+		{
+			"group": "MLB 2004",
+			"titles": [
+				{
+					"searchTerm": "MLB 2004",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["Japan"]},
+							"results": {"group": "MLB 2005"}
+						}
+					]
+				}
 			]
 		},
 		{
@@ -4583,6 +4687,21 @@
 			"titles": [
 				{"searchTerm": "NBA 08"},
 				{"searchTerm": "NBA 08 featuring the Life Vol. 3"}
+
+			]
+		},
+		{
+			"group": "NBA Street",
+			"titles": [
+				{
+					"searchTerm": "NBA Street",
+					"filters": [
+						{
+							"conditions": {"matchString": "V3"},
+							"results": {"group": "NBA Street V3"}
+						}
+					]
+				}
 			]
 		},
 		{
@@ -5302,7 +5421,8 @@
 			"titles": [
 				{"searchTerm": "Pucelle, La - Hikari no Seijo Densetsu"},
 				{"searchTerm": "Pucelle, La - Tactics"},
-				{"searchTerm": "Pucelle, La - Hikari no Seijo Densetsu - 2-shuume Hajimemashita.", "priority": 2}
+				{"searchTerm": "Pucelle, La - Hikari no Seijo Densetsu", "priority": 2},
+				{"searchTerm": "Pucelle, La - Hikari no Seijo Densetsu - 2-shuume Hajimemashita.", "priority": 3}
 			]
 		},
 		{
@@ -6624,20 +6744,16 @@
 			"group": "Super Bust-A-Move",
 			"titles": [
 				{"searchTerm": "Super Bust-A-Move"},
-				{"searchTerm": "Super Puzzle Bobble"}
-			],
-			"supersets": [
-				{"searchTerm": "Super Puzzle Bobble Collection (Disc 1)"}
+				{"searchTerm": "Super Puzzle Bobble Collection (Disc 1)"},
+				{"searchTerm": "Super Puzzle Bobble", "priority": 2}
 			]
 		},
 		{
 			"group": "Super Bust-A-Move 2",
 			"titles": [
 				{"searchTerm": "Super Bust-A-Move 2"},
-				{"searchTerm": "Super Puzzle Bobble 2"}
-			],
-			"supersets": [
-				{"searchTerm": "Super Puzzle Bobble Collection (Disc 2)"}
+				{"searchTerm": "Super Puzzle Bobble Collection (Disc 2)"},
+				{"searchTerm": "Super Puzzle Bobble 2", "priority": 2}
 			]
 		},
 		{
@@ -7233,8 +7349,10 @@
 		{
 			"group": "Victorious Boxers - Ippo's Road to Glory",
 			"titles": [
-				{"searchTerm": "Hajime no Ippo - Victorious Boxers"},
-				{"searchTerm": "Victorious Boxers - Ippo's Road to Glory"}
+				{"searchTerm": "Hajime no Ippo - Victorious Boxers - Championship Version"},
+				{"searchTerm": "Hajime-ui Ilbo - The Fighting! Victorious Boxers - Championship Version"},
+				{"searchTerm": "Victorious Boxers - Ippo's Road to Glory"},
+				{"searchTerm": "Hajime no Ippo - Victorious Boxers", "priority": 2}
 			]
 		},
 		{
@@ -7780,9 +7898,9 @@
 			]
 		},
 		{
-			"group": "Yoshitsune Eiyuuden - The Story of Hero Yoshitsune",
+			"group": "Yoshitsune Eiyuuden",
 			"titles": [
-				{"searchTerm": "Yoshitsune Eiyuuden - The Story of Hero Yoshitsune"},
+				{"searchTerm": "Yoshitsune Eiyuuden"},
 				{"searchTerm": "Yoshitsune Yeongungjeon"}
 			]
 		},

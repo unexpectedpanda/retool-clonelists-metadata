@@ -1,29 +1,18 @@
 {
 	"description": {
 		"name": "GCE - Vectrex (No-Intro)",
-		"lastUpdated": "01 December 2023",
-		"minimumVersion": "2.00"
+		"lastUpdated": "26 December 2023",
+		"minimumVersion": "2.02"
 	},
 
-	"categories": [
-		{
-			"searchTerm": "Engine Analyzer",
-			"nameType": "short",
-			"categories": ["Applications", "Preproduction"]
-		},
-		{
-			"searchTerm": "RA+A Spectrum I+ Stress Tester",
-			"nameType": "short",
-			"categories": ["Applications", "Preproduction"]
-		},
-		{
-			"searchTerm": "Test Cartridge",
-			"nameType": "short",
-			"categories": ["Applications", "Preproduction"]
-		}
-	],
-
 	"variants": [
+		{
+			"group": "Engine Analyzer",
+			"categories": ["Applications", "Preproduction"],
+			"titles": [
+				{"searchTerm": "Engine Analyzer"}
+			]
+		},
 		{
 			"group": "Mail Plane",
 			"titles": [
@@ -39,10 +28,24 @@
 			]
 		},
 		{
+			"group": "RA+A Spectrum I+ Stress Tester",
+			"categories": ["Applications", "Preproduction"],
+			"titles": [
+				{"searchTerm": "RA+A Spectrum I+ Stress Tester"}
+			]
+		},
+		{
 			"group": "Star Trek - The Motion Picture",
 			"titles": [
 				{"searchTerm": "Star Ship"},
 				{"searchTerm": "Star Trek - The Motion Picture"}
+			]
+		},
+		{
+			"group": "Test Cartridge",
+			"categories": ["Applications", "Preproduction"],
+			"titles": [
+				{"searchTerm": "Test Cartridge"}
 			]
 		},
 		{

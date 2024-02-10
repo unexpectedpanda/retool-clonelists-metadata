@@ -1,15 +1,17 @@
 {
 	"description": {
 		"name": "Nintendo - Nintendo 64DD (No-Intro)",
-		"lastUpdated": "15 January 2023",
-		"minimumVersion": "0.92"
+		"lastUpdated": "26 December 2023",
+		"minimumVersion": "2.02"
 	},
 
-	"categories": [
+	"variants": [
 		{
-			"searchTerm": "Randnet Disk",
-			"nameType": "short",
-			"categories": ["Applications"]
+			"group": "Randnet Disk",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Randnet Disk"}
+			]
 		}
 	]
 }

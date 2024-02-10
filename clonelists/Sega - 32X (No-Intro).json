@@ -1,19 +1,25 @@
 {
 	"description": {
 		"name": "Sega - 32X (No-Intro)",
-		"lastUpdated": "21 January 2023",
-		"minimumVersion": "2.00"
+		"lastUpdated": "30 December 2023",
+		"minimumVersion": "2.02"
 	},
 
-	"categories": [
-		{
-			"searchTerm": "Time Warner 32X CMD Download Cartridge",
-			"nameType": "short",
-			"categories": ["Applications"]
-		}
-	],
-
 	"variants": [
+		{
+			"group": "Cosmic Carnage",
+			"titles": [
+				{
+					"searchTerm": "Cosmic Carnage",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["Japan", "USA"]},
+							"results": {"localNames": {"english": "Cosmic Carnage", "japanese": "Cyber Brawl"}}
+						}
+					]
+				}
+			]
+		},
 		{
 			"group": "Doom",
 			"titles": [
@@ -22,11 +28,41 @@
 			]
 		},
 		{
+			"group": "Knuckles' Chaotix",
+			"titles": [
+				{
+					"searchTerm": "Knuckles' Chaotix",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["Japan", "USA"]},
+							"results": {"localNames": {"japanese": "カオティクス"}}
+						}
+					]
+				}
+			]
+		},
+		{
 			"group": "Zaxxon's Motherbase 2000",
 			"titles": [
 				{"searchTerm": "Motherbase"},
-				{"searchTerm": "Zaxxon's Motherbase"},
-				{"searchTerm": "Zaxxon's Motherbase 2000"}
+				{
+					"searchTerm": "Zaxxon's Motherbase",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["Japan", "USA"]},
+							"results": {"localNames": {"english": "Zaxxon's Motherbase 2000", "japanese": "ＰＡＲＡＳＱＵＡＤ"}}
+						}
+					]
+				},
+				{
+					"searchTerm": "Zaxxon's Motherbase 2000",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["Japan", "USA"]},
+							"results": {"localNames": {"english": "Zaxxon's Motherbase 2000", "japanese": "ＰＡＲＡＳＱＵＡＤ"}}
+						}
+					]
+				}
 			]
 		}
 	]

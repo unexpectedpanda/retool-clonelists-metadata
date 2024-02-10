@@ -1,0 +1,38 @@
+{
+	"description": {
+		"name": "Sony - PlayStation Vita (PSN) (Content) (No-Intro)",
+		"lastUpdated": "26 December 2023",
+		"minimumVersion": "2.02"
+	},
+
+	"variants": [
+		{
+            "group": "LEGO Movie Videogame, The",
+            "titles": [
+                {
+                    "searchTerm": "LEGO Movie Videogame, The",
+                    "filters": [
+                        {
+                            "conditions": {"matchRegions": ["France"]},
+                            "results": {"localNames": {"french": "Grande Aventure Lego, le jeu vidéo, La"}}
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "group": "Stranger of Sword City",
+            "titles": [
+                {
+                    "searchTerm": "Stranger of Sword City",
+                    "filters": [
+                        {
+                            "conditions": {"matchRegions": ["Japan"]},
+                            "results": {"localNames": {"japanese": "剣の街の異邦人　ー　黒の宮殿"}}
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

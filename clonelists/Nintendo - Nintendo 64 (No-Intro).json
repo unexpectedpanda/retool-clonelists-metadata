@@ -1,50 +1,9 @@
 {
 	"description": {
 		"name": "Nintendo - Nintendo 64 (No-Intro)",
-		"lastUpdated": "01 December 2023",
-		"minimumVersion": "2.00"
+		"lastUpdated": "26 December 2023",
+		"minimumVersion": "2.02"
 	},
-
-	"categories": [
-		{
-			"searchTerm": "Action Replay Pro 64",
-			"nameType": "short",
-			"categories": ["Applications"]
-		},
-		{
-			"searchTerm": "GameBooster 64",
-			"nameType": "short",
-			"categories": ["Applications"]
-		},
-		{
-			"searchTerm": "GameShark Pro",
-			"nameType": "short",
-			"categories": ["Applications"]
-		},
-		{
-			"searchTerm": "Wide-Boy64 [AC]GB.*",
-			"nameType": "regex",
-			"categories": ["Applications"]
-		}
-	],
-
-	"overrides": [
-		{
-			"searchTerm": "Bomberman 64 \\(Japan\\).*",
-			"nameType": "regex",
-			"newGroup": "Bomberman 64 Japan"
-		},
-		{
-			"searchTerm": "Custom Robo V2",
-			"nameType": "regionFree",
-			"newGroup": "Custom Robo Veetoo"
-		},
-		{
-			"searchTerm": "Pokemon Stadium \\(Japan\\).*",
-			"nameType": "regex",
-			"newGroup": "Pokemon Stadium Japan"
-		}
-	],
 
 	"variants": [
 		{
@@ -129,7 +88,15 @@
 			"group": "Bomberman 64",
 			"titles": [
 				{"searchTerm": "Baku Bomberman"},
-				{"searchTerm": "Bomberman 64"}
+				{
+					"searchTerm": "Bomberman 64",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["Japan"]},
+							"results": {"group": "Bomberman 64 (Japan)"}
+						}
+					]
+				}
 			]
 		},
 		{
@@ -187,6 +154,20 @@
 			"titles": [
 				{"searchTerm": "Conker's Bad Fur Day"},
 				{"searchTerm": "Conker's Bad Fur Day (ECTS 2000)"}
+			]
+		},
+		{
+			"group": "Custom Robo",
+			"titles": [
+				{
+					"searchTerm": "Custom Robo",
+					"filters": [
+						{
+							"conditions": {"matchString": "V2"},
+							"results": {"group": "Custom Robo V2"}
+						}
+					]
+				}
 			]
 		},
 		{
@@ -275,9 +256,17 @@
 		},
 		{
 			"group": "GameShark Pro",
+			"categories": ["Applications"],
 			"titles": [
 				{"searchTerm": "Action Replay Pro 64"},
 				{"searchTerm": "GameShark Pro"}
+			]
+		},
+		{
+			"group": "GameBooster 64",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "GameBooster 64"}
 			]
 		},
 		{
@@ -509,6 +498,20 @@
 			]
 		},
 		{
+			"group": "Pokemon Stadium",
+			"titles": [
+				{
+					"searchTerm": "Pokemon Stadium",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["Japan"]},
+							"results": {"group": "Pokemon Stadium (Japan)"}
+						}
+					]
+				}
+			]
+		},
+		{
 			"group": "Pokemon Stadium 2",
 			"titles": [
 				{"searchTerm": "Pokemon Stadium 2"},
@@ -669,6 +672,7 @@
 		},
 		{
 			"group": "Wide-Boy64",
+			"categories": ["Applications"],
 			"titles": [
 				{"searchTerm": "Wide-Boy64 AGB"},
 				{"searchTerm": "Wide-Boy64 CGB", "priority": 2}

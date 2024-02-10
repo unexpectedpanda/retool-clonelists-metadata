@@ -1,22 +1,9 @@
 {
 	"description": {
 		"name": "Microsoft - MSX (No-Intro)",
-		"lastUpdated": "19 November 2023",
-		"minimumVersion": "2.00"
+		"lastUpdated": "06 January 2024",
+		"minimumVersion": "2.02"
 	},
-
-	"categories": [
-		{
-			"searchTerm": "^Basic Lessons [0-9]",
-			"nameType": "regex",
-			"categories": ["Applications"]
-		},
-		{
-			"searchTerm": "Computer Nyuumon - Computer Lessons",
-			"nameType": "short",
-			"categories": ["Applications"]
-		}
-	],
 
 	"variants": [
 		{
@@ -31,6 +18,27 @@
 			"titles": [
 				{"searchTerm": "Antarctic Adventure"},
 				{"searchTerm": "Kekkyoku Nankyoku Dai Bouken"}
+			]
+		},
+		{
+			"group": "Basic Lessons 1",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Basic Lessons 1"}
+			]
+		},
+		{
+			"group": "Basic Lessons 2",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Basic Lessons 2"}
+			]
+		},
+		{
+			"group": "Computer Nyuumon - Computer Lessons",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Computer Nyuumon - Computer Lessons"}
 			]
 		},
 		{
@@ -78,14 +86,14 @@
 		{
 			"group": "Nemesis 2",
 			"titles": [
-				{"searchTerm": "Gradius 2"},
+				{"searchTerm": "Gradius 2", "localNames": {"english": "Gradius 2", "japanese": "グラディウス２"}},
 				{"searchTerm": "Nemesis 2"}
 			]
 		},
 		{
 			"group": "Nemesis 3 - The Eve of Destruction",
 			"titles": [
-				{"searchTerm": "Gofer no Yabo - Episode II"},
+				{"searchTerm": "Gofer no Yabo - Episode II", "localNames": {"japanese": "ゴーファーの野望・ＥＰＩＳＯＤＥ　Ⅱ"}},
 				{"searchTerm": "Nemesis 3 - The Eve of Destruction"}
 			]
 		},

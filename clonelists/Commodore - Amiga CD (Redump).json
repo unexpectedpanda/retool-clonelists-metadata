@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Commodore - Amiga CD (Redump)",
-		"lastUpdated": "18 November 2023",
+		"lastUpdated": "10 February 2024",
 		"minimumVersion": "2.00"
 	},
 
@@ -10,13 +10,24 @@
 		"Amiga OS 4.0 Developer Pre-Release (USA)",
 		"Astro Blox Revisited (Poland)",
 		"Land of Genesis (Europe)",
-		"Shadow of the Third Moon, The (Europe)",
 		"StormC 4 (Europe)",
 		"T-Zero (Europe)",
 		"ZGR3D (Poland)"
 	],
 
 	"variants": [
+		{
+			"group": "Aminet 5 - March 1995",
+			"titles": [
+				{"searchTerm": "Aminet 5 - March 1995", "localNames": {"english": "Aminet 5 - March 1995", "german": "Aminet CD 5 - März 1995"}}
+			]
+		},
+		{
+			"group": "Aminet 6 - June 95",
+			"titles": [
+				{"searchTerm": "Aminet 6 - June 95", "localNames": {"english": "Aminet CD 6 - Juni 95", "german": "Aminet 6 - June 95"}}
+			]
+		},
 		{
 			"group": "Reflections 4.2",
 			"titles": [

@@ -1,52 +1,9 @@
 {
 	"description": {
 		"name": "Atari - 2600 (No-Intro)",
-		"lastUpdated": "01 December 2023",
-		"minimumVersion": "2.00"
+		"lastUpdated": "10 February 2023",
+		"minimumVersion": "2.02"
 	},
-
-	"categories": [
-		{
-			"searchTerm": "BASIC Programming",
-			"nameType": "short",
-			"categories": ["Applications"]
-		},
-		{
-			"searchTerm": "Color Bar Generator",
-			"nameType": "short",
-			"categories": ["Applications"]
-		},
-		{
-			"searchTerm": "Colors",
-			"nameType": "short",
-			"categories": ["Applications", "Preproduction"]
-		},
-		{
-			"searchTerm": "Colours (Demo)",
-			"nameType": "short",
-			"categories": ["Applications", "Demos"]
-		},
-		{
-			"searchTerm": "Frog Demo",
-			"nameType": "short",
-			"categories": ["Demos"]
-		},
-		{
-			"searchTerm": "Kid Vid Voice Module (Audio Tapes)",
-			"nameType": "short",
-			"categories": ["BIOS"]
-		},
-		{
-			"searchTerm": "Sound (Demo)",
-			"nameType": "short",
-			"categories": ["Applications", "Demos"]
-		},
-		{
-			"searchTerm": "Venetian Blinds Demo",
-			"nameType": "short",
-			"categories": ["Demos"]
-		}
-	],
 
 	"variants": [
 		{
@@ -82,6 +39,22 @@
 			"titles": [
 				{"searchTerm": "Assault"},
 				{"searchTerm": "Sky Alien ~ Assault"}
+			]
+		},
+		{
+			"group": "BASIC Programming",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "BASIC Programming"}
+			]
+		},
+		{
+			"group": "Berzerk",
+			"titles": [
+				{"searchTerm": "Berzerk"}
+			],
+			"supersets": [
+				{"searchTerm": "Berzerk (Enhanced Edition)"}
 			]
 		},
 		{
@@ -127,6 +100,27 @@
 			]
 		},
 		{
+			"group": "Color Bar Generator",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Color Bar Generator"}
+			]
+		},
+		{
+			"group": "Colors",
+			"categories": ["Applications", "Preproduction"],
+			"titles": [
+				{"searchTerm": "Colors"}
+			]
+		},
+		{
+			"group": "Colours (Demo)",
+			"categories": ["Applications", "Demos"],
+			"titles": [
+				{"searchTerm": "Colours (Demo)"}
+			]
+		},
+		{
 			"group": "Combat ~ Tank-Plus",
 			"titles": [
 				{"searchTerm": "Combat"},
@@ -146,6 +140,13 @@
 			"titles": [
 				{"searchTerm": "E.T. - The Extra-Terrestrial"},
 				{"searchTerm": "E.T. The Extra-Terrestrial"}
+			]
+		},
+		{
+			"group": "Forest",
+			"titles": [
+				{"searchTerm": "Forest (Two Player)"},
+				{"searchTerm": "Forest (One Player)", "priority": 2}
 			]
 		},
 		{
@@ -191,6 +192,13 @@
 			]
 		},
 		{
+			"group": "Kid Vid Voice Module (Audio Tapes)",
+			"categories": ["BIOS"],
+			"titles": [
+				{"searchTerm": "Kid Vid Voice Module (Audio Tapes)"}
+			]
+		},
+		{
 			"group": "Laser Gates",
 			"titles": [
 				{"searchTerm": "Laaser Voley"},
@@ -217,6 +225,15 @@
 			"titles": [
 				{"searchTerm": "Outlaw"},
 				{"searchTerm": "Outlaw ~ Gunslinger"}
+			]
+		},
+		{
+			"group": "Pitfall! - Pitfall Harry's Jungle Adventure",
+			"titles": [
+				{"searchTerm": "Dschungel Boy", "priority": 2}
+			],
+			"supersets": [
+				{"searchTerm": "Pitfall! - Pitfall Harry's Jungle Adventure"}
 			]
 		},
 		{
@@ -269,6 +286,13 @@
 			]
 		},
 		{
+			"group": "Sound (Demo)",
+			"categories": ["Applications", "Demos"],
+			"titles": [
+				{"searchTerm": "Sound (Demo)"}
+			]
+		},
+		{
 			"group": "Space Tunnel",
 			"titles": [
 				{"searchTerm": "Space Tunnel"},
@@ -287,6 +311,13 @@
 			"titles": [
 				{"searchTerm": "Snail against Squirrel"},
 				{"searchTerm": "Squirrel ~ O Esquilo"}
+			]
+		},
+		{
+			"group": "Stargate",
+			"titles": [
+				{"searchTerm": "Stargate"},
+				{"searchTerm": "Defender II", "priority": 2}
 			]
 		},
 		{

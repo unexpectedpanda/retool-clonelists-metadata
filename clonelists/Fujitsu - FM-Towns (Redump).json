@@ -1,19 +1,18 @@
 {
 	"description": {
 		"name": "Fujitsu - FM-Towns (Redump)",
-		"lastUpdated": "07 June 2023",
-		"minimumVersion": "2.00"
+		"lastUpdated": "10 February 2024",
+		"minimumVersion": "2.02"
 	},
 
-	"categories": [
-		{
-			"searchTerm": "FM Series Software Taikenban CD-ROM",
-			"nameType": "short",
-			"categories": ["Applications", "Demos"]
-		}
-	],
-
 	"variants": [
+		{
+			"group": "FM Series Software Taikenban CD-ROM",
+			"categories": ["Applications", "Demos"],
+			"titles": [
+				{"searchTerm": "FM Series Software Taikenban CD-ROM"}
+			]
+		},
 		{
 			"group": "GNU for Towns Rel. 2",
 			"titles": [
@@ -37,6 +36,15 @@
 			],
 			"supersets": [
 				{"searchTerm": "Ms. Detective File 1 - Iwami Ginzan Satsujin Jiken"}
+			]
+		},
+		{
+			"group": "Strike Commander",
+			"titles": [
+				{"searchTerm": "Strike Commander"}
+			],
+			"supersets": [
+				{"searchTerm": "Strike Commander Plus"}
 			]
 		},
 		{

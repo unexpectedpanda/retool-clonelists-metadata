@@ -1,73 +1,18 @@
 {
 	"description": {
 		"name": "Sony - PlayStation Portable (Redump)",
-		"lastUpdated": "10 December 2023",
+		"lastUpdated": "10 February 2024",
 		"minimumVersion": "2.00"
 	},
 
-	"categories": [
-		{
-			"searchTerm": "CS Kensa Disc (J1)",
-			"nameType": "short",
-			"categories": ["Applications"]
-		},
-		{
-			"searchTerm": "Game Sharing Server Disc",
-			"nameType": "short",
-			"categories": ["Applications", "Preproduction"]
-		},
-		{
-			"searchTerm": "Metal Gear Solid - Digital Graphic Novel",
-			"nameType": "short",
-			"categories": ["Multimedia"]
-		},
-		{
-			"searchTerm": "Minna no Chizu 3 (Disc 2)",
-			"nameType": "short",
-			"categories": ["Applications"]
-		},
-		{
-			"searchTerm": "Minna no Navi (Disc 1)",
-			"nameType": "short",
-			"categories": ["Applications"]
-		},
-		{
-			"searchTerm": "Minna no Navi (Disc 2)",
-			"nameType": "short",
-			"categories": ["Applications"]
-		},
-		{
-			"searchTerm": "Oh's Talk English (Disc 1)",
-			"nameType": "short",
-			"categories": ["Educational"]
-		},
-		{
-			"searchTerm": "Oh's Talk English (Disc 2)",
-			"nameType": "short",
-			"categories": ["Educational"]
-		},
-		{
-			"searchTerm": "Talkman",
-			"nameType": "short",
-			"categories": ["Educational"]
-		}
-	],
-
 	"mias": [
-		"Bleach - Heat the Soul 7 (Korea)",
 		"Burnout Legends (Asia)",
 		"Gun Showdown (USA) (Beta) (2006-08-18)",
 		"MLB 09 - The Show (Asia) (Sample)",
 		"NBA 08 (Asia) (Sample)",
-		"NBA 10 - The Inside (Asia)",
-		"NBA Live 07 (Asia)",
 		"Retail Sampler No. 3 for PSP (Europe)",
-		"Stealth feat. WipEout Pure Stealth Edition (Japan)",
 		"Tekken 6 (Asia) (En,Ja,Fr,De,Es,It,Ko,Ru)",
-		"Ultimate Ghosts'n Goblins (Korea)",
 		"WRC - FIA World Rally Championship (Europe) (En,Fr,De,Es,It,Pt,No,Fi) (Beta) (2005-04-21)",
-		"WWE SmackDown vs. Raw 2009 (Korea)",
-		"WWE SmackDown vs. Raw 2011 (Korea)",
 		"WipEout Pure (Japan) (En,Ja) (Beta)"
 	],
 
@@ -320,6 +265,13 @@
 			"titles": [
 				{"searchTerm": "Astonishia Story 2"},
 				{"searchTerm": "Crimson Gem Saga"}
+			]
+		},
+		{
+			"group": "CS Kensa Disc (J1)",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "CS Kensa Disc (J1)"}
 			]
 		},
 		{
@@ -691,6 +643,13 @@
 			]
 		},
 		{
+			"group": "Game Sharing Server Disc",
+			"categories": ["Applications", "Preproduction"],
+			"titles": [
+				{"searchTerm": "Game Sharing Server Disc"}
+			]
+		},
+		{
 			"group": "Generation of Chaos",
 			"titles": [
 				{"searchTerm": "Generation of Chaos"},
@@ -1022,10 +981,38 @@
 			]
 		},
 		{
+			"group": "Metal Gear Solid - Digital Graphic Novel",
+			"categories": ["Multimedia"],
+			"titles": [
+				{"searchTerm": "Metal Gear Solid - Digital Graphic Novel"}
+			]
+		},
+		{
 			"group": "Metal Slug Anthology",
 			"titles": [
 				{"searchTerm": "Metal Slug Anthology"},
 				{"searchTerm": "Metal Slug Complete"}
+			]
+		},
+		{
+			"group": "Minna no Chizu 3 (Disc 2)",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Minna no Chizu 3 (Disc 2)"}
+			]
+		},
+		{
+			"group": "Minna no Navi (Disc 1)",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Minna no Navi (Disc 1)"}
+			]
+		},
+		{
+			"group": "Minna no Navi (Disc 2)",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Minna no Navi (Disc 2)"}
 			]
 		},
 		{
@@ -1102,6 +1089,20 @@
 				{"searchTerm": "Nickelodeon Bob Esponja - Atrapados en el Congelador"},
 				{"searchTerm": "Nickelodeon SpongeBob's Truth or Square"},
 				{"searchTerm": "Nickelodeon SpongeBob SquarePants - SpongeBob's Truth or Square"}
+			]
+		},
+		{
+			"group": "Oh's Talk English (Disc 1)",
+			"categories": ["Educational"],
+			"titles": [
+				{"searchTerm": "Oh's Talk English (Disc 1)"}
+			]
+		},
+		{
+			"group": "Oh's Talk English (Disc 2)",
+			"categories": ["Educational"],
+			"titles": [
+				{"searchTerm": "Oh's Talk English (Disc 2)"}
 			]
 		},
 		{
@@ -1317,6 +1318,13 @@
 			"titles": [
 				{"searchTerm": "Ratchet & Clank - Size Matters"},
 				{"searchTerm": "Ratchet & Clank 5 - Gekitotsu! Dodeka Ginga no MiriMiri Gundan"}
+			]
+		},
+		{
+			"group": "Resistance - Retribution",
+			"titles": [
+				{"searchTerm": "Resistance - Retribution"},
+				{"searchTerm": "Resistance - Houfuku no Toki"}
 			]
 		},
 		{
@@ -1566,6 +1574,7 @@
 		},
 		{
 			"group": "Talkman",
+			"categories": ["Educational"],
 			"titles": [
 				{"searchTerm": "Talkman"}
 			],
@@ -1575,6 +1584,7 @@
 		},
 		{
 			"group": "TalkMan-shiki Shabelingual Eikaiwa",
+			"categories": ["Educational"],
 			"titles": [
 				{"searchTerm": "TalkMan-shiki Shabelingual Eikaiwa"},
 				{"searchTerm": "Talkman Yeongeohoehwa Sudajaeng English"}
@@ -1585,6 +1595,9 @@
 			"titles": [
 				{"searchTerm": "Tenchu - Shadow Assassins"},
 				{"searchTerm": "Tenchu 4"}
+			],
+			"supersets": [
+				{"searchTerm": "Tenchu 4 Plus"}
 			]
 		},
 		{

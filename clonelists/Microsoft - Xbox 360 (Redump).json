@@ -1,17 +1,9 @@
 {
 	"description": {
 		"name": "Microsoft - Xbox 360 (Redump)",
-		"lastUpdated": "24 December 2023",
+		"lastUpdated": "10 February 2024",
 		"minimumVersion": "2.00"
 	},
-
-	"categories": [
-		{
-			"searchTerm": "Dead Rising 2 (Zombrex Edition Bonus Disc)",
-			"nameType": "short",
-			"categories": ["Bonus Discs", "Video"]
-		}
-	],
 
 	"mias": [
 		"Assassin's Creed II - Game of the Year Edition (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da) (Rev 1)",
@@ -332,6 +324,13 @@
 			]
 		},
 		{
+			"group": "Dead Rising 2 (Zombrex Edition Bonus Disc)",
+			"categories": ["Bonus Discs", "Video"],
+			"titles": [
+				{"searchTerm": "Dead Rising 2 (Zombrex Edition Bonus Disc)"}
+			]
+		},
+		{
 			"group": "Def Jam - Rapstar",
 			"titles": [
 				{"searchTerm": "Def Jam - Rapstar"},
@@ -415,7 +414,8 @@
 			"group": "Dragon Age - Origins",
 			"titles": [
 				{"searchTerm": "Dragon Age - Origins"},
-				{"searchTerm": "Dragon Age - Origins (Disc 1)"}
+				{"searchTerm": "Dragon Age - Origins (Disc 1)"},
+				{"searchTerm": "Dragon Age - Nachalo"}
 			]
 		},
 		{
@@ -684,7 +684,9 @@
 		{
 			"group": "Final Fantasy XI - Online - Vana'diel Collection 2008",
 			"titles": [
-				{"searchTerm": "Final Fantasy XI - Online - Vana'diel Collection 2008"}
+				{"searchTerm": "Final Fantasy XI - Online - Vana'diel Collection 2008"},
+				{"searchTerm": "Final Fantasy XI - Online - 2008 Edition"},
+				{"searchTerm": "Final Fantasy XI - Online - 2007 Edition", "priority": 2}
 			],
 			"supersets": [
 				{"searchTerm": "Final Fantasy XI - Online - Ultimate Collection - Seekers Edition"},
@@ -1273,13 +1275,6 @@
 			],
 			"supersets": [
 				{"searchTerm": "Serious Sam Collection, The"}
-			]
-		},
-		{
-			"group": "Sherlock Holmes vs. Jack the Ripper",
-			"titles": [
-				{"searchTerm": "Sherlock Holmes Versus Jack the Ripper"},
-				{"searchTerm": "Sherlock Holmes vs. Jack the Ripper"}
 			]
 		},
 		{

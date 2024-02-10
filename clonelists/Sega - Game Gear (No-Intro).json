@@ -1,8 +1,8 @@
 {
 	"description": {
 		"name": "Sega - Game Gear (No-Intro)",
-		"lastUpdated": "21 January 2023",
-		"minimumVersion": "2.00"
+		"lastUpdated": "10 February 2024",
+		"minimumVersion": "2.02"
 	},
 
 	"variants": [
@@ -98,10 +98,31 @@
 			]
 		},
 		{
+			"group": "Ernie Els Golf",
+			"titles": [
+				{"searchTerm": "Ernie Els Golf"},
+				{"searchTerm": "Global Golf"}
+			]
+		},
+		{
 			"group": "Factory Panic",
 			"titles": [
 				{"searchTerm": "Factory Panic"},
 				{"searchTerm": "Ganbare Gorby!"}
+			]
+		},
+		{
+			"group": "Fantasy Zone",
+			"titles": [
+				{
+					"searchTerm": "Fantasy Zone",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["Japan", "Europe"]},
+							"results": {"localNames": {"english": "Fantasy Zone", "japanese": "ＦａｎｔａｓｙＺｏｎｅＧｅａｒオパオパＪｒ．の冒険"}}
+						}
+					]
+				}
 			]
 		},
 		{
@@ -156,8 +177,8 @@
 		{
 			"group": "Power Strike II",
 			"titles": [
-				{"searchTerm": "GG Aleste II"},
-				{"searchTerm": "Power Strike II"}
+				{"searchTerm": "GG Aleste II", "localNames": {"english": "Power Strike II", "japanese": "ＧＧ　Ａｌｅｓｔｅ　Ⅱ"}},
+				{"searchTerm": "Power Strike II", "localNames": {"english": "Power Strike II", "japanese": "ＧＧ　Ａｌｅｓｔｅ　Ⅱ"}}
 			]
 		},
 		{

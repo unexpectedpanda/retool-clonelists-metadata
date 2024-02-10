@@ -1,16 +1,9 @@
 {
 	"description": {
 		"name": "Nintendo - Nintendo 3DS (No-Intro)",
-		"lastUpdated": "03 December 2023",
-		"minimumVersion": "2.00"
+		"lastUpdated": "10 February 2024",
+		"minimumVersion": "2.02"
 	},
-
-	"categories": [
-		{
-			"searchTerm": "Gyro Sensor Calibration CTR",
-			"categories": ["Applications"]
-		}
-	],
 
 	"variants": [
 		{
@@ -536,6 +529,13 @@
 			]
 		},
 		{
+			"group": "Gyro Sensor Calibration CTR",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Gyro Sensor Calibration CTR"}
+			]
+		},
+		{
 			"group": "Hakuoki - Memories of the Shinsengumi",
 			"titles": [
 				{"searchTerm": "Hakuoki - Memories of the Shinsengumi"},
@@ -925,8 +925,8 @@
 		{
 			"group": "MapleStory - Unmei no Shoujo",
 			"titles": [
-				{"searchTerm": "MapleStory - The Girl's Fate"},
-				{"searchTerm": "MapleStory - Unmei no Shoujo"}
+				{"searchTerm": "MapleStory - Unmei no Shoujo"},
+				{"searchTerm": "MapleStory - Unmyeongui Sonyeo"}
 			]
 		},
 		{
@@ -1057,7 +1057,7 @@
 			"group": "Nintendogs + Cats - French Bulldog & New Friends",
 			"titles": [
 				{"searchTerm": "Nintendogs + Cats - French Bulldog & New Friends"},
-				{"searchTerm": "Nintendogs + Cats - French Bull & New Chingudeul"}
+				{"searchTerm": "Nintendogs + Cats - French Bull & New Chingudeul", "localNames": {"korean": "Ｎｉｎｔｅｎｄｏｇｓ　＋　Ｃａｔｓ　프렌치　불　＆　ＮＥＷ친구들"}}
 			]
 		},
 		{
@@ -1065,7 +1065,7 @@
 			"titles": [
 				{"searchTerm": "Nintendogs + Cats - Golden Retriever & New Friends"},
 				{"searchTerm": "Nintendogs + Cats - Shiba & New Friends"},
-				{"searchTerm": "Nintendogs + Cats - Shiba Inu & New Chingudeul"}
+				{"searchTerm": "Nintendogs + Cats - Shiba Inu & New Chingudeul", "localNames": {"korean": "Ｎｉｎｔｅｎｄｏｇｓ　＋　Ｃａｔｓ　시바　이누　＆　ＮＥＷ친구들"}}
 			]
 		},
 		{

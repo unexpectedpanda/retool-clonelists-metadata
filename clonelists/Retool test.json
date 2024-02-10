@@ -45,6 +45,22 @@
 			]
 		},
 		{
+			"group": "Local names",
+			"titles": [
+				{"searchTerm": "Local Name Test Title", "localNames": {"japanese": "テスト"}},
+				{"searchTerm": "Local Name Test Title Again", "localNames": {"japanese": "テスト"}},
+				{"searchTerm": "Local Name Test Title Again Again", "localNames": {"japanese": "テスト"}}
+			]
+		},
+		{
+			"group": "Local names second",
+			"titles": [
+				{"searchTerm": "Local Name Test Title Second", "localNames": {"japanese": "2番目のテスト"}},
+				{"searchTerm": "Local Name Test Title Second Again", "localNames": {"japanese": "2番目のテスト"}},
+				{"searchTerm": "Local Name Test Title Second Again Again", "localNames": {"japanese": "2番目のテスト"}}
+			]
+		},
+		{
 			"group": "Group Test Title (With Parentheses)",
 			"titles": [
 				{"searchTerm": "Group Test Title"},
@@ -342,6 +358,27 @@
 			"compilations": [
 				{"searchTerm": "Title V + Title W Genteiban"},
 				{"searchTerm": "Title V + Title W", "priority": 2}
+			]
+		},
+		{
+			"group": "Title X",
+			"titles": [
+				{"searchTerm": "Title X", "priority": 3}
+			],
+			"supersets": [
+				{"searchTerm": "Title X Ultra Special Edition"}
+			],
+			"compilations": [
+				{"searchTerm": "Title X + Title Y", "priority": 2}
+			]
+		},
+		{
+			"group": "Title Y",
+			"titles": [
+				{"searchTerm": "Title Y", "priority": 2}
+			],
+			"compilations": [
+				{"searchTerm": "Title X + Title Y"}
 			]
 		}
 	]

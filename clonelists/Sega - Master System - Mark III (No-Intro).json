@@ -1,35 +1,9 @@
 {
 	"description": {
 		"name": "Sega - Master System - Mark III (No-Intro)",
-		"lastUpdated": "02 December 2023",
-		"minimumVersion": "2.00"
+		"lastUpdated": "10 February 2024",
+		"minimumVersion": "2.02"
 	},
-
-	"categories": [
-		{
-			"searchTerm": "Color & Switch Test",
-			"nameType": "short",
-			"categories": ["Applications", "Preproduction"]
-		},
-		{
-			"searchTerm": "Sega Graphic Board",
-			"nameType": "short",
-			"categories": ["Applications", "Preproduction"]
-		}
-	],
-
-	"overrides": [
-		{
-			"searchTerm": "Great Baseball (Japan)",
-			"nameType": "full",
-			"newGroup": "Great Baseball Japan"
-		},
-		{
-			"searchTerm": "Great Golf (World) (Beta)",
-			"nameType": "full",
-			"newGroup": "Great Golf ~ Masters Golf"
-		}
-	],
 
 	"variants": [
 		{
@@ -62,7 +36,14 @@
 			"compilations": [
 				{"searchTerm": "Astro Warrior & Pit Pot", "titlePosition": 1},
 				{"searchTerm": "Hang On & Astro Warrior", "titlePosition": 2},
-				{"searchTerm": "Astro Warrior & Pit Pot (2011 Master System Evolution)", "titlePosition": 1, "priority": 2}
+				{"searchTerm": "Astro Warrior & Pit Pot (Master System Evolution)", "titlePosition": 1, "priority": 2}
+			]
+		},
+		{
+			"group": "Aztec Adventure",
+			"titles": [
+				{"searchTerm": "Aztec Adventure"},
+				{"searchTerm": "Aztel Adventure"}
 			]
 		},
 		{
@@ -95,6 +76,27 @@
 			]
 		},
 		{
+			"group": "Choplifter",
+			"titles": [
+				{
+					"searchTerm": "Choplifter",
+					"filters": [
+						{
+							"conditions": {"matchRegions": "Taiwan"},
+							"results": {"localNames": {"chinese (traditional)": "阿帕契"}}
+						}
+					]
+				}
+			]
+		},
+		{
+			"group": "Color & Switch Test",
+			"categories": ["Applications", "Preproduction"],
+			"titles": [
+				{"searchTerm": "Color & Switch Test"}
+			]
+		},
+		{
 			"group": "Cyborg Hunter",
 			"titles": [
 				{"searchTerm": "Chouon Senshi Borgman"},
@@ -106,6 +108,25 @@
 			"titles": [
 				{"searchTerm": "Dinosaur Dooley, The"},
 				{"searchTerm": "Agigongnyong Dooly", "priority": 2}
+			]
+		},
+		{
+			"group": "Enduro Racer",
+			"titles": [
+				{
+					"searchTerm": "Enduro Racer",
+					"filters": [
+						{
+							"conditions": {
+								"matchRegions": ["Japan"]
+							},
+							"results": {
+								"englishFriendly": true,
+								"superset": true
+							}
+						}
+					]
+				}
 			]
 		},
 		{
@@ -158,10 +179,38 @@
 			]
 		},
 		{
+			"group": "Great Baseball",
+			"titles": [
+				{
+					"searchTerm": "Great Baseball",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["Japan"]},
+							"results": {"group": "Great Baseball (Japan)"}
+						}
+					]
+				}
+			]
+		},
+		{
 			"group": "Great Basketball",
 			"titles": [
 				{"searchTerm": "94-Nen Super Basketball"},
 				{"searchTerm": "Great Basketball"}
+			]
+		},
+		{
+			"group": "Great Golf",
+			"titles": [
+				{
+					"searchTerm": "Great Golf",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["World"], "matchString": "Beta"},
+							"results": {"group": "Great Golf ~ Masters Golf"}
+						}
+					]
+				}
 			]
 		},
 		{
@@ -204,6 +253,12 @@
 			]
 		},
 		{
+			"group": "Mahjong Sengoku Jidai",
+			"titles": [
+				{"searchTerm": "Mahjong Sengoku Jidai", "localNames": {"japanese": "麻雀戦国時代"}}
+			]
+		},
+		{
 			"group": "Marksman Shooting",
 			"compilations": [
 				{"searchTerm": "Marksman Shooting & Trap Shooting", "titlePosition": 1},
@@ -235,6 +290,12 @@
 			"group": "Missile Defense 3-D",
 			"titles": [
 				{"searchTerm": "Missile Defense 3-D"}
+			]
+		},
+		{
+			"group": "MSX Soccer",
+			"titles": [
+				{"searchTerm": "MSX Soccer", "localNames": {"korean": "축구"}}
 			]
 		},
 		{
@@ -289,7 +350,7 @@
 			],
 			"compilations": [
 				{"searchTerm": "Astro Warrior & Pit Pot", "titlePosition": 2},
-				{"searchTerm": "Astro Warrior & Pit Pot (2011 Master System Evolution)", "titlePosition": 1, "priority": 2}
+				{"searchTerm": "Astro Warrior & Pit Pot (Master System Evolution)", "titlePosition": 1, "priority": 2}
 			]
 		},
 		{
@@ -334,6 +395,13 @@
 			"compilations": [
 				{"searchTerm": "Hang On & Safari Hunt", "titlePosition": 2},
 				{"searchTerm": "Marksman Shooting & Trap Shooting & Safari Hunt", "titlePosition": 3}
+			]
+		},
+		{
+			"group": "Sega Graphic Board",
+			"categories": ["Applications", "Preproduction"],
+			"titles": [
+				{"searchTerm": "Sega Graphic Board"}
 			]
 		},
 		{
@@ -482,6 +550,20 @@
 			"titles": [
 				{"searchTerm": "Ys"},
 				{"searchTerm": "Ys - The Vanished Omens"}
+			]
+		},
+		{
+			"group": "Zillion",
+			"titles": [
+				{
+					"searchTerm": "Zillion",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["Japan", "Europe"]},
+							"results": {"localNames": {"english": "Zillion", "japanese": "赤い光弾ジリオン"}}
+						}
+					]
+				}
 			]
 		}
 	]

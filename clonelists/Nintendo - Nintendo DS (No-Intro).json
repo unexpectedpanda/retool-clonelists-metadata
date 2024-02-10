@@ -1,47 +1,9 @@
 {
 	"description": {
 		"name": "Nintendo - Nintendo DS (No-Intro)",
-		"lastUpdated": "01 December 2023",
-		"minimumVersion": "2.00"
+		"lastUpdated": "26 December 2023",
+		"minimumVersion": "2.02"
 	},
-
-	"overrides": [
-		{
-			"searchTerm": "America's Next Top Model (USA)",
-			"nameType": "full",
-			"newGroup": "America's Next Top Model USA"
-		},
-		{
-			"searchTerm": "America's Next Top Model (Europe) (En,De)",
-			"nameType": "full",
-			"newGroup": "America's Next Top Model USA"
-		},
-		{
-			"searchTerm": "^Avatar - The Legend of Aang \\(Korea\\)(.*)?",
-			"nameType": "regex",
-			"newGroup": "Avatar - The Last Airbender - Into the Inferno"
-		},
-		{
-			"searchTerm": "Deal or No Deal (USA)",
-			"nameType": "full",
-			"newGroup": "Deal or No Deal USA"
-		},
-		{
-			"searchTerm": "Imagine - Champion Rider (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)",
-			"nameType": "full",
-			"newGroup": "Ener-G - Horse Riders"
-		},
-		{
-			"searchTerm": "Junior Brain Trainer (Europe) (Fr,Nl,Sv,No,Da,Fi)",
-			"nameType": "full",
-			"newGroup": "Junior Brain Trainer - Math Edition"
-		},
-		{
-			"searchTerm": "^Top Model \\(United Kingdom\\)(.*)?",
-			"nameType": "regex",
-			"newGroup": "America's Next Top Model USA"
-		}
-	],
 
 	"variants": [
 		{
@@ -291,7 +253,15 @@
 			"group": "Avatar - The Last Airbender",
 			"titles": [
 				{"searchTerm": "Avatar - The Last Airbender"},
-				{"searchTerm": "Avatar - The Legend of Aang"}
+				{
+					"searchTerm": "Avatar - The Legend of Aang",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["Korea"]},
+							"results": {"group": "Avatar - The Last Airbender - Into the Inferno"}
+						}
+					]
+				}
 			]
 		},
 		{
@@ -1159,6 +1129,12 @@
 			]
 		},
 		{
+			"group": "D&CO - Ta Maison de Reve en 7 Jours",
+			"titles": [
+				{"searchTerm": "D&CO - Ta Maison de Reve en 7 Jours", "localNames": {"french": "D&CO - Ta Maison de Reve en 7 Jours", "italian": "Decora e Arreda con Stile"}}
+			]
+		},
+		{
 			"group": "Dark Spire, The",
 			"titles": [
 				{"searchTerm": "Dark Spire, The"},
@@ -1184,7 +1160,15 @@
 			"titles": [
 				{"searchTerm": "A Prendre ou a Laisser - Le Jeu Officiel"},
 				{"searchTerm": "Affari Tuoi"},
-				{"searchTerm": "Deal or No Deal"},
+				{
+					"searchTerm": "Deal or No Deal",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["USA"]},
+							"results": {"group": "Deal or No Deal (USA)"}
+						}
+					]
+				},
 				{"searchTerm": "Deal or No Deal - The Official Nintendo DS Game"}
 			]
 		},
@@ -1229,6 +1213,12 @@
 			"titles": [
 				{"searchTerm": "Diary Girl"},
 				{"searchTerm": "Winx Club - Secret Diary 2009"}
+			]
+		},
+		{
+			"group": "Diddl in the Cheesecakeland - Diddl en Diddland",
+			"titles": [
+				{"searchTerm": "Diddl in the Cheesecakeland - Diddl en Diddland", "localNames": {"english": "Diddl in the Cheesecakeland - Diddl en Diddland", "french": "Diddl en Diddland", "german": "Diddl im Käsekuchenland"}}
 			]
 		},
 		{
@@ -2083,6 +2073,12 @@
 			]
 		},
 		{
+			"group": "General Knowledge for Dummies",
+			"titles": [
+				{"searchTerm": "General Knowledge for Dummies", "localNames": {"english": "General Knowledge for Dummies", "french": "Culture Générale pour les Nuls, La - 2e Édition", "german": "Allgemeinbildung für dummies"}}
+			]
+		},
+		{
 			"group": "George of the Jungle and the Search for the Secret",
 			"titles": [
 				{"searchTerm": "George of the Jungle"},
@@ -2389,7 +2385,7 @@
 			"titles": [
 				{"searchTerm": "Horse & Foal - My Riding Stables"},
 				{"searchTerm": "Paard & Pony - Mijn Paardenstal"},
-				{"searchTerm": "Pferd & Pony - Mein Gestuet", "priority": 2}
+				{"searchTerm": "Pferd & Pony - Mein Gestuet", "priority": 2, "localNames": {"english": "My Stud Farm", "german": "Mein Gestüt"}}
 			],
 			"compilations": [
 				{"searchTerm": "2 in 1 - My Riding Stables + My Riding Stables - Life with Horses", "titlePosition": 1},
@@ -2796,7 +2792,7 @@
 		{
 			"group": "J'Apprends l'Anglais CP-CM1",
 			"titles": [
-				{"searchTerm": "J'Apprends l'Anglais CP-CM1"},
+				{"searchTerm": "J'Apprends l'Anglais CP-CM1", "localNames": {"french": "J'Apprends l'Anglais CP-CM1", "italian": "A Scuola Di - Inglese"}},
 				{"searchTerm": "Lernerfolg Grundschule - Englisch"}
 			]
 		},
@@ -3040,6 +3036,20 @@
 			]
 		},
 		{
+			"group": "Junior Brain Trainer",
+			"titles": [
+				{
+					"searchTerm": "Junior Brain Trainer",
+					"filters": [
+						{
+							"conditions": {"matchLanguages": ["Fr", "Nl" , "Sv", "No", "Da", "Fi"]},
+							"results": {"group": "Junior Brain Trainer - Math Edition"}
+						}
+					]
+				}
+			]
+		},
+		{
 			"group": "Junior Brain Trainer - Math Edition",
 			"titles": [
 				{"searchTerm": "Junior Brain Trainer - Math Edition"},
@@ -3177,8 +3187,8 @@
 		{
 			"group": "Kirikou and the Wild Beasts",
 			"titles": [
-				{"searchTerm": "Kirikou and the Wild Beasts"},
-				{"searchTerm": "Kirikou et les Betes Sauvages"}
+				{"searchTerm": "Kirikou and the Wild Beasts", "localNames": {"english": "Kirikou and the Wild Beasts", "french": "Kirikou et les Bêtes Sauvages", "german": "Kiriku und die wilden Tiere", "italian": "Kirikù e gli Animali Selvaggi", "spanish": "Kirikú y las Bestias Salvajes"}},
+				{"searchTerm": "Kirikou et les Betes Sauvages", "localNames": {"english": "Kirikou and the Wild Beasts", "french": "Kirikou et les Bêtes Sauvages", "german": "Kiriku und die wilden Tiere", "italian": "Kirikù e gli Animali Selvaggi", "spanish": "Kirikú y las Bestias Salvajes"}}
 			]
 		},
 		{
@@ -3424,6 +3434,12 @@
 			"titles": [
 				{"searchTerm": "Line Rider - Freestyle"},
 				{"searchTerm": "Line Rider 2 - Unbound"}
+			]
+		},
+		{
+			"group": "Little Bears",
+			"titles": [
+				{"searchTerm": "Little Bears", "localNames": {"english": "Little Bears", "german": "Bärenbabys"}}
 			]
 		},
 		{
@@ -3788,7 +3804,19 @@
 		{
 			"group": "Mission Runway",
 			"titles": [
-				{"searchTerm": "America's Next Top Model"},
+				{
+					"searchTerm": "America's Next Top Model",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["USA"]},
+							"results": {"group": "Top Model"}
+						},
+						{
+							"conditions": {"matchLanguages": ["En", "De"], "matchRegions": ["Europe"]},
+							"results": {"group": "Top Model"}
+						}
+					]
+				},
 				{"searchTerm": "Germany's Next Topmodel - Das Offizielle Spiel zur Show"},
 				{"searchTerm": "Hollands Supermodel - Win de Strijd op de Catwalk!"},
 				{"searchTerm": "Mission Runway"}
@@ -4899,7 +4927,15 @@
 		{
 			"group": "Petz - Horsez Family",
 			"titles": [
-				{"searchTerm": "Imagine - Champion Rider"},
+				{
+					"searchTerm": "Imagine - Champion Rider",
+					"filters": [
+						{
+							"conditions": {"matchLanguages": ["En", "Fr", "De", "Es", "It", "Nl", "Sv", "No", "Da"]},
+							"results": {"group": "Ener-G - Horse Riders"}
+						}
+					]
+				},
 				{"searchTerm": "Petz - Horsez Family"}
 			]
 		},
@@ -5251,7 +5287,7 @@
 			"titles": [
 				{"searchTerm": "Pokemon Link!"},
 				{"searchTerm": "Pokemon Toroje"},
-				{"searchTerm": "Pokemon Trose"},
+				{"searchTerm": "Pokemon Trose", "localNames": {"japanese": "ポケモントローゼ"}},
 				{"searchTerm": "Pokemon Trozei!"}
 			]
 		},
@@ -6221,6 +6257,12 @@
 			"titles": [
 				{"searchTerm": "Stitch! DS - Ohana to Rhythm de Daibouken"},
 				{"searchTerm": "Stitch Jam"}
+			]
+		},
+		{
+			"group": "Street Football II",
+			"titles": [
+				{"searchTerm": "Street Football II", "localNames": {"english": "Street Football II", "french": "Foot 2 Rue - Nicolas Anelka", "italian": "Street Football II - Nuove Sfide"}}
 			]
 		},
 		{

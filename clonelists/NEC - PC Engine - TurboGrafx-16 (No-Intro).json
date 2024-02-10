@@ -1,17 +1,9 @@
 {
 	"description": {
 		"name": "NEC - PC Engine - TurboGrafx-16 (No-Intro)",
-		"lastUpdated": "01 December 2023",
-		"minimumVersion": "2.00"
+		"lastUpdated": "26 December 2023",
+		"minimumVersion": "2.02"
 	},
-
-	"categories": [
-		{
-			"searchTerm": "Ten no Koe Bank",
-			"nameType": "short",
-			"categories": ["Applications"]
-		}
-	],
 
 	"variants": [
 		{
@@ -303,6 +295,13 @@
 			"titles": [
 				{"searchTerm": "Takin' It to the Hoop"},
 				{"searchTerm": "USA Pro Basketball"}
+			]
+		},
+		{
+			"group": "Ten no Koe Bank",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Ten no Koe Bank"}
 			]
 		},
 		{

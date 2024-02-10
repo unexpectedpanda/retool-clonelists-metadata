@@ -1,22 +1,9 @@
 {
 	"description": {
 		"name": "Sega - Mega CD & Sega CD (Redump)",
-		"lastUpdated": "25 July 2023",
-		"minimumVersion": "2.00"
+		"lastUpdated": "26 December 2023",
+		"minimumVersion": "2.02"
 	},
-
-	"categories": [
-		{
-			"searchTerm": "^Make My Video.*?(Beta)",
-			"nameType": "regex",
-			"categories": ["Multimedia", "Preproduction"]
-		},
-		{
-			"searchTerm": "What is X'Eye Multi Entertainment System",
-			"match": "short",
-			"categories": ["Demos"]
-		}
-	],
 
 	"variants": [
 		{
@@ -138,6 +125,34 @@
 			"titles": [
 				{"searchTerm": "Lethal Enforcers II - Gun Fighters"},
 				{"searchTerm": "Lethal Enforcers II - The Western"}
+			]
+		},
+		{
+			"group": "Make My Video - INXS",
+			"titles": [
+				{
+					"searchTerm": "Make My Video - INXS",
+					"filters": [
+						{
+							"conditions": {"matchString": "Beta"},
+							"results": {"categories": ["Multimedia", "Preproduction"]}
+						}
+					]
+				}
+			]
+		},
+		{
+			"group": "Make My Video - Marky Mark and the Funky Bunch",
+			"titles": [
+				{
+					"searchTerm": "Make My Video - Marky Mark and the Funky Bunch",
+					"filters": [
+						{
+							"conditions": {"matchString": "Beta"},
+							"results": {"categories": ["Multimedia", "Preproduction"]}
+						}
+					]
+				}
 			]
 		},
 		{
@@ -361,6 +376,13 @@
 			"titles": [
 				{"searchTerm": "Vay"},
 				{"searchTerm": "Vay - Ryuusei no Yoroi"}
+			]
+		},
+		{
+			"group": "What is X'Eye Multi Entertainment System",
+			"categories": ["Demos"],
+			"titles": [
+				{"searchTerm": "What is X'Eye Multi Entertainment System"}
 			]
 		},
 		{

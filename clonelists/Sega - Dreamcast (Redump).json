@@ -1,89 +1,13 @@
 {
 	"description": {
 		"name": "Sega - Dreamcast (Redump)",
-		"lastUpdated": "03 December 2023",
-		"minimumVersion": "2.00"
+		"lastUpdated": "26 December 2023",
+		"minimumVersion": "2.02"
 	},
-
-	"categories": [
-		{
-			"searchTerm": "Checkicco no Miru CD",
-			"nameType": "short",
-			"categories": ["Audio"]
-		},
-		{
-			"searchTerm": "D2 - Original Sound Track (Disc 2) (MilCD)",
-			"nameType": "short",
-			"categories": ["Audio"]
-		},
-		{
-			"searchTerm": "Debug Indie Sampler 1",
-			"nameType": "short",
-			"categories": ["Demos", "Games"]
-		},
-		{
-			"searchTerm": "Debug Indie Sampler 2",
-			"nameType": "short",
-			"categories": ["Demos", "Games"]
-		},
-		{
-			"searchTerm": "dps - Heartbreak Diary",
-			"nameType": "short",
-			"categories": ["Audio"]
-		},
-		{
-			"searchTerm": "Hang the DJ",
-			"nameType": "short",
-			"categories": ["Audio"]
-		},
-		{
-			"searchTerm": "Himitsu - Original Sound Track",
-			"nameType": "short",
-			"categories": ["Audio"]
-		},
-		{
-			"searchTerm": "Kita e. White Illumination - Pure Songs and Pictures",
-			"nameType": "short",
-			"categories": ["Audio"]
-		},
-		{
-			"searchTerm": "Project Berkley",
-			"nameType": "short",
-			"categories": ["Demos"]
-		},
-		{
-			"searchTerm": "Sakura Taisen 3 - Paris wa Moeteiru ka - Sakura Taisen 3 Movie Disc",
-			"nameType": "short",
-			"categories": ["Video"]
-		},
-		{
-			"searchTerm": "Snappers - 09 Chairs",
-			"nameType": "short",
-			"categories": ["Audio"]
-		},
-		{
-			"searchTerm": "Space Channel 5 Theme Music - Mexican Flyer",
-			"nameType": "short",
-			"categories": ["Audio"]
-		},
-		{
-			"searchTerm": "Virtua Fighter History & VF4",
-			"nameType": "short",
-			"categories": ["Video"]
-		}
-	],
 
 	"mias": [
 		"Chicken Run (Japan) (Beta) (2000-08-01)",
 		"Dream Preview Vol. 1 (Japan)"
-	],
-
-	"overrides": [
-		{
-			"searchTerm": "^Virtua Striker 2 Ver\\. 2000\\.1 \\((Europe|Japan)\\)(.*)?",
-			"nameType": "regex",
-			"newGroup": "Virtua Striker 2"
-		}
 	],
 
 	"variants": [
@@ -153,6 +77,13 @@
 			]
 		},
 		{
+			"group": "Checkicco no Miru CD",
+			"categories": ["Audio"],
+			"titles": [
+				{"searchTerm": "Checkicco no Miru CD"}
+			]
+		},
+		{
 			"group": "ChuChu Rocket!",
 			"titles": [
 				{"searchTerm": "Chu-Chu Rocket!"},
@@ -202,10 +133,31 @@
 			]
 		},
 		{
+			"group": "D2 - Original Sound Track (Disc 2) (MilCD)",
+			"categories": ["Audio"],
+			"titles": [
+				{"searchTerm": "D2 - Original Sound Track (Disc 2) (MilCD)"}
+			]
+		},
+		{
 			"group": "Daytona USA",
 			"titles": [
 				{"searchTerm": "Daytona USA"},
 				{"searchTerm": "Daytona USA 2001"}
+			]
+		},
+		{
+			"group": "Debug Indie Sampler 1 (Demo)",
+			"categories": ["Demos", "Games"],
+			"titles": [
+				{"searchTerm": "Debug Indie Sampler 1 (Demo)"}
+			]
+		},
+		{
+			"group": "Debug Indie Sampler 2 (Demo)",
+			"categories": ["Demos", "Games"],
+			"titles": [
+				{"searchTerm": "Debug Indie Sampler 2 (Demo)"}
 			]
 		},
 		{
@@ -236,6 +188,13 @@
 			"titles": [
 				{"searchTerm": "Disney's Donald Duck - Goin' Quackers"},
 				{"searchTerm": "Disney's Donald Duck - Quack Attack"}
+			]
+		},
+		{
+			"group": "dps - Heartbreak Diary",
+			"categories": ["Audio"],
+			"titles": [
+				{"searchTerm": "dps - Heartbreak Diary"}
 			]
 		},
 		{
@@ -327,10 +286,68 @@
 			]
 		},
 		{
+			"group": "Frame Gride",
+			"titles": [
+				{"searchTerm": "Frame Gride", "localNames": {"japanese": "フレームグライド"}}
+			]
+		},
+		{
+			"group": "Frame Gride - Test Operation Disc",
+			"titles": [
+				{"searchTerm": "Frame Gride - Test Operation Disc (Demo)", "localNames": {"japanese": "フレームグライド）　～体験版～"}}
+			]
+		},
+		{
 			"group": "Ghost Blade",
 			"titles": [
 				{"searchTerm": "Ghost Blade"},
 				{"searchTerm": "Ghost Blade (Limited Edition)"}
+			]
+		},
+		{
+			"group": "Hang the DJ",
+			"categories": ["Audio"],
+			"titles": [
+				{"searchTerm": "Hang the DJ"}
+			]
+		},
+		{
+			"group": "Himitsu - Original Sound Track",
+			"categories": ["Audio"],
+			"titles": [
+				{"searchTerm": "Himitsu - Original Sound Track"}
+			]
+		},
+		{
+			"group": "House of the Dead 2, The",
+			"titles": [
+				{
+					"searchTerm": "House of the Dead 2, The",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["Japan"]},
+							"results": {"localNames": {"japanese": "ザ　ハウス　オブ　ザ　デッド　２"}}
+						}
+					]
+				}
+			]
+		},
+		{
+			"group": "Illbleed",
+			"titles": [
+				{
+					"searchTerm": "Illbleed",
+					"filters": [
+						{
+							"conditions": {"matchRegions": "Taiwan"},
+							"results": {"localNames": {"chinese (traditional)": "勇闖鬼界"}}
+						},
+						{
+							"conditions": {"matchRegions": "Japan"},
+							"results": {"localNames": {"japanese": "イルブリード"}}
+						}
+					]
+				}
 			]
 		},
 		{
@@ -380,6 +397,13 @@
 			]
 		},
 		{
+			"group": "Kita e. White Illumination - Pure Songs and Pictures",
+			"categories": ["Audio"],
+			"titles": [
+				{"searchTerm": "Kita e. White Illumination - Pure Songs and Pictures"}
+			]
+		},
+		{
 			"group": "Last Blade 2, The - Heart of the Samurai",
 			"titles": [
 				{"searchTerm": "Bakumatsu Roman Daini Maku - Gekka no Kenshi - Final Edition"},
@@ -391,6 +415,18 @@
 			"titles": [
 				{"searchTerm": "Marvel vs. Capcom 2"},
 				{"searchTerm": "Marvel vs. Capcom 2 - New Age of Heroes"}
+			]
+		},
+		{
+			"group": "Memories Off 2nd - Making Disc",
+			"titles": [
+				{"searchTerm": "Memories Off 2nd - Making Disc", "localNames": {"japanese": "メモリーズオフ　セカンド　～Ｍａｋｉｎｇ　Ｄｉｓｃ～"}}
+			]
+		},
+		{
+			"group": "Memories Off 2nd - Promotion Disc",
+			"titles": [
+				{"searchTerm": "Memories Off 2nd - Promotion Disc", "localNames": {"japanese": "メモリーズオフ　セカンド　～Ｐｒｏｍｏｔｉｏｎ　Ｄｉｓｃ～"}}
 			]
 		},
 		{
@@ -454,6 +490,13 @@
 			],
 			"compilations": [
 				{"searchTerm": "Pro Yakyuu Team o Tsukurou! & Asobou!"}
+			]
+		},
+		{
+			"group": "Project Berkley",
+			"categories": ["Demos"],
+			"titles": [
+				{"searchTerm": "Project Berkley"}
 			]
 		},
 		{
@@ -556,6 +599,13 @@
 			],
 			"supersets": [
 				{"searchTerm": "Rush Rush Rally Reloaded"}
+			]
+		},
+		{
+			"group": "Sakura Taisen 3 - Paris wa Moeteiru ka - Sakura Taisen 3 Movie Disc",
+			"categories": ["Video"],
+			"titles": [
+				{"searchTerm": "Sakura Taisen 3 - Paris wa Moeteiru ka - Sakura Taisen 3 Movie Disc"}
 			]
 		},
 		{
@@ -666,6 +716,13 @@
 			]
 		},
 		{
+			"group": "Snappers - 09 Chairs",
+			"categories": ["Audio"],
+			"titles": [
+				{"searchTerm": "Snappers - 09 Chairs"}
+			]
+		},
+		{
 			"group": "Sonic Adventure",
 			"titles": [
 				{"searchTerm": "Sonic Adventure"},
@@ -673,6 +730,19 @@
 			],
 			"supersets": [
 				{"searchTerm": "Sonic Adventure International"}
+			]
+		},
+		{
+			"group": "Space Channel 5 Demo",
+			"titles": [
+				{"searchTerm": "Space Channel 5 (Taikenban)", "localNames": {"japanese": "スペース・チャンネル５　～体験版～"}}
+			]
+		},
+		{
+			"group": "Space Channel 5 Theme Music - Mexican Flyer",
+			"categories": ["Audio"],
+			"titles": [
+				{"searchTerm": "Space Channel 5 Theme Music - Mexican Flyer", "localNames": {"japanese": "スペース・チャンネル５　～テーマ曲～　Ｍｅｘｉｃａｎ　Ｆｌｙｅｒ"}}
 			]
 		},
 		{
@@ -855,6 +925,20 @@
 			]
 		},
 		{
+			"group": "Virtua Fighter History & VF4",
+			"categories": ["Video"],
+			"titles": [
+				{"searchTerm": "Virtua Fighter History & VF4"}
+			]
+		},
+		{
+			"group": "Virtua Striker 2",
+			"titles": [
+				{"searchTerm": "Virtua Striker 2"},
+				{"searchTerm": "Virtua Striker 2000.1", "nametype": "regionFree"}
+			]
+		},
+		{
 			"group": "Virtua Tennis",
 			"titles": [
 				{"searchTerm": "Power Smash - Sega Professional Tennis"},
@@ -867,6 +951,12 @@
 			"titles": [
 				{"searchTerm": "Qui Veut Gagner des Millions"},
 				{"searchTerm": "Who Wants to Be a Millionaire"}
+			]
+		},
+		{
+			"group": "Wind and Water - Puzzle Battles",
+			"titles": [
+				{"searchTerm": "Wind and Water - Puzzle Battles", "localNames": {"english": "Wind and Water - Puzzle Battles", "japanese": "時空五行　風水大戰"}}
 			]
 		},
 		{

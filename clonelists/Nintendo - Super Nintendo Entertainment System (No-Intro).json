@@ -1,115 +1,9 @@
 {
 	"description": {
 		"name": "Nintendo - Super Nintendo Entertainment System (No-Intro)",
-		"lastUpdated": "01 December 2023",
-		"minimumVersion": "2.00"
+		"lastUpdated": "10 February 2024",
+		"minimumVersion": "2.02"
 	},
-
-	"categories": [
-		{
-			"searchTerm": "Burn-in - Test Cartridge",
-			"nameType": "short",
-			"categories": ["Applications"]
-		},
-		{
-			"searchTerm": "Cassette Kensaki - NUS-you S Cassette",
-			"nameType": "short",
-			"categories": ["Applications"]
-		},
-		{
-			"searchTerm": "Controller Test Cassette",
-			"nameType": "short",
-			"categories": ["Applications"]
-		},
-		{
-			"searchTerm": "Game Genie",
-			"nameType": "short",
-			"categories": ["Applications"]
-		},
-		{
-			"searchTerm": "Game Saver",
-			"nameType": "short",
-			"categories": ["Applications"]
-		},
-		{
-			"searchTerm": "Nintendo Power Menu Program",
-			"nameType": "short",
-			"categories": ["Applications"]
-		},
-		{
-			"searchTerm": "NTF 2.5 Test Cartridge",
-			"nameType": "short",
-			"categories": ["Applications"]
-		},
-		{
-			"searchTerm": "Pro Action Replay",
-			"nameType": "short",
-			"categories": ["Applications"]
-		},
-		{
-			"searchTerm": "^Pro Action Replay(.*)?",
-			"nameType": "regex",
-			"categories": ["Applications"]
-		},
-		{
-			"searchTerm": "SA1 Demonstration Program",
-			"nameType": "short",
-			"categories": ["Demos"]
-		},
-		{
-			"searchTerm": "Super 8",
-			"nameType": "short",
-			"categories": ["BIOS"]
-		},
-		{
-			"searchTerm": "Super Game Boy",
-			"nameType": "short",
-			"categories": ["BIOS"]
-		},
-		{
-			"searchTerm": "Super Game Boy 2",
-			"nameType": "short",
-			"categories": ["BIOS"]
-		},
-		{
-			"searchTerm": "Tri-Star",
-			"nameType": "short",
-			"categories": ["BIOS"]
-		},
-		{
-			"searchTerm": "XBAND",
-			"nameType": "short",
-			"categories": ["Applications"]
-		}
-	],
-
-	"overrides": [
-		{
-			"searchTerm": "Casper (Japan)",
-			"nameType": "full",
-			"newGroup": "Casper Japan"
-		},
-		{
-			"searchTerm": "Monopoly (Japan)",
-			"nameType": "full",
-			"newGroup": "Monopoly Japan"
-		},
-		{
-			"searchTerm": "NFL Football (USA) (Proto)",
-			"nameType": "full",
-			"newGroup": "NFL Football USA Proto"
-		},
-		{
-			"searchTerm": "Tom & Jerry (USA) (Proto) (1994-07-11)",
-			"nameType": "full",
-			"newGroup": "Tom vs Jerry - The Chase Is On!"
-		},
-		{
-			"searchTerm": "World Soccer (Europe) (Proto)",
-			"nameType": "full",
-			"newGroup": "Tony Meola's Sidekicks Soccer"
-		}
-	],
 
 	"variants": [
 		{
@@ -282,7 +176,8 @@
 			"group": "Beethoven - The Ultimate Canine Caper!",
 			"titles": [
 				{"searchTerm": "Beethoven - The Ultimate Canine Caper!"},
-				{"searchTerm": "Beethoven's 2nd", "priority": 2}
+				{"searchTerm": "Beethoven's 2nd", "priority": 2},
+				{"searchTerm": "101 Dalmatas", "priority": 3}
 			]
 		},
 		{
@@ -313,6 +208,13 @@
 				{"searchTerm": "Blackthorne"},
 				{"searchTerm": "Blackthorne - Fukushuu no Kuroki Toge"},
 				{"searchTerm": "Blackthorne (CES)", "priority": 2}
+			]
+		},
+		{
+			"group": "Blues Brothers, The",
+			"titles": [
+				{"searchTerm": "Blues Brothers, The"},
+				{"searchTerm": "Men in Black", "priority": 2}
 			]
 		},
 		{
@@ -382,6 +284,13 @@
 			]
 		},
 		{
+			"group": "Burn-in - Test Cartridge",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Burn-in - Test Cartridge"}
+			]
+		},
+		{
 			"group": "Bust-A-Move",
 			"titles": [
 				{"searchTerm": "Bust-A-Move"},
@@ -401,7 +310,43 @@
 			"titles": [
 				{"searchTerm": "Capcom's Soccer Shootout"},
 				{"searchTerm": "J.League Excite Stage '94"},
-				{"searchTerm": "Soccer Shootout"}
+				{"searchTerm": "Soccer Shootout"},
+				{"searchTerm": "Super Descentralizado 1995", "priority": 2}
+			]
+		},
+		{
+			"group": "Captain Tsubasa III - Koutei no Chousen",
+			"titles": [
+				{"searchTerm": "Captain Tsubasa III - Koutei no Chousen"},
+				{"searchTerm": "Super Campeones", "priority": 2}
+			]
+		},
+		{
+			"group": "Captain Tsubasa IV - Pro no Rival-tachi",
+			"titles": [
+				{"searchTerm": "Captain Tsubasa IV - Pro no Rival-tachi"},
+				{"searchTerm": "Super Campeones 4", "priority": 2}
+			]
+		},
+		{
+			"group": "Casper",
+			"titles": [
+				{
+					"searchTerm": "Casper",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["Japan"]},
+							"results": {"group": "Casper (Japan)"}
+						}
+					]
+				}
+			]
+		},
+		{
+			"group": "Cassette Kensaki - NUS-you S Cassette",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Cassette Kensaki - NUS-you S Cassette"}
 			]
 		},
 		{
@@ -444,6 +389,13 @@
 			]
 		},
 		{
+			"group": "Columns",
+			"titles": [
+				{"searchTerm": "Columns"},
+				{"searchTerm": "Sextris", "priority": 2}
+			]
+		},
+		{
 			"group": "Congo's Caper",
 			"titles": [
 				{"searchTerm": "Congo's Caper"},
@@ -460,6 +412,13 @@
 				{"searchTerm": "Contra Spirits"},
 				{"searchTerm": "Super Probotector - Alien Rebels"},
 				{"searchTerm": "Contra IV - The Alien Wars", "priority": 2}
+			]
+		},
+		{
+			"group": "Controller Test Cassette",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Controller Test Cassette"}
 			]
 		},
 		{
@@ -789,6 +748,20 @@
 			]
 		},
 		{
+			"group": "Game Genie",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Game Genie"}
+			]
+		},
+		{
+			"group": "Game Saver",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Game Saver"}
+			]
+		},
+		{
 			"group": "Garry Kitchen's Super Battletank - War in the Gulf",
 			"titles": [
 				{"searchTerm": "Garry Kitchen's Super Battletank"},
@@ -977,14 +950,19 @@
 			"group": "International Superstar Soccer",
 			"titles": [
 				{"searchTerm": "International Superstar Soccer"},
-				{"searchTerm": "Jikkyou World Soccer - Perfect Eleven"}
+				{"searchTerm": "Jikkyou World Soccer - Perfect Eleven"},
+				{"searchTerm": "Futbol Excitante", "priority": 2},
+				{"searchTerm": "Futbol Peruano 97", "priority": 3},
+				{"searchTerm": "Futebol Brasileiro 96", "priority": 4},
+				{"searchTerm": "Super Descentralizado II", "priority": 5}
 			]
 		},
 		{
 			"group": "International Superstar Soccer Deluxe",
 			"titles": [
 				{"searchTerm": "International Superstar Soccer Deluxe"},
-				{"searchTerm": "Jikkyou World Soccer 2 - Fighting Eleven"}
+				{"searchTerm": "Jikkyou World Soccer 2 - Fighting Eleven"},
+				{"searchTerm": "Ronaldinho Soccer 97", "priority": 2}
 			]
 		},
 		{
@@ -1006,6 +984,13 @@
 			"titles": [
 				{"searchTerm": "J.R.R. Tolkien's The Lord of the Rings - Volume 1"},
 				{"searchTerm": "J.R.R. Tolkien's The Lord of the Rings - Volume One"}
+			]
+		},
+		{
+			"group": "Jelly Boy",
+			"titles": [
+				{"searchTerm": "Jelly Boy"},
+				{"searchTerm": "Flubber", "priority": 2}
 			]
 		},
 		{
@@ -1066,6 +1051,13 @@
 			"titles": [
 				{"searchTerm": "John Madden Football"},
 				{"searchTerm": "Pro Football"}
+			]
+		},
+		{
+			"group": "Jungle Book, The",
+			"titles": [
+				{"searchTerm": "Jungle Book, The"},
+				{"searchTerm": "Tarzan", "priority": 2}
 			]
 		},
 		{
@@ -1455,6 +1447,20 @@
 			]
 		},
 		{
+			"group": "Monopoly",
+			"titles": [
+				{
+					"searchTerm": "Monopoly",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["Japan"]},
+							"results": {"group": "Monopoly (Japan)"}
+						}
+					]
+				}
+			]
+		},
+		{
 			"group": "Mortal Kombat",
 			"titles": [
 				{"searchTerm": "Mortal Kombat"},
@@ -1519,6 +1525,20 @@
 			]
 		},
 		{
+			"group": "NFL Football",
+			"titles": [
+				{
+					"searchTerm": "NFL Football",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["USA"], "matchString": "Proto"},
+							"results": {"group": "NFL Football (USA) (Proto)"}
+						}
+					]
+				}
+			]
+		},
+		{
 			"group": "NFL Quarterback Club",
 			"titles": [
 				{"searchTerm": "NFL Quarterback Club"},
@@ -1570,6 +1590,13 @@
 			]
 		},
 		{
+			"group": "Nintendo Power Menu Program",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Nintendo Power Menu Program"}
+			]
+		},
+		{
 			"group": "Nobunaga's Ambition",
 			"titles": [
 				{"searchTerm": "Nobunaga's Ambition"},
@@ -1581,6 +1608,13 @@
 			"titles": [
 				{"searchTerm": "Nolan Ryan's Baseball"},
 				{"searchTerm": "Super Stadium"}
+			]
+		},
+		{
+			"group": "NTF 2.5 Test Cartridge",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "NTF 2.5 Test Cartridge"}
 			]
 		},
 		{
@@ -1768,9 +1802,24 @@
 		},
 		{
 			"group": "Pro Action Replay",
+			"categories": ["Applications"],
 			"titles": [
 				{"searchTerm": "Pro Action Replay"},
 				{"searchTerm": "Pro Action Replay (27c256)"}
+			]
+		},
+		{
+			"group": "Pro Action Replay MK2",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Pro Action Replay MK2"}
+			]
+		},
+		{
+			"group": "Pro Action Replay MK3",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Pro Action Replay MK3"}
 			]
 		},
 		{
@@ -1929,6 +1978,13 @@
 			]
 		},
 		{
+			"group": "SA1 Demonstration Program",
+			"categories": ["Applications", "Demos"],
+			"titles": [
+				{"searchTerm": "SA1 Demonstration Program"}
+			]
+		},
+		{
 			"group": "Samurai Shodown",
 			"titles": [
 				{"searchTerm": "Samurai Shodown"},
@@ -1962,13 +2018,6 @@
 				{"searchTerm": "Shanghai II - Dragon's Eye"},
 				{"searchTerm": "Super Shanghai - Dragon's Eye (Activision)"},
 				{"searchTerm": "Super Shanghai - Dragon's Eye (HOT B)"}
-			]
-		},
-		{
-			"group": "Shaq-Fu",
-			"titles": [
-				{"searchTerm": "Shaq-Fu"},
-				{"searchTerm": "Shaq Fu", "priority": 2}
 			]
 		},
 		{
@@ -2175,6 +2224,7 @@
 		},
 		{
 			"group": "Super 8",
+			"categories": ["BIOS"],
 			"titles": [
 				{"searchTerm": "Super 8"},
 				{"searchTerm": "Tri-Star", "priority": 2}
@@ -2341,6 +2391,28 @@
 			"titles": [
 				{"searchTerm": "Super Formation Soccer 95 - della Serie A"},
 				{"searchTerm": "Super Formation Soccer 95 - della Serie A (UCC Xaqua Version)", "priority": 2}
+			]
+		},
+		{
+			"group": "Super Formation Soccer II",
+			"titles": [
+				{"searchTerm": "Super Formation Soccer II"},
+				{"searchTerm": "Copa Libertadores 3", "priority": 2},
+				{"searchTerm": "Descentralizado 1993", "priority": 3}
+			]
+		},
+		{
+			"group": "Super Game Boy",
+			"categories": ["BIOS"],
+			"titles": [
+				{"searchTerm": "Super Game Boy"}
+			]
+		},
+		{
+			"group": "Super Game Boy 2",
+			"categories": ["BIOS"],
+			"titles": [
+				{"searchTerm": "Super Game Boy 2"}
 			]
 		},
 		{
@@ -2525,7 +2597,8 @@
 			"group": "Super Street Fighter II",
 			"titles": [
 				{"searchTerm": "Super Street Fighter II"},
-				{"searchTerm": "Super Street Fighter II - The New Challengers"}
+				{"searchTerm": "Super Street Fighter II - The New Challengers"},
+				{"searchTerm": "Street Fighter V", "priority": 2}
 			]
 		},
 		{
@@ -2670,6 +2743,13 @@
 			"titles": [
 				{"searchTerm": "Tom and Jerry"},
 				{"searchTerm": "Tom to Jerry"}
+			]
+		},
+		{
+			"group": "Tom vs Jerry - The Chase is On!",
+			"titles": [
+				{"searchTerm": "Tom & Jerry"},
+				{"searchTerm": "Tom vs Jerry - The Chase is On!"}
 			]
 		},
 		{
@@ -2919,7 +2999,16 @@
 			"titles": [
 				{"searchTerm": "Eric Cantona Football Challenge"},
 				{"searchTerm": "Striker"},
-				{"searchTerm": "World Soccer"},
+				{
+					"searchTerm": "World Soccer",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["Europe"], "matchString": "Proto"},
+							"results": {"group": "Tony Meola's Sidekicks Soccer"}
+						}
+					]
+
+				},
 				{"searchTerm": "World Soccer 94 - Road to Glory"}
 			]
 		},
@@ -2943,6 +3032,13 @@
 			"titles": [
 				{"searchTerm": "Choukou Gasshin Xardion"},
 				{"searchTerm": "Xardion"}
+			]
+		},
+		{
+			"group": "XBAND",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "XBAND"}
 			]
 		},
 		{

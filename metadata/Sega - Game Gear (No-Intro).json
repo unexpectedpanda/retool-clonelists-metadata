@@ -11,31 +11,31 @@
 	"Addams Family, The (World)": {
 		"languages": ["En"]
 	},
-	"Adventures of Batman & Robin, The (USA, Europe) (Beta) (1995-04-27)": {
+	"Adventures of Batman & Robin, The (USA, Europe, Brazil) (En) (Beta) (1995-04-27)": {
 		"languages": ["En"]
 	},
-	"Adventures of Batman & Robin, The (USA, Europe) (Beta) (1995-04-29)": {
+	"Adventures of Batman & Robin, The (USA, Europe, Brazil) (En) (Beta) (1995-04-29)": {
 		"languages": ["En"]
 	},
-	"Adventures of Batman & Robin, The (USA, Europe) (Beta) (1995-04-30)": {
+	"Adventures of Batman & Robin, The (USA, Europe, Brazil) (En) (Beta) (1995-04-30)": {
 		"languages": ["En"]
 	},
-	"Adventures of Batman & Robin, The (USA, Europe) (Beta) (1995-05-02)": {
+	"Adventures of Batman & Robin, The (USA, Europe, Brazil) (En) (Beta) (1995-05-02)": {
 		"languages": ["En"]
 	},
-	"Adventures of Batman & Robin, The (USA, Europe) (Beta) (1995-05-04)": {
+	"Adventures of Batman & Robin, The (USA, Europe, Brazil) (En) (Beta) (1995-05-04)": {
 		"languages": ["En"]
 	},
-	"Adventures of Batman & Robin, The (USA, Europe) (Beta) (1995-05-06) (Alt)": {
+	"Adventures of Batman & Robin, The (USA, Europe, Brazil) (En) (Beta) (1995-05-06) (Alt)": {
 		"languages": ["En"]
 	},
-	"Adventures of Batman & Robin, The (USA, Europe) (Beta) (1995-05-06)": {
+	"Adventures of Batman & Robin, The (USA, Europe, Brazil) (En) (Beta) (1995-05-06)": {
 		"languages": ["En"]
 	},
-	"Adventures of Batman & Robin, The (USA, Europe) (Beta) (1995-05-07)": {
+	"Adventures of Batman & Robin, The (USA, Europe, Brazil) (En) (Beta) (1995-05-07)": {
 		"languages": ["En"]
 	},
-	"Adventures of Batman & Robin, The (USA, Europe)": {
+	"Adventures of Batman & Robin, The (USA, Europe, Brazil) (En)": {
 		"languages": ["En"]
 	},
 	"Aerial Assault (World) (Rev 1)": {
@@ -232,7 +232,7 @@
 	},
 	"Bishoujo Mahjong Puzzle (Japan) (Aftermarket) (Unl)": {
 		"languages": ["Ja"],
-		"localizedName": "美少女麻雀パズル"
+		"localName": "美少女麻雀パズル"
 	},
 	"Bishoujo Senshi Sailor Moon S (Japan)": {
 		"languages": ["Ja"]
@@ -299,7 +299,7 @@
 	},
 	"Burger Kitchen (Japan) (Aftermarket) (Unl)": {
 		"languages": ["Ja"],
-		"localizedName": "バーガーキッチン"
+		"localName": "バーガーキッチン"
 	},
 	"Bust-A-Move (USA)": {
 		"languages": ["En"]
@@ -552,7 +552,7 @@
 	},
 	"Dracula no Shiro (Japan) (Aftermarket) (Unl)": {
 		"languages": ["Ja"],
-		"localizedName": "ドラキュラの城"
+		"localName": "ドラキュラの城"
 	},
 	"Dragon - The Bruce Lee Story (Europe) (Beta)": {
 		"languages": ["En"]
@@ -620,7 +620,7 @@
 	"Ecco The Dolphin II (Japan)": {
 		"languages": ["Ja"]
 	},
-	"Empire Syndicate (Unknown) (Beta)": {
+	"Empire Syndicate (USA) (Beta) (1995-03-20)": {
 		"languages": ["En"]
 	},
 	"Ernie Els Golf (Europe) (En,Fr,De,Es,It)": {
@@ -759,6 +759,9 @@
 		"languages": ["Ja"]
 	},
 	"Global Gladiators (Europe)": {
+		"languages": ["En"]
+	},
+	"Global Golf (USA) (1994-06-20) (Proto)": {
 		"languages": ["En"]
 	},
 	"Gojira - Kaijuu Daishingeki (Japan)": {
@@ -1469,10 +1472,10 @@
 	"Pocket Jansou (Japan)": {
 		"languages": ["Ja"]
 	},
-	"Poker Face - Paul's Cribbage (USA) (Proto)": {
+	"Poker Face Paul's Blackjack (USA)": {
 		"languages": ["En"]
 	},
-	"Poker Face Paul's Blackjack (USA)": {
+	"Poker Face Paul's Cribbage (USA) (Proto) (Source Code)": {
 		"languages": ["En"]
 	},
 	"Poker Face Paul's Cribbage (USA) (Proto)": {
@@ -1513,7 +1516,7 @@
 	},
 	"Princess Gardening (Japan) (Aftermarket) (Unl)": {
 		"languages": ["Ja"],
-		"localizedName": "プリンセスガーデニング"
+		"localName": "プリンセスガーデニング"
 	},
 	"Pro Yakyuu '91, The (Japan)": {
 		"languages": ["Ja"]
@@ -1848,9 +1851,6 @@
 	"Sonic The Hedgehog 2 (World)": {
 		"languages": ["En"]
 	},
-	"Sonic The Hedgehog (Japan, Europe, Brazil) (En) (Rev 1)": {
-		"languages": ["En"]
-	},
 	"Sonic The Hedgehog (Japan, USA) (En) (Beta)": {
 		"languages": ["En"]
 	},
@@ -1858,6 +1858,9 @@
 		"languages": ["En"]
 	},
 	"Sonic The Hedgehog (World) (Rev 1) (Virtual Console)": {
+		"languages": ["En"]
+	},
+	"Sonic The Hedgehog (World) (Rev 1)": {
 		"languages": ["En"]
 	},
 	"Sonic The Hedgehog - Triple Trouble (USA, Europe, Brazil) (En) (Beta) (1994-08-08)": {
@@ -2007,7 +2010,7 @@
 	"Star Trek Generations - Beyond the Nexus (USA)": {
 		"languages": ["En"]
 	},
-	"Star Wars (Europe)": {
+	"Star Wars (USA, Europe) (Alt)": {
 		"languages": ["En"]
 	},
 	"Star Wars (USA, Europe)": {
@@ -2316,6 +2319,9 @@
 	"Wonder Boy (Japan)": {
 		"languages": ["Ja"]
 	},
+	"Wonder Boy (USA) (Beta)": {
+		"languages": ["En"]
+	},
 	"Wonder Boy - The Dragon's Trap (Europe)": {
 		"languages": ["En"]
 	},
@@ -2417,7 +2423,7 @@
 	},
 	"Yakitori Meijin Torigin (Japan) (Aftermarket) (Unl)": {
 		"languages": ["Ja"],
-		"localizedName": "焼鳥名人とり"
+		"localName": "焼鳥名人とり"
 	},
 	"Yogi Bear in Yogi Bear's Goldrush (Europe) (Proto)": {
 		"languages": ["En"]

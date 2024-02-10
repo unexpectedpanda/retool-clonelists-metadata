@@ -1,20 +1,24 @@
 {
 	"description": {
 		"name": "Commodore - Amiga (No-Intro)",
-		"lastUpdated": "09 January 2022",
-		"minimumVersion": "0.92"
+		"lastUpdated": "26 December 2022",
+		"minimumVersion": "2.02"
 	},
 
-	"categories": [
+	"variants": [
 		{
-			"searchTerm": "Quadralien (Europe) (En,Fr,De) (With StarRay Demo)",
-			"nameType": "full",
-			"categories": ["Games"]
+			"group": "Quadralien (With StarRay Demo)",
+			"categories": ["Games"],
+			"titles": [
+				{"searchTerm": "Quadralien (With StarRay Demo)"}
+			]
 		},
 		{
-			"searchTerm": "Rugby - The World Cup (Europe) (With Demo Option)",
-			"nameType": "full",
-			"categories": ["Games"]
+			"group": "Rugby - The World Cup (With Demo Option)",
+			"categories": ["Games"],
+			"titles": [
+				{"searchTerm": "Rugby - The World Cup (With Demo Option)"}
+			]
 		}
 	]
 }
