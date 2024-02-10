@@ -1,254 +1,18 @@
 {
 	"description": {
 		"name": "Sony - PlayStation Vita (PSN) (Content) (No-Intro)",
-		"lastUpdated": "22 July 2023",
-		"minimumVersion": "2.00"
+		"lastUpdated": "26 December 2023",
+		"minimumVersion": "2.02"
 	},
 
-	"categories": [
-		{
-			"searchTerm": "#Killallzombies Companion App",
-			"nameType": "short",
-			"categories": ["Add-Ons"]
-		},
-		{
-			"searchTerm": "Amnesia World AR",
-			"nameType": "short",
-			"categories": ["Add-Ons"]
-		},
-		{
-			"searchTerm": "Animax Plus",
-			"nameType": "short",
-			"categories": ["Applications"]
-		},
-		{
-			"searchTerm": "Crackle",
-			"nameType": "short",
-			"categories": ["Applications"]
-		},
-		{
-			"searchTerm": "Crunchyroll",
-			"nameType": "short",
-			"categories": ["Applications"]
-		},
-		{
-			"searchTerm": "DMM.com",
-			"nameType": "short",
-			"categories": ["Applications"]
-		},
-		{
-			"searchTerm": "DramaFever",
-			"nameType": "short",
-			"categories": ["Applications"]
-		},
-		{
-			"searchTerm": "Du View",
-			"nameType": "short",
-			"categories": ["Applications"]
-		},
-		{
-			"searchTerm": "Facebook",
-			"nameType": "short",
-			"categories": ["Applications"]
-		},
-		{
-			"searchTerm": "Flickr",
-			"nameType": "short",
-			"categories": ["Applications"]
-		},
-		{
-			"searchTerm": "Foursquare",
-			"nameType": "short",
-			"categories": ["Applications"]
-		},
-		{
-			"searchTerm": "Game One",
-			"nameType": "short",
-			"categories": ["Applications"]
-		},
-		{
-			"searchTerm": "Gravity Rush - Maid Pack",
-			"nameType": "short",
-			"categories": ["Add-Ons"]
-		},
-		{
-			"searchTerm": "Gravity Rush - Special Forces Pack",
-			"nameType": "short",
-			"categories": ["Add-Ons"]
-		},
-		{
-			"searchTerm": "Gravity Rush - Spy Pack",
-			"nameType": "short",
-			"categories": ["Add-Ons"]
-		},
-		{
-			"searchTerm": "Hatsune Miku - Project Diva F - Sync Tool",
-			"nameType": "short",
-			"categories": ["Add-Ons"]
-		},
-		{
-			"searchTerm": "Hulu Plus",
-			"nameType": "short",
-			"categories": ["Applications"]
-		},
-		{
-			"searchTerm": "Killzone - Mercenary - Digital Art Book",
-			"nameType": "short",
-			"categories": ["Add-Ons"]
-		},
-		{
-			"searchTerm": "Live from PlayStation",
-			"nameType": "short",
-			"categories": ["Applications"]
-		},
-		{
-			"searchTerm": "LiveTweet",
-			"nameType": "short",
-			"categories": ["Applications"]
-		},
-		{
-			"searchTerm": "MLB.TV Premium",
-			"nameType": "short",
-			"categories": ["Applications"]
-		},
-		{
-			"searchTerm": "Music Unlimited",
-			"nameType": "short",
-			"categories": ["Applications"]
-		},
-		{
-			"searchTerm": "Netflix",
-			"nameType": "short",
-			"categories": ["Applications"]
-		},
-		{
-			"searchTerm": "Network Media Player",
-			"nameType": "short",
-			"categories": ["Applications"]
-		},
-		{
-			"searchTerm": "NHK On-Demand",
-			"nameType": "short",
-			"categories": ["Applications"]
-		},
-		{
-			"searchTerm": "NHL GameCenter",
-			"nameType": "short",
-			"categories": ["Applications"]
-		},
-		{
-			"searchTerm": "Niconico",
-			"nameType": "short",
-			"categories": ["Applications"]
-		},
-		{
-			"searchTerm": "PlayStation Home Arcade",
-			"nameType": "short",
-			"categories": ["Applications"]
-		},
-		{
-			"searchTerm": "PlayStation Mobile Development Assistant",
-			"nameType": "short",
-			"categories": ["Applications"]
-		},
-		{
-			"searchTerm": "PlayStation Mobile Runtime Package",
-			"nameType": "short",
-			"categories": ["Applications"]
-		},
-		{
-			"searchTerm": "PocketStation",
-			"nameType": "short",
-			"categories": ["Applications"]
-		},
-		{
-			"searchTerm": "Resistance - Burning Skies - Augmented Reality Monument Viewer",
-			"nameType": "short",
-			"categories": ["Add-Ons"]
-		},
-		{
-			"searchTerm": "Robotics;Notes Elite AR",
-			"nameType": "short",
-			"categories": ["Add-Ons"]
-		},
-		{
-			"searchTerm": "Sky! On-Demand",
-			"nameType": "short",
-			"categories": ["Applications"]
-		},
-		{
-			"searchTerm": "Skype",
-			"nameType": "short",
-			"categories": ["Applications"]
-		},
-		{
-			"searchTerm": "SnagFilms - Watch Free Movies & TV Shows",
-			"nameType": "short",
-			"categories": ["Applications"]
-		},
-		{
-			"searchTerm": "TBS World Heritage Site Selection",
-			"nameType": "short",
-			"categories": ["Applications"]
-		},
-		{
-			"searchTerm": "Torne",
-			"nameType": "short",
-			"categories": ["Applications"]
-		},
-		{
-			"searchTerm": "Tsutaya TV",
-			"nameType": "short",
-			"categories": ["Applications"]
-		},
-		{
-			"searchTerm": "Tuenti",
-			"nameType": "short",
-			"categories": ["Applications"]
-		},
-		{
-			"searchTerm": "TuneIn Radio",
-			"nameType": "short",
-			"categories": ["Applications"]
-		},
-		{
-			"searchTerm": "TV Dogatchi",
-			"nameType": "short",
-			"categories": ["Applications"]
-		},
-		{
-			"searchTerm": "Twitch",
-			"nameType": "short",
-			"categories": ["Applications"]
-		},
-		{
-			"searchTerm": "Uke-Torne",
-			"nameType": "short",
-			"categories": ["Applications"]
-		},
-		{
-			"searchTerm": "U-Next",
-			"nameType": "short",
-			"categories": ["Applications"]
-		},
-		{
-			"searchTerm": "WeatherNation",
-			"nameType": "short",
-			"categories": ["Applications"]
-		},
-		{
-			"searchTerm": "WipEout 2048 - Online Pass",
-			"nameType": "short",
-			"categories": ["Add-Ons"]
-		},
-		{
-			"searchTerm": "YouTube",
-			"nameType": "short",
-			"categories": ["Applications"]
-		}
-	],
-
 	"variants": [
+		{
+			"group": "#Killallzombies Companion App",
+			"categories": ["Add-Ons"],
+			"titles": [
+				{"searchTerm": "#Killallzombies Companion App"}
+			]
+		},
 		{
 			"group": "1001 Spikes",
 			"titles": [
@@ -257,18 +21,18 @@
 			]
 		},
 		{
-			"group": "A-Men",
-			"titles": [
-				{"searchTerm": "A-Men"},
-				{"searchTerm": "Assault Armies"}
-			]
-		},
-		{
 			"group": "A.W. - Phoenix Festa",
 			"titles": [
 				{"searchTerm": "A.W. - Phoenix Festa"},
 				{"searchTerm": "Asterisk War, The - The Academy City on the Water Houaa Kenran"},
 				{"searchTerm": "Gakusen Toshi Asterisk Festa - Houka Kenran"}
+			]
+		},
+		{
+			"group": "A-Men",
+			"titles": [
+				{"searchTerm": "A-Men"},
+				{"searchTerm": "Assault Armies"}
 			]
 		},
 		{
@@ -304,6 +68,20 @@
 			"titles": [
 				{"searchTerm": "Amnesia - Memories"},
 				{"searchTerm": "Amnesia V Edition"}
+			]
+		},
+		{
+			"group": "Amnesia World AR",
+			"categories": ["Add-Ons"],
+			"titles": [
+				{"searchTerm": "Amnesia World AR"}
+			]
+		},
+		{
+			"group": "Animax Plus",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Animax Plus"}
 			]
 		},
 		{
@@ -394,8 +172,8 @@
 		{
 			"group": "Attack on Titan - Wings of Freedom",
 			"titles": [
-				{"searchTerm": "Attack on Titan - Wings of Freedom"},
-				{"searchTerm": "Attack on Titan"}
+				{"searchTerm": "Attack on Titan"},
+				{"searchTerm": "Attack on Titan - Wings of Freedom"}
 			]
 		},
 		{
@@ -447,8 +225,8 @@
 		{
 			"group": "Breeder Homegrown",
 			"titles": [
-				{"searchTerm": "Breeder Homegrown"},
-				{"searchTerm": "Breeder - Homegrown - Director's Cut"}
+				{"searchTerm": "Breeder - Homegrown - Director's Cut"},
+				{"searchTerm": "Breeder Homegrown"}
 			]
 		},
 		{
@@ -469,16 +247,15 @@
 		{
 			"group": "Caligula Effect, The",
 			"titles": [
-				{"searchTerm": "Caligula Effect, The"},
-				{"searchTerm": "Caligula"}
+				{"searchTerm": "Caligula"},
+				{"searchTerm": "Caligula Effect, The"}
 			]
 		},
 		{
 			"group": "Certain Magical Virtual-On, A",
 			"titles": [
 				{"searchTerm": "Certain Magical Virtual-On, A"},
-				{"searchTerm": "Dennou Senki - Virtual On x Toaru Majutsu no Kinsho Mokuroku - Toaru Majutsu no Dennou Senki"},
-				{"searchTerm": "Toaru Majutsu no Virtual-On"}
+				{"searchTerm": "Dennou Senki - Virtual On x Toaru Majutsu no Kinsho Mokuroku - Toaru Majutsu no Dennou Senki"}
 			]
 		},
 		{
@@ -538,6 +315,13 @@
 			]
 		},
 		{
+			"group": "Crackle",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Crackle"}
+			]
+		},
+		{
 			"group": "Criminal Girls - Invite Only",
 			"titles": [
 				{"searchTerm": "Criminal Girls - Invite Only"},
@@ -549,6 +333,13 @@
 			"titles": [
 				{"searchTerm": "Criminal Girls 2"},
 				{"searchTerm": "Criminal Girls 2 - Party Favors"}
+			]
+		},
+		{
+			"group": "Crunchyroll",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Crunchyroll"}
 			]
 		},
 		{
@@ -677,6 +468,13 @@
 			]
 		},
 		{
+			"group": "DMM.com",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "DMM.com"}
+			]
+		},
+		{
 			"group": "Dragon Fantasy Book I",
 			"titles": [
 				{"searchTerm": "Dragon Fantasy - The Volumes of Westeria"},
@@ -698,17 +496,31 @@
 			]
 		},
 		{
+			"group": "DramaFever",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "DramaFever"}
+			]
+		},
+		{
 			"group": "Duck Souls+",
 			"titles": [
-				{"searchTerm": "Duck Souls+"},
-				{"searchTerm": "Duck Souls"}
+				{"searchTerm": "Duck Souls"},
+				{"searchTerm": "Duck Souls+"}
 			]
 		},
 		{
 			"group": "Dungeon Hunter - Alliance",
 			"titles": [
-				{"searchTerm": "Dungeon Hunter - Alliance"},
-				{"searchTerm": "Dark Quest - Alliance"}
+				{"searchTerm": "Dark Quest - Alliance"},
+				{"searchTerm": "Dungeon Hunter - Alliance"}
+			]
+		},
+		{
+			"group": "Du View",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Du View"}
 			]
 		},
 		{
@@ -758,6 +570,13 @@
 			]
 		},
 		{
+			"group": "Facebook",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Facebook"}
+			]
+		},
+		{
 			"group": "Farming Simulator 14",
 			"titles": [
 				{"searchTerm": "Farming Simulator 14"},
@@ -786,10 +605,10 @@
 			]
 		},
 		{
-			"group": "Fortune Street - Dragon Quest & Final Fantasy 30th Anniversary",
+			"group": "Flickr",
+			"categories": ["Applications"],
 			"titles": [
-				{"searchTerm": "Fortune Street - Dragon Quest & Final Fantasy 30th Anniversary"},
-				{"searchTerm": "Itadaki Street - Dragon Quest & Final Fantasy 30th Anniversary"}
+				{"searchTerm": "Flickr"}
 			]
 		},
 		{
@@ -800,10 +619,31 @@
 			]
 		},
 		{
+			"group": "Fortune Street - Dragon Quest & Final Fantasy 30th Anniversary",
+			"titles": [
+				{"searchTerm": "Fortune Street - Dragon Quest & Final Fantasy 30th Anniversary"},
+				{"searchTerm": "Itadaki Street - Dragon Quest & Final Fantasy 30th Anniversary"}
+			]
+		},
+		{
+			"group": "Foursquare",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Foursquare"}
+			]
+		},
+		{
 			"group": "Gal Gun - Double Peace",
 			"titles": [
 				{"searchTerm": "Gal Gun - Double Peace"},
 				{"searchTerm": "Gal Gun - Double Peace - Bilingual"}
+			]
+		},
+		{
+			"group": "Game One",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Game One"}
 			]
 		},
 		{
@@ -842,6 +682,27 @@
 			]
 		},
 		{
+			"group": "Gravity Rush - Maid Pack",
+			"categories": ["Add-Ons", "Games"],
+			"titles": [
+				{"searchTerm": "Gravity Rush - Maid Pack"}
+			]
+		},
+		{
+			"group": "Gravity Rush - Special Forces Pack",
+			"categories": ["Add-Ons", "Games"],
+			"titles": [
+				{"searchTerm": "Gravity Rush - Special Forces Pack"}
+			]
+		},
+		{
+			"group": "Gravity Rush - Spy Pack",
+			"categories": ["Add-Ons", "Games"],
+			"titles": [
+				{"searchTerm": "Gravity Rush - Spy Pack"}
+			]
+		},
+		{
 			"group": "Gundam Breaker 3 - Break Edition",
 			"titles": [
 				{"searchTerm": "Gundam Breaker 3"},
@@ -863,6 +724,13 @@
 			]
 		},
 		{
+			"group": "Hatsune Miku - Project Diva F - Sync Tool",
+			"categories": ["Add-Ons"],
+			"titles": [
+				{"searchTerm": "Hatsune Miku - Project Diva F - Sync Tool"}
+			]
+		},
+		{
 			"group": "HD Adventures of Rotating Octopus Character",
 			"titles": [
 				{"searchTerm": "HD Adventures of Rotating Octopus Character"},
@@ -872,9 +740,9 @@
 		{
 			"group": "Hot Shots Golf - World Invitational",
 			"titles": [
-				{"searchTerm": "Hot Shots Golf - World Invitational"},
 				{"searchTerm": "Everybody's Golf"},
 				{"searchTerm": "Everybody's Golf 6"},
+				{"searchTerm": "Hot Shots Golf - World Invitational"},
 				{"searchTerm": "Minna no Golf 6"}
 			]
 		},
@@ -887,9 +755,10 @@
 		},
 		{
 			"group": "Hulu Plus",
+			"categories": ["Applications"],
 			"titles": [
-				{"searchTerm": "Hulu Plus"},
-				{"searchTerm": "Hulu"}
+				{"searchTerm": "Hulu"},
+				{"searchTerm": "Hulu Plus"}
 			]
 		},
 		{
@@ -951,10 +820,17 @@
 			]
 		},
 		{
+			"group": "Killzone - Mercenary - Digital Art Book",
+			"categories": ["Add-Ons"],
+			"titles": [
+				{"searchTerm": "Killzone - Mercenary - Digital Art Book"}
+			]
+		},
+		{
 			"group": "Kin'iro no Corda 4",
 			"titles": [
-				{"searchTerm": "Kin'iro no Corda 4"},
-				{"searchTerm": "Corda d'Oro 4, La"}
+				{"searchTerm": "Corda d'Oro 4, La"},
+				{"searchTerm": "Kin'iro no Corda 4"}
 			]
 		},
 		{
@@ -974,8 +850,8 @@
 		{
 			"group": "Legend of Heroes, The - Ao no Kiseki Evolution",
 			"titles": [
-				{"searchTerm": "Legend of Heroes, The - Ao no Kiseki Evolution"},
-				{"searchTerm": "Eiyuu Densetsu - Ao no Kiseki Evolution"}
+				{"searchTerm": "Eiyuu Densetsu - Ao no Kiseki Evolution"},
+				{"searchTerm": "Legend of Heroes, The - Ao no Kiseki Evolution"}
 			]
 		},
 		{
@@ -1003,17 +879,17 @@
 		{
 			"group": "Legend of Heroes, The - Trails of Cold Steel",
 			"titles": [
-				{"searchTerm": "Legend of Heroes, The - Trails of Cold Steel"},
+				{"searchTerm": "Eiyuu Densetsu - Sen no Kiseki"},
 				{"searchTerm": "Legend of Heroes, The - Sen no Kiseki"},
-				{"searchTerm": "Eiyuu Densetsu - Sen no Kiseki"}
+				{"searchTerm": "Legend of Heroes, The - Trails of Cold Steel"}
 			]
 		},
 		{
 			"group": "Legend of Heroes, The - Trails of Cold Steel II",
 			"titles": [
-				{"searchTerm": "Legend of Heroes, The - Trails of Cold Steel II"},
+				{"searchTerm": "Eiyuu Densetsu - Sen no Kiseki II"},
 				{"searchTerm": "Legend of Heroes, The - Sen no Kiseki II"},
-				{"searchTerm": "Eiyuu Densetsu - Sen no Kiseki II"}
+				{"searchTerm": "Legend of Heroes, The - Trails of Cold Steel II"}
 			]
 		},
 		{
@@ -1024,10 +900,24 @@
 			]
 		},
 		{
+			"group": "Live from PlayStation",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Live from PlayStation"}
+			]
+		},
+		{
+			"group": "LiveTweet",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "LiveTweet"}
+			]
+		},
+		{
 			"group": "London Detective Mysteria",
 			"titles": [
-				{"searchTerm": "London Detective Mysteria"},
-				{"searchTerm": "Eikoku Tantei Mysteria - The Crown"}
+				{"searchTerm": "Eikoku Tantei Mysteria - The Crown"},
+				{"searchTerm": "London Detective Mysteria"}
 			]
 		},
 		{
@@ -1066,6 +956,13 @@
 			]
 		},
 		{
+			"group": "MLB.TV Premium",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "MLB.TV Premium"}
+			]
+		},
+		{
 			"group": "MotorStorm RC",
 			"titles": [
 				{"searchTerm": "MotorStorm RC - Presented by Scion"}
@@ -1080,6 +977,13 @@
 				{"searchTerm": "Mr. Pumpkin's Adventure"},
 				{"searchTerm": "Mr. Pumpkin Adventure"},
 				{"searchTerm": "Mr. Pumpkin no Fushigi na Tabi"}
+			]
+		},
+		{
+			"group": "Music Unlimited",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Music Unlimited"}
 			]
 		},
 		{
@@ -1109,9 +1013,23 @@
 		{
 			"group": "NekoBuro - Cats Block",
 			"titles": [
-				{"searchTerm": "NekoBuro - Cats Block"},
 				{"searchTerm": "CatsBlock Vestival"},
+				{"searchTerm": "NekoBuro - Cats Block"},
 				{"searchTerm": "Nyan-derful Puzzle - NekoBuro"}
+			]
+		},
+		{
+			"group": "Netflix",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Netflix"}
+			]
+		},
+		{
+			"group": "Network Media Player",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Network Media Player"}
 			]
 		},
 		{
@@ -1119,6 +1037,27 @@
 			"titles": [
 				{"searchTerm": "New Game! - The Challenge Stage!"},
 				{"searchTerm": "New Game! The Challenge Stage!"}
+			]
+		},
+		{
+			"group": "NHK On-Demand",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "NHK On-Demand"}
+			]
+		},
+		{
+			"group": "NHL GameCenter",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "NHL GameCenter"}
+			]
+		},
+		{
+			"group": "Niconico",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Niconico"}
 			]
 		},
 		{
@@ -1244,6 +1183,34 @@
 			]
 		},
 		{
+			"group": "PlayStation Home Arcade",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "PlayStation Home Arcade"}
+			]
+		},
+		{
+			"group": "PlayStation Mobile Development Assistant",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "PlayStation Mobile Development Assistant"}
+			]
+		},
+		{
+			"group": "PlayStation Mobile Runtime Package",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "PlayStation Mobile Runtime Package"}
+			]
+		},
+		{
+			"group": "PocketStation",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "PocketStation"}
+			]
+		},
+		{
 			"group": "Psychedelica of the Ashen Hawk",
 			"titles": [
 				{"searchTerm": "Psychedelica of Gray Hawk"},
@@ -1294,17 +1261,17 @@
 			]
 		},
 		{
-			"group": "Red Bow",
-			"titles": [
-				{"searchTerm": "Red Bow"},
-				{"searchTerm": "Akai Ribbon - Kimyou na Yume"}
-			]
-		},
-		{
 			"group": "Reel Fishing - Master's Challenge",
 			"titles": [
 				{"searchTerm": "Reel Fishing - Master's Challenge"},
 				{"searchTerm": "Reel Fishing - Wasureteita Yakusoku"}
+			]
+		},
+		{
+			"group": "Red Bow",
+			"titles": [
+				{"searchTerm": "Akai Ribbon - Kimyou na Yume"},
+				{"searchTerm": "Red Bow"}
 			]
 		},
 		{
@@ -1315,12 +1282,26 @@
 			]
 		},
 		{
+			"group": "Resistance - Burning Skies - Augmented Reality Monument Viewer",
+			"categories": ["Add-Ons"],
+			"titles": [
+				{"searchTerm": "Resistance - Burning Skies - Augmented Reality Monument Viewer"}
+			]
+		},
+		{
 			"group": "Retro City Rampage",
 			"titles": [
 				{"searchTerm": "Retro City Rampage"}
 			],
 			"supersets": [
 				{"searchTerm": "Retro City Rampage DX"}
+			]
+		},
+		{
+			"group": "Robotics;Notes Elite AR",
+			"categories": ["Add-Ons"],
+			"titles": [
+				{"searchTerm": "Robotics;Notes Elite AR"}
 			]
 		},
 		{
@@ -1420,10 +1401,31 @@
 			]
 		},
 		{
+			"group": "Sky! On-Demand",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Sky! On-Demand"}
+			]
+		},
+		{
+			"group": "Skype",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Skype"}
+			]
+		},
+		{
 			"group": "Sly 3 - Honor Among Thieves",
 			"titles": [
 				{"searchTerm": "Sly 3 - Honor Among Thieves"},
 				{"searchTerm": "Sly 3 - Honour Among Thieves"}
+			]
+		},
+		{
+			"group": "SnagFilms - Watch Free Movies & TV Shows",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "SnagFilms - Watch Free Movies & TV Shows"}
 			]
 		},
 		{
@@ -1530,6 +1532,13 @@
 			]
 		},
 		{
+			"group": "TBS World Heritage Site Selection",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "TBS World Heritage Site Selection"}
+			]
+		},
+		{
 			"group": "Tearaway",
 			"titles": [
 				{"searchTerm": "Tearaway (Trial)"},
@@ -1541,6 +1550,13 @@
 			"titles": [
 				{"searchTerm": "Tiny Troopers - Joint Ops"},
 				{"searchTerm": "Tiny Troopers Joint Ops"}
+			]
+		},
+		{
+			"group": "Torne",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Torne"}
 			]
 		},
 		{
@@ -1579,6 +1595,55 @@
 				{"searchTerm": "Makaishin Trillion"},
 				{"searchTerm": "Trillion - God of Destruction"}
 
+			]
+		},
+		{
+			"group": "Tsutaya TV",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Tsutaya TV"}
+			]
+		},
+		{
+			"group": "Tuenti",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Tuenti"}
+			]
+		},
+		{
+			"group": "TuneIn Radio",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "TuneIn Radio"}
+			]
+		},
+		{
+			"group": "TV Dogatchi",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "TV Dogatchi"}
+			]
+		},
+		{
+			"group": "Twitch",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Twitch"}
+			]
+		},
+		{
+			"group": "U-Next",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "U-Next"}
+			]
+		},
+		{
+			"group": "Uke-Torne",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Uke-Torne"}
 			]
 		},
 		{
@@ -1635,10 +1700,31 @@
 			]
 		},
 		{
+			"group": "WeatherNation",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "WeatherNation"}
+			]
+		},
+		{
+			"group": "WipEout 2048 - Online Pass",
+			"categories": ["Add-Ons"],
+			"titles": [
+				{"searchTerm": "WipEout 2048 - Online Pass"}
+			]
+		},
+		{
 			"group": "XBlaze - Lost Memories",
 			"titles": [
 				{"searchTerm": "XBlaze - Lost Memories"},
 				{"searchTerm": "XBlaze Lost - Memories"}
+			]
+		},
+		{
+			"group": "YouTube",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "YouTube"}
 			]
 		},
 		{
