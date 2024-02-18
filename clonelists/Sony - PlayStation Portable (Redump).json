@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Sony - PlayStation Portable (Redump)",
-		"lastUpdated": "10 February 2024",
+		"lastUpdated": "18 February 2024",
 		"minimumVersion": "2.00"
 	},
 
@@ -36,6 +36,13 @@
 			"titles": [
 				{"searchTerm": "Ace Combat - Joint Assault"},
 				{"searchTerm": "Ace Combat X2 - Joint Assault"}
+			]
+		},
+		{
+			"group": "Adventures to Go!",
+			"titles": [
+				{"searchTerm": "Adventures to Go!"},
+				{"searchTerm": "Chuumon Shiyouze! Oretachi no Sekai"}
 			]
 		},
 		{
@@ -900,6 +907,20 @@
 			]
 		},
 		{
+			"group": "Legend of Heroes III, The - Song of the Ocean",
+			"titles": [
+				{"searchTerm": "Eiyuu Densetsu Gagharv Trilogy - Umi no Oriuta"},
+				{"searchTerm": "Legend of Heroes III, The - Song of the Ocean"}
+			]
+		},
+		{
+			"group": "Legend of Heroes, The - A Tear of Vermillion",
+			"titles": [
+				{"searchTerm": "Eiyuu Densetsu Gagharv Trilogy - Akai Shizuku"},
+				{"searchTerm": "Legend of Heroes, The - A Tear of Vermillion"}
+			]
+		},
+		{
 			"group": "LEGO Pirates of the Caribbean - The Video Game",
 			"titles": [
 				{"searchTerm": "LEGO Pirates of the Caribbean - The Video Game"},
@@ -941,6 +962,13 @@
 			"titles": [
 				{"searchTerm": "Mana-Khemia - Gakuen no Renkinjutsushi-tachi Portable +"},
 				{"searchTerm": "Mana Khemia - Student Alliance"}
+			]
+		},
+		{
+			"group": "Maru Goukaku Shikaku Dasshu! - Care Manager Shiken Portable",
+			"categories": ["Educational"],
+			"titles": [
+				{"searchTerm": "Maru Goukaku Shikaku Dasshu! - Care Manager Shiken Portable"}
 			]
 		},
 		{
@@ -1225,6 +1253,13 @@
 			"titles": [
 				{"searchTerm": "PixelJunk Monsters - Deluxe"},
 				{"searchTerm": "PixelJunk Monsters UMD Limited Edition"}
+			]
+		},
+		{
+			"group": "PlayEnglish",
+			"categories": ["Educational"],
+			"titles": [
+				{"searchTerm": "PlayEnglish"}
 			]
 		},
 		{
