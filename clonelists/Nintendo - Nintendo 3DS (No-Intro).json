@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Nintendo - Nintendo 3DS (No-Intro)",
-		"lastUpdated": "10 February 2024",
+		"lastUpdated": "25 February 2024",
 		"minimumVersion": "2.02"
 	},
 
@@ -1597,7 +1597,7 @@
 				{"searchTerm": "Choukaiten Sushi Striker - The Way of Sushido"},
 				{"searchTerm": "Sushi Striker - The Way of Sushido"}
 			]
-		},
+		},		
 		{
 			"group": "Taiko no Tatsujin - Don to Katsu no Jikuu Daibouken",
 			"titles": [
@@ -1610,6 +1610,13 @@
 			"titles": [
 				{"searchTerm": "Tetris"},
 				{"searchTerm": "Tetris Axis"}
+			]
+		},
+		{
+			"group": "TOEIC Test - Chousoku Training",
+			"categories": ["Educational"],
+			"titles": [
+				{"searchTerm": "TOEIC Test - Chousoku Training"}
 			]
 		},
 		{
