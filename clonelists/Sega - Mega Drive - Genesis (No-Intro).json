@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Sega - Mega Drive - Genesis (No-Intro)",
-		"lastUpdated": "10 February 2024",
+		"lastUpdated": "09 March 2024",
 		"minimumVersion": "2.02"
 	},
 
@@ -13,6 +13,16 @@
 			],
 			"compilations": [
 				{"searchTerm": "Game no Kanzume Otokuyou"}
+			]
+		},
+		{
+			"group": "2 Ciclopes and Friends - Fight Game",
+			"titles": [
+				{"searchTerm": "2 Ciclopes and Friends - The Fight Game"}
+			],
+			"supersets": [
+				{"searchTerm": "2 Ciclopes e Amigos - Fight Game - Winner Edition - New Challengers"},
+				{"searchTerm": "2 Ciclopes and Friends - The Fight Game - Winner Edition", "priority": 2}
 			]
 		},
 		{
@@ -432,7 +442,7 @@
 		{
 			"group": "Darius - Extra Version",
 			"titles": [
-				{"searchTerm": "Darius - Extra Version (Columbus Circle)"},
+				{"searchTerm": "Darius - Extra Version"},
 				{"searchTerm": "Darius - Extra Version (Strictly Limited)"}
 			]
 		},
@@ -1002,7 +1012,7 @@
 		{
 			"group": "Mad Stalker - Full Metal Forth",
 			"titles": [
-				{"searchTerm": "Mad Stalker - Full Metal Forth (Columbus Circle)"},
+				{"searchTerm": "Mad Stalker - Full Metal Forth"},
 				{"searchTerm": "Mad Stalker - Full Metal Forth (Strictly Limited)"}
 			]
 		},
@@ -1484,6 +1494,13 @@
 			"titles": [
 				{"searchTerm": "Rock 'n' Roll Racing"},
 				{"searchTerm": "Rock n' Roll Racing"}
+			]
+		},
+		{
+			"group": "Rocket Panda (Demo)",
+			"titles": [
+				{"searchTerm": "Rocket Panda (Demo)"},
+				{"searchTerm": "Rocket Panda (Demo) (Megacat)", "priority": 2}
 			]
 		},
 		{

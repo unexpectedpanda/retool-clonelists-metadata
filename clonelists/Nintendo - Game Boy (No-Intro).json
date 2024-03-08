@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Nintendo - Game Boy (No-Intro)",
-		"lastUpdated": "10 February 2024",
+		"lastUpdated": "09 March 2024",
 		"minimumVersion": "2.02"
 	},
 
@@ -1564,6 +1564,14 @@
 				{"searchTerm": "Shanghai"},
 				{"searchTerm": "Shanghai (Activision)"},
 				{"searchTerm": "Shanghai (HAL Laboratory)", "priority": 2}
+			]
+		},
+		{
+			"group": "Sheep It Up",
+			"titles": [
+				{"searchTerm": "Sheep It Up"},
+				{"searchTerm": "Sheep It Up (CatSkull)", "priority": 2},
+				{"searchTerm": "Sheep It Up (Yastuna)", "priority": 3}
 			]
 		},
 		{

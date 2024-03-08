@@ -2300,6 +2300,14 @@
 	"Baphomets Fluch II - Die Spiegel der Finsternis (Germany)": {
 		"languages": ["De"]
 	},
+	"Bar Belyj Medved' - Miss Osen' (Russia) (En,Ru) (Unl)": {
+		"languages": ["En", "Ru"],
+		"localName": "Бар -'Белый Медведь-' - Мисс Осень"
+	},
+	"Bar Belyj Medved' - Miss Zima (Russia) (En,Ru) (Unl)": {
+		"languages": ["En", "Ru"],
+		"localName": "Бар -'Белый Медведь-' - Мисс Зима"
+	},
 	"Barbie - Aventure Equestre (France)": {
 		"languages": ["Fr"]
 	},
@@ -4523,6 +4531,10 @@
 		"localName": "超謎王"
 	},
 	"Chou Sentou Kyuugi Vanborg (Japan)": {
+		"languages": ["Ja"],
+		"localName": "超戦闘球技　ヴァンボーグ"
+	},
+	"Chou Sentou Kyuugi Vanborg (Japan) (Demo)": {
 		"languages": ["Ja"],
 		"localName": "超戦闘球技　ヴァンボーグ"
 	},
@@ -10635,6 +10647,10 @@
 	"Famitsu Wave Soukan-gou Vol. 3 (Japan)": {
 		"languages": ["Ja"]
 	},
+	"Fantastep (Japan)": {
+		"languages": ["Ja"],
+		"localName": "ファンタステップ"
+	},
 	"Fantastic Fortune (Japan)": {
 		"languages": ["Ja"],
 		"localName": "ファンタスティックフォーチュン"
@@ -10652,10 +10668,6 @@
 	"Fantastic Night Dreams - Cotton Original (Japan)": {
 		"languages": ["Ja"],
 		"localName": "コットンオリジナル"
-	},
-	"Fantasy Tap (Japan)": {
-		"languages": ["Ja"],
-		"localName": "ファンタステップ"
 	},
 	"Farland Saga - Toki no Michishirube (Japan)": {
 		"languages": ["Ja"],
@@ -16224,11 +16236,11 @@
 		"languages": ["Ja"],
 		"localName": "キッズステーション　ドラえもん　ひみつのよじげんポケット"
 	},
-	"Kids Station - Gomdoli Pooh Hakseup Series - Gomdoli Pooh Sinnaneun Yuagyosil (Korea)": {
+	"Kids Station - Gomdori Pooh Hakseup Series - Gomdori Pooh Sinnaneun Yuagyosil (Korea)": {
 		"languages": ["Ko"],
-		"localName": "ＫＩＤＳ ＳＴＡＴＩＯＮ 곰돌이 푸 학습 시리즈 곰돌이 푸 신나는 유아교실"
+		"localName": "Kids Station - 곰돌이 푸 학습 시리즈 - 곰돌이 푸 신나는 유아교실"
 	},
-	"Kids Station - Gomdoli Pooh Hakseup Series - Gomdoli Pooh Yuchiwon Hakseubyeohaeng (Korea) (En,Ko)": {
+	"Kids Station - Gomdori Pooh Hakseup Series - Gomdori Pooh Yuchiwon Hakseubyeohaeng (Korea) (En,Ko)": {
 		"languages": ["En", "Ko"],
 		"localName": "Kids Station - 곰돌이 푸 학습 시리즈 - 곰돌이 푸 유치원 학습여행"
 	},
@@ -17653,6 +17665,9 @@
 		"languages": ["De", "En", "Nl"]
 	},
 	"Lemmings & Oh No! More Lemmings (Europe) (En,Fr,De,Es,It)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Lemmings & Oh No! More Lemmings (Europe) (En,Fr,De,Es,It) (Demo)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Lemmings & Oh No! More Lemmings (USA)": {
@@ -22011,10 +22026,7 @@
 	"Ninja - Shadow of Darkness (Europe) (Beta) (1998-08-26)": {
 		"languages": ["En"]
 	},
-	"Ninja - Shadow of Darkness (Europe) (Demo 1)": {
-		"languages": ["En"]
-	},
-	"Ninja - Shadow of Darkness (Europe) (Demo 2)": {
+	"Ninja - Shadow of Darkness (Europe) (Demo)": {
 		"languages": ["En"]
 	},
 	"Ninja - Shadow of Darkness (Europe) (Es,It)": {
@@ -22022,6 +22034,9 @@
 	},
 	"Ninja - Shadow of Darkness (Germany)": {
 		"languages": ["De"]
+	},
+	"Ninja - Shadow of Darkness (UK) (Demo)": {
+		"languages": ["En"]
 	},
 	"Ninja - Shadow of Darkness (USA)": {
 		"languages": ["En"]
@@ -25011,6 +25026,14 @@
 	"Powerslave (USA)": {
 		"languages": ["En"]
 	},
+	"Poxozhdenie Rayany - Mir 3 - Krug sud'by (Russia) (Disc 1) (Unl)": {
+		"languages": ["Ru"],
+		"localName": "Похождение Раяны - Мир 3 - Круг судьбы"
+	},
+	"Poxozhdenie Rayany - Mir 3 - Krug sud'by (Russia) (Disc 2) (Unl)": {
+		"languages": ["Ru"],
+		"localName": "Похождение Раяны - Мир 3 - Круг судьбы"
+	},
 	"Poy Poy (Europe)": {
 		"languages": ["En"]
 	},
@@ -25132,7 +25155,8 @@
 		"languages": ["Es", "It"]
 	},
 	"Pro Foot Contest '98 + Grand Theft Auto + Courier Crisis (France) (En,Fr,De,It)": {
-		"languages": ["De", "En", "Fr", "It"]
+		"languages": ["De", "En", "Fr", "It"],
+		"localName": "pro foot gta crisis"
 	},
 	"Pro Logic Mahjong Haishin (Japan)": {
 		"languages": ["Ja"],
@@ -25812,8 +25836,12 @@
 		"languages": ["En", "Ru"],
 		"localName": "Рандеву с незнакомкой"
 	},
-	"Randevu s neznakomkoj 2 (Russia) (En,Ru) (Disc 1) (Unl)": {
-		"languages": ["En", "Ru"],
+	"Randevu s neznakomkoj 2 (Russia) (Disc 1) (Unl)": {
+		"languages": ["Ru"],
+		"localName": "Рандеву с незнакомкой 2"
+	},
+	"Randevu s neznakomkoj 2 (Russia) (Disc 2) (Unl) (Alt 2)": {
+		"languages": ["Ru"],
 		"localName": "Рандеву с незнакомкой 2"
 	},
 	"Randevu s neznakomkoj 2 (Russia) (En,Ru) (Disc 1) (Unl) (Alt)": {
@@ -25828,9 +25856,13 @@
 		"languages": ["En", "Ru"],
 		"localName": "Рандеву с незнакомкой 2"
 	},
-	"Randevu s neznakomkoj 2 (Russia) (En,Ru) (Disc 2) (Unl) (Alt 2)": {
-		"languages": ["En", "Ru"],
-		"localName": "Рандеву с незнакомкой 2"
+	"Randevu s neznakomkoj 3 - Kurortnyj roman (Russia) (Disc 1) (Unl)": {
+		"languages": ["Ru"],
+		"localName": "Рандеву с незнакомкой 3 - Курортный роман"
+	},
+	"Randevu s neznakomkoj 3 - Kurortnyj roman (Russia) (Disc 2) (Unl)": {
+		"languages": ["Ru"],
+		"localName": "Рандеву с незнакомкой 3 - Курортный роман"
 	},
 	"Ranma 1-2 - Battle Renaissance (Japan)": {
 		"languages": ["Ja"],
@@ -27433,6 +27465,14 @@
 	"Satomi no Nazo (Japan)": {
 		"languages": ["Ja"],
 		"localName": "里見の謎"
+	},
+	"Sbornik e'roticheskix igr - Special'naya redakciya (Russia) (Disc 1) (Unl)": {
+		"languages": ["Ru"],
+		"localName": "Сборник эротических игр - Специальная редакция"
+	},
+	"Sbornik e'roticheskix igr - Special'naya redakciya (Russia) (Disc 2) (Unl)": {
+		"languages": ["Ru"],
+		"localName": "Сборник эротических игр - Специальная редакция"
 	},
 	"Schnappi - Das kleine Krokodil - 3 Fun-Games (Germany)": {
 		"languages": ["De"]
@@ -30388,8 +30428,9 @@
 	"Station Demo Disc 9 (Europe)": {
 		"languages": ["En"]
 	},
-	"StationMaster 02-2001 Xploder (Germany) (En,De) (Unl)": {
-		"languages": ["De", "En"]
+	"StationMaster 02-2001 Xploder (Europe) (En,De) (Unl)": {
+		"languages": ["De", "En"],
+		"localName": "Playnation Xploder Blaze"
 	},
 	"StationMaster 03-2001 Xploder (Germany) (En,De) (Unl)": {
 		"languages": ["De", "En"]
@@ -30726,6 +30767,10 @@
 		"languages": ["En"],
 		"localName": "스트라이커즈 1945 II"
 	},
+	"Striptiz-klub Golodnaya Koshka predstavlyaet Okean Strastej... - Miss Osen' (Russia) (En,Ru) (Unl)": {
+		"languages": ["En", "Ru"],
+		"localName": "Стриптиз-клуб Голодная Кошка представляет Океан Страстей... - Мисс Осень"
+	},
 	"Stuart Little 2 (Denmark)": {
 		"languages": ["Da"]
 	},
@@ -30944,11 +30989,11 @@
 	},
 	"Super Lite Best Vol. 1 - Cotton Original & Block Keeper (Korea)": {
 		"languages": ["Ko"],
-		"localName": "수퍼　라이트　베스트　Ｖｏｌ．１　코튼　오리지널　＆　블록　키퍼"
+		"localName": "수퍼 라이트 베스트 Vol. 1 - 코튼 오리지널 ＆ 블록 키퍼"
 	},
 	"Super Lite Best Vol. 2 - Sanvein & Bomb Boat (Korea) (En,Ko)": {
 		"languages": ["En", "Ko"],
-		"localName": "수퍼　라이트　베스트　Ｖｏｌ．２　잔파인　＆　봄보트"
+		"localName": "수퍼 라이트 베스트 Vol. 2 - 잔파인 ＆ 봄보트"
 	},
 	"Super Live Stadium (Japan)": {
 		"languages": ["Ja"],
@@ -31224,7 +31269,7 @@
 	},
 	"SuperLite 1500 Series - Kaette kita Pachio-kun - Dream Collection (Japan)": {
 		"languages": ["Ja"],
-		"localName": "ＳｕｐｅｒＬｉｔｅ　１５００　シリーズ　帰ってきたパチ夫くん　ＤＲＥＡＭ　ＣＯＬＬＥＣＴＩＯＮ"
+		"localName": "ＳｕｐｅｒＬｉｔｅ １５００ シリーズ 帰ってきたパチ夫くん ＤＲＥＡＭ ＣＯＬＬＥＣＴＩＯＮ"
 	},
 	"SuperLite 1500 Series - Kaiteiban Mark Yazaki no Seiyou Senseijutsu (Japan)": {
 		"languages": ["Ja"],
@@ -31883,6 +31928,9 @@
 	"TOCA Touring Car Championship (Japan)": {
 		"languages": ["En"],
 		"localName": "トカ・ツーリング・カー・チャンピオンシップ"
+	},
+	"TOCA Touring Car Championship (Japan) (Demo)": {
+		"languages": ["En"]
 	},
 	"TOCA World Touring Cars (Europe) (En,Fr,De)": {
 		"languages": ["De", "En", "Fr"]

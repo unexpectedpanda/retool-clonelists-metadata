@@ -387,7 +387,7 @@
 	"Assassin's Creed - Brotherhood (USA, Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da)": {
 		"languages": ["Da", "De", "En", "Es", "Fr", "It", "Nl", "No", "Pt", "Sv"]
 	},
-	"Assassin's Creed - Revelations (Europe) (En,Pl,Ru)": {
+	"Assassin's Creed - Revelations (Europe, Australia) (En,Pl,Ru)": {
 		"languages": ["En", "Pl", "Ru"]
 	},
 	"Assassin's Creed - Revelations (Japan)": {
@@ -501,10 +501,10 @@
 		"languages": [],
 		"localName": "アサシン　クリード４　ブラック　フラッグ，　어쌔신　크리드　４　－　블랙　플래그"
 	},
-	"Assassin's Creed IV - Black Flag (UK) (Disc 1)": {
+	"Assassin's Creed IV - Black Flag (UK, Australia) (Disc 1)": {
 		"languages": ["En"]
 	},
-	"Assassin's Creed IV - Black Flag (UK) (Disc 2)": {
+	"Assassin's Creed IV - Black Flag (UK, Australia) (Disc 2)": {
 		"languages": ["En"]
 	},
 	"Assassin's Creed IV - Black Flag (USA, Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi) (Disc 1)": {
@@ -654,8 +654,8 @@
 	"Battlefield - Bad Company 2 (Europe) (En,Ja,Fr,De,Es,It,Pl,Ru) (Limited Edition)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Pl", "Ru"]
 	},
-	"Battlefield - Bad Company 2 (Japan)": {
-		"languages": [],
+	"Battlefield - Bad Company 2 (Japan) (En,Ja,Fr,De,Es,It,Pl,Ru)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Pl", "Ru"],
 		"localName": "バトルフィールド：バッドカンパニー２"
 	},
 	"Battlefield - Bad Company 2 (USA) (En,Fr) (Limited Edition)": {
@@ -745,7 +745,7 @@
 	"Bayonetta (USA, Europe) (En,Ja,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja"]
 	},
-	"Beatles, The - Rock Band (USA, Europe)": {
+	"Beatles, The - Rock Band (World)": {
 		"languages": []
 	},
 	"Beatles, The - Rock Band + Rock Band 2 (USA) (Demo)": {
@@ -1045,7 +1045,7 @@
 		"languages": [],
 		"localName": "ボーダーランズ"
 	},
-	"Borderlands (USA, Europe) (En,Fr,De,Es,It)": {
+	"Borderlands (World) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Borderlands - Add-On Doppelpack (Germany)": {
@@ -1094,11 +1094,11 @@
 		"languages": ["En", "Es", "Fr"],
 		"localName": "邊緣戰士 - 브링크"
 	},
-	"Brink (Europe)": {
-		"languages": ["En"]
-	},
 	"Brink (Europe) (Fr,De,Es,It)": {
 		"languages": ["De", "Es", "Fr", "It"]
+	},
+	"Brink (Europe, Australia)": {
+		"languages": ["En"]
 	},
 	"Brink (USA)": {
 		"languages": []
@@ -2061,8 +2061,8 @@
 	"Dead Rising (USA) (Rev 1)": {
 		"languages": ["En"]
 	},
-	"Dead Rising 2 (USA) (Zombrex Edition Bonus Disc)": {
-		"languages": []
+	"Dead Rising 2 (USA) (En,Fr) (Zombrex Edition Bonus Disc)": {
+		"languages": ["En", "Fr"]
 	},
 	"Dead Rising 2 (World) (En,Ja,Fr,Es,It,Ko)": {
 		"languages": ["En", "Es", "Fr", "It", "Ja", "Ko"]
@@ -2244,7 +2244,7 @@
 		"languages": ["Ja"],
 		"localName": "電脳戦機バーチャロン　フォース"
 	},
-	"Destiny (USA, Europe)": {
+	"Destiny (World)": {
 		"languages": []
 	},
 	"Destroy All Humans! Path of the Furon (Europe)": {
@@ -2268,7 +2268,7 @@
 	"Deus Ex - Human Revolution (Spain)": {
 		"languages": ["Es"]
 	},
-	"Deus Ex - Human Revolution (USA, Europe)": {
+	"Deus Ex - Human Revolution (World)": {
 		"languages": ["En"]
 	},
 	"Deus Ex - Human Revolution - Director's Cut (USA, Europe) (En,Fr,De,Es,It) (Disc 1)": {
@@ -2313,11 +2313,11 @@
 	"DiRT Showdown (USA, Europe)": {
 		"languages": []
 	},
-	"Diablo III (Australia) (En,Fr)": {
-		"languages": ["En", "Fr"]
-	},
 	"Diablo III (Brazil) (Es,Pt)": {
 		"languages": ["Es", "Pt"]
+	},
+	"Diablo III (Europe, Australia) (En,Fr)": {
+		"languages": ["En", "Fr"]
 	},
 	"Diablo III (Germany) (En,De)": {
 		"languages": ["De", "En"]
@@ -2485,8 +2485,8 @@
 		"languages": ["Pl", "Ru"],
 		"localName": "Disney-Pixar Храбрая сердцем"
 	},
-	"Disney-Pixar Brave (USA)": {
-		"languages": []
+	"Disney-Pixar Brave (USA, Australia) (En,Fr,Es)": {
+		"languages": ["En", "Es", "Fr"]
 	},
 	"Disney-Pixar Cars (Europe) (En,Es,It)": {
 		"languages": ["En", "Es", "It"]
@@ -2617,11 +2617,11 @@
 	},
 	"DoDonPachi Daifukkatsu Black Label (Japan)": {
 		"languages": ["Ja"],
-		"localName": "怒首領蜂　大復活　ブラックレーベル"
+		"localName": "怒首領蜂 大復活 ブラックレーベル"
 	},
 	"DoDonPachi Daifukkatsu Ver 1.5 (Japan)": {
 		"languages": ["Ja"],
-		"localName": "怒首領蜂　大復活　ｖｅｒ　１．５"
+		"localName": "怒首領蜂 大復活 ｖｅｒ １．５"
 	},
 	"DoDonPachi Resurrection (Europe)": {
 		"languages": []
@@ -2659,10 +2659,10 @@
 		"languages": [],
 		"localName": "ドラゴンエイジ：インクイジション"
 	},
-	"Dragon Age - Inquisition (USA, Europe) (Disc 1)": {
+	"Dragon Age - Inquisition (World) (Disc 1)": {
 		"languages": []
 	},
-	"Dragon Age - Inquisition (USA, Europe) (Disc 2)": {
+	"Dragon Age - Inquisition (World) (Disc 2)": {
 		"languages": []
 	},
 	"Dragon Age - Nachalo (Russia)": {
@@ -2680,7 +2680,7 @@
 		"languages": [],
 		"localName": "ドラゴンエイジ：オリジンズ"
 	},
-	"Dragon Age - Origins (USA, Europe) (En,Es,It)": {
+	"Dragon Age - Origins (World) (En,Es,It)": {
 		"languages": ["En", "Es", "It"]
 	},
 	"Dragon Age - Origins - Awakening (Japan)": {
@@ -2696,7 +2696,7 @@
 	"Dragon Age - Origins - Ultimate Edition (USA) (Disc 2) (Additional Content Packs Install Disc)": {
 		"languages": []
 	},
-	"Dragon Age II (Europe) (En,Fr,De,Es,It,Pl,Ru)": {
+	"Dragon Age II (Europe, Australia) (En,Fr,De,Es,It,Pl,Ru)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Pl", "Ru"]
 	},
 	"Dragon Age II (USA)": {
@@ -2762,10 +2762,10 @@
 	"Dragon's Dogma (World)": {
 		"languages": []
 	},
-	"Dragon's Dogma - Dark Arisen (World) (Game Disc)": {
+	"Dragon's Dogma - Dark Arisen (World) (Disc 1) (Game Disc)": {
 		"languages": []
 	},
-	"Dragon's Dogma - Dark Arisen (World) (Install Disc)": {
+	"Dragon's Dogma - Dark Arisen (World) (Disc 2) (Install Disc)": {
 		"languages": []
 	},
 	"Dream C Club (Japan)": {
@@ -2864,7 +2864,7 @@
 		"languages": ["Ja"],
 		"localName": "ドライバー：サンフランシスコ"
 	},
-	"Driver - San Francisco (USA, Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)": {
+	"Driver - San Francisco (World) (En,Fr,De,Es,It,Nl,Sv,No,Da)": {
 		"languages": ["Da", "De", "En", "Es", "Fr", "It", "Nl", "No", "Sv"]
 	},
 	"Duck Dynasty (USA)": {
@@ -3123,7 +3123,7 @@
 	},
 	"Espgaluda II Black Label (Japan)": {
 		"languages": ["Ja"],
-		"localName": "エスプガルーダＩＩ　ブラックレーベル"
+		"localName": "エスプガルーダⅡ ブラックレーベル"
 	},
 	"Espgaluda II Black Label (Japan) (Shokai Genteiban)": {
 		"languages": ["Ja"],
@@ -3992,12 +3992,12 @@
 	"Football Manager 2008 (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Forza Horizon (Asia) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru)": {
-		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Ko", "Pl", "Pt", "Ru", "Zh"],
-		"localName": "極限競速・地平線"
-	},
 	"Forza Horizon (Europe) (En,Fr,De,Es,It,Nl)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
+	},
+	"Forza Horizon (Europe, Asia) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Ko", "Pl", "Pt", "Ru", "Zh"],
+		"localName": "極限競速・地平線"
 	},
 	"Forza Horizon (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Pl,Ru)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Pl", "Pt", "Ru", "Zh"]
@@ -4053,16 +4053,16 @@
 	"Forza Motorsport 3 - Ultimate Collection (USA) (Disc 2) (Content Install Disc)": {
 		"languages": []
 	},
-	"Forza Motorsport 4 (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru,Cs,Hu) (Disc 1) (Play Disc)": {
-		"languages": ["Cs", "De", "En", "Es", "Fr", "Hu", "It", "Ja", "Ko", "Nl", "Pl", "Pt", "Ru", "Zh"]
-	},
 	"Forza Motorsport 4 (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru,Cs,Hu) (Disc 1) (Play Disc) (Rev 1)": {
 		"languages": ["Cs", "De", "En", "Es", "Fr", "Hu", "It", "Ja", "Ko", "Nl", "Pl", "Pt", "Ru", "Zh"]
 	},
-	"Forza Motorsport 4 (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru,Cs,Hu) (Disc 2) (Content Install Disc)": {
+	"Forza Motorsport 4 (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru,Cs,Hu) (Disc 2) (Content Install Disc) (Rev 1)": {
 		"languages": ["Cs", "De", "En", "Es", "Fr", "Hu", "It", "Ja", "Ko", "Nl", "Pl", "Pt", "Ru", "Zh"]
 	},
-	"Forza Motorsport 4 (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru,Cs,Hu) (Disc 2) (Content Install Disc) (Rev 1)": {
+	"Forza Motorsport 4 (Europe, Australia) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru,Cs,Hu) (Disc 1) (Play Disc)": {
+		"languages": ["Cs", "De", "En", "Es", "Fr", "Hu", "It", "Ja", "Ko", "Nl", "Pl", "Pt", "Ru", "Zh"]
+	},
+	"Forza Motorsport 4 (Europe, Australia) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru,Cs,Hu) (Disc 2) (Content Install Disc)": {
 		"languages": ["Cs", "De", "En", "Es", "Fr", "Hu", "It", "Ja", "Ko", "Nl", "Pl", "Pt", "Ru", "Zh"]
 	},
 	"Forza Motorsport 4 (Japan) (Disc 1) (Play Disc)": {
@@ -4128,11 +4128,11 @@
 		"languages": ["Ja"],
 		"localName": "ぎゃる☆がん"
 	},
-	"Game Demos - Just for Fun! (USA, Brazil)": {
-		"languages": []
-	},
 	"Game Demos - Just for Fun! (World)": {
 		"languages": []
+	},
+	"Game Demos - Just for Fun! (World) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Ko", "Pl", "Ru", "Zh"]
 	},
 	"Game Party - In Motion (USA, Europe)": {
 		"languages": []
@@ -4273,16 +4273,16 @@
 		"languages": ["Ja"],
 		"localName": "グランド・セフト・オート：　エピソード・フロム・リバティーシティ"
 	},
-	"Grand Theft Auto - Episodes from Liberty City (USA, Europe) (En,Fr,De,Es,It)": {
+	"Grand Theft Auto - Episodes from Liberty City (World) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Grand Theft Auto - San Andreas (USA) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Grand Theft Auto IV (Australia)": {
-		"languages": []
+	"Grand Theft Auto IV (Australia) (En,Fr,De,Es,It)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Grand Theft Auto IV (Europe) (En,Fr,De,Es,It)": {
+	"Grand Theft Auto IV (Europe, Asia) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Grand Theft Auto IV (Japan)": {
@@ -4545,7 +4545,7 @@
 	"Halo 4 (Spain) (En,Ja,Fr,De,Es,It,Nl,Pt,No,Da,Fi,Zh,Ko,Pl,Ru) (Disc 1)": {
 		"languages": ["Da", "De", "En", "Es", "Fi", "Fr", "It", "Ja", "Ko", "Nl", "No", "Pl", "Pt", "Ru", "Zh"]
 	},
-	"Halo 4 (USA, Europe) (En,Ja,Fr,De,Es,It,Nl,Pt,No,Da,Fi,Zh,Ko,Pl,Ru) (Disc 1)": {
+	"Halo 4 (World) (En,Ja,Fr,De,Es,It,Nl,Pt,No,Da,Fi,Zh,Ko,Pl,Ru) (Disc 1)": {
 		"languages": ["Da", "De", "En", "Es", "Fi", "Fr", "It", "Ja", "Ko", "Nl", "No", "Pl", "Pt", "Ru", "Zh"]
 	},
 	"Halo 4 (World) (En,Ja,Fr,De,Es,It,Nl,Pt,No,Da,Fi,Zh,Ko,Pl,Ru) (Disc 2)": {
@@ -4554,7 +4554,7 @@
 	"Halo Wars (Europe)": {
 		"languages": ["En"]
 	},
-	"Halo Wars (Europe) (En,Es,Pl,Cs,Hu)": {
+	"Halo Wars (Europe, Australia) (En,Es,Pl,Cs,Hu)": {
 		"languages": ["Cs", "En", "Es", "Hu", "Pl"]
 	},
 	"Halo Wars (Germany)": {
@@ -4735,8 +4735,8 @@
 	"Hulk Hogan's Main Event (USA)": {
 		"languages": []
 	},
-	"Hunted - The Demon's Forge (Europe)": {
-		"languages": []
+	"Hunted - The Demon's Forge (Europe, Australia)": {
+		"languages": ["En"]
 	},
 	"Hunted - The Demon's Forge (USA)": {
 		"languages": []
@@ -5086,8 +5086,8 @@
 	"Kinect Nat Geo TV - America the Wild (USA) (Disc 2) (Volume 2)": {
 		"languages": []
 	},
-	"Kinect Rush - A Disney-Pixar Adventure (USA)": {
-		"languages": []
+	"Kinect Rush - A Disney-Pixar Adventure (USA, Australia) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Ko", "Pl", "Ru", "Zh"]
 	},
 	"Kinect Sesame Street TV (World) (Volume 1 - Growing Up)": {
 		"languages": ["En"]
@@ -5114,7 +5114,7 @@
 	"Kinect Star Wars (USA)": {
 		"languages": []
 	},
-	"Kinectimals (USA, Europe) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru)": {
+	"Kinectimals (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Ko", "Nl", "Pl", "Pt", "Ru", "Zh"]
 	},
 	"Kinectimals - Now with Bears! (USA, Europe)": {
@@ -5217,7 +5217,7 @@
 	"LEGO Harry Potter - Years 1-4 (USA, Europe) (En,Fr,De,Es,It,Da)": {
 		"languages": ["Da", "De", "En", "Es", "Fr", "It"]
 	},
-	"LEGO Harry Potter - Years 5-7 (USA) (En,Fr,De,Es,It,Nl,Pt,Da)": {
+	"LEGO Harry Potter - Years 5-7 (USA, Europe) (En,Fr,De,Es,It,Nl,Pt,Da)": {
 		"languages": ["Da", "De", "En", "Es", "Fr", "It", "Nl", "Pt"]
 	},
 	"LEGO Indiana Jones - The Original Adventures (USA, Europe) (En,Fr,De,Es,It,Da)": {
@@ -5354,6 +5354,9 @@
 		"localName": "ライトニング　リターンズ　ファイナルファンタジーⅩⅢ"
 	},
 	"Lightning Returns - Final Fantasy XIII (USA)": {
+		"languages": []
+	},
+	"Lips (Australia)": {
 		"languages": []
 	},
 	"Lips (Europe) (En,Fr,De,Es,It,Pl,Ru)": {
@@ -5777,11 +5780,11 @@
 	"Mass Effect (USA) (En,Fr,De,Es,It,Pt,Pl) (Bonus Content Disc)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Pl", "Pt"]
 	},
-	"Mass Effect (USA, Europe) (En,Es)": {
-		"languages": ["En", "Es"]
-	},
 	"Mass Effect (USA, Europe) (En,Fr,De,Es,It,Pt,Pl) (Bonus Content Disc) (Rerelease)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Pl", "Pt"]
+	},
+	"Mass Effect (World) (En,Es)": {
+		"languages": ["En", "Es"]
 	},
 	"Mass Effect 2 (Canada) (Disque 1)": {
 		"languages": ["Fr"]
@@ -6212,11 +6215,11 @@
 		"languages": [],
 		"localName": "マーダード　魂の呼ぶ声"
 	},
-	"Mushi-hime-sama Futari Ver 1.5 (Japan)": {
+	"Mushihimesama Futari Ver 1.5 (Japan)": {
 		"languages": ["Ja"],
-		"localName": "虫姫さまふたり　Ｖｅｒ　１．５"
+		"localName": "虫姫さまふたり ｖｅｒ １．５"
 	},
-	"Mushihime-sama HD (Japan)": {
+	"Mushihimesama HD (Japan)": {
 		"languages": ["Ja"],
 		"localName": "虫姫さま"
 	},
@@ -7664,6 +7667,9 @@
 	"Rage (Russia) (Disc 2)": {
 		"languages": []
 	},
+	"Rage (Russia) (Disc 3)": {
+		"languages": []
+	},
 	"Rage (USA) (Disc 1)": {
 		"languages": []
 	},
@@ -8197,7 +8203,7 @@
 	"Sega Rally Revo (USA, Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Sega Superstars Tennis (USA, Europe) (En,Fr,De,Es,It)": {
+	"Sega Superstars Tennis (World) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Sengoku Musou 2 (Japan)": {
@@ -8516,7 +8522,7 @@
 	"Sniper - Ghost Warrior (Germany)": {
 		"languages": []
 	},
-	"Sniper - Ghost Warrior (USA) (En,Fr,De,Es,It)": {
+	"Sniper - Ghost Warrior (USA, Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Sniper - Ghost Warrior 2 (USA, Europe)": {
@@ -8555,7 +8561,7 @@
 	"Sonic Free Riders (USA, Europe) (En,Ja,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja"]
 	},
-	"Sonic Generations (USA, Europe)": {
+	"Sonic Generations (World)": {
 		"languages": []
 	},
 	"Sonic Unleashed (Europe) (En,Ja,Fr,De,Es,It)": {
@@ -8758,6 +8764,9 @@
 	},
 	"Street Fighter IV (World) (En,Ja,Fr,De,Es,It,Ko)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Ko"]
+	},
+	"Street Fighter IV - The Ties That Bind (USA) (En,Fr,De,Es,It) (Bonus Disc) (Xbox 360 Game Bundle)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Street Fighter X Tekken (World)": {
 		"languages": []
@@ -9274,7 +9283,7 @@
 	"Transformers - Dark of the Moon (USA) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Transformers - Devastation (USA) (En,Fr,De,Es,It)": {
+	"Transformers - Devastation (USA, Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Transformers - Die Rache (Germany)": {
@@ -9355,7 +9364,7 @@
 		"languages": []
 	},
 	"Truth or Lies (USA)": {
-		"languages": []
+		"languages": ["En"]
 	},
 	"Tsurugi no Machi no Ihoujin - Shiro no Oukyuu (Japan)": {
 		"languages": ["Ja"],
@@ -9859,16 +9868,16 @@
 		"languages": [],
 		"localName": "ウルフェンシュタイン　ザ　ニューオーダー"
 	},
-	"Wolfenstein - The New Order (USA, Brazil) (En,Fr,Es,It,Pl,Ru) (Disc 1)": {
+	"Wolfenstein - The New Order (World) (En,Fr,Es,It,Pl,Ru) (Disc 1)": {
 		"languages": ["En", "Es", "Fr", "It", "Pl", "Ru"]
 	},
-	"Wolfenstein - The New Order (USA, Brazil) (En,Fr,Es,It,Pl,Ru) (Disc 2)": {
+	"Wolfenstein - The New Order (World) (En,Fr,Es,It,Pl,Ru) (Disc 2)": {
 		"languages": ["En", "Es", "Fr", "It", "Pl", "Ru"]
 	},
-	"Wolfenstein - The New Order (USA, Brazil) (En,Fr,Es,It,Pl,Ru) (Disc 3)": {
+	"Wolfenstein - The New Order (World) (En,Fr,Es,It,Pl,Ru) (Disc 3)": {
 		"languages": ["En", "Es", "Fr", "It", "Pl", "Ru"]
 	},
-	"Wolfenstein - The New Order (USA, Brazil) (En,Fr,Es,It,Pl,Ru) (Disc 4)": {
+	"Wolfenstein - The New Order (World) (En,Fr,Es,It,Pl,Ru) (Disc 4)": {
 		"languages": ["En", "Es", "Fr", "It", "Pl", "Ru"]
 	},
 	"World Championship Poker 2 - All In (Europe)": {
@@ -10379,7 +10388,7 @@
 		"languages": [],
 		"localName": "Ｘｂｏｘ　Ｌｉｖｅ　アーケード　オムニバス　ディスク"
 	},
-	"Xbox Live Arcade (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru)": {
+	"Xbox Live Arcade (World) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Ko", "Pl", "Pt", "Ru", "Zh"]
 	},
 	"Xbox Live Arcade Game Pack (USA)": {

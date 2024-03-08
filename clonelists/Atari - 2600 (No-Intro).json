@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Atari - 2600 (No-Intro)",
-		"lastUpdated": "10 February 2023",
+		"lastUpdated": "09 March 2023",
 		"minimumVersion": "2.02"
 	},
 
@@ -146,7 +146,9 @@
 			"group": "Forest",
 			"titles": [
 				{"searchTerm": "Forest (Two Player)"},
-				{"searchTerm": "Forest (One Player)", "priority": 2}
+				{"searchTerm": "Forest (Two Player) (Muted)", "priority": 2},
+				{"searchTerm": "Forest (One Player)", "priority": 3},
+				{"searchTerm": "Forest (One Player) (Muted)", "priority": 4}
 			]
 		},
 		{
@@ -206,6 +208,13 @@
 			]
 		},
 		{
+			"group": "Maze Craze - A Game of Cops 'n Robbers ~ Maze Mania - A Game of Cops 'n Robbers",
+			"titles": [
+				{"searchTerm": "Labyrinth"},
+				{"searchTerm": "Maze Craze - A Game of Cops 'n Robbers ~ Maze Mania - A Game of Cops 'n Robbers"}
+			]
+		},
+		{
 			"group": "Missile War ~ Astro War",
 			"titles": [
 				{"searchTerm": "Astrowar"},
@@ -260,6 +269,7 @@
 		{
 			"group": "Sea Hawk",
 			"titles": [
+				{"searchTerm": "Marineflieger"},
 				{"searchTerm": "Sea Hawk"},
 				{"searchTerm": "Seahawk"}
 			]

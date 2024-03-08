@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Nintendo - Nintendo Entertainment System (No-Intro)",
-		"lastUpdated": "10 February 2024",
+		"lastUpdated": "09 March 2024",
 		"minimumVersion": "2.02"
 	},
 
@@ -837,6 +837,13 @@
 			]
 		},
 		{
+			"group": "Cat Ninden Teyandee",
+			"titles": [
+				{"searchTerm": "Cat Ninden Teyandee"},
+				{"searchTerm": "Super Ninja Cat (VT3096)"}
+			]
+		},
+		{
 			"group": "Challenge of the Dragon",
 			"titles": [
 				{"searchTerm": "Challenge of the Dragon"},
@@ -1029,8 +1036,10 @@
 		{
 			"group": "Cold & Starving",
 			"titles": [
-				{"searchTerm": "Cold & Starving (Update #18)"},
-				{"searchTerm": "Cold & Starving (Update #17)", "priority": 2}
+				{"searchTerm": "Cold & Starving (Update #20)"},
+				{"searchTerm": "Cold & Starving (Update #19)", "priority": 2},
+				{"searchTerm": "Cold & Starving (Update #18)", "priority": 3},
+				{"searchTerm": "Cold & Starving (Update #17)", "priority": 4}
 			]
 		},
 		{
@@ -4815,7 +4824,8 @@
 			"group": "Super Dodge Ball",
 			"titles": [
 				{"searchTerm": "Nekketsu Koukou Dodgeball-bu"},
-				{"searchTerm": "Super Dodge Ball"}
+				{"searchTerm": "Super Dodge Ball"},
+				{"searchTerm": "Dodge Ball Fighters 96", "priority": 2}
 			]
 		},
 		{
