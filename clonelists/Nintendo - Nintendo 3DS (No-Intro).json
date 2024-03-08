@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Nintendo - Nintendo 3DS (No-Intro)",
-		"lastUpdated": "10 February 2024",
+		"lastUpdated": "09 March 2024",
 		"minimumVersion": "2.02"
 	},
 
@@ -25,6 +25,9 @@
 			"titles": [
 				{"searchTerm": "Ace Combat - Assault Horizon Legacy"},
 				{"searchTerm": "Ace Combat 3D - Cross Rumble"}
+			],
+			"supersets": [
+				{"searchTerm": "Ace Combat - Assault Horizon Legacy+"}
 			]
 		},
 		{
@@ -76,6 +79,9 @@
 				{"searchTerm": "Animal Crossing - New Leaf"},
 				{"searchTerm": "Tobidase Doubutsu no Mori"},
 				{"searchTerm": "Twieonawayo Dongmul-ui Sup"}
+			],
+			"supersets": [
+				{"searchTerm": "Animal Crossing - New Leaf - Welcome Amiibo"}
 			]
 		},
 		{
@@ -116,6 +122,13 @@
 			]
 		},
 		{
+			"group": "Beyblade - Evolution",
+			"titles": [
+				{"searchTerm": "Beyblade - Evolution"},
+				{"searchTerm": "Metal Fight Beyblade 4D x ZEROG Ultimate Tournament"}
+			]
+		},
+		{
 			"group": "Brain Age - Concentration Training",
 			"titles": [
 				{"searchTerm": "Brain Age - Concentration Training"},
@@ -129,6 +142,9 @@
 			"titles": [
 				{"searchTerm": "Big Hero 6 - Battle in the Bay"},
 				{"searchTerm": "Disney Baymax - Heroes Battle"}
+			],
+			"compilations": [
+				{"searchTerm": "Disney 2-Pack - Frozen - Olaf's Quest + Big Hero 6 - Battle in the Bay"}
 			]
 		},
 		{
@@ -142,7 +158,8 @@
 			"group": "Bravely Default",
 			"titles": [
 				{"searchTerm": "Bravely Default"},
-				{"searchTerm": "Bravely Default - For the Sequel"}
+				{"searchTerm": "Bravely Default - For the Sequel"},
+				{"searchTerm": "Bravely Default - Flying Fairy", "priority": 2}
 			]
 		},
 		{
@@ -227,6 +244,15 @@
 			]
 		},
 		{
+			"group": "Croods, The - Prehistoric Party!",
+			"titles": [
+				{"searchTerm": "Croods, The - Prehistoric Party!"}
+			],
+			"compilations": [
+				{"searchTerm": "Combo Pack - Madagascar 3 - Europe's Most Wanted + Croods, The - Prehistoric Party!"}
+			]
+		},
+		{
 			"group": "Crush 3D",
 			"titles": [
 				{"searchTerm": "Crush 3D"},
@@ -267,6 +293,9 @@
 			"titles": [
 				{"searchTerm": "Disney Anna to Yuki no Joou - Olaf no Okurimono"},
 				{"searchTerm": "Disney Frozen - Olaf's Quest"}
+			],
+			"compilations": [
+				{"searchTerm": "Disney 2-Pack - Frozen - Olaf's Quest + Big Hero 6 - Battle in the Bay"}
 			]
 		},
 		{
@@ -877,6 +906,15 @@
 			]
 		},
 		{
+			"group": "Life with Horses 3D",
+			"titles": [
+				{"searchTerm": "Life with Horses 3D"}
+			],
+			"compilations": [
+				{"searchTerm": "2in1 - Life with Horses 3D + My Baby Pet Hotel 3D"}
+			]
+		},
+		{
 			"group": "Lord of Magna - Maiden Heaven",
 			"titles": [
 				{"searchTerm": "Kinki no Magna"},
@@ -913,6 +951,9 @@
 				{"searchTerm": "Madagascar 3"},
 				{"searchTerm": "Madagascar 3 - Europe's Most Wanted"},
 				{"searchTerm": "Madagascar 3 - The Video Game"}
+			],
+			"compilations": [
+				{"searchTerm": "Combo Pack - Madagascar 3 - Europe's Most Wanted + Croods, The - Prehistoric Party!"}
 			]
 		},
 		{
@@ -1015,6 +1056,44 @@
 			"titles": [
 				{"searchTerm": "Monster Hunter Generations"},
 				{"searchTerm": "Monster Hunter X"}
+			]
+		},
+		{
+			"group": "My Baby Pet Hotel 3D",
+			"titles": [
+				{"searchTerm": "My Baby Pet Hotel 3D"}
+			],
+			"compilations": [
+				{"searchTerm": "2in1 - Life with Horses 3D + My Baby Pet Hotel 3D"},
+				{"searchTerm": "2in1 - My Vet Practice 3D - In the Country + My Baby Pet Hotel 3D"}
+			]
+		},
+		{
+			"group": "My Riding Stables 3D - Jumping for the Team",
+			"titles": [
+				{"searchTerm": "My Riding Stables 3D - Jumping for the Team"}
+			],
+			"compilations": [
+				{"searchTerm": "2in1 Horses 3D Vol.3 - My Riding Stables 3D - Jumping for the Team and My Western Horse 3D"},
+				{"searchTerm": "2in1 Horses 3D Vol.2 - Rivals in the Saddle and Jumping for the Team 3D"}
+			]
+		},
+		{
+			"group": "My Vet Practice 3D - In the Country",
+			"titles": [
+				{"searchTerm": "My Vet Practice 3D - In the Country"}
+			],
+			"compilations": [
+				{"searchTerm": "2in1 - My Vet Practice 3D - In the Country + My Baby Pet Hotel 3D"}
+			]
+		},
+		{
+			"group": "My Western Horse 3D",
+			"titles": [
+				{"searchTerm": "My Western Horse 3D"}
+			],
+			"compilations": [
+				{"searchTerm": "2in1 Horses 3D Vol.3 - My Riding Stables 3D - Jumping for the Team and My Western Horse 3D"}
 			]
 		},
 		{
@@ -1362,6 +1441,10 @@
 			"titles": [
 				{"searchTerm": "Riding Stables 3D - Rivals in the Saddle"},
 				{"searchTerm": "Riding Stables 3D", "priority": 2}
+			],
+			"compilations": [
+				{"searchTerm": "2in1 Horses 3D - My Foal 3D + My Riding Stables 3D - Rivals in the Saddle"},
+				{"searchTerm": "2in1 Horses 3D Vol.2 - Rivals in the Saddle and Jumping for the Team 3D"}
 			]
 		},
 		{
@@ -1610,6 +1693,13 @@
 			]
 		},
 		{
+			"group": "TOEIC Test - Chousoku Training",
+			"categories": ["Educational"],
+			"titles": [
+				{"searchTerm": "TOEIC Test - Chousoku Training"}
+			]
+		},
+		{
 			"group": "Tomodachi Life",
 			"titles": [
 				{"searchTerm": "Chin-gumoa Apateu"},
@@ -1644,6 +1734,9 @@
 			"titles": [
 				{"searchTerm": "Whitakers Present, The - Milton & Friends 3D"},
 				{"searchTerm": "My Foal 3D", "priority": 2}
+			],
+			"compilations": [
+				{"searchTerm": "2in1 Horses 3D - My Foal 3D + My Riding Stables 3D - Rivals in the Saddle"}
 			]
 		},
 		{
