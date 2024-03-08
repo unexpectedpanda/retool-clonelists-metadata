@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Nintendo - Nintendo 3DS (No-Intro)",
-		"lastUpdated": "27 February 2024",
+		"lastUpdated": "09 March 2024",
 		"minimumVersion": "2.02"
 	},
 
@@ -158,8 +158,8 @@
 			"group": "Bravely Default",
 			"titles": [
 				{"searchTerm": "Bravely Default"},
-				{"searchTerm": "Bravely Default - Flying Fairy", "priority": 2},
 				{"searchTerm": "Bravely Default - For the Sequel"},
+				{"searchTerm": "Bravely Default - Flying Fairy", "priority": 2}
 			]
 		},
 		{
@@ -1064,7 +1064,36 @@
 				{"searchTerm": "My Baby Pet Hotel 3D"}
 			],
 			"compilations": [
-				{"searchTerm": "2in1 - Life with Horses 3D + My Baby Pet Hotel 3D"}
+				{"searchTerm": "2in1 - Life with Horses 3D + My Baby Pet Hotel 3D"},
+				{"searchTerm": "2in1 - My Vet Practice 3D - In the Country + My Baby Pet Hotel 3D"}
+			]
+		},
+		{
+			"group": "My Riding Stables 3D - Jumping for the Team",
+			"titles": [
+				{"searchTerm": "My Riding Stables 3D - Jumping for the Team"}
+			],
+			"compilations": [
+				{"searchTerm": "2in1 Horses 3D Vol.3 - My Riding Stables 3D - Jumping for the Team and My Western Horse 3D"},
+				{"searchTerm": "2in1 Horses 3D Vol.2 - Rivals in the Saddle and Jumping for the Team 3D"}
+			]
+		},
+		{
+			"group": "My Vet Practice 3D - In the Country",
+			"titles": [
+				{"searchTerm": "My Vet Practice 3D - In the Country"}
+			],
+			"compilations": [
+				{"searchTerm": "2in1 - My Vet Practice 3D - In the Country + My Baby Pet Hotel 3D"}
+			]
+		},
+		{
+			"group": "My Western Horse 3D",
+			"titles": [
+				{"searchTerm": "My Western Horse 3D"}
+			],
+			"compilations": [
+				{"searchTerm": "2in1 Horses 3D Vol.3 - My Riding Stables 3D - Jumping for the Team and My Western Horse 3D"}
 			]
 		},
 		{
@@ -1412,6 +1441,10 @@
 			"titles": [
 				{"searchTerm": "Riding Stables 3D - Rivals in the Saddle"},
 				{"searchTerm": "Riding Stables 3D", "priority": 2}
+			],
+			"compilations": [
+				{"searchTerm": "2in1 Horses 3D - My Foal 3D + My Riding Stables 3D - Rivals in the Saddle"},
+				{"searchTerm": "2in1 Horses 3D Vol.2 - Rivals in the Saddle and Jumping for the Team 3D"}
 			]
 		},
 		{
@@ -1701,6 +1734,9 @@
 			"titles": [
 				{"searchTerm": "Whitakers Present, The - Milton & Friends 3D"},
 				{"searchTerm": "My Foal 3D", "priority": 2}
+			],
+			"compilations": [
+				{"searchTerm": "2in1 Horses 3D - My Foal 3D + My Riding Stables 3D - Rivals in the Saddle"}
 			]
 		},
 		{
