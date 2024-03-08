@@ -180,10 +180,11 @@
 			]
 		},
 		{
-			"group": "I.Q. 180",
+			"group": "IQ 180",
 			"titles": [
-				{"searchTerm": "I.Q. 180"},
-				{"searchTerm": "I.Q. Memory Teaser"}
+				{"searchTerm": "IQ 180"},
+				{"searchTerm": "I.Q. Memory Teaser"},
+				{"searchTerm": "I.Q. 180", "priority": 2}
 			]
 		},
 		{
