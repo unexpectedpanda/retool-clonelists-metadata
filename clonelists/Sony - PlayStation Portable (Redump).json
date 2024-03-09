@@ -1,8 +1,8 @@
 {
 	"description": {
 		"name": "Sony - PlayStation Portable (Redump)",
-		"lastUpdated": "18 February 2024",
-		"minimumVersion": "2.00"
+		"lastUpdated": "09 March 2024",
+		"minimumVersion": "2.02"
 	},
 
 	"mias": [
@@ -893,6 +893,13 @@
 			]
 		},
 		{
+			"group": "Legend of Heroes, The - A Tear of Vermillion",
+			"titles": [
+				{"searchTerm": "Eiyuu Densetsu Gagharv Trilogy - Akai Shizuku"},
+				{"searchTerm": "Legend of Heroes, The - A Tear of Vermillion"}
+			]
+		},
+		{
 			"group": "Legend of Heroes, The - Trails in the Sky",
 			"titles": [
 				{"searchTerm": "Eiyuu Densetsu - Sora no Kiseki FC"},
@@ -911,13 +918,6 @@
 			"titles": [
 				{"searchTerm": "Eiyuu Densetsu Gagharv Trilogy - Umi no Oriuta"},
 				{"searchTerm": "Legend of Heroes III, The - Song of the Ocean"}
-			]
-		},
-		{
-			"group": "Legend of Heroes, The - A Tear of Vermillion",
-			"titles": [
-				{"searchTerm": "Eiyuu Densetsu Gagharv Trilogy - Akai Shizuku"},
-				{"searchTerm": "Legend of Heroes, The - A Tear of Vermillion"}
 			]
 		},
 		{
