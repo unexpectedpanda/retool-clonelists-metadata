@@ -193,6 +193,13 @@
 			]
 		},
 		{
+			"group": "Dit Was 1995",
+			"titles": [
+				{"searchTerm": "Dit Was 1995 (814 0130)"},
+				{"searchTerm": "Dit Was 1995 (814 0085)", "priority": 2}
+			]
+		},
+		{
 			"group": "Dutch Masters of the Seventeenth Century",
 			"titles": [
 				{"searchTerm": "Dutch Masters of the Seventeenth Century"},
@@ -564,10 +571,11 @@
 			]
 		},
 		{
-			"group": "Tim et Ted a l'Hopital",
+			"group": "Tim & Bear in the Hospital",
 			"titles": [
 				{"searchTerm": "Tim & Baer im Krankenhaus"},
 				{"searchTerm": "Tim & Beer in het Ziekenhuis"},
+				{"searchTerm": "Tim & Bear in the Hospital"},
 				{"searchTerm": "Tim et Ted a l'Hopital"}
 			]
 		},
@@ -652,6 +660,7 @@
 			"group": "World of Impressionism, The",
 			"titles": [
 				{"searchTerm": "Paris Belle Epoque"},
+				{"searchTerm": "Paris der Belle Epoque, Das"},
 				{"searchTerm": "World of Impressionism, The"}
 			]
 		},
