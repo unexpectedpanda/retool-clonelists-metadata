@@ -1,8 +1,8 @@
 {
 	"description": {
 		"name": "Sony - PlayStation Portable (Redump)",
-		"lastUpdated": "10 February 2024",
-		"minimumVersion": "2.00"
+		"lastUpdated": "09 March 2024",
+		"minimumVersion": "2.02"
 	},
 
 	"mias": [
@@ -36,6 +36,13 @@
 			"titles": [
 				{"searchTerm": "Ace Combat - Joint Assault"},
 				{"searchTerm": "Ace Combat X2 - Joint Assault"}
+			]
+		},
+		{
+			"group": "Adventures to Go!",
+			"titles": [
+				{"searchTerm": "Adventures to Go!"},
+				{"searchTerm": "Chuumon Shiyouze! Oretachi no Sekai"}
 			]
 		},
 		{
@@ -886,6 +893,13 @@
 			]
 		},
 		{
+			"group": "Legend of Heroes, The - A Tear of Vermillion",
+			"titles": [
+				{"searchTerm": "Eiyuu Densetsu Gagharv Trilogy - Akai Shizuku"},
+				{"searchTerm": "Legend of Heroes, The - A Tear of Vermillion"}
+			]
+		},
+		{
 			"group": "Legend of Heroes, The - Trails in the Sky",
 			"titles": [
 				{"searchTerm": "Eiyuu Densetsu - Sora no Kiseki FC"},
@@ -897,6 +911,13 @@
 			"titles": [
 				{"searchTerm": "Eiyuu Densetsu Gagharv Trilogy - Shiroki Majo"},
 				{"searchTerm": "Legend of Heroes II, The - Prophecy of the Moonlight Witch"}
+			]
+		},
+		{
+			"group": "Legend of Heroes III, The - Song of the Ocean",
+			"titles": [
+				{"searchTerm": "Eiyuu Densetsu Gagharv Trilogy - Umi no Oriuta"},
+				{"searchTerm": "Legend of Heroes III, The - Song of the Ocean"}
 			]
 		},
 		{
@@ -941,6 +962,13 @@
 			"titles": [
 				{"searchTerm": "Mana-Khemia - Gakuen no Renkinjutsushi-tachi Portable +"},
 				{"searchTerm": "Mana Khemia - Student Alliance"}
+			]
+		},
+		{
+			"group": "Maru Goukaku Shikaku Dasshu! - Care Manager Shiken Portable",
+			"categories": ["Educational"],
+			"titles": [
+				{"searchTerm": "Maru Goukaku Shikaku Dasshu! - Care Manager Shiken Portable"}
 			]
 		},
 		{
@@ -1225,6 +1253,13 @@
 			"titles": [
 				{"searchTerm": "PixelJunk Monsters - Deluxe"},
 				{"searchTerm": "PixelJunk Monsters UMD Limited Edition"}
+			]
+		},
+		{
+			"group": "PlayEnglish",
+			"categories": ["Educational"],
+			"titles": [
+				{"searchTerm": "PlayEnglish"}
 			]
 		},
 		{
@@ -1727,6 +1762,13 @@
 			"titles": [
 				{"searchTerm": "Wild Arms - Crossfire"},
 				{"searchTerm": "Wild Arms XF"}
+			]
+		},
+		{
+			"group": "Win-TOEIC Beginners' LC",
+			"categories": ["Educational"],
+			"titles": [
+				{"searchTerm": "Win-TOEIC Beginners' LC"}
 			]
 		},
 		{
