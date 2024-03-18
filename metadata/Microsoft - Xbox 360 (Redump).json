@@ -1,4 +1,8 @@
 {
+	"007 - Blood Stone (Japan)": {
+		"languages": ["Ja"],
+		"localName": "００７　ブラッドストーン"
+	},
 	"007 - Blood Stone (USA, Europe) (En,Fr,De)": {
 		"languages": ["De", "En", "Fr"]
 	},
@@ -563,8 +567,8 @@
 	"Banjo-Kazooie - Nuts & Bolts (Europe) (En,Ja,Fr,De,Es,It,Nl,Sv,No,Zh,Ko,Pl,Ru,Cs)": {
 		"languages": ["Cs", "De", "En", "Es", "Fr", "It", "Ja", "Ko", "Nl", "No", "Pl", "Ru", "Sv", "Zh"]
 	},
-	"Banjo-Kazooie - Nuts & Bolts (Japan)": {
-		"languages": [],
+	"Banjo-Kazooie - Nuts & Bolts (Japan, Asia) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Ko", "Pl", "Ru", "Zh"],
 		"localName": "バンジョーとカズーイの大冒険－ガレージ大作戦"
 	},
 	"Banjo-Kazooie - Nuts & Bolts (USA) (Demo)": {
@@ -1706,8 +1710,8 @@
 	"Command & Conquer - Red Alert 3 (Russia)": {
 		"languages": []
 	},
-	"Command & Conquer - Red Alert 3 (USA, Europe) (En,Fr)": {
-		"languages": ["En", "Fr"]
+	"Command & Conquer - Red Alert 3 (USA, Europe) (En,Es)": {
+		"languages": ["En", "Es"]
 	},
 	"Command & Conquer 3 - Kane's Wrath (Europe)": {
 		"languages": ["En"]
@@ -5343,8 +5347,8 @@
 	"Let's Dance (USA)": {
 		"languages": []
 	},
-	"Let's Dance with Mel B (Europe)": {
-		"languages": []
+	"Let's Dance with Mel B (Europe) (En,Fr,De,Es,It)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Lightning Returns - Final Fantasy XIII (Europe)": {
 		"languages": []
@@ -6075,7 +6079,7 @@
 	"Millennium European Paintball Series, The - Championship Paintball 2009 (Europe)": {
 		"languages": []
 	},
-	"Mindjack (USA, Europe) (En,Ja,Fr,De,Es,It)": {
+	"Mindjack (World) (En,Ja,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja"]
 	},
 	"Minecraft - Story Mode - A Telltale Games Series (USA)": {
@@ -6277,8 +6281,8 @@
 	"N3II - Ninety-Nine Nights (Europe)": {
 		"languages": []
 	},
-	"N3II - Ninety-Nine Nights (Japan)": {
-		"languages": []
+	"N3II - Ninety-Nine Nights (Japan) (En,Ja,Fr,De,Es,It,Ko)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Ko"]
 	},
 	"N3II - Ninety-Nine Nights (Korea)": {
 		"languages": []
@@ -8300,8 +8304,8 @@
 		"languages": [],
 		"localName": "真・北斗無双"
 	},
-	"Shin Sangoku Musou - Multi Raid Special (Japan)": {
-		"languages": [],
+	"Shin Sangoku Musou - Multi Raid Special (Japan, Asia)": {
+		"languages": ["Ja"],
 		"localName": "真・三國無双　ＭＵＬＴＩ　ＲＡＩＤ　Ｓｐｅｃｉａｌ"
 	},
 	"Shin Sangoku Musou 4 - Empires (Japan)": {

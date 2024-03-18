@@ -3061,6 +3061,9 @@
 	"Disney Infinity (Europe) (En,Pl,Ru,Ar)": {
 		"languages": ["Ar", "En", "Pl", "Ru"]
 	},
+	"Disney Infinity (Scandinavia)": {
+		"languages": []
+	},
 	"Disney Infinity (USA) (En,Fr,Es,Pt)": {
 		"languages": ["En", "Es", "Fr", "Pt"]
 	},
@@ -3102,8 +3105,8 @@
 	"Disney Phineas and Ferb - Across the 2nd Dimension (USA) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
 	},
-	"Disney Pirates of the Caribbean - At World's End (Europe) (En,Fr,De,Es,It)": {
-		"languages": ["De", "En", "Es", "Fr", "It"]
+	"Disney Pirates of the Caribbean - At World's End (Europe) (En,Fr,De,Es,It,Nl)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
 	},
 	"Disney Pirates of the Caribbean - At World's End (Japan)": {
 		"languages": ["Ja"],
@@ -4538,7 +4541,7 @@
 	"Fallout 3 (Spain)": {
 		"languages": ["Es"]
 	},
-	"Fallout 3 (USA)": {
+	"Fallout 3 (USA, Asia)": {
 		"languages": ["En"]
 	},
 	"Fallout 3 - Game of the Year Edition (Austria, Switzerland)": {
@@ -10926,6 +10929,9 @@
 	"Shaun White Skateboarding (USA) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
 	},
+	"Shaun White Snowboarding (Asia) (En,Fr,De,Es,It)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
 	"Shaun White Snowboarding (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
@@ -11175,7 +11181,7 @@
 	"Simpsons Game, The (Europe) (En,Fr,Es,It)": {
 		"languages": ["En", "Es", "Fr", "It"]
 	},
-	"Simpsons Game, The (USA)": {
+	"Simpsons Game, The (USA, Asia)": {
 		"languages": ["En"]
 	},
 	"Simpsons, Die - Das Spiel (Germany)": {

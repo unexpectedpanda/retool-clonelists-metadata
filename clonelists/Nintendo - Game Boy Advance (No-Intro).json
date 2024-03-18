@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Nintendo - Game Boy Advance (No-Intro)",
-		"lastUpdated": "26 December 2023",
+		"lastUpdated": "18 March 2024",
 		"minimumVersion": "2.02"
 	},
 
@@ -2791,6 +2791,15 @@
 			]
 		},
 		{
+			"group": "Strawberry Shortcake - Summertime Adventure",
+			"titles": [
+				{"searchTerm": "Strawberry Shortcake - Summertime Adventure"}
+			],
+			"supersets": [
+				{"searchTerm": "Strawberry Shortcake - Summertime Adventure - Special Edition"}
+			]
+		},
+		{
 			"group": "Street Fighter Alpha 3",
 			"titles": [
 				{"searchTerm": "Street Fighter Alpha 3"},
@@ -3234,6 +3243,18 @@
 			"titles": [
 				{"searchTerm": "Yu-Gi-Oh! - Destiny Board Traveler"},
 				{"searchTerm": "Yu-Gi-Oh! - Sugoroku no Sugoroku"}
+			],
+			"compilations": [
+				{"searchTerm": "Yu-Gi-Oh! Double Pack 2"}
+			]
+		},
+		{
+			"group": "Yu-Gi-Oh! - Dungeon Dice Monsters",
+			"titles": [
+				{"searchTerm": "Yu-Gi-Oh! - Dungeon Dice Monsters"}
+			],
+			"compilations": [
+				{"searchTerm": "Yu-Gi-Oh! Double Pack 2"}
 			]
 		},
 		{
@@ -3241,6 +3262,9 @@
 			"titles": [
 				{"searchTerm": "Yu-Gi-Oh! - Reshef of Destruction"},
 				{"searchTerm": "Yu-Gi-Oh! Duel Monsters 8 - Hametsu no Daijashin"}
+			],
+			"compilations": [
+				{"searchTerm": "Yu-Gi-Oh! Double Pack"}
 			]
 		},
 		{
@@ -3255,6 +3279,9 @@
 			"titles": [
 				{"searchTerm": "Yu-Gi-Oh! - The Sacred Cards"},
 				{"searchTerm": "Yu-Gi-Oh! Duel Monsters 7 - Kettou Toshi Densetsu"}
+			],
+			"compilations": [
+				{"searchTerm": "Yu-Gi-Oh! Double Pack"}
 			]
 		},
 		{

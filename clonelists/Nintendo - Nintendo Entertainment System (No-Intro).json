@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Nintendo - Nintendo Entertainment System (No-Intro)",
-		"lastUpdated": "09 March 2024",
+		"lastUpdated": "17 March 2024",
 		"minimumVersion": "2.02"
 	},
 
@@ -500,8 +500,7 @@
 			"group": "Battletoads",
 			"titles": [
 				{"searchTerm": "Battletoads"},
-				{"searchTerm": "Battletoads (Conector)"},
-				{"searchTerm": "Battletoads (Columbus Circle)", "priority": 2}
+				{"searchTerm": "Battletoads (Conector)"}
 			]
 		},
 		{

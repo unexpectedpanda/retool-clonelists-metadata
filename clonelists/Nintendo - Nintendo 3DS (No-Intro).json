@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Nintendo - Nintendo 3DS (No-Intro)",
-		"lastUpdated": "09 March 2024",
+		"lastUpdated": "18 March 2024",
 		"minimumVersion": "2.02"
 	},
 
@@ -504,6 +504,15 @@
 				{"searchTerm": "Fire Emblem Fates - Conquest"},
 				{"searchTerm": "Fire Emblem If - Anya Oukoku"}
 			],
+			"compilations": [
+				{"searchTerm": "Fire Emblem Fates - Limited Edition"},
+				{"searchTerm": "Fire Emblem Fates - Special Edition"},
+				{"searchTerm": "Fire Emblem If"},
+				{"searchTerm": "Fire Emblem If - Special Edition"}
+			]
+		},
+		{
+			"group": "Fire Emblem Fates - Revelation",
 			"compilations": [
 				{"searchTerm": "Fire Emblem Fates - Limited Edition"},
 				{"searchTerm": "Fire Emblem Fates - Special Edition"},
@@ -1118,6 +1127,15 @@
 			]
 		},
 		{
+			"group": "Nickelodeon Teenage Mutant Ninja Turtles",
+			"titles": [
+				{"searchTerm": "Nickelodeon Teenage Mutant Ninja Turtles"}
+			],
+			"compilations": [
+				{"searchTerm": "Teenage Mutant Ninja Turtles - Master Splinter's Training Pack"}
+			]
+		},
+		{
 			"group": "Nikoli's Pencil Puzzle",
 			"titles": [
 				{"searchTerm": "Nikoli's Pencil Puzzle"},
@@ -1683,6 +1701,15 @@
 			"titles": [
 				{"searchTerm": "Taegoui Darin - Kungttak Kungttak Sigong Daemoheom"},
 				{"searchTerm": "Taiko no Tatsujin - Don to Katsu no Jikuu Daibouken"}
+			]
+		},
+		{
+			"group": "Teenage Mutant Ninja Turtles - Danger of the Ooze",
+			"titles": [
+				{"searchTerm": "Teenage Mutant Ninja Turtles - Danger of the Ooze"}
+			],
+			"compilations": [
+				{"searchTerm": "Teenage Mutant Ninja Turtles - Master Splinter's Training Pack"}
 			]
 		},
 		{
