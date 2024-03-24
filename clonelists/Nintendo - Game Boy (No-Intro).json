@@ -367,6 +367,13 @@
 			]
 		},
 		{
+			"group": "Card Games",
+			"titles": [
+				{"searchTerm": "Card Games"},
+				{"searchTerm": "Card Game"}
+			]
+		},
+		{
 			"group": "Castelian",
 			"titles": [
 				{"searchTerm": "Castelian"},
@@ -818,8 +825,9 @@
 			]
 		},
 		{
-			"group": "Hammerin' Harry",
+			"group": "Hammerin' Harry - Ghost Building Company",
 			"titles": [
+				{"searchTerm": "Hammerin' Harry - Ghost Building Company"},
 				{"searchTerm": "Hammerin' Harry"},
 				{"searchTerm": "Daiku no Gen-san - Ghost Building Company", "localNames": {"japanese": "大工の源さん ゴーストビルディングカンパニー"}}
 			]
@@ -1181,6 +1189,13 @@
 			]
 		},
 		{
+			"group": "Mini Putt",
+			"titles": [
+				{"searchTerm": "Mini Putt"},
+				{"searchTerm": "Mini-Putt"}
+			]
+		},
+		{
 			"group": "Miracle Adventure of Esparks - Ushinawareta Seiseki Perivron",
 			"titles": [
 				{"searchTerm": "Miracle Adventure of Esparks - Ushinawareta Seiseki Perivron"}
@@ -1201,6 +1216,33 @@
 			"titles": [
 				{"searchTerm": "Mole Mania"},
 				{"searchTerm": "Moguranya"}
+			]
+		},
+		{
+			"group": "Momotarou Dengeki",
+			"titles": [
+				{"searchTerm": "Momotarou Dengeki"}
+			],
+			"compilations": [
+				{"searchTerm": "Momotarou Collection"}
+			]
+		},
+		{
+			"group": "Momotarou Dengeki 2",
+			"titles": [
+				{"searchTerm": "Momotarou Dengeki 2"}
+			],
+			"compilations": [
+				{"searchTerm": "Momotarou Collection 2"}
+			]
+		},
+		{
+			"group": "Momotarou Densetsu Gaiden",
+			"titles": [
+				{"searchTerm": "Momotarou Densetsu Gaiden"}
+			],
+			"compilations": [
+				{"searchTerm": "Momotarou Collection 2"}
 			]
 		},
 		{
@@ -1288,6 +1330,16 @@
 			]
 		},
 		{
+			"group": "Ninja Spirit",
+			"titles": [
+				{"searchTerm": "Ninja Spirit"},
+				{"searchTerm": "Saigo no Nindou"}
+			],
+			"compilations": [
+				{"searchTerm": "Mani 4 in 1 - R-Type II + Saigo no Nindou + Ganso!! Yancha Maru + Shisenshou - Match-Mania", "titlePosition": 2}
+			]
+		},
+		{
 			"group": "Nintendo World Cup",
 			"titles": [
 				{"searchTerm": "Nintendo World Cup"},
@@ -1314,6 +1366,13 @@
 			"titles": [
 				{"searchTerm": "Otto's Ottifanten - Baby Bruno's Alptraum"},
 				{"searchTerm": "Adventures of Pinocchio, The", "priority": 2}
+			]
+		},
+		{
+			"group": "Out of Gas",
+			"titles": [
+				{"searchTerm": "Out of Gas"},
+				{"searchTerm": "Space Date"}
 			]
 		},
 		{
@@ -1508,15 +1567,6 @@
 			"compilations": [
 				{"searchTerm": "Taito Variety Pack"},
 				{"searchTerm": "Mani 4 in 1 - Bubble Bobble + Elevator Action + Chase H.Q. + Sagaia"}
-			]
-		},
-		{
-			"group": "Saigo no Nindou",
-			"titles": [
-				{"searchTerm": "Saigo no Nindou"}
-			],
-			"compilations": [
-				{"searchTerm": "Mani 4 in 1 - R-Type II + Saigo no Nindou + Ganso!! Yancha Maru + Shisenshou - Match-Mania", "titlePosition": 2}
 			]
 		},
 		{
@@ -1724,6 +1774,15 @@
 			]
 		},
 		{
+			"group": "Super Momotarou Dentetsu II",
+			"titles": [
+				{"searchTerm": "Super Momotarou Dentetsu II"}
+			],
+			"compilations": [
+				{"searchTerm": "Momotarou Collection"}
+			]
+		},
+		{
 			"group": "Sword of Hope II, The",
 			"titles": [
 				{"searchTerm": "Sword of Hope II, The"},
@@ -1925,6 +1984,13 @@
 			"titles": [
 				{"searchTerm": "Trax"},
 				{"searchTerm": "Totsugeki! Ponkotsu Tank"}
+			]
+		},
+		{
+			"group": "TripleA",
+			"titles": [
+				{"searchTerm": "TripleA"},
+				{"searchTerm": "Vattle Giuce"}
 			]
 		},
 		{
