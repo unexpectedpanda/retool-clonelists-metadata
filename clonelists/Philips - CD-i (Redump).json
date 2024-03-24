@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Philips - CD-i (Redump)",
-		"lastUpdated": "17 March 2024",
+		"lastUpdated": "24 March 2024",
 		"minimumVersion": "2.00"
 	},
 
@@ -296,10 +296,12 @@
 		{
 			"group": "International Tennis Open",
 			"titles": [
-				{"searchTerm": "International Tennis Open"}
+				{"searchTerm": "International Tennis Open.*", "nameType": "regex"}
 			],
 			"supersets": [
 				{"searchTerm": "International Tennis Open (Simultaneous 2 Player Game)"},
+				{"searchTerm": "International Tennis Open (Version 2 Jugadores)"},
+				{"searchTerm": "International Tennis Open (Version 2 Spieler)"},
 				{"searchTerm": "International Tennis Open (Versione 2 Giocatori)"}
 			]
 		},
