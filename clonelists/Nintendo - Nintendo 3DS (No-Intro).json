@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Nintendo - Nintendo 3DS (No-Intro)",
-		"lastUpdated": "24 March 2024",
+		"lastUpdated": "05 April 2024",
 		"minimumVersion": "2.02"
 	},
 
@@ -1697,6 +1697,13 @@
 			"titles": [
 				{"searchTerm": "Choukaiten Sushi Striker - The Way of Sushido"},
 				{"searchTerm": "Sushi Striker - The Way of Sushido"}
+			]
+		},
+		{
+			"group": "SystemUpdater",
+			"titles": [
+				{"searchTerm": "SystemUpdater (Ver. 0.17.19) (Program)"},
+				{"searchTerm": "SystemUpdater (Ver. 0.15.19) (Program)", "priority": 2}
 			]
 		},
 		{

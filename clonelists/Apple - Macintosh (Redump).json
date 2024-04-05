@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Apple - Macintosh (Redump)",
-		"lastUpdated": "17 March 2024",
+		"lastUpdated": "05 April 2024",
 		"minimumVersion": "2.00"
 	},
 
@@ -31,10 +31,6 @@
 		"Aquazone Sen'you Option Disc - iMacinfish Vol. 5 - Blueberry (Japan)",
 		"Aquazone Sen'you Option Disc - iMacinfish Vol. 6 - Strawberry (Japan)",
 		"Arcade Battles (USA)",
-		"Atlantis - Das sagenhafte Abenteuer (Germany) (Disc 1)",
-		"Atlantis - Das sagenhafte Abenteuer (Germany) (Disc 2)",
-		"Atlantis - Das sagenhafte Abenteuer (Germany) (Disc 3)",
-		"Atlantis - Das sagenhafte Abenteuer (Germany) (Disc 4)",
 		"Audition 2, The (Japan) (Disc 1)",
 		"Audition 2, The (Japan) (Disc 2)",
 		"Baldur's Gate II - Shadows of Amn (USA) (Disc 1)",
@@ -76,6 +72,7 @@
 		"Call of Duty 4 - Modern Warfare (USA) (v1.7.1)",
 		"Crescent Satsujin Jiken - Hyena no Jijou (Japan)",
 		"Crescent Satsujin Jiken - Tozasareta Nikki (Japan)",
+		"Critical Path (Japan)",
 		"Daedalus Encounter, The (Europe) (Disc 1)",
 		"Daedalus Encounter, The (Europe) (Disc 2)",
 		"Daedalus Encounter, The (Europe) (Disc 3)",
@@ -90,7 +87,6 @@
 		"Eberouge (Japan)",
 		"Eberouge (Japan) (Alt)",
 		"F-A-18 Hornet 2.0 (Japan) (En,Ja)",
-		"First Live (Japan)",
 		"Flying Nightmares (Japan)",
 		"Frankenstein - Through the Eyes of the Monster (USA)",
 		"Freedom Force (USA)",
@@ -122,6 +118,9 @@
 		"MacAttack (Europe)",
 		"MacFormat n. 20 (Spain)",
 		"MacFormat n. 22 (Spain)",
+		"MacFormat n. 24 (Spain)",
+		"MacFormat n. 25 (Spain)",
+		"MacFormat n. 27 (Spain)",
 		"MacLife 50-gou Kinen Gouka CD-ROM (Japan)",
 		"MacPeople 1997 No. 12 6.15 (Japan)",
 		"MacPeople 1997 No. 14 7.15 (Japan)",
@@ -162,8 +161,6 @@
 		"MacUser - MacBin 9 (Japan)",
 		"Mad Dog McCree (USA)",
 		"Maniac Mansion - Day of the Tentacle (France)",
-		"Monty Python Sacre Graal (France)",
-		"Monty Python's Complete Waste of Time (USA)",
 		"Myst (Japan)",
 		"Myst (Japan) (Kinen Kakaku-ban)",
 		"Myst - Masterpiece Edition (Germany) (Rerelease)",
@@ -317,6 +314,15 @@
 			"titles": [
 				{"searchTerm": "In Memoriam (MAC - Install)"},
 				{"searchTerm": "In Memoriam (Mac Install)"}
+			]
+		},
+		{
+			"group": "Kid Pix Studio",
+			"titles": [
+				{"searchTerm": "Kid Pix Studio"}
+			],
+			"supersets": [
+				{"searchTerm": "Kids Pix Studio Deluxe"}
 			]
 		},
 		{

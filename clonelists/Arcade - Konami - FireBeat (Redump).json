@@ -1,0 +1,17 @@
+{
+	"description": {
+		"name": "Arcade - Konami - FireBeat (Redump)",
+		"lastUpdated": "05 April 2024",
+		"minimumVersion": "2.02"
+	},
+
+	"variants": [
+        {
+            "group": "Pop'n Music 8 (Disc 1)",
+            "titles": [
+                {"searchTerm": "Pop'n Music 8 (Disc 1) (JAB)"},
+                {"searchTerm": "Pop'n Music 8 (Disc 1)", "priority": 2}
+            ]
+        }
+    ]
+}

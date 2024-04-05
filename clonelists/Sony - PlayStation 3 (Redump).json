@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Sony - PlayStation 3 (Redump)",
-		"lastUpdated": "17 March 2024",
+		"lastUpdated": "06 April 2024",
 		"minimumVersion": "2.00"
 	},
 
@@ -21,7 +21,6 @@
 		"Endcap Display - 2014 Holiday Refresh - Walmart (USA)",
 		"Endcap Display - 2015 Winter Refresh - Walmart (USA)",
 		"Evil Within, The (Asia)",
-		"FIFA 08 (Asia)",
 		"Fairytale Fights (Europe) (Beta) (2009-09-04)",
 		"Fairytale Fights (Europe) (Beta) (2009-09-24)",
 		"Fall 2013 - PS3 IDU 4.46 (USA)",
@@ -80,7 +79,6 @@
 		"Start the Party! (Korea)",
 		"Street Fighter X Tekken (World) (Beta) (2012-01-16)",
 		"Summer Refresh 2011 - 3.65 IDU FW Update (USA)",
-		"Syberia Collection (Brazil)",
 		"Walmart Endcap - 2014 Summer Refresh (USA)",
 		"Winter 2012 Refresh PS3 IDU 3.72 (USA)",
 		"Winter Refresh 2011 - 3.55 FW Update (USA)",
@@ -1144,8 +1142,7 @@
 		{
 			"group": "Final Fantasy XIV Online - A Realm Reborn",
 			"titles": [
-				{"searchTerm": "Final Fantasy XIV Online - A Realm Reborn"},
-				{"searchTerm": "Final Fantasy XIV Online - Shinsei Eorzea"}
+				{"searchTerm": "Final Fantasy XIV Online - A Realm Reborn"}
 			],
 			"supersets": [
 				{"searchTerm": "Final Fantasy XIV Online - The Complete Experience"}

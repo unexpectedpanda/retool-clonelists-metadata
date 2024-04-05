@@ -721,7 +721,7 @@
 	"Battlefield Hardline (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Pl,Ru) (Disc 2) (Single Player)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Pl", "Pt", "Ru"]
 	},
-	"Battleship (USA) (En,Fr,De,Es,It)": {
+	"Battleship (USA, Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Battlestations - Midway (Japan)": {
@@ -865,6 +865,10 @@
 	"BioShock 2 (World) (En,Fr,Es) (Beta) (2009-12-16)": {
 		"languages": ["En", "Es", "Fr"]
 	},
+	"BioShock Infinite (Japan)": {
+		"languages": ["Ja"],
+		"localName": "バイオショック　インフィニット"
+	},
 	"BioShock Infinite (USA, Europe)": {
 		"languages": []
 	},
@@ -977,6 +981,9 @@
 	},
 	"Blood Drive (USA)": {
 		"languages": ["En"]
+	},
+	"Bloodbath (Europe)": {
+		"languages": []
 	},
 	"Blue Dragon (Europe) (En,De,Es) (Disc 1)": {
 		"languages": ["De", "En", "Es"]
@@ -1405,7 +1412,11 @@
 		"languages": [],
 		"localName": "コール　オブ　デューティ　ゴースト"
 	},
-	"Call of Duty - Ghosts (Japan) (Disc 2) (Install Disc) (Fukikaeban)": {
+	"Call of Duty - Ghosts (Japan) (Disc 1) (Game Disc) (Jimakuban)": {
+		"languages": ["Ja"],
+		"localName": "コール　オブ　デューティ　ゴースト"
+	},
+	"Call of Duty - Ghosts (Japan) (Disc 2) (Install Disc)": {
 		"languages": [],
 		"localName": "コール　オブ　デューティ　ゴースト"
 	},
@@ -1475,6 +1486,10 @@
 	},
 	"Call of Duty - Modern Warfare 3 (USA, Korea)": {
 		"languages": []
+	},
+	"Call of Duty - World At War (Korea) (En,Ko)": {
+		"languages": ["En", "Ko"],
+		"localName": "콜 오브 듀티 - 월드 앳 워"
 	},
 	"Call of Duty - World at War (Germany)": {
 		"languages": ["De"]
@@ -1587,7 +1602,7 @@
 	"Castlevania - Lords of Shadow (USA, Europe) (En,Fr,De,Es,It) (Disc 2)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Castlevania - Lords of Shadow 2 (USA) (En,Fr,De,Es,It,Pt)": {
+	"Castlevania - Lords of Shadow 2 (USA, Europe) (En,Fr,De,Es,It,Pt)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Pt"]
 	},
 	"Catherine (Europe)": {
@@ -1758,6 +1773,10 @@
 	"Condemned (USA, Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
+	"Condemned - Psycho Crime (Japan)": {
+		"languages": ["Ja"],
+		"localName": "コンデムド　サイコクライム"
+	},
 	"Condemned 2 - Bloodshot (USA, Europe) (En,Fr,Es,It)": {
 		"languages": ["En", "Es", "Fr", "It"]
 	},
@@ -1792,6 +1811,9 @@
 	"Crash Time 5 - Undercover (Europe) (En,De)": {
 		"languages": ["De", "En"],
 		"localName": "Alarm für Cobra 11 - Undercover"
+	},
+	"Crash Time II (Europe) (En,Fr,De)": {
+		"languages": ["De", "En", "Fr"]
 	},
 	"Crash of the Titans (USA) (En,Fr,De,Es,It,Nl)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
@@ -1953,6 +1975,10 @@
 	},
 	"Dark Sector (Italy) (En,It)": {
 		"languages": ["En", "It"]
+	},
+	"Dark Sector (Japan)": {
+		"languages": ["Ja"],
+		"localName": "ダークセクター"
 	},
 	"Dark Sector (USA)": {
 		"languages": []
@@ -2168,7 +2194,7 @@
 	"Dead or Alive 5 (USA)": {
 		"languages": []
 	},
-	"Dead or Alive 5 Ultimate (Japan, Europe)": {
+	"Dead or Alive 5 Ultimate (World)": {
 		"languages": []
 	},
 	"Dead or Alive Xtreme 2 (Europe) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl)": {
@@ -2235,6 +2261,9 @@
 	"Def Jam - Rapstar (Europe)": {
 		"languages": []
 	},
+	"Def Jam - Rapstar (Europe) (En,Fr,De,Es,It,Pt)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Pt"]
+	},
 	"Def Jam - Rapstar (USA)": {
 		"languages": []
 	},
@@ -2285,7 +2314,7 @@
 		"languages": [],
 		"localName": "デビル　メイ　クライ　ＨＤコレクション"
 	},
-	"Devil May Cry - HD Collection (USA) (En,Ja,Fr,De,Es,It)": {
+	"Devil May Cry - HD Collection (USA, Europe) (En,Ja,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja"]
 	},
 	"Devil May Cry 4 (Japan)": {
@@ -2380,6 +2409,9 @@
 	},
 	"Dishonored - Game of the Year Edition (Europe) (Disc 2)": {
 		"languages": ["En"]
+	},
+	"Dishonored - Game of the Year Edition (Europe) (Fr,De,Es,It) (Disc 2)": {
+		"languages": ["De", "Es", "Fr", "It"]
 	},
 	"Dishonored - Game of the Year Edition (Japan) (Disc 2)": {
 		"languages": []
@@ -2545,6 +2577,9 @@
 	"Disney-Pixar Toy Story 3 (Europe) (Fr,De,It,Nl)": {
 		"languages": ["De", "Fr", "It", "Nl"]
 	},
+	"Disney-Pixar Toy Story 3 (Spain) (En,Es)": {
+		"languages": ["En", "Es"]
+	},
 	"Disney-Pixar Toy Story 3 (USA) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
 	},
@@ -2697,11 +2732,15 @@
 	"Dragon Age - Origins - Ultimate Edition (Germany) (Disc 2) (Zusaetzliche Inhaltspacks Installations-Disc)": {
 		"languages": ["De"]
 	},
-	"Dragon Age - Origins - Ultimate Edition (USA) (Disc 2) (Additional Content Packs Install Disc)": {
-		"languages": []
+	"Dragon Age - Origins - Ultimate Edition (USA, Europe) (En,Es,It) (Disc 2) (Additional Content Packs Install Disc)": {
+		"languages": ["En", "Es", "It"]
 	},
 	"Dragon Age II (Europe, Australia) (En,Fr,De,Es,It,Pl,Ru)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Pl", "Ru"]
+	},
+	"Dragon Age II (Japan)": {
+		"languages": ["Ja"],
+		"localName": "ドラゴンエイジ　ＩＩ"
 	},
 	"Dragon Age II (USA)": {
 		"languages": []
@@ -2753,6 +2792,9 @@
 	},
 	"Dragon Ball Z - Burst Limit (USA)": {
 		"languages": []
+	},
+	"Dragon Ball Z - Ultimate Tenkaichi (Europe) (En,Fr,De,Es,It)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Dragon Ball Z - Ultimate Tenkaichi (USA)": {
 		"languages": []
@@ -3076,6 +3118,9 @@
 	"Elder Scrolls V, The - Skyrim - Legendary Edition (Japan) (Disc 2)": {
 		"languages": ["Ja"]
 	},
+	"Elder Scrolls V, The - Skyrim - Legendary Edition (Spain) (En,Es) (Disc 2)": {
+		"languages": ["En", "Es"]
+	},
 	"Elder Scrolls V, The - Skyrim - Legendary Edition (USA) (Disc 2)": {
 		"languages": ["En"]
 	},
@@ -3118,7 +3163,7 @@
 	"Eragon (USA)": {
 		"languages": []
 	},
-	"Escape Dead Island (USA)": {
+	"Escape Dead Island (USA, Europe)": {
 		"languages": []
 	},
 	"Eschatos (Japan)": {
@@ -3253,6 +3298,10 @@
 	},
 	"F.E.A.R. 2 - Project Origin (Germany)": {
 		"languages": []
+	},
+	"F.E.A.R. 2 - Project Origin (Japan)": {
+		"languages": ["Ja"],
+		"localName": "フィアー２　プロジェクトオリジン"
 	},
 	"F.E.A.R. 2 - Project Origin (USA) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -3578,6 +3627,10 @@
 		"languages": [],
 		"localName": "２００６　ＦＩＦＡ　ワールドカップ　ドイツ大会"
 	},
+	"FIFA World Cup Germany 2006 (Korea)": {
+		"languages": [],
+		"localName": "2006 FIFA 월드컵"
+	},
 	"FIFA World Cup Germany 2006 (USA)": {
 		"languages": ["En"]
 	},
@@ -3785,6 +3838,9 @@
 	"Fallout 3 - Game of the Year Edition (Italy) (En,It) (Disc 2)": {
 		"languages": ["En", "It"]
 	},
+	"Fallout 3 - Game of the Year Edition (Spain) (En,Es) (Disc 2)": {
+		"languages": ["En", "Es"]
+	},
 	"Fallout 3 - Game of the Year Edition (USA) (Disc 2)": {
 		"languages": []
 	},
@@ -3923,6 +3979,9 @@
 	"Final Fantasy XI - Online - Vana'diel Collection 2008 (USA)": {
 		"languages": []
 	},
+	"Final Fantasy XI - Online - Wings of the Goddess Expansion Pack (Europe)": {
+		"languages": []
+	},
 	"Final Fantasy XI - Online - Wings of the Goddess Expansion Pack (USA)": {
 		"languages": []
 	},
@@ -4009,6 +4068,9 @@
 	"Forza Horizon 2 (Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Pl,Ru)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Pl", "Pt", "Ru", "Zh"]
 	},
+	"Forza Horizon 2 (Spain) (En,Ja,Fr,De,Es,It,Pt,Zh,Pl,Ru)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Pl", "Pt", "Ru", "Zh"]
+	},
 	"Forza Horizon 2 (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Pl,Ru)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Pl", "Pt", "Ru", "Zh"]
 	},
@@ -4078,7 +4140,13 @@
 	"Forza Motorsport 4 (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru,Cs,Hu) (Disc 1) (Play Disc)": {
 		"languages": ["Cs", "De", "En", "Es", "Fr", "Hu", "It", "Ja", "Ko", "Nl", "Pl", "Pt", "Ru", "Zh"]
 	},
+	"Forza Motorsport 4 (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru,Cs,Hu) (Disc 1) (Play Disc) (Rev 1)": {
+		"languages": ["Cs", "De", "En", "Es", "Fr", "Hu", "It", "Ja", "Ko", "Nl", "Pl", "Pt", "Ru", "Zh"]
+	},
 	"Forza Motorsport 4 (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru,Cs,Hu) (Disc 2) (Content Install Disc)": {
+		"languages": ["Cs", "De", "En", "Es", "Fr", "Hu", "It", "Ja", "Ko", "Nl", "Pl", "Pt", "Ru", "Zh"]
+	},
+	"Forza Motorsport 4 (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru,Cs,Hu) (Disc 2) (Content Install Disc) (Rev 1)": {
 		"languages": ["Cs", "De", "En", "Es", "Fr", "Hu", "It", "Ja", "Ko", "Nl", "Pl", "Pt", "Ru", "Zh"]
 	},
 	"Forza Motorsport 4 - Essentials Edition (World) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru)": {
@@ -4143,6 +4211,9 @@
 	},
 	"Game of Thrones (Europe)": {
 		"languages": []
+	},
+	"Game of Thrones (Europe) (En,Fr,Es,It)": {
+		"languages": ["En", "Es", "Fr", "It"]
 	},
 	"Game of Thrones (USA)": {
 		"languages": []
@@ -4521,6 +4592,9 @@
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Ko", "Pt", "Zh"],
 		"localName": "헤일로 3 - ODST"
 	},
+	"Halo 3 - ODST (Spain) (Disc 1)": {
+		"languages": []
+	},
 	"Halo 3 - ODST (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko) (Disc 1) (Campaign)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Ko", "Pt", "Zh"]
 	},
@@ -4889,6 +4963,10 @@
 		"languages": ["Ko"],
 		"localName": "진・삼국무쌍 멀티 레이드 스페셜"
 	},
+	"Jin Samguk Mussang 5 (Korea)": {
+		"languages": ["Ko"],
+		"localName": "진・삼국무쌍 5"
+	},
 	"John Woo Presents Stranglehold (Europe, Australia) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
@@ -5058,7 +5136,7 @@
 		"languages": ["En", "Zh"],
 		"localName": "ＫＩＮＥＣＴ　大冒險！"
 	},
-	"Kinect Adventures! (Europe) (Rev 3)": {
+	"Kinect Adventures! (Europe, Asia) (Rev 3)": {
 		"languages": []
 	},
 	"Kinect Adventures! (Japan, Europe)": {
@@ -5077,6 +5155,10 @@
 	"Kinect Disneyland Adventures (Japan)": {
 		"languages": [],
 		"localName": "Ｋｉｎｅｃｔ　ディズニーランド・アドベンチャーズ"
+	},
+	"Kinect Disneyland Adventures (Korea)": {
+		"languages": [],
+		"localName": "Kinect 디즈니랜드 어드벤처"
 	},
 	"Kinect Disneyland Adventures (USA, Europe)": {
 		"languages": []
@@ -5203,7 +5285,7 @@
 	"L.A. Noire - The Complete Edition (USA, Europe) (En,Fr,De,Es,It) (Disc 4)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"LEGO Batman - The Videogame (USA, Europe) (En,Fr,De,Es,It,Da)": {
+	"LEGO Batman - The Videogame (World) (En,Fr,De,Es,It,Da)": {
 		"languages": ["Da", "De", "En", "Es", "Fr", "It"]
 	},
 	"LEGO Batman 2 - DC Super Heroes (USA) (En,Fr,De,Es,It,Nl,Pt,Da,Pl,Ru)": {
@@ -5661,11 +5743,11 @@
 	},
 	"Magnacarta II (Korea) (Disc 1)": {
 		"languages": ["Ko"],
-		"localName": "마그나카르타 2"
+		"localName": "마그나카르타2"
 	},
 	"Magnacarta II (Korea) (Disc 2)": {
 		"languages": ["Ko"],
-		"localName": "마그나카르타 2"
+		"localName": "마그나카르타2"
 	},
 	"Mahjong Dream C Club (Japan)": {
 		"languages": ["Ja"],
@@ -5969,9 +6051,9 @@
 		"languages": [],
 		"localName": "メモリーズオフ６　Ｎｅｘｔ　Ｒｅｌａｔｉｏｎ"
 	},
-	"Memories Off 6 - T-wave (Japan)": {
+	"Memories Off 6 - T-Wave (Japan)": {
 		"languages": [],
-		"localName": "メモリーズオフ６　～Ｔ－ｗａｖｅ～"
+		"localName": "メモリーズオフ　６　Ｔ－Ｗａｖｅ"
 	},
 	"Mercenaries 2 - World in Flames (Europe) (En,Es,Ru)": {
 		"languages": ["En", "Es", "Ru"]
@@ -6160,7 +6242,7 @@
 	"Mortal Kombat (USA, Europe) (En,Fr,De,Es,It,Pt)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Pt"]
 	},
-	"Mortal Kombat - Komplete Edition (Europe) (En,Fr,De,Es,It,Pt)": {
+	"Mortal Kombat - Komplete Edition (USA, Europe) (En,Fr,De,Es,It,Pt)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Pt"]
 	},
 	"Mortal Kombat vs. DC Universe (World) (En,Fr,De,Es,It)": {
@@ -6302,6 +6384,9 @@
 	"NASCAR 08 (USA)": {
 		"languages": []
 	},
+	"NASCAR 09 (Europe)": {
+		"languages": []
+	},
 	"NASCAR 09 (USA)": {
 		"languages": ["En"]
 	},
@@ -6320,7 +6405,7 @@
 	"NBA 2K11 (World) (En,Ja,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja"]
 	},
-	"NBA 2K12 (Europe)": {
+	"NBA 2K12 (USA, Europe)": {
 		"languages": []
 	},
 	"NBA 2K13 (USA, Europe)": {
@@ -6764,6 +6849,9 @@
 		"languages": []
 	},
 	"Nickelodeon Dance (USA)": {
+		"languages": []
+	},
+	"Nickelodeon Nicktoons MLB (USA)": {
 		"languages": []
 	},
 	"Nickelodeon SpongeBob HeroPants (USA)": {
@@ -7550,6 +7638,10 @@
 	"Project Gotham Racing 4 (World) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru,Cs,Hu)": {
 		"languages": ["Cs", "De", "En", "Es", "Fr", "Hu", "It", "Ja", "Ko", "Pl", "Ru", "Zh"]
 	},
+	"Project Sylpheed (Japan)": {
+		"languages": ["Ja"],
+		"localName": "プロジェクト　シルフィード"
+	},
 	"Project Sylpheed (World) (Beta) (2007-04-05)": {
 		"languages": ["En"]
 	},
@@ -7574,10 +7666,10 @@
 	"Prototype 2 (USA, Europe)": {
 		"languages": []
 	},
-	"Pure (USA, Europe) (En,Fr,De,Es,It,Nl)": {
+	"Pure (USA, Europe) (En,Fr,De,Es,It,Nl) (Demo)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
 	},
-	"Pure (USA, Europe) (En,Fr,De,Es,It,Nl) (Demo)": {
+	"Pure (World) (En,Fr,De,Es,It,Nl)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
 	},
 	"Pure Futbol - Authentic Soccer ~ Pure Football (USA, Europe) (En,Fr,De,Es,It,Nl)": {
@@ -7742,6 +7834,14 @@
 	"Red Dead Redemption (World) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
+	"Red Dead Redemption - Complete Edition (Japan) (Disc 1) (Single Player)": {
+		"languages": ["Ja"],
+		"localName": "レッド・デッド・リデンプション　コンプリート・エディション"
+	},
+	"Red Dead Redemption - Complete Edition (Japan) (Disc 2) (Red Dead Redemption - Undead Nightmare & Multiplayer)": {
+		"languages": ["Ja"],
+		"localName": "レッド・デッド・リデンプション　コンプリート・エディション"
+	},
 	"Red Dead Redemption - Game of the Year Edition (USA, Europe) (En,Fr,De,Es,It) (Disc 1) (Red Dead Redemption Single Player)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
@@ -7754,6 +7854,10 @@
 	},
 	"Red Dead Redemption - Undead Nightmare (USA, Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Red Faction - Armageddon (Japan)": {
+		"languages": ["Ja"],
+		"localName": "レッドファクション：アルマゲドン"
 	},
 	"Red Faction - Armageddon (World) (Beta) (2011-03-17)": {
 		"languages": ["En"]
@@ -8147,7 +8251,7 @@
 		"languages": ["It"],
 		"localName": "Scene It- Campione d'Incassi - Nuovissimi filmati e quiz sul cinema"
 	},
-	"Scene It Box Office Smash! (USA) (En,Fr,Es)": {
+	"Scene It Box Office Smash! (USA, Europe) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
 	},
 	"Scene It Bright Lights! Big Screen! (Canada)": {
@@ -8328,9 +8432,6 @@
 		"languages": ["Ja"],
 		"localName": "真・三國無双５"
 	},
-	"Shin Sangoku Musou 5 (Korea)": {
-		"languages": ["Ko"]
-	},
 	"Shin Sangoku Musou 5 - Empires (Asia)": {
 		"languages": ["Zh"],
 		"localName": "真・三國無雙５　Ｅｍｐｉｒｅｓ"
@@ -8499,6 +8600,9 @@
 	"Skylanders - Trap Team (Europe) (Fr,Nl)": {
 		"languages": ["Fr", "Nl"]
 	},
+	"Skylanders - Trap Team (Latin America) (En,Es,Pt)": {
+		"languages": ["En", "Es", "Pt"]
+	},
 	"Skylanders - Trap Team (USA)": {
 		"languages": []
 	},
@@ -8577,6 +8681,10 @@
 	"Sonic World Adventure (Japan)": {
 		"languages": [],
 		"localName": "ソニック　ワールドアドベンチャー"
+	},
+	"Sonic the Hedgehog (Japan)": {
+		"languages": ["Ja"],
+		"localName": "ソニック・ザ・ヘッジホッグ"
 	},
 	"Sonic the Hedgehog (USA, Europe) (En,Ja,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja"]
@@ -9035,6 +9143,9 @@
 	"Tiger Woods PGA Tour 14 (Europe)": {
 		"languages": []
 	},
+	"Tiger Woods PGA Tour 14 - Masters Historic Edition (USA)": {
+		"languages": []
+	},
 	"Time Leap (Japan)": {
 		"languages": [],
 		"localName": "タイムリープ"
@@ -9054,6 +9165,10 @@
 	},
 	"Titanfall (USA, Europe) (En,Ja,Fr,De,Es,It,Ru)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Ru"]
+	},
+	"Tohoku Daigaku Kawashima Ryuta Kyouju Kanshuu Shidou - Karada de Kotaeru Atarashii Noutore (Japan)": {
+		"languages": ["Ja"],
+		"localName": "東北大学　川島隆太教授　監修・指導　体で答える新しい脳トレ"
 	},
 	"Tom Clancy's EndWar (Japan)": {
 		"languages": [],
@@ -9106,7 +9221,7 @@
 	"Tom Clancy's H.A.W.X. 2 (UK)": {
 		"languages": ["En"]
 	},
-	"Tom Clancy's H.A.W.X. 2 (USA)": {
+	"Tom Clancy's H.A.W.X. 2 (USA, Europe)": {
 		"languages": []
 	},
 	"Tom Clancy's Rainbow Six - Vegas (Japan)": {
@@ -9152,10 +9267,10 @@
 	"Tom Clancy's Splinter Cell - Blacklist (Russia) (Disc 2)": {
 		"languages": ["Ru"]
 	},
-	"Tom Clancy's Splinter Cell - Blacklist (USA) (En,Fr,Es,Nl,Sv,No,Da) (Disc 1) (Campaign Part 1 & Multiplayer)": {
+	"Tom Clancy's Splinter Cell - Blacklist (USA, Europe) (En,Fr,Es,Nl,Sv,No,Da) (Disc 1) (Campaign Part 1 & Multiplayer)": {
 		"languages": ["Da", "En", "Es", "Fr", "Nl", "No", "Sv"]
 	},
-	"Tom Clancy's Splinter Cell - Blacklist (USA) (En,Fr,Es,Nl,Sv,No,Da) (Disc 2) (Campaign Part 2 & HD Texture Pack)": {
+	"Tom Clancy's Splinter Cell - Blacklist (USA, Europe) (En,Fr,Es,Nl,Sv,No,Da) (Disc 2) (Campaign Part 2 & HD Texture Pack)": {
 		"languages": ["Da", "En", "Es", "Fr", "Nl", "No", "Sv"]
 	},
 	"Tom Clancy's Splinter Cell - Conviction (Europe) (Demo)": {
@@ -9192,6 +9307,10 @@
 	},
 	"Tomb Raider (USA, Europe) (En,Es,Nl,Pt)": {
 		"languages": ["En", "Es", "Nl", "Pt"]
+	},
+	"Tomb Raider - Underworld (Japan)": {
+		"languages": ["Ja"],
+		"localName": "トゥームレイダー：アンダーワールド"
 	},
 	"Tomb Raider - Underworld (USA, Europe) (En,Fr,De,Es,It,Nl)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
@@ -9585,6 +9704,10 @@
 	"WET (Germany)": {
 		"languages": []
 	},
+	"WET (Taiwan)": {
+		"languages": ["En"],
+		"localName": "追魂女煞"
+	},
 	"WET (USA, Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
@@ -9961,7 +10084,7 @@
 	"X-Blades (USA)": {
 		"languages": []
 	},
-	"X-Men - Destiny (USA)": {
+	"X-Men - Destiny (USA, Europe)": {
 		"languages": []
 	},
 	"X-Men - The Official Game (Europe) (Es,It)": {
@@ -10053,6 +10176,10 @@
 	},
 	"Xbox 360 - Le Magazine Officiel - Les Demos Jouables - Decembre 2006 - Janvier 2007 (Europe)": {
 		"languages": []
+	},
+	"Xbox 360 - The Experience Disc Version 5.0 (Taiwan)": {
+		"languages": [],
+		"localName": "Ｘｂｏｘ　３６０　體驗光碟　５．0"
 	},
 	"Xbox 360 - The Official Australian Xbox Magazine - Yearbook 2008 (Australia)": {
 		"languages": []
@@ -10376,6 +10503,10 @@
 		"languages": [],
 		"localName": "Ｘｂｏｘ　３６０　ハードディスクデータ転送用ディスク"
 	},
+	"Xbox 360 Hard Drive Transfer Disc (Taiwan) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Ko", "Pt", "Zh"],
+		"localName": "Ｘｂｏｘ　３６０　硬碟轉移軟體光碟／하드 드라이브 전송 디스크"
+	},
 	"Xbox 360 Trial Disk (USA) (En,Es)": {
 		"languages": ["En", "Es"]
 	},
@@ -10491,6 +10622,9 @@
 	},
 	"Zumba Fitness Core (Europe)": {
 		"languages": []
+	},
+	"Zumba Fitness Core (Europe) (En,Es)": {
+		"languages": ["En", "Es"]
 	},
 	"Zumba Fitness Core (USA)": {
 		"languages": ["En"]

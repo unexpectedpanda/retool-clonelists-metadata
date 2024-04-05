@@ -610,8 +610,8 @@
 	"Adidas Power Soccer (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Adidas Power Soccer (UK) (Demo)": {
-		"languages": []
+	"Adidas Power Soccer (UK) (En,Fr,De,Es,It) (Demo)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Adidas Power Soccer (USA)": {
 		"languages": ["En"]
@@ -9715,6 +9715,9 @@
 	"Euro Demo 35 (France)": {
 		"languages": ["Fr"]
 	},
+	"Euro Demo 36 (Europe, Australia) (Demo)": {
+		"languages": ["En"]
+	},
 	"Euro Demo 36 (France)": {
 		"languages": ["Fr"]
 	},
@@ -12632,7 +12635,8 @@
 		"languages": ["En", "Es", "It"]
 	},
 	"Gex - Deep Cover Gecko (Europe) (Fr,De)": {
-		"languages": ["De", "Fr"]
+		"languages": ["De", "Fr"],
+		"localName": "Gex - Contre Dr. Rez"
 	},
 	"Gex - Enter the Gecko (USA)": {
 		"languages": ["En"]
@@ -16372,6 +16376,10 @@
 		"languages": ["Ja"],
 		"localName": "キッズステーション　おしゃべりおえかき　きかんしゃトーマスとなかまたち"
 	},
+	"Kids Station - Oshaberi Oekaki - Kikansha Thomas to Nakama-tachi (Japan) (Controller Set)": {
+		"languages": ["Ja"],
+		"localName": "キッズステーション　おしゃべりおえかき　きかんしゃトーマスとなかまたち"
+	},
 	"Kids Station - Oshaberi Oekaki - Soreike! Anpanman (Japan)": {
 		"languages": ["Ja"],
 		"localName": "キッズステーション　おしゃべりおえかき　それいけ！アンパンマン"
@@ -16379,10 +16387,6 @@
 	"Kids Station - Oshaberi Oekaki - Soreike! Anpanman (Japan) (Controller Set)": {
 		"languages": ["Ja"],
 		"localName": "キッズステーション　おしゃべりおえかき　それいけ！アンパンマン"
-	},
-	"Kids Station - Oshaberi Oekaki Kikansha Thomas to Nakamatachi (Japan) (Controller Set)": {
-		"languages": ["Ja"],
-		"localName": "キッズステーション　おしゃべりおえかき　きかんしゃトーマスとなかまたち"
 	},
 	"Kids Station - Plarail - Tetsudou Monoshiri Hyakka (Japan)": {
 		"languages": ["Ja"],
@@ -30405,31 +30409,31 @@
 	"Starwinder - The Ultimate Space Race (USA)": {
 		"languages": ["En"]
 	},
-	"Station Demo Disc 1 (Europe)": {
+	"Station 1 (Europe)": {
 		"languages": ["En"]
 	},
-	"Station Demo Disc 2 (Europe)": {
+	"Station 2 (Europe)": {
 		"languages": ["En"]
 	},
-	"Station Demo Disc 3 (Europe)": {
+	"Station 3 (Europe)": {
 		"languages": ["En"]
 	},
-	"Station Demo Disc 4 (Europe)": {
+	"Station 4 (Europe)": {
 		"languages": ["En"]
 	},
-	"Station Demo Disc 5 (Europe)": {
+	"Station 5 (Europe)": {
 		"languages": ["En"]
 	},
-	"Station Demo Disc 6 (Europe)": {
+	"Station 6 (Europe)": {
 		"languages": ["En"]
 	},
-	"Station Demo Disc 7 (Europe)": {
+	"Station 7 (Europe, Australia)": {
 		"languages": ["En"]
 	},
-	"Station Demo Disc 8 (Europe)": {
+	"Station 8 (Europe)": {
 		"languages": ["En"]
 	},
-	"Station Demo Disc 9 (Europe)": {
+	"Station 9 (Europe)": {
 		"languages": ["En"]
 	},
 	"StationMaster 02-2001 Xploder (Europe) (En,De) (Unl)": {
@@ -32358,9 +32362,6 @@
 		"languages": ["En"]
 	},
 	"Tekken 3 (Europe, Australia)": {
-		"languages": ["En"]
-	},
-	"Tekken 3 (Europe, Australia) (Demo)": {
 		"languages": ["En"]
 	},
 	"Tekken 3 (France) (Demo)": {

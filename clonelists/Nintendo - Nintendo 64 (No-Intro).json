@@ -1,11 +1,20 @@
 {
 	"description": {
 		"name": "Nintendo - Nintendo 64 (No-Intro)",
-		"lastUpdated": "26 December 2023",
+		"lastUpdated": "05 April 2024",
 		"minimumVersion": "2.02"
 	},
 
 	"variants": [
+		{
+			"group": "77a",
+			"titles": [
+				{"searchTerm": "77a"}
+			],
+			"supersets": [
+				{"searchTerm": "77a Special Edition"}
+			]
+		},
 		{
 			"group": "AeroFighters Assault",
 			"titles": [

@@ -1,11 +1,18 @@
 {
 	"description": {
 		"name": "Atari - 2600 (No-Intro)",
-		"lastUpdated": "09 March 2023",
+		"lastUpdated": "05 April 2023",
 		"minimumVersion": "2.02"
 	},
 
 	"variants": [
+		{
+			"group": "Air Raiders",
+			"titles": [
+				{"searchTerm": "Air Raiders"},
+				{"searchTerm": "Top Gun"}
+			]
+		},
 		{
 			"group": "Air-Sea Battle ~ Target Fun",
 			"titles": [
@@ -39,6 +46,13 @@
 			"titles": [
 				{"searchTerm": "Assault"},
 				{"searchTerm": "Sky Alien ~ Assault"}
+			]
+		},
+		{
+			"group": "Atlantis",
+			"titles": [
+				{"searchTerm": "Atlantis"},
+				{"searchTerm": "Strahlen der Teufelsvogel"}
 			]
 		},
 		{
@@ -100,6 +114,13 @@
 			]
 		},
 		{
+			"group": "Chopper Command",
+			"titles": [
+				{"searchTerm": "Chopper Command"},
+				{"searchTerm": "Wustenschlacht"}
+			]
+		},
+		{
 			"group": "Color Bar Generator",
 			"categories": ["Applications"],
 			"titles": [
@@ -140,6 +161,13 @@
 			"titles": [
 				{"searchTerm": "E.T. - The Extra-Terrestrial"},
 				{"searchTerm": "E.T. The Extra-Terrestrial"}
+			]
+		},
+		{
+			"group": "Enduro",
+			"titles": [
+				{"searchTerm": "Enduro"},
+				{"searchTerm": "Super-Ferrari"}
 			]
 		},
 		{
@@ -195,6 +223,13 @@
 			]
 		},
 		{
+			"group": "Infiltrate",
+			"titles": [
+				{"searchTerm": "Infiltrate"},
+				{"searchTerm": "Springteufel, Die"}
+			]
+		},
+		{
 			"group": "Kid Vid Voice Module (Audio Tapes)",
 			"categories": ["BIOS"],
 			"titles": [
@@ -206,6 +241,13 @@
 			"titles": [
 				{"searchTerm": "Laaser Voley"},
 				{"searchTerm": "Laser Gates"}
+			]
+		},
+		{
+			"group": "M.A.D.",
+			"titles": [
+				{"searchTerm": "Angriff der Luftflotten"},
+				{"searchTerm": "M.A.D."}
 			]
 		},
 		{
@@ -290,6 +332,13 @@
 			]
 		},
 		{
+			"group": "Sky Diver ~ Dare Diver",
+			"titles": [
+				{"searchTerm": "Sky Diver ~ Dare Diver"},
+				{"searchTerm": "Sky Diver"}
+			]
+		},
+		{
 			"group": "Slot Racers",
 			"titles": [
 				{"searchTerm": "Slot Racers"},
@@ -357,6 +406,13 @@
 			"titles": [
 				{"searchTerm": "Phantom Tank"},
 				{"searchTerm": "Tanks but No Tanks"}
+			]
+		},
+		{
+			"group": "Tennis",
+			"titles": [
+				{"searchTerm": "Tennis"},
+				{"searchTerm": "Tennis - International Edition"}
 			]
 		},
 		{

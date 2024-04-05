@@ -17,7 +17,8 @@
 			"group": "Blazing Lazers",
 			"titles": [
 				{"searchTerm": "Blazing Lazers"},
-				{"searchTerm": "Gunhed"}
+				{"searchTerm": "Gunhed"},
+				{"searchTerm": "Gunhed - Special Version", "priority": 2}
 			]
 		},
 		{
@@ -25,6 +26,20 @@
 			"titles": [
 				{"searchTerm": "Bloody Wolf"},
 				{"searchTerm": "Narazumono Sentou Butai - Bloody Wolf"}
+			]
+		},
+		{
+			"group": "Bomberman",
+			"titles": [
+				{"searchTerm": "Bomberman"},
+				{"searchTerm": "Bomberman - Users Battle", "priority": 2}
+			]
+		},
+		{
+			"group": "Bomberman '93",
+			"titles": [
+				{"searchTerm": "Bomberman '93"},
+				{"searchTerm": "Bomberman '93 - Special Version", "priority": 2}
 			]
 		},
 		{
@@ -267,6 +282,13 @@
 			"titles": [
 				{"searchTerm": "Sinistron"},
 				{"searchTerm": "Violent Soldier"}
+			]
+		},
+		{
+			"group": "Soldier Blade",
+			"titles": [
+				{"searchTerm": "Soldier Blade"},
+				{"searchTerm": "Soldier Blade - Special Version", "priority": 2}
 			]
 		},
 		{

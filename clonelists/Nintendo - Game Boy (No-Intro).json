@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Nintendo - Game Boy (No-Intro)",
-		"lastUpdated": "09 March 2024",
+		"lastUpdated": "05 April 2024",
 		"minimumVersion": "2.02"
 	},
 
@@ -827,8 +827,8 @@
 		{
 			"group": "Hammerin' Harry - Ghost Building Company",
 			"titles": [
-				{"searchTerm": "Hammerin' Harry - Ghost Building Company"},
 				{"searchTerm": "Hammerin' Harry"},
+				{"searchTerm": "Hammerin' Harry - Ghost Building Company"},
 				{"searchTerm": "Daiku no Gen-san - Ghost Building Company", "localNames": {"japanese": "大工の源さん ゴーストビルディングカンパニー"}}
 			]
 		},
@@ -1323,13 +1323,6 @@
 			]
 		},
 		{
-			"group": "Ninja Taro",
-			"titles": [
-				{"searchTerm": "Ninja Taro"},
-				{"searchTerm": "Sengoku Ninja-kun"}
-			]
-		},
-		{
 			"group": "Ninja Spirit",
 			"titles": [
 				{"searchTerm": "Ninja Spirit"},
@@ -1337,6 +1330,13 @@
 			],
 			"compilations": [
 				{"searchTerm": "Mani 4 in 1 - R-Type II + Saigo no Nindou + Ganso!! Yancha Maru + Shisenshou - Match-Mania", "titlePosition": 2}
+			]
+		},
+		{
+			"group": "Ninja Taro",
+			"titles": [
+				{"searchTerm": "Ninja Taro"},
+				{"searchTerm": "Sengoku Ninja-kun"}
 			]
 		},
 		{

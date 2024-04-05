@@ -1,13 +1,16 @@
 {
 	"description": {
 		"name": "Microsoft - Xbox 360 (Redump)",
-		"lastUpdated": "09 March 2024",
+		"lastUpdated": "06 April 2024",
 		"minimumVersion": "2.00"
 	},
 
 	"mias": [
 		"Assassin's Creed II - Game of the Year Edition (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da) (Rev 1)",
+		"BioShock Infinite (Japan)",
 		"Crysis 3 (Europe)",
+		"Forza Motorsport 4 (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru,Cs,Hu) (Disc 1) (Play Disc) (Rev 1)",
+		"Forza Motorsport 4 (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru,Cs,Hu) (Disc 2) (Content Install Disc) (Rev 1)",
 		"Guitar Hero III - Legends of Rock (USA) (En,Fr,De,Es,It)",
 		"Halo 3 (Asia) (En,Zh)",
 		"Halo 3 (USA)",
@@ -16,8 +19,12 @@
 		"Mass Effect (France) (Bonus Content Disc)",
 		"Metal Gear Solid - HD Edition (Japan)",
 		"NBA Live 06 (Asia) (En,Zh)",
+		"Red Dead Redemption - Complete Edition (Japan) (Disc 1) (Single Player)",
+		"Red Dead Redemption - Complete Edition (Japan) (Disc 2) (Red Dead Redemption - Undead Nightmare & Multiplayer)",
 		"Resident Evil 5 (World) (En,Ja,Fr,De,Es,It) (Beta) (2009-01-07)",
 		"Rock Band 3 (USA) (Rev 1)",
+		"Xbox 360 - The Experience Disc Version 5.0 (Taiwan)",
+		"Xbox 360 Hard Drive Transfer Disc (Taiwan) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko)",
 		"Your Shape - Fitness Evolved (Asia) (En,Zh)"
 	],
 
@@ -267,6 +274,13 @@
 			]
 		},
 		{
+			"group": "Condemned",
+			"titles": [
+				{"searchTerm": "Condemned"},
+				{"searchTerm": "Condemned - Psycho Crime"}
+			]
+		},
+		{
 			"group": "Dance Dance Revolution Universe",
 			"titles": [
 				{"searchTerm": "Dance Dance Revolution Universe"},
@@ -486,6 +500,7 @@
 			"group": "Dynasty Warriors 6",
 			"titles": [
 				{"searchTerm": "Dynasty Warriors 6"},
+				{"searchTerm": "Jin Samguk Mussang 5"},
 				{"searchTerm": "Shin Sangoku Musou 5"}
 			]
 		},
@@ -1184,6 +1199,7 @@
 				{"searchTerm": "Red Dead Redemption"}
 			],
 			"supersets": [
+				{"searchTerm": "Red Dead Redemption - Complete Edition (Disc 1) (Single Player)"},
 				{"searchTerm": "Red Dead Redemption - Game of the Year Edition (Disc 1) (Red Dead Redemption Single Player)"}
 			]
 		},
@@ -1193,6 +1209,7 @@
 				{"searchTerm": "Red Dead Redemption - Undead Nightmare"}
 			],
 			"supersets": [
+				{"searchTerm": "Red Dead Redemption - Complete Edition (Disc 2) (Red Dead Redemption - Undead Nightmare & Multiplayer)"},
 				{"searchTerm": "Red Dead Redemption - Game of the Year Edition (Disc 2) (Undead Nightmare and Multiplayer)"}
 			]
 		},

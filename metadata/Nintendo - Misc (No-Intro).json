@@ -278,6 +278,12 @@
 	"4chan Nintendo leak 2022-09-18 no. 3 - crush.tar.gz.003 (World) (En,Ja)": {
 		"languages": ["En", "Ja"]
 	},
+	"[BIOS] 3DS - Developer AES Keys (World)": {
+		"languages": ["nolang"]
+	},
+	"[BIOS] 3DS - Retail AES Keys (World)": {
+		"languages": ["nolang"]
+	},
 	"[BIOS] EDEV NAND (Unknown) (April 2016)": {
 		"languages": ["En"]
 	},
@@ -287,7 +293,10 @@
 	"[BIOS] Pokewalker (World)": {
 		"languages": ["En"]
 	},
-	"[BIOS] Switch - Product Keys and Common Cert (World)": {
+	"[BIOS] Switch - Developer EDEV Product Keys (World)": {
+		"languages": ["nolang"]
+	},
+	"[BIOS] Switch - Retail Product Keys and Common Cert (World)": {
 		"languages": ["nolang"]
 	},
 	"[BIOS] Wii U - Boot1 Key (World)": {
@@ -343,6 +352,9 @@
 	},
 	"Internet Browser (World) (v11.9.0) (JP,US,EU,KR,TW,HK,CH) (3DS) (OSS)": {
 		"languages": ["En"]
+	},
+	"LodgeNet Nintendo Gateway System i64 Metadata (USA)": {
+		"languages": ["nolang"]
 	},
 	"Mario Kart 8 (World) (Wii U) (OSS)": {
 		"languages": ["En"]

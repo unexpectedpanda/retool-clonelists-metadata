@@ -9,15 +9,15 @@
    PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN"
    SYSTEM "https://raw.githubusercontent.com/unexpectedpanda/retool/main/datafile.dtd"
 
-   $Revision: 2.5 $
-   $Date: 2023/12/24 08:42:00 $
+   $Revision: 2.6 $
+   $Date: 2024/03/23 08:42:00 $
 
 -->
 
 <!ELEMENT datafile (header?, (game|machine)*)>
 	<!ATTLIST datafile build CDATA #IMPLIED>
 	<!ATTLIST datafile debug (yes|no) "no">
-	<!ELEMENT header (name, description, category?, version, date?, author, email?, homepage?, url?, comment?, clrmamepro?, romcenter?)>
+	<!ELEMENT header (name, description, category?, version, date?, author, email?, homepage?, url?, comment?, retool?, clrmamepro?, romcenter?)>
 		<!ELEMENT name (#PCDATA)>
 		<!ELEMENT description (#PCDATA)>
 		<!ELEMENT category (#PCDATA)>
@@ -28,6 +28,7 @@
 		<!ELEMENT homepage (#PCDATA)>
 		<!ELEMENT url (#PCDATA)>
 		<!ELEMENT comment (#PCDATA)>
+		<!ELEMENT retool (#PCDATA)>
 		<!ELEMENT clrmamepro EMPTY>
 			<!ATTLIST clrmamepro header CDATA #IMPLIED>
 			<!ATTLIST clrmamepro forcemerging (none|split|full) "split">

@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Nintendo - Nintendo Entertainment System (No-Intro)",
-		"lastUpdated": "17 March 2024",
+		"lastUpdated": "05 April 2024",
 		"minimumVersion": "2.02"
 	},
 
@@ -2204,13 +2204,6 @@
 			]
 		},
 		{
-			"group": "Happy Camper",
-			"titles": [
-				{"searchTerm": "Happy Camper (NintendoAge)"},
-				{"searchTerm": "Happy Camper"}
-			]
-		},
-		{
 			"group": "Happy Pairs",
 			"titles": [
 				{
@@ -3093,28 +3086,32 @@
 			"group": "Mega Man 3",
 			"titles": [
 				{"searchTerm": "Mega Man 3"},
-				{"searchTerm": "Rockman 3 - Dr. Wily no Saigo!"}
+				{"searchTerm": "Rockman 3 - Dr. Wily no Saigo!"},
+				{"searchTerm": "Rockman III"}
 			]
 		},
 		{
 			"group": "Mega Man 4",
 			"titles": [
 				{"searchTerm": "Mega Man 4"},
-				{"searchTerm": "Rockman 4 - Aratanaru Yabou!!"}
+				{"searchTerm": "Rockman 4 - Aratanaru Yabou!!"},
+				{"searchTerm": "Rockman IV"}
 			]
 		},
 		{
 			"group": "Mega Man 5",
 			"titles": [
 				{"searchTerm": "Mega Man 5"},
-				{"searchTerm": "Rockman 5 - Blues no Wana!"}
+				{"searchTerm": "Rockman 5 - Blues no Wana!"},
+				{"searchTerm": "Rockman V"}
 			]
 		},
 		{
 			"group": "Mega Man 6",
 			"titles": [
 				{"searchTerm": "Mega Man 6"},
-				{"searchTerm": "Rockman 6 - Shijou Saidai no Tatakai!!"}
+				{"searchTerm": "Rockman 6 - Shijou Saidai no Tatakai!!"},
+				{"searchTerm": "Rockman VI"}
 			]
 		},
 		{
@@ -3837,8 +3834,7 @@
 			"group": "Power Punch II",
 			"titles": [
 				{"searchTerm": "Mike Tyson's Intergalactic Power Punch"},
-				{"searchTerm": "Power Punch II"},
-				{"searchTerm": "Mike Tyson's Intergalactic Power Punch (NintendoAge)", "priority": 2}
+				{"searchTerm": "Power Punch II"}
 			]
 		},
 		{
@@ -5367,13 +5363,6 @@
 			]
 		},
 		{
-			"group": "U-Force Power Games",
-			"titles": [
-				{"searchTerm": "U-Force Power Games"},
-				{"searchTerm": "U-Force Power Games (NintendoAge)"}
-			]
-		},
-		{
 			"group": "Ufouria - The Saga",
 			"titles": [
 				{"searchTerm": "Hebereke"},
@@ -5512,6 +5501,13 @@
 			"titles": [
 				{"searchTerm": "War Game (Family Basic)"},
 				{"searchTerm": "War Game (BG2) (Family Basic)", "priority": 2}
+			]
+		},
+		{
+			"group": "War on Wheels",
+			"titles": [
+				{"searchTerm": "War on Wheels (1991)"},
+				{"searchTerm": "War on Wheels (1990)", "priority": 2}
 			]
 		},
 		{

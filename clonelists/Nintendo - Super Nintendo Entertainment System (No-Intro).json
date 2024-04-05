@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Nintendo - Super Nintendo Entertainment System (No-Intro)",
-		"lastUpdated": "09 March 2024",
+		"lastUpdated": "05 April 2024",
 		"minimumVersion": "2.02"
 	},
 
@@ -2182,6 +2182,7 @@
 			"group": "Star Fox",
 			"titles": [
 				{"searchTerm": "Star Fox"},
+				{"searchTerm": "Star Glider"},
 				{"searchTerm": "Starwing"},
 				{"searchTerm": "Starwing - Competition", "priority": 2},
 				{"searchTerm": "Super Star Fox Weekend", "priority": 3}
