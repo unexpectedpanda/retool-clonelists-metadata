@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Nintendo - Nintendo 3DS (No-Intro)",
-		"lastUpdated": "18 March 2024",
+		"lastUpdated": "24 March 2024",
 		"minimumVersion": "2.02"
 	},
 
@@ -1054,8 +1054,11 @@
 			]
 		},
 		{
-			"group": "Monster Hunter 4 Ultimate",
+			"group": "Monster Hunter 4",
 			"titles": [
+				{"searchTerm": "Monster Hunter 4"}
+			],
+			"supersets": [
 				{"searchTerm": "Monster Hunter 4 Ultimate"},
 				{"searchTerm": "Monster Hunter 4G"}
 			]
