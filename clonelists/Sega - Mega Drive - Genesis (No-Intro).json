@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Sega - Mega Drive - Genesis (No-Intro)",
-		"lastUpdated": "09 March 2024",
+		"lastUpdated": "07 April 2024",
 		"minimumVersion": "2.02"
 	},
 
@@ -240,10 +240,24 @@
 			]
 		},
 		{
+			"group": "Bomber",
+			"titles": [
+				{"searchTerm": "Bomber"},
+				{"searchTerm": "Domine o Territorio"}
+			]
+		},
+		{
 			"group": "Bone Marrow Rebirth (Demo)",
 			"titles": [
 				{"searchTerm": "Bone Marrow Rebirth (Demo)"},
 				{"searchTerm": "Bone Marrow (Demo)", "priority": 2}
+			]
+		},
+		{
+			"group": "Bottle Taps Race",
+			"titles": [
+				{"searchTerm": "Bottle Taps Race"},
+				{"searchTerm": "Corrida de Tampinhas"}
 			]
 		},
 		{
