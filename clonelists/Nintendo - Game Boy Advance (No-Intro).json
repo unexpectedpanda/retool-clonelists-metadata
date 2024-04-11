@@ -1954,13 +1954,6 @@
 			]
 		},
 		{
-			"group": "Meine Tierarztpraxis",
-			"titles": [
-				{"searchTerm": "Meine Tierarztpraxis"},
-				{"searchTerm": "Mijn Dierenpraktijk"}
-			]
-		},
-		{
 			"group": "Metroid - Zero Mission",
 			"titles": [
 				{"searchTerm": "Metroid - Zero Mission"},
@@ -2162,6 +2155,14 @@
 				{"searchTerm": "Meine Tierpension"},
 				{"searchTerm": "Mijn Dierenpension"},
 				{"searchTerm": "Paws & Claws - Pet Resort"}
+			]
+		},
+		{
+			"group": "Paws & Claws - Pet Vet",
+			"titles": [
+				{"searchTerm": "Paws & Claws - Pet Vet"},
+				{"searchTerm": "Meine Tierarztpraxis"},
+				{"searchTerm": "Mijn Dierenpraktijk"}
 			]
 		},
 		{
