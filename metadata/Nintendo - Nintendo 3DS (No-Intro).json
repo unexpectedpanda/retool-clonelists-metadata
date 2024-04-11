@@ -65,10 +65,10 @@
 	"100% Pascal Sensei - Kanpeki Paint Bombers (Japan)": {
 		"languages": ["Ja"]
 	},
-	"[BIOS] Nintendo 3DS - boot9 (World)": {
+	"[BIOS] Nintendo 3DS ARM9 Boot ROM (World)": {
 		"languages": ["En"]
 	},
-	"[BIOS] Nintendo 3DS - boot11 (World)": {
+	"[BIOS] Nintendo 3DS ARM11 Boot ROM (World)": {
 		"languages": ["En"]
 	},
 	"A-Ressha de Ikou 3D (Japan)": {
@@ -747,10 +747,6 @@
 	"Cooking Mama 4 (Japan)": {
 		"languages": ["Ja"]
 	},
-	"Cooking Mama 4 (Korea)": {
-		"languages": ["Ko"],
-		"localName": "쿠킹마마　마마와　나의　요리　시간　！"
-	},
 	"Cooking Mama 4 - Kitchen Magic (USA) (Rev 1)": {
 		"languages": ["En"]
 	},
@@ -769,6 +765,10 @@
 	"Cooking Mama - Mamareul Dowajullae (Korea)": {
 		"languages": ["Ko"],
 		"localName": "쿠킹마마　마마를　도와줄래"
+	},
+	"Cooking Mama - Mamawa Naui Yori Sigan (Korea)": {
+		"languages": ["Ko"],
+		"localName": "쿠킹마마　마마와　나의　요리　시간　！"
 	},
 	"Cooking Mama - Sweet Shop (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -1334,10 +1334,6 @@
 	"Etrian Odyssey 2 Untold - The Fafnir Knight (Europe)": {
 		"languages": ["En"]
 	},
-	"Etrian Odyssey 2 Untold - The Fafnir Knight (Korea)": {
-		"languages": ["Ko"],
-		"localName": "신　세계수의　미궁　２　파프니르기사"
-	},
 	"Etrian Odyssey 2 Untold - The Fafnir Knight (USA)": {
 		"languages": ["En"]
 	},
@@ -1790,6 +1786,9 @@
 	"Gyakuten Saiban 123 - Naruhodo Selection (Japan)": {
 		"languages": ["Ja"]
 	},
+	"Gyro Sensor Calibration CTR (World) (v5.22) (2013-07-26)": {
+		"languages": ["En"]
+	},
 	"Haikyu!! Cross Team Match! (Japan)": {
 		"languages": ["Ja"]
 	},
@@ -1979,6 +1978,9 @@
 		"languages": ["En"]
 	},
 	"Hoppe-chan - Minna de Odekake! Waku Waku Hoppe Land!! (Japan)": {
+		"languages": ["Ja"]
+	},
+	"Hoppe-chan - Punitto Shibotte Daibouken! (Japan) (Rev 1)": {
 		"languages": ["Ja"]
 	},
 	"Hoppe-chan - Punitto Shibotte Daibouken! (Japan)": {
@@ -2223,6 +2225,9 @@
 	"Jewel Pet - Mahou no Rhythm de Ieie! (Japan) (Rev 1)": {
 		"languages": ["Ja"]
 	},
+	"Jewel Pet - Mahou no Rhythm de Ieie! (Japan)": {
+		"languages": ["Ja"]
+	},
 	"Jewel Quest - The Sapphire Dragon (Europe) (En,Fr,De,Es,It,Nl)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
 	},
@@ -2247,6 +2252,9 @@
 		"localName": "짱구는　못말려　판타스틱－！　우주별　대모험！！"
 	},
 	"JS Girl - Doki Doki Model Challenge (Japan)": {
+		"languages": ["Ja"]
+	},
+	"Jukugo - Sokubiki Jiten Yomenai Kanji mo Raku Raku Yomeru (Japan) (Beta)": {
 		"languages": ["Ja"]
 	},
 	"Jukugo - Sokubiki Jiten Yomenai Kanji mo Raku Raku Yomeru (Japan) (Rev 1)": {
@@ -2367,6 +2375,10 @@
 	"Kirby Battle Deluxe (Japan)": {
 		"languages": ["Ja"]
 	},
+	"Kirby Battle Deluxe! (Korea) (Rev 1)": {
+		"languages": ["Ko"],
+		"localName": "커비　배틀　디럭스！"
+	},
 	"Kirby Battle Royale (Europe) (En,Fr,De,Es,It,Nl)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
 	},
@@ -2381,10 +2393,6 @@
 	},
 	"Kirby's Extra Epic Yarn (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
-	},
-	"Kirby's Extra Epic Yarn (Korea)": {
-		"languages": ["Ko"],
-		"localName": "털실　커비　이야기　플러스"
 	},
 	"Kirby's Extra Epic Yarn (USA) (En,Fr,Es) (Demo) (Kiosk)": {
 		"languages": ["En", "Es", "Fr"]
@@ -2803,6 +2811,9 @@
 		"languages": ["Ko"],
 		"localName": "ＬＥＧＯ　Ｎｉｎｊａｇｏ　－　섀도　오브　로닌"
 	},
+	"LEGO Ninjago - Shadow of Ronin (USA) (En,Fr,Es,Pt) (Rev 1)": {
+		"languages": ["En", "Es", "Fr", "Pt"]
+	},
 	"LEGO Ninjago - Shadow of Ronin (USA) (En,Fr,Es,Pt)": {
 		"languages": ["En", "Es", "Fr", "Pt"]
 	},
@@ -2841,6 +2852,9 @@
 		"localName": "레고　스타워즈　－　깨어난　포스"
 	},
 	"LEGO Star Wars - Le Reveil de la Force (France) (En,Fr,De,Es,It,Nl,Da)": {
+		"languages": ["Da", "De", "En", "Es", "Fr", "It", "Nl"]
+	},
+	"LEGO Star Wars - The Force Awakens (Europe) (En,Fr,De,Es,It,Nl,Da) (Beta) (2016-04-17)": {
 		"languages": ["Da", "De", "En", "Es", "Fr", "It", "Nl"]
 	},
 	"LEGO Star Wars - The Force Awakens (Europe) (En,Fr,De,Es,It,Nl,Da)": {
@@ -2992,11 +3006,11 @@
 	"Manga-ka Debut Monogatari - Suteki na Manga o Egakou (Japan)": {
 		"languages": ["Ja"]
 	},
-	"MapleStory - The Girl's Fate (Korea)": {
-		"languages": ["Ko"]
-	},
 	"MapleStory - Unmei no Shoujo (Japan)": {
 		"languages": ["Ja"]
+	},
+	"MapleStory - Unmyeongui Sonyeo (Korea)": {
+		"languages": ["Ko"]
 	},
 	"Mario & Luigi - Bowser's Inside Story + Bowser Jr.'s Journey (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -4160,10 +4174,6 @@
 	"Pippi Longstocking 3D (Europe) (En,Fr,De,Nl,Sv,No,Da,Fi)": {
 		"languages": ["Da", "De", "En", "Fi", "Fr", "Nl", "No", "Sv"]
 	},
-	"Pocket Monster - Ultra Sun (Korea)": {
-		"languages": ["Ko"],
-		"localName": "포켓몬스터　울트라썬"
-	},
 	"Pocket Monsters Moon (Japan) (En,Ja,Fr,De,Es,It,Zh,Ko)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Ko", "Zh"]
 	},
@@ -4187,6 +4197,10 @@
 	},
 	"Pocket Monsters Ultra Sun (Japan) (En,Ja,Fr,De,Es,It,Zh,Ko)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Ko", "Zh"]
+	},
+	"Pocket Monsters Ultra Sun (Korea)": {
+		"languages": ["Ko"],
+		"localName": "포켓몬스터　울트라썬"
 	},
 	"Pocket Soccer League - Calciobit (Japan)": {
 		"languages": ["Ja"]
@@ -4477,6 +4491,9 @@
 		"languages": ["En"]
 	},
 	"Professor Layton and the Azran Legacy (USA)": {
+		"languages": ["En"]
+	},
+	"Professor Layton and the Miracle Mask (Australia) (Rev 1)": {
 		"languages": ["En"]
 	},
 	"Professor Layton and the Miracle Mask (Europe) (Demo) (Kiosk)": {
@@ -4944,6 +4961,9 @@
 	"Sentouchu - Densetsu no Shinobi to Survival Battle! (Japan)": {
 		"languages": ["Ja"]
 	},
+	"Shakedown - Hawaii (USA) (Rev 1)": {
+		"languages": ["En"]
+	},
 	"Shanghai 3D Cube (Japan)": {
 		"languages": ["Ja"]
 	},
@@ -5120,6 +5140,10 @@
 	},
 	"Sims 3, The - Pets (USA) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
+	},
+	"Sin Segyesuui Migung 2 - Fafnir Gisa (Korea)": {
+		"languages": ["Ko"],
+		"localName": "신　세계수의　미궁　２　파프니르기사"
 	},
 	"Sin Segyesuui Migung - Millenniumui Sonyeo (Korea)": {
 		"languages": ["Ko"],
@@ -5520,6 +5544,9 @@
 	"Super Pokemon Rumble (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
+	"Super Pokemon Scramble (Japan) (Rev 1)": {
+		"languages": ["Ja"]
+	},
 	"Super Pokemon Scramble (Japan)": {
 		"languages": ["Ja"]
 	},
@@ -5620,6 +5647,12 @@
 	"Susume! Kinopio Taichou (Japan)": {
 		"languages": ["Ja"]
 	},
+	"SystemUpdater (USA) (Ver. 0.15.19) (Program)": {
+		"languages": ["En"]
+	},
+	"SystemUpdater (USA) (Ver. 0.17.19) (Program)": {
+		"languages": ["En"]
+	},
 	"Syunsoku Mezase! Zenkoku Saikyou Runner (Japan)": {
 		"languages": ["Ja"]
 	},
@@ -5713,6 +5746,10 @@
 	},
 	"Tenkai Knights - Brave Battle (USA) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
+	},
+	"Teolsil Kirby Iyagi Plus (Korea)": {
+		"languages": ["Ko"],
+		"localName": "털실　커비　이야기　플러스"
 	},
 	"Terra Formars - Akaki Hoshi no Gekitou (Japan)": {
 		"languages": ["Ja"]
@@ -5819,6 +5856,9 @@
 	"Tobidasu! Puzzle Bobble 3D (Japan)": {
 		"languages": ["Ja"]
 	},
+	"TOEIC Test - Chousoku Training (Japan) (Rev 1)": {
+		"languages": ["Ja"]
+	},
 	"TOEIC Test - Chousoku Training (Japan)": {
 		"languages": ["Ja"]
 	},
@@ -5894,6 +5934,9 @@
 	"Toushin Toshi - Girls Gift RPG (Japan)": {
 		"languages": ["Ja"]
 	},
+	"Tousouchuu - Shijou Saikyou no Hunter-tachi Kara Nigekire! (Japan) (Rev 1)": {
+		"languages": ["Ja"]
+	},
 	"Tousouchuu - Shijou Saikyou no Hunter-tachi Kara Nigekire! (Japan)": {
 		"languages": ["Ja"]
 	},
@@ -5955,9 +5998,6 @@
 	},
 	"UnchainBlades ReXX (Japan)": {
 		"languages": ["Ja"]
-	},
-	"US CTR Update 0.15.19 (World) (Program)": {
-		"languages": ["En"]
 	},
 	"Ushimitsu Monstruo - Linze to Mahou no Rhythm (Japan)": {
 		"languages": ["Ja"]
@@ -6320,7 +6360,7 @@
 	"Zelda no Densetsu - Triforce 3-Juushi (Japan)": {
 		"languages": ["Ja"]
 	},
-	"Zelda no Densetsu - Triforce 3-Juushi (Korea)": {
+	"Zelda-ui Jeonseol - Triforce Samchongsa (Korea)": {
 		"languages": ["Ko"],
 		"localName": "젤다의　전설　트라이포스　삼총사"
 	},

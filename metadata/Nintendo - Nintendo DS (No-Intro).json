@@ -35,8 +35,8 @@
 	"2 in 1 - Best Of Bibi Und Tina - Die Grosse Schnitzeljagd + Das Grosse Unwetter (Germany)": {
 		"languages": ["De"]
 	},
-	"2 in 1 - Mahjong + Mahjong Around the World (Europe) (En,Fr,De,Es,It,Nl)": {
-		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
+	"2 in 1 - Mahjong + Mahjong Around the World (Europe) (En,Fr,De,Es,It)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"2 in 1 - Music for Kids + Englisch Macht Spass - Eine Reise nach London! (Europe) (En,De) (NDSi Enhanced)": {
 		"languages": ["De", "En"]
@@ -253,8 +253,8 @@
 	"100 Classic Books (USA)": {
 		"languages": ["En"]
 	},
-	"100 Classic Games (Europe) (En,Fr,De,Es,It) (Rev 1)": {
-		"languages": ["De", "En", "Es", "Fr", "It"]
+	"100 Classic Games (Europe) (En,Fr,De,Es,Nl) (Rev 1)": {
+		"languages": ["De", "En", "Es", "Fr", "Nl"]
 	},
 	"100 Classic Games (Europe) (En,Fr,De,Es,Nl)": {
 		"languages": ["De", "En", "Es", "Fr", "Nl"]
@@ -359,8 +359,8 @@
 	"2006 FIFA World Cup - Germany 2006 (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"2006 FIFA World Cup - Germany 2006 (USA)": {
-		"languages": ["En"]
+	"2006 FIFA World Cup - Germany 2006 (USA) (En,Fr,De,Es,It)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"2006-Nen 10-Gatsu Taikenban Soft (Japan) (Demo) (Kiosk)": {
 		"languages": ["Ja"]
@@ -373,12 +373,6 @@
 	},
 	"[BIOS] iQue DS Firmware (China) (En,Fr,De,Es,It,Zh) (2005-06-09)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Zh"]
-	},
-	"[BIOS] iQue DS Lite ARM7TDMI (GBA Mode) (China)": {
-		"languages": ["Zh"]
-	},
-	"[BIOS] iQue DS Lite ARM946E-S (China)": {
-		"languages": ["Zh"]
 	},
 	"[BIOS] iQue DS Lite Firmware (China) (En,Fr,De,Es,It,Zh) (2006-04-26)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Zh"]
@@ -512,8 +506,14 @@
 	"Advance Wars - Days of Ruin (USA) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
 	},
+	"Advance Wars - Dual Strike (Europe) (En,Fr,De,Es,It) (Wii U Virtual Console)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
 	"Advance Wars - Dual Strike (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Advance Wars - Dual Strike (USA) (Wii U Virtual Console)": {
+		"languages": ["En"]
 	},
 	"Advance Wars - Dual Strike (USA, Australia)": {
 		"languages": ["En"]
@@ -658,6 +658,9 @@
 	"Aliens - Infestation (USA) (En,Fr,De)": {
 		"languages": ["De", "En", "Fr"]
 	},
+	"Aliens in the Attic (Europe) (En,Fr,De,Es,It,Nl) (Rev 1)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
+	},
 	"Aliens in the Attic (Europe) (En,Fr,De,Es,It,Nl)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
 	},
@@ -733,8 +736,8 @@
 	"Amazing Spider-Man, The (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Amazing Spider-Man, The (USA)": {
-		"languages": ["En"]
+	"Amazing Spider-Man, The (USA) (En,Fr,Es)": {
+		"languages": ["En", "Es", "Fr"]
 	},
 	"America's Next Top Model (Europe) (En,De)": {
 		"languages": ["De", "En"]
@@ -817,8 +820,14 @@
 	"Animal Crossing - Wild World (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
+	"Animal Crossing - Wild World (Europe) (En,Fr,De,Es,It) (Wii U Virtual Console)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
 	"Animal Crossing - Wild World (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Animal Crossing - Wild World (USA) (Rev 1) (Wii U Virtual Console)": {
+		"languages": ["En"]
 	},
 	"Animal Crossing - Wild World (USA) (Rev 1)": {
 		"languages": ["En"]
@@ -925,8 +934,9 @@
 	"Anno - Create a New World (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Annyeong! Haemtori - Haemtoriwa BanggaBangga Chingudeul (Korea) [b]": {
-		"languages": ["Ko"]
+	"Annyeong! Haemtori - Haemtoriwa BanggaBangga Chingudeul (Korea)": {
+		"languages": ["Ko"],
+		"localName": "안녕！　햄토리　－　햄토리와　방가방가　친구들"
 	},
 	"Anone DS (Japan) (NDSi Enhanced)": {
 		"languages": ["Ja"],
@@ -1073,8 +1083,8 @@
 	"Army Men - Soldiers of Misfortune (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Army Men - Soldiers of Misfortune (USA)": {
-		"languages": ["En"]
+	"Army Men - Soldiers of Misfortune (USA) (En,Fr,De,Es,It)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Around the World in 80 Days (Europe) (En,Fr,De)": {
 		"languages": ["De", "En", "Fr"]
@@ -1215,6 +1225,9 @@
 		"languages": ["Ja"]
 	},
 	"Atsumare! Power Pro Kun no DS Koushien (Japan)": {
+		"languages": ["Ja"]
+	},
+	"Atsumete! Kirby (Japan) (Wii U Virtual Console)": {
 		"languages": ["Ja"]
 	},
 	"Atsumete! Kirby (Japan)": {
@@ -1481,8 +1494,14 @@
 	"Barbie - Groom and Glam Pups (Europe) (En,Fr,De,Es,It,Nl)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
 	},
+	"Barbie - Groom and Glam Pups (USA) (Beta)": {
+		"languages": ["En"]
+	},
 	"Barbie - Groom and Glam Pups (USA) (En,Fr)": {
 		"languages": ["En", "Fr"]
+	},
+	"Barbie - Jet, Set & Style! (Europe) (De,Es,It) (Beta) (VMZP) (NDSi Enhanced)": {
+		"languages": ["De", "Es", "It"]
 	},
 	"Barbie - Jet, Set & Style! (Europe) (De,Es,It) (VMZP) (NDSi Enhanced)": {
 		"languages": ["De", "Es", "It"]
@@ -1859,10 +1878,16 @@
 	"Big Brain Academy (Europe) (En,Fr,De,Es,It,Nl) (Demo) (Kiosk)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
 	},
+	"Big Brain Academy (Europe) (En,Fr,De,Es,It,Nl) (Wii U Virtual Console)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
+	},
 	"Big Brain Academy (Europe) (En,Fr,De,Es,It,Nl)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
 	},
 	"Big Brain Academy (USA) (Demo) (Kiosk)": {
+		"languages": ["En"]
+	},
+	"Big Brain Academy (USA) (Wii U Virtual Console)": {
 		"languages": ["En"]
 	},
 	"Big Brain Academy (USA, Australia)": {
@@ -1907,8 +1932,8 @@
 	"Biker Mice from Mars (Europe)": {
 		"languages": ["En"]
 	},
-	"Biker Mice from Mars (USA)": {
-		"languages": ["En"]
+	"Biker Mice from Mars (USA) (En,Fr,Es)": {
+		"languages": ["En", "Es", "Fr"]
 	},
 	"Bikkuriman Daijiten (Japan)": {
 		"languages": ["Ja"]
@@ -2048,8 +2073,8 @@
 	"Boku to Sim no Machi - Agent - Nazo no Kaitou kara Hihou o Mamore Daisakusen! (Japan) (En,Ja)": {
 		"languages": ["En", "Ja"]
 	},
-	"Boku to Sim no Machi - Kingdom (Japan)": {
-		"languages": ["Ja"]
+	"Boku to Sim no Machi - Kingdom (Japan) (En,Ja)": {
+		"languages": ["En", "Ja"]
 	},
 	"Boku to Sim no Machi - Party (Japan)": {
 		"languages": ["Ja"]
@@ -2185,6 +2210,9 @@
 	},
 	"Brain Age 2 - More Training in Minutes a Day! (USA) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
+	},
+	"Brain Age - Train Your Brain in Minutes a Day! (USA) (Rev 1) (Wii U Virtual Console)": {
+		"languages": ["nolang"]
 	},
 	"Brain Age - Train Your Brain in Minutes a Day! (USA) (Rev 1)": {
 		"languages": ["En"]
@@ -2422,6 +2450,9 @@
 	},
 	"Busy Scissors (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Busy Scissors (USA) (Beta)": {
+		"languages": ["En"]
 	},
 	"Busy Scissors (USA) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
@@ -2777,6 +2808,9 @@
 	"Catch! Touch! Yoshi! (Japan) (Demo) (Kiosk)": {
 		"languages": ["Ja"]
 	},
+	"Catch! Touch! Yoshi! (Japan) (Rev 1) (Wii U Virtual Console)": {
+		"languages": ["nolang"]
+	},
 	"Catch! Touch! Yoshi! (Japan) (Rev 1)": {
 		"languages": ["Ja"],
 		"localName": "キャッチ！タッチ！ヨッシー！"
@@ -2877,8 +2911,8 @@
 	"Charlotte's Web (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Charlotte's Web (USA)": {
-		"languages": ["En"]
+	"Charlotte's Web (USA) (En,Fr,De,Es,It)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Charm Girls Club - My Fashion Mall (Europe) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
@@ -2958,8 +2992,8 @@
 	"Chicken Little - Ace in Action (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Chicken Little - Ace in Action (USA)": {
-		"languages": ["En"]
+	"Chicken Little - Ace in Action (USA) (En,Fr,De,Es,It)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Chicken Little - Uchuu Saikyou no Team (Japan)": {
 		"languages": ["Ja"]
@@ -3272,11 +3306,11 @@
 	"Club Penguin - Elite Penguin Force (Germany)": {
 		"languages": ["De"]
 	},
+	"Club Penguin - Elite Penguin Force (USA) (En,Fr) (Rev 1)": {
+		"languages": ["En", "Fr"]
+	},
 	"Club Penguin - Elite Penguin Force (USA) (En,Fr,Es) (Rev 2)": {
 		"languages": ["En", "Es", "Fr"]
-	},
-	"Club Penguin - Elite Penguin Force (USA) (Rev 1)": {
-		"languages": ["En"]
 	},
 	"Club Penguin - Elite Penguin Force (USA)": {
 		"languages": ["En"]
@@ -3797,7 +3831,7 @@
 	"D&CO (Europe) (Fr) (Beta)": {
 		"languages": ["Fr"]
 	},
-	"D&CO - Ta Maison de Reve en 7 Jours (Europe) (Fr,It) [b]": {
+	"D&CO - Ta Maison de Reve en 7 Jours (Europe) (Fr,It)": {
 		"languages": ["Fr", "It"]
 	},
 	"D.Gray-Man - Innocence no Shito-tachi (Japan)": {
@@ -3903,7 +3937,7 @@
 	"de Blob 2 (USA) (En,Fr) (NDSi Enhanced)": {
 		"languages": ["En", "Fr"]
 	},
-	"de Blob (Unknown) (Proto)": {
+	"de Blob (USA) (Proto)": {
 		"languages": ["En"]
 	},
 	"Dead'n'Furious (Europe) (En,Fr,De,Es,It)": {
@@ -4015,10 +4049,22 @@
 	"Dementium - The Ward (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
+	"Dementium - The Ward (USA) (Beta 1)": {
+		"languages": ["En"]
+	},
+	"Dementium - The Ward (USA) (Beta 2)": {
+		"languages": ["En"]
+	},
 	"Dementium - The Ward (USA)": {
 		"languages": ["En"]
 	},
 	"Dementium II (Europe) (En,Fr,De,Es,It)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Dementium II (USA) (Beta 1)": {
+		"languages": ["En"]
+	},
+	"Dementium II (USA) (En,Fr,De,Es,It) (Beta 2)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Dementium II (USA) (En,Fr,De,Es,It)": {
@@ -4315,6 +4361,18 @@
 	"Disney Planes (USA) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
 	},
+	"Disney Planes - Fire & Rescue (Europe) (En,Fr,De,Es,It) (Proto 1)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Disney Planes - Fire & Rescue (Europe) (En,Fr,De,Es,It) (Proto 2)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Disney Planes - Fire & Rescue (Europe) (En,Fr,De,Es,It) (Proto 3)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Disney Planes - Fire & Rescue (USA) (En,Fr,Es) (Proto)": {
+		"languages": ["En", "Es", "Fr"]
+	},
 	"Disney Princess - Enchanting Storybooks (Europe) (De,Es,It)": {
 		"languages": ["De", "Es", "It"]
 	},
@@ -4361,6 +4419,9 @@
 		"languages": ["En", "Es", "Fr"]
 	},
 	"DK - Jungle Climber (USA) (Demo) (Kiosk)": {
+		"languages": ["En"]
+	},
+	"DK - Jungle Climber (USA) (Wii U Virtual Console)": {
 		"languages": ["En"]
 	},
 	"DK - Jungle Climber (USA)": {
@@ -4440,8 +4501,14 @@
 	"Dondake Sports 101 (Japan)": {
 		"languages": ["Ja"]
 	},
+	"Donkey Kong - Jungle Climber (Europe) (En,Fr,De,Es,It) (Wii U Virtual Console)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
 	"Donkey Kong - Jungle Climber (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Donkey Kong - Jungle Climber (Japan) (Wii U Virtual Console)": {
+		"languages": ["nolang"]
 	},
 	"Donkey Kong - Jungle Climber (Japan)": {
 		"languages": ["Ja"]
@@ -4563,6 +4630,9 @@
 	"Dr Kawashima's Brain Training - How Old Is Your Brain (Europe) (En,Fr,De,Es,It,Nl) (Demo) (Kiosk)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
 	},
+	"Dr Kawashima's Brain Training - How Old Is Your Brain (Europe) (En,Fr,De,Es,It,Nl) (Wii U Virtual Console)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
+	},
 	"Dr Kawashima's Brain Training - How Old Is Your Brain (Europe) (En,Fr,De,Es,It,Nl)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
 	},
@@ -4599,13 +4669,16 @@
 	"Dragon Ball - Origins 2 (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Dragon Ball - Origins 2 (USA) (En,Fr,Es) (Beta 1)": {
+	"Dragon Ball - Origins 2 (USA) (Beta 1)": {
+		"languages": ["En"]
+	},
+	"Dragon Ball - Origins 2 (USA) (Beta 2)": {
+		"languages": ["En"]
+	},
+	"Dragon Ball - Origins 2 (USA) (En,Fr,Es) (Beta 3)": {
 		"languages": ["En", "Es", "Fr"]
 	},
-	"Dragon Ball - Origins 2 (USA) (En,Fr,Es) (Beta 2)": {
-		"languages": ["En", "Es", "Fr"]
-	},
-	"Dragon Ball - Origins 2 (USA) (En,Fr,Es) (Beta)": {
+	"Dragon Ball - Origins 2 (USA) (En,Fr,Es) (Beta 4)": {
 		"languages": ["En", "Es", "Fr"]
 	},
 	"Dragon Ball - Origins 2 (USA) (En,Fr,Es)": {
@@ -4818,8 +4891,8 @@
 	"Drawn to Life - The Next Chapter (USA) (En,Fr)": {
 		"languages": ["En", "Fr"]
 	},
-	"Dream Chronicles (USA)": {
-		"languages": ["En"]
+	"Dream Chronicles (USA) (En,Fr)": {
+		"languages": ["En", "Fr"]
 	},
 	"Dream Dancer (USA)": {
 		"languages": ["En"]
@@ -5047,6 +5120,9 @@
 	"DS Kageyama Method Dennou Hanpuku - Tadashii Kanji Kakitori-kun - Kondo wa Kanken Taisaku Da yo! (Japan)": {
 		"languages": ["Ja"]
 	},
+	"DS Motte Tabi ni Deyo - Kyoto (Japan) (Rev 1)": {
+		"languages": ["Ja"]
+	},
 	"DS Motte Tabi ni Deyo - Kyoto (Japan)": {
 		"languages": ["Ja"]
 	},
@@ -5179,6 +5255,9 @@
 	"EA Playground (Korea)": {
 		"languages": ["Ko"]
 	},
+	"EA Playground (USA) (Beta)": {
+		"languages": ["En"]
+	},
 	"EA Playground (USA) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
@@ -5265,6 +5344,9 @@
 		"languages": ["Ja"]
 	},
 	"Eijukugo Target 1000 DS (Japan)": {
+		"languages": ["Ja"]
+	},
+	"Eiken DS (Japan) (Rev 1)": {
 		"languages": ["Ja"]
 	},
 	"Eiken DS (Japan) (Rev 2)": {
@@ -5654,6 +5736,9 @@
 	"Fall fuer TKKG, Ein - Detektiv Gesucht! (Germany)": {
 		"languages": ["De"]
 	},
+	"Famicom Wars DS (Japan) (Wii U Virtual Console)": {
+		"languages": ["Ja"]
+	},
 	"Famicom Wars DS (Japan)": {
 		"languages": ["Ja"]
 	},
@@ -5689,6 +5774,9 @@
 	},
 	"Farm Frenzy - Animal Country (Europe) (En,Fr,De,Es,It,Nl)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
+	},
+	"Farm Frenzy - Animal Country (USA) (Beta)": {
+		"languages": ["En"]
 	},
 	"Farm Frenzy - Animal Country (USA) (En,Nl)": {
 		"languages": ["En", "Nl"]
@@ -5780,8 +5868,8 @@
 	"FIFA Soccer 06 (USA)": {
 		"languages": ["En"]
 	},
-	"FIFA Soccer 07 (USA)": {
-		"languages": ["En"]
+	"FIFA Soccer 07 (USA) (En,Fr,De,Es,It,Nl)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
 	},
 	"FIFA Soccer 08 (USA) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -5929,11 +6017,20 @@
 	"Finding Nemo - Touch de Nemo (Japan)": {
 		"languages": ["Ja"]
 	},
+	"Fire Emblem - Shadow Dragon (Europe) (En,Fr,De,Es,It) (Wii U Virtual Console)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
 	"Fire Emblem - Shadow Dragon (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
+	"Fire Emblem - Shadow Dragon (USA) (Wii U Virtual Console)": {
+		"languages": ["En"]
+	},
 	"Fire Emblem - Shadow Dragon (USA)": {
 		"languages": ["En"]
+	},
+	"Fire Emblem - Shin Ankoku Ryuu to Hikari no Ken (Japan) (Rev 1) (Wii U Virtual Console)": {
+		"languages": ["Ja"]
 	},
 	"Fire Emblem - Shin Ankoku Ryuu to Hikari no Ken (Japan)": {
 		"languages": ["Ja"]
@@ -6208,6 +6305,9 @@
 	"Futari wa PreCure Splash Star - Panpaka Game de Zekkouchou! (Japan)": {
 		"languages": ["Ja"]
 	},
+	"Futureshop Canada Nintendo Zone Beacon (Canada) (Wi-Fi Kiosk)": {
+		"languages": ["En"]
+	},
 	"futureU - The Prep Game for SAT (USA)": {
 		"languages": ["En"]
 	},
@@ -6283,7 +6383,10 @@
 	"Gakken Hangeul Zanmai DS (Japan)": {
 		"languages": ["Ja"]
 	},
-	"Gakken Hangul Zanmai DS - Kiki & Kaki Training (Japan)": {
+	"Gakken Hangeul Zanmai DS - Kiki & Kaki Training (Japan) (Rev 1)": {
+		"languages": ["Ja"]
+	},
+	"Gakken Hangeul Zanmai DS - Kiki & Kaki Training (Japan)": {
 		"languages": ["Ja"]
 	},
 	"Gakken M Bunko Presents - Monoshiri Edo Meijin (Japan)": {
@@ -6802,11 +6905,11 @@
 	"Grand Trucker Aniki - Shigoto to Kenka to Koi Moyou (Japan)": {
 		"languages": ["Ja"]
 	},
-	"Grease - The Official Video Game (Europe) (NDSi Enhanced)": {
-		"languages": ["En"]
+	"Grease - The Official Video Game (Europe) (En,Fr,De,Es,It) (NDSi Enhanced)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Grease - The Official Video Game (USA) (NDSi Enhanced)": {
-		"languages": ["En"]
+	"Grease - The Official Video Game (USA) (En,Fr,De,Es,It) (NDSi Enhanced)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Green Lantern - Rise of the Manhunters (Europe) (En,Fr,De,Es,It,Nl)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
@@ -6834,6 +6937,9 @@
 	},
 	"Grid (USA) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
+	},
+	"Griff Wild (Unknown) (Proto)": {
+		"languages": ["En"]
 	},
 	"GripsKids - Deutsch (Germany)": {
 		"languages": ["De"]
@@ -7088,6 +7194,9 @@
 	"Hannah Montana - Music Jam (USA)": {
 		"languages": ["En"]
 	},
+	"Hannah Montana - Pop Star Exclusive (USA) (En,Fr,De,Es,It,Nl,Sv,No,Fi) (Proto) (2008-08-11)": {
+		"languages": ["De", "En", "Es", "Fi", "Fr", "It", "Nl", "No", "Sv"]
+	},
 	"Hannah Montana - The Movie (Europe) (En,Es,It)": {
 		"languages": ["En", "Es", "It"]
 	},
@@ -7133,8 +7242,8 @@
 	"Happy Feet (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Happy Feet (USA)": {
-		"languages": ["En"]
+	"Happy Feet (USA) (En,Fr)": {
+		"languages": ["En", "Fr"]
 	},
 	"Happy Feet Two (USA) (En,Fr,De,Es,It,Nl)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
@@ -7669,7 +7778,7 @@
 	"Horse & Foal - My Riding Stables (Europe) (En,Sv,No,Da)": {
 		"languages": ["Da", "En", "No", "Sv"]
 	},
-	"Horse Life 3 (Europe) (En,Fr,De,Es,It,Nl) [b]": {
+	"Horse Life 3 (Europe) (En,Fr,De,Es,It,Nl)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
 	},
 	"Horse Life (USA)": {
@@ -7686,6 +7795,9 @@
 	},
 	"Horsez (USA) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
+	},
+	"Hoshi no Kirby - Sanjou! Dorotche Dan (Japan) (Wii U Virtual Console)": {
+		"languages": ["Ja"]
 	},
 	"Hoshi no Kirby - Sanjou! Dorotche Dan (Japan)": {
 		"languages": ["Ja"]
@@ -7871,7 +7983,7 @@
 	"I Did It Mum! - Boy (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"I Did It Mum! - Doll's House (Europe) (En,Fr,De,Es,It) [b]": {
+	"I Did It Mum! - Doll's House (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"I Did It Mum! - Girl (Europe) (En,Fr,De,Es,It)": {
@@ -7880,7 +7992,7 @@
 	"I Did It Mum! - Picture Book (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"I Did It Mum! - Spelling (Europe) (En,Fr,De,Es,It) [b]": {
+	"I Did It Mum! - Spelling (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"I Heart Geeks (USA)": {
@@ -7904,7 +8016,7 @@
 	"I Love Horses (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"I Love Horses (Europe) (En,Fr,Es,It,Nl) (Rev 1) [b]": {
+	"I Love Horses (Europe) (En,Fr,Es,It,Nl) (Rev 1) (YWDZ) [b]": {
 		"languages": ["En", "Es", "Fr", "It", "Nl"]
 	},
 	"I Love Horses (Europe) (En,Fr,Es,It,Nl) (YWDZ)": {
@@ -8559,20 +8671,20 @@
 	"Jam Sessions - Sing & Play Guitar (Europe) (En,Fr,De,Es,It,Nl)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
 	},
-	"Jam Sessions - Sing and Play Guitar (USA) (En,Fr,De,Es,It,Nl)": {
+	"Jam Sessions - Sing and Play Guitar (USA) (En,Fr,De,Es,It,Nl) (Rev 1)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
 	},
-	"Jam Sessions - Sing and Play Guitar (USA) (Rev 1)": {
-		"languages": ["En"]
+	"Jam Sessions - Sing and Play Guitar (USA) (En,Fr,De,Es,It,Nl)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
 	},
 	"Jam with the Band (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Jambo! Safari - Animal Rescue (Europe) (En,Fr,De,It)": {
-		"languages": ["De", "En", "Fr", "It"]
+	"Jambo! Safari - Animal Rescue (Europe) (En,Fr,De,Es,It)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Jambo! Safari - Animal Rescue (USA) (En,Fr,De,It)": {
-		"languages": ["De", "En", "Fr", "It"]
+	"Jambo! Safari - Animal Rescue (USA) (En,Fr,De,Es,It)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"James Cameron's Avatar - The Game (Europe) (En,Fr,De,Es,It,Nl) (NDSi Enhanced)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
@@ -8875,8 +8987,8 @@
 	"Jiji Tsuushin Shuppan-Kyoku Kyouryoku - Katei no Igaku - DS de Kitaeru Shokuzai Kenkou Training (Japan)": {
 		"languages": ["Ja"]
 	},
-	"Jillian Michaels Fitness Ultimatum 2010 (USA)": {
-		"languages": ["En"]
+	"Jillian Michaels Fitness Ultimatum 2010 (USA) (En,Es)": {
+		"languages": ["En", "Es"]
 	},
 	"Jin Samguk Mussang DS - Fighter's Battle (Korea)": {
 		"languages": ["Ko"]
@@ -8957,8 +9069,8 @@
 	"Jonas (Europe) (En,Sv,No,Da)": {
 		"languages": ["Da", "En", "No", "Sv"]
 	},
-	"Jonas (USA) (Rev 1)": {
-		"languages": ["En"]
+	"Jonas (USA) (En,Fr,Es) (Rev 1)": {
+		"languages": ["En", "Es", "Fr"]
 	},
 	"Jonas (USA)": {
 		"languages": ["En"]
@@ -9086,8 +9198,8 @@
 	"Junior Island Adventure (USA)": {
 		"languages": ["En"]
 	},
-	"Junior Mystery Quest (USA)": {
-		"languages": ["En"]
+	"Junior Mystery Quest (USA) (En,Fr,Es)": {
+		"languages": ["En", "Es", "Fr"]
 	},
 	"Junior Mystery Stories (Europe) (En)": {
 		"languages": ["En"]
@@ -9101,8 +9213,8 @@
 	"Junior Wort-Quiz, Das (Germany)": {
 		"languages": ["De"]
 	},
-	"Just in Time Translations - Say It in 6 Languages (USA)": {
-		"languages": ["En"]
+	"Just in Time Translations - Say It in 6 Languages (USA) (En,Ja,Fr,De,Es,It,Zh)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Zh"]
 	},
 	"Just Sing (USA) (En,Fr) (NDSi Enhanced)": {
 		"languages": ["En", "Fr"]
@@ -9215,6 +9327,9 @@
 		"languages": ["Ja"]
 	},
 	"Kaitou Rousseau (Japan)": {
+		"languages": ["Ja"]
+	},
+	"Kaitou Wario the Seven (Japan) (Rev 1) (Wii U Virtual Console)": {
 		"languages": ["Ja"]
 	},
 	"Kaitou Wario the Seven (Japan) (Rev 1)": {
@@ -9558,6 +9673,9 @@
 	"Kindaichi Shounen no Jikenbo - Akuma no Satsujin Koukai (Japan)": {
 		"languages": ["Ja"]
 	},
+	"King of Clubs (Europe) (Proto) (2008-01-28)": {
+		"languages": ["En"]
+	},
 	"Kingdom Hearts - 358-2 Days (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
@@ -9606,10 +9724,19 @@
 	"Kirby - Canvas Curse (USA) (Demo) (Kiosk)": {
 		"languages": ["En"]
 	},
+	"Kirby - Canvas Curse (USA) (Wii U Virtual Console)": {
+		"languages": ["En"]
+	},
 	"Kirby - Canvas Curse (USA)": {
 		"languages": ["En"]
 	},
+	"Kirby - Mouse Attack (Europe) (En,Fr,De,Es,It) (Wii U Virtual Console)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
 	"Kirby - Mouse Attack (Europe) (En,Fr,De,Es,It)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Kirby - Power Paintbrush (Europe) (En,Fr,De,Es,It) (Wii U Virtual Console)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Kirby - Power Paintbrush (Europe) (En,Fr,De,Es,It)": {
@@ -9618,11 +9745,20 @@
 	"Kirby - Squeak Squad (USA) (Demo) (Kiosk)": {
 		"languages": ["En"]
 	},
+	"Kirby - Squeak Squad (USA) (Wii U Virtual Console)": {
+		"languages": ["En"]
+	},
 	"Kirby - Squeak Squad (USA)": {
 		"languages": ["En"]
 	},
+	"Kirby Mass Attack (Europe) (En,Fr,De,Es,It) (Wii U Virtual Console)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
 	"Kirby Mass Attack (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Kirby Mass Attack (USA) (En,Fr,Es) (Wii U Virtual Console)": {
+		"languages": ["En", "Es", "Fr"]
 	},
 	"Kirby Mass Attack (USA) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
@@ -9687,8 +9823,8 @@
 	"Knock 'Em Downs - World's Fair (USA) (En,Es)": {
 		"languages": ["En", "Es"]
 	},
-	"Knock 'Em Downs - World's Fair (USA) (NDSi Enhanced)": {
-		"languages": ["En"]
+	"Knock 'Em Downs - World's Fair (USA) (En,Fr,Es) (NDSi Enhanced)": {
+		"languages": ["En", "Es", "Fr"]
 	},
 	"Know How 2 (Europe) (En,Fr,De,Es,It) (NDSi Enhanced)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -10208,16 +10344,25 @@
 	"Legend of Zelda, The - Phantom Hourglass (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
+	"Legend of Zelda, The - Phantom Hourglass (Europe) (En,Fr,De,Es,It) (Wii U Virtual Console)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
 	"Legend of Zelda, The - Phantom Hourglass (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Legend of Zelda, The - Phantom Hourglass (USA) (Demo) (Kiosk)": {
 		"languages": ["En"]
 	},
+	"Legend of Zelda, The - Phantom Hourglass (USA) (En,Fr,Es) (Wii U Virtual Console)": {
+		"languages": ["En", "Es", "Fr"]
+	},
 	"Legend of Zelda, The - Phantom Hourglass (USA) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
 	},
 	"Legend of Zelda, The - Spirit Tracks (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Legend of Zelda, The - Spirit Tracks (Europe) (En,Fr,De,Es,It) (Rev 1) (Wii U Virtual Console)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Legend of Zelda, The - Spirit Tracks (Europe) (En,Fr,De,Es,It) (Rev 1)": {
@@ -10227,6 +10372,9 @@
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Legend of Zelda, The - Spirit Tracks (USA) (En,Fr,Es) (Demo) (Kiosk)": {
+		"languages": ["En", "Es", "Fr"]
+	},
+	"Legend of Zelda, The - Spirit Tracks (USA) (En,Fr,Es) (Rev 1) (Wii U Virtual Console)": {
 		"languages": ["En", "Es", "Fr"]
 	},
 	"Legend of Zelda, The - Spirit Tracks (USA) (En,Fr,Es) (Rev 1)": {
@@ -10370,8 +10518,8 @@
 	"LEGO Star Wars II - The Original Trilogy (Europe) (En,Fr,De,Es,It,Da)": {
 		"languages": ["Da", "De", "En", "Es", "Fr", "It"]
 	},
-	"LEGO Star Wars II - The Original Trilogy (Japan)": {
-		"languages": ["Ja"]
+	"LEGO Star Wars II - The Original Trilogy (Japan) (En,Ja)": {
+		"languages": ["En", "Ja"]
 	},
 	"LEGO Star Wars II - The Original Trilogy (USA) (Rev 1)": {
 		"languages": ["En"]
@@ -10755,6 +10903,12 @@
 	"Looney Tunes - Duck Amuck (United Kingdom)": {
 		"languages": ["En"]
 	},
+	"Looney Tunes - Duck Amuck (USA) (Beta) (2006-10-04)": {
+		"languages": ["En"]
+	},
+	"Looney Tunes - Duck Amuck (USA) (Beta) (2007-02-01)": {
+		"languages": ["En"]
+	},
 	"Looney Tunes - Duck Amuck (USA)": {
 		"languages": ["En"]
 	},
@@ -10827,8 +10981,8 @@
 	"Lovely Lisa (USA) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
 	},
-	"Lovely Lisa and Friends (USA) (NDSi Enhanced)": {
-		"languages": ["En"]
+	"Lovely Lisa and Friends (USA) (En,Fr) (NDSi Enhanced)": {
+		"languages": ["En", "Fr"]
 	},
 	"Loving Life with Hello Kitty & Friends (Europe) (En,Fr,De,Es,It,Nl)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
@@ -10933,7 +11087,7 @@
 	"M&M's - Kart Racing (USA)": {
 		"languages": ["En"]
 	},
-	"Mabeop Cheonja Mun DS 2 - Choehuui Hanja Mabeop (Korea)": {
+	"Mabeop Cheonjamun DS 2 - Choehuui Hanja Mabeop (Korea)": {
 		"languages": ["Ko"]
 	},
 	"Mabeop Cheonjamun DS (Korea)": {
@@ -10946,10 +11100,10 @@
 	"Machi no Pet-ya-san DS - 200 Piki Wan-chan Daishuugou (Japan)": {
 		"languages": ["Ja"]
 	},
-	"Madagascar 2 (Canada) (Fr) [b]": {
+	"Madagascar 2 (Canada) (Fr)": {
 		"languages": ["Fr"]
 	},
-	"Madagascar 2 (France) [b]": {
+	"Madagascar 2 (France)": {
 		"languages": ["Fr"]
 	},
 	"Madagascar 2 (Germany)": {
@@ -11326,6 +11480,9 @@
 	"Manga-ka Debut Monogatari DS - Akogare! Manga-ka Ikusei Game (Japan)": {
 		"languages": ["Ja"]
 	},
+	"Manic Monkey Mayhem (Europe) (Proto) (2010-05-25)": {
+		"languages": ["En"]
+	},
 	"Manjyeora - Made in Wario (Korea)": {
 		"languages": ["Ko"]
 	},
@@ -11377,10 +11534,16 @@
 	"Mario & Luigi - Partners in Time (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
+	"Mario & Luigi - Partners in Time (Europe) (En,Fr,De,Es,It) (Wii U Virtual Console)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
 	"Mario & Luigi - Partners in Time (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Mario & Luigi - Partners in Time (USA) (Demo) (Kiosk)": {
+		"languages": ["En"]
+	},
+	"Mario & Luigi - Partners in Time (USA) (Rev 1) (Wii U Virtual Console)": {
 		"languages": ["En"]
 	},
 	"Mario & Luigi - Partners in Time (USA) (Rev 1)": {
@@ -11388,6 +11551,9 @@
 	},
 	"Mario & Luigi - Partners in Time (USA)": {
 		"languages": ["En"]
+	},
+	"Mario & Luigi RPG 2x2 (Japan) (Wii U Virtual Console)": {
+		"languages": ["Ja"]
 	},
 	"Mario & Luigi RPG 2x2 (Japan)": {
 		"languages": ["Ja"]
@@ -11422,8 +11588,14 @@
 	"Mario & Sonic at Vancouver Olympic (Japan)": {
 		"languages": ["Ja"]
 	},
+	"Mario Basket 3 on 3 (Japan) (Wii U Virtual Console)": {
+		"languages": ["nolang"]
+	},
 	"Mario Basket 3 on 3 (Japan)": {
 		"languages": ["Ja"]
+	},
+	"Mario Hoops 3 on 3 (USA) (Wii U Virtual Console)": {
+		"languages": ["En"]
 	},
 	"Mario Hoops 3 on 3 (USA)": {
 		"languages": ["En"]
@@ -11431,10 +11603,16 @@
 	"Mario Kart DS (Europe) (Demo) (Kiosk, Multiplayer)": {
 		"languages": ["En"]
 	},
+	"Mario Kart DS (Europe) (En,Fr,De,Es,It) (Wii U Virtual Console)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
 	"Mario Kart DS (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Mario Kart DS (Japan) (Demo) (Kiosk)": {
+		"languages": ["Ja"]
+	},
+	"Mario Kart DS (Japan) (Wii U Virtual Console)": {
 		"languages": ["Ja"]
 	},
 	"Mario Kart DS (Japan)": {
@@ -11446,7 +11624,13 @@
 	"Mario Kart DS (USA) (Demo) (Kiosk)": {
 		"languages": ["En"]
 	},
+	"Mario Kart DS (USA) (En,Fr,De,Es,It) (Wii U Virtual Console)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
 	"Mario Kart DS (USA, Australia) (En,Fr,De,Es,It)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Mario Party DS (Europe) (En,Fr,De,Es,It) (Rev 1) (Wii U Virtual Console)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Mario Party DS (Europe) (En,Fr,De,Es,It) (Rev 1)": {
@@ -11456,6 +11640,9 @@
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Mario Party DS (Japan) (Rev 1)": {
+		"languages": ["Ja"]
+	},
+	"Mario Party DS (Japan) (Rev 2) (Wii U Virtual Console)": {
 		"languages": ["Ja"]
 	},
 	"Mario Party DS (Japan) (Rev 2)": {
@@ -11473,6 +11660,9 @@
 	"Mario Party DS (USA) (Rev 1)": {
 		"languages": ["En"]
 	},
+	"Mario Party DS (USA) (Rev 2) (Wii U Virtual Console)": {
+		"languages": ["En"]
+	},
 	"Mario Party DS (USA) (Rev 2)": {
 		"languages": ["En"]
 	},
@@ -11482,11 +11672,17 @@
 	"Mario Slam Basketball (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
+	"Mario Slam Basketball (Europe) (En,Ja,Fr,De,Es,It) (Wii U Virtual Console)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Ja"]
+	},
 	"Mario Slam Basketball (Europe) (En,Ja,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja"]
 	},
 	"Mario vs. Donkey Kong 2 - March of the Minis (Europe) (Demo) (Kiosk)": {
 		"languages": ["En"]
+	},
+	"Mario vs. Donkey Kong 2 - March of the Minis (Europe) (En,Fr,De,Es,It) (Wii U Virtual Console)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Mario vs. Donkey Kong 2 - March of the Minis (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -11494,8 +11690,14 @@
 	"Mario vs. Donkey Kong 2 - March of the Minis (USA) (Demo) (Kiosk)": {
 		"languages": ["En"]
 	},
+	"Mario vs. Donkey Kong 2 - March of the Minis (USA) (Wii U Virtual Console)": {
+		"languages": ["En"]
+	},
 	"Mario vs. Donkey Kong 2 - March of the Minis (USA)": {
 		"languages": ["En"]
+	},
+	"Mario vs. Donkey Kong 2 - MiniMini Daikoushin! (Japan) (Wii U Virtual Console)": {
+		"languages": ["Ja"]
 	},
 	"Mario vs. Donkey Kong 2 - MiniMini Daikoushin! (Japan)": {
 		"languages": ["Ja"]
@@ -11728,11 +11930,11 @@
 	"Mawasundaa!! (Japan)": {
 		"languages": ["Ja"]
 	},
-	"Max & the Magic Marker (Europe) (En,Fr,De,Es,It)": {
-		"languages": ["De", "En", "Es", "Fr", "It"]
+	"Max & the Magic Marker (Europe) (En,Fr,De,Es,Nl)": {
+		"languages": ["De", "En", "Es", "Fr", "Nl"]
 	},
-	"Max & the Magic Marker (USA) (En,Fr,De,Es,It)": {
-		"languages": ["De", "En", "Es", "Fr", "It"]
+	"Max & the Magic Marker (USA) (En,Fr,De,Es,Nl)": {
+		"languages": ["De", "En", "Es", "Fr", "Nl"]
 	},
 	"Max Media Launcher (World) (Unl)": {
 		"languages": ["En"]
@@ -12033,11 +12235,17 @@
 	"Methode Boscher - La Journee des Tout Petits (France) [b]": {
 		"languages": ["Fr"]
 	},
+	"Metroid Prime - Hunters (Europe) (En,Fr,De,Es,It) (Rev 1) (Wii U Virtual Console)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
 	"Metroid Prime - Hunters (Europe) (En,Fr,De,Es,It) (Rev 1)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Metroid Prime - Hunters (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Metroid Prime - Hunters (Japan) (Rev 1) (Wii U Virtual Console)": {
+		"languages": ["Ja"]
 	},
 	"Metroid Prime - Hunters (Japan) (Rev 1)": {
 		"languages": ["Ja"],
@@ -12050,6 +12258,9 @@
 		"languages": ["Ko"]
 	},
 	"Metroid Prime - Hunters (USA) (Demo) (Kiosk)": {
+		"languages": ["En"]
+	},
+	"Metroid Prime - Hunters (USA) (Rev 1) (Wii U Virtual Console)": {
 		"languages": ["En"]
 	},
 	"Metroid Prime - Hunters (USA) (Rev 1)": {
@@ -12540,8 +12751,8 @@
 	"Monster Jam - Path of Destruction (Europe) (En,Fr,De,It,Nl)": {
 		"languages": ["De", "En", "Fr", "It", "Nl"]
 	},
-	"Monster Jam - Path of Destruction (USA)": {
-		"languages": ["En"]
+	"Monster Jam - Path of Destruction (USA) (En,Fr)": {
+		"languages": ["En", "Fr"]
 	},
 	"Monster Jam - Urban Assault (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -13606,8 +13817,8 @@
 	"Need for Speed Carbon - Own the City (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Need for Speed Carbon - Own the City (USA)": {
-		"languages": ["En"]
+	"Need for Speed Carbon - Own the City (USA) (En,Fr,De,Es,It)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Negima! - Chou Mahora Taisen - Kattoiin, Keiyaku Shikkou Dechaimasuu (Japan)": {
 		"languages": ["Ja"]
@@ -13708,6 +13919,9 @@
 	"New Super Mario Bros. (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk, Y78P)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
+	"New Super Mario Bros. (Europe) (En,Fr,De,Es,It) (Wii U Virtual Console)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
 	"New Super Mario Bros. (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
@@ -13717,6 +13931,9 @@
 	"New Super Mario Bros. (Japan) (Demo) (Kiosk, Y7QJ)": {
 		"languages": ["Ja"]
 	},
+	"New Super Mario Bros. (Japan) (Wii U Virtual Console)": {
+		"languages": ["Ja"]
+	},
 	"New Super Mario Bros. (Japan)": {
 		"languages": ["Ja"]
 	},
@@ -13724,6 +13941,9 @@
 		"languages": ["Ko"]
 	},
 	"New Super Mario Bros. (USA) (Demo) (Kiosk)": {
+		"languages": ["En"]
+	},
+	"New Super Mario Bros. (USA) (Wii U Virtual Console)": {
 		"languages": ["En"]
 	},
 	"New Super Mario Bros. (USA, Australia)": {
@@ -13888,6 +14108,9 @@
 	"Nintendo Presents - Style Boutique (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
+	"Nintendo Presents - Style Boutique (Europe) (En,Fr,De,Es,It) (Rev 1) (Wii U Virtual Console)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
 	"Nintendo Presents - Style Boutique (Europe) (En,Fr,De,Es,It) (Rev 1)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
@@ -13942,8 +14165,8 @@
 	"Nintendogs - Dalmatian & Friends (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Nintendogs - Dalmatian & Friends (USA, Australia)": {
-		"languages": ["En"]
+	"Nintendogs - Dalmatian & Friends (USA, Australia) (En,Fr,Es)": {
+		"languages": ["En", "Es", "Fr"]
 	},
 	"Nintendogs - Download-Relay Version (Australia) (Demo) (Wi-Fi Kiosk)": {
 		"languages": ["En"]
@@ -13991,7 +14214,22 @@
 	"Nippon Suugaku Kentei Kyoukai Kounin - Suken DS - Otona ga Tokenai! Kodomo no Sansuu (Japan)": {
 		"languages": ["Ja"]
 	},
-	"Nitro EVA. (Unknown) (v10.0) (USG) (Program)": {
+	"Nitro EVA. (CTR) (World) (Ver11.0) (2010-10-27) (Program)": {
+		"languages": ["En"]
+	},
+	"Nitro EVA. (CTR) (World) (Ver11.1) (2011-12-08) (Program)": {
+		"languages": ["En"]
+	},
+	"Nitro EVA. (USG) (World) (Ver8.0) (2006-12-05) (Program)": {
+		"languages": ["En"]
+	},
+	"Nitro EVA. (USG) (World) (Ver9.0) (2007-04-09) (Program)": {
+		"languages": ["En"]
+	},
+	"Nitro EVA. (USG) (World) (Ver10.0) (2008-06-17) (Program)": {
+		"languages": ["En"]
+	},
+	"Nitro EVA. (World) (Ver5.1) (2005-06-21) (Program)": {
 		"languages": ["En"]
 	},
 	"Nobunaga no Yabou DS 2 (Japan)": {
@@ -14144,6 +14382,9 @@
 	"Ohimesama Debut (Japan)": {
 		"languages": ["Ja"]
 	},
+	"Oide yo Doubutsu no Mori (Japan) (Rev 1) (Wii U Virtual Console)": {
+		"languages": ["Ja"]
+	},
 	"Oide yo Doubutsu no Mori (Japan) (Rev 1)": {
 		"languages": ["Ja"]
 	},
@@ -14207,6 +14448,9 @@
 	"One Piece - Gigant Battle! (Japan)": {
 		"languages": ["Ja"]
 	},
+	"One Piece Gigant Battle 2 - Shin Sekai (Japan) (Rev 1)": {
+		"languages": ["Ja"]
+	},
 	"One Piece Gigant Battle 2 - Shin Sekai (Japan)": {
 		"languages": ["Ja"]
 	},
@@ -14235,11 +14479,11 @@
 	"Ookiku Furikabutte - Honto no Ace ni Nareru kamo (Japan)": {
 		"languages": ["Ja"]
 	},
-	"Open Season (Europe) (En,Es,It,Nl)": {
-		"languages": ["En", "Es", "It", "Nl"]
-	},
 	"Open Season (Europe) (En,Fr,De,Es,It,Sv,No,Da,Fi)": {
 		"languages": ["Da", "De", "En", "Es", "Fi", "Fr", "It", "No", "Sv"]
+	},
+	"Open Season (Europe) (En,Fr,Es,Nl)": {
+		"languages": ["En", "Es", "Fr", "Nl"]
 	},
 	"Open Season (USA) (En,Fr,Es,Nl)": {
 		"languages": ["En", "Es", "Fr", "Nl"]
@@ -14485,7 +14729,7 @@
 	"Pass the Pigs - Let the Good Swines Roll! (USA)": {
 		"languages": ["En"]
 	},
-	"Pass Your Driving Theory Test (Europe) [b]": {
+	"Pass Your Driving Theory Test (Europe)": {
 		"languages": ["En"]
 	},
 	"Pass Your Driving Theory Test - 2010 Edition (Europe)": {
@@ -14512,7 +14756,7 @@
 	"Passeport du CM1 au CM2 (France) [b]": {
 		"languages": ["Fr"]
 	},
-	"Passeport du CM2 a la 6eme (France) [b]": {
+	"Passeport du CM2 a la 6eme (France)": {
 		"languages": ["Fr"]
 	},
 	"Passeport du CP au CE1 (France)": {
@@ -14897,8 +15141,8 @@
 	"Phineas and Ferb (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Phineas and Ferb (USA) (Rev 1)": {
-		"languages": ["En"]
+	"Phineas and Ferb (USA) (En,Fr) (Rev 1)": {
+		"languages": ["En", "Fr"]
 	},
 	"Phineas and Ferb (USA)": {
 		"languages": ["En"]
@@ -14981,11 +15225,17 @@
 	"Picross 3D (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
+	"Picross 3D (Europe) (En,Fr,De,Es,It) (Wii U Virtual Console)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
 	"Picross 3D (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Picross 3D (USA) (Demo) (Kiosk)": {
 		"languages": ["En"]
+	},
+	"Picross 3D (USA) (En,Fr,Es) (Wii U Virtual Console)": {
+		"languages": ["En", "Es", "Fr"]
 	},
 	"Picross 3D (USA) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
@@ -15504,10 +15754,16 @@
 	"Pokemon Fushigi no Dungeon - Ao no Kyuujotai (Japan) (Demo) (Kiosk)": {
 		"languages": ["Ja"]
 	},
+	"Pokemon Fushigi no Dungeon - Ao no Kyuujotai (Japan) (Rev 1) (Wii U Virtual Console)": {
+		"languages": ["Ja"]
+	},
 	"Pokemon Fushigi no Dungeon - Ao no Kyuujotai (Japan) (Rev 1)": {
 		"languages": ["Ja"]
 	},
 	"Pokemon Fushigi no Dungeon - Ao no Kyuujotai (Japan)": {
+		"languages": ["Ja"]
+	},
+	"Pokemon Fushigi no Dungeon - Sora no Tankentai (Japan) (Rev 2) (Wii U Virtual Console)": {
 		"languages": ["Ja"]
 	},
 	"Pokemon Fushigi no Dungeon - Sora no Tankentai (Japan)": {
@@ -15525,10 +15781,16 @@
 	"Pokemon Mystery Dungeon - Blue Rescue Team (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
+	"Pokemon Mystery Dungeon - Blue Rescue Team (Europe) (En,Fr,De,Es,It) (Wii U Virtual Console)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
 	"Pokemon Mystery Dungeon - Blue Rescue Team (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Pokemon Mystery Dungeon - Blue Rescue Team (USA) (Demo) (Kiosk)": {
+		"languages": ["En"]
+	},
+	"Pokemon Mystery Dungeon - Blue Rescue Team (USA) (Wii U Virtual Console)": {
 		"languages": ["En"]
 	},
 	"Pokemon Mystery Dungeon - Blue Rescue Team (USA, Australia)": {
@@ -15543,10 +15805,16 @@
 	"Pokemon Mystery Dungeon - Explorers of Sky (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
+	"Pokemon Mystery Dungeon - Explorers of Sky (Europe) (En,Fr,De,Es,It) (Wii U Virtual Console)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
 	"Pokemon Mystery Dungeon - Explorers of Sky (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Pokemon Mystery Dungeon - Explorers of Sky (USA) (Demo) (Kiosk)": {
+		"languages": ["En"]
+	},
+	"Pokemon Mystery Dungeon - Explorers of Sky (USA) (Wii U Virtual Console)": {
 		"languages": ["En"]
 	},
 	"Pokemon Mystery Dungeon - Explorers of Sky (USA)": {
@@ -15568,6 +15836,9 @@
 		"languages": ["Ja"],
 		"localName": "ポケモン＋ノブナガの野望"
 	},
+	"Pokemon Ranger (Europe) (En,Fr,De,Es,It) (Wii U Virtual Console)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
 	"Pokemon Ranger (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
@@ -15577,17 +15848,29 @@
 	"Pokemon Ranger (Japan) (Demo) (Kiosk)": {
 		"languages": ["Ja"]
 	},
+	"Pokemon Ranger (Japan) (Rev 1) (Wii U Virtual Console)": {
+		"languages": ["Ja"]
+	},
 	"Pokemon Ranger (Japan) (Rev 1)": {
 		"languages": ["Ja"]
 	},
 	"Pokemon Ranger (Japan)": {
 		"languages": ["Ja"]
 	},
+	"Pokemon Ranger (USA) (Wii U Virtual Console)": {
+		"languages": ["En"]
+	},
 	"Pokemon Ranger (USA)": {
 		"languages": ["En"]
 	},
+	"Pokemon Ranger - Batonnage (Japan) (Wii U Virtual Console)": {
+		"languages": ["Ja"]
+	},
 	"Pokemon Ranger - Batonnage (Japan)": {
 		"languages": ["Ja"]
+	},
+	"Pokemon Ranger - Guardian Signs (Europe) (En,Fr,De,Es,It) (Wii U Virtual Console)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Pokemon Ranger - Guardian Signs (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -15595,8 +15878,14 @@
 	"Pokemon Ranger - Guardian Signs (USA) (Demo) (Kiosk)": {
 		"languages": ["En"]
 	},
+	"Pokemon Ranger - Guardian Signs (USA) (Wii U Virtual Console)": {
+		"languages": ["En"]
+	},
 	"Pokemon Ranger - Guardian Signs (USA, Australia)": {
 		"languages": ["En"]
+	},
+	"Pokemon Ranger - Hikari no Kiseki (Japan) (Wii U Virtual Console)": {
+		"languages": ["Ja"]
 	},
 	"Pokemon Ranger - Hikari no Kiseki (Japan)": {
 		"languages": ["Ja"]
@@ -15604,10 +15893,16 @@
 	"Pokemon Ranger - Shadows of Almia (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
+	"Pokemon Ranger - Shadows of Almia (Europe) (En,Fr,De,Es,It) (Wii U Virtual Console)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
 	"Pokemon Ranger - Shadows of Almia (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Pokemon Ranger - Shadows of Almia (USA) (Demo) (Kiosk)": {
+		"languages": ["En"]
+	},
+	"Pokemon Ranger - Shadows of Almia (USA) (Wii U Virtual Console)": {
 		"languages": ["En"]
 	},
 	"Pokemon Ranger - Shadows of Almia (USA)": {
@@ -15756,6 +16051,9 @@
 		"languages": ["Ja"]
 	},
 	"Power Pro Kun Pocket 12 (Japan) (NDSi Enhanced)": {
+		"languages": ["Ja"]
+	},
+	"Power Pro Kun Pocket 12 (Japan) (Rev 1) (NDSi Enhanced)": {
 		"languages": ["Ja"]
 	},
 	"Power Pro Kun Pocket 13 (Japan) (NDSi Enhanced)": {
@@ -15986,6 +16284,9 @@
 		"languages": ["It"]
 	},
 	"Profesor Layton y el Futuro Perdido, El (Spain)": {
+		"languages": ["Es"]
+	},
+	"Profesor Layton y la Caja de Pandora, El (Spain) (Demo) (Kiosk)": {
 		"languages": ["Es"]
 	},
 	"Profesor Layton y la Caja de Pandora, El (Spain)": {
@@ -16452,6 +16753,9 @@
 	"Race Driver - Grid (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
+	"Radiant Historia (Japan) (En,Ja) (Beta)": {
+		"languages": ["En", "Ja"]
+	},
 	"Radiant Historia (Japan)": {
 		"languages": ["Ja"]
 	},
@@ -16785,6 +17089,9 @@
 	"Rise of the Guardians (USA) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
 	},
+	"Rittai Picross (Japan) (Wii U Virtual Console)": {
+		"languages": ["Ja"]
+	},
 	"Rittai Picross (Japan)": {
 		"languages": ["Ja"]
 	},
@@ -16905,8 +17212,8 @@
 	"Rubik's Puzzle World (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Rubik's World (USA)": {
-		"languages": ["En"]
+	"Rubik's World (USA) (En,Fr,Es)": {
+		"languages": ["En", "Es", "Fr"]
 	},
 	"Rudolph - The Red-Nosed Reindeer (USA)": {
 		"languages": ["En"]
@@ -17061,8 +17368,8 @@
 	"Sally's Salon (USA)": {
 		"languages": ["En"]
 	},
-	"Salon Superstar (USA)": {
-		"languages": ["En"]
+	"Salon Superstar (USA) (En,Fr,De,Es,It)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Sam Power - Firefighter (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)": {
 		"languages": ["Da", "De", "En", "Es", "Fr", "It", "Nl", "No", "Sv"]
@@ -17177,6 +17484,9 @@
 		"languages": ["Ja"]
 	},
 	"Sawaru Made in Wario (Japan) (Rev 2)": {
+		"languages": ["Ja"]
+	},
+	"Sawaru Made in Wario (Japan) (Rev 3) (Wii U Virtual Console)": {
 		"languages": ["Ja"]
 	},
 	"Sawaru Made in Wario (Japan) (Rev 3)": {
@@ -17655,6 +17965,18 @@
 		"languages": ["Nl"]
 	},
 	"Shrek - Ogres & Dronkeys (United Kingdom)": {
+		"languages": ["En"]
+	},
+	"Shrek - Ogres & Dronkeys (USA) (Beta) (2006-10-16)": {
+		"languages": ["nolang"]
+	},
+	"Shrek - Ogres & Dronkeys (USA) (Beta) (2007-01-16)": {
+		"languages": ["En"]
+	},
+	"Shrek - Ogres & Dronkeys (USA) (Beta) (2007-02-12)": {
+		"languages": ["En"]
+	},
+	"Shrek - Ogres & Dronkeys (USA) (Beta) (2007-03-15)": {
 		"languages": ["En"]
 	},
 	"Shrek - Ogres & Dronkeys (USA)": {
@@ -18520,7 +18842,13 @@
 	"SpongeBob SquarePants - Creature from the Krusty Krab (Europe) (En,Fr,De,Nl)": {
 		"languages": ["De", "En", "Fr", "Nl"]
 	},
+	"SpongeBob SquarePants - Creature from the Krusty Krab (USA) (Beta) (2006-05-25)": {
+		"languages": ["En"]
+	},
 	"SpongeBob SquarePants - Creature from the Krusty Krab (USA)": {
+		"languages": ["En"]
+	},
+	"SpongeBob SquarePants - Fists of Foam (USA) (Proto)": {
 		"languages": ["En"]
 	},
 	"SpongeBob SquarePants - Frantic Fry Cook (Europe) (En,Fr,De,It,Nl)": {
@@ -18565,8 +18893,8 @@
 	"SpongeBob vs the Big One - Beach Party Cook-Off (USA) (En,Fr)": {
 		"languages": ["En", "Fr"]
 	},
-	"SpongeBob Yori Daesodong (Korea) (En)": {
-		"languages": ["En"]
+	"SpongeBob Yori Daesodong (Korea) (En,Ko)": {
+		"languages": ["En", "Ko"]
 	},
 	"SpongeBob's Atlantis SquarePantis (Europe) (De,El)": {
 		"languages": ["De", "El"]
@@ -18616,8 +18944,8 @@
 	"Spore Creatures (Japan) (En,Ja)": {
 		"languages": ["En", "Ja"]
 	},
-	"Spore Creatures (Korea)": {
-		"languages": ["Ko"]
+	"Spore Creatures (Korea) (En,Ko)": {
+		"languages": ["En", "Ko"]
 	},
 	"Spore Creatures (USA) (En,Fr,De,Es,It,Nl)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
@@ -18676,11 +19004,20 @@
 	"Squishy Tank (USA)": {
 		"languages": ["En"]
 	},
+	"Star Fox Command (Europe) (En,Fr,De,Es,It) (Wii U Virtual Console)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
 	"Star Fox Command (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
+	"Star Fox Command (Japan) (Wii U Virtual Console)": {
+		"languages": ["Ja"]
+	},
 	"Star Fox Command (Japan)": {
 		"languages": ["Ja"]
+	},
+	"Star Fox Command (USA) (Wii U Virtual Console)": {
+		"languages": ["nolang"]
 	},
 	"Star Fox Command (USA, Australia)": {
 		"languages": ["En"]
@@ -18791,8 +19128,8 @@
 	"Stratego - Next Edition (Europe) (En,Fr,De,Es,Nl)": {
 		"languages": ["De", "En", "Es", "Fr", "Nl"]
 	},
-	"Strawberry Shortcake - Strawberryland Games (Europe) (En,Fr,De,Es,Nl,No)": {
-		"languages": ["De", "En", "Es", "Fr", "Nl", "No"]
+	"Strawberry Shortcake - Strawberryland Games (Europe) (En,Fr,De,Es,No,Da)": {
+		"languages": ["Da", "De", "En", "Es", "Fr", "No"]
 	},
 	"Strawberry Shortcake - Strawberryland Games (USA) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
@@ -18841,6 +19178,9 @@
 		"languages": ["En", "Es", "Fr"]
 	},
 	"Style Savvy (USA) (Demo) (Kiosk)": {
+		"languages": ["En"]
+	},
+	"Style Savvy (USA) (Wii U Virtual Console)": {
 		"languages": ["En"]
 	},
 	"Style Savvy (USA)": {
@@ -19039,8 +19379,14 @@
 	"Super Key (World) (v6.0) (Unl)": {
 		"languages": ["En"]
 	},
+	"Super Mario 64 DS (Europe) (En,Fr,De,Es,It) (Wii U Virtual Console)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
 	"Super Mario 64 DS (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Super Mario 64 DS (Japan) (Rev 1) (Wii U Virtual Console)": {
+		"languages": ["Ja"]
 	},
 	"Super Mario 64 DS (Japan) (Rev 1)": {
 		"languages": ["Ja"]
@@ -19052,6 +19398,9 @@
 		"languages": ["Ko"]
 	},
 	"Super Mario 64 DS (USA) (Demo) (Kiosk)": {
+		"languages": ["En"]
+	},
+	"Super Mario 64 DS (USA) (Rev 1) (Wii U Virtual Console)": {
 		"languages": ["En"]
 	},
 	"Super Mario 64 DS (USA)": {
@@ -19132,8 +19481,8 @@
 	"Superman Returns (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Superman Returns (USA)": {
-		"languages": ["En"]
+	"Superman Returns (USA) (En,Fr,De,Es,It)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Supermodel Makeover by Lauren Luke (Europe) (En,Fr,De,It)": {
 		"languages": ["De", "En", "Fr", "It"]
@@ -19728,6 +20077,12 @@
 	"ThunderCats (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
+	"ThunderCats (USA) (Beta) (Early)": {
+		"languages": ["En"]
+	},
+	"ThunderCats (USA) (Beta)": {
+		"languages": ["En"]
+	},
 	"ThunderCats (USA) (En,Fr,De,Es,It) (Beta) (2012-04-23)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
@@ -19861,6 +20216,9 @@
 	},
 	"Tintenherz (Germany)": {
 		"languages": ["De"]
+	},
+	"Tiny the Mole (Europe) (Proto) (2009-06-03)": {
+		"languages": ["En"]
 	},
 	"Titanic Mystery (Europe) (En,Fr,De)": {
 		"languages": ["De", "En", "Fr"]
@@ -20140,8 +20498,8 @@
 	"Tom and Jerry Tales (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Tom and Jerry Tales (USA)": {
-		"languages": ["En"]
+	"Tom and Jerry Tales (USA) (En,Fr,Es)": {
+		"languages": ["En", "Es", "Fr"]
 	},
 	"Tom Clancy's EndWar (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -20396,6 +20754,9 @@
 	"Touch! Kirby (Japan) (Demo) (Kiosk)": {
 		"languages": ["Ja"]
 	},
+	"Touch! Kirby (Japan) (Wii U Virtual Console)": {
+		"languages": ["Ja"]
+	},
 	"Touch! Kirby (Japan)": {
 		"languages": ["Ja"]
 	},
@@ -20445,6 +20806,9 @@
 	"Touhoku Daigaku Mirai Kagaku Gijutsu Kyoudou Kenkyuu Center - Kawashima Ryuuta Kyouju Kanshuu - Motto Nou o Kitaeru Otona no DS Training (Japan)": {
 		"languages": ["Ja"]
 	},
+	"Touhoku Daigaku Mirai Kagaku Gijutsu Kyoudou Kenkyuu Center - Kawashima Ryuuta Kyouju Kanshuu - Nou o Kitaeru Otona no DS Training (Japan) (Wii U Virtual Console)": {
+		"languages": ["nolang"]
+	},
 	"Touhoku Daigaku Mirai Kagaku Gijutsu Kyoudou Kenkyuu Center - Kawashima Ryuuta Kyouju Kanshuu - Nou o Kitaeru Otona no DS Training (Japan)": {
 		"languages": ["Ja"],
 		"localName": "東北大学未来科学技術共同研究センター　川島隆太教授監修　脳を鍛える大人のＤＳトレーニング"
@@ -20455,7 +20819,7 @@
 	"Tout pour Reussir CE2 (France) [b]": {
 		"languages": ["Fr"]
 	},
-	"Tout pour Reussir CM1 (France) [b]": {
+	"Tout pour Reussir CM1 (France)": {
 		"languages": ["Fr"]
 	},
 	"Tout pour Reussir CM2 (France) [b]": {
@@ -20854,8 +21218,8 @@
 	"Ultimate Band (USA) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
 	},
-	"Ultimate Card Games (USA)": {
-		"languages": ["En"]
+	"Ultimate Card Games (USA) (En,Fr,Es)": {
+		"languages": ["En", "Es", "Fr"]
 	},
 	"Ultimate Game Room (USA)": {
 		"languages": ["En"]
@@ -21170,8 +21534,14 @@
 	"Wacky Races - Crash & Dash (USA) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
+	"Wagamama Fashion - Girls Mode (Japan) (Wii U Virtual Console)": {
+		"languages": ["Ja"]
+	},
 	"Wagamama Fashion - Girls Mode (Japan)": {
 		"languages": ["Ja"]
+	},
+	"Waimanu - Daring Slides (World) (Aftermarket) (Unl)": {
+		"languages": ["En"]
 	},
 	"Wakabayashi Fumie no DS Kabu Lesson (Japan)": {
 		"languages": ["Ja"]
@@ -21248,10 +21618,16 @@
 	"Wario - Master of Disguise (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
+	"Wario - Master of Disguise (Europe) (En,Fr,De,Es,It) (Wii U Virtual Console)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
 	"Wario - Master of Disguise (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Wario - Master of Disguise (USA) (Demo) (Kiosk)": {
+		"languages": ["En"]
+	},
+	"Wario - Master of Disguise (USA) (Wii U Virtual Console)": {
 		"languages": ["En"]
 	},
 	"Wario - Master of Disguise (USA)": {
@@ -21266,10 +21642,16 @@
 	"WarioWare - Touched! (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
+	"WarioWare - Touched! (Europe) (En,Fr,De,Es,It) (Wii U Virtual Console)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
 	"WarioWare - Touched! (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"WarioWare - Touched! (USA) (Demo) (Kiosk)": {
+		"languages": ["En"]
+	},
+	"WarioWare - Touched! (USA) (Wii U Virtual Console)": {
 		"languages": ["En"]
 	},
 	"WarioWare - Touched! (USA)": {
@@ -21452,6 +21834,9 @@
 	"Winx Club - Rockstars (Italy)": {
 		"languages": ["It"]
 	},
+	"Winx Club - Saving Alfea (Europe) (En,Fr,De,Es,It,Pt) (Beta) (2014-07-09)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Pt"]
+	},
 	"Winx Club - Saving Alfea (Europe) (En,Fr,De,Es,It,Pt)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Pt"]
 	},
@@ -21533,6 +21918,9 @@
 	},
 	"WiZmans World (Japan)": {
 		"languages": ["Ja"]
+	},
+	"WM_test (World) (2006-01-25) (Program)": {
+		"languages": ["En"]
 	},
 	"Wo auf der Welt Ist Carmen Sandiego - Das Geheimnis am Ende der Welt (Europe) (De,Es)": {
 		"languages": ["De", "Es"]
@@ -21780,6 +22168,9 @@
 	"Yawaraka Atama Juku (Japan) (Rev 1)": {
 		"languages": ["Ja"]
 	},
+	"Yawaraka Atama Juku (Japan) (Rev 2) (Wii U Virtual Console)": {
+		"languages": ["Ja"]
+	},
 	"Yawaraka Atama Juku (Japan) (Rev 2)": {
 		"languages": ["Ja"]
 	},
@@ -21832,19 +22223,31 @@
 	"Yomesou de Yomenai Kanji DS (Japan)": {
 		"languages": ["Ja"]
 	},
+	"Yoshi Island DS (Japan) (Wii U Virtual Console)": {
+		"languages": ["Ja"]
+	},
 	"Yoshi Island DS (Japan)": {
 		"languages": ["Ja"]
 	},
 	"Yoshi Touch & Go (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
+	"Yoshi Touch & Go (Europe) (En,Fr,De,Es,It) (Wii U Virtual Console)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
 	"Yoshi Touch & Go (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Yoshi Touch & Go (USA) (Wii U Virtual Console)": {
+		"languages": ["nolang"]
 	},
 	"Yoshi Touch & Go (USA, Australia)": {
 		"languages": ["En"]
 	},
 	"Yoshi's Island DS (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Yoshi's Island DS (Europe) (En,Fr,De,Es,It) (Rev 1) (Wii U Virtual Console)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Yoshi's Island DS (Europe) (En,Fr,De,Es,It) (Rev 1)": {
@@ -21857,6 +22260,9 @@
 		"languages": ["Ko"]
 	},
 	"Yoshi's Island DS (USA) (Demo) (Kiosk)": {
+		"languages": ["En"]
+	},
+	"Yoshi's Island DS (USA) (Rev 1) (Wii U Virtual Console)": {
 		"languages": ["En"]
 	},
 	"Yoshi's Island DS (USA) (Rev 1)": {
@@ -22082,9 +22488,15 @@
 		"languages": ["Ja"],
 		"localName": "絶叫戦士　サケブレイン"
 	},
+	"Zelda no Densetsu - Daichi no Kiteki (Japan) (Wii U Virtual Console)": {
+		"languages": ["Ja"]
+	},
 	"Zelda no Densetsu - Daichi no Kiteki (Japan)": {
 		"languages": ["Ja"],
 		"localName": "ゼルダの伝説　大地の汽笛"
+	},
+	"Zelda no Densetsu - Mugen no Sunadokei (Japan) (Rev 1) (Wii U Virtual Console)": {
+		"languages": ["Ja"]
 	},
 	"Zelda no Densetsu - Mugen no Sunadokei (Japan)": {
 		"languages": ["Ja"]
