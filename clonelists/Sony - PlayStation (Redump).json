@@ -2734,6 +2734,13 @@
 			]
 		},
 		{
+			"group": "Fox Sports Soccer '99",
+			"titles": [
+				{"searchTerm": "Actua Soccer 2"},
+				{"searchTerm": "Fox Sports Soccer '99"}
+			]
+		},
+		{
 			"group": "FoxKids.com - Micro Maniacs Racing",
 			"titles": [
 				{"searchTerm": "Denkou Sekka Micro Runner - Maniac Hakase no Hisaku"},
@@ -3096,6 +3103,15 @@
 			"titles": [
 				{"searchTerm": "Hoshigami - Ruining Blue Earth"},
 				{"searchTerm": "Hoshigami - Shizumiyuku Aoki Daichi"}
+			]
+		},
+		{
+			"group": "Hot Shot",
+			"titles": [
+				{"searchTerm": "Hot Shot"},
+			],
+			"compilations": [
+				{"searchTerm": "Shoot"}
 			]
 		},
 		{
@@ -6930,6 +6946,9 @@
 			"titles": [
 				{"searchTerm": "Wanted"},
 				{"searchTerm": "Hot Shot", "priority": 2}
+			],
+			"compilations": [
+				{"searchTerm": "Shoot"}
 			]
 		},
 		{
