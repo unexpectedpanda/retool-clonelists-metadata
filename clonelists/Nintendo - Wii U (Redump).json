@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Nintendo - Wii U (Redump)",
-		"lastUpdated": "17 July 2023",
+		"lastUpdated": "18 April 2024",
 		"minimumVersion": "2.00"
 	},
 	"variants": [
@@ -70,11 +70,25 @@
 			]
 		},
 		{
+			"group": "Family Party - 30 Great Games - Obstacle Arcade",
+			"titles": [
+				{"searchTerm": "Family Party - 30 Great Games - Obstacle Arcade"},
+				{"searchTerm": "Simple Series for Wii U Vol. 1 - The Family Party"}
+			]
+		},
+		{
 			"group": "FIFA Soccer 13",
 			"titles": [
 				{"searchTerm": "FIFA 13"},
 				{"searchTerm": "FIFA 13 - World Class Soccer"},
 				{"searchTerm": "FIFA Soccer 13"}
+			]
+		},
+		{
+			"group": "Fist of the North Star - Ken's Rage 2",
+			"titles": [
+				{"searchTerm": "Fist of the North Star - Ken's Rage 2"},
+				{"searchTerm": "Shin Hokuto Musou"}
 			]
 		},
 		{
@@ -172,6 +186,13 @@
 			]
 		},
 		{
+			"group": "Mario vs. Donkey Kong - Tipping Stars",
+			"titles": [
+				{"searchTerm": "Mario vs. Donkey Kong - Tipping Stars"},
+				{"searchTerm": "Mario vs. Donkey Kong - Minna de Mini Land"}
+			]
+		},
+		{
 			"group": "Mass Effect 3 - Special Edition",
 			"titles": [
 				{"searchTerm": "Mass Effect 3 - Special Edition"},
@@ -190,6 +211,13 @@
 			"titles": [
 				{"searchTerm": "Need for Speed - Most Wanted U"},
 				{"searchTerm": "Need for Speed - Most Wanted U - A Criterion Game"}
+			]
+		},
+		{
+			"group": "NES Remix Pack",
+			"titles": [
+				{"searchTerm": "NES Remix Pack"},
+				{"searchTerm": "Famicom Remix 1 + 2"}
 			]
 		},
 		{
@@ -222,6 +250,13 @@
 			"titles": [
 				{"searchTerm": "Pokken - Pokken Tournament"},
 				{"searchTerm": "Pokken Tournament"}
+			]
+		},
+		{
+			"group": "Project Zero - Maiden of Black Water",
+			"titles": [
+				{"searchTerm": "Project Zero - Maiden of Black Water"},
+				{"searchTerm": "Zero - Nuregarasu no Miko"}
 			]
 		},
 		{
@@ -277,7 +312,7 @@
 			"group": "Xenoblade Chronicles X",
 			"titles": [
 				{"searchTerm": "Xenoblade Chronicles X"},
-				{"searchTerm": "Xenoblade X"}
+				{"searchTerm": "XenobladeX"}
 			]
 		},
 		{
