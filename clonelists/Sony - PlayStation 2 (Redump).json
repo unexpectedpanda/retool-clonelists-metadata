@@ -851,6 +851,13 @@
 			]
 		},
 		{
+			"group": "Centre Court - Hard Hitter",
+			"titles": [
+				{"searchTerm": "Centre Court - Hard Hitter"},
+				{"searchTerm": "Hard Hitter"}
+			]
+		},
+		{
 			"group": "Champions of Norrath",
 			"titles": [
 				{"searchTerm": "Champions of Norrath"},
@@ -877,6 +884,13 @@
 			"titles": [
 				{"searchTerm": "Check-i-TV (Kyou kara Check! Pack)"},
 				{"searchTerm": "Check-i-TV", "priority": 2}
+			]
+		},
+		{
+			"group": "Choro Q",
+			"titles": [
+				{"searchTerm": "Choro Q"},
+				{"searchTerm": "Choro Q HG 4"}
 			]
 		},
 		{
@@ -1533,10 +1547,10 @@
 			]
 		},
 		{
-			"group": "Dot Hack Fraegment (Senkou Release-ban)",
+			"group": "Dot Hack Fraegment",
 			"titles": [
-				{"searchTerm": "Dot Hack Fraegment (Senkou Release-ban)"},
-				{"searchTerm": "Dot Hack Fraegment", "priority": 2}
+				{"searchTerm": "Dot Hack Fraegment"},
+				{"searchTerm": "Dot Hack Fraegment (Senkou Release-ban)", "priority": 2}
 			]
 		},
 		{
@@ -1544,6 +1558,13 @@
 			"titles": [
 				{"searchTerm": "Dot Hack G.U. Vol. 1 - Rebirth"},
 				{"searchTerm": "Dot Hack G.U. Vol. 1 - Saitan"}
+			]
+		},
+		{
+			"group": "Dot Hack G.U. Vol. 1 - Rebirth - Terminal Disc",
+			"titles": [
+				{"searchTerm": "Dot Hack G.U. Vol. 1 - Rebirth - Terminal Disc"},
+				{"searchTerm": "Dot Hack G.U. Terminal Disc - The End of The World"}
 			]
 		},
 		{
@@ -2956,10 +2977,9 @@
 		{
 			"group": "Hard Hitter Tennis",
 			"titles": [
-				{"searchTerm": "Centre Court - Hard Hitter"},
 				{"searchTerm": "Grand Slam 2003 Tennis"},
-				{"searchTerm": "Hard Hitter"},
-				{"searchTerm": "Hard Hitter Tennis"}
+				{"searchTerm": "Hard Hitter Tennis"},
+				{"searchTerm": "Hard Hitter 2"}
 			]
 		},
 		{
@@ -3943,6 +3963,13 @@
 			"titles": [
 				{"searchTerm": "Lowrider"},
 				{"searchTerm": "LowRider - Round the World"}
+			]
+		},
+		{
+			"group": "Lupin Sansei - Lupin ni wa Shi o, Zenigata ni wa Koi o",
+			"titles": [
+				{"searchTerm": "Lupin Sansei - Lupin ni wa Shi o, Zenigata ni wa Koi o"},
+				{"searchTerm": "Avventure di Lupin III, Le - Lupin la Morte, Zenigata l'Amore"}
 			]
 		},
 		{
@@ -6296,6 +6323,16 @@
 			]
 		},
 		{
+			"group": "Simple 2000 Series Vol. 90 - The OneeChambara 2",
+			"titles": [
+				{"searchTerm": "Simple 2000 Series Vol. 90 - The OneeChambara 2"}
+			],
+			"supersets": [
+				{"searchTerm": "Simple 2000 Series Vol. 101 - The OneeChampon - The Nee-chan 2 Tokubetsu-hen"},
+				{"searchTerm": "Zombie Hunters 2"}
+			]
+		},
+		{
 			"group": "Simple Outlaws DX Gaiden - Chou Saisoku! Zokusha King Bore Up - Butchigiri Densetsu 2",
 			"titles": [
 				{"searchTerm": "Simple Outlaws DX Gaiden - Chou Saisoku! Zokusha King Bore Up - Butchigiri Densetsu 2"}
@@ -7454,6 +7491,13 @@
 			]
 		},
 		{
+			"group": "Walt Disney Pictures Bolt",
+			"titles": [
+				{"searchTerm": "Walt Disney Pictures Bolt"},
+				{"searchTerm": "Disney Bolt"}
+			]
+		},
+		{
 			"group": "Walt Disney Pictures Presents Meet the Robinsons",
 			"titles": [
 				{"searchTerm": "Lewis to Mirai Dorobou - Wilbur no Kiken na Jikan Ryokou"},
@@ -7947,16 +7991,6 @@
 			]
 		},
 		{
-			"group": "Zombie Hunters 2",
-			"titles": [
-				{"searchTerm": "Simple 2000 Series Vol. 90 - The OneeChambara 2"},
-				{"searchTerm": "Zombie Hunters 2"}
-			],
-			"supersets": [
-				{"searchTerm": "Simple 2000 Series Vol. 101 - The OneeChampon - The Nee-chan 2 Tokubetsu-hen"}
-			]
-		},
-		{
 			"group": "Zombie Virus",
 			"titles": [
 				{"searchTerm": "Simple 2000 Series Vol. 95 - The Zombie vs. Kyuukyuusha"},
@@ -7969,6 +8003,10 @@
 				{"searchTerm": "Simple 2000 Series - The Chanbara"},
 				{"searchTerm": "Simple 2000 Series Vol. 61 - The OneeChambara"},
 				{"searchTerm": "Zombie Zone"}
+			],
+			"supersets": [
+				{"searchTerm": "Simple 2000 Series Vol. 80 - The OneeChamploo - The Nee-chan Tokubetsu-hen"},
+				{"searchTerm": "Zombie Zone - Other Side"}
 			]
 		},
 		{
