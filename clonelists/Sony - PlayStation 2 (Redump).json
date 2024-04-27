@@ -2384,13 +2384,6 @@
 			]
 		},
 		{
-			"group": "Flying Circus - RC Copter Adventure Championship (Propo-gata Controller Doukonban)",
-			"titles": [
-				{"searchTerm": "Flying Circus - RC Copter Adventure Championship (Propo-gata Controller Doukonban)"},
-				{"searchTerm": "Flying Circus - RC Copter Adventure Championship", "priority": 2}
-			]
-		},
-		{
 			"group": "Forbidden Siren 2",
 			"titles": [
 				{"searchTerm": "Forbidden Siren 2"},
@@ -3231,6 +3224,9 @@
 			"titles": [
 				{"searchTerm": "Hyper Street Fighter II - The Anniversary Edition (CapKore)"},
 				{"searchTerm": "Hyper Street Fighter II - The Anniversary Edition", "priority": 2}
+			],
+			"compilations": [
+				{"searchTerm": "Street Fighter Anniversary Collection"}
 			]
 		},
 		{
@@ -3501,6 +3497,13 @@
 			],
 			"supersets": [
 				{"searchTerm": "Kamen Rider Hibiki - Taiko no Tatsujin Special Version"}
+			]
+		},
+		{
+			"group": "Kanojo no Densetsu, Boku no Sekiban - Amirion no Ken to Tomo ni",
+			"titles": [
+				{"searchTerm": "Kanojo no Densetsu, Boku no Sekiban - Amirion no Ken to Tomo ni"},
+				{"searchTerm": "Simple 2000 Series Vol. 71 - The Fantasy Ren'ai Adventure - Kanojo no Densetsu, Boku no Sekiban", "priority": 2}
 			]
 		},
 		{
@@ -4133,6 +4136,26 @@
 			]
 		},
 		{
+			"group": "Matching Maker",
+			"titles": [
+				{"searchTerm": "Matching Maker"}
+			],
+			"supersets": [
+				{"searchTerm": "Metropolismania"},
+				{"searchTerm": "Simple 2000 Series Vol. 39 - The Boku no Machi-zukuri - Matching Maker++"}
+			]
+		},
+		{
+			"group": "Matching Maker 2 - Zoku Boku no Machi-zukuri",
+			"titles": [
+				{"searchTerm": "Matching Maker 2 - Zoku Boku no Machi-zukuri"}
+			],
+			"supersets": [
+				{"searchTerm": "Metropolismania 2"},
+				{"searchTerm": "Simple 2000 Series Vol. 121 - The Boku no Machi-zukuri 2 - Matching Maker 2.1"}
+			]
+		},
+		{
 			"group": "Maximo - Ghosts to Glory",
 			"titles": [
 				{"searchTerm": "Maximo"},
@@ -4390,21 +4413,6 @@
 			]
 		},
 		{
-			"group": "Metropolismania",
-			"titles": [
-				{"searchTerm": "Metropolismania"},
-				{"searchTerm": "Simple 2000 Series Vol. 39 - The Boku no Machi-zukuri - Matching Maker++"}
-			]
-		},
-		{
-			"group": "Metropolismania 2",
-			"titles": [
-				{"searchTerm": "Metropolismania 2"},
-				{"searchTerm": "Simple 2000 Series Vol. 121 - The Boku no Machi-zukuri 2 - Matching Maker 2.1"},
-				{"searchTerm": "Matching Maker 2 - Zoku Boku no Machi-zukuri", "priority": 2}
-			]
-		},
-		{
 			"group": "Michigan - Report from Hell",
 			"titles": [
 				{"searchTerm": "Michigan"},
@@ -4432,6 +4440,24 @@
 			],
 			"supersets": [
 				{"searchTerm": "Midnight Club 3 - DUB Edition Remix"}
+			]
+		},
+		{
+			"group": "Midway Arcade Treasures",
+			"titles": [
+				{"searchTerm": "Midway Arcade Treasures"}
+			],
+			"compilations": [
+				{"searchTerm": "Geesen USA - Midway Arcade Treasures"}
+			]
+		},
+		{
+			"group": "Midway Arcade Treasures 2",
+			"titles": [
+				{"searchTerm": "Midway Arcade Treasures 2"}
+			],
+			"compilations": [
+				{"searchTerm": "Geesen USA - Midway Arcade Treasures"}
 			]
 		},
 		{
@@ -4606,6 +4632,13 @@
 			"titles": [
 				{"searchTerm": "Golful Golf"},
 				{"searchTerm": "Mr. Golf"}
+			]
+		},
+		{
+			"group": "MS Saga - A New Dawn",
+			"titles": [
+				{"searchTerm": "Gundam True Odyssey - Ushinawareshi G no Densetsu"},
+				{"searchTerm": "MS Saga - A New Dawn"}
 			]
 		},
 		{
@@ -5484,6 +5517,14 @@
 				{"searchTerm": "Doukyuu - Billiard Master 2"},
 				{"searchTerm": "Pool Master"},
 				{"searchTerm": "Q-Ball - Billiards Master"}
+			]
+		},
+		{
+			"group": "R-C Sports Copter Challenge",
+			"titles": [
+				{"searchTerm": "Flying Circus - RC Copter Adventure Championship (Propo-gata Controller Doukonban)"},
+				{"searchTerm": "R-C Sports Copter Challenge"},
+				{"searchTerm": "Flying Circus - RC Copter Adventure Championship", "priority": 2}
 			]
 		},
 		{
@@ -6733,6 +6774,15 @@
 			]
 		},
 		{
+			"group": "Street Fighter III - 3rd Strike - Fight for the Future",
+			"titles": [
+				{"searchTerm": "Street Fighter III - 3rd Strike - Fight for the Future"}
+			],
+			"compilations": [
+				{"searchTerm": "Street Fighter Anniversary Collection"}
+			]
+		},
+		{
 			"group": "Street Golfer",
 			"titles": [
 				{"searchTerm": "Simple 2000 Series Ultimate Vol. 12 - Street Golfer"},
@@ -6796,6 +6846,9 @@
 				{"searchTerm": "Super Bust-A-Move"},
 				{"searchTerm": "Super Puzzle Bobble Collection (Disc 1)"},
 				{"searchTerm": "Super Puzzle Bobble", "priority": 2}
+			],
+			"compilations": [
+				{"searchTerm": "Simple 2000 Series Vol. 62 - The Super Puzzle Bobble DX"}
 			]
 		},
 		{
@@ -6804,6 +6857,9 @@
 				{"searchTerm": "Super Bust-A-Move 2"},
 				{"searchTerm": "Super Puzzle Bobble Collection (Disc 2)"},
 				{"searchTerm": "Super Puzzle Bobble 2", "priority": 2}
+			],
+			"compilations": [
+				{"searchTerm": "Simple 2000 Series Vol. 62 - The Super Puzzle Bobble DX"}
 			]
 		},
 		{
@@ -7045,6 +7101,13 @@
 			"titles": [
 				{"searchTerm": "Thing, The"},
 				{"searchTerm": "Yuusei kara no Buttai X - Episode II"}
+			]
+		},
+		{
+			"group": "Thread Colors - Sayonara no Mukougawa",
+			"titles": [
+				{"searchTerm": "Thread Colors - Sayonara no Mukougawa"},
+				{"searchTerm": "Simple 2000 Series Vol. 45 - The Koi to Namida to, Tsuioku to... Thread Colors - Sayonara no Mukougawa", "priority": 2}
 			]
 		},
 		{
