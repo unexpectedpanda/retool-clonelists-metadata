@@ -1,13 +1,9 @@
 {
 	"description": {
 		"name": "Commodore - Amiga CD32 (Redump)",
-		"lastUpdated": "20 August 2023",
+		"lastUpdated": "28 April 2023",
 		"minimumVersion": "2.00"
 	},
-
-	"mias": [
-		"Clockwiser (Europe)",
-	],
 
 	"variants": [
 		{
@@ -18,11 +14,12 @@
 			"compilations": [
 				{"searchTerm": "Grandslam Gamer Gold Collection"}
 			]
-		},		
+		},
 		{
 			"group": "Dangerous Streets",
 			"titles": [
-				{"searchTerm": "Dangerous Streets"}	
+				{"searchTerm": "Dangerous Streets"}
+			],
 			"compilations": [
 				{"searchTerm": "Dangerous Streets & Wing Commander"}
 			]
@@ -65,6 +62,12 @@
 			],
 			"compilations": [
 				{"searchTerm": "Project-X & Ultimate Body Blows", "titlePosition": 1}
+			]
+		},
+		{
+			"group": "Wing Commander",
+			"compilations": [
+				{"searchTerm": "Dangerous Streets & Wing Commander"}
 			]
 		}
 	]
