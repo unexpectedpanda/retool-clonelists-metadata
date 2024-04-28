@@ -1,13 +1,14 @@
 {
 	"description": {
 		"name": "Sega - Dreamcast (Redump)",
-		"lastUpdated": "05 April 2024",
+		"lastUpdated": "19 April 2024",
 		"minimumVersion": "2.00"
 	},
 
 	"mias": [
 		"Chicken Run (Japan) (Beta) (2000-08-01)",
 		"Dream Preview Vol. 1 (Japan)",
+		"Slave Zero (USA) (Rev A)"
 	],
 
 	"variants": [
@@ -803,7 +804,7 @@
 		{
 			"group": "Surf Rocket Racers",
 			"titles": [
-				{"searchTerm": "Surf Rocket Racers"}
+				{"searchTerm": "Surf Rocket Racers"},
 				{"searchTerm": "Power Jet Racing 2001"}
 			]
 		},
