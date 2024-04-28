@@ -89,7 +89,29 @@
 			]
 		},
 		{
+			"group": "AceKard 2",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "AceKard 2"}
+			]
+		},
+		{
+			"group": "AceKard 2i",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "AceKard 2i"}
+			]
+		},
+		{
+			"group": "AceKard R.P.G.",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "AceKard R.P.G."}
+			]
+		},
+		{
 			"group": "Action Replay DS",
+			"categories": ["Applications"],
 			"titles": [
 				{"searchTerm": "Action Replay DS"},
 				{"searchTerm": "Pro Action Replay DS"}
@@ -410,28 +432,32 @@
 			]
 		},
 		{
-			"group": "Beyblade - Metal Masters",
-			"titles": [
-				{"searchTerm": "Beyblade - Metal Masters"},
-				{"searchTerm": "Beyblade - Metal Masters - Nightmare Rex"},
-				{"searchTerm": "Metal Beyblade 2 - Big Bang Bladers"},
-				{"searchTerm": "Metal Fight Beyblade - Choujou Kessen! - Big Bang Bladers"},
-				{"searchTerm": "Beyblade - Metal Masters (Collector's Edition)", "priority": 2},
-				{"searchTerm": "Beyblade - Metal Masters (Best Buy Exclusive)", "priority": 3},
-				{"searchTerm": "Beyblade - Metal Masters (Target Exclusive)", "priority": 4},
-				{"searchTerm": "Beyblade - Metal Masters (Toys'R'Us Exclusive)", "priority": 5}
-			]
-		},
-		{
 			"group": "Beyblade - Metal Fusion",
 			"titles": [
 				{"searchTerm": "Beyblade - Metal Fusion"},
 				{"searchTerm": "Beyblade Metal Fusion - Cyber Pegasus"},
 				{"searchTerm": "Metal Beyblade - Cyber Pegasis"},
-				{"searchTerm": "Metal Fight Beyblade - Bakutan! Cyber Pegasis"},
-				{"searchTerm": "Beyblade - Metal Fusion (Collector's Edition)", "priority": 2},
-				{"searchTerm": "Beyblade - Metal Fusion (Toys'R'Us Exclusive)", "priority": 3},
-				{"searchTerm": "Beyblade - Metal Fusion (Walmart Exclusive)", "priority": 4}
+				{"searchTerm": "Metal Fight Beyblade - Bakutan! Cyber Pegasis"}
+			],
+			"supersets": [
+				{"searchTerm": "Beyblade - Metal Fusion (Collector's Edition)"},
+				{"searchTerm": "Beyblade - Metal Fusion (Toys'R'Us Exclusive)"},
+				{"searchTerm": "Beyblade - Metal Fusion (Walmart Exclusive)"}
+			]
+		},
+		{
+			"group": "Beyblade - Metal Masters",
+			"titles": [
+				{"searchTerm": "Beyblade - Metal Masters"},
+				{"searchTerm": "Beyblade - Metal Masters - Nightmare Rex"},
+				{"searchTerm": "Metal Beyblade 2 - Big Bang Bladers"},
+				{"searchTerm": "Metal Fight Beyblade - Choujou Kessen! - Big Bang Bladers"}
+			],
+			"supersets": [
+				{"searchTerm": "Beyblade - Metal Masters (Collector's Edition)"},
+				{"searchTerm": "Beyblade - Metal Masters (Best Buy Exclusive)"},
+				{"searchTerm": "Beyblade - Metal Masters (Target Exclusive)"},
+				{"searchTerm": "Beyblade - Metal Masters (Toys'R'Us Exclusive)"}
 			]
 		},
 		{
@@ -688,6 +714,13 @@
 			]
 		},
 		{
+			"group": "Cartridge Construction Kit",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Cartridge Construction Kit"}
+			]
+		},
+		{
 			"group": "Castlevania - Dawn of Sorrow",
 			"titles": [
 				{"searchTerm": "Akumajou Dracula - Sougetsu no Juujika"},
@@ -907,6 +940,7 @@
 		},
 		{
 			"group": "CodeBreaker DS",
+			"categories": ["Applications"],
 			"titles": [
 				{"searchTerm": "CodeBreaker DS"},
 				{"searchTerm": "CodeBreaker DS Lite", "priority": 2}
@@ -1129,6 +1163,13 @@
 			]
 		},
 		{
+			"group": "CycloDS Evolution",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "CycloDS Evolution"}
+			]
+		},
+		{
 			"group": "D&CO - Ta Maison de Reve en 7 Jours",
 			"titles": [
 				{"searchTerm": "D&CO - Ta Maison de Reve en 7 Jours", "localNames": {"french": "D&CO - Ta Maison de Reve en 7 Jours", "italian": "Decora e Arreda con Stile"}}
@@ -1139,6 +1180,13 @@
 			"titles": [
 				{"searchTerm": "Dark Spire, The"},
 				{"searchTerm": "Genmu no Tou to Tsurugi no Okite"}
+			]
+		},
+		{
+			"group": "Data Max",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Data Max"}
 			]
 		},
 		{
@@ -1618,6 +1666,20 @@
 			]
 		},
 		{
+			"group": "DSTT",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "DSTT"}
+			]
+		},
+		{
+			"group": "DSTTi",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "DSTTi"}
+			]
+		},
+		{
 			"group": "Dungeon Explorer - Warriors of Ancient Arts",
 			"titles": [
 				{"searchTerm": "Dungeon Explorer"},
@@ -1646,6 +1708,13 @@
 				{"searchTerm": "Eco-Creatures - Save the Forest"},
 				{"searchTerm": "Ecolis"},
 				{"searchTerm": "Ecolis - Save the Forest"}
+			]
+		},
+		{
+			"group": "EDGE",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "EDGE"}
 			]
 		},
 		{
@@ -1769,6 +1838,20 @@
 				{"searchTerm": "Bisanggu - Exit DS"},
 				{"searchTerm": "Exit DS"},
 				{"searchTerm": "Hijouguchi - Exit DS"}
+			]
+		},
+		{
+			"group": "EZ-Flash V",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "EZ-Flash V"}
+			]
+		},
+		{
+			"group": "EZ-Flash Vi",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "EZ-Flash Vi"}
 			]
 		},
 		{
@@ -2047,6 +2130,13 @@
 			"titles": [
 				{"searchTerm": "Fullmetal Alchemist - Dual Sympathy"},
 				{"searchTerm": "Hagane no Renkinjutsushi - Dual Sympathy"}
+			]
+		},
+		{
+			"group": "G6DS Real",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "G6DS Real"}
 			]
 		},
 		{
@@ -2768,6 +2858,13 @@
 			]
 		},
 		{
+			"group": "iTouch DS",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "iTouch DS"}
+			]
+		},
+		{
 			"group": "Ivy the Kiwi",
 			"titles": [
 				{"searchTerm": "Ivy the Kiwi"},
@@ -3443,6 +3540,24 @@
 			]
 		},
 		{
+			"group": "Little League World Series Baseball 2008",
+			"titles": [
+				{"searchTerm": "Little League World Series Baseball 2008"}
+			],
+			"compilations": [
+				{"searchTerm": "Little League World Series Baseball - Double Play"}
+			]
+		},
+		{
+			"group": "Little League World Series Baseball 2009",
+			"titles": [
+				{"searchTerm": "Little League World Series Baseball 2009"}
+			],
+			"compilations": [
+				{"searchTerm": "Little League World Series Baseball - Double Play"}
+			]
+		},
+		{
 			"group": "Little Mermaid, The - Ariel's Undersea Adventure",
 			"titles": [
 				{"searchTerm": "Little Mermaid - Ariel no Umi no Takaramono"},
@@ -3532,6 +3647,20 @@
 			"titles": [
 				{"searchTerm": "Bokura no Taiyou - Django & Sabata"},
 				{"searchTerm": "Lunar Knights"}
+			]
+		},
+		{
+			"group": "M3DS Real",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "M3DS Real"}
+			]
+		},
+		{
+			"group": "M3DS Simply & R4DS",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "M3DS Simply & R4DS"}
 			]
 		},
 		{
@@ -3761,6 +3890,20 @@
 				{"searchTerm": "Math Play"},
 				{"searchTerm": "Maths Play - Have Fun with Numbers!"},
 				{"searchTerm": "Sansuu Puzzle Game - Equal Card DS"}
+			]
+		},
+		{
+			"group": "Max Media Launcher",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Max Media Launcher"}
+			]
+		},
+		{
+			"group": "Max Media Player",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Max Media Player"}
 			]
 		},
 		{
@@ -4528,6 +4671,20 @@
 			]
 		},
 		{
+			"group": "Nintendo DS Browser",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Nintendo DS Browser"}
+			]
+		},
+		{
+			"group": "Nintendo Zone Wireless Distribution Box DS Card",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Nintendo Zone Wireless Distribution Box DS Card"}
+			]
+		},
+		{
 			"group": "Nintendogs - Chihuahua & Friends",
 			"titles": [
 				{"searchTerm": "Nintendogs - Chihuahua & Chingudeul"},
@@ -4656,6 +4813,13 @@
 			"titles": [
 				{"searchTerm": "Party Carnival"},
 				{"searchTerm": "Simple DS Series Vol. 6 - The Party Game"}
+			]
+		},
+		{
+			"group": "Passcard 3",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Passcard 3"}
 			]
 		},
 		{
@@ -5557,6 +5721,13 @@
 			]
 		},
 		{
+			"group": "R4i Ultra",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "R4i Ultra"}
+			]
+		},
+		{
 			"group": "Rabbids Go Home - A Comedy Adventure",
 			"titles": [
 				{"searchTerm": "Rabbids Go Home"},
@@ -5641,6 +5812,13 @@
 			"titles": [
 				{"searchTerm": "Real Stories - Babies"},
 				{"searchTerm": "Real Stories - Mijn Babycreche"}
+			]
+		},
+		{
+			"group": "Relay Station",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Relay Station"}
 			]
 		},
 		{
@@ -6375,6 +6553,13 @@
 			]
 		},
 		{
+			"group": "Super Key",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Super Key"}
+			]
+		},
+		{
 			"group": "Super Mario 64 DS",
 			"titles": [
 				{"searchTerm": "Shenyou Maliou DS"},
@@ -6403,11 +6588,19 @@
 			]
 		},
 		{
-			"group": "SuperCard DSONE (SDHC)",
+			"group": "SuperCard DSONE",
+			"categories": ["Applications"],
 			"titles": [
 				{"searchTerm": "SuperCard DSONE (SDHC)"},
 				{"searchTerm": "SuperCard DSONE", "priority": 2},
 				{"searchTerm": "SuperCard DS", "priority": 3}
+			]
+		},
+		{
+			"group": "SuperCard DSTWO",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "SuperCard DSTWO"}
 			]
 		},
 		{

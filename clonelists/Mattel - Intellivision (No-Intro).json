@@ -1,11 +1,20 @@
 {
 	"description": {
 		"name": "Mattel - Intellivision (No-Intro)",
-		"lastUpdated": "26 December 2023",
+		"lastUpdated": "28 April 2024",
 		"minimumVersion": "2.02"
 	},
 
 	"variants": [
+		{
+			"group": "ABPA Backgammon",
+			"titles": [
+				{"searchTerm": "ABPA Backgammon"}
+			],
+			"compilations": [
+				{"searchTerm": "Triple Challenge - Chess, Checkers, Backgammon"}
+			]
+		},
 		{
 			"group": "Advanced Dungeons & Dragons",
 			"titles": [
@@ -21,10 +30,24 @@
 			]
 		},
 		{
+			"group": "Armor Battle",
+			"titles": [
+				{"searchTerm": "Armor Battle (Fast Tanks)"},
+				{"searchTerm": "Armor Battle (Slow Tanks)", "priority": 2}
+			]
+		},
+		{
 			"group": "Astrosmash",
 			"titles": [
 				{"searchTerm": "Astrosmash"},
 				{"searchTerm": "Meteor", "priority": 2}
+			]
+		},
+		{
+			"group": "Auto Racing",
+			"titles": [
+				{"searchTerm": "Auto Racing (Car-Relative Steering)"},
+				{"searchTerm": "Auto Racing (Screen-Relative Steering)", "priority": 2}
 			]
 		},
 		{
@@ -50,6 +73,9 @@
 			"titles": [
 				{"searchTerm": "Checkers (Revision)"},
 				{"searchTerm": "Checkers", "priority": 2}
+			],
+			"compilations": [
+				{"searchTerm": "Triple Challenge - Chess, Checkers, Backgammon"}
 			]
 		},
 		{
@@ -80,6 +106,13 @@
 			"categories": ["Demos"],
 			"titles": [
 				{"searchTerm": "Demonstration Cartridge - Red"}
+			]
+		},
+		{
+			"group": "Electric Company, The - Math Fun",
+			"titles": [
+				{"searchTerm": "Electric Company, The - Math Fun (Forward Entry)"},
+				{"searchTerm": "Electric Company, The - Math Fun (Reverse Entry)", "priority": 2}
 			]
 		},
 		{
@@ -166,6 +199,15 @@
 			"titles": [
 				{"searchTerm": "TRON Deadly Discs"},
 				{"searchTerm": "Deadly Dogs", "priority": 2}
+			]
+		},
+		{
+			"group": "USCF Chess",
+			"titles": [
+				{"searchTerm": "USCF Chess"}
+			],
+			"compilations": [
+				{"searchTerm": "Triple Challenge - Chess, Checkers, Backgammon"}
 			]
 		},
 		{

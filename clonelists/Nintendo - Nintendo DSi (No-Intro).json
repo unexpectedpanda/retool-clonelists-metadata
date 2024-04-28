@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Nintendo - Nintendo DSi (No-Intro)",
-		"lastUpdated": "01 December 2023",
+		"lastUpdated": "28 April 2024",
 		"minimumVersion": "2.00"
 	},
 
@@ -18,6 +18,20 @@
 			"titles": [
 				{"searchTerm": "Hidden Photo"},
 				{"searchTerm": "Wimmelbild-Creator"}
+			]
+		},
+		{
+			"group": "Nintendo DSi XL Demo Video",
+			"categories": ["Demos", "Videos"],
+			"titles": [
+				{"searchTerm": "Nintendo DSi XL Demo Video"}
+			]
+		},
+		{
+			"group": "Nintendo DSi XL Demo Video Volume 2",
+			"categories": ["Demos", "Videos"],
+			"titles": [
+				{"searchTerm": "Nintendo DSi XL Demo Video Volume 2"}
 			]
 		},
 		{
