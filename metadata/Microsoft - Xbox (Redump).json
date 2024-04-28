@@ -770,7 +770,7 @@
 		"languages": ["De"]
 	},
 	"Call of Duty - Finest Hour (Japan)": {
-		"languages": [],
+		"languages": ["Ja"],
 		"localName": "コール　オブ　デューティ　ファイネストアワー"
 	},
 	"Call of Duty - Finest Hour (USA, Europe)": {
@@ -1218,6 +1218,9 @@
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
 	},
 	"Crash Tag Team Racing (USA)": {
+		"languages": []
+	},
+	"Crash Tag Team Racing (USA) (Beta) (2005-06-29)": {
 		"languages": []
 	},
 	"Crash Twinsanity (Europe) (En,Fr,De,It)": {
@@ -4481,7 +4484,7 @@
 	"Ninja Gaiden (Japan) (Demo)": {
 		"languages": []
 	},
-	"Ninja Gaiden (USA, Japan) (En,Ja)": {
+	"Ninja Gaiden (USA, Asia) (En,Ja)": {
 		"languages": ["En", "Ja"]
 	},
 	"Ninja Gaiden Black (Europe) (En,Fr,De,Es,It)": {
@@ -4678,11 +4681,11 @@
 	"Official Xbox Magazine Game Disc 15 (USA)": {
 		"languages": ["En"]
 	},
-	"Official Xbox Magazine Game Disc 16 (Australia)": {
-		"languages": []
-	},
 	"Official Xbox Magazine Game Disc 16 (Europe) (En,Fr,Es,It)": {
 		"languages": ["En", "Es", "Fr", "It"]
+	},
+	"Official Xbox Magazine Game Disc 16 (Europe, Australia)": {
+		"languages": []
 	},
 	"Official Xbox Magazine Game Disc 16 (USA)": {
 		"languages": ["En"]

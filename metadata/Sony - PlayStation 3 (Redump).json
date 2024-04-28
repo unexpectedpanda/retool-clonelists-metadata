@@ -2641,16 +2641,16 @@
 		"languages": [],
 		"localName": "デッドアイランド　ゾンビ　オブ　ザ　イヤー　エディション"
 	},
+	"Dead Rising 2 (Asia) (En,Ja,Fr,Es,It,Ko)": {
+		"languages": ["En", "Es", "Fr", "It", "Ja", "Ko"],
+		"localName": "데드라이징 2"
+	},
 	"Dead Rising 2 (Europe) (En,Ja,Fr,Es,It,Ko)": {
 		"languages": ["En", "Es", "Fr", "It", "Ja", "Ko"]
 	},
 	"Dead Rising 2 (Japan)": {
 		"languages": [],
 		"localName": "デッドライジング２"
-	},
-	"Dead Rising 2 (Korea) (En,Ja,Fr,Es,It,Ko)": {
-		"languages": ["En", "Es", "Fr", "It", "Ja", "Ko"],
-		"localName": "데드라이징 2"
 	},
 	"Dead Rising 2 (USA) (En,Ja,Fr,Es,It,Ko)": {
 		"languages": ["En", "Es", "Fr", "It", "Ja", "Ko"]
@@ -4975,7 +4975,7 @@
 		"localName": "劇場版マクロスＦ　～イツワリノウタヒメ～　ハイブリッドパック"
 	},
 	"Gekijouban Macross F - Sayonara no Tsubasa - Hybrid Pack (Japan)": {
-		"languages": [],
+		"languages": ["Ja"],
 		"localName": "劇場版マクロスＦ　～サヨナラノツバサ～　ハイブリッドパック"
 	},
 	"Gendai Daisenryaku 2016 - Chitsujo no Houkai - Haken Kokka Shittsui (Japan)": {
@@ -5158,6 +5158,9 @@
 	"Gran Turismo 5 (Asia) (En,Zh)": {
 		"languages": ["En", "Zh"]
 	},
+	"Gran Turismo 5 (Asia) (En,Zh,Ko)": {
+		"languages": ["En", "Ko", "Zh"]
+	},
 	"Gran Turismo 5 (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt,Pl,Ru,El,Tr) (v01.02)": {
 		"languages": ["De", "El", "En", "Es", "Fr", "It", "Ja", "Nl", "Pl", "Pt", "Ru", "Tr"]
 	},
@@ -5177,9 +5180,6 @@
 	"Gran Turismo 5 (Japan) (En,Ja) (v02.00)": {
 		"languages": ["En", "Ja"],
 		"localName": "グランツーリスモ５"
-	},
-	"Gran Turismo 5 (Korea) (En,Zh,Ko)": {
-		"languages": ["En", "Ko", "Zh"]
 	},
 	"Gran Turismo 5 (USA) (En,Ja,Fr,Es,Pt) (v02.00)": {
 		"languages": ["En", "Es", "Fr", "Ja", "Pt"]
@@ -6733,10 +6733,10 @@
 	"LEGO The Lord of the Rings (USA, Asia) (En,Fr,Es,Pt)": {
 		"languages": ["En", "Es", "Fr", "Pt"]
 	},
-	"Lair (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko)": {
+	"Lair (Asia) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko)": {
 		"languages": ["Da", "De", "En", "Es", "Fi", "Fr", "It", "Ja", "Ko", "Nl", "No", "Pt", "Sv", "Zh"]
 	},
-	"Lair (Korea) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko)": {
+	"Lair (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko)": {
 		"languages": ["Da", "De", "En", "Es", "Fi", "Fr", "It", "Ja", "Ko", "Nl", "No", "Pt", "Sv", "Zh"]
 	},
 	"Lair (USA)": {
@@ -11009,7 +11009,7 @@
 		"languages": ["Ja"],
 		"localName": "真・三國無双　英傑伝"
 	},
-	"Shin Sangoku Musou - Multi Raid 2 - HD Version (Korea)": {
+	"Shin Sangoku Musou - Multi Raid 2 - HD Version (Japan, Korea)": {
 		"languages": ["Ja"],
 		"localName": "真・三國無双　ＭＵＬＴＩ　ＲＡＩＤ　２　ＨＤ　Ｖｅｒｓｉｏｎ"
 	},

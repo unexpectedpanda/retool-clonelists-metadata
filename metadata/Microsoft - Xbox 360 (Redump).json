@@ -809,6 +809,9 @@
 		"languages": [],
 		"localName": "魔球大聯盟"
 	},
+	"Bigs, The (USA)": {
+		"languages": []
+	},
 	"Binary Domain (Germany) (En,De)": {
 		"languages": ["De", "En"]
 	},
@@ -1183,7 +1186,7 @@
 		"languages": []
 	},
 	"Burnout Paradise (Asia)": {
-		"languages": [],
+		"languages": ["En"],
 		"localName": "橫衝直撞：狂飆樂園"
 	},
 	"Burnout Paradise (Europe)": {
@@ -1643,7 +1646,7 @@
 		"languages": []
 	},
 	"Chikyuu Boueigun 3 (Japan)": {
-		"languages": [],
+		"languages": ["Ja"],
 		"localName": "地球防衛軍３"
 	},
 	"Chikyuu Boueigun 4 (Japan)": {
@@ -2552,7 +2555,7 @@
 		"languages": [],
 		"localName": "Disney-Pixar Тачки 2"
 	},
-	"Disney-Pixar Cars 2 (USA)": {
+	"Disney-Pixar Cars 2 (USA, Europe)": {
 		"languages": []
 	},
 	"Disney-Pixar Cars 3 - Driven to Win (USA) (En,Fr,De,Es,It,Nl,Pt,Pl,Ru)": {
@@ -4034,7 +4037,7 @@
 	"First Templar, The (USA, Europe)": {
 		"languages": []
 	},
-	"Fist of the North Star - Ken's Rage (Europe)": {
+	"Fist of the North Star - Ken's Rage (USA, Europe)": {
 		"languages": []
 	},
 	"Fist of the North Star - Ken's Rage 2 (USA)": {
@@ -4081,8 +4084,8 @@
 		"languages": ["Cs", "De", "En", "Es", "Fr", "Hu", "It", "Ja", "Ko", "Pl", "Zh"],
 		"localName": "フォルツァ　モータースポーツ　２"
 	},
-	"Forza Motorsport 2 (USA) (Bonus Disc)": {
-		"languages": []
+	"Forza Motorsport 2 (USA) (En,Ja,Fr,De,Es,It,Zh,Ko) (Bonus Disc)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Ko", "Zh"]
 	},
 	"Forza Motorsport 2 (USA) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Cs,Hu)": {
 		"languages": ["Cs", "De", "En", "Es", "Fr", "Hu", "It", "Ja", "Ko", "Pl", "Zh"]
@@ -4113,11 +4116,11 @@
 	"Forza Motorsport 3 - Ultimate Collection (Europe) (En,Ja,Fr,De,Es,It,Zh,Ko,Ru) (Disc 2) (Content Install Disc)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Ko", "Ru", "Zh"]
 	},
-	"Forza Motorsport 3 - Ultimate Collection (USA) (Disc 1) (Play Disc)": {
-		"languages": []
+	"Forza Motorsport 3 - Ultimate Collection (USA) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru,Cs,Hu) (Disc 1) (Play Disc)": {
+		"languages": ["Cs", "De", "En", "Es", "Fr", "Hu", "It", "Ja", "Ko", "Pl", "Ru", "Zh"]
 	},
-	"Forza Motorsport 3 - Ultimate Collection (USA) (Disc 2) (Content Install Disc)": {
-		"languages": []
+	"Forza Motorsport 3 - Ultimate Collection (USA) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru,Cs,Hu) (Disc 2) (Content Install Disc)": {
+		"languages": ["Cs", "De", "En", "Es", "Fr", "Hu", "It", "Ja", "Ko", "Pl", "Ru", "Zh"]
 	},
 	"Forza Motorsport 4 (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru,Cs,Hu) (Disc 1) (Play Disc) (Rev 1)": {
 		"languages": ["Cs", "De", "En", "Es", "Fr", "Hu", "It", "Ja", "Ko", "Nl", "Pl", "Pt", "Ru", "Zh"]
@@ -4218,7 +4221,7 @@
 	"Game of Thrones (USA)": {
 		"languages": []
 	},
-	"Game of Thrones - A Telltale Games Series (USA)": {
+	"Game of Thrones - A Telltale Games Series (USA, Europe)": {
 		"languages": []
 	},
 	"Gears of War (Japan)": {
@@ -4684,11 +4687,11 @@
 	"Harry Potter and the Half-Blood Prince (Europe) (En,Fr,De,Es,It,Nl,Sv,Ru)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl", "Ru", "Sv"]
 	},
-	"Harry Potter and the Half-Blood Prince (USA) (En,Fr,Es)": {
+	"Harry Potter and the Half-Blood Prince (USA, Asia) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
 	},
-	"Harry Potter and the Order of the Phoenix (Europe)": {
-		"languages": []
+	"Harry Potter and the Order of the Phoenix (Europe) (En,Fr,De,Es,It,Nl)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
 	},
 	"Harry Potter and the Order of the Phoenix (USA)": {
 		"languages": ["En"]
@@ -4813,6 +4816,9 @@
 	"Hulk Hogan's Main Event (USA)": {
 		"languages": []
 	},
+	"Hunted - The Demon's Forge (Europe) (Fr,De,Es,It)": {
+		"languages": ["De", "Es", "Fr", "It"]
+	},
 	"Hunted - The Demon's Forge (Europe, Australia)": {
 		"languages": ["En"]
 	},
@@ -4905,7 +4911,7 @@
 	"Injustice - Gods Among Us (USA, Europe) (En,Fr,De,Es,It,Pt,Pl,Ru)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Pl", "Pt", "Ru"]
 	},
-	"Injustice - Gods Among Us - Ultimate Edition (Europe) (En,Fr,De,Es,It,Pt,Pl,Ru)": {
+	"Injustice - Gods Among Us - Ultimate Edition (USA, Europe) (En,Fr,De,Es,It,Pt,Pl,Ru)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Pl", "Pt", "Ru"]
 	},
 	"Instant Brain (Japan)": {
@@ -5097,6 +5103,9 @@
 	"Kane & Lynch - Dead Men (World) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
+	"Kane & Lynch 2 - Dog Days (Germany)": {
+		"languages": ["De"]
+	},
 	"Kane & Lynch 2 - Dog Days (USA, Europe) (En,Fr,Es,It)": {
 		"languages": ["En", "Es", "Fr", "It"]
 	},
@@ -5122,6 +5131,9 @@
 	"Ketsui - Kizuna Jigoku-tachi Extra (Japan)": {
 		"languages": ["Ja"],
 		"localName": "ケツイ　～絆地獄たち～　ＥＸＴＲＡ"
+	},
+	"Kick-Ass 2 (Europe)": {
+		"languages": []
 	},
 	"Killer Is Dead (Europe)": {
 		"languages": []
@@ -6408,6 +6420,9 @@
 	"NBA 2K12 (USA, Europe)": {
 		"languages": []
 	},
+	"NBA 2K12 - Game of the Year Edition (USA)": {
+		"languages": []
+	},
 	"NBA 2K13 (USA, Europe)": {
 		"languages": []
 	},
@@ -6851,6 +6866,9 @@
 	"Nickelodeon Dance (USA)": {
 		"languages": []
 	},
+	"Nickelodeon Dance 2 (Europe)": {
+		"languages": []
+	},
 	"Nickelodeon Nicktoons MLB (USA)": {
 		"languages": []
 	},
@@ -6918,7 +6936,7 @@
 		"languages": []
 	},
 	"Ninja Gaiden II (Japan)": {
-		"languages": []
+		"languages": ["Ja"]
 	},
 	"Ninja Gaiden II (World) (Beta) (2008-03-20)": {
 		"languages": ["En"]
@@ -7354,6 +7372,9 @@
 	"PES 2012 - Pro Evolution Soccer (Europe) (It,El)": {
 		"languages": ["El", "It"]
 	},
+	"PES 2012 - Pro Evolution Soccer (Germany)": {
+		"languages": ["De"]
+	},
 	"PES 2012 - Pro Evolution Soccer (USA)": {
 		"languages": []
 	},
@@ -7368,6 +7389,9 @@
 	},
 	"PES 2013 - Pro Evolution Soccer (Europe) (It,El)": {
 		"languages": ["El", "It"]
+	},
+	"PES 2013 - Pro Evolution Soccer (Germany)": {
+		"languages": ["De"]
 	},
 	"PES 2013 - Pro Evolution Soccer (USA)": {
 		"languages": []
@@ -7575,7 +7599,7 @@
 	"Power Rangers - Super Samurai (USA)": {
 		"languages": []
 	},
-	"PowerUp Heroes (USA)": {
+	"PowerUp Heroes (USA, Asia)": {
 		"languages": []
 	},
 	"Prey (USA, Europe) (En,Fr,De,Es,It)": {
@@ -7943,7 +7967,7 @@
 	},
 	"Rise of Nightmares (Europe, Asia)": {
 		"languages": [],
-		"localName": "라이즈 오브 나이트메어"
+		"localName": "ライズオブナイトメア"
 	},
 	"Rise of Nightmares (USA)": {
 		"languages": []
@@ -8028,11 +8052,13 @@
 	"Rock Revolution (USA)": {
 		"languages": []
 	},
-	"Rocksmith (Europe)": {
-		"languages": []
+	"Rocksmith (Japan, Europe)": {
+		"languages": [],
+		"localName": "ロックスミス"
 	},
-	"Rocksmith - All-New 2014 Edition (Europe)": {
-		"languages": []
+	"Rocksmith - All-New 2014 Edition (Japan, Europe)": {
+		"languages": [],
+		"localName": "ロックスミス２０１４"
 	},
 	"Rocksmith - All-New 2014 Edition (USA)": {
 		"languages": []
@@ -8241,7 +8267,7 @@
 	"Saw (USA)": {
 		"languages": []
 	},
-	"Saw II - Flesh & Blood (USA, Europe) (En,Fr,De,Es,It)": {
+	"Saw II - Flesh & Blood (World) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Scene It Box Office Smash! (Europe)": {
@@ -10493,10 +10519,10 @@
 	"Xbox 360 Experience Disc 2.4 (USA)": {
 		"languages": []
 	},
-	"Xbox 360 HD DVD Player Installation Disc (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko)": {
+	"Xbox 360 HD DVD Player Installation Disc (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko) (Rev 1)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Ko", "Pt", "Zh"]
 	},
-	"Xbox 360 HD DVD Player Installation Disc (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko) (Rev 1)": {
+	"Xbox 360 HD DVD Player Installation Disc (USA, Japan) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Ko", "Pt", "Zh"]
 	},
 	"Xbox 360 Hard Disk Data Tensou-you Disc (Japan)": {
