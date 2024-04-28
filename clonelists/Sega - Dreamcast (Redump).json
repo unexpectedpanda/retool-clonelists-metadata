@@ -8,7 +8,6 @@
 	"mias": [
 		"Chicken Run (Japan) (Beta) (2000-08-01)",
 		"Dream Preview Vol. 1 (Japan)",
-		"SGGG - Segagaga (Japan) (Rev A)"
 	],
 
 	"variants": [
@@ -17,6 +16,15 @@
 			"titles": [
 				{"searchTerm": "90 Minutes - Sega Championship Football"},
 				{"searchTerm": "J.League Spectacle Soccer"}
+			]
+		},
+		{
+			"group": "Aero Dancing i",
+			"titles": [
+				{"searchTerm": "Aero Dancing i"}
+			],
+			"supersets": [
+				{"searchTerm": "Aero Dancing i - Jikai-saku made Matemasen"}
 			]
 		},
 		{
@@ -790,6 +798,13 @@
 			],
 			"supersets": [
 				{"searchTerm": "Super Runabout - San Francisco Edition"}
+			]
+		},
+		{
+			"group": "Surf Rocket Racers",
+			"titles": [
+				{"searchTerm": "Surf Rocket Racers"},
+				{"searchTerm": "Power Jet Racing 2001"}
 			]
 		},
 		{
