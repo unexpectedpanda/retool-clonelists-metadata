@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Nintendo - Nintendo DS (No-Intro)",
-		"lastUpdated": "09 March 2024",
+		"lastUpdated": "02 July 2024",
 		"minimumVersion": "2.02"
 	},
 
@@ -26,6 +26,14 @@
 			"titles": [
 				{"searchTerm": "100 All-Time Favorites"},
 				{"searchTerm": "Master All Classics"}
+			]
+		},
+		{
+			"group": "100 Classic Books",
+			"titles": [
+				{"searchTerm": "100 Classic Book Collection"},
+				{"searchTerm": "100 Classic Books"},
+				{"searchTerm": "100 Livres Classiques"}
 			]
 		},
 		{
