@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Nintendo - Nintendo 3DS (Digital) (No-Intro)",
-		"lastUpdated": "14 January 2023",
+		"lastUpdated": "24 August 2024",
 		"minimumVersion": "2.00"
 	},
 
@@ -21,10 +21,29 @@
 			]
 		},
 		{
-			"group": "3D Fantasy Zone - Opa-Opa Bros.",
+			"group": "3D Machine, The",
+			"categories": ["Video"],
 			"titles": [
-				{"searchTerm": "3D Fantasy Zone"},
-				{"searchTerm": "3D Fantasy Zone - Opa-Opa Bros."}
+				{"searchTerm": "3D Machine, The"},
+				{"searchTerm": "3D Machine Series, The - Episode 1", "priority": 2},
+				{"searchTerm": "3D Machine Series, The - Episode 2", "priority": 2},
+				{"searchTerm": "3D Machine Series, The - Episode 3", "priority": 2},
+				{"searchTerm": "3D Machine Series, The - Episode 4", "priority": 2},
+				{"searchTerm": "3D Machine Series, The - Episode 5", "priority": 2}
+			]
+		},
+		{
+			"group": "3D Short Movie",
+			"categories": ["Video"],
+			"titles": [
+				{"searchTerm": "3D Short Movie"}
+			]
+		},
+		{
+			"group": "3D Short Movie 2",
+			"categories": ["Video"],
+			"titles": [
+				{"searchTerm": "3D Short Movie 2"}
 			]
 		},
 		{
@@ -35,6 +54,86 @@
 			]
 		},
 		{
+			"group": "3D Super Hang-On",
+			"titles": [
+				{"searchTerm": "3D Super Hang-On"},
+				{"searchTerm": "3D Super Hang On"}
+			]
+		},
+		{
+			"group": "3D Visual Experience",
+			"categories": ["Video"],
+			"titles": [
+				{"searchTerm": "3D Visual Experience"}
+			]
+		},
+		{
+			"group": "4 Elements",
+			"titles": [
+				{"searchTerm": "4 Elements"},
+				{"searchTerm": "4 Elements (CTR-P-AELE)"}
+			]
+		},
+		{
+			"group": "80's Overdrive",
+			"titles": [
+				{
+					"searchTerm": "80's Overdrive",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["World"]},
+							"results": {"categories": ["Demos"]}
+						}
+					]
+				}
+			]
+		},
+		{
+			"group": "A-Train 3D - City Simulator",
+			"titles": [
+				{
+					"searchTerm": "A-Train 3D",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["World"]},
+							"results": {"categories": ["Demos"]}
+						}
+					]
+				},
+				{
+					"searchTerm": "A-Train 3D Neo",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["World"]},
+							"results": {"categories": ["Demos"]}
+						}
+					]
+				}
+			]
+		},
+		{
+			"group": "Ace Combat - Assault Horizon Legacy+",
+			"titles": [
+				{"searchTerm": "Ace Combat - Assault Horizon Legacy+"},
+				{"searchTerm": "Ace Combat Assault Horizon Legacy +"},
+				{"searchTerm": "Ace Combat 3D - Cross Rumble+"}
+			]
+		},
+		{
+			"group": "Adventure Time - Hey Ice King Why'd You Steal Our Garbage!!",
+			"titles": [
+				{
+					"searchTerm": "Adventure Time",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["World"]},
+							"results": {"categories": ["Demos"]}
+						}
+					]
+				}
+			]
+		},
+		{
 			"group": "AeternoBlade",
 			"titles": [
 				{"searchTerm": "AeternoBlade"},
@@ -42,10 +141,64 @@
 			]
 		},
 		{
+			"group": "AeternoBlade (DLC)",
+			"titles": [
+				{"searchTerm": "AeternoBlade (DLC)"},
+				{"searchTerm": "Aeternoblade Addon (DLC)"},
+				{"searchTerm": "Time Avenger (DLC)"}
+			]
+		},
+		{
+			"group": "Amiibo (New 3DS)",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Amiibo (New 3DS)"}
+			]
+		},
+		{
+			"group": "Animal Crossing - New Leaf",
+			"titles": [
+				{"searchTerm": "Animal Crossing - New Leaf"}
+			],
+			"supersets": [
+				{"searchTerm": "Animal Crossing - New Leaf - Welcome Amiibo"}
+			]
+		},
+		{
+			"group": "Animal Crossing - New Leaf (Update)",
+			"titles": [
+				{"searchTerm": "Animal Crossing - New Leaf (Update)"}
+			],
+			"supersets": [
+				{"searchTerm": "Animal Crossing - New Leaf - Welcome Amiibo (Update)"}
+			]
+		},
+		{
+			"group": "Animal Crossing - New Leaf (Demo)",
+			"categories": ["Demos"],
+			"titles": [
+				{"searchTerm": "Animal Crossing Preview"}
+			]
+		},
+		{
+			"group": "Animal Crossing - New Leaf (Trailer)",
+			"categories": ["Video"],
+			"titles": [
+				{"searchTerm": "Animal Crossing (E3 Video)"}
+			]
+		},
+		{
+			"group": "Anime Workshop",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Anime Workshop"}
+			]
+		},		
+		{
 			"group": "Attack of the Friday Monsters! A Tokyo Tale",
 			"titles": [
 				{"searchTerm": "Attack of the Friday Monsters! A Tokyo Tale"},
-				{"searchTerm": "Guild02 - Kaijuu ga Deru Kinyoubi"}
+				{"searchTerm": "Kaijuu ga Deru Kinyoubi"}
 			]
 		},
 		{
@@ -63,6 +216,62 @@
 			]
 		},
 		{
+			"group": "Azure Striker Gunvolt the Anime",
+			"categories": ["Video"],
+			"titles": [
+				{"searchTerm": "Azure Striker Gunvolt the Anime"}
+			]
+		},
+		{
+			"group": "Barbie and Her Sisters - Puppy Rescue",
+			"titles": [
+				{"searchTerm": "Barbie and Her Sisters - Puppy Rescue"},
+				{"searchTerm": "Barbie & Her Sisters - Puppy Rescue"}
+			]
+		},
+		{
+			"group": "Beet Party, The - Episode 1 - Beet Poets",
+			"categories": ["Video"],
+			"titles": [
+				{"searchTerm": "Beet Party, The - Episode 1 - Beet Poets"}
+			]
+		},
+		{
+			"group": "Beet Party, The - Episode 2 - Beet Scratch",
+			"categories": ["Video"],
+			"titles": [
+				{"searchTerm": "Beet Party, The - Episode 2 - Beet Scratch"}
+			]
+		},
+		{
+			"group": "Beet Party, The - Episode 3 - Jurassic Fridge",
+			"categories": ["Video"],
+			"titles": [
+				{"searchTerm": "Beet Party, The - Episode 3 - Jurassic Fridge"}
+			]
+		},
+		{
+			"group": "Beet Party, The - Episode 4 - UnderWaterMelon",
+			"categories": ["Video"],
+			"titles": [
+				{"searchTerm": "Beet Party, The - Episode 4 - UnderWaterMelon"}
+			]
+		},
+		{
+			"group": "Beet Party, The - Episode 5 - Unidentified Flying Waffle",
+			"categories": ["Video"],
+			"titles": [
+				{"searchTerm": "Beet Party, The - Episode 5 - Unidentified Flying Waffle"}
+			]
+		},
+		{
+			"group": "Beet Party, The - Episode 6 - Call Me Aneek Neek",
+			"categories": ["Video"],
+			"titles": [
+				{"searchTerm": "Beet Party, The - Episode 6 - Call Me Aneek Neek"}
+			]
+		},
+		{
 			"group": "Bike Rider DX",
 			"titles": [
 				{"searchTerm": "Bike Rider DX"},
@@ -70,17 +279,149 @@
 			]
 		},
 		{
-			"group": "BOXBOY!",
+			"group": "Block-A-Pix Color",
 			"titles": [
-				{"searchTerm": "BOXBOY!"},
-				{"searchTerm": "Hako Boy!"}
+				{"searchTerm": "Block-A-Pix Color"},
+				{"searchTerm": "Block-A-Pix Colour"}
 			]
 		},
 		{
-			"group": "Chibi-Robo! Photo Finder",
+			"group": "Boxboy!",
+			"titles": [
+				{
+					"searchTerm": "Boxboy!",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["World"]},
+							"results": {"categories": ["Demos"]}
+						}
+					]
+				}
+			]
+		},
+		{
+			"group": "Brain Age - Concentration Training",
+			"titles": [
+				{
+					"searchTerm": "Brain Age - Concentration Training",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["World"]},
+							"results": {"categories": ["Demos"]}
+						}
+					]
+				}
+			]
+		},
+		{
+			"group": "Bravely Second - End Layer",
+			"titles": [
+				{"searchTerm": "Bravely Second - End Layer"},
+				{"searchTerm": "Bravely Second"}
+			]
+		},
+		{
+			"group": "Breakout Defense",
+			"titles": [
+				{"searchTerm": "Breakout Defense"},
+				{"searchTerm": "Breakout Defense (LBRP)"}
+			],
+			"supersets": [
+				{"searchTerm": "Breakout Defense (New 3DS)"},
+				{"searchTerm": "Breakout Defense (CBBP) (New 3DS)"}
+			]
+		},
+		{
+			"group": "Breakout Defense 2",
+			"titles": [
+				{"searchTerm": "Breakout Defense 2"}
+			],
+			"supersets": [
+				{"searchTerm": "Breakout Defense 2 (New 3DS)"}
+			]
+		},
+		{
+			"group": "Breakthru Films - Fat Hamster",
+			"categories": ["Video"],
+			"titles": [
+				{"searchTerm": "Breakthru Films - Fat Hamster"}
+			]
+		},
+		{
+			"group": "Breakthru Films - Little Postman",
+			"categories": ["Video"],
+			"titles": [
+				{"searchTerm": "Breakthru Films - Little Postman"}
+			]
+		},
+		{
+			"group": "Breakthru Films - Magical Dance",
+			"categories": ["Video"],
+			"titles": [
+				{"searchTerm": "Breakthru Films - Magical Dance"}
+			]
+		},
+		{
+			"group": "Breakthru Films - Papa's Boy",
+			"categories": ["Video"],
+			"titles": [
+				{"searchTerm": "Breakthru Films - Papa's Boy"}
+			]
+		},
+		{
+			"group": "Breakthru Films - Scarecrow",
+			"categories": ["Video"],
+			"titles": [
+				{"searchTerm": "Breakthru Films - Scarecrow"}
+			]
+		},
+		{
+			"group": "Breakthru Films - Spirits of the Piano",
+			"categories": ["Video"],
+			"titles": [
+				{"searchTerm": "Breakthru Films - Spirits of the Piano"}
+			]
+		},
+		{
+			"group": "Breakthru Films - Transformation",
+			"categories": ["Video"],
+			"titles": [
+				{"searchTerm": "Breakthru Films - Transformation"}
+			]
+		},
+		{
+			"group": "Chevrolet Camaro - Wild Ride 3D",
+			"titles": [
+				{"searchTerm": "Chevrolet Camaro - Wild Ride 3D"},
+				{"searchTerm": "Race to the Line"}
+			]
+		},
+		{
+			"group": "Chibi-Robo! - Photo Finder",
 			"titles": [
 				{"searchTerm": "Chibi-Robo! Let's Go, Photo!"},
-				{"searchTerm": "Chibi-Robo! Photo Finder"}
+				{"searchTerm": "Chibi-Robo! - Photo Finder"}
+			]
+		},
+		{
+			"group": "Comic Workshop",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Comic Workshop"}		
+			]
+		},
+		{
+			"group": "Comic Workshop 2",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Comic Workshop 2"}		
+			]
+		},
+		{
+			"group": "Comic Workshop 2 (Update)",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Comic Workshop 2 (Update)"}		
 			]
 		},
 		{
@@ -92,10 +433,119 @@
 			]
 		},
 		{
-			"group": "Dillon's Rolling Western",
+			"group": "Ctr-N-Kxta",
+			"categories": ["Applications"],
 			"titles": [
-				{"searchTerm": "Dillon's Rolling Western"},
-				{"searchTerm": "Rolling Western, The"}
+				{"searchTerm": "Ctr-N-Kxta"}
+			]
+		},
+		{
+			"group": "Ctr-U-Kxta (Update)",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Ctr-U-Kxta (Update)"}
+			]
+		},
+		{
+			"group": "Ctr-N-Naga",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Ctr-N-Naga"}
+			]
+		},
+		{
+			"group": "Dasshutsu Adventure - Kamikudashi no Uranai Ban",
+			"titles": [
+				{
+					"searchTerm": "Dasshutsu Adventure - Kamikudashi no Uranai Ban",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["World"]},
+							"results": {"categories": ["Demos"]}
+						}
+					]
+				}
+			]
+		},
+		{
+			"group": "Dasshutsu Game, The - Kiken na 5-tsu no Misshitsu",
+			"titles": [
+				{
+					"searchTerm": "Dasshutsu Game, The - Kiken na 5-tsu no Misshitsu",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["World"]},
+							"results": {"categories": ["Demos"]}
+						}
+					]
+				}
+			]
+		},
+		{
+			"group": "Dasshutsu Game, The - Uragiri no Misshitsu",
+			"titles": [
+				{
+					"searchTerm": "Dasshutsu Game, The - Uragiri no Misshitsu",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["World"]},
+							"results": {"categories": ["Demos"]}
+						}
+					]
+				}
+			]
+		},
+		{
+			"group": "Denpa Men, The - They Came by Wave",
+			"titles": [
+				{"searchTerm": "Denpa Men, The - They Came by Wave"},
+				{"searchTerm": "Denpa Ningen no RPG"},
+				{
+					"searchTerm": "Denpa Ningen RPG",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["World"]},
+							"results": {"categories": ["Demos"]}
+						}
+					]
+				}
+			]
+		},
+		{
+			"group": "Denpa Men 2, The - Beyond the Waves",
+			"titles": [
+				{"searchTerm": "Denpa Men 2, The - Beyond the Waves"},
+				{
+					"searchTerm": "Denpa Ningen RPG 2",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["World"]},
+							"results": {"categories": ["Demos"]}
+						}
+					]
+				}
+			]
+		},
+		{
+			"group": "Denpa Men 3, The - The Rise of Digitoll",
+			"titles": [
+				{"searchTerm": "Denpa Men 3, The - The Rise of Digitoll"},
+				{
+					"searchTerm": "Denpa Ningen RPG 3",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["World"]},
+							"results": {"categories": ["Demos"]}
+						}
+					]
+				}
+			]
+		},
+		{
+			"group": "Dillon's Rolling Western (Demo)",
+			"categories": ["Demos"],
+			"titles": [
+				{"searchTerm": "Dillon's Rolling Western Preview"}
 			]
 		},
 		{
@@ -106,10 +556,131 @@
 			]
 		},
 		{
-			"group": "F-Zero - Maximum Velocity",
+			"group": "Disney 2-Pack - Frozen - Olaf's Quest + Big Hero 6 - Battle in the Bay",
 			"titles": [
-				{"searchTerm": "F-Zero - Maximum Velocity"},
-				{"searchTerm": "F-Zero for Game Boy Advance"}
+				{"searchTerm": "Disney 2-Pack - Frozen - Olaf's Quest + Big Hero 6 - Battle in the Bay"},
+				{"searchTerm": "Disney 2-Pack"}
+			]
+		},
+		{
+			"group": "Disney Art Academy",
+			"categories": ["Educational"],
+			"titles": [
+				{"searchTerm": "Disney Art Academy"}		
+			]
+		},
+		{
+			"group": "Disney Epic Mickey - Power of Illusion",
+			"titles": [
+				{
+					"searchTerm": "Disney Epic Mickey - Power of Illusion",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["World"]},
+							"results": {"categories": ["Demos"]}
+						}
+					]
+				}
+			]
+		},
+		{
+			"group": "Dolly Kanon",
+			"titles": [
+				{
+					"searchTerm": "Dolly Kanon",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["World"]},
+							"results": {"categories": ["Demos"]}
+						}
+					]
+				}
+			]
+		},
+		{
+			"group": "Donkey Kong Country Returns 3D (Trailer)",
+			"categories": ["Video"],
+			"titles": [
+				{"searchTerm": "Donkey Kong Country Returns 3D (Nintendo Direct 2013-02-14)"}
+			]
+		},
+		{
+			"group": "Double Breakout",
+			"titles": [
+				{"searchTerm": "Double Breakout"},
+				{"searchTerm": "Double Breakout (BRFP)"}
+			],
+			"supersets": [
+				{"searchTerm": "Double Breakout (New 3DS)"},
+				{"searchTerm": "Double Breakout (CBDP) (New 3DS)"}
+			]
+		},
+		{
+			"group": "Dragon Ball Fusions (Update)",
+			"titles": [
+				{"searchTerm": "Dragon Ball Fusions (Update)"},
+				{"searchTerm": "Dragon Ball Fusions + Online Multiplayer (Update)"}
+			]
+		},
+		{
+			"group": "Dragon Ball Z - Extreme Butoden (Demo)",
+			"categories": ["Demos"],
+			"titles": [
+				{"searchTerm": "Dragon Ball Z - Extreme Butoden (Preview Version)"}
+			]
+		},
+		{
+			"group": "Dragon Ball Z - Super Butoden 2",
+			"titles": [
+				{"searchTerm": "DBZ - Super Butoden 2"},
+				{"searchTerm": "Dragon Ball Z - Super Butoden 2"},
+				{"searchTerm": "Dragon Ball Z - Super Butoden 2 (KDLY)"}
+			]
+		},
+		{
+			"group": "Drawing Workshop Plus",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Drawing Workshop Plus"}		
+			]
+		},
+		{
+			"group": "Edge",
+			"titles": [
+				{
+					"searchTerm": "Edge",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["World"]},
+							"results": {"categories": ["Demos"]}
+						}
+					]
+				}
+			]
+		},
+		{
+			"group": "Fairune",
+			"titles": [
+				{
+					"searchTerm": "Fairune",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["World"]},
+							"results": {"categories": ["Demos"]}
+						}
+					]
+				}
+			]
+		},
+		{
+			"group": "Fire Emblem Fates",
+			"titles": [
+				{"searchTerm": "Fire Emblem Fates - Birthright"},
+				{"searchTerm": "Fire Emblem Fates - Conquest"}
+			],
+			"supersets": [
+				{"searchTerm": "Fire Emblem Fates"},
+				{"searchTerm": "Fire Emblem If"}
 			]
 		},
 		{
@@ -120,7 +691,22 @@
 			]
 		},
 		{
+			"group": "Fire Emblem Warriors (Update)",
+			"titles": [
+				{"searchTerm": "Fire Emblem Warriors (Update)"},
+				{"searchTerm": "Fire Emblem Warriors (New 3DS) (Update)"}
+			]
+		},
+		{
+			"group": "Fire Emblem Warriors (DLC)",
+			"titles": [
+				{"searchTerm": "Fire Emblem Warriors (DLC)"},
+				{"searchTerm": "Fire Emblem Warriors (New 3DS) (DLC)"}
+			]
+		},
+		{
 			"group": "Flipnote Studio 3D",
+			"categories": ["Applications"],
 			"titles": [
 				{"searchTerm": "Flipnote Studio 3D"},
 				{"searchTerm": "Ugoku Memo Chou 3D"}
@@ -134,10 +720,194 @@
 			]
 		},
 		{
+			"group": "Freakyforms - Your Creations, Alive!",
+			"titles": [
+				{"searchTerm": "Freakyforms - Your Creations, Alive!"}
+			],
+			"supersets": [
+				{"searchTerm": "Freakyforms Deluxe - Your Creations Alive!"},
+				{"searchTerm": "Freakyforms Deluxe - Your Creations, Alive!"}
+			]
+		},
+		{
+			"group": "Frontier Days - Founding Pioneers",
+			"titles": [
+				{"searchTerm": "Frontier Days - Founding Pioneers"},
+				{
+					"searchTerm": "Daikaitaku Jidai - Machi o Tsukurou",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["World"]},
+							"results": {"categories": ["Demos"]}
+						}
+					]
+				}
+			]
+		},
+		{
+			"group": "Gaist Crusher",
+			"titles": [
+				{
+					"searchTerm": "Gaist Crusher",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["World"]},
+							"results": {"categories": ["Demos"]}
+						}
+					]
+				}
+			]
+		},
+		{
+			"group": "Gaist Crusher God",
+			"titles": [
+				{
+					"searchTerm": "Gaist Crusher God",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["World"]},
+							"results": {"categories": ["Demos"]}
+						}
+					]
+				}
+			]
+		},
+		{
+			"group": "Gardening Mama 2 - Forest Friends",
+			"titles": [
+				{"searchTerm": "Gardening Mama - Forest Friends"},
+				{"searchTerm": "Gardening Mama - Mama to Mori no Nakama-tachi"},
+				{"searchTerm": "Gardening Mama - Mama and Friends in the Forest"},
+				{
+					"searchTerm": "Gardening Mama 2 - Forest Friends",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["World"]},
+							"results": {"categories": ["Demos"]}
+						}
+					]
+				}
+			]
+		},
+		{
+			"group": "Geronimo Stilton Vol. 1",
+			"categories": ["Video"],
+			"titles": [
+				{"searchTerm": "Geronimo Stilton Vol. 1"}
+			]
+		},
+		{
+			"group": "Geronimo Stilton Vol. 2",
+			"categories": ["Video"],
+			"titles": [
+				{"searchTerm": "Geronimo Stilton Vol. 2"}
+			]
+		},
+		{
+			"group": "Geronimo Stilton Vol. 3",
+			"categories": ["Video"],
+			"titles": [
+				{"searchTerm": "Geronimo Stilton Vol. 3"}
+			]
+		},
+		{
+			"group": "Geronimo Stilton Vol. 4",
+			"categories": ["Video"],
+			"titles": [
+				{"searchTerm": "Geronimo Stilton Vol. 4"}
+			]
+		},
+		{
+			"group": "Geronimo Stilton Vol. 5",
+			"categories": ["Video"],
+			"titles": [
+				{"searchTerm": "Geronimo Stilton Vol. 5"}
+			]
+		},
+		{
+			"group": "Greco kara no Chousenjou! Kanji no Yakata to Obake-tachi - Shou-2",
+			"titles": [
+				{
+					"searchTerm": "Greco kara no Chousenjou! Kanji no Yakata to Obake-tachi - Shou-2",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["World"]},
+							"results": {"categories": ["Demos"]}
+						}
+					]
+				}
+			]
+		},
+		{
+			"group": "Greco kara no Chousenjou! Kanji no Yakata to Obake-tachi - Shou-3",
+			"titles": [
+				{
+					"searchTerm": "Greco kara no Chousenjou! Kanji no Yakata to Obake-tachi - Shou-3",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["World"]},
+							"results": {"categories": ["Demos"]}
+						}
+					]
+				}
+			]
+		},
+		{
+			"group": "Greco kara no Chousenjou! Kanji no Yakata to Obake-tachi - Shou-4",
+			"titles": [
+				{
+					"searchTerm": "Greco kara no Chousenjou! Kanji no Yakata to Obake-tachi - Shou-4",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["World"]},
+							"results": {"categories": ["Demos"]}
+						}
+					]
+				}
+			]
+		},
+		{
+			"group": "Greco kara no Chousenjou! Kanji no Yakata to Obake-tachi - Shou-5",
+			"titles": [
+				{
+					"searchTerm": "Greco kara no Chousenjou! Kanji no Yakata to Obake-tachi - Shou-5",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["World"]},
+							"results": {"categories": ["Demos"]}
+						}
+					]
+				}
+			]
+		},
+		{
+			"group": "Greco kara no Chousenjou! Kanji no Yakata to Obake-tachi - Shou-6",
+			"titles": [
+				{
+					"searchTerm": "Greco kara no Chousenjou! Kanji no Yakata to Obake-tachi - Shou-6",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["World"]},
+							"results": {"categories": ["Demos"]}
+						}
+					]
+				}
+			]
+		},
+		{
 			"group": "Gunman Clive",
 			"titles": [
 				{"searchTerm": "Gunman Clive"},
-				{"searchTerm": "Gumman Story"}
+				{"searchTerm": "Gumman Story"},
+				{
+					"searchTerm": "Gunman Story",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["World"]},
+							"results": {"categories": ["Demos"]}
+						}
+					]
+				}
 			]
 		},
 		{
@@ -148,6 +918,85 @@
 			]
 		},
 		{
+			"group": "Harold's Walk",
+			"titles": [
+				{"searchTerm": "Harold's Walk"}
+			],
+			"supersets": [
+				{"searchTerm": "Harold's Walk (New 3DS)"}
+			]
+		},
+		{
+			"group": "Harvest Moon 3D - A New Beginning",
+			"titles": [
+				{"searchTerm": "Harvest Moon 3D - A New Beginning"},
+				{"searchTerm": "Harvest Moon - A New Beginning"}
+			]
+		},
+		{
+			"group": "Harvest Moon 3D - The Tale of Two Towns",
+			"titles": [
+				{"searchTerm": "Harvest Moon 3D - The Tale of Two Towns"},
+				{"searchTerm": "Harvest Moon - The Tale of Two Towns"}
+			]
+		},
+		{
+			"group": "Hatsune Miku Project Mirai DX",
+			"titles": [
+				{"searchTerm": "Hatsune Miku Project Mirai DX"},
+				{"searchTerm": "Hatsune Miku Project Mirai 2"}
+			]
+		},
+		{
+			"group": "Hello Kitty's Magic Apron",
+			"titles": [
+				{"searchTerm": "Hello Kitty's Magic Apron"},
+				{"searchTerm": "Hello Kitty and the Apron of Magic - Rhythm Cooking"}
+			]
+		},
+		{
+			"group": "Hometown Story",
+			"titles": [
+				{
+					"searchTerm": "Hometown Story",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["World"]},
+							"results": {"categories": ["Demos"]}
+						}
+					]
+				}
+			]
+		},
+		{
+			"group": "Hulu Plus",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Hulu Plus"}		
+			]
+		},
+		{
+			"group": "Ice Station Z",
+			"titles": [
+				{
+					"searchTerm": "Ice Station Z",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["World"]},
+							"results": {"categories": ["Demos"]}
+						}
+					]
+				}
+			]
+		},
+		{
+			"group": "Imagine - Fashion Life (DLC)",
+			"titles": [
+				{"searchTerm": "Imagine - Fashion Life (DLC)"},
+				{"searchTerm": "Imagine - Fashion World 3D (DLC)"}
+			]
+		},
+		{
 			"group": "Iron Combat - War in the Air",
 			"titles": [
 				{"searchTerm": "Iron Combat - War in the Air"},
@@ -155,10 +1004,87 @@
 			]
 		},
 		{
+			"group": "Inazuma Eleven 3 - Bomb Blast",
+			"titles": [
+				{"searchTerm": "Inazuma Eleven 3 - Bomb Blast (AXBP)"},
+				{"searchTerm": "Inazuma Eleven 3 - Bomb Blast (AXBZ)"}
+			]
+		},
+		{
+			"group": "Inazuma Eleven 3 - Lightning Bolt",
+			"titles": [
+				{"searchTerm": "Inazuma Eleven 3 - Lightning Bolt (AXSP)"},
+				{"searchTerm": "Inazuma Eleven 3 - Lightning Bolt (AXSZ)"}
+			]
+		},
+		{
+			"group": "Inazuma Eleven 3 - Team Ogre Attacks!",
+			"titles": [
+				{"searchTerm": "Inazuma Eleven 3 - Team Ogre Attacks! (AXGP)"},
+				{"searchTerm": "Inazuma Eleven 3 - Team Ogre Attacks! (AXGZ)"}
+			]
+		},
+		{
+			"group": "Inazuma Eleven the Movie",
+			"categories": ["Video"],
+			"titles": [
+				{"searchTerm": "Inazuma Eleven the Movie"}
+			]
+		},
+		{
+			"group": "Incredible Barbazan, The - Episode 1 - The Cabinet of Fear",
+			"categories": ["Video"],
+			"titles": [
+				{"searchTerm": "Incredible Barbazan, The - Episode 1 - The Cabinet of Fear"}
+			]
+		},
+		{
+			"group": "Incredible Barbazan, The - Episode 2 - The Fire Juggler",
+			"categories": ["Video"],
+			"titles": [
+				{"searchTerm": "Incredible Barbazan, The - Episode 2 - The Fire Juggler"}
+			]
+		},
+		{
+			"group": "Incredible Barbazan, The - Episode 3 - The Human Cannonball 2",
+			"categories": ["Video"],
+			"titles": [
+				{"searchTerm": "Incredible Barbazan, The - Episode 3 - The Human Cannonball 2"}
+			]
+		},
+		{
+			"group": "Incredible Barbazan, The - Episode 4 - The Knife Thrower",
+			"categories": ["Video"],
+			"titles": [
+				{"searchTerm": "Incredible Barbazan, The - Episode 4 - The Knife Thrower"}
+			]
+		},
+		{
+			"group": "Incredible Barbazan, The - Episode 5 - Raging Bull",
+			"categories": ["Video"],
+			"titles": [
+				{"searchTerm": "Incredible Barbazan, The - Episode 5 - Raging Bull"}
+			]
+		},
+		{
+			"group": "Incredible Barbazan, The - Episode 6 - Up Your Sleeve",
+			"categories": ["Video"],
+			"titles": [
+				{"searchTerm": "Incredible Barbazan, The - Episode 6 - Up Your Sleeve"}
+			]
+		},
+		{
 			"group": "Japanese Rail Sim 3D - Journey in Suburbs #1",
 			"titles": [
 				{"searchTerm": "Japanese Rail Sim 3D - Journey in Suburbs #1"},
-				{"searchTerm": "Tetsudou Nippon! Rosen Tabi - Nagaragawa Tetsudou Hen"}
+				{"searchTerm": "Tetsudou Nippon! Rosen Tabi - Nagaragawa Tetsudou-hen"}
+			]
+		},
+		{
+			"group": "Jewel Quest 4 - Heritage",
+			"titles": [
+				{"searchTerm": "Jewel Quest 4 - Heritage"},
+				{"searchTerm": "Jewel Quest IV - Heritage"}
 			]
 		},
 		{
@@ -166,6 +1092,20 @@
 			"titles": [
 				{"searchTerm": "Gekidou! Arbeiter Koji"},
 				{"searchTerm": "Johnny's Payday Panic"}
+			]
+		},
+		{
+			"group": "Kawaii Pet To Kurasou! Wan Nyan & Mini Mini Animal",
+			"titles": [
+				{
+					"searchTerm": "Kawaii Pet To Kurasou! Wan Nyan & Mini Mini Animal",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["World"]},
+							"results": {"categories": ["Demos"]}
+						}
+					]
+				}
 			]
 		},
 		{
@@ -183,6 +1123,41 @@
 			]
 		},
 		{
+			"group": "Kid Icarus - Uprising (Demo)",
+			"categories": ["Demos"],
+			"titles": [
+				{"searchTerm": "Kid Icarus - Uprising Preview"}
+			]
+		},
+		{
+			"group": "Kid Icarus - Uprising (Trailer)",
+			"categories": ["Video"],
+			"titles": [
+				{"searchTerm": "Kid Icarus - Uprising (E3 Video)"}
+			]
+		},
+		{
+			"group": "Kid Icarus 3D Anime - Medusa's Revenge",
+			"categories": ["Video"],
+			"titles": [
+				{"searchTerm": "Kid Icarus 3D Anime - Medusa's Revenge"}
+			]
+		},
+		{
+			"group": "Kid Icarus 3D Anime - Palutena's Revolting Dinner",
+			"categories": ["Video"],
+			"titles": [
+				{"searchTerm": "Kid Icarus 3D Anime - Palutena's Revolting Dinner"}
+			]
+		},
+		{
+			"group": "Kid Icarus 3D Anime - Thanatos Rising",
+			"categories": ["Video"],
+			"titles": [
+				{"searchTerm": "Kid Icarus 3D Anime - Thanatos Rising"}
+			]
+		},
+		{
 			"group": "Kirby & The Amazing Mirror",
 			"titles": [
 				{"searchTerm": "Hoshi no Kirby - Kagami no Daimeikyuu"},
@@ -190,10 +1165,66 @@
 			]
 		},
 		{
-			"group": "Legend of Dark Witch, The",
+			"group": "Kirby - Right Back At Ya!",
+			"categories": ["Video"],
 			"titles": [
-				{"searchTerm": "Legend of Dark Witch, The"},
-				{"searchTerm": "Legend of Dark Witch, The - Chronicle 2D ACT"}
+				{"searchTerm": "Kirby - Right Back At Ya!"}
+			]
+		},
+		{
+			"group": "Kirby Battle Royale! (Update)",
+			"titles": [
+				{"searchTerm": "Kirby Battle Royale! (Update)"},
+				{"searchTerm": "Kirby Battle Royale (Update)"}
+			]
+		},
+		{
+			"group": "Korokesu",
+			"titles": [
+				{
+					"searchTerm": "Korokesu",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["World"]},
+							"results": {"categories": ["Demos"]}
+						}
+					]
+				}
+			]
+		},
+		{
+			"group": "Layton's Mystery Journey - Katrielle and the Millionaires' Conspiracy (Update)",
+			"titles": [
+				{"searchTerm": "Layton's Mystery Journey - Katrielle and the Millionaires' Conspiracy (Update)"},
+				{"searchTerm": "Layton's Mystery Journey (Update)"}
+			]
+		},
+		{
+			"group": "Legend of Zelda, The - Ballad of the Goddess",
+			"categories": ["Video"],
+			"titles": [
+				{"searchTerm": "Legend of Zelda, The - Ballad of the Goddess"}
+			]
+		},
+		{
+			"group": "Legend of Zelda, The - Great Fairy's Fountain Theme",
+			"categories": ["Multimedia"],
+			"titles": [
+				{"searchTerm": "Legend of Zelda, The - Great Fairy's Fountain Theme"}
+			]
+		},
+		{
+			"group": "Legend of Zelda, The - Main Theme Medley",
+			"categories": ["Multimedia"],
+			"titles": [
+				{"searchTerm": "Legend of Zelda, The - Main Theme Medley"}
+			]
+		},
+		{
+			"group": "Legend of Zelda, The - Ocarina of Time 3D (Trailer)",
+			"categories": ["Video"],
+			"titles": [
+				{"searchTerm": "Legend of Zelda, The - Ocarina of Time 3D (E3 Video)"}
 			]
 		},
 		{
@@ -204,10 +1235,105 @@
 			]
 		},
 		{
+			"group": "Legend of Zelda, The - Tri Force Heroes",
+			"titles": [
+				{"searchTerm": "Legend of Zelda, The - Tri Force Heroes"},
+				{"searchTerm": "Zelda no Densetsu - Triforce 3-Juushi"}
+			]
+		},
+		{
+			"group": "LEGO Batman 3 - Beyond Gotham (Update)",
+			"titles": [
+				{"searchTerm": "LEGO Batman 3 - Beyond Gotham (Update)"},
+				{"searchTerm": "LEGO Batman 3 - Mas Alla de Gotham - Actualizacion", "priority": 2, "englishFriendly": false},
+				{"searchTerm": "LEGO Batman 3 - Au-Dela de Gotham - Mise a Jour", "priority": 2, "englishFriendly": false}
+			]
+		},
+		{
+			"group": "LEGO Legends of Chima - Laval's Journey",
+			"titles": [
+				{"searchTerm": "LEGO Legends of Chima - Laval's Journey"},
+				{
+					"searchTerm": "LEGO Chima",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["World"]},
+							"results": {"categories": ["Demos"]}
+						}
+					]
+				}
+			]
+		},
+		{
+			"group": "LEGO Movie Videogame, The",
+			"titles": [
+				{"searchTerm": "LEGO Movie Videogame, The"},
+				{"searchTerm": "LEGO La Grande Aventure", "priority": 2, "englishFriendly": false}
+			]
+		},
+		{
+			"group": "LEGO Marvel Super Heroes - Universe in Peril",
+			"titles": [
+				{"searchTerm": "LEGO Marvel Super Heroes - Universe in Peril (AL5E)"},
+				{"searchTerm": "LEGO Marvel Super Heroes - Universe in Peril (AL5Y)"},
+				{"searchTerm": "LEGO Marvel Super Heroes - Universe in Peril"}
+			]
+		},
+		{
+			"group": "LEGO Marvel's Avengers",
+			"titles": [
+				{"searchTerm": "LEGO Marvel's Avengers"},
+				{"searchTerm": "LEGO Marvel Avengers"}
+			]
+		},
+		{
+			"group": "LEGO Marvel's Avengers (Update)",
+			"titles": [
+				{"searchTerm": "LEGO Marvel's Avengers (Update)"},
+				{"searchTerm": "LEGO Marvel Avengers (Update)"}
+			]
+		},
+		{
+			"group": "Liverecrom Niji",
+			"categories": ["Preproduction"],
+			"titles": [
+				{"searchTerm": "Liverecrom Niji"}
+			]
+		},
+		{
 			"group": "Luigi's Mansion - Dark Moon",
 			"titles": [
 				{"searchTerm": "Luigi's Mansion - Dark Moon"},
 				{"searchTerm": "Luigi's Mansion 2"}
+			]
+		},
+		{
+			"group": "Luigi's Mansion - Dark Moon (Demo)",
+			"categories": ["Demos"],
+			"titles": [
+				{"searchTerm": "Luigi's Mansion 2 Preview"}
+			]
+		},
+		{
+			"group": "Luigi's Mansion - Dark Moon (Trailer)",
+			"categories": ["Video"],
+			"titles": [
+				{"searchTerm": "Luigi's Mansion 2 (E3 Video)"},
+				{"searchTerm": "Luigi's Mansion - Dark Moon (E3 2012 Video)"}
+			]
+		},
+		{
+			"group": "Madagascar 3 & The Croods - Prehistoric Party! Combo Pack",
+			"titles": [
+				{"searchTerm": "Madagascar 3 & The Croods - Prehistoric Party! Combo Pack"},
+				{"searchTerm": "Madagascar 3 & The Croods - Combo Pack"}
+			]
+		},
+		{
+			"group": "Magic Hammer, The",
+			"titles": [
+				{"searchTerm": "Magic Hammer, The"},
+				{"searchTerm": "Magic Hammer"}
 			]
 		},
 		{
@@ -218,6 +1344,20 @@
 			]
 		},
 		{
+			"group": "Mario Kart 7 (Demo)",
+			"categories": ["Demos"],
+			"titles": [
+				{"searchTerm": "Mario Kart 7 Preview"}
+			]
+		},
+		{
+			"group": "Mario Kart 7 (Trailer)",
+			"categories": ["Video"],
+			"titles": [
+				{"searchTerm": "Mario Kart (E3 Video)"}
+			]
+		},
+		{
 			"group": "Mario and Donkey Kong - Minis on the Move",
 			"titles": [
 				{"searchTerm": "Mario and Donkey Kong - Mini Mini Carnival"},
@@ -225,10 +1365,207 @@
 			]
 		},
 		{
+			"group": "Mario & Luigi - Dream Team",
+			"titles": [
+				{"searchTerm": "Mario & Luigi - Dream Team Bros."},
+				{"searchTerm": "Mario & Luigi - RPG4 Dream Adventure"},
+				{
+					"searchTerm": "Mario & Luigi - Dream Team",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["World"]},
+							"results": {"categories": ["Demos"]}
+						}
+					]
+				}
+			]
+		},
+		{
+			"group": "Mario & Luigi - Dream Team (Update)",
+			"titles": [
+				{"searchTerm": "Mario & Luigi - Dream Team (Update)"},
+				{"searchTerm": "Mario & Luigi - Dream Team Bros. (Update)"}
+			]
+		},
+		{
+			"group": "Mario & Luigi - Paper Jam",
+			"titles": [
+				{"searchTerm": "Mario & Luigi - Paper Jam"},
+				{"searchTerm": "Mario & Luigi - Paper Jam Bros."}
+			]
+		},
+		{
+			"group": "Mario & Sonic at the London 2012 Olympic Games - Virtual Card Album",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Mario & Sonic at the London 2012 Olympic Games - Virtual Card Album"}		
+			]
+		},
+		{
+			"group": "Mario Tennis Preview",
+			"categories": ["Demos"],
+			"titles": [
+				{"searchTerm": "Mario Tennis Preview"}
+			]
+		},
+		{
+			"group": "Meat Or Die - Season One",
+			"categories": ["Video"],
+			"titles": [
+				{"searchTerm": "Meat Or Die - Season One"}
+			]
+		},
+		{
+			"group": "Metal Gear Solid - Snake Eater 3D (Trailer)",
+			"categories": ["Video"],
+			"titles": [
+				{"searchTerm": "Metal Gear Solid - Snake Eater (E3 Video)"},
+				{"searchTerm": "Metal Gear Solid - Snake Eater 3D (E3 Video)"}
+			]
+		},
+		{
+			"group": "Metroid Prime - Federation Force Blast Ball (Update)",
+			"titles": [
+				{"searchTerm": "Metroid Prime - Federation Force Blast Ball (Update)"},
+				{"searchTerm": "Metroid Prime - Blast Ball (Update)"}
+			]
+		},
+		{
+			"group": "Mew Trading App",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Mew Trading App"}		
+			]
+		},
+		{
+			"group": "Mighty Gunvolt (DLC)",
+			"titles": [
+				{"searchTerm": "Mighty Gunvolt (DLC)"},
+				{"searchTerm": "Mighty Gunvolt (Factory, Bio Lab, Highway, Gym) (DLC)"}
+			]
+		},
+		{
+			"group": "Monster Combine TD",
+			"titles": [
+				{"searchTerm": "Monster Combine TD"},
+				{
+					"searchTerm": "Custom Monsters",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["World"]},
+							"results": {"categories": ["Demos"]}
+						}
+					]
+				}
+			]
+		},
+		{
+			"group": "Monster High - 13 Wishes",
+			"titles": [
+				{"searchTerm": "Monster High - 13 Wishes"},
+				{"searchTerm": "Monster High - 13 Wuensche", "priority": 2, "englishFriendly": false}
+			]
+		},
+		{
+			"group": "Monster Hunter 3 Ultimate",
+			"titles": [
+				{
+					"searchTerm": "Monster Hunter 3 Tri-G",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["World"]},
+							"results": {"categories": ["Demos"]}
+						}
+					]
+				}
+			]
+		},
+		{
+			"group": "Monster Hunter 3 Ultimate (Data Transfer Program)",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Monster Hunter 3 Ultimate (Data Transfer Program)"}		
+			]
+		},
+		{
+			"group": "Monster Hunter 4",
+			"titles": [
+				{"searchTerm": "Monster Hunter 4"}
+			],
+			"supersets": [
+				{"searchTerm": "Monster Hunter 4G"},
+				{"searchTerm": "Monster Hunter 4 Ultimate"}
+			]
+		},
+		{
+			"group": "Monster Hunter 4 (Update)",
+			"titles": [
+				{"searchTerm": "Monster Hunter 4 (Update)"}
+			],
+			"supersets": [
+				{"searchTerm": "Monster Hunter 4G (Update)"},
+				{"searchTerm": "Monster Hunter 4 Ultimate (Update)"}
+			]
+		},
+		{
+			"group": "Monster Hunter Generations",
+			"titles": [
+				{"searchTerm": "Monster Hunter Generations"},
+				{"searchTerm": "Monster Hunter X"}
+			],
+			"supersets": [
+				{"searchTerm": "Monster Hunter XX"}
+			]
+		},
+		{
+			"group": "Monster Hunter Generations Ultimate (Save Data Transfer App)",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Monster Hunter Generations Ultimate (Save Data Transfer App)"}		
+			]
+		},
+		{
 			"group": "Mutant Mudds",
 			"titles": [
 				{"searchTerm": "Mud Attack! Max vs Dorodoro Seijin"},
-				{"searchTerm": "Mutant Mudds"}
+				{
+					"searchTerm": "Mutant Mudds",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["World"]},
+							"results": {"categories": ["Demos"]}
+						}
+					]
+				}
+			]
+		},
+		{
+			"group": "My Horse 3D - Best Friends",
+			"titles": [
+				{"searchTerm": "My Horse 3D - Best Friends"},
+				{"searchTerm": "Best Friends - My Horse 3D"}
+			]
+		},
+		{
+			"group": "Nashijiru Busha!! Funassyi vs Dragons",
+			"titles": [
+				{"searchTerm": "Nashijiru Busha!! Funassyi vs Dragons"},
+				{
+					"searchTerm": "Funassy Vs Dragons",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["World"]},
+							"results": {"categories": ["Demos"]}
+						}
+					]
+				}
+			]
+		},
+		{
+			"group": "Netflix",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Netflix"}		
 			]
 		},
 		{
@@ -237,50 +1574,264 @@
 				{"searchTerm": "New Super Mario Bros. 2"}
 			],
 			"supersets": [
-				{"searchTerm": "New Super Mario Bros. 2 Gold Edition"},
-				{"searchTerm": "New Super Mario Bros. 2 Special Edition"}
+				{"searchTerm": "New Super Mario Bros. 2 - Gold Edition"},
+				{"searchTerm": "New Super Mario Bros. 2 - Special Edition"}
+			]
+		},
+		{
+			"group": "New Super Mario Bros. 2 (Trailer)",
+			"categories": ["Video"],
+			"titles": [
+				{"searchTerm": "New Super Mario Bros. 2 (E3 2012 Video)"}
 			]
 		},
 		{
 			"group": "Ninja Usagimaru - The Gem of Blessings",
 			"titles": [
 				{"searchTerm": "Ninja Usagimaru - The Gem of Blessings"},
-				{"searchTerm": "Shippuu no Usagi-Maru - Megumi no Tama to Fuuma no Shirushi"}
+				{"searchTerm": "Shippuu no Usagimaru - Megumi no Tama to Fuuma no Shirushi"}
+			]
+		},
+		{
+			"group": "Ninotool",
+			"categories": ["Preproduction"],
+			"titles": [
+				{"searchTerm": "Ninotool"}		
+			]
+		},
+		{
+			"group": "Nintendo 3DS Ambassador Certificate",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Nintendo 3DS Ambassador Certificate"},
+				{"searchTerm": "Ambassador Certificate"}
+			]
+		},
+		{
+			"group": "Nintendo 3DS Guide - Louvre",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Nintendo 3DS Guide - Louvre"}
+			]
+		},
+		{
+			"group": "Nintendo 3DS Guide - Louvre (Update)",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Nintendo 3DS Guide - Louvre (Update)"}
+			]
+		},
+		{
+			"group": "Nintendo Anime Channel",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Nintendo Anime Channel"}
 			]
 		},
 		{
 			"group": "Nintendo Badge Arcade",
+			"categories": ["Applications"],
 			"titles": [
-				{"searchTerm": "Home Menu ni Kazareru Badge Toreru Center"},
+				{"searchTerm": "Badge Toreru Center"},
 				{"searchTerm": "Nintendo Badge Arcade"}
 			]
 		},
 		{
-			"group": "Photos with Animal Crossing",
+			"group": "Nintendo Badge Arcade (Update)",
+			"categories": ["Applications"],
 			"titles": [
-				{"searchTerm": "Isshoni Photo Doubutsu no Mori"},
+				{"searchTerm": "Badge Toreru Center (Update)"},
+				{"searchTerm": "Nintendo Badge Arcade (Update)"}
+			]
+		},
+		{
+			"group": "Nintendo Video",
+			"categories": ["Video"],
+			"titles": [
+				{"searchTerm": "Nintendo Video"}
+			]
+		},
+		{
+			"group": "O-Power Rom",
+			"categories": ["Preproduction"],
+			"titles": [
+				{"searchTerm": "O-Power Rom"}		
+			]
+		},
+		{
+			"group": "One Piece Unlimited World Red",
+			"titles": [
+				{
+					"searchTerm": "One Piece Unlimited World Red",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["World"]},
+							"results": {"categories": ["Demos"]}
+						}
+					]
+				}
+			]
+		},
+		{
+			"group": "Order Up!!",
+			"titles": [
+				{
+					"searchTerm": "Order Up!!",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["World"]},
+							"results": {"categories": ["Demos"]}
+						}
+					]
+				}
+			]
+		},
+		{
+			"group": "Paper Mario - Sticker Star (Demo)",
+			"categories": ["Demos"],
+			"titles": [
+				{"searchTerm": "Paper Mario Preview"}
+			]
+		},
+		{
+			"group": "Paper Mario - Sticker Star (Trailer)",
+			"categories": ["Video"],
+			"titles": [
+				{"searchTerm": "Paper Mario - Sticker Star (E3 2012 Video)"},
+				{"searchTerm": "Paper Mario (E3 Video)"}
+			]
+		},
+		{
+			"group": "Paws & Claws - Pampered Pets Resort 3D",
+			"titles": [
+				{"searchTerm": "Paws & Claws - Pampered Pets Resort 3D"},
+				{"searchTerm": "Pets Paradise Resort 3D"}
+			]
+		},
+		{
+			"group": "Phonics Fun with Biff, Chip & Kipper Vol. 1",
+			"categories": ["Educational"],
+			"titles": [
+				{"searchTerm": "Phonics Fun with Biff, Chip & Kipper Vol. 1"}
+			]
+		},
+		{
+			"group": "Phonics Fun with Biff, Chip & Kipper Vol. 1 (Update)",
+			"categories": ["Educational"],
+			"titles": [
+				{"searchTerm": "Phonics Fun with Biff, Chip & Kipper Vol. 1 (Update)"}
+			]
+		},
+		{
+			"group": "Phonics Fun with Biff, Chip & Kipper Vol. 2",
+			"categories": ["Educational"],
+			"titles": [
+				{"searchTerm": "Phonics Fun with Biff, Chip & Kipper Vol. 2"}
+			]
+		},
+		{
+			"group": "Phonics Fun with Biff, Chip & Kipper Vol. 2 (Update)",
+			"categories": ["Educational"],
+			"titles": [
+				{"searchTerm": "Phonics Fun with Biff, Chip & Kipper Vol. 2 (Update)"}
+			]
+		},
+		{
+			"group": "Phonics Fun with Biff, Chip & Kipper Vol. 3",
+			"categories": ["Educational"],
+			"titles": [
+				{"searchTerm": "Phonics Fun with Biff, Chip & Kipper Vol. 3"}
+			]
+		},
+		{
+			"group": "Phonics Fun with Biff, Chip & Kipper Vol. 3 (Update)",
+			"categories": ["Educational"],
+			"titles": [
+				{"searchTerm": "Phonics Fun with Biff, Chip & Kipper Vol. 3 (Update)"}
+			]
+		},
+		{
+			"group": "Photos with Animal Crossing",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Issho ni Photo - Doubutsu no Mori"},
 				{"searchTerm": "Photos with Animal Crossing"}
 			]
 		},
 		{
 			"group": "Photos with Mario",
+			"categories": ["Applications"],
 			"titles": [
-				{"searchTerm": "Isshoni Photo Super Mario"},
+				{"searchTerm": "Issho ni Photo - Super Mario"},
 				{"searchTerm": "Photos with Mario"}
 			]
 		},
 		{
-			"group": "Pocket Card Jockey",
+			"group": " Pic-A-Pix Color",
 			"titles": [
-				{"searchTerm": "Pocket Card Jockey"},
-				{"searchTerm": "SolitiBa"}
+				{"searchTerm": "Pic-A-Pix Color"},
+				{"searchTerm": "Pic-A-Pix Colour"}
+			]
+		},
+		{
+			"group": " Pic-A-Pix Color (DLC)",
+			"titles": [
+				{"searchTerm": "Pic-A-Pix Color (DLC)"},
+				{"searchTerm": "Pic-A-Pix Colour (DLC)"}
+			]
+		},
+		{
+			"group": "Pikmin Short Movies 3D",
+			"categories": ["Video"],
+			"titles": [
+				{"searchTerm": "Pikmin Short Movies 3D"}
+			]
+		},
+		{
+			"group": "Pinball Breakout",
+			"titles": [
+				{"searchTerm": "Pinball Breakout"}
+			],
+			"supersets": [
+				{"searchTerm": "Pinball Breakout (New 3DS)"}
+			]
+		},
+		{
+			"group": "Poke Transporter",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Poke Transporter"}
+			]
+		},
+		{
+			"group": "Poke Transporter (Update)",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Poke Transporter (Update)"}
 			]
 		},
 		{
 			"group": "Pokedex 3D",
+			"categories": ["Applications"],
 			"titles": [
-				{"searchTerm": "Pokedex 3D"},
-				{"searchTerm": "Pokedex", "priority": 2}
+				{"searchTerm": "Pokedex 3D"}
+			],
+			"supersets": [
+				{"searchTerm": "Pokedex 3D Pro"}
+			]
+		},
+		{
+			"group": "Pokemon Bank",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Pokemon Bank"}
+			]
+		},
+		{
+			"group": "Pokemon Bank (Update)",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Pokemon Bank (Update)"}
 			]
 		},
 		{
@@ -291,10 +1842,91 @@
 			]
 		},
 		{
-			"group": "Proun+",
+			"group": "Pokemon Moon",
 			"titles": [
-				{"searchTerm": "Loop Line Racing"},
-				{"searchTerm": "Proun+"}
+				{"searchTerm": "Pokemon Moon"}
+			],
+			"supersets": [
+				{"searchTerm": "Pokemon Ultra Moon"}
+			]
+		},
+		{
+			"group": "Pokemon Moon (Update)",
+			"titles": [
+				{"searchTerm": "Pokemon Moon (Update)"}
+			],
+			"supersets": [
+				{"searchTerm": "Pokemon Ultra Moon (Update)"}
+			]
+		},
+		{
+			"group": "Pokemon Moon (Debug Build)",
+			"categories": ["Preproduction"],
+			"titles": [
+				{"searchTerm": "Pokemon Moon (Debug Build)"}
+			],
+			"supersets": [
+				{"searchTerm": "Pokemon Ultra Moon (Debug Build)"}
+			]
+		},
+		{
+			"group": "Pokemon Mystery Dungeon - Gates to Infinity",
+			"titles": [
+				{
+					"searchTerm": "Pokemon Mystery Dungeon - Gates to Infinity",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["World"]},
+							"results": {"categories": ["Demos"]}
+						}
+					]
+				}
+			]
+		},
+		{
+			"group": "Pokemon Rumble Blast",
+			"titles": [
+				{"searchTerm": "Pokemon Rumble Blast"},
+				{"searchTerm": "Super Pokemon Rumble"}
+			]
+		},
+		{
+			"group": "Pokemon Sun",
+			"titles": [
+				{"searchTerm": "Pokemon Sun"}
+			],
+			"supersets": [
+				{"searchTerm": "Pokemon Ultra Sun"}
+			]
+		},
+		{
+			"group": "Pokemon Sun (Update)",
+			"titles": [
+				{"searchTerm": "Pokemon Sun (Update)"}
+			],
+			"supersets": [
+				{"searchTerm": "Pokemon Ultra Sun (Update)"}
+			]
+		},
+		{
+			"group": "Pokemon Sun (Debug Build)",
+			"categories": ["Preproduction"],
+			"titles": [
+				{"searchTerm": "Pokemon Sun (Debug Build)"}
+			]
+		},
+		{
+			"group": "Project X Zone 2",
+			"titles": [
+				{"searchTerm": "Project X Zone 2"},
+				{"searchTerm": "Project X Zone 2 - Brave New World"}
+			]
+		},
+		{
+			"group": "Project X Zone 2 (Update)",
+			"titles": [
+				{"searchTerm": "Project X Zone 2 (Update)"},
+				{"searchTerm": "Project X Zone 2 - Brave New World (Update)"}
 			]
 		},
 		{
@@ -306,10 +1938,32 @@
 			]
 		},
 		{
-			"group": "PUZZLEBOX setup",
+			"group": "Puzzle & Dragons Z + Super Mario Bros. Edition",
 			"titles": [
-				{"searchTerm": "Puzzle Bottle"},
-				{"searchTerm": "PUZZLEBOX setup"}
+				{"searchTerm": "Puzzle & Dragons Z + Super Mario Bros. Edition"},
+				{"searchTerm": "Puzzle & Dragons Z + Super Mario Bros. Edition (2.0)"}
+			]
+		},
+		{
+			"group": "Puzzle & Dragons Z + Super Mario Bros. Edition (Update)",
+			"titles": [
+				{"searchTerm": "Puzzle & Dragons Z + Super Mario Bros. Edition (Update)"},
+				{"searchTerm": "Puzzle & Dragons Z + Puzzle & Dragons Super Mario Bros. Edition (Update)"}
+			]
+		},
+		{
+			"group": "Puzzle & Dragons Z + Super Mario Bros. Edition (DLC)",
+			"titles": [
+				{"searchTerm": "Puzzle & Dragons (DLC)"},
+				{"searchTerm": "Puzzle & Dragons Z (DLC)"},
+				{"searchTerm": "Puzzle & Dragons Z + Puzzle & Dragons Super Mario Bros. Edition (DLC)"}
+			]
+		},
+		{
+			"group": "Queen TV-Game 2, The",
+			"titles": [
+				{"searchTerm": "Queen TV-Game 2, The (New 3DS)"},
+				{"searchTerm": "The Queen TV-Game 2 (New 3DS)"}
 			]
 		},
 		{
@@ -327,10 +1981,77 @@
 			]
 		},
 		{
-			"group": "Sadame",
+			"group": "Rayman Origins",
 			"titles": [
-				{"searchTerm": "Ishi Sengokuden Sadame"},
-				{"searchTerm": "Sadame"}
+				{
+					"searchTerm": "Rayman Origins",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["World"]},
+							"results": {"categories": ["Demos"]}
+						}
+					]
+				}
+			]
+		},
+		{
+			"group": "Resident Evil - Revelations (Trailer)",
+			"categories": ["Video"],
+			"titles": [
+				{"searchTerm": "Resident Evil - Revelations (E3 Video)"}
+			]
+		},
+		{
+			"group": "Rhythm Heaven Megamix",
+			"titles": [
+				{"searchTerm": "Rhythm Heaven Megamix"},
+				{"searchTerm": "Rhythm Paradise Megamix"}
+			]
+		},
+		{
+			"group": "Riding Stables 3D - Rivals in the Saddle",
+			"titles": [
+				{"searchTerm": "Riding Stables 3D - Rivals in the Saddle"},
+				{"searchTerm": "Riding Stables 3D"}
+			]
+		},
+		{
+			"group": "RPG Maker Fes (DLC)",
+			"titles": [
+				{"searchTerm": "RPG Maker Fes (DLC)"},
+				{"searchTerm": "RPGMaker Fes (DLC)"}
+			]
+		},
+		{
+			"group": "RTO 2",
+			"titles": [
+				{"searchTerm": "RTO 2"}
+			],
+			"supersets": [
+				{"searchTerm": "RTO 2 (New 3DS)"}
+			]
+		},
+		{
+			"group": "RTO 3",
+			"titles": [
+				{"searchTerm": "RTO 3"}
+			],
+			"supersets": [
+				{"searchTerm": "RTO 3 (New 3DS)"}
+			]
+		},
+		{
+			"group": "Runbow Pocket Deluxe Edition",
+			"titles": [
+				{"searchTerm": "Runbow Pocket Deluxe Edition (New 3DS)"},
+				{"searchTerm": "Runbow Pocket (New 3DS)"}
+			]
+		},
+		{
+			"group": "Saban's Power Rangers Super Megaforce",
+			"titles": [
+				{"searchTerm": "Saban's Power Rangers Super Megaforce"},
+				{"searchTerm": "Power Rangers Super Megaforce"}
 			]
 		},
 		{
@@ -341,27 +2062,108 @@
 			]
 		},
 		{
-			"group": "Shovel Knight",
+			"group": "Shaun the Sheep - Episodes 1-15 + Making Of",
+			"categories": ["Video"],
 			"titles": [
-				{"searchTerm": "Shovel Knight"}
+				{"searchTerm": "Shaun the Sheep - Episodes 1-5"},
+				{"searchTerm": "Shaun the Sheep - Episodes 6-10"},
+				{"searchTerm": "Shaun the Sheep - Episodes 11-15"}
 			],
 			"supersets": [
-				{"searchTerm": "Shovel Knight + Shovel Knight - Plague of Shadows"}
+				{"searchTerm": "Shaun the Sheep - Episodes 1-15 + Making Of"}
+			]
+		},
+		{
+			"group": "Shephy (Demo)",
+			"categories": ["Demos"],
+			"titles": [
+				{"searchTerm": "Shephytrial"}
+			]
+		},
+		{
+			"group": "Shin Chan Vol. 1",
+			"categories": ["Video"],
+			"titles": [
+				{"searchTerm": "Shin Chan Vol. 1"}
+			]
+		},
+		{
+			"group": "Shin Chan Vol. 2",
+			"categories": ["Video"],
+			"titles": [
+				{"searchTerm": "Shin Chan Vol. 2"}
+			]
+		},
+		{
+			"group": "Shin Chan Vol. 3",
+			"categories": ["Video"],
+			"titles": [
+				{"searchTerm": "Shin Chan Vol. 3"}
+			]
+		},
+		{
+			"group": "Shin Chan Vol. 4",
+			"categories": ["Video"],
+			"titles": [
+				{"searchTerm": "Shin Chan Vol. 4"}
+			]
+		},
+		{
+			"group": "Shin Chan Vol. 5",
+			"categories": ["Video"],
+			"titles": [
+				{"searchTerm": "Shin Chan Vol. 5"}
+			]
+		},
+		{
+			"group": "Shin Megami Tensei - Strange Journey Redux",
+			"titles": [
+				{"searchTerm": "Shin Megami Tensei - Strange Journey Redux"},
+				{"searchTerm": "Shin Megami Tensei Strange Journey Redux"}
+			]
+		},
+		{
+			"group": "Shovel Knight - Treasure Trove (Update)",
+			"titles": [
+				{"searchTerm": "Shovel Knight - Treasure Trove (Update)"},
+				{"searchTerm": "Shovel Knight (Update)"}
 			]
 		},
 		{
 			"group": "Skater Cat",
 			"titles": [
-				{"searchTerm": "peakvox - Mew Mew Train"},
+				{"searchTerm": "Peakvox Mew Mew Train"},
 				{"searchTerm": "Skater Cat"}
-
 			]
 		},
 		{
 			"group": "SmileBASIC",
+			"categories": ["Applications"],
 			"titles": [
-				{"searchTerm": "Puchikon No. 3 SmileBASIC"},
+				{"searchTerm": "Petit Computer 3"},
 				{"searchTerm": "SmileBASIC"}
+			]
+		},
+		{
+			"group": "SmileBASIC (Update)",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Petit Computer 3-gou - SmileBASIC (Update)"},
+				{"searchTerm": "SmileBASIC (Update)"}
+			]
+		},
+		{
+			"group": "SmileBASIC (DLC)",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "SmileBASIC (DLC)"}
+			]
+		},
+		{
+			"group": "Soccer Up 3D",
+			"titles": [
+				{"searchTerm": "Soccer Up 3D"},
+				{"searchTerm": "Football Up 3D"}
 			]
 		},
 		{
@@ -380,6 +2182,51 @@
 			]
 		},
 		{
+			"group": "Speedx 3D",
+			"titles": [
+				{"searchTerm": "Speedx 3D"}
+			],
+			"supersets": [
+				{"searchTerm": "Speedx 3D Hyper Edition"}
+			]
+		},
+		{
+			"group": "SpongeBob HeroPants",
+			"titles": [
+				{"searchTerm": "SpongeBob HeroPants"},
+				{"searchTerm": "Spongebob Heldenschwamm"}
+			]
+		},
+		{
+			"group": "Squareboy vs. Bullies",
+			"titles": [
+				{"searchTerm": "Squareboy vs. Bullies"},
+				{"searchTerm": "Squareboy vs Bullies"}
+			]
+		},
+		{
+			"group": "Star Fox 64 3D (Trailer)",
+			"categories": ["Video"],
+			"titles": [
+				{"searchTerm": "Star Fox 64 3D (E3 Video)"},
+				{"searchTerm": "Starfox 64 3D (E3 Video)"}
+			]
+		},
+		{
+			"group": "Streetpass Mii Plaza (Update)",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Streetpass Mii Plaza (Update)"}
+			]
+		},
+		{
+			"group": "Streetpass Mii Plaza (DLC)",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Streetpass Mii Plaza (DLC)"}
+			]
+		},
+		{
 			"group": "Stretchmo",
 			"titles": [
 				{"searchTerm": "Fullblox"},
@@ -388,7 +2235,102 @@
 			]
 		},
 		{
+			"group": "Stretchmo (DLC)",
+			"titles": [
+				{"searchTerm": "Fullblox (DLC)"},
+				{"searchTerm": "Hikudasu - Hippa Land (DLC)"},
+				{"searchTerm": "Stretchmo (DLC)"}
+			]
+		},
+		{
+			"group": "Style Savvy - Trendsetters",
+			"titles": [
+				{"searchTerm": "Style Savvy - Trendsetters"},
+				{"searchTerm": "Nintendo presents New Style Boutique"}
+			]
+		},
+		{
+			"group": "Style Savvy - Trendsetters (Update)",
+			"titles": [
+				{"searchTerm": "Style Savvy - Trendsetters (Update)"},
+				{"searchTerm": "Nintendo presents New Style Boutique (Update)"}
+			]
+		},
+		{
+			"group": "Style Savvy - Fashion Forward",
+			"titles": [
+				{"searchTerm": "Style Savvy - Fashion Forward"},
+				{"searchTerm": "Nintendo Presents - New Style Boutique 2"},
+				{
+					"searchTerm": "Nintendo Presents Style Savvy - Fashion Forward",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["World"]},
+							"results": {"categories": ["Demos"]}
+						}
+					]
+				}
+			]
+		},
+		{
+			"group": "Style Savvy - Fashion Forward (DLC)",
+			"titles": [
+				{"searchTerm": "Nintendo Presents Style Savvy - Fashion Forward (DLC)"},
+				{"searchTerm": "New Style Boutique 2 (DLC)"}
+			]
+		},
+		{
+			"group": "Style Savvy - Styling Star",
+			"titles": [
+				{"searchTerm": "Style Savvy - Styling Star"},
+				{"searchTerm": "Nintendo Presents - New Style Boutique 3 - Styling Star"}
+			]
+		},
+		{
+			"group": "Super Mario 3D Land (Demo)",
+			"categories": ["Demos"],
+			"titles": [
+				{"searchTerm": "Super Mario 3D Land Preview"}
+			]
+		},
+		{
+			"group": "Super Mario 3D Land (Trailer)",
+			"categories": ["Video"],
+			"titles": [
+				{"searchTerm": "Super Mario (E3 Video)"}
+			]
+		},
+		{
+			"group": "Super Smash Bros. for Nintendo 3DS (Update)",
+			"titles": [
+				{"searchTerm": "Super Smash Bros. for Nintendo 3DS (Update)"},
+				{"searchTerm": "Dairantou Smash Brothers for Nintendo 3DS (Update)"}
+			]
+		},
+		{
+			"group": "Super Smash Bros. for Nintendo 3DS (DLC)",
+			"titles": [
+				{"searchTerm": "Super Smash Bros. for Nintendo 3DS (DLC)"},
+				{"searchTerm": "Dairantou Smash Brothers for Nintendo 3DS (DLC)"}
+			]
+		},
+		{
+			"group": "Survivor Heroes",
+			"titles": [
+				{
+					"searchTerm": "Survivor Heroes",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["World"]},
+							"results": {"categories": ["Demos"]}
+						}
+					]
+				}
+			]
+		},
+		{
 			"group": "Swapnote",
+			"categories": ["Applications"],
 			"titles": [
 				{"searchTerm": "Nintendo Letter Box"},
 				{"searchTerm": "Swapnote"}
@@ -402,25 +2344,101 @@
 			]
 		},
 		{
-			"group": "THE DENPA MEN - They Came By Wave",
+			"group": "Teddy Together",
 			"titles": [
-				{"searchTerm": "DENPA MEN, The - They Came By Wave"},
-				{"searchTerm": "Denpa Ningen no RPG"},
-				{"searchTerm": "THE DENPA MEN - They Came By Wave"}
+				{
+					"searchTerm": "Teddy Together",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["World"]},
+							"results": {"categories": ["Demos"]}
+						}
+					]
+				}
 			]
 		},
 		{
-			"group": "THE DENPA MEN 3 - The Rise of Digitoll",
+			"group": "Terraria",
 			"titles": [
-				{"searchTerm": "Denpa Ningen no RPG 3"},
-				{"searchTerm": "THE DENPA MEN 3 - The Rise of Digitoll"}
+				{
+					"searchTerm": "Terraria",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["World"]},
+							"results": {"categories": ["Demos"]}
+						}
+					]
+				}
+			]
+		},
+		{
+			"group": "Tetris - Axis",
+			"titles": [
+				{"searchTerm": "Tetris - Axis"},
+				{"searchTerm": "Tetris"}
+			]
+		},
+		{
+			"group": "Theme Pack 1",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Theme Pack 1"}
+			]
+		},
+		{
+			"group": "Theme Pack 2",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Theme Pack 2"}
+			]
+		},
+		{
+			"group": "Theme Pack 3",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Theme Pack 3"}
+			]
+		},
+		{
+			"group": "Theme Pack 4",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Theme Pack 4"}
+			]
+		},
+		{
+			"group": "Theme Pack 5",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Theme Pack 5"}
+			]
+		},
+		{
+			"group": "Theme Pack 6",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Theme Pack 6"}
+			]
+		},
+		{
+			"group": "Theme Pack 7",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Theme Pack 7"}
 			]
 		},
 		{
 			"group": "Thorium Wars - Attack of the Skyfighter",
 			"titles": [
-				{"searchTerm": "Sky Fighters - Thorium Sensou, The"},
+				{"searchTerm": "Sky Fighters, The - Thorium Sensou"},
 				{"searchTerm": "Thorium Wars - Attack of the Skyfighter"}
+			]
+		},
+		{
+			"group": "Toki Tori 3D",
+			"titles": [
+				{"searchTerm": "Toki Tori 3D"},
+				{"searchTerm": "Toki Tori"}
 			]
 		},
 		{
@@ -438,10 +2456,50 @@
 			]
 		},
 		{
-			"group": "Tomodachi Life - Move-In Version",
+			"group": "Tomodachi Life (Move-In Version)",
+			"categories": ["Demos"],
 			"titles": [
-				{"searchTerm": "Tomodachi Life - Move-In Version"},
-				{"searchTerm": "Tomodachi Life - Welcome Version"}
+				{"searchTerm": "Tomodachi Life (Move-In Version)"},
+				{"searchTerm": "Tomodachi Life (Welcome Version)"}
+			]
+		},
+		{
+			"group": "Toys vs. Monsters",
+			"titles": [
+				{"searchTerm": "Toys vs. Monsters"},
+				{"searchTerm": "Toys vs Monsters"}
+			]
+		},
+		{
+			"group": "Travel Adventures with Hello Kitty",
+			"titles": [
+				{"searchTerm": "Travel Adventures with Hello Kitty"},
+				{"searchTerm": "Around the World with Hello Kitty and Friends (AHKP)"},
+				{"searchTerm": "Around the World with Hello Kitty and Friends (AHKZ)"}
+			]
+		},
+		{
+			"group": "Triple Breakout",
+			"titles": [
+				{"searchTerm": "Triple Breakout"}
+			],
+			"supersets": [
+				{"searchTerm": "Triple Breakout (New 3DS)"}
+			]
+		},
+		{
+			"group": "Ugokasou! Chibi Chara Koubou",
+			"titles": [
+				{"searchTerm": "Ugokasou! Chibi Chara Koubou"},
+				{
+					"searchTerm": "Chibi Chara Koubou",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["World"]},
+							"results": {"categories": ["Demos"]}
+						}
+					]
+				}
 			]
 		},
 		{
@@ -452,6 +2510,21 @@
 			]
 		},
 		{
+			"group": "Wan Nyan Doubutsu Byouin - Suteki na Juui-san ni Narou!",
+			"titles": [
+				{"searchTerm": "Wan Nyan Doubutsu Byouin - Suteki na Juui-san ni Narou!"},
+				{
+					"searchTerm": "Wannyandoubutsubyouin Sutekinajyuuisanninarou",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["World"]},
+							"results": {"categories": ["Demos"]}
+						}
+					]
+				}
+			]
+		},
+		{
 			"group": "Wario Land 4",
 			"titles": [
 				{"searchTerm": "Wario Land 4"},
@@ -459,11 +2532,18 @@
 			]
 		},
 		{
-			"group": "WarioWare, Inc. - Mega Microgame$!",
+			"group": "Warioware, Inc. - Mega Microgame$",
 			"titles": [
 				{"searchTerm": "Made in Wario"},
-				{"searchTerm": "WarioWare, Inc. - Mega Microgame$!"},
-				{"searchTerm": "Wario Ware, Inc - Minigame Mania"}
+				{"searchTerm": "Warioware, Inc. - Mega Microgame$"},
+				{"searchTerm": "Warioware, Inc. - Minigame Mania"}
+			]
+		},
+		{
+			"group": "Warioware Gold (Demo)",
+			"categories": ["Demos"],
+			"titles": [
+				{"searchTerm": "Warioware Gold (BWXA)"}
 			]
 		},
 		{
@@ -474,10 +2554,38 @@
 			]
 		},
 		{
+			"group": "Winter Sports 2012 - Feel the Spirit",
+			"titles": [
+				{"searchTerm": "Winter Sports 2012 - Feel the Spirit"},
+				{"searchTerm": "Winter Sports - Feel the Spirit"}
+			]
+		},
+		{
+			"group": "WRC - FIA World Rally Championship",
+			"titles": [
+				{"searchTerm": "WRC - FIA World Rally Championship - The Official Game"},
+				{"searchTerm": "WRC - Official Game of the FIA World Rally Championship"}
+			]
+		},
+		{
+			"group": "X (Save Data Transfer Tool)",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "X (Save Data Transfer Tool)"}
+			]
+		},
+		{
 			"group": "Yoshi's Island - Super Mario Advance 3",
 			"titles": [
-				{"searchTerm": "Super Mario Advance 3 - Yoshi's Island + Mario Brothers"},
+				{"searchTerm": "Super Mario Advance 3"},
 				{"searchTerm": "Yoshi's Island - Super Mario Advance 3"}
+			]
+		},
+		{
+			"group": "Youtube",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Youtube"}		
 			]
 		},
 		{
@@ -488,10 +2596,10 @@
 			]
 		},
 		{
-			"group": "Zen Pinball",
+			"group": "Zero Escape - Virtue's Last Reward",
 			"titles": [
-				{"searchTerm": "Zen Pinball"},
-				{"searchTerm": "Zen Pinball 3D"}
+				{"searchTerm": "Zero Escape - Virtue's Last Reward"},
+				{"searchTerm": "Virtue's Last Reward"}
 			]
 		}
 	]
