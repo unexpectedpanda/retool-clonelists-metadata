@@ -3,7 +3,7 @@
 for more information on what this means.
 
 This is the repository for [Retool's](https://unexpectedpanda.github.io/retool/) clone
-list and metadata files. It also hosts `config/internal-config.json` and `datafile.dtd`.
+list and metadata files. It also hosts `config/internal-config.json`.
 
 ## Contributions
 
