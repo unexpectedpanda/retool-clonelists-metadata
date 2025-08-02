@@ -1,0 +1,36 @@
+name: Get RetroAchievements updates
+on:
+  workflow_dispatch:
+  schedule:
+    # UTC time
+    - cron: "26 10 * * 1"
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      # Give the default GITHUB_TOKEN write permission to commit and push the
+      # added or changed files to the repository.
+      contents: write
+    if: ${{ github.event.workflow_run.conclusion == 'success' }} || github.event_name == 'workflow_dispatch'
+    steps:
+      - name: Checkout current repo
+        uses: actions/checkout@v4
+        with:
+          path: retool-clonelists-metadata
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          # Semantic version range syntax or exact version of a Python version
+          python-version: '3.12.3'
+          cache: 'pip' # caching pip global dependencies
+          # Optional - x64 or x86 architecture, defaults to x64
+          architecture: 'x64'
+      - name: Get RetroAchievements updates
+        run: |
+          cd retool-clonelists-metadata
+          python3 scripts/get_ra.py ${{secrets.RETROACHIEVEMENTS_URL}}
+      - name: Push commit
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Updated RetroAchievements files
+          repository: retool-clonelists-metadata
