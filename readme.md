@@ -15,22 +15,27 @@ that `clonelists/hash.json` is updated accordingly.
 
 ### Metadata files
 
-Metadata files are auto-generated from Redump and No-Intro databases, and should not be
+Metadata files are auto-generated from Redump and No-Intro databases, and shouldn't be
 manually updated.
 
 To make a change, don't submit a PR. Instead, report the issue upstream:
 
+### MIA and RetroAchievements files
+
+MIA and RetroAchievements files are pulled from external servers on a weekly basis, and
+should not be manually updated. If the sources stop updating, then so will these files.
+
 #### No-Intro
 
-  1. Go to [Dat-o-matic](https://datomatic.no-intro.org/).
+1. Go to [Dat-o-matic](https://datomatic.no-intro.org/).
 
-  1. Select the system the title is on.
+1. Select the system the title is on.
 
-  1. Do a search for the archive name of the title with the issue.
+1. Do a search for the archive name of the title with the issue.
 
-  1. Click on the title's name to open its page.
+1. Click on the title's name to open its page.
 
-  1. Click **New ticket**, fill out the form, and then submit it.
+1. Click **New ticket**, fill out the form, and then submit it.
 
 #### Redump
 
