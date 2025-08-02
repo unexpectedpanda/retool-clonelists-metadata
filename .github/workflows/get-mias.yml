@@ -1,4 +1,4 @@
-name: Get MIA updates
+name: Get MIA updates from external source
 on:
   workflow_dispatch:
   workflow_run:
@@ -34,3 +34,4 @@ jobs:
         with:
           commit_message: Updated cache files
           repository: retool-clonelists-metadata
+
