@@ -28,7 +28,7 @@ jobs:
       - name: Get MIA updates
         run: |
           cd retool-clonelists-metadata
-          python3 scripts/get_mia.py ${{vars.MIA_URL}}
+          python3 scripts/get_mia.py ${{secrets.MIA_URL}}
       - name: Push commit
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
