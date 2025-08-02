@@ -32,6 +32,6 @@ jobs:
       - name: Push commit
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: Updated cache files
+          commit_message: Updated MIA files
           repository: retool-clonelists-metadata
 
