@@ -1,9 +1,9 @@
-name: Get MIA updates from external source
+name: Get MIA updates
 on:
   workflow_dispatch:
-  workflow_run:
-    workflows: ['Get MIA updates']
-    types: [completed]
+  schedule:
+    # UTC time
+    - cron: "26 9 * * 1"
 jobs:
   build:
     runs-on: ubuntu-latest
