@@ -28,7 +28,7 @@ jobs:
       - name: Get RetroAchievements updates
         run: |
           cd retool-clonelists-metadata
-          python3 -m pip install .
+          python3 -m pip install lxml
           python3 scripts/get_ra.py ${{secrets.RETROACHIEVEMENTS_URL}}
       - name: Push commit
         uses: stefanzweifel/git-auto-commit-action@v5
