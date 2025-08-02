@@ -9,9 +9,10 @@ list and metadata files. It also hosts `config/internal-config.json`.
 
 ### Clone lists
 
-Contributions are welcome. Before submitting a PR, make sure to read about
-[how clone lists work and should be structured](https://unexpectedpanda.github.io/retool/contribute-clone-lists/). Make sure your changes are formatted correctly, tested, and
-that `clonelists/hash.json` is updated accordingly.
+Contributions are welcome. Before submitting a pull request, make sure to read
+[how clone lists work and should be structured](https://unexpectedpanda.github.io/retool/contribute-clone-lists/).
+[Guidelines for pull requests](https://unexpectedpanda.github.io/retool/contribute-clone-lists-pull-request/)
+can be found in the same section.
 
 ### Metadata files
 
