@@ -7,7 +7,7 @@ import zipfile
 
 from typing import Any
 
-from modules.utils import Font, download, eprint
+from modules.utils import Font, download, eprint, update_hash
 
 
 def main(download_location: str) -> None:
@@ -96,7 +96,8 @@ def update_mia(download_location: str) -> None:
                 if mia_name == system_name:
                     system_name = proper_name
 
-            system_mias[system_name] = []
+            if system_name not in system_mias:
+                system_mias[system_name] = []
 
             # Extract the MIA titles
             with open(md_file, encoding='utf-8') as md:
@@ -133,7 +134,17 @@ def update_mia(download_location: str) -> None:
                             f'\n\t\t{{\n\t\t\t"name": "{system_file_name}",\n\t\t\t"crc": "{system_file_crc}"\n\t\t}},'
                         )
 
-                mia_file.writelines('\n\t]\n}')
+                mia_file.writelines('\n\t]\n}\n')
+
+        # Remove unneeded MIA files
+        all_mias = glob.glob(f'{local_path}/*.json')
+        all_mias_paths = [pathlib.Path(x) for x in all_mias]
+        new_mias_paths = [pathlib.Path('mias').joinpath(f'{x}.json') for x in system_mias.keys()]
+
+        old_files = [x for x in all_mias_paths if x not in new_mias_paths]
+
+        for old_file in old_files:
+            pathlib.Path(old_file).unlink()
 
         # Remove the Markdown files
         files = glob.glob(f'{local_path}/*.md')
@@ -143,6 +154,14 @@ def update_mia(download_location: str) -> None:
 
         eprint('• Writing system MIA files... done.', overwrite=True)
 
+        # Update the hash.json file
+        eprint(f'• Writing MIA hash.json file...')
+
+        files = list(str(x) for x in pathlib.Path('mias').glob('*.json'))
+
+        update_hash(files, 'mias/hash.json')
+
+        eprint('• Writing MIA hash.json file... done.', overwrite=True)
 
 if __name__ == '__main__':
     main(sys.argv[1])

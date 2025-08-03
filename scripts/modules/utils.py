@@ -1,5 +1,7 @@
 
 import datetime
+import hashlib
+import json
 import os
 import pathlib
 import sys
@@ -285,3 +287,38 @@ def get_datetime() -> datetime.datetime:
         .replace(tzinfo=datetime.timezone.utc)
         .astimezone(tz=None)
     )
+
+def update_hash(file_list: list[str], relative_filepath: str) -> None:
+    """ Generates sha256 hashes for all files and stores them in hash.json """
+
+    hash_file_contents: list[str] = []
+
+    hash_file_contents.append('{\n')
+
+    for file in file_list:
+        hash_sha256 = hashlib.sha256()
+        with open(file, 'rb') as file_to_hash:
+            for chunk in iter(lambda: file_to_hash.read(4096), b''):
+                hash_sha256.update(chunk)
+
+        if file != file_list[-1]:
+            hash_file_contents.append(f'\t"{pathlib.Path(file).name}": "{hash_sha256.hexdigest()}",\n')
+        else:
+            hash_file_contents.append(f'\t"{pathlib.Path(file).name}": "{hash_sha256.hexdigest()}"\n')
+
+    hash_file_contents.append('}\n')
+
+    validate_json(''.join(hash_file_contents), file)
+
+    with open (pathlib.Path(relative_filepath), 'w', newline='\n') as hash_file:
+        hash_file.writelines(''.join(hash_file_contents))
+
+
+def validate_json(jsonData: Any, file: str) -> bool:
+    """ Makes sure input JSON is valid """
+    try:
+        json.loads(jsonData)
+    except ValueError:
+        print(f'\n* {Font.error}JSON is invalid in {file}, check the script is still operating as intended.{Font.end}')
+        sys.exit()
+    return True

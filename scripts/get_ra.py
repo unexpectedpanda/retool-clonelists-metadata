@@ -9,7 +9,7 @@ from lxml import etree
 from lxml import html as html_
 
 from modules.parse_dat import TitleData, define_lxml_parser, get_logiqx_header, get_logiqx_titles
-from modules.utils import Font, download, eprint
+from modules.utils import Font, download, eprint, update_hash
 
 
 def main(download_location: str) -> None:
@@ -211,7 +211,7 @@ def update_ra(download_location: str) -> None:
             # Modify the JSON
             json_file: str = json.dumps(
                 json.loads(
-                    f'{{\n\t"retroachievements":\n{json.dumps(retroachievements_titles)}\n\t}}'
+                    f'{{\n\t"retroachievements":\n{json.dumps(sorted(retroachievements_titles, key=lambda d: d['name']))}\n\t}}'
                 ),
                 indent=4,
             )
@@ -220,7 +220,7 @@ def update_ra(download_location: str) -> None:
             with open(f'{local_path}/{system_name}.json', 'w', encoding='utf-8') as ra_file:
                 ra_file.write(f'{json_file}\n')
 
-            # Duplicate JSON files where systems have been merged
+            # We need to duplicate JSON files where systems have been merged
             merged_systems: dict[str, str] = {
                 'Bandai - WonderSwan': 'Bandai - WonderSwan Color',
                 'Microsoft - MSX': 'Microsoft - MSX2',
@@ -240,6 +240,14 @@ def update_ra(download_location: str) -> None:
 
         eprint('• Writing system RetroAchievements files... done.', overwrite=True)
 
+        # Update the hash.json file
+        eprint(f'• Writing RetroAchievements hash.json file...')
+
+        files = list(str(x) for x in pathlib.Path('retroachievements').glob('*.json'))
+
+        update_hash(files, 'retroachievements/hash.json')
+
+        eprint('• Writing RetroAchievements hash.json file... done.', overwrite=True)
 
 if __name__ == '__main__':
     main(sys.argv[1])
