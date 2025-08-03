@@ -245,7 +245,6 @@ def get_logiqx_titles(
     def process_element(element: etree._Element) -> None:
         if element is not None:
             title: TitleData = TitleData()
-            files: Iterator[etree._Element] = []
 
             if not ra_digest_only:
                 # Collect the details for each title
@@ -270,7 +269,7 @@ def get_logiqx_titles(
 
                     title.categories = {str(x.text) for x in element.iterchildren(tag='category')}
 
-                    files = element.iterchildren(tag=('rom', 'disk'))
+                    files: Iterator[etree._Element] = element.iterchildren(tag=('rom', 'disk'))
                     file_type: str
 
                     if files:
