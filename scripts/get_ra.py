@@ -9,7 +9,7 @@ from lxml import etree
 from lxml import html as html_
 
 from modules.parse_dat import TitleData, define_lxml_parser, get_logiqx_header, get_logiqx_titles
-from modules.utils import Font, download, eprint, update_hash
+from modules.utils import Font, download, eprint, update_hash, validate_json
 
 
 def main(download_location: str) -> None:
@@ -219,6 +219,9 @@ def update_ra(download_location: str) -> None:
             # Write the file
             with open(f'{local_path}/{system_name}.json', 'w', encoding='utf-8') as ra_file:
                 ra_file.write(f'{json_file}\n')
+
+            with open(f'{local_path}/{system_name}.json', 'r', encoding='utf-8') as ra_file:
+                validate_json(ra_file.read(), f'{local_path}/{system_name}.json')
 
             # We need to duplicate JSON files where systems have been merged
             merged_systems: dict[str, str] = {

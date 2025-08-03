@@ -7,7 +7,7 @@ import zipfile
 
 from typing import Any
 
-from modules.utils import Font, download, eprint, update_hash
+from modules.utils import Font, download, eprint, update_hash, validate_json
 
 
 def main(download_location: str) -> None:
@@ -122,7 +122,7 @@ def update_mia(download_location: str) -> None:
                 mia_file.writelines('{\n\t"mias": [')
 
                 for system_file in sorted(system_files, key=lambda x: x['name']):
-                    system_file_name: str = system_file['name']
+                    system_file_name: str = system_file['name'].replace('\\', '\\\\')
                     system_file_crc: str = system_file['crc']
 
                     if system_file == sorted(system_files, key=lambda x: x['name'])[-1]:
@@ -135,6 +135,9 @@ def update_mia(download_location: str) -> None:
                         )
 
                 mia_file.writelines('\n\t]\n}\n')
+
+            with open(f'{local_path}/{system}.json', 'r', encoding='utf-8') as mia_file:
+                validate_json(mia_file.read(), f'{local_path}/{system}.json')
 
         # Remove unneeded MIA files
         all_mias = glob.glob(f'{local_path}/*.json')
