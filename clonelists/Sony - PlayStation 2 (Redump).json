@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Sony - PlayStation 2 (Redump)",
-		"lastUpdated": "30 May 2024",
+		"lastUpdated": "16 June 2024",
 		"minimumVersion": "2.02"
 	},
 
@@ -401,9 +401,9 @@
 			]
 		},
 		{
-			"group": "Arthur and the Invisibles - The Game",
+			"group": "Arthur and the Invisibles",
 			"titles": [
-				{"searchTerm": "Arthur and the Invisibles - The Game"},
+				{"searchTerm": "Arthur and the Invisibles"},
 				{"searchTerm": "Arthur and the Minimoys"}
 			]
 		},
@@ -3849,7 +3849,8 @@
 			"group": "Life Line",
 			"titles": [
 				{"searchTerm": "Life Line"},
-				{"searchTerm": "Operator's Side"}
+				{"searchTerm": "Operator's Side"},
+				{"searchTerm": "Operator's Side (Doukonban)"}
 			]
 		},
 		{
@@ -5487,10 +5488,10 @@
 		{
 			"group": "Pucelle, La - Tactics",
 			"titles": [
-				{"searchTerm": "Pucelle, La - Hikari no Seijo Densetsu"},
-				{"searchTerm": "Pucelle, La - Tactics"},
+				{"searchTerm": "Pucelle, La"},
+				{"searchTerm": "Pucelle, La - Hikari no Seijo Densetsu - 2-shuume Hajimemashita."},
 				{"searchTerm": "Pucelle, La - Hikari no Seijo Densetsu", "priority": 2},
-				{"searchTerm": "Pucelle, La - Hikari no Seijo Densetsu - 2-shuume Hajimemashita.", "priority": 3}
+				{"searchTerm": "Pucelle, La - Tactics"}
 			]
 		},
 		{
@@ -7051,6 +7052,13 @@
 			"titles": [
 				{"searchTerm": "Simple 2000 Series Vol. 8 - The Tennis"},
 				{"searchTerm": "Tennis Court Smash"}
+			]
+		},
+		{
+			"group": "Tenshou Gakuen Gekkouroku",
+			"titles": [
+				{"searchTerm": "Tenshou Gakuen Gekkouroku (Asmik Tokudane Series)"},
+				{"searchTerm": "Tenshou Gakuen Gekkouroku", "priority": 2}
 			]
 		},
 		{
