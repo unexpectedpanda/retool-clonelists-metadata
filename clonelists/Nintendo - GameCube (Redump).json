@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Nintendo - GameCube (Redump)",
-		"lastUpdated": "28 April 2024",
+		"lastUpdated": "01 September 2024",
 		"minimumVersion": "2.00"
 	},
 
@@ -589,6 +589,7 @@
 			"group": "GoldenEye - Rogue Agent (Disc 1)",
 			"titles": [
 				{"searchTerm": "GoldenEye - Agente Corrupto (Disc 1)"},
+				{"searchTerm": "GoldenEye - Au Service du Mal (Disc 1)"},
 				{"searchTerm": "GoldenEye - Dark Agent (Disc 1)"},
 				{"searchTerm": "GoldenEye - Rogue Agent (Disc 1)"}
 			]
@@ -597,6 +598,7 @@
 			"group": "GoldenEye - Rogue Agent (Disc 2)",
 			"titles": [
 				{"searchTerm": "GoldenEye - Agente Corrupto (Disc 2)"},
+				{"searchTerm": "GoldenEye - Au Service du Mal (Disc 2)"},
 				{"searchTerm": "GoldenEye - Dark Agent (Disc 2)"},
 				{"searchTerm": "GoldenEye - Rogue Agent (Disc 2)"}
 			]
@@ -1242,10 +1244,10 @@
 			]
 		},
 		{
-			"group": "Skies of Arcadia Legends",
+			"group": "Skies of Arcadia - Legends",
 			"titles": [
 				{"searchTerm": "Eternal Arcadia Legends"},
-				{"searchTerm": "Skies of Arcadia Legends"}
+				{"searchTerm": "Skies of Arcadia - Legends"}
 			]
 		},
 		{
