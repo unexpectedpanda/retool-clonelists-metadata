@@ -1,6 +1,7 @@
 {
-	"102 Dalmatians - Puppies to the Rescue (UK)": {
-		"languages": ["En"]
+	"09 Chairs (Japan)": {
+		"languages": ["Ja"],
+		"localName": "ナイン・チェアーズ"
 	},
 	"18 Wheeler - American Pro Trucker (Europe) (En,Fr,De,Es)": {
 		"languages": ["De", "En", "Es", "Fr"]
@@ -33,6 +34,9 @@
 	},
 	"Action Replay CDX - Demo Version (UK) (Unl)": {
 		"languages": []
+	},
+	"Action Replay CDX Version 3.0 (France) (Unl)": {
+		"languages": ["Fr"]
 	},
 	"Advanced Daisenryaku - Sturm ueber Europa - Der Deutsche Blitzkrieg (Japan)": {
 		"languages": ["Ja"],
@@ -74,7 +78,7 @@
 		"languages": ["Ja"],
 		"localName": "エアロダンシングｉ"
 	},
-	"Aero Dancing i - Jikai-saku made Matemasen (Japan)": {
+	"Aero Dancing i - Jikai Saku made Matemasen (Japan)": {
 		"languages": ["Ja"],
 		"localName": "エアロダンシングｉ　次回作まで待てませ～ん"
 	},
@@ -206,6 +210,10 @@
 		"languages": ["Ja"],
 		"localName": "あつまれ！ぐるぐる温泉ＢＢ"
 	},
+	"Atsumare! Guru Guru Onsen BB (Japan) (Rev A)": {
+		"languages": ["Ja"],
+		"localName": "あつまれ！ぐるぐる温泉ＢＢ"
+	},
 	"Bakumatsu Roman Daini Maku - Gekka no Kenshi - Final Edition (Japan)": {
 		"languages": ["Ja"],
 		"localName": "幕末浪漫第二幕　月華の剣士　～ファイナル・エディション～"
@@ -218,8 +226,8 @@
 		"languages": ["Ja"],
 		"localName": "バルドフォース　エグゼ"
 	},
-	"Bang! Gunship Elite (USA)": {
-		"languages": []
+	"Bang! Gunship Elite (USA) (En,Fr,De)": {
+		"languages": ["De", "En", "Fr"]
 	},
 	"Bangai-O (Europe) (En,Fr,De)": {
 		"languages": ["De", "En", "Fr"]
@@ -256,7 +264,7 @@
 	},
 	"Biohazard - Code - Veronica (Japan) (Disc 1) (Genteiban)": {
 		"languages": ["Ja"],
-		"localName": "バイオハザード　コード　ベロニカ"
+		"localName": "バイオハザード　コード：ベロニカ"
 	},
 	"Biohazard - Code - Veronica (Japan) (Disc 2)": {
 		"languages": [],
@@ -264,7 +272,7 @@
 	},
 	"Biohazard - Code - Veronica (Japan) (Disc 2) (Genteiban)": {
 		"languages": ["Ja"],
-		"localName": "バイオハザード　コード　ベロニカ"
+		"localName": "バイオハザード　コード：ベロニカ"
 	},
 	"Biohazard - Code - Veronica (Japan) (Tentou-you Demo Movie)": {
 		"languages": ["Ja"],
@@ -344,8 +352,8 @@
 		"languages": []
 	},
 	"Border Down (Japan)": {
-		"languages": [],
-		"localName": "ボーダー・ダウン"
+		"languages": ["Ja"],
+		"localName": "ボーダーダウン"
 	},
 	"Bounty Hunter Sara - Holy Mountain no Teiou (Japan)": {
 		"languages": ["Ja"],
@@ -375,6 +383,10 @@
 		"languages": ["Ja"],
 		"localName": "ＣＲ必殺仕事人　パチってちょんまげ＠ＶＰＡＣＨＩ"
 	},
+	"CSK Kenkouhoken Kumiai Sen'you Dream Passport 3 (Japan)": {
+		"languages": ["Ja"],
+		"localName": "ＣＳＫ健康保険組合専用　ドリームパスポート３"
+	},
 	"Caesars Palace 2000 - Millennium Gold Edition (Europe)": {
 		"languages": ["En"]
 	},
@@ -399,7 +411,7 @@
 	"Cannon Spike (USA)": {
 		"languages": ["En"]
 	},
-	"Canvas - Sepia Iro no Motif (Japan)": {
+	"Canvas - Sepia-iro no Motif (Japan)": {
 		"languages": ["Ja"],
 		"localName": "キャンバス　～セピア色のモチーフ～"
 	},
@@ -411,7 +423,7 @@
 		"languages": ["En"]
 	},
 	"Capcom vs. SNK (USA)": {
-		"languages": []
+		"languages": ["En"]
 	},
 	"Capcom vs. SNK - Millennium Fight 2000 (Japan)": {
 		"languages": ["Ja"],
@@ -549,7 +561,7 @@
 	"ChuChu Rocket! (USA) (En,Ja,Fr,De,Es)": {
 		"languages": ["De", "En", "Es", "Fr", "Ja"]
 	},
-	"Cleopatra Fortune (Japan) (Rev A)": {
+	"Cleopatra Fortune (Japan)": {
 		"languages": ["Ja"],
 		"localName": "クレオパトラ　フォーチュン"
 	},
@@ -579,8 +591,8 @@
 		"languages": ["Ja"],
 		"localName": "こみっくパーティー"
 	},
-	"Confidential Mission (Europe) (En,Fr,De,Es)": {
-		"languages": ["De", "En", "Es", "Fr"]
+	"Confidential Mission (Europe) (En,Ja,Fr,De,Es)": {
+		"languages": ["De", "En", "Es", "Fr", "Ja"]
 	},
 	"Confidential Mission (Japan) (En,Ja,Fr,De,Es)": {
 		"languages": ["De", "En", "Es", "Fr", "Ja"],
@@ -695,15 +707,18 @@
 	"DC-IE Import Enabler (USA) (Unl)": {
 		"languages": []
 	},
-	"Dabi Tsuku - Derby-ba o Tsukurou! (Japan)": {
+	"DC-UA - Dreamcast Universal Adapter (Japan) (Unl)": {
+		"languages": ["En"]
+	},
+	"Dabitsuku - Derby-ba o Tsukurou! (Japan)": {
 		"languages": ["Ja"],
 		"localName": "ダビつく　ダービー馬をつくろう！"
 	},
-	"Dabi Tsuku - Derby-ba o Tsukurou! (Japan) (Taikenban)": {
+	"Dabitsuku - Derby-ba o Tsukurou! (Japan) (Taikenban)": {
 		"languages": [],
 		"localName": "ダビつく　ダービー馬をつくろう！"
 	},
-	"Dabi Tsuku 2 (Japan)": {
+	"Dabitsuku 2 (Japan)": {
 		"languages": ["Ja"],
 		"localName": "ダビつく２"
 	},
@@ -753,7 +768,7 @@
 	},
 	"De La Jet Set Radio (Japan) (En,Ja,Fr,De,Es)": {
 		"languages": ["De", "En", "Es", "Fr", "Ja"],
-		"localName": "デ・ラ・ジェット・セット・ラジオ"
+		"localName": "デ・ラ・ジェット　セット　ラジオ"
 	},
 	"Dead or Alive 2 (Europe)": {
 		"languages": ["En"]
@@ -886,10 +901,16 @@
 	"Disney's 102 Dalmatians - Puppies to the Rescue (Europe) (Fr,De,Es,It)": {
 		"languages": ["De", "Es", "Fr", "It"]
 	},
+	"Disney's 102 Dalmatians - Puppies to the Rescue (UK)": {
+		"languages": ["En"]
+	},
 	"Disney's 102 Dalmatians - Puppies to the Rescue (USA)": {
 		"languages": ["En"]
 	},
 	"Disney's Dinosaur (Europe) (En,Fr,De,Es,It)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Disney's Dinosaur (Europe) (En,Fr,De,Es,It) (Beta) (2000-10-05)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Disney's Dinosaur (USA)": {
@@ -922,7 +943,7 @@
 	"Disney-Pixar Toy Story 2 - Buzz Lightyear to the Rescue! (USA)": {
 		"languages": ["En"]
 	},
-	"Disney-Pixar Toy Story 2 - Buzz l'Eclair a la Rescousse! (France)": {
+	"Disney-Pixar Toy Story 2 - Buzz l'Eclair a la Rescousse ! (France)": {
 		"languages": ["Fr"]
 	},
 	"Doguu Senki - Haou (Japan)": {
@@ -933,9 +954,33 @@
 		"languages": ["Ja"],
 		"localName": "どきどきアイドル　スターシーカー　Ｒｅｍｉｘ"
 	},
+	"Doricatch - Celsior (Japan)": {
+		"languages": ["Ja"],
+		"localName": "ドリキャッチ　ＣＥＬＳＩＯＲ"
+	},
+	"Doricatch - Estima (Japan)": {
+		"languages": ["Ja"],
+		"localName": "ドリキャッチ　ＥＳＴＩＭＡ"
+	},
 	"Doricatch - FunCargo (Japan)": {
 		"languages": ["Ja"],
 		"localName": "ドリキャッチ　ＦｕｎＣａｒｇｏ"
+	},
+	"Doricatch - Gaia (Japan)": {
+		"languages": ["Ja"],
+		"localName": "ドリキャッチ　ＧＡＩＡ"
+	},
+	"Doricatch - Hilux Surf (Japan)": {
+		"languages": ["Ja"],
+		"localName": "ドリキャッチ　ＨＩＬＵＸ　ＳＵＲＦ"
+	},
+	"Doricatch - Land Cruiser 100-Cygnus (Japan)": {
+		"languages": ["Ja"],
+		"localName": "ドリキャッチ　ＬＡＮＤ　ＣＲＵＩＳＥＲ　１００／Ｃｙｇｎｕｓ"
+	},
+	"Doricatch - Land Cruiser Prado (Japan)": {
+		"languages": ["Ja"],
+		"localName": "ドリキャッチ　ＬＡＮＤ　ＣＲＵＩＳＥＲ　ＰＲＡＤＯ"
 	},
 	"Dorimaga GD Vol. 1 (Japan)": {
 		"languages": ["Ja"]
@@ -1004,6 +1049,10 @@
 		"languages": ["Ja"],
 		"localName": "ドリームパスポート　２"
 	},
+	"Dream Passport 2 with Guru Guru Onsen (Japan)": {
+		"languages": ["Ja"],
+		"localName": "ドリームパスポート２　ｗｉｔｈ　ぐるぐる温泉"
+	},
 	"Dream Passport 3 (Japan)": {
 		"languages": ["Ja"],
 		"localName": "ドリームパスポート３"
@@ -1016,7 +1065,7 @@
 		"languages": ["Ja"],
 		"localName": "ドリームパスポート　プレミヤ"
 	},
-	"Dream Passport Ver.1.01 (Japan) (Rev A)": {
+	"Dream Passport Ver.1.01 (Japan)": {
 		"languages": ["Ja"],
 		"localName": "ドリームパスポート　Ｖｅｒ．１．０１"
 	},
@@ -1039,6 +1088,10 @@
 	"Dream Preview Vol. 3 (Japan)": {
 		"languages": ["Ja"],
 		"localName": "ドリーム　プレビュー　Ｖｏｌ．３"
+	},
+	"Dream Preview Vol. 4 (Japan)": {
+		"languages": ["Ja"],
+		"localName": "ドリーム　プレビュー　Ｖｏｌ．４"
 	},
 	"Dream Preview Vol. 5 (Japan)": {
 		"languages": ["Ja"],
@@ -1075,7 +1128,7 @@
 	"Dreamcast Express Vol. 4 (Japan) (Disc 1) (Trial Disk)": {
 		"languages": ["Ja"]
 	},
-	"Dreamcast Express Vol. 4 (Japan) (Disc 2) (Tokyo Game Show '99 Autumn - Special Disk)": {
+	"Dreamcast Express Vol. 4 (Japan) (Disc 2) (Tokyo Game Show'99 Autumn - Special Disk)": {
 		"languages": ["Ja"]
 	},
 	"Dreamcast Express Vol. 5 (Japan) (Disc 1) (Trial Disk)": {
@@ -1101,6 +1154,9 @@
 	},
 	"Dreamcast Promotion Disk (Japan)": {
 		"languages": ["Ja"]
+	},
+	"Dreamcast System-Disc 2 (Japan)": {
+		"languages": []
 	},
 	"Dreamcast VM Data-shuu (Japan)": {
 		"languages": ["Ja"],
@@ -1256,7 +1312,7 @@
 		"languages": ["En"]
 	},
 	"Dynamite Cop (Europe)": {
-		"languages": []
+		"languages": ["En"]
 	},
 	"Dynamite Cop! (USA)": {
 		"languages": ["En"]
@@ -1265,11 +1321,11 @@
 		"languages": ["Ja"],
 		"localName": "ダイナマイト刑事２"
 	},
-	"Dynamite Deka 2 (Japan) (Demo 1)": {
+	"Dynamite Deka 2 (Japan) (Taikenban) (610-7146)": {
 		"languages": ["Ja"],
 		"localName": "ダイナマイト刑事２"
 	},
-	"Dynamite Deka 2 (Japan) (Demo 2)": {
+	"Dynamite Deka 2 (Japan) (Taikenban) (610-7150)": {
 		"languages": ["Ja"],
 		"localName": "ダイナマイト刑事２"
 	},
@@ -1309,10 +1365,10 @@
 	},
 	"Eisei Meijin III - Game Creator Yoshimura Nobuhiro no Zunou (Japan)": {
 		"languages": ["Ja"],
-		"localName": "永世名人ＩＩＩ　ゲームクリエーター吉村信弘の頭脳"
+		"localName": "永世名人Ⅲ　ゲームクリエーター吉村信弘の頭脳"
 	},
-	"Elansar (Europe) (En,Fr,De,Es,It) (Unl)": {
-		"languages": ["De", "En", "Es", "Fr", "It"]
+	"Elansar (Europe) (En,Fr,De,Es) (Unl)": {
+		"languages": ["De", "En", "Es", "Fr"]
 	},
 	"Eldorado Gate Dai-1-kan (Japan)": {
 		"languages": ["Ja"],
@@ -1417,7 +1473,7 @@
 	},
 	"Ever 17 - The Out of Infinity (Japan)": {
 		"languages": ["Ja"],
-		"localName": "エバー・セブンティーン　－ｔｈｅ　ｏｕｔ　ｏｆ　ｉｎｆｉｎｉｔｙ－"
+		"localName": "エバー・セブンティーン　～ジ・アウトオブ・インフィニティ～"
 	},
 	"Ever 17 - The Out of Infinity - Premium Edition (Japan)": {
 		"languages": ["Ja"],
@@ -1472,6 +1528,9 @@
 	"F1 World Grand Prix II for Dreamcast (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
+	"F1 World Grand Prix II for Dreamcast (Europe) (En,Fr,De,Es,It) (Beta) (2000-07-26)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
 	"F1 World Grand Prix II for Dreamcast (Japan)": {
 		"languages": ["Ja"],
 		"localName": "Ｆ１　ワールド　グランプリ　ＩＩ　ｆｏｒ　Ｄｒｅａｍｃａｓｔ"
@@ -1481,6 +1540,10 @@
 		"localName": "Ｆ１ワールド　グランプリ　ＩＩ　ｆｏｒ　Ｄｒｅａｍｃａｓｔ"
 	},
 	"F1 World Grand Prix for Dreamcast (Japan)": {
+		"languages": ["Ja"],
+		"localName": "Ｆ１　ワールド　グランプリ　ｆｏｒ　Ｄｒｅａｍｃａｓｔ"
+	},
+	"F1 World Grand Prix for Dreamcast (Japan) (Rev A)": {
 		"languages": ["Ja"],
 		"localName": "Ｆ１　ワールド　グランプリ　ｆｏｒ　Ｄｒｅａｍｃａｓｔ"
 	},
@@ -1517,7 +1580,7 @@
 		"languages": ["De"]
 	},
 	"Fighting Force 2 (USA)": {
-		"languages": []
+		"languages": ["En"]
 	},
 	"Fighting Force 2 (USA) (Rev A)": {
 		"languages": ["En"]
@@ -1602,7 +1665,7 @@
 	"Fur Fighters (Europe) (En,Fr,De,Es)": {
 		"languages": ["De", "En", "Es", "Fr"]
 	},
-	"Fur Fighters (USA) (En,Fr,De,Es) (Rev B)": {
+	"Fur Fighters (USA) (En,Fr,De,Es)": {
 		"languages": ["De", "En", "Es", "Fr"]
 	},
 	"Fur Fighters + Dead or Alive 2 (Europe) (Demo)": {
@@ -1629,8 +1692,8 @@
 	"GameShark CDX (USA) (Unl) (Final Version)": {
 		"languages": ["En"]
 	},
-	"GameShark Lite Version 4.0 (USA) (Unl)": {
-		"languages": []
+	"GameShark Lite (USA) (Unl)": {
+		"languages": ["En"]
 	},
 	"GameShark Video Game Enhancer - Upgrade Disk (USA) (Unl)": {
 		"languages": ["En"]
@@ -1800,9 +1863,9 @@
 	"Grinch, The (USA) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
 	},
-	"Guilty Gear X (Japan) (Rev A)": {
+	"Guilty Gear X (Japan)": {
 		"languages": ["Ja"],
-		"localName": "ギルティ・ギア・ゼクス"
+		"localName": "ギルティギア　ゼクス"
 	},
 	"Guilty Gear X (Japan) (Taikenban)": {
 		"languages": ["Ja"],
@@ -2014,7 +2077,7 @@
 	"Incoming (USA)": {
 		"languages": ["En"]
 	},
-	"Incoming - Jinrui Saishuu Kessen (Japan)": {
+	"Incoming - Jinrui Saishuu Kessen (Japan) (Rev A)": {
 		"languages": ["Ja"],
 		"localName": "インカミング　人類最終決戦"
 	},
@@ -2063,7 +2126,7 @@
 		"languages": ["Ja"],
 		"localName": "Ｊリーグ・プロ・サッカー・クラブ・をつくろう！"
 	},
-	"J.League Pro Soccer Club o Tsukurou! Tokusei o Tanoshimi File Download Disc (Japan)": {
+	"J.League Pro Soccer Club o Tsukurou! Tokusei Otanoshimi File Download Disc (Japan)": {
 		"languages": ["Ja"],
 		"localName": "Ｊ．ＬＥＡＧＵＥプロサッカークラブをつくろう！特製お楽しみファイル　ダウンロードディスク"
 	},
@@ -2123,7 +2186,7 @@
 		"localName": "人生ゲーム　ｆｏｒ　Ｄｒｅａｍｃａｓｔ"
 	},
 	"Jissen Pachi-Slot Hisshouhou! @ VP@CHI - Kongdom (Japan)": {
-		"languages": [],
+		"languages": ["Ja"],
 		"localName": "実戦パチスロ必勝法！＠ＶＰＡＣＨＩ　～コングダム～"
 	},
 	"JoJo's Bizarre Adventure (Europe)": {
@@ -2231,7 +2294,11 @@
 		"languages": ["Ja"],
 		"localName": "君が望む永遠"
 	},
-	"Kindan no Pet - Seaman - Gasse Hakase no Jikken-tou (Japan) (2001-nen Taiouban) (Rev A)": {
+	"Kindan no Pet - Seaman - Gasse Hakase no Jikken-tou (Japan)": {
+		"languages": ["Ja"],
+		"localName": "禁断のペット　シーマン　～ガゼー博士の実験島～"
+	},
+	"Kindan no Pet - Seaman - Gasse Hakase no Jikken-tou (Japan) (2001-nen Taiouban)": {
 		"languages": ["Ja"],
 		"localName": "禁断のペット　シーマン　～ガゼー博士の実験島～"
 	},
@@ -2275,7 +2342,7 @@
 	},
 	"Kita e. White Illumination - Pure Songs and Pictures (Japan)": {
 		"languages": ["Ja"],
-		"localName": "北へ。Ｗｈｉｔｅ　Ｉｌｌｕｍｉｎａｔｉｏｎ　「ＰＵＲＥ　ＳＯＮＧＳ　ａｎｄ　ＰＩＣＴＵＲＥＳ」"
+		"localName": "「北へ。」Ｗｈｉｔｅ　Ｉｌｌｕｍｉｎａｔｉｏｎ　ＰＵＲＥ　ＳＯＮＧＳ　ａｎｄ　ＰＩＣＴＵＲＥＳ"
 	},
 	"Kitahei Gold (Japan)": {
 		"languages": ["Ja"],
@@ -2322,8 +2389,8 @@
 	"Last Hope - Pink Bullets (Europe) (Unl)": {
 		"languages": ["En"]
 	},
-	"Le Mans 24 Hours (Europe) (En,Fr,Es)": {
-		"languages": ["En", "Es", "Fr"]
+	"Le Mans 24 Hours (Europe) (En,Fr,De,Es,It)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Le Mans 24 Hours (Japan)": {
 		"languages": ["Ja"],
@@ -2388,7 +2455,7 @@
 	"MSR - Metropolis Street Racer (Europe) (En,Fr,De,Es) (Rev B)": {
 		"languages": ["De", "En", "Es", "Fr"]
 	},
-	"MSR - Metropolis Street Racer (USA) (Rev A)": {
+	"MSR - Metropolis Street Racer (USA)": {
 		"languages": ["En"]
 	},
 	"MSR Opel Challenge (Europe) (Beta) (1999-05-19)": {
@@ -2433,7 +2500,7 @@
 		"languages": ["Ja"],
 		"localName": "麻雀大会Ⅱ　Ｓｐｅｃｉａｌ"
 	},
-	"Majo no Ocha-kai (Japan)": {
+	"Majo no Ochakai (Japan)": {
 		"languages": ["Ja"],
 		"localName": "魔女のお茶会"
 	},
@@ -2645,7 +2712,11 @@
 	"Mortal Kombat Gold (USA) (Rev 1)": {
 		"languages": ["En"]
 	},
-	"Motto Pro Yakyuu Team o Tsukurou! (Japan)": {
+	"Motto Pro Yakyuu Team o Tsukurou! (Japan) (Rev A)": {
+		"languages": ["Ja"],
+		"localName": "もっとプロ野球チームをつくろう！"
+	},
+	"Motto Pro Yakyuu Team o Tsukurou! (Japan) (Rev B)": {
 		"languages": ["Ja"],
 		"localName": "もっとプロ野球チームをつくろう！"
 	},
@@ -2720,7 +2791,7 @@
 		"languages": ["En"]
 	},
 	"NFL 2K (Japan)": {
-		"languages": [],
+		"languages": ["Ja"],
 		"localName": "ＮＦＬ　２Ｋ"
 	},
 	"NFL 2K (USA)": {
@@ -2730,7 +2801,7 @@
 		"languages": ["En"],
 		"localName": "ＮＦＬ　２Ｋ１"
 	},
-	"NFL 2K1 (USA)": {
+	"NFL 2K1 (USA, Canada)": {
 		"languages": ["En"]
 	},
 	"NFL 2K2 (Japan)": {
@@ -2795,7 +2866,7 @@
 	"Neo XYX (Europe) (Unl)": {
 		"languages": ["En"]
 	},
-	"Neppachi - 10-ren Chan de Las Vegas Ryokou (Japan) (Rev A)": {
+	"Neppachi - 10-renchan de Las Vegas Ryokou (Japan) (Rev A)": {
 		"languages": ["Ja"],
 		"localName": "ネッパチ　～１０連チャンでラスベガス旅行～"
 	},
@@ -2809,7 +2880,7 @@
 	},
 	"Neppachi IV - CR Aa!! Hana no Ouendan 3 (Japan)": {
 		"languages": ["Ja"],
-		"localName": "ネッパチＩＶ　～ＣＲ嗚呼！！花の応援団３～"
+		"localName": "ネッパチⅣ　～ＣＲ嗚呼！！花の応援団３～"
 	},
 	"Neppachi V - CR Monster House (Japan)": {
 		"languages": ["Ja"],
@@ -2863,7 +2934,7 @@
 		"languages": ["Ja"],
 		"localName": "ネバーセブン　～ジ・エンド・オブ・インフィニティ～"
 	},
-	"Newpowered Generation 1 (UK)": {
+	"Newpowered Generation 1 (UK) (Unl)": {
 		"languages": []
 	},
 	"Next Tetris, The (Europe)": {
@@ -2885,10 +2956,6 @@
 	"Nijuuei (Japan)": {
 		"languages": ["Ja"],
 		"localName": "二重影"
-	},
-	"Nishikaze no Rhapsody - The Rhapsody of Zephyr (Japan)": {
-		"languages": ["Ja"],
-		"localName": "西風の狂詩曲　－Ｔｈｅ　Ｒｈａｐｓｏｄｙ　ｏｆ　Ｚｅｐｈｙｒ－"
 	},
 	"Nobunaga no Yabou - Reppuuden (Japan)": {
 		"languages": ["Ja"],
@@ -2954,11 +3021,11 @@
 	"Ooga Booga (USA)": {
 		"languages": ["En"]
 	},
-	"Oogami Ichirou Funtou-ki - Sakura Taisen Kayou Show Beni Tokage yori (Japan) (Disc 1)": {
+	"Oogami Ichirou Funtouki - Sakura Taisen Kayou Show Beni Tokage yori (Japan) (Disc 1)": {
 		"languages": ["Ja"],
 		"localName": "大神一郎奮闘記　～サクラ大戦歌謡ショウ「紅蜥蜴」より～"
 	},
-	"Oogami Ichirou Funtou-ki - Sakura Taisen Kayou Show Beni Tokage yori (Japan) (Disc 2)": {
+	"Oogami Ichirou Funtouki - Sakura Taisen Kayou Show Beni Tokage yori (Japan) (Disc 2)": {
 		"languages": ["Ja"],
 		"localName": "大神一郎奮闘記　～サクラ大戦歌謡ショウ「紅蜥蜴」より～"
 	},
@@ -2966,8 +3033,8 @@
 		"languages": ["Ja"],
 		"localName": "オレンジポケット　－コルネット－"
 	},
-	"Orion's Puzzle Collection (Europe) (Unl)": {
-		"languages": []
+	"Orion's Puzzle Collection (Europe) (En,Fr) (Unl)": {
+		"languages": ["En", "Fr"]
 	},
 	"Ouka Houshin - Ouka Sakishi Toki (Japan)": {
 		"languages": ["Ja"],
@@ -3016,6 +3083,10 @@
 	"PenPen (Europe) (En,Fr,De,Es,It,Nl)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
 	},
+	"PenPen TriIcelon (Japan)": {
+		"languages": ["Ja"],
+		"localName": "ペンペン　トライアイスロン"
+	},
 	"PenPen TriIcelon (Japan) (Rev A)": {
 		"languages": ["Ja"],
 		"localName": "ペンペン　トライアイスロン"
@@ -3025,13 +3096,13 @@
 		"localName": "ペンペン　トライアイスロン"
 	},
 	"PenPen TriIcelon (Japan) (Tentou Taikenban)": {
-		"languages": [],
+		"languages": ["Ja"],
 		"localName": "ペンペン　トライアイスロン"
 	},
 	"PenPen TriIcelon (USA)": {
 		"languages": ["En"]
 	},
-	"Phantasy Star Online (Europe) (En,Ja,Fr,De,Es) (Rev 1)": {
+	"Phantasy Star Online (Europe) (En,Ja,Fr,De,Es)": {
 		"languages": ["De", "En", "Es", "Fr", "Ja"]
 	},
 	"Phantasy Star Online (Japan) (Demo)": {
@@ -3046,7 +3117,7 @@
 		"languages": ["Ja"],
 		"localName": "ファンタシースターオンライン"
 	},
-	"Phantasy Star Online (USA) (En,Ja,Fr,De,Es) (Rev B)": {
+	"Phantasy Star Online (USA) (En,Ja,Fr,De,Es)": {
 		"languages": ["De", "En", "Es", "Fr", "Ja"]
 	},
 	"Phantasy Star Online Ver. 2 (Europe) (En,Ja,Fr,De,Es)": {
@@ -3059,8 +3130,8 @@
 	"Phantasy Star Online Ver. 2 (USA) (En,Ja,Fr,De,Es)": {
 		"languages": ["De", "En", "Es", "Fr", "Ja"]
 	},
-	"Philia - The Sequel to Elansar (Europe) (En,Fr,De,Es,It) (Unl)": {
-		"languages": ["De", "En", "Es", "Fr", "It"]
+	"Philia - The Sequel to Elansar (Europe) (En,Fr) (Unl)": {
+		"languages": ["En", "Fr"]
 	},
 	"Pia Carrot e Youkoso!! 2.5 (Japan) (Disc 1) (Pia Carrot e Youkoso!! 2)": {
 		"languages": ["Ja"],
@@ -3208,7 +3279,7 @@
 	"Pro Pinball Trilogy (Europe)": {
 		"languages": ["En"]
 	},
-	"Pro Yakyuu Team de Asobou Net! (Japan) (Rev A)": {
+	"Pro Yakyuu Team de Asobou Net! (Japan)": {
 		"languages": ["Ja"],
 		"localName": "プロ野球チームであそぼうネット！"
 	},
@@ -3318,7 +3389,7 @@
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Racing Simulation 2 - Monaco Grand Prix On-Line (Europe)": {
-		"languages": []
+		"languages": ["En"]
 	},
 	"Radirgy (Japan)": {
 		"languages": ["Ja"],
@@ -3375,7 +3446,7 @@
 	"Ready 2 Rumble Boxing (USA) (Demo)": {
 		"languages": ["En"]
 	},
-	"Ready 2 Rumble Boxing (USA) (RE)": {
+	"Ready 2 Rumble Boxing (USA) (Rerelease)": {
 		"languages": ["En"]
 	},
 	"Ready 2 Rumble Boxing - Round 2 (Europe) (Beta) (2000-10-03)": {
@@ -3423,6 +3494,10 @@
 		"languages": ["Ja"],
 		"localName": "ロードス島戦記　邪神降臨"
 	},
+	"Record of Lodoss War - The Advent of Cardice (Japan) (Rev A)": {
+		"languages": ["Ja"],
+		"localName": "ロードス島戦記　邪神降臨"
+	},
 	"Record of Lodoss War - The Advent of Cardice (Japan) (Taikenban)": {
 		"languages": [],
 		"localName": "ロードス島戦記　邪神降臨"
@@ -3451,7 +3526,7 @@
 		"languages": ["Ja"],
 		"localName": "恋愛ＣＨＵ！　ハッピーパーフェクト"
 	},
-	"Rent a Hero No.1 (Japan)": {
+	"Rent a Hero No. 1 (Japan)": {
 		"languages": ["Ja"],
 		"localName": "レンタヒーローＮｏ．１"
 	},
@@ -3523,6 +3598,10 @@
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja"],
 		"localName": "レズ"
 	},
+	"Rhapsody of Zephyr, The (Japan)": {
+		"languages": ["Ja"],
+		"localName": "西風の狂詩曲"
+	},
 	"Ring, The (Japan)": {
 		"languages": [],
 		"localName": "リング"
@@ -3572,6 +3651,9 @@
 	"Rush Rush Rally Reloaded (Europe) (En,Fr,De,Es,It,Nl) (Unl)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
 	},
+	"Rush Rush Rally Reloaded (Europe) (En,Fr,De,Es,It,Nl) (Unl) (Rerelease)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
+	},
 	"Rush Rush Rally Reloaded (UK) (En,Fr,De,Es,It,Nl) (Unl) (Sample)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
 	},
@@ -3586,15 +3668,15 @@
 		"languages": ["Ja"],
 		"localName": "セガガガ"
 	},
-	"Saka Tsuku Tokudai-gou - J.League Pro Soccer Club o Tsukurou! (Japan)": {
+	"Sakatsuku Tokudai-gou - J.League Pro Soccer Club o Tsukurou! (Japan)": {
 		"languages": ["Ja"],
 		"localName": "サカつく特大号　Ｊ．ＬＥＡＧＵＥ　プロサッカークラブをつくろう！"
 	},
-	"Saka Tsuku Tokudai-gou - J.League Pro Soccer Club o Tsukurou! (Japan) (Rev A)": {
+	"Sakatsuku Tokudai-gou - J.League Pro Soccer Club o Tsukurou! (Japan) (Rev A)": {
 		"languages": ["Ja"],
 		"localName": "サカつく特大号　Ｊ．ＬＥＡＧＵＥ　プロサッカークラブをつくろう！"
 	},
-	"Saka Tsuku Tokudai-gou 2 - J.League Pro Soccer Club o Tsukurou! (Japan)": {
+	"Sakatsuku Tokudai-gou 2 - J.League Pro Soccer Club o Tsukurou! (Japan)": {
 		"languages": ["Ja"],
 		"localName": "サカつく特大号２　Ｊ．ＬＥＡＧＵＥ　プロサッカークラブをつくろう！"
 	},
@@ -3646,10 +3728,6 @@
 		"languages": ["Ja"],
 		"localName": "サクラ大戦２　～君、死にたもうことなかれ～"
 	},
-	"Sakura Taisen 3 - Les Chattes Noires (Japan)": {
-		"languages": ["Ja"],
-		"localName": "サクラ大戦３　～ＬＥＳ　ＣＨＡＴＴＥＳ　ＮＯＩＲＥＳ～"
-	},
 	"Sakura Taisen 3 - Paris wa Moeteiru ka (Japan) (Disc 1)": {
 		"languages": ["Ja"],
 		"localName": "サクラ大戦３　～巴里は燃えているか～"
@@ -3668,7 +3746,11 @@
 	},
 	"Sakura Taisen 3 - Paris wa Moeteiru ka - Drama Download Disc (Japan)": {
 		"languages": ["Ja"],
-		"localName": "サクラ大戦３　～巴里は燃えているか～　ドラマ・ダウンロード・ディスク"
+		"localName": "サクラ大戦３　～巴里は燃えているか～　ドラマダウンロードディスク"
+	},
+	"Sakura Taisen 3 - Paris wa Moeteiru ka - Preview Disc (Japan)": {
+		"languages": ["Ja"],
+		"localName": "サクラ大戦３　～巴里は燃えているか～　プレビュウディスク"
 	},
 	"Sakura Taisen 3 - Paris wa Moeteiru ka - Sakura Taisen 3 Movie Disc (Japan)": {
 		"languages": ["Ja"],
@@ -3696,7 +3778,7 @@
 	},
 	"Sakura Taisen Online - Paris no Yuuga na Hibi (Japan)": {
 		"languages": ["Ja"],
-		"localName": "サクラ大戦オンライン　～巴里の優雅な日々～"
+		"localName": "サクラ大戦　オンライン　～巴里の優雅な日々～"
 	},
 	"Sakura Taisen Online - Teito no Nagai Hibi (Japan)": {
 		"languages": ["Ja"],
@@ -3787,7 +3869,7 @@
 	},
 	"Sega Rally 2 (Japan)": {
 		"languages": ["Ja"],
-		"localName": "セガ・ラリー２"
+		"localName": "セガラリー２"
 	},
 	"Sega Rally 2 (Japan) (Alt)": {
 		"languages": ["Ja"],
@@ -3907,25 +3989,25 @@
 	"Shenmue (USA) (Shenmue Passport)": {
 		"languages": ["En"]
 	},
-	"Shenmue - Ichishou Yokosuka (Japan) (Disc 1)": {
+	"Shenmue - Isshou Yokosuka (Japan) (Disc 1)": {
 		"languages": ["Ja"],
 		"localName": "シェンムー　一章　横須賀"
 	},
-	"Shenmue - Ichishou Yokosuka (Japan) (Disc 2)": {
+	"Shenmue - Isshou Yokosuka (Japan) (Disc 2)": {
 		"languages": ["Ja"],
 		"localName": "シェンムー　一章　横須賀"
 	},
-	"Shenmue - Ichishou Yokosuka (Japan) (Disc 3)": {
+	"Shenmue - Isshou Yokosuka (Japan) (Disc 3)": {
 		"languages": ["Ja"],
 		"localName": "シェンムー　一章　横須賀"
 	},
-	"Shenmue - Ichishou Yokosuka (Japan) (Shenmue Passport) (Rev C)": {
+	"Shenmue - Isshou Yokosuka (Japan) (Shenmue Passport) (Rev C)": {
 		"languages": ["Ja"],
-		"localName": "シェンムー　一章　横須賀　（シェンムーパスポート）"
+		"localName": "シェンムー　一章　横須賀（シェンムーパスポート）"
 	},
-	"Shenmue - Ichishou Yokosuka (Japan) (Shenmue Passport) (Rev D)": {
+	"Shenmue - Isshou Yokosuka (Japan) (Shenmue Passport) (Rev D)": {
 		"languages": ["Ja"],
-		"localName": "シェンムー　一章　横須賀　（シェンムーパスポート）"
+		"localName": "シェンムー　一章　横須賀（シェンムーパスポート）"
 	},
 	"Shenmue II (Europe) (En,Fr,De,Es) (Disc 1)": {
 		"languages": ["De", "En", "Es", "Fr"]
@@ -3941,19 +4023,19 @@
 	},
 	"Shenmue II (Japan) (Disc 1)": {
 		"languages": ["Ja"],
-		"localName": "シェンムーＩＩ"
+		"localName": "シェンムーⅡ"
 	},
 	"Shenmue II (Japan) (Disc 2)": {
 		"languages": ["Ja"],
-		"localName": "シェンムーＩＩ"
+		"localName": "シェンムーⅡ"
 	},
 	"Shenmue II (Japan) (Disc 3)": {
 		"languages": ["Ja"],
-		"localName": "シェンムーＩＩ"
+		"localName": "シェンムーⅡ"
 	},
 	"Shenmue II (Japan) (Disc 4)": {
 		"languages": ["Ja"],
-		"localName": "シェンムーＩＩ"
+		"localName": "シェンムーⅡ"
 	},
 	"Shikigami no Shiro II (Japan)": {
 		"languages": ["Ja"],
@@ -4080,10 +4162,6 @@
 	},
 	"Slave Zero (USA) (Rev A)": {
 		"languages": ["En"]
-	},
-	"Snappers - 09 Chairs (Japan)": {
-		"languages": ["Ja"],
-		"localName": "スナッパーズ　「ナイン・チェアーズ」"
 	},
 	"SnoCross Championship Racing (Europe) (En,Fr,De)": {
 		"languages": ["De", "En", "Fr"]
@@ -4227,7 +4305,7 @@
 	},
 	"Space Channel 5 Theme Music - Mexican Flyer (Japan)": {
 		"languages": ["Ja"],
-		"localName": "スペース・チャンネル５"
+		"localName": "スペース　チャンネル　５"
 	},
 	"Spawn - In the Demon's Hand (Europe)": {
 		"languages": []
@@ -4461,7 +4539,7 @@
 	},
 	"Super Street Fighter II X for Matching Service (Japan)": {
 		"languages": ["Ja"],
-		"localName": "スーパー・ストリート・ファイターⅡＸ　フォー　マッチング　サービス"
+		"localName": "スーパーストリートファイターⅡＸ　フォー　マッチング　サービス"
 	},
 	"Surf Rocket Racers (Europe)": {
 		"languages": []
@@ -4561,7 +4639,7 @@
 	},
 	"Tentama - 1st Sunny Side (Japan)": {
 		"languages": ["Ja"],
-		"localName": "てんたま　－１ｓｔ　Ｓｕｎｎｙ　Ｓｉｄｅ－"
+		"localName": "てんたま　－ファーストサニーサイド－"
 	},
 	"Test Drive 6 (USA)": {
 		"languages": ["En"]
@@ -4725,7 +4803,7 @@
 	},
 	"Triggerheart Exelica (Japan)": {
 		"languages": ["Ja"],
-		"localName": "トリガーハート・エグゼリカ"
+		"localName": "トリガーハート　エグゼリカ"
 	},
 	"Trizeal (Japan)": {
 		"languages": ["Ja"],
@@ -4832,7 +4910,7 @@
 	},
 	"Vampire Chronicle for Matching Service (Japan)": {
 		"languages": ["Ja"],
-		"localName": "ヴァンパイア　クロニクル　フォー　マッチングサービス"
+		"localName": "ヴァンパイア　クロニクル　フォー　マッチング　サービス"
 	},
 	"Vanishing Point (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -4872,7 +4950,7 @@
 		"languages": ["En"]
 	},
 	"Virtua Fighter 3tb (Japan)": {
-		"languages": ["Ja"],
+		"languages": ["En"],
 		"localName": "バーチャファイター３ｔｂ"
 	},
 	"Virtua Fighter 3tb (Japan) (Rev 1)": {
@@ -4882,10 +4960,15 @@
 	"Virtua Fighter 3tb (USA)": {
 		"languages": ["En"]
 	},
-	"Virtua Fighter 4 Passport (Japan)": {
-		"languages": ["Ja"]
+	"Virtua Fighter 4 Passport - VF.NET (Japan)": {
+		"languages": ["Ja"],
+		"localName": "バーチャファイター４　パスポート　ブイエフネット"
 	},
-	"Virtua Fighter History & VF4 (Japan)": {
+	"Virtua Fighter History-VF4 (Japan)": {
+		"languages": ["Ja"],
+		"localName": "バーチャ・ファイターＨＩＳＴＯＲＹ　／　ＶＦ４"
+	},
+	"Virtua Fighter History-VF4 (Japan) (Alt)": {
 		"languages": ["Ja"],
 		"localName": "バーチャ・ファイターＨＩＳＴＯＲＹ　／　ＶＦ４"
 	},
@@ -4922,6 +5005,9 @@
 		"localName": "ビジュアルパーク"
 	},
 	"Volgarr the Viking (USA, Japan) (Unl)": {
+		"languages": ["En"]
+	},
+	"Volgarr the Viking (USA, Japan) (Unl) (Rev 1)": {
 		"languages": ["En"]
 	},
 	"WWF Attitude (Europe)": {
@@ -5097,12 +5183,12 @@
 		"languages": [],
 		"localName": "悠久幻想曲３　パーペチュアルブルー"
 	},
-	"Zero Gunner 2 (Japan) (En,Ja)": {
-		"languages": ["En", "Ja"],
+	"Zero Gunner 2 (Japan)": {
+		"languages": ["Ja"],
 		"localName": "ゼロガンナー２"
 	},
-	"Zombie Revenge (Europe) (En,Ja)": {
-		"languages": ["En", "Ja"]
+	"Zombie Revenge (Europe) (En,Ja,Fr,De,Es)": {
+		"languages": ["De", "En", "Es", "Fr", "Ja"]
 	},
 	"Zombie Revenge (Japan)": {
 		"languages": ["Ja"],

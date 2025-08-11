@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Arcade - Konami - M2 (Redump)",
-		"lastUpdated": "09 January 2023",
+		"lastUpdated": "03 August 2025",
 		"minimumVersion": "2.00"
 	},
 
@@ -16,8 +16,9 @@
 		{
 			"group": "Total Vice",
 			"titles": [
+				{"searchTerm": "Total Vice (AAB)"},
 				{"searchTerm": "Total Vice (EAD)"},
-				{"searchTerm": "Total Vice (AAB)", "priority": 2}
+				{"searchTerm": "Total Vice (JAD)"}
 			]
 		}
 	]

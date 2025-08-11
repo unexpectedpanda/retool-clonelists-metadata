@@ -106,7 +106,7 @@
 		"languages": ["Ja"],
 		"localName": "バステッド"
 	},
-	"Battle Shanghai - Dragon's Eye ~ Shanghai III - Dragon's Eye (Japan)": {
+	"Battle Shanghai - Dragon's Eye (Japan)": {
 		"languages": ["Ja"],
 		"localName": "バトル上海　～ドラゴンズ・アイ～"
 	},
@@ -150,7 +150,7 @@
 	},
 	"Bomberman '94 (Japan) (Demo)": {
 		"languages": ["Ja"],
-		"localName": "ボンバーマン’９４　体験版"
+		"localName": "ボンバーマン’９４"
 	},
 	"Bomberman - Panic Bomber (Japan) (FAAT)": {
 		"languages": ["Ja"],
@@ -233,10 +233,6 @@
 	"Camp California (USA)": {
 		"languages": ["En"]
 	},
-	"Campaign Version - Daisenryaku II (Japan)": {
-		"languages": ["Ja"],
-		"localName": "キャンペーン版　大戦略Ⅱ"
-	},
 	"Cardangels (Japan)": {
 		"languages": ["Ja"],
 		"localName": "カードエンジェルス"
@@ -303,6 +299,10 @@
 	"Daisenpuu Custom (Japan)": {
 		"languages": ["En"],
 		"localName": "大旋風　カスタム"
+	},
+	"Daisenryaku II - Campaign Version (Japan)": {
+		"languages": ["Ja"],
+		"localName": "キャンペーン版　大戦略Ⅱ"
 	},
 	"Davis Cup Tennis, The (Japan)": {
 		"languages": ["Ja"],
@@ -420,6 +420,9 @@
 	"Dungeon Master - Theron's Quest (USA)": {
 		"languages": ["En"]
 	},
+	"Dungeon Master - Theron's Quest (USA) (RE)": {
+		"languages": ["En"]
+	},
 	"Duo Comic - Bakuretsu Hunter (Japan)": {
 		"languages": ["Ja"],
 		"localName": "ＤＵＯ　ＣＯＭＩＣ　爆れつハンター"
@@ -480,6 +483,9 @@
 	"FX Unit Yuki - The Henshin Engine (USA) (Unl)": {
 		"languages": []
 	},
+	"FX Unit Yuki - The Henshin Engine (USA) (Unl) (Demo)": {
+		"languages": []
+	},
 	"Faceball (Japan)": {
 		"languages": ["En"],
 		"localName": "フェイスボール"
@@ -492,8 +498,8 @@
 		"languages": ["Ja"],
 		"localName": "迷宮のエルフィーネ"
 	},
-	"Fantastic Night Dreams - Cotton (Japan) (En,Ja)": {
-		"languages": ["En", "Ja"],
+	"Fantastic Night Dreams - Cotton (Japan) (En,Ja,Zh)": {
+		"languages": ["En", "Ja", "Zh"],
 		"localName": "コットン"
 	},
 	"Fantastic Night Dreams - Cotton (USA)": {
@@ -849,6 +855,9 @@
 		"languages": ["En"],
 		"localName": "ジム・パワー"
 	},
+	"Jim Power in Mutant Planet (USA) (Unl)": {
+		"languages": ["En"]
+	},
 	"John Madden Duo CD Football (USA) (RE)": {
 		"languages": ["En"]
 	},
@@ -976,6 +985,10 @@
 		"localName": "レギオン"
 	},
 	"Legion (Japan) (Rev 4)": {
+		"languages": ["En"],
+		"localName": "レギオン"
+	},
+	"Legion (Japan) (Rev 4) (Alt)": {
 		"languages": ["En"],
 		"localName": "レギオン"
 	},
@@ -1109,6 +1122,9 @@
 	"Meteor Blaster DX (USA) (Unl)": {
 		"languages": ["En"]
 	},
+	"Meteor Blaster DX (USA) (Unl) (Alt)": {
+		"languages": ["En"]
+	},
 	"Meteor Blaster DX (USA) (Unl) (Rerelease)": {
 		"languages": ["En"]
 	},
@@ -1124,7 +1140,7 @@
 		"languages": ["En"]
 	},
 	"Minesweeper (Japan)": {
-		"languages": ["Ja"],
+		"languages": ["En"],
 		"localName": "マインスウィーパー"
 	},
 	"Mirai Shounen Conan (Japan)": {
@@ -1603,12 +1619,12 @@
 	"Sherlock Holmes - Consulting Detective (USA)": {
 		"languages": ["En"]
 	},
-	"Sherlock Holmes - Consulting Detective - Volume 2 (USA)": {
-		"languages": ["En"]
-	},
-	"Sherlock Holmes - Consulting Detective Vol. II (Japan)": {
+	"Sherlock Holmes - Consulting Detective - Vol. II (Japan)": {
 		"languages": ["Ja"],
 		"localName": "シャーロック・ホームズの探偵講座Ⅱ"
+	},
+	"Sherlock Holmes - Consulting Detective - Vol. II (USA)": {
+		"languages": ["En"]
 	},
 	"Shiawase Usagi - Nureta Bishoujo - Hajimete Nanoni... (Japan) (Unl)": {
 		"languages": ["Ja"],
@@ -1618,7 +1634,11 @@
 		"languages": ["Ja"],
 		"localName": "しあわせうさぎⅡ　とらわれうさぎセーラーＺ"
 	},
-	"Shin Megami Tensei (Japan)": {
+	"Shin Megami Tensei (Japan) (Rev 1)": {
+		"languages": ["Ja"],
+		"localName": "真・女神転生"
+	},
+	"Shin Megami Tensei (Japan) (Rev 2)": {
 		"languages": ["Ja"],
 		"localName": "真・女神転生"
 	},
@@ -1683,7 +1703,7 @@
 	},
 	"Sotsugyou - Graduation (Japan)": {
 		"languages": ["Ja"],
-		"localName": "卒業　～グラデュエーション～"
+		"localName": "卒業　グラデュエーション"
 	},
 	"Sotsugyou - Graduation (Japan) (Rev 1)": {
 		"languages": ["Ja"],
@@ -1813,7 +1833,7 @@
 	},
 	"Super Real Mahjong Special - Miki Kasumi Shouko no Omoide yori (Japan)": {
 		"languages": ["Ja"],
-		"localName": "スーパー・リアル麻雀スペシャル　～ミキ・カスミ・ショウコの思い出より～"
+		"localName": "スーパーリアル麻雀スペシャル　～ミキ・カスミ・ショウコの思い出より～"
 	},
 	"Super Schwarzschild (Japan)": {
 		"languages": ["Ja"],
@@ -1865,9 +1885,9 @@
 		"languages": ["Ja"],
 		"localName": "天地を喰らう"
 	},
-	"Tengai Makyou - Deden no Kabuki-den (Japan)": {
+	"Tengai Makyou - Deden no Den (Japan)": {
 		"languages": ["Ja"],
-		"localName": "天外魔境　電々のカブキ伝"
+		"localName": "天外魔境　電々の伝"
 	},
 	"Tenshi no Uta (Japan)": {
 		"languages": ["Ja"],
@@ -1996,7 +2016,7 @@
 	},
 	"Where in the World Is Carmen Sandiego (Japan) (En,Ja)": {
 		"languages": ["En", "Ja"],
-		"localName": "カルメン・サンディエゴを追え！　「世界編」"
+		"localName": "カルメン・サンディエゴを追え！世界編"
 	},
 	"Winds of Thunder (Japan)": {
 		"languages": ["Ja"],
@@ -2097,7 +2117,7 @@
 	},
 	"Yuu Yuu Hakusho - Yami Shoubu!! Ankoku Bujutsu-kai (Japan)": {
 		"languages": ["Ja"],
-		"localName": "幽・遊・白書　闇勝負！！暗黒武術会"
+		"localName": "幽☆遊☆白書　闇勝負！！暗黒武術会"
 	},
 	"Zan - Kagerou no Toki (Japan)": {
 		"languages": ["Ja"],

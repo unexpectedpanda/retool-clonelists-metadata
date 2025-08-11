@@ -5,8 +5,50 @@
 		"minimumVersion": "2.00"
 	},
 
-	"mias": [
-		"Code of Joker (Japan) (Rev C)",
-		"Code of Joker (No. 2) (Japan) (Rev F)"
+	"variants": [
+		{
+			"group": "Code of Joker",
+			"titles": [
+				{"searchTerm": "Code of Joker (No. 2)"}
+			],
+			"supersets": [
+				{"searchTerm": "Code of Joker - The Agents (No. 2)"},
+				{"searchTerm": "Code of Joker S", "priority": 2}
+			]
+		},
+		{
+			"group": "Maimai (No. 1)",
+			"titles": [
+				{"searchTerm": "Maimai"}
+			],
+			"supersets": [
+				{"searchTerm": "Maimai Pink Plus (No. 1)"},
+				{"searchTerm": "Maimai Pink (No. 1)"},
+				{"searchTerm": "Maimai Orange Plus (No. 1)"},
+				{"searchTerm": "Maimai Orange (No. 1)"},
+				{"searchTerm": "Maimai Green (No. 1)"},
+				{"searchTerm": "Maimai Plus", "priority": 2}
+			]
+		},
+		{
+			"group": "Maimai (No. 2)",
+			"supersets": [
+				{"searchTerm": "Maimai Pink Plus (No. 2)"},
+				{"searchTerm": "Maimai Pink (No. 2)"},
+				{"searchTerm": "Maimai Orange Plus (No. 2)"},
+				{"searchTerm": "Maimai Orange (No. 2)"},
+				{"searchTerm": "Maimai Green (No. 2)"},
+				{"searchTerm": "Maimai Plus", "priority": 2}
+			]
+		},
+		{
+			"group": "Maimai (No. 3)",
+			"supersets": [
+				{"searchTerm": "Maimai Pink Plus (No. 3)"},
+				{"searchTerm": "Maimai Pink (No. 3)"},
+				{"searchTerm": "Maimai Orange Plus (No. 3)"},
+				{"searchTerm": "Maimai Plus", "priority": 2}
+			]
+		}
 	]
 }

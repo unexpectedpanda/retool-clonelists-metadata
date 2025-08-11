@@ -103,7 +103,8 @@
 			],
 			"compilations": [
 				{"searchTerm": "Asder - 20 in 1"},
-				{"searchTerm": "Caltron - 6 in 1"}
+				{"searchTerm": "Caltron - 6 in 1"},
+				{"searchTerm": "HES 6-Pak - Real Player's Pak"}
 			]
 		},
 		{
@@ -360,12 +361,6 @@
 			"group": "Banana Prince",
 			"titles": [
 				{"searchTerm": "Banana Prince"},
-				{"searchTerm": "Bananan Ouji no Daibouken"}
-			]
-		},
-		{
-			"group": "Bananan Ouji no Daibouken",
-			"titles": [
 				{"searchTerm": "Bananan Ouji no Daibouken"},
 				{"searchTerm": "Bananan Ouji no Daibouken (S-P6)", "priority": 2}
 			]
@@ -385,7 +380,8 @@
 			],
 			"compilations": [
 				{"searchTerm": "Asder - 20 in 1"},
-				{"searchTerm": "Caltron - 6 in 1"}
+				{"searchTerm": "Caltron - 6 in 1"},
+				{"searchTerm": "HES 6-Pak - Real Player's Pak"}
 			]
 		},
 		{
@@ -547,15 +543,6 @@
 			]
 		},
 		{
-			"group": "Bingo",
-			"titles": [
-				{"searchTerm": "Bingo", "priority": 3}
-			],
-			"compilations": [
-				{"searchTerm": "Asder - 20 in 1"}
-			]
-		},
-		{
 			"group": "Bingo 75",
 			"titles": [
 				{"searchTerm": "Bingo 75"},
@@ -694,7 +681,8 @@
 			],
 			"compilations": [
 				{"searchTerm": "Asder - 20 in 1"},
-				{"searchTerm": "Caltron - 6 in 1"}
+				{"searchTerm": "Caltron - 6 in 1"},
+				{"searchTerm": "HES 6-Pak - Real Player's Pak"}
 			]
 		},
 		{
@@ -746,13 +734,6 @@
 			],
 			"supersets": [
 				{"searchTerm": "cajoNES DELUXE! (Music Program)"}
-			]
-		},
-		{
-			"group": "Caltron - 6 in 1",
-			"titles": [
-				{"searchTerm": "Caltron - 6 in 1"},
-				{"searchTerm": "HES 6-Pak - Real Player's Pak"}
 			]
 		},
 		{
@@ -1095,7 +1076,8 @@
 			],
 			"compilations": [
 				{"searchTerm": "Asder - 20 in 1"},
-				{"searchTerm": "Caltron - 6 in 1"}
+				{"searchTerm": "Caltron - 6 in 1"},
+				{"searchTerm": "HES 6-Pak - Real Player's Pak"}
 			]
 		},
 		{
@@ -2458,7 +2440,7 @@
 			"group": "Jungle Book, The",
 			"titles": [
 				{"searchTerm": "Jungle Book, The"},
-				{"searchTerm": "Lion King, The.*?\\(Pirate\\)", "nameType": "regex", "priority": 2}
+				{"searchTerm": "Lion King, The (1995) (Pirate)", "nameType": "regionFree", "priority": 2}
 			]
 		},
 		{
@@ -2955,7 +2937,8 @@
 			],
 			"compilations": [
 				{"searchTerm": "Asder - 20 in 1"},
-				{"searchTerm": "Caltron - 6 in 1"}
+				{"searchTerm": "Caltron - 6 in 1"},
+				{"searchTerm": "HES 6-Pak - Real Player's Pak"}
 			]
 		},
 		{
@@ -3736,6 +3719,13 @@
 			]
 		},
 		{
+			"group": "PLOID",
+			"titles": [
+				{"searchTerm": "PLOID"},
+				{"searchTerm": "PLOID (vX)", "priority": 2}
+			]
+		},
+		{
 			"group": "Pocahontas",
 			"titles": [
 				{
@@ -3820,7 +3810,8 @@
 			],
 			"compilations": [
 				{"searchTerm": "Asder - 20 in 1"},
-				{"searchTerm": "Caltron - 6 in 1"}
+				{"searchTerm": "Caltron - 6 in 1"},
+				{"searchTerm": "HES 6-Pak - Real Player's Pak"}
 			]
 		},
 		{
@@ -4358,7 +4349,7 @@
 			"titles": [
 				{"searchTerm": "Shaonian Youxia - Guangming Zhi Shen (Young Chivalry)", "localNames": {"chinese (simplified)": "少年游侠　－　光明之神"}},
 				{"searchTerm": "Shaonian Youxia - Guangming Zhi Shen (Young Chivalry) (FS308)", "priority": 2, "localNames": {"chinese (simplified)": "少年游侠　－　光明之神"}},
-				{"searchTerm": "Jianxia Qingyuan", "priority": 3}
+				{"searchTerm": "Jianxia Qingyuan (Coolboy) (Unl)", "priority": 3, "nameType": "regionFree"}
 			]
 		},
 		{
@@ -4880,7 +4871,15 @@
 		{
 			"group": "Super Mario Bros. 2",
 			"titles": [
-				{"searchTerm": "Super Mario Bros. 2"},
+				{
+					"searchTerm": "Super Mario Bros. 2",
+					"filters": [
+                        {
+                            "conditions": {"matchString": "\\(Pirate\\)"},
+                            "results": {"group": "Super Mario Bros. 2 Pirate"}
+                        }
+                    ]
+				},
 				{"searchTerm": "Super Mario USA", "priority": 2},
 				{"searchTerm": "Super Bros. 2", "priority": 3},
 				{"searchTerm": "Super Bros. 5", "priority": 4}
@@ -5091,8 +5090,7 @@
 			"titles": [
 				{"searchTerm": "Tenchi o Kurau II - Shokatsu Koumei Den"},
 				{"searchTerm": "Tunshi Tiandi - Sanguo Waizhuan", "priority": 2},
-				{"searchTerm": "Tunshi Tiandi - Sanguo Waizhuan (Xianfeng)", "priority": 3},
-				{"searchTerm": "Tianshi Zhi Yi 2", "priority": 4}
+				{"searchTerm": "Tunshi Tiandi - Sanguo Waizhuan (Xianfeng)", "priority": 3}
 			]
 		},
 		{
@@ -5710,7 +5708,7 @@
 			"group": "Xuanyuan Jian - Xian Zhi Yuan",
 			"titles": [
 				{"searchTerm": "Xuanyuan Jian - Xian Zhi Yuan"},
-				{"searchTerm": "Jianxia Qingyuan", "priority": 2},
+				{"searchTerm": "Jianxia Qingyuan (Jncota) (Aftermarket) (Unl)", "priority": 2, "nameType": "regionFree"},
 				{"searchTerm": "Zhanshen Shijie", "priority": 3}
 			]
 		},

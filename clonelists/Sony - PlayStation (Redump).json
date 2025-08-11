@@ -1,33 +1,9 @@
 {
 	"description": {
 		"name": "Sony - PlayStation (Redump)",
-		"lastUpdated": "19 April 2024",
+		"lastUpdated": "05 August 2025",
 		"minimumVersion": "2.02"
 	},
-
-	"mias": [
-		"Arc the Lad III (Japan) (Demo 2)",
-		"Battle Arena Toshinden 3 (Europe) (Beta) (1997-07-11)",
-		"Casper - Friends Around the World (Korea)",
-		"Cool Boarders 2 (USA) (Beta) (1997-08-25)",
-		"Ehrgeiz - God Bless the Ring (Japan) (Demo 2)",
-		"Frogger 2 - Swampy's Revenge (Europe) (Beta) (2000-02-04)",
-		"Frogger 2 - Swampy's Revenge (Europe) (Beta) (2000-06-06)",
-		"Frogger 2 - Swampy's Revenge (Europe) (Beta) (2000-06-29)",
-		"Frogger 2 - Swampy's Revenge (Europe) (Beta) (2000-07-25)",
-		"Frogger 2 - Swampy's Revenge (Europe) (En,Fr,De,It) (Beta) (2000-03-01)",
-		"Frogger 2 - Swampy's Revenge (USA) (Beta) (2000-04-05)",
-		"Frogger 2 - Swampy's Revenge (USA) (Beta) (2000-06-09)",
-		"Frogger 2 - Swampy's Revenge (USA) (Beta) (2000-06-14)",
-		"Frogger 2 - Swampy's Revenge (USA) (Beta) (2000-07-18)",
-		"Frogger 2 - Swampy's Revenge (USA) (Beta) (2000-07-25)",
-		"Frogger 2 - Swampy's Revenge (USA) (Beta) (2000-07-31)",
-		"Grid Runner (USA) (Beta) (1996-06-08)",
-		"Marvel Super Heroes (Europe) (Beta) (1996-12-24)",
-		"Ore no Shikabane o Koete Yuke (Japan) (Demo)",
-		"Rosco McQueen (Europe) (En,Fr,De,Es,It) (Beta) (1997-06-19)",
-		"Running Wild (USA) (Beta) (1998-07-28)"
-	],
 
 	"variants": [
 		{
@@ -249,21 +225,21 @@
 			]
 		},
 		{
-			"group": "Angelique - Tenkuu no Requiem (Premium Box)",
+			"group": "Angelique - Tenkuu no Requiem",
 			"titles": [
 				{"searchTerm": "Angelique - Tenkuu no Requiem (Premium Box)"},
 				{"searchTerm": "Angelique - Tenkuu no Requiem", "priority": 2}
 			]
 		},
 		{
-			"group": "Angelique Duet (Angelique History)",
+			"group": "Angelique Duet",
 			"titles": [
-				{"searchTerm": "Angelique Duet (Angelique History)"},
+				{"searchTerm": "Angelique Duet (Premium Box)"},
 				{"searchTerm": "Angelique Duet", "priority": 2}
 			]
 		},
 		{
-			"group": "Angelique Special 2 (Premium Box)",
+			"group": "Angelique Special 2",
 			"titles": [
 				{"searchTerm": "Angelique Special 2 (Premium Box)"},
 				{"searchTerm": "Angelique Special 2", "priority": 2}
@@ -288,7 +264,8 @@
 			"group": "Arc the Lad Collection - Arc Arena - Monster Tournament",
 			"titles": [
 				{"searchTerm": "Arc the Lad - Monster Game with Casino Game (Disc 1) (Monster Game)"},
-				{"searchTerm": "Arc the Lad Collection - Arc Arena - Monster Tournament"}
+				{"searchTerm": "Arc the Lad Collection - Arc Arena - Monster Tournament"},
+				{"searchTerm": "Arc the Lad - Monster Game (Present-ban)", "priority": 2}
 			]
 		},
 		{
@@ -707,7 +684,7 @@
 			"group": "Bob the Builder - Can We Fix It",
 			"titles": [
 				{"searchTerm": "Bob Aggiustatutto"},
-				{"searchTerm": "Bob le Bricoleur - Reparer C'est Gagne!"},
+				{"searchTerm": "Bob le Bricoleur - Reparer C'est Gagne !"},
 				{"searchTerm": "Bob the Builder - Can We Fix It"},
 				{"searchTerm": "Byggare Bob - Kan Vi Fixa Det"},
 				{"searchTerm": "Byggemand Bob - Kan Vi Klare Det"},
@@ -1725,11 +1702,14 @@
 			"group": "Dino Crisis (Demo)",
 			"titles": [
 				{
-					"searchTerm": "Dino Crisis (Europe) (Demo)",
-					"nameType": "full",
-					"categories": ["Demos", "Preproduction"]
-				},
-				{"searchTerm": "Dino Crisis (Demo)"}
+					"searchTerm": "Dino Crisis (Demo)",
+					"filters": [
+						{
+							"conditions": {"matchRegions": ["Europe"]},
+							"results": {"categories": ["Demos", "Preproduction"]}
+						}
+					]
+				}
 			]
 		},
 		{
@@ -1774,11 +1754,11 @@
 		{
 			"group": "Disney-Pixar Buzz Lightyear of Star Command",
 			"titles": [
+				{"searchTerm": "Disney-Pixar Buzz Lightyear - Guardianes del Espacio"},
 				{"searchTerm": "Disney-Pixar Buzz Lightyear da Comando Stellare"},
 				{"searchTerm": "Disney-Pixar Buzz Lightyear of Star Command"},
 				{"searchTerm": "Disney-Pixar Captain Buzz Lightyear - Star Command"},
-				{"searchTerm": "Disney-Pixar Les Aventures de Buzz L'Eclair"},
-				{"searchTerm": "Disney-Pixar's Buzz Lightyear - Guardianes del Espacio"}
+				{"searchTerm": "Disney-Pixar Les Aventures de Buzz L'Eclair"}
 			]
 		},
 		{
@@ -1801,11 +1781,18 @@
 		{
 			"group": "Disney-Pixar Toy Story 2 - Buzz Lightyear to the Rescue!",
 			"titles": [
-				{"searchTerm": "Disney-Pixar Toy Story 2 - Buzz l'Eclair a la Rescousse!"},
+				{"searchTerm": "Disney-Pixar Toy Story 2 - Buzz l'Eclair a la Rescousse !"},
 				{"searchTerm": "Disney-Pixar Toy Story 2 - Buzz Lightyear al Rescate!"},
 				{"searchTerm": "Disney-Pixar Toy Story 2 - Buzz Lightyear eilt zur Hilfe!"},
 				{"searchTerm": "Disney-Pixar Toy Story 2 - Buzz Lightyear to the Rescue!"},
 				{"searchTerm": "Disney-Pixar Toy Story 2 - Woody e Buzz alla riscossa!"}
+			]
+		},
+		{
+			"group": "Disney's 102 Dalmatians - Puppies to the Rescue",
+			"titles": [
+				{"searchTerm": "Disney's 102 Dalmatiner - Valpar till undsaettning"},
+				{"searchTerm": "Disney's 102 Dalmatians - Puppies to the Rescue"}
 			]
 		},
 		{
@@ -1903,7 +1890,7 @@
 				{"searchTerm": "Disney's Party Time with Winnie the Pooh"},
 				{"searchTerm": "Disney's Pooh's Party Game - In Search of the Treasure"},
 				{"searchTerm": "Disney's Spelen met Winnie de Poeh en zijn Vriendjes!"},
-				{"searchTerm": "Disney's Winnie L'Ourson - C' Est La Recre!"},
+				{"searchTerm": "Disney's Winnie L'Ourson - C' Est La Recre !"},
 				{"searchTerm": "Disney Pooh e Tigro! E Qui la Festa"},
 				{"searchTerm": "Disney Ven a la Fiesta! con Winnie the Pooh"},
 				{"searchTerm": "Disneys Plys' Spil-og-Leg-Sted"},
@@ -3422,12 +3409,6 @@
 			]
 		},
 		{
-			"group": "Kamen Rider V3",
-			"titles": [
-				{"searchTerm": "Kamen Rider V3", "nameType": "regionFree"}
-			]
-		},
-		{
 			"group": "Kart Challenge",
 			"titles": [
 				{"searchTerm": "Kart Challenge"}
@@ -3508,6 +3489,22 @@
 			"titles": [
 				{"searchTerm": "King of Bowling 2"},
 				{"searchTerm": "King of Bowling 2 - Professional-hen"}
+			]
+		},
+		{
+			"group": "Kirikou",
+			"titles": [
+				{
+					"searchTerm": "Kirikou",
+					"localNames": {
+						"english": "Kirikou",
+						"french": "Kirikou",
+						"german": "Kirikou",
+						"italian": "Kirikù",
+						"portuguese": "Kirikù",
+						"spanish": "Kirikù"
+					}
+				}
 			]
 		},
 		{
@@ -4065,6 +4062,13 @@
 			"titles": [
 				{"searchTerm": "Mickey's Wild Adventure"},
 				{"searchTerm": "Topolino e le Sue Avventure"}
+			]
+		},
+		{
+			"group": "Micro Machines V3",
+			"titles": [
+				{"searchTerm": "Micro Machines V3"},
+				{"searchTerm": "Micro Machines"}
 			]
 		},
 		{
@@ -4678,13 +4682,6 @@
 			]
 		},
 		{
-			"group": "Pac-Man World - 20th Anniversary",
-			"titles": [
-				{"searchTerm": "Pac-Man World - 20th Anniversary"},
-				{"searchTerm": "Pac-Man World 20th Anniversary"}
-			]
-		},
-		{
 			"group": "Pachi-Slot Aruze Oukoku 4",
 			"titles": [
 				{"searchTerm": "Pachi-Slot Aruze Oukoku 4"},
@@ -4765,7 +4762,7 @@
 		{
 			"group": "Persona",
 			"titles": [
-				{"searchTerm": "Megami Ibunroku Persona - Be Your True Mind"},
+				{"searchTerm": "Megami Ibunroku - Persona - Be Your True Mind"},
 				{"searchTerm": "Persona"}
 			]
 		},
@@ -4789,8 +4786,7 @@
 			"group": "Pet in TV",
 			"titles": [
 				{"searchTerm": "Ganbare Morikawa-kun 2-gou"},
-				{"searchTerm": "Pet in TV"},
-				{"searchTerm": "Pet in TV - Ton Nouveau Meilleur Ami!"}
+				{"searchTerm": "Pet in TV"}
 			]
 		},
 		{
@@ -5418,6 +5414,13 @@
 			]
 		},
 		{
+			"group": "Samurai Deeper Kyou",
+			"titles": [
+				{"searchTerm": "Samurai Deeper Kyo"},
+				{"searchTerm": "Samurai Deeper Kyou"}
+			]
+		},
+		{
 			"group": "Samurai Shodown III - Blades of Blood",
 			"titles": [
 				{"searchTerm": "Samurai Shodown III"},
@@ -5603,6 +5606,22 @@
 			"titles": [
 				{"searchTerm": "3, 2, 1, Smurf! My First Racing Game"},
 				{"searchTerm": "Smurf Racer!"}
+			]
+		},
+		{
+			"group": "Smurfs, The",
+			"titles": [
+				{
+					"searchTerm": "Smurfs, The",
+					"localNames": {
+						"dutch": "Smurfen, De",
+						"english": "Smurfs, The",
+						"french": "Schtroumpfs, Les",
+						"german": "Schlümpfe, Die",
+						"italian": "Puffi, I",
+						"spanish": "Los Pitufos"
+					}
+				}
 			]
 		},
 		{

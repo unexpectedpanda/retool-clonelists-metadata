@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Nintendo - Wii (Redump)",
-		"lastUpdated": "26 December 2023",
+		"lastUpdated": "05 August 2025",
 		"minimumVersion": "2.02"
 	},
 
@@ -1152,7 +1152,7 @@
 			"group": "Harry Potter and the Half-Blood Prince",
 			"titles": [
 				{"searchTerm": "Harry Potter and the Half-Blood Prince"},
-				{"searchTerm": "Harry Potterwa Honhyeor-wangja"}
+				{"searchTerm": "Harry Potter-wa Honhyeol-Wangja"}
 			]
 		},
 		{
@@ -2316,6 +2316,12 @@
 			]
 		},
 		{
+			"group": "Princess Lillifee - The Big Fairy Party",
+			"titles": [
+				{"searchTerm": "Princess Lillifee - The Big Fairy Party", "localNames": {"french": "La Fée Lili-Rose - La Grande Fête des Fées", "german": "Prinzessin Lillifee - Die große Feenparty"}}
+			]
+		},
+		{
 			"group": "Project Zero 2 - Wii Edition",
 			"titles": [
 				{"searchTerm": "Project Zero 2 - Wii Edition"},
@@ -2385,7 +2391,7 @@
 			"group": "Real Stories - Veterinaire",
 			"titles": [
 				{"searchTerm": "Real Stories - Veterinaire"},
-				{"searchTerm": "Tierliebe - Gross Geschrieben ~ Veterinario - Cuccioli in Pericolo"}
+				{"searchTerm": "Tierliebe - Gross Geschrieben"}
 			]
 		},
 		{
@@ -2576,7 +2582,7 @@
 		{
 			"group": "Sesame Street - Ready, Set, Grover! with Elmo - The Videogame",
 			"titles": [
-				{"searchTerm": "Barrio Sesamo - Preparados Listos Coco! El Videojuego ~ Sesamstraat - Klaar Voor de Start, Grover! De Game"},
+				{"searchTerm": "Barrio Sesamo - Preparados Listos Coco! El Videojuego"},
 				{"searchTerm": "Sesame Street - Ready, Set, Grover! The Videogame"},
 				{"searchTerm": "Sesame Street - Ready, Set, Grover! with Elmo - The Videogame"}
 			]
@@ -2872,9 +2878,9 @@
 		{
 			"group": "Think Logic Trainer",
 			"titles": [
-				{"searchTerm": "Entraineur Cerebral et Sportif, L'"},
-				{"searchTerm": "Think - Logic Trainer"},
-				{"searchTerm": "Think - Logik Trainer"},
+				{"searchTerm": "Entraineur Cerebral et Sportif, L'", "localNames": {"french": "Entraîneur Cérébral et Sportif, L'"}},
+				{"searchTerm": "Think - Logic Trainer", "localNames": {"english": "Think - Logic Trainer", "german": "Think - Training für den Kopf - Training für Körper und Geist", "spanish": "Think - Sigue Entrenando Tu Cerebro - Mente Sana en Cuerpo Sano"}},
+				{"searchTerm": "Think - Logik Trainer", "localNames": {"english": "Think - Logic Trainer", "german": "Think - Training für den Kopf - Training für Körper und Geist"}},
 				{"searchTerm": "Think - Train Je Brein"},
 				{"searchTerm": "Think Logic Trainer"}
 			]
@@ -2966,13 +2972,6 @@
 			"titles": [
 				{"searchTerm": "Step to the Beat"},
 				{"searchTerm": "Walk It Out!"}
-			]
-		},
-		{
-			"group": "Walt Disney Pictures Bolt",
-			"titles": [
-				{"searchTerm": "Disney Bolt"},
-				{"searchTerm": "Walt Disney Pictures Bolt"}
 			]
 		},
 		{
@@ -3152,6 +3151,7 @@
 		{
 			"group": "Zack & Wiki - Quest for Barbaros' Treasure",
 			"titles": [
+				{"searchTerm": "Project Treasure Island Z"},
 				{"searchTerm": "Takarajima Z - Barbaros no Hihou"},
 				{"searchTerm": "Zack & Wiki - Barbarosui Bomul"},
 				{"searchTerm": "Zack & Wiki - Quest for Barbaros' Treasure"}

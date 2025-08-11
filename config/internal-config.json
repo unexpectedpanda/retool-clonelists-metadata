@@ -7,7 +7,7 @@
 			"These are defaults that Retool requires, don't modify this file.",
 			"Check user-config.yaml for user-editable settings."
 		],
-		"lastUpdated": "03 August 2025",
+		"lastUpdated": "11 August 2025",
 		"minimumVersion": "2.4.0"
 	},
 
@@ -49,7 +49,6 @@
 		["(Web)", "string"],
 		["\\s?\\(Multi Tap.*?Doukonban\\)", "regex"],
 		["(NTDEC)", "string"],
-		["(Pirate)", "string"],
 		["(Mega Drive 4)", "string"],
 		["(Sega Reactor)", "string"],
 		["(Sega Gopher)", "string"],
@@ -140,6 +139,7 @@
 
 	"budgetEditions": [
 		["(Aquaprice 2800)", "string"],
+		["(AquaPrice 2800)", "string"],
 		["(Artdink Best Choice)", "string"],
 		["(Best Collection)", "string"],
 		["(Best of the Best)", "string"],
@@ -241,6 +241,7 @@
 		["(Limited Run Games)", "string"],
 		["(LodgeNet)", "string"],
 		["\\s?\\(Ludum Dare [0-9]{0,3}\\)", "regex"],
+		["\\s?\\(LynxJam 20[0-9][0-9]\\)", "regex"],
 		["(MB-91)", "string"],
 		["(MBC3)", "string"],
 		["(MBC5)", "string"],

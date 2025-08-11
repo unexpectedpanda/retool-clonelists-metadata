@@ -1,91 +1,9 @@
 {
 	"description": {
 		"name": "Sony - PlayStation 3 (Redump)",
-		"lastUpdated": "19 April 2024",
+		"lastUpdated": "07 August 2025",
 		"minimumVersion": "2.02"
 	},
-
-	"mias": [
-		"3.15 IDU Firmware Update (USA)",
-		"3.40 IDU-IDU FW Update (USA)",
-		"3.66 IDU FW (USA)",
-		"April 2009 IDU 2.60 (USA)",
-		"Atelier Ayesha (Asia)",
-		"Buzz! The Ultimate Music Quiz (Greece)",
-		"Call of Duty 4 - Modern Warfare (Korea)",
-		"Captain America - Super Soldier (Asia) (En,Fr,De,Es,It)",
-		"Dead Space (UK) (En,Fr,Es) (Beta) (2008-08-30)",
-		"Drag-on Dragoon 3 (Asia)",
-		"Dragon Ball Z - Budokai HD Collection (Asia) (En,Fr,Es)",
-		"E-M Fall Refresh 3.40 IDU-IDU Update (USA)",
-		"Endcap Display - 2014 Holiday Refresh - Walmart (USA)",
-		"Endcap Display - 2015 Winter Refresh - Walmart (USA)",
-		"Evil Within, The (Asia)",
-		"Fairytale Fights (Europe) (Beta) (2009-09-04)",
-		"Fairytale Fights (Europe) (Beta) (2009-09-24)",
-		"Fall 2013 - PS3 IDU 4.46 (USA)",
-		"Fall Refresh 2011 - 3.70 IDU FW Update (USA)",
-		"GT5 - IDU FW update 3.40 (USA) (Kiosk Demo)",
-		"Gran Turismo 5 (Asia) (En,Zh)",
-		"Guitar Hero - Aerosmith IDU_IDU 2.35 (USA)",
-		"Guitar Hero - Smash Hits - May 2.76 IDU Update (USA)",
-		"Guitar Hero - Warriors of Rock 3.40 IDU FW Update (USA) (Kiosk Demo)",
-		"Guitar Hero World Tour IDU 2.43 (USA)",
-		"Inline Display - 2014 Holiday Refresh - Walmart (USA)",
-		"Inline Video Player Display - 2015 Winter Refresh - Walmart (USA)",
-		"Jin Samguk Mussang - Multi Raid Special (Korea)",
-		"LittleBigPlanet 2 (Asia) (En,Zh)",
-		"LittleBigPlanet Karting (World) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru) (Beta) (2012-08-01)",
-		"Marvel vs. Capcom 3 - Fate of Two Worlds (Korea) (En,Ja,Fr,De,Es,It)",
-		"Mobile Suit Gundam - Side Stories (Asia)",
-		"MotorStorm 3 - Apocalypse (Asia)",
-		"MotorStorm II (Asia)",
-		"Musou Orochi Z (Asia)",
-		"Mussang Orochi Z (Korea)",
-		"Nobunaga no Yabou - Souzou (Asia)",
-		"One Piece - Unlimited World R (Asia)",
-		"PES 2016 - Pro Evolution Soccer - Winning Eleven 2016 (Asia) (En,Zh,Ko)",
-		"PES 2017 - Pro Evolution Soccer - Winning Eleven 2017 (Asia) (En,Ja,Zh,Ko)",
-		"PES 2018 - Pro Evolution Soccer - Winning Eleven 2018 (Korea) (En,Ja,Zh,Ko)",
-		"PS3 IDU - 2014 Holiday Refresh (USA)",
-		"PS3 IDU - 2015 Holiday Refresh (USA)",
-		"PS3 IDU 3.50 FW - Oct 2010 (USA)",
-		"PS3 IDU 3.56 FW (USA)",
-		"PS3 IDU 3.72 PS 3D Display Update (USA)",
-		"PS3 IDU 431 (USA)",
-		"PS3 IDU Update 4.10 (USA)",
-		"PS3 IDU Update 430 (USA)",
-		"PS3 Standard IDU 4.23 - Holiday 2012 Update (USA)",
-		"PS3 System Software v.4.21 - F-W Only (USA)",
-		"PlayStation 3 System Software Update (Version 2.0) (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,Tr)",
-		"PlayStation 3 System Software Update (Version 2.0) (USA) (En,Fr)",
-		"Pro Yakyuu Spirits 2013 (Asia)",
-		"Ratchet & Clank - Nexus (World) (Beta)",
-		"Remember Me (World) (Beta) (2013-03-20)",
-		"Saint Seiya - Sanctuary Battle (World) (En,Ja) (Beta) (2011-12-07)",
-		"Samurai Dou 3 (Japan) (v02.00)",
-		"Shin Sangoku Musou 5 (Asia)",
-		"Shining Resonance (Asia)",
-		"SingStar (Norway)",
-		"SingStar Mallorca Party (Germany) (En,Fr,De,Es,It,Nl,Pt,No,Da,Fi,Pl,Ru) (v02.00)",
-		"SingStar SuomiBileet (Finland) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,Tr)",
-		"Spider-Man 3 (Korea)",
-		"Sports Champions & Medieval Moves - Deadmund's Quest Combo Disc (Latin America) (En,Fr,Es,Pt)",
-		"Spring 2012 Refresh Standard - PS3 IDU 4.11 (USA)",
-		"Spring 2013 - Standard IDU 4.31 (USA)",
-		"Spring Refresh 2010 - 3.21 IDU Update (E-M) (USA)",
-		"Spring Refresh 2011 3.60 IDU FW Update (USA)",
-		"Start the Party! (Korea)",
-		"Street Fighter X Tekken (World) (Beta) (2012-01-16)",
-		"Summer Refresh 2011 - 3.65 IDU FW Update (USA)",
-		"Walmart Endcap - 2014 Summer Refresh (USA)",
-		"Winter 2012 Refresh PS3 IDU 3.72 (USA)",
-		"Winter Refresh 2011 - 3.55 FW Update (USA)",
-		"WipEout HD (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Ru) (Beta)",
-		"Wonderbook - Diggs Nightcrawler (Europe) (En,Da,Ru) (Beta)",
-		"inFamous 2 (Asia) (En,Zh,Ko)",
-		"inFamous 2 + MotorStorm Apocalypse - Spring Refresh 2011 3.60 IDU FW Update (USA)"
-	],
 
 	"variants": [
 		{
@@ -404,6 +322,13 @@
 			]
 		},
 		{
+			"group": "BioShock",
+			"titles": [
+				{"searchTerm": "BioShock"},
+				{"searchTerm": "BioShock (2K Collection)"}
+			]
+		},
+		{
 			"group": "BioShock Infinite",
 			"titles": [
 				{"searchTerm": "BioShock Infinite"}
@@ -510,7 +435,6 @@
 				{"searchTerm": "Buzz! Quiz TV"}
 			],
 			"supersets": [
-				{"searchTerm": "Buzz! TV Visa Special Edition"},
 				{"searchTerm": "Buzz! Quiz TV (Special Edition)"}
 			]
 		},
@@ -561,13 +485,6 @@
 			"titles": [
 				{"searchTerm": "Cross Edge"},
 				{"searchTerm": "X Edge"}
-			]
-		},
-		{
-			"group": "Crysis 3 (Hunter Edition)",
-			"titles": [
-				{"searchTerm": "Crysis 3"},
-				{"searchTerm": "Crysis 3 (Hunter Edition)"}
 			]
 		},
 		{
@@ -797,7 +714,8 @@
 			"group": "Dynasty Warriors - Gundam",
 			"titles": [
 				{"searchTerm": "Dynasty Warriors - Gundam"},
-				{"searchTerm": "Gundam Musou"}
+				{"searchTerm": "Gundam Musou"},
+				{"searchTerm": "Gundam Mussang"}
 			]
 		},
 		{
@@ -825,7 +743,8 @@
 			"group": "Dynasty Warriors 6",
 			"titles": [
 				{"searchTerm": "Dynasty Warriors 6"},
-				{"searchTerm": "Shin Sangoku Musou 5"}
+				{"searchTerm": "Shin Sangoku Musou 5"},
+				{"searchTerm": "Jin Samguk Mussang 5"}
 			]
 		},
 		{
@@ -1345,7 +1264,7 @@
 		{
 			"group": "Hyperdimension Neptunia",
 			"titles": [
-				{"searchTerm": "Cho Chawon Game Neptune"},
+				{"searchTerm": "Chochawon Game Neptune"},
 				{"searchTerm": "Chou Jigen Game Neptune"},
 				{"searchTerm": "Hyperdimension Neptunia"}
 			],
@@ -1356,7 +1275,7 @@
 		{
 			"group": "Hyperdimension Neptunia mk2",
 			"titles": [
-				{"searchTerm": "Cho Chawon Game Neptune mk2"},
+				{"searchTerm": "Chochawon Game Neptune mk2"},
 				{"searchTerm": "Chou Jigen Game Neptune mk2"},
 				{"searchTerm": "Hyperdimension Neptunia mk2"}
 			],
@@ -1388,7 +1307,8 @@
 			"group": "Ice Age 4 - Continental Drift - Arctic Games",
 			"titles": [
 				{"searchTerm": "Era Glaciale 4, L' - Continenti alla Deriva - Giochi Polari"},
-				{"searchTerm": "Ice Age 4 - Continental Drift - Arctic Games"}
+				{"searchTerm": "Ice Age 4 - Continental Drift - Arctic Games"},
+				{"searchTerm": "Lednikovyj period 4 - Kontinental'nyj drejf - Arkticheskie igry"}
 			]
 		},
 		{
@@ -1461,6 +1381,13 @@
 			]
 		},
 		{
+			"group": "Jikkyou Powerful Pro Yakyuu 2011",
+			"titles": [
+				{"searchTerm": "Jikkyou Powerful Pro Yakyuu 2011"},
+				{"searchTerm": "Silhwang Powerful Pro Yagu 2011"}
+			]
+		},
+		{
 			"group": "John Woo Presents Stranglehold",
 			"titles": [
 				{"searchTerm": "John Woo Presents Stranglehold"}
@@ -1498,7 +1425,7 @@
 				{"searchTerm": "Just Dance 3"}
 			],
 			"supersets": [
-				{"searchTerm": "Just Dance 3 (Best Buy)"},
+				{"searchTerm": "Just Dance 3 (Best Buy Edition)"},
 				{"searchTerm": "Just Dance 3 (Special Edition)"},
 				{"searchTerm": "Just Dance 3 (Target Edition)", "priority": 2}
 			]
@@ -1739,13 +1666,6 @@
 			]
 		},
 		{
-			"group": "Minna no Golf 5 (PlayStation Move Taiou)",
-			"titles": [
-				{"searchTerm": "Minna no Golf 5 (PlayStation Move Taiou)"},
-				{"searchTerm": "Minna no Golf 5", "priority": 2}
-			]
-		},
-		{
 			"group": "Mobile Suit Gundam - Crossfire",
 			"titles": [
 				{"searchTerm": "Mobile Suit Gundam - Crossfire"},
@@ -1918,7 +1838,7 @@
 		{
 			"group": "Nickelodeon SpongeBob SquarePants - Plankton's Robotic Revenge",
 			"titles": [
-				{"searchTerm": "Nickelodeon Gubka Bob Kvadratnye Shtany - Plankton. Mest' robotov"},
+				{"searchTerm": "Nickelodeon Gubka Bob Kvadratnye Shtany - Plankton - Mest' robotov"},
 				{"searchTerm": "Nickelodeon SpongeBob SquarePants - Plankton's Robotic Revenge"}
 			]
 		},
@@ -2012,6 +1932,7 @@
 		{
 			"group": "Persona 4 Arena Ultimax",
 			"titles": [
+				{"searchTerm": "Persona 4 - The Ultimax - Ultra Suplex Hold"},
 				{"searchTerm": "Persona 4 - The Ultimax Ultra Suplex Hold"},
 				{"searchTerm": "Persona 4 Arena Ultimax"}
 			]
@@ -2132,8 +2053,22 @@
 		{
 			"group": "Pro Yakyuu Spirits 6",
 			"titles": [
-				{"searchTerm": "Pro Yagu Spirits 6 - Professional Baseball Spirits"},
+				{"searchTerm": "Pro Yagu Spirits 6"},
 				{"searchTerm": "Pro Yakyuu Spirits 6"}
+			]
+		},
+		{
+			"group": "Pro Yakyuu Spirits 2010",
+			"titles": [
+				{"searchTerm": "Pro Yagu Spirits 2010"},
+				{"searchTerm": "Pro Yakyuu Spirits 2010"}
+			]
+		},
+		{
+			"group": "Pro Yakyuu Spirits 2013",
+			"titles": [
+				{"searchTerm": "Pro Yakyuu Spirits 2013"},
+				{"searchTerm": "Professional Baseball Spirits 2013"}
 			]
 		},
 		{
@@ -2287,7 +2222,6 @@
 			"titles": [
 				{"searchTerm": "Biohazard 5 - Alternative Edition"},
 				{"searchTerm": "Resident Evil 5"},
-				{"searchTerm": "Resident Evil 5 ~ Biohazard 5"},
 				{"searchTerm": "Biohazard 5", "priority": 2}
 			],
 			"supersets": [
@@ -2334,7 +2268,8 @@
 		{
 			"group": "Rocksmith",
 			"titles": [
-				{"searchTerm": "Rocksmith"}
+				{"searchTerm": "Rocksmith (Guitar and Bass)"},
+				{"searchTerm": "Rocksmith", "priority": 2}
 			],
 			"supersets": [
 				{"searchTerm": "Rocksmith (Best Buy Edition)"}
@@ -2403,6 +2338,7 @@
 		{
 			"group": "Saint Seiya - Sanctuary Battle",
 			"titles": [
+				{"searchTerm": "Caballeros del Zodiaco, Los - Batalla por el Santuario"},
 				{"searchTerm": "Saint Seiya - Sanctuary Battle"},
 				{"searchTerm": "Saint Seiya Senki"}
 			]
@@ -2484,6 +2420,15 @@
 			]
 		},
 		{
+			"group": "Shin Sangoku Musou Online - Souten Ranbu",
+			"titles": [
+				{"searchTerm": "Shin Sangoku Musou Online - Souten Ranbu"}
+			],
+			"supersets": [
+				{"searchTerm": "Shin Sangoku Musou Online - Souten Ranbu - 4 Shuunen Kinen Pack"}
+			]
+		},
+		{
 			"group": "Shirokishi Monogatari - Inishie no Kodou",
 			"titles": [
 				{"searchTerm": "Shirokishi Monogatari - Inishie no Kodou"}
@@ -2556,13 +2501,13 @@
 			]
 		},
 		{
-			"group": "Sniper Elite",
+			"group": "Sniper Elite V2",
 			"titles": [
-				{"searchTerm": "Sniper Elite"}
+				{"searchTerm": "Sniper Elite V2"}
 			],
 			"supersets": [
-				{"searchTerm": "Sniper Elite - Game of the Year Edition"},
-				{"searchTerm": "Sniper Elite - Silver Star Edition"}
+				{"searchTerm": "Sniper Elite V2 - Game of the Year Edition"},
+				{"searchTerm": "Sniper Elite V2 - Silver Star Edition"}
 			]
 		},
 		{

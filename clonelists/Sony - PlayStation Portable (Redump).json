@@ -1,20 +1,9 @@
 {
 	"description": {
 		"name": "Sony - PlayStation Portable (Redump)",
-		"lastUpdated": "09 March 2024",
+		"lastUpdated": "10 August 2025",
 		"minimumVersion": "2.02"
 	},
-
-	"mias": [
-		"Burnout Legends (Asia)",
-		"Gun Showdown (USA) (Beta) (2006-08-18)",
-		"MLB 09 - The Show (Asia) (Sample)",
-		"NBA 08 (Asia) (Sample)",
-		"Retail Sampler No. 3 for PSP (Europe)",
-		"Tekken 6 (Asia) (En,Ja,Fr,De,Es,It,Ko,Ru)",
-		"WRC - FIA World Rally Championship (Europe) (En,Fr,De,Es,It,Pt,No,Fi) (Beta) (2005-04-21)",
-		"WipEout Pure (Japan) (En,Ja) (Beta)"
-	],
 
 	"variants": [
 		{
@@ -43,6 +32,15 @@
 			"titles": [
 				{"searchTerm": "Adventures to Go!"},
 				{"searchTerm": "Chuumon Shiyouze! Oretachi no Sekai"}
+			]
+		},
+		{
+			"group": "Akiba's Trip",
+			"titles": [
+				{"searchTerm": "Akiba's Trip"}
+			],
+			"supersets": [
+				{"searchTerm": "Akiba's Trip Plus"}
 			]
 		},
 		{
@@ -133,6 +131,13 @@
 			]
 		},
 		{
+			"group": "Brave Story - New Traveler",
+			"titles": [
+				{"searchTerm": "Brave Story - Aratanaru Tabibito"},
+				{"searchTerm": "Brave Story - New Traveler"}
+			]
+		},
+		{
 			"group": "Brian Lara 2007 - Pressure Play",
 			"titles": [
 				{"searchTerm": "Brian Lara 2007 - Pressure Play"},
@@ -156,21 +161,21 @@
 		{
 			"group": "Buzz! Brain of X",
 			"titles": [
-				{"searchTerm": "Buzz! Brain of Oz ~ Buzz! Brain of New Zealand"},
+				{"searchTerm": "Buzz! Brain of Oz"},
 				{"searchTerm": "Buzz! Brain of Switzerland"},
 				{"searchTerm": "Buzz! Brain of the UK"},
 				{"searchTerm": "Buzz! Brain of the World"},
-				{"searchTerm": "Buzz! Danske Genier ~ Buzz! Norgesmester"},
+				{"searchTerm": "Buzz! Norgesmester"},
 				{"searchTerm": "Buzz! Das grosse Laenderquiz"},
 				{"searchTerm": "Buzz! De Slimste van Nederland"},
 				{"searchTerm": "Buzz! De Strafste van Belgie"},
 				{"searchTerm": "Buzz! Deutschlands Superquiz"},
 				{"searchTerm": "Buzz! Il Quizzone Nazionale"},
 				{"searchTerm": "Buzz! Le Plus Malin des Francais"},
-				{"searchTerm": "Buzz! Polskie Lamiglowki ~ Buzz! Mozak Hrvatske"},
+				{"searchTerm": "Buzz! Polskie Lamiglowki"},
 				{"searchTerm": "Buzz! Que Sabes de tu Pais"},
-				{"searchTerm": "Buzz! Quem e o Genio Portugues ~ Buzz! Sokrovishha nacii"},
-				{"searchTerm": "Buzz! Svenska Genier ~ Buzz! Suomen Neropatti"}
+				{"searchTerm": "Buzz! Quem e o Genio Portugues"},
+				{"searchTerm": "Buzz! Svenska Genier"}
 			]
 		},
 		{
@@ -257,7 +262,8 @@
 			"group": "Con, The",
 			"titles": [
 				{"searchTerm": "Arnaqueur, L'"},
-				{"searchTerm": "Con, The"}
+				{"searchTerm": "Con, The"},
+				{"searchTerm": "Gamble Con Fight"}
 			]
 		},
 		{
@@ -268,10 +274,25 @@
 			]
 		},
 		{
+			"group": "Crash Tag Team Racing",
+			"titles": [
+				{"searchTerm": "Crash Bandicoot - Gacchanko World"},
+				{"searchTerm": "Crash Tag Team Racing"}
+			]
+		},
+		{
+			"group": "Crazy Taxi - Fare Wars",
+			"titles": [
+				{"searchTerm": "Crazy Taxi - Double Punch"},
+				{"searchTerm": "Crazy Taxi - Fare Wars"}
+			]
+		},
+		{
 			"group": "Crimson Gem Saga",
 			"titles": [
 				{"searchTerm": "Astonishia Story 2"},
-				{"searchTerm": "Crimson Gem Saga"}
+				{"searchTerm": "Crimson Gem Saga"},
+				{"searchTerm": "Garnet Chronicle - Kouki no Maseki"}
 			]
 		},
 		{
@@ -289,10 +310,24 @@
 			]
 		},
 		{
+			"group": "Dante's Inferno",
+			"titles": [
+				{"searchTerm": "Dante's Inferno"},
+				{"searchTerm": "Dante's Inferno - Shinkyoku Jigoku-Hen"}
+			]
+		},
+		{
 			"group": "Darkstalkers Chronicle - The Chaos Tower",
 			"titles": [
 				{"searchTerm": "Darkstalkers Chronicle - The Chaos Tower"},
 				{"searchTerm": "Vampire Chronicle - The Chaos Tower"}
+			]
+		},
+		{
+			"group": "Dead Head Fred",
+			"titles": [
+				{"searchTerm": "Dead Head Fred"},
+				{"searchTerm": "Dead Head Fred - Kubinashi Tantei no Akumu"}
 			]
 		},
 		{
@@ -351,9 +386,11 @@
 		{
 			"group": "Disney-Pixar Up",
 			"titles": [
+				{"searchTerm": "Disney - Pixar Up"},
 				{"searchTerm": "Disney-Pixar Oben"},
 				{"searchTerm": "Disney-Pixar Up"},
-				{"searchTerm": "Disney-Pixar Up - Altamente!"}
+				{"searchTerm": "Disney-Pixar Up - Altamente!"},
+				{"searchTerm": "Disney-Pixar Psila ston Ourano"}
 			]
 		},
 		{
@@ -370,13 +407,6 @@
 			],
 			"supersets": [
 				{"searchTerm": "Dissidia Final Fantasy - Universal Tuning"}
-			]
-		},
-		{
-			"group": "DJ Max Portable - Black Square",
-			"titles": [
-				{"searchTerm": "DJ Max Emotional Sense P - Black Square"},
-				{"searchTerm": "DJ Max Portable - Black Square"}
 			]
 		},
 		{
@@ -404,7 +434,7 @@
 			"group": "Dragoneer's Aria",
 			"titles": [
 				{"searchTerm": "Dragoneer's Aria"},
-				{"searchTerm": "Dragoneer's Aria - Ryu ga Nemuru Made"}
+				{"searchTerm": "Dragoneer's Aria - Ryuu ga Nemuru Made"}
 			]
 		},
 		{
@@ -501,14 +531,14 @@
 			"group": "Everybody's Stress Buster",
 			"titles": [
 				{"searchTerm": "Everybody's Stress Buster"},
-				{"searchTerm": "Minna no Sukkiri"}
+				{"searchTerm": "Everybody's Sukkiri"}
 			]
 		},
 		{
-			"group": "Everybody's Tennis",
+			"group": "Exit 2",
 			"titles": [
-				{"searchTerm": "Everybody's Tennis"},
-				{"searchTerm": "Minna no Tennis Portable"}
+				{"searchTerm": "Exit 2"},
+				{"searchTerm": "Kangaeru Exit"}
 			]
 		},
 		{
@@ -643,6 +673,15 @@
 			]
 		},
 		{
+			"group": "Frontier Gate",
+			"titles": [
+				{"searchTerm": "Frontier Gate"}
+			],
+			"superset": [
+				{"searchTerm": "Frontier Gate Boost +"}
+			]
+		},
+		{
 			"group": "Fullmetal Alchemist - Brotherhood",
 			"titles": [
 				{"searchTerm": "Fullmetal Alchemist - Brotherhood"},
@@ -661,6 +700,13 @@
 			"titles": [
 				{"searchTerm": "Generation of Chaos"},
 				{"searchTerm": "Sincheon Magye - GOC IV - Another Side"}
+			]
+		},
+		{
+			"group": "Gladiator Begins",
+			"titles": [
+				{"searchTerm": "Gladiator Begins"},
+				{"searchTerm": "Kentoushi - Gladiator Begins"}
 			]
 		},
 		{
@@ -729,6 +775,13 @@
 			"titles": [
 				{"searchTerm": "Gradius Collection"},
 				{"searchTerm": "Gradius Portable"}
+			]
+		},
+		{
+			"group": "Growlanser - Wayfarer of Time",
+			"titles": [
+				{"searchTerm": "Growlanser - Wayfarer of Time"},
+				{"searchTerm": "Growlanser IV - Over Reloaded"}
 			]
 		},
 		{
@@ -805,6 +858,15 @@
 			]
 		},
 		{
+			"group": "Higurashi Daybreak Portable",
+			"titles": [
+				{"searchTerm": "Higurashi Daybreak Portable"}
+			],
+			"supersets": [
+				{"searchTerm": "Higurashi Daybreak Portable Mega Edition"}
+			]
+		},
+		{
 			"group": "Hot Shots Golf - Open Tee",
 			"titles": [
 				{"searchTerm": "Everybody's Golf"},
@@ -824,7 +886,8 @@
 			"group": "Hot Shots Tennis - Get a Grip",
 			"titles": [
 				{"searchTerm": "Everybody's Tennis"},
-				{"searchTerm": "Hot Shots Tennis - Get a Grip"}
+				{"searchTerm": "Hot Shots Tennis - Get a Grip"},
+				{"searchTerm": "Minna no Tennis Portable"}
 			]
 		},
 		{
@@ -846,6 +909,20 @@
 			"titles": [
 				{"searchTerm": "Iron Man 2"},
 				{"searchTerm": "Iron Man 2 - The Video Game"}
+			]
+		},
+		{
+			"group": "Jak and Daxter - The Lost Frontier",
+			"titles": [
+				{"searchTerm": "Jak and Daxter - Elf to Itachi no Daibouken"},
+				{"searchTerm": "Jak and Daxter - The Lost Frontier"}
+			]
+		},
+		{
+			"group": "Jikandia - The Timeless Land",
+			"titles": [
+				{"searchTerm": "Jikan de Fantasia"},
+				{"searchTerm": "Jikandia - The Timeless Land"}
 			]
 		},
 		{
@@ -958,6 +1035,13 @@
 			]
 		},
 		{
+			"group": "Lunar - Silver Star Harmony",
+			"titles": [
+				{"searchTerm": "Lunar - Harmony of Silver Star"},
+				{"searchTerm": "Lunar - Silver Star Harmony"}
+			]
+		},
+		{
 			"group": "Mana Khemia - Student Alliance",
 			"titles": [
 				{"searchTerm": "Mana-Khemia - Gakuen no Renkinjutsushi-tachi Portable +"},
@@ -965,17 +1049,18 @@
 			]
 		},
 		{
-			"group": "Maru Goukaku Shikaku Dasshu! - Care Manager Shiken Portable",
-			"categories": ["Educational"],
+			"group": "Maplus - Portable Navi",
 			"titles": [
-				{"searchTerm": "Maru Goukaku Shikaku Dasshu! - Care Manager Shiken Portable"}
+				{"searchTerm": "Maplus - Portable Navi 3"},
+				{"searchTerm": "Maplus - Portable Navi 2", "priority": 2},
+				{"searchTerm": "Maplus - Portable Navi", "priority": 3}
 			]
 		},
 		{
-			"group": "Mawaskes Puzzle",
+			"group": "Maru Goukaku Shikaku Dasshu! Care Manager Shiken Portable",
+			"categories": ["Educational"],
 			"titles": [
-				{"searchTerm": "Mawaskes Puzzle"},
-				{"searchTerm": "Mawaskes - Based on Carton-kun"}
+				{"searchTerm": "Maru Goukaku Shikaku Dasshu! Care Manager Shiken Portable"}
 			]
 		},
 		{
@@ -1059,6 +1144,13 @@
 			"supersets": [
 				{"searchTerm": "Monster Hunter Freedom Unite"},
 				{"searchTerm": "Monster Hunter Portable 2nd G"}
+			]
+		},
+		{
+			"group": "MotorStorm - Arctic Edge",
+			"titles": [
+				{"searchTerm": "Motorstorm - Arctic Edge"},
+				{"searchTerm": "MotorStorm - Raging Ice"}
 			]
 		},
 		{
@@ -1148,6 +1240,14 @@
 			]
 		},
 		{
+			"group": "PES 6 - Pro Evolution Soccer",
+			"titles": [
+				{"searchTerm": "PES 6 - Pro Evolution Soccer"},
+				{"searchTerm": "Winning Eleven - Pro Evolution Soccer 2007"},
+				{"searchTerm": "World Soccer Winning Eleven 10 - Ubiquitous Evolution"}
+			]
+		},
+		{
 			"group": "PES 2008 - Pro Evolution Soccer",
 			"titles": [
 				{"searchTerm": "PES 2008 - Pro Evolution Soccer"},
@@ -1186,7 +1286,6 @@
 			"group": "PES 2013 - Pro Evolution Soccer",
 			"titles": [
 				{"searchTerm": "PES 2013 - Pro Evolution Soccer"},
-				{"searchTerm": "Pro Evolution Soccer 2013"},
 				{"searchTerm": "World Soccer Winning Eleven 2013"}
 			]
 		},
@@ -1218,6 +1317,13 @@
 			],
 			"supersets": [
 				{"searchTerm": "Phantasy Star Portable 2 Infinity"}
+			]
+		},
+		{
+			"group": "Phantom Brave - The Hermuda Triangle",
+			"titles": [
+				{"searchTerm": "Phantom Brave - The Hermuda Triangle"},
+				{"searchTerm": "Phantom Brave Portable"}
 			]
 		},
 		{
@@ -1270,6 +1376,13 @@
 			]
 		},
 		{
+			"group": "PQ - Practical Intelligence Quotient",
+			"titles": [
+				{"searchTerm": "Intelligent License"},
+				{"searchTerm": "PQ - Practical Intelligence Quotient"}
+			]
+		},
+		{
 			"group": "PQ2 - Practical Intelligence Quotient 2",
 			"titles": [
 				{"searchTerm": "Intelligent License 2"},
@@ -1293,6 +1406,13 @@
 			]
 		},
 		{
+			"group": "Prinny 2 - Dawn of Operation Panties, Dood!",
+			"titles": [
+				{"searchTerm": "Prinny 2 - Dawn of Operation Panties, Dood!"},
+				{"searchTerm": "Prinny 2 - Tokkou Yuugi! Akatsuki no Pants Daisakusen ssu!!"}
+			]
+		},
+		{
 			"group": "Pro Yakyuu Spirits 2010",
 			"titles": [
 				{"searchTerm": "Pro Yagu Spirits 2010"},
@@ -1310,7 +1430,8 @@
 			"group": "Pursuit Force",
 			"titles": [
 				{"searchTerm": "Chase Cop - Pursuit Force"},
-				{"searchTerm": "Pursuit Force"}
+				{"searchTerm": "Pursuit Force"},
+				{"searchTerm": "Pursuit Force - Daitsuiseki"}
 			]
 		},
 		{
@@ -1324,6 +1445,7 @@
 			"group": "Puzzle Guzzle",
 			"titles": [
 				{"searchTerm": "Mawaskes Puzzle"},
+				{"searchTerm": "Mawaskes - Based on Carton-kun"},
 				{"searchTerm": "Puzzle Guzzle"}
 			]
 		},
@@ -1379,8 +1501,11 @@
 		{
 			"group": "Riviera - The Promised Land",
 			"titles": [
-				{"searchTerm": "Riviera - The Promised Land"},
 				{"searchTerm": "Riviera - Yakusoku no Chi"}
+			],
+			"supersets": [
+				{"searchTerm": "Riviera - The Promised Land"},
+				{"searchTerm": "Riviera - Yakusoku no Chi - Special Edition"}
 			]
 		},
 		{
@@ -1482,6 +1607,13 @@
 			"titles": [
 				{"searchTerm": "Shin Seiki Evangelion 2 - Tsukurareshi Sekai - Another Cases (10-shuunen Kinen Memorial Box)"},
 				{"searchTerm": "Shin Seiki Evangelion 2 - Tsukurareshi Sekai - Another Cases", "priority": 2}
+			]
+		},
+		{
+			"group": "Shinobido - Tales of the Ninja",
+			"titles": [
+				{"searchTerm": "Shinobido - Tales of the Ninja"},
+				{"searchTerm": "Shinobido Homura"}
 			]
 		},
 		{
@@ -1594,6 +1726,13 @@
 			]
 		},
 		{
+			"group": "Sweet Fuse - At Your Side",
+			"titles": [
+				{"searchTerm": "Bakudan Handan"},
+				{"searchTerm": "Sweet Fuse - At Your Side"}
+			]
+		},
+		{
 			"group": "Tactics Ogre - Let Us Cling Together",
 			"titles": [
 				{"searchTerm": "Tactics Ogre - Let Us Cling Together"},
@@ -1618,9 +1757,17 @@
 			]
 		},
 		{
+			"group": "TalkMan Euro! TalkMan Europa Gengo-ban",
+			"titles": [
+				{"searchTerm": "TalkMan Euro! TalkMan Europa Gengo-ban"},
+				{"searchTerm": "TalkMan Euro! TalkMan Europa Gengo ban"}
+			]
+		},
+		{
 			"group": "TalkMan-shiki Shabelingual Eikaiwa",
 			"categories": ["Educational"],
 			"titles": [
+				{"searchTerm": "TalkMan-shiki - Shabelingual Eikaiwa"},
 				{"searchTerm": "TalkMan-shiki Shabelingual Eikaiwa"},
 				{"searchTerm": "Talkman Yeongeohoehwa Sudajaeng English"}
 			]
@@ -1719,6 +1866,13 @@
 			]
 		},
 		{
+			"group": "Warriors of the Lost Empire",
+			"titles": [
+				{"searchTerm": "Lost Regnum - Makutsu no Koutei"},
+				{"searchTerm": "Warriors of the Lost Empire"}
+			]
+		},
+		{
 			"group": "Warriors Orochi",
 			"titles": [
 				{"searchTerm": "Musou Orochi"},
@@ -1772,14 +1926,6 @@
 			]
 		},
 		{
-			"group": "Winning Eleven - Pro Evolution Soccer 2007",
-			"titles": [
-				{"searchTerm": "Pro Evolution Soccer 6"},
-				{"searchTerm": "Winning Eleven - Pro Evolution Soccer 2007"},
-				{"searchTerm": "World Soccer Winning Eleven 10 - Ubiquitous Evolution"}
-			]
-		},
-		{
 			"group": "World Tour Soccer - Winning Eleven 9",
 			"titles": [
 				{"searchTerm": "Pro Evolution Soccer 5"},
@@ -1813,6 +1959,13 @@
 			"titles": [
 				{"searchTerm": "Ys - The Ark of Napishtim"},
 				{"searchTerm": "Ys VI - Napishtim no Hako"}
+			]
+		},
+		{
+			"group": "Ys - The Oath in Felghana",
+			"titles": [
+				{"searchTerm": "Ys - Felghana no Chikai"},
+				{"searchTerm": "Ys - The Oath in Felghana"}
 			]
 		},
 		{

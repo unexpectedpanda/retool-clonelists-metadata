@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Panasonic - 3DO Interactive Multiplayer (Redump)",
-		"lastUpdated": "26 December 2023",
+		"lastUpdated": "05 August 2025",
 		"minimumVersion": "2.02"
 	},
 
@@ -31,7 +31,7 @@
 			"group": "Crime Patrol",
 			"titles": [
 				{"searchTerm": "Crime Patrol"},
-				{"searchTerm": "Crime Patrol (3DO Developer Services)", "categories": ["Preproduction"], "priority": 2}
+				{"searchTerm": "Crime Patrol (Arcade CD-ROM)", "priority": 2}
 			]
 		},
 		{
@@ -107,9 +107,8 @@
 		{
 			"group": "Eye of Typhoon, The",
 			"titles": [
-				{"searchTerm": "Eye of Typhoon"},
-				{"searchTerm": "Eye of Typhoon, The", "priority": 2},
-				{"searchTerm": "Eye of Typhoon, The (Disc 1)", "priority": 3}
+				{"searchTerm": "Eye of Typhoon, The"},
+				{"searchTerm": "Eye of Typhoon, The (Disc 1)", "priority": 2}
 			]
 		},
 		{

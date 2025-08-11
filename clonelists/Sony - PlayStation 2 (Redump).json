@@ -1,26 +1,9 @@
 {
 	"description": {
 		"name": "Sony - PlayStation 2 (Redump)",
-		"lastUpdated": "16 June 2024",
+		"lastUpdated": "11 August 2025",
 		"minimumVersion": "2.02"
 	},
-
-	"mias": [
-		"Action Replay Ultimate Cheats for Use with The Sims (UK) (Unl)",
-		"CD avec les Codes Action Replay Exclusivement pour le Jeu Gran Turismo 4 (France) (Unl)",
-		"CD avec les Codes Exclusifs et Inedits de Harry Potter et la Chambre des Secrets (France) (Unl)",
-		"Gran Turismo - Subaru Driving Simulator Version (Japan)",
-		"Gran Turismo 3 - A-Spec - Autobacs Tentou Shiyuu Disc (Japan)",
-		"Gran Turismo 4 - Lupo Cup Training Version (Japan)",
-		"Guitar Hero - Aerosmith (Korea) (En,Fr)",
-		"LEGO Super Soccer Adventure (Europe) (Proto) (2003-03-27)",
-		"LEGO Super Soccer Adventure (Europe) (Proto) (2003-04-24)",
-		"Playcodes Disc02 (France) (Unl)",
-		"Playcodes Disc06 (France) (Unl)",
-		"Routes PE (Japan) (Shokai Genteiban)",
-		"Taz - Wanted (Europe) (Beta) (2001-11-27)",
-		"Taz - Wanted (Europe) (Beta) (2002-04-02)"
-	],
 
 	"variants": [
 		{
@@ -111,6 +94,28 @@
 			]
 		},
 		{
+			"group": "Action Replay Ultimate Cheats for Final Fantasy X",
+			"titles": [
+				{"searchTerm": "Action Replay Ultimate Cheats for Final Fantasy X"},
+				{"searchTerm": "Action Replay Ultimate Cheats pour Final Fantasy X"}
+			]
+		},
+		{
+			"group": "Action Replay Ultimate Codes for Use with Gran Turismo 4",
+			"titles": [
+				{"searchTerm": "Action Replay Ultimate Codes for Use with Gran Turismo 4"},
+				{"searchTerm": "CD avec les codes Action Replay exclusivement pour le Jeu Gran Turismo 4"}
+			]
+		},
+		{
+			"group": "Action Replay Ultimate Cheats for Use with Grand Theft Auto - San Andreas",
+			"titles": [
+				{"searchTerm": "Action Replay Ultimate Cheats for Use with Grand Theft Auto - San Andreas"},
+				{"searchTerm": "Action Replay Ultimate Cheats fuer Grand Theft Auto - San Andreas"},
+				{"searchTerm": "CD avec les codes Action Replay exclusivement pour le jeu Grand Theft Auto - San Andreas"}
+			]
+		},
+		{
 			"group": "Action Replay Ultimate Codes for Use with Grand Theft Auto - Vice City",
 			"titles": [
 				{"searchTerm": "Action Replay Ultimate Codes for Use with Grand Theft Auto - Vice City"},
@@ -123,6 +128,27 @@
 				{"searchTerm": "Action Replay Ultimate Codes for Use with Lara Croft Tomb Raider - The Angel of Darkness"},
 				{"searchTerm": "CD avec les Codes Action Replay Exclusivement pour le Jeu Lara Croft Tomb Raider - The Angel of Darkness"},
 				{"searchTerm": "Ultimate Cheats fuer Lara Croft Tomb Raider - The Angel of Darkness"}
+			]
+		},
+		{
+			"group": "Action Replay Ultimate Cheats for Use with Metal Gear Solid 3 - Snake Eater",
+			"titles": [
+				{"searchTerm": "Action Replay Ultimate Cheats for Use with Metal Gear Solid 3 - Snake Eater"},
+				{"searchTerm": "Action Replay Ultimate Cheats fuer Metal Gear Solid 3 - Snake Eater"}
+			]
+		},
+		{
+			"group": "Action Replay Ultimate Codes for Use with Soul Calibur II",
+			"titles": [
+				{"searchTerm": "Action Replay Ultimate Codes for Use with Soul Calibur II"},
+				{"searchTerm": "CD avec les codes Action Replay exclusivement pour le jeu Soul Calibur II"}
+			]
+		},
+		{
+			"group": "Action Replay Ultimate Cheats for Use with The Sims",
+			"titles": [
+				{"searchTerm": "Action Replay Ultimate Cheats for Use with The Sims"},
+				{"searchTerm": "Action Replay Ultimate Cheats fuer Die Sims"}
 			]
 		},
 		{
@@ -152,6 +178,20 @@
 				{"searchTerm": "Adventures of Darwin, The"},
 				{"searchTerm": "Darwin"},
 				{"searchTerm": "Simple 2000 Series Vol. 99 - The Genshijin"}
+			]
+		},
+		{
+			"group": "Aeon Flux",
+			"titles": [
+				{
+					"searchTerm": "Aeon Flux",
+					"localNames": {
+						"english": "Æon Flux",
+						"french": "Æon Flux",
+						"german": "Æon Flux",
+						"spanish": "Æon Flux"
+					}
+				}
 			]
 		},
 		{
@@ -380,6 +420,13 @@
 			]
 		},
 		{
+			"group": "Armored Core - Nexus (Evolution)",
+			"titles": [
+				{"searchTerm": "Armored Core - Nexus (Evolution)"},
+				{"searchTerm": "Armored Core - Nexus (Disc 1) (Evolution)"}
+			]
+		},
+		{
 			"group": "Army Men - Air Attack 2",
 			"titles": [
 				{"searchTerm": "Army Men - Air Attack - Blade's Revenge"},
@@ -419,6 +466,20 @@
 			"titles": [
 				{"searchTerm": "Asterix & Obelix - Kick Buttix"},
 				{"searchTerm": "Asterix & Obelix XXL"}
+			]
+		},
+		{
+			"group": "Asterix & Obelix XXL 2",
+			"titles": [
+				{
+					"searchTerm": "Asterix & Obelix XXL 2",
+					"localNames": {
+						"dutch": "Astérix & Obélix XXL 2",
+						"english": "Astérix & Obélix XXL 2",
+						"italian": "Astérix & Obélix XXL 2",
+						"spanish": "Astérix & Obélix XXL 2"
+					}
+				}
 			]
 		},
 		{
@@ -566,10 +627,10 @@
 			]
 		},
 		{
-			"group": "Boboboubo Boubobo - Atsumare!! Taikan Boubobo (Doukonban)",
+			"group": "Bobobo-bo Bo-bobo - Atsumare!! Taikan Bo-bobo",
 			"titles": [
-				{"searchTerm": "Boboboubo Boubobo - Atsumare!! Taikan Boubobo (Doukonban)"},
-				{"searchTerm": "Boboboubo Boubobo - Atsumare!! Taikan Boubobo", "priority": 2}
+				{"searchTerm": "Bobobo-bo Bo-bobo - Atsumare!! Taikan Bo-bobo (Doukonban)"},
+				{"searchTerm": "Bobobo-bo Bo-bobo - Atsumare!! Taikan Bo-bobo", "priority": 2}
 			]
 		},
 		{
@@ -658,8 +719,7 @@
 			"titles": [
 				{"searchTerm": "Bujingai"},
 				{"searchTerm": "Bujingai - Swordmaster"},
-				{"searchTerm": "Bujingai - The Forsaken City"},
-				{"searchTerm": "Muinga"}
+				{"searchTerm": "Bujingai - The Forsaken City"}
 			]
 		},
 		{
@@ -683,12 +743,114 @@
 				{"searchTerm": "Buzz! Brain of Oz"},
 				{"searchTerm": "Buzz! Brain of Switzerland"},
 				{"searchTerm": "Buzz! Brain of the UK"},
-				{"searchTerm": "Buzz! Brain of the World"},
+				{
+					"searchTerm": "Buzz! Brain of the World",
+					"filters": [
+						{
+							"conditions": {
+								"matchLanguages": ["En", "Hr", "Pl"]
+							},
+							"results": {
+								"localNames": {
+									"croatian": "Buzz! Mozak Hrvatske",
+									"english": "Buzz! Brain of the World",
+									"polish": "Buzz! Polskie Łamigłówki"
+								}
+							}
+						},
+						{
+							"conditions": {
+								"matchLanguages": ["En", "Da", "No"]
+							},
+							"results": {
+								"localNames": {
+									"danish": "Buzz! Danske Genier",
+									"english": "Buzz! Brain of the World",
+									"norwegian": "Buzz! Norgesmester"
+								}
+							}
+						},
+						{
+							"conditions": {
+								"matchLanguages": ["En", "Fi", "Sv"]
+							},
+							"results": {
+								"localNames": {
+									"english": "Buzz! Brain of the World",
+									"finnish": "Buzz! Suomen Neropatti",
+									"swedish": "Buzz! Svenska Genier"
+								}
+							}
+						}
+					]
+				},
 				{"searchTerm": "Buzz! De Slimste van Nederland"},
-				{"searchTerm": "Buzz! Deutschlands Superquiz"},
+				{
+					"searchTerm": "Buzz! Deutschlands Superquiz",
+					"filters": [
+						{
+							"conditions": {
+								"matchRegions": ["Europe"],
+								"regionOrder": {
+									"higherRegions": ["Austria"],
+									"lowerRegions": ["Germany"]
+								}
+							},
+							"results": {
+								"localNames": {
+									"german": "Buzz! Das große Länderquiz"
+								}
+							}
+						},
+						{
+							"conditions": {
+								"matchRegions": ["Europe"],
+								"regionOrder": {
+									"higherRegions": ["Germany"],
+									"lowerRegions": ["Austria"]
+								}
+							},
+							"results": {
+								"localNames": {
+									"german": "Buzz! Deutschlands Superquiz"
+								}
+							}
+						}
+					]
+				},
 				{"searchTerm": "Buzz! Il Quizzone Nazionale"},
 				{"searchTerm": "Buzz! Le Plus Malin des Francais"},
-				{"searchTerm": "Buzz! Que Sabes de tu Pais"}
+				{
+					"searchTerm": "Buzz! Que Sabes de tu Pais",
+					"filters": [
+						{
+							"conditions": {
+								"regionOrder": {
+									"higherRegions": ["Portugal"],
+									"lowerRegions": ["Spain"]
+								}
+							},
+							"results": {
+								"localNames": {
+									"german": "Buzz! Quem é o Génio Português"
+								}
+							}
+						},
+						{
+							"conditions": {
+								"regionOrder": {
+									"higherRegions": ["Spain"],
+									"lowerRegions": ["Portugal"]
+								}
+							},
+							"results": {
+								"localNames": {
+									"german": "Buzz! Que Sabes de tu Pais"
+								}
+							}
+						}
+					]
+				}
 			]
 		},
 		{
@@ -822,6 +984,32 @@
 			"titles": [
 				{"searchTerm": "Car Racing Challenge"},
 				{"searchTerm": "Simple 2000 Series Vol. 68 - The Tousou Highway - Nagoya-Tokyo"}
+			]
+		},
+		{
+			"group": "Carol Vorderman's Sudoku",
+			"titles": [
+				{
+					"searchTerm": "Carol Vorderman's Sudoku",
+					"filters": [
+						{
+							"conditions": {
+								"matchLanguages": ["De", "En", "Es", "Fr", "It"]
+							},
+							"results": {
+								"localNames": [
+									{
+										"english": "Carol Vorderman's Sudoku",
+										"french": "Professeur Sudoku",
+										"german": "Sudoku Coach, Der",
+										"italian": "Professor Sudoku",
+										"spanish": "Professor Sudoku"
+									}
+								]
+							}
+						}
+					]
+				}
 			]
 		},
 		{
@@ -973,7 +1161,6 @@
 			"group": "Contra - Shattered Soldier",
 			"titles": [
 				{"searchTerm": "Contra - Shattered Soldier"},
-				{"searchTerm": "Jin Hondura"},
 				{"searchTerm": "Shin Contra"}
 			]
 		},
@@ -1192,7 +1379,8 @@
 			"group": "Death by Degrees",
 			"titles": [
 				{"searchTerm": "Death by Degrees"},
-				{"searchTerm": "Death by Degrees - Tekken - Nina Willams"},
+				{"searchTerm": "Death by Degrees - Tekken - Nina"},
+				{"searchTerm": "Death by Degrees - Tekken - Nina Williams"},
 				{"searchTerm": "Tekken's Nina Williams in - Death by Degrees"}
 			]
 		},
@@ -1406,7 +1594,8 @@
 			"titles": [
 				{"searchTerm": "Disney-Pixar A Procura de Nemo"},
 				{"searchTerm": "Disney-Pixar Alla Ricerca di Nemo"},
-				{"searchTerm": "Disney-Pixar Finding Nemo"}
+				{"searchTerm": "Disney-Pixar Finding Nemo"},
+				{"searchTerm": "Disney-Pixar Nemo-reul Chajaseo"}
 			]
 		},
 		{
@@ -1477,7 +1666,45 @@
 			"group": "Disney's Chicken Little",
 			"titles": [
 				{"searchTerm": "Chicken Little"},
-				{"searchTerm": "Disney's Chicken Little"},
+				{
+					"searchTerm": "Disney's Chicken Little",
+					"filters": [
+						{
+							"conditions": {
+								"matchRegions": ["Scandinavia"],
+								"regionOrder": {
+									"higherRegions": ["Denmark", "Sweden"],
+									"lowerRegions": ["Norway"]
+								}
+							},
+							"results": {
+								"localNames": {
+									"danish": "Disneys Lilla Kycklingen"
+								}
+							}
+						},
+						{
+							"conditions": {
+								"matchRegions": ["Scandinavia"],
+								"regionOrder": {
+									"higherRegions": ["Norway"],
+									"lowerRegions": ["Denmark", "Sweden"]
+								}
+							},
+							"results": {
+								"localNames": {
+									"danish": "Disneys Chicken Little"
+								}
+							}
+						}
+					],
+					"localNames": {
+						"english": "Disney's Chicken Little",
+						"italian": "Disney's Chicken Little - Amici per le Penne",
+						"russian": "Disney's Chicken Little - Цыплёнок Цыпа",
+						"spanish": "Disney's Chicken Little"
+					}
+				},
 				{"searchTerm": "Disney Chicken Little"},
 				{"searchTerm": "Disneys Himmel und Huhn"}
 			]
@@ -1875,6 +2102,28 @@
 			]
 		},
 		{
+			"group": "Dynasty Warriors 6 (Disc 1)",
+			"titles": [
+				{"searchTerm": "Shin Sangoku Musou 5 Special (Disc 1)"}
+			],
+			"supersets": [
+				{"searchTerm": "Dynasty Warriors 6"},
+				{"searchTerm": "Jin Samguk Mussang 5 Special"},
+				{"searchTerm": "Zhen Sanguo Wushuang 5 Special"}
+			]
+		},
+		{
+			"group": "Dynasty Warriors 6 (Disc 2)",
+			"titles": [
+				{"searchTerm": "Shin Sangoku Musou 5 Special (Disc 2)"}
+			],
+			"supersets": [
+				{"searchTerm": "Dynasty Warriors 6"},
+				{"searchTerm": "Jin Samguk Mussang 5 Special"},
+				{"searchTerm": "Zhen Sanguo Wushuang 5 Special"}
+			]
+		},
+		{
 			"group": "E.O.E - Eve of Extinction",
 			"titles": [
 				{"searchTerm": "E.O.E - Eve of Extinction"},
@@ -1999,9 +2248,9 @@
 			]
 		},
 		{
-			"group": "Ever 17 - The Out of Infinity Premium Edition",
+			"group": "Ever 17 - The Out of Infinity",
 			"titles": [
-				{"searchTerm": "Ever 17 - The Out of Infinity Premium Edition"},
+				{"searchTerm": "Ever 17 - The Out of Infinity - Premium Edition"},
 				{"searchTerm": "Ever 17 - The Out of Infinity", "priority": 4},
 				{"searchTerm": "SuperLite 2000 Vol. 24 - Ever 17 - The Out of Infinity - Premium Edition", "priority": 2}
 			]
@@ -2390,7 +2639,6 @@
 			"group": "Forbidden Siren 2",
 			"titles": [
 				{"searchTerm": "Forbidden Siren 2"},
-				{"searchTerm": "Si Hun Qu"},
 				{"searchTerm": "Siren 2"}
 			]
 		},
@@ -2552,6 +2800,7 @@
 			"group": "Galactic Wrestling featuring Ultimate Muscle - The Kinnikuman Legacy",
 			"titles": [
 				{"searchTerm": "Galactic Wrestling featuring Ultimate Muscle - The Kinnikuman Legacy"},
+				{"searchTerm": "Geunyukman Generations"},
 				{"searchTerm": "Kinnikuman Generations"}
 			]
 		},
@@ -2898,18 +3147,6 @@
 			]
 		},
 		{
-			"group": "GuitarFreaks & DrumMania V3",
-			"titles": [
-				{"searchTerm": "GuitarFreaks & DrumMania V3", "nameType": "regionFree"}
-			]
-		},
-		{
-			"group": "GuitarFreaks V2 & DrumMania V2",
-			"titles": [
-				{"searchTerm": "GuitarFreaks V2 & DrumMania V2", "nameType": "regionFree"}
-			]
-		},
-		{
 			"group": "Guncom 2",
 			"titles": [
 				{"searchTerm": "Death Crimson OX+"},
@@ -2956,8 +3193,8 @@
 		{
 			"group": "Hanjuku Hero tai 3D",
 			"titles": [
-				{"searchTerm": "Bansuk Yeongung vs. 3D"},
-				{"searchTerm": "Hanjuku Hero tai 3D"}
+				{"searchTerm": "Hanjuku Hero tai 3D"},
+				{"searchTerm": "Soft Boiled Hero vs. 3D"}
 			],
 			"supersets": [
 				{"searchTerm": "Hanjuku Hero tai 3D (Tokudaigou)"}
@@ -3002,7 +3239,41 @@
 		{
 			"group": "Harry Potter and the Chamber of Secrets",
 			"titles": [
-				{"searchTerm": "Harry Potter and the Chamber of Secrets"},
+				{
+					"searchTerm": "Harry Potter and the Chamber of Secrets",
+					"filters": [
+						{
+							"conditions": {
+								"matchRegions": ["Asia"]
+							},
+							"results": {
+								"localNames": {
+									"chinese (traditional)": "哈利波特：消失的密室"
+								}
+							}
+						},
+						{
+							"conditions": {
+								"matchRegions": ["Denmark"]
+							},
+							"results": {
+								"localNames": {
+									"danish": "Harry Potter og Hemmelighedernes Kammer"
+								}
+							}
+						},
+						{
+							"conditions": {
+								"matchRegions": ["Korea"]
+							},
+							"results": {
+								"localNames": {
+									"korean": "해리포터와 비밀의 방"
+								}
+							}
+						}
+					]
+				},
 				{"searchTerm": "Harry Potter e a Camara dos Segredos"},
 				{"searchTerm": "Harry Potter e la Camera dei Segreti"},
 				{"searchTerm": "Harry Potter en de Geheime Kamer"},
@@ -3017,25 +3288,239 @@
 			]
 		},
 		{
+			"group": "Harry Potter and the Goblet of Fire",
+			"titles": [
+				{
+					"searchTerm": "Harry Potter and the Goblet of Fire",
+					"filters": [
+						{
+							"conditions": {
+								"matchLanguages": ["Da", "En", "Fi", "Nl", "No", "Pl", "Sv"]
+							},
+							"results": {
+								"localNames": {
+									"danish": "Harry Potter og Flammernes Pokal",
+									"dutch": "Harry Potter en du Vuurbeker",
+									"english": "Harry Potter and the Goblet of Fire",
+									"finnish": "Harry Potter ja Liekehtivä Pikari",
+									"norwegian": "Harry Potter og Ildbegeret",
+									"polish": "Harry Potter i Czara Ognia",
+									"swedish": "Harry Potter och den Flammande Bägaren"
+								}
+							}
+						},
+						{
+							"conditions": {
+								"matchLanguages": ["De", "Es", "Fr", "It", "Pt"]
+							},
+							"results": {
+								"localNames": {
+									"french": "Harry Potter et la Coupe de Feu",
+									"german": "Harry Potter und der Feuerkelch",
+									"italian": "Harry Potter il Calice di Fuoco",
+									"portuguese": "Harry Potter e o Cálice de Fogo",
+									"spanish": "Harry Potter el Cáliz de Fuego"
+								}
+							}
+						},
+						{
+							"conditions": {
+								"matchregion": ["Korea"]
+							},
+							"results": {
+								"localNames": {
+									"korean": "해리포터와 불의 잔"
+								}
+							}
+						}
+					]
+				}
+			]
+		},
+		{
+			"group": "Harry Potter and the Half-Blood Prince",
+			"titles": [
+				{
+					"searchTerm": "Harry Potter and the Half-Blood Prince",
+					"filters": [
+						{
+							"conditions": {
+								"matchLanguages": ["Da", "De", "En", "Fi", "No", "Sv"]
+							},
+							"results": {
+								"localNames": {
+									"danish": "Harry Potter og Halvblodsprinsen",
+									"english": "Harry Potter and the Half-Blood Prince",
+									"finnish": "Harry Potter ja Puoliverinen Prinssi",
+									"german": "Harry Potter und der Halbblutprinz",
+									"norwegian": "Harry Potter og Halvblodsprinsen",
+									"swedish": "Harry Potter och Halvblodsprinsen"
+								}
+							}
+						},
+						{
+							"conditions": {
+								"matchLanguages": ["Cs", "En", "Es", "Fr", "Hu", "It", "Nl", "Pl", "Pt", "Ru"]
+							},
+							"results": {
+								"localNames": {
+									"czech": "Harry Potter a Princ dvojí krve",
+									"dutch": "Harry Potter en de Halfbloed Prins",
+									"english": "Harry Potter and the Half Blood Prince",
+									"french": "Harry Potter et le Prince de sang-mêlé",
+									"hungarian": "Harry Potter és a Félvér Herceg",
+									"italian": "Harry Potter e il Principe Mezzosangue",
+									"polish": "Harry Potter i Książę Półkrwi",
+									"portuguese": "Harry Potter e o Príncipe Misterioso",
+									"russian": "Гарри Поттер и принц-полукровка",
+									"spanish": "Harry Potter y el Misterio del Príncipe"
+								}
+							}
+						}
+					]
+				}
+			]
+		},
+		{
 			"group": "Harry Potter and the Order of the Phoenix",
 			"titles": [
-				{"searchTerm": "Harry Potter and the Order of the Phoenix"},
+				{
+					"searchTerm": "Harry Potter and the Order of the Phoenix",
+					"filters": [
+						{
+							"conditions": {
+								"matchLanguages": ["Cs", "En", "Hu", "Pl", "Ru"]
+							},
+							"results": {
+								"localNames": {
+									"czech": "Harry Potter a Fénixův řád",
+									"english": "Harry Potter and the Order of the Phoenix",
+									"hungarian": "Harry Potter és a Főnix Rendje",
+									"polish": "Harry Potter i Zakon Feniksa",
+									"russian": "Гарри Поттер и Орден Феникса"
+								}
+							}
+						},
+						{
+							"conditions": {
+								"matchLanguages": ["Da", "En", "Fi", "Nl", "No", "Sv"]
+							},
+							"results": {
+								"localNames": {
+									"danish": "Harry Potter og Fønixordenen",
+									"dutch": "Harry Potter en de Orde van de Feniks",
+									"english": "Harry Potter and the Order of the Phoenix",
+									"finnish": "Harry Potter ja Feeniksin Kilta",
+									"norwegian": "Harry Potter og Føniksordenen",
+									"swedish": "Harry Potter och Fenixorden"
+								}
+							}
+						},
+						{
+							"conditions": {
+								"matchLanguages": ["De", "Es", "Fr", "It", "Pt"]
+							},
+							"results": {
+								"localNames": {
+									"french": "Harry Potter et l'Ordre du Phénix",
+									"german": "Harry Potter und der Orden des Phönix",
+									"italian": "Harry Potter e l'Ordine della Fenice",
+									"portuguese": "Harry Potter Ordem da Fénix",
+									"spanish": "Harry Potter y la Orden del Fénix"
+								}
+							}
+						}
+					]
+				},
 				{"searchTerm": "Harry Potter to Fushichou no Kishidan"}
 			]
 		},
 		{
 			"group": "Harry Potter and the Prisoner of Azkaban",
 			"titles": [
-				{"searchTerm": "Harry Potter and the Prisoner of Azkaban"},
+				{
+					"searchTerm": "Harry Potter and the Prisoner of Azkaban",
+					"filters": [
+						{
+							"conditions": {
+								"matchLanguags": ["Da", "En", "No", "Sv"]
+							},
+							"results": {
+								"localNames": {
+									"danish": "Harry Potter og fangen fra Azkaban",
+									"english": "Harry Potter and the Prisoner of Azkaban",
+									"norwegian": "Harry Potter og fangen fra Azkaban",
+									"spanish": "Harry Potter och Fången från Azkaban"
+								}
+							}
+						},
+						{
+							"conditions": {
+								"matchLanguags": ["De", "En", "Es", "Fr", "It", "Nl", "Pt"]
+							},
+							"results": {
+								"localNames": {
+									"dutch": "Harry Potter ",
+									"english": "Harry Potter and the Prisoner of Azkaban",
+									"french": "Harry Potter et le Prisonnier d'Azkaban",
+									"german": "Harry Potter und der Gefangene von Askaban",
+									"italian": "Harry Potter e il prigioniero di Azkaban",
+									"portuguese": "Harry Potter e o Prisioneiro de Azkaban",
+									"spanish": "Harry Potter y el pisionero de Azkaban"
+								}
+							}
+						}
+					]
+				},
 				{"searchTerm": "Harry Potter i Wiezien Azkabanu"},
-				{"searchTerm": "Harry Potter to Azkaban no Shuujin"}
+				{"searchTerm": "Harry Potter to Azkaban no Shuujin"},
+				{"searchTerm": "Harry Potter-wa Azkaban-ui Joesu", "localNames": {"korean": "해리 포터와 아즈카반의 죄수"}}
 			]
 		},
 		{
 			"group": "Harry Potter and the Sorcerer's Stone",
 			"titles": [
-				{"searchTerm": "Harry Potter and the Philosopher's Stone"},
-				{"searchTerm": "Harry Potter and the Sorcerer's Stone"},
+				{
+					"searchTerm": "Harry Potter and the Philosopher's Stone",
+					"filters": [
+						{
+							"conditions": {
+								"matchLanguages": ["Cs", "En,", "Pl"]
+							},
+							"results": {
+								"czech": "Harry Potter a Kámen Mudrců",
+								"english": "Harry Potter and the Philosopher's Stone",
+								"polish": "Harry Potter i Kamień Filozoficzny"
+							}
+						},
+						{
+							"conditions": {
+								"matchLanguages": ["Da", "De,", "En", "Es", "Fr", "It", "Nl", "No", "Pt", "Sv"]
+							},
+							"results": {
+								"danish": "Harry Potter og de Vises Sten",
+								"dutch": "Harry Potter en de Steen der Wijzen",
+								"english": "Harry Potter and the Philosopher's Stone",
+								"french": "Harry Potter a l'École des Sorciers",
+								"german": "Harry Potter un der Stein der Weisen",
+								"italian": "Harry Potter e la Pietra Filosofale",
+								"norwegian": "Harry Potter og de Vises Stein",
+								"portuguese": "Harry Potter e a Pedra Filosfal",
+								"spanish": "Harry Potter y la Piedra Filosofal",
+								"swedish": "Harry Potter och de Vises Sten"
+							}
+						}
+					]
+				},
+				{
+					"searchTerm": "Harry Potter and the Sorcerer's Stone",
+					"localNames": [
+						{
+							"english": "Harry Potter and the Sorcerer's Stone",
+							"spanish": "Harry Potter y la Piedra Filosofal"
+						}
+					]
+				},
 				{"searchTerm": "Harry Potter to Kenja no Ishi"}
 			]
 		},
@@ -3065,7 +3550,7 @@
 			"group": "Harukanaru Toki no Naka de 3",
 			"titles": [
 				{"searchTerm": "Harukanaru Toki no Naka de 3 (History Box)"},
-				{"searchTerm": "Harukanaru Toki no Naka de 3 (Triple Pack)", "priority": 2},
+				{"searchTerm": "Harukanaru Toki no Naka de 3 (Premium Box)", "priority": 2},
 				{"searchTerm": "Harukanaru Toki no Naka de 3", "priority": 3}
 			]
 		},
@@ -3182,7 +3667,37 @@
 			"group": "Horsez",
 			"titles": [
 				{"searchTerm": "Horsez"},
-				{"searchTerm": "Pippa Funnell - Take the Reins"}
+				{
+					"searchTerm": "Pippa Funnell - Take the Reins",
+					"filters": [
+						{
+							"conditions": {
+								"matchLanguages": ["De", "En", "Fr"]
+							},
+							"results": {
+								"localNames": {
+									"english": "Pippa Funnell - Take the Reins",
+									"french": "Alexandra Ledermann - L'École Des Champions",
+									"german": "Horsez"
+								}
+							}
+						},
+						{
+							"conditions": {
+								"matchLanguages": ["De", "En", "Es", "Fr", "Nl"]
+							},
+							"results": {
+								"localNames": {
+									"dutch": "Horsez",
+									"english": "Pippa Funnell - Take the Reins",
+									"french": "Alexandra Ledermann - L'École Des Champions",
+									"german": "Horsez",
+									"spanish": "Horsez"
+								}
+							}
+						}
+					]
+				}
 			]
 		},
 		{
@@ -3415,14 +3930,6 @@
 			]
 		},
 		{
-			"group": "Jonny Moseley Mad Trix",
-			"titles": [
-				{"searchTerm": "Jonny Moseley Mad Trix"},
-				{"searchTerm": "Jonny Moseley Mad Trix (DVD Preview)", "priority": 2},
-				{"searchTerm": "Jonny Moseley Mad Trix (Pre-Alpha)", "priority": 3}
-			]
-		},
-		{
 			"group": "Juiced",
 			"titles": [
 				{"searchTerm": "Juiced"},
@@ -3615,10 +4122,11 @@
 			]
 		},
 		{
-			"group": "Kindan no Pet - Seaman - Gasse Hakase no Jikken-tou (Sea-Mic Controller Original Doukonban)",
+			"group": "Kindan no Pet - Seaman - Gasse Hakase no Jikken-tou",
 			"titles": [
 				{"searchTerm": "Kindan no Pet - Seaman - Gasse Hakase no Jikken-tou (Sea-Mic Controller Original Doukonban)"},
-				{"searchTerm": "Kindan no Pet - Seaman - Gasse Hakase no Jikken-tou (Sea-Mic Controller Doukonban)", "priority": 2}
+				{"searchTerm": "Kindan no Pet - Seaman - Gasse Hakase no Jikken-tou (Sea-Mic Controller Doukonban)", "priority": 2},
+				{"searchTerm": "Kindan no Pet - Seaman - Gasse Hakase no Jikken-tou", "priority": 3}
 			]
 		},
 		{
@@ -3807,13 +4315,6 @@
 			]
 		},
 		{
-			"group": "LEGO Island Xtreme Stunts",
-			"titles": [
-				{"searchTerm": "Island Xtreme Stunts"},
-				{"searchTerm": "LEGO Island Xtreme Stunts"}
-			]
-		},
-		{
 			"group": "Lemony Snicket's A Series of Unfortunate Events",
 			"titles": [
 				{"searchTerm": "Desastreuses Aventures des Orphelins Baudelaire, Les - D'Apres Lemony Snicket"},
@@ -3849,8 +4350,8 @@
 			"group": "Life Line",
 			"titles": [
 				{"searchTerm": "Life Line"},
-				{"searchTerm": "Operator's Side"},
-				{"searchTerm": "Operator's Side (Doukonban)"}
+				{"searchTerm": "Operator's Side (Doukonban)"},
+				{"searchTerm": "Operator's Side", "priority": 2}
 			]
 		},
 		{
@@ -3921,7 +4422,7 @@
 			"group": "Lord of the Rings, The - The Return of the King",
 			"titles": [
 				{"searchTerm": "Herr der Ringe, Der - Die Rueckkehr des Koenigs"},
-				{"searchTerm": "Lord of the Rings, The - Ou no Kikan"},
+				{"searchTerm": "Lord of the Rings - Ou no Kikan"},
 				{"searchTerm": "Lord of the Rings, The - The Return of the King"},
 				{"searchTerm": "Seigneur des Anneaux, Le - Le Retour du Roi"},
 				{"searchTerm": "Senor de los Anillos, El - El Retorno del Rey"},
@@ -3932,7 +4433,7 @@
 			"group": "Lord of the Rings, The - The Third Age",
 			"titles": [
 				{"searchTerm": "Herr der Ringe, Der - Das dritte Zeitalter"},
-				{"searchTerm": "Lord of the Rings, The - Nakatsu Kuni Daisanki"},
+				{"searchTerm": "Lord of the Rings - Nakatsu Kuni Daisanki"},
 				{"searchTerm": "Lord of the Rings, The - The Third Age"},
 				{"searchTerm": "Seigneur des Anneaux, Le - Le Tiers Age"},
 				{"searchTerm": "Senor de los Anillos, El - La Tercera Edad"},
@@ -3943,12 +4444,12 @@
 			"group": "Lord of the Rings, The - The Two Towers",
 			"titles": [
 				{"searchTerm": "Herr der Ringe, Der - Die zwei Tuerme"},
-				{"searchTerm": "Lord of the Rings, The - Futatsu no Tou (Collectors Box)"},
+				{"searchTerm": "Lord of the Rings - Futatsu no Tou (Collectors Box)"},
 				{"searchTerm": "Lord of the Rings, The - The Two Towers"},
 				{"searchTerm": "Seigneur des Anneaux, Le - Les Deux Tours"},
 				{"searchTerm": "Senor de los Anillos, El - Las Dos Torres"},
 				{"searchTerm": "Signore degli Anelli, Il - Le Due Torri"},
-				{"searchTerm": "Lord of the Rings, The - Futatsu no Tou", "priority": 2}
+				{"searchTerm": "Lord of the Rings - Futatsu no Tou", "priority": 2}
 			]
 		},
 		{
@@ -4760,20 +5261,6 @@
 			]
 		},
 		{
-			"group": "NBA Street",
-			"titles": [
-				{
-					"searchTerm": "NBA Street",
-					"filters": [
-						{
-							"conditions": {"matchString": "V3"},
-							"results": {"group": "NBA Street V3"}
-						}
-					]
-				}
-			]
-		},
-		{
 			"group": "NBA Street Vol. 2",
 			"titles": [
 				{"searchTerm": "NBA Street 2 - Dunk Tengoku"},
@@ -4905,7 +5392,7 @@
 			"group": "Nickelodeon SpongeBob SquarePants - Lights, Camera, Pants!",
 			"titles": [
 				{"searchTerm": "Nickelodeon Bob Esponja - Luces, Camara, Esponja!"},
-				{"searchTerm": "Nickelodeon Bob L'eponge - Silence on Tourne!"},
+				{"searchTerm": "Nickelodeon Bob L'eponge - Silence on Tourne !"},
 				{"searchTerm": "Nickelodeon SpongeBob - Ciak si Gira!"},
 				{"searchTerm": "Nickelodeon SpongeBob Schwammkopf - Film ab!"},
 				{"searchTerm": "Nickelodeon SpongeBob SquarePants - Licht uit, Camera aan!"},
@@ -4914,12 +5401,12 @@
 			]
 		},
 		{
-			"group": "Nickelodeon SpongeBob SquarePants - The Movie",
+			"group": "Nickelodeon The SpongeBob SquarePants Movie",
 			"titles": [
 				{"searchTerm": "Nickelodeon Bob Esponja - La Pelicula"},
 				{"searchTerm": "Nickelodeon SpongeBob - Il Film"},
 				{"searchTerm": "Nickelodeon SpongeBob Schwammkopf - Der Film"},
-				{"searchTerm": "Nickelodeon SpongeBob SquarePants - The Movie"}
+				{"searchTerm": "Nickelodeon The SpongeBob SquarePants Movie"}
 			]
 		},
 		{
@@ -5103,13 +5590,6 @@
 			]
 		},
 		{
-			"group": "Operator's Side",
-			"titles": [
-				{"searchTerm": "Operator's Side (Doukonban)"},
-				{"searchTerm": "Operator's Side", "priority": 2}
-			]
-		},
-		{
 			"group": "Orphen - Scion of Sorcery",
 			"titles": [
 				{"searchTerm": "Orphen - Scion of Sorcery"},
@@ -5163,6 +5643,7 @@
 			"group": "Party Girls",
 			"titles": [
 				{"searchTerm": "Party Girls"},
+				{"searchTerm": "Simple 2000 Series - The Suyeongdaehoe"},
 				{"searchTerm": "Simple 2000 Series Vol. 63 - Mogitate Mizugi! Onna Mamire no - The Suiei Taikai"}
 			]
 		},
@@ -5303,6 +5784,37 @@
 			"titles": [
 				{"searchTerm": "Black Buccaneer"},
 				{"searchTerm": "Pirates - Legend of the Black Buccaneer"}
+			]
+		},
+		{
+			"group": "Plan, Th3",
+			"titles": [
+				{
+					"searchTerm": "Plan, The",
+					"filters": [
+						{
+							"conditions": {
+								"matchLanguages": ["Fr", "It"]
+							},
+							"results": {
+								"localNames": {
+									"french": "Plan, Th3",
+									"italian": "Plan, Th3"
+								}
+							}
+						},
+						{
+							"conditions": {
+								"matchRegions": ["Spain"]
+							},
+							"results": {
+								"localNames": {
+									"spanish": "Plan, Th3"
+								}
+							}
+						}
+					]
+				}
 			]
 		},
 		{
@@ -5468,7 +5980,8 @@
 				{"searchTerm": "Project Minerva"}
 			],
 			"supersets": [
-				{"searchTerm": "Project Minerva Professional"}
+				{"searchTerm": "Project Minerva Professional"},
+				{"searchTerm": "Simple 2000 Series Ultimate Vol. 23 - Project Minerva Professional"}
 			]
 		},
 		{
@@ -5488,10 +6001,10 @@
 		{
 			"group": "Pucelle, La - Tactics",
 			"titles": [
-				{"searchTerm": "Pucelle, La"},
-				{"searchTerm": "Pucelle, La - Hikari no Seijo Densetsu - 2-shuume Hajimemashita."},
+				{"searchTerm": "Pucelle, La - Hikari no Seijo Densetsu"},
+				{"searchTerm": "Pucelle, La - Tactics"},
 				{"searchTerm": "Pucelle, La - Hikari no Seijo Densetsu", "priority": 2},
-				{"searchTerm": "Pucelle, La - Tactics"}
+				{"searchTerm": "Pucelle, La - Hikari no Seijo Densetsu - 2-shuume Hajimemashita.", "priority": 3}
 			]
 		},
 		{
@@ -5570,7 +6083,7 @@
 				{"searchTerm": "Ratchet & Clank - Going Commando"},
 				{"searchTerm": "Ratchet & Clank - Gonggu Jeonsa Daebak Moli"},
 				{"searchTerm": "Ratchet & Clank 2"},
-				{"searchTerm": "Ratchet & Clank 2 - Gagaga! Ginga no Commando-ssu"}
+				{"searchTerm": "Ratchet & Clank 2 - Gagaga! Ginga no Commando ssu"}
 			]
 		},
 		{
@@ -5896,26 +6409,6 @@
 			]
 		},
 		{
-			"group": "Ryuu ga Gotoku 2 (Disc 1)",
-			"titles": [
-				{"searchTerm": "Ryuu ga Gotoku 2 (Disc 1)"}
-			],
-			"supersets": [
-				{"searchTerm": "Ryuu ga Gotoku 2"},
-				{"searchTerm": "Yakuza 2"}
-			]
-		},
-		{
-			"group": "Ryuu ga Gotoku 2 (Disc 2)",
-			"titles": [
-				{"searchTerm": "Ryuu ga Gotoku 2 (Disc 2)"}
-			],
-			"supersets": [
-				{"searchTerm": "Ryuu ga Gotoku 2"},
-				{"searchTerm": "Yakuza 2"}
-			]
-		},
-		{
 			"group": "Saint Seiya - The Hades",
 			"titles": [
 				{"searchTerm": "Saint Seiya - Meiou Hades Juunikyuu-hen"},
@@ -5927,6 +6420,13 @@
 			"titles": [
 				{"searchTerm": "Saint Seiya - Sanctuary Juunikyuu-hen"},
 				{"searchTerm": "Saint Seiya - The Sanctuary"}
+			]
+		},
+		{
+			"group": "Saiyuuki Reload Gunlock",
+			"titles": [
+				{"searchTerm": "Choeyugi Reload Gunlock"},
+				{"searchTerm": "Saiyuuki Reload Gunlock"}
 			]
 		},
 		{
@@ -5958,6 +6458,15 @@
 				{"searchTerm": "Sakura Daejeon V - Annyeong Sarangseureon Geudaeyeo"},
 				{"searchTerm": "Sakura Taisen V - Saraba Itoshiki Hito yo"},
 				{"searchTerm": "Sakura Wars - So Long, My Love (Disc 2) (Japanese Voice Over)"}
+			]
+		},
+		{
+			"group": "Samurai Aces",
+			"titles": [
+				{"searchTerm": "Samurai Aces"}
+			],
+			"compilations": [
+				{"searchTerm": "Psikyo Shooting Collection Vol. 2 - Sengoku Ace & Sengoku Blade", "titlePosition": 1}
 			]
 		},
 		{
@@ -6206,6 +6715,13 @@
 			]
 		},
 		{
+			"group": "Shonen Jump's One Piece - Grand Adventure",
+			"titles": [
+				{"searchTerm": "One Piece - Grand Adventure"},
+				{"searchTerm": "Shonen Jump's One Piece - Grand Adventure"}
+			]
+		},
+		{
 			"group": "Shox",
 			"titles": [
 				{"searchTerm": "Rally Shox"},
@@ -6262,11 +6778,12 @@
 				{"searchTerm": "P3 - Persona 3"},
 				{"searchTerm": "Persona 3"},
 				{"searchTerm": "Shin Megami Tensei - Persona 3"},
-				{"searchTerm": "Yeosin Jeonsaeng Persona 3 FES"}
+				{"searchTerm": "Yeosin Jeonsaeng Persona 3"}
 			],
 			"supersets": [
 				{"searchTerm": "Persona 3 FES"},
-				{"searchTerm": "Shin Megami Tensei - Persona 3 FES"}
+				{"searchTerm": "Shin Megami Tensei - Persona 3 FES"},
+				{"searchTerm": "Yeosin Jeonsaeng Persona 3 FES"}
 			]
 		},
 		{
@@ -6275,28 +6792,6 @@
 				{"searchTerm": "Persona 4"},
 				{"searchTerm": "Shin Megami Tensei - Persona 4"},
 				{"searchTerm": "Yeosin Jeonsaeng Persona 4"}
-			]
-		},
-		{
-			"group": "Shin Sangoku Musou 5 Special (Disc 1)",
-			"titles": [
-				{"searchTerm": "Shin Sangoku Musou 5 Special (Disc 1)"}
-			],
-			"supersets": [
-				{"searchTerm": "Dynasty Warriors 6"},
-				{"searchTerm": "Jin Samguk Mussang 5 Special"},
-				{"searchTerm": "Zhen San Guo Wu Shuang 5 Special"}
-			]
-		},
-		{
-			"group": "Shin Sangoku Musou 5 Special (Disc 2)",
-			"titles": [
-				{"searchTerm": "Shin Sangoku Musou 5 Special (Disc 2)"}
-			],
-			"supersets": [
-				{"searchTerm": "Dynasty Warriors 6"},
-				{"searchTerm": "Jin Samguk Mussang 5 Special"},
-				{"searchTerm": "Zhen San Guo Wu Shuang 5 Special"}
 			]
 		},
 		{
@@ -6476,7 +6971,6 @@
 			"group": "Siren",
 			"titles": [
 				{"searchTerm": "Forbidden Siren"},
-				{"searchTerm": "Si Hun Qu 2"},
 				{"searchTerm": "Siren"}
 			]
 		},
@@ -6507,14 +7001,16 @@
 			"group": "Sly 2 - Band of Thieves",
 			"titles": [
 				{"searchTerm": "Kaitou Sly Cooper 2"},
-				{"searchTerm": "Sly 2 - Band of Thieves"}
+				{"searchTerm": "Sly 2 - Band of Thieves"},
+				{"searchTerm": "Sly Cooper 2 - Goedo Brothers Daejakjeon!"}
 			]
 		},
 		{
 			"group": "Sly 3 - Honor Among Thieves",
 			"titles": [
 				{"searchTerm": "Sly 3 - Honor Among Thieves"},
-				{"searchTerm": "Sly 3 - Honour Among Thieves"}
+				{"searchTerm": "Sly 3 - Honour Among Thieves"},
+				{"searchTerm": "Sly Cooper 3 - Choehu-ui Daedo"}
 			]
 		},
 		{
@@ -6913,10 +7409,10 @@
 			]
 		},
 		{
-			"group": "Swap Magic 3 Plus (DVD)",
+			"group": "Swap Magic 3 Plus",
 			"titles": [
-				{"searchTerm": "Swap Magic 3 Plus (DVD)"},
-				{"searchTerm": "Swap Magic 3 Plus (Disc)", "priority": 2}
+				{"searchTerm": "Swap Magic 3 Plus.*?\\(DVD Version", "nameType": "regex", "priority": 2},
+				{"searchTerm": "Swap Magic 3 Plus.*?\\(CD Version", "nameType": "regex", "priority": 2}
 			]
 		},
 		{
@@ -6930,6 +7426,7 @@
 		{
 			"group": "Sword of Etheria, The",
 			"titles": [
+				{"searchTerm": "Chains of Power"},
 				{"searchTerm": "Oz"},
 				{"searchTerm": "Sword of Etheria, The"}
 			]
@@ -6965,6 +7462,13 @@
 			],
 			"supersets": [
 				{"searchTerm": "Taisen Hot Gimmick - Cosplay-jong (Special-ban)"}
+			]
+		},
+		{
+			"group": "Taishou Mononoke Ibunroku",
+			"titles": [
+				{"searchTerm": "Mononoke Imullok"},
+				{"searchTerm": "Taishou Mononoke Ibunroku"}
 			]
 		},
 		{
@@ -7038,6 +7542,16 @@
 				{"searchTerm": "Tenchu - La Colere Divine"},
 				{"searchTerm": "Tenchu - La Ira del Cielo"},
 				{"searchTerm": "Tenchu 3"}
+			]
+		},
+		{
+			"group": "Tengai",
+			"titles": [
+				{"searchTerm": "Tengai"},
+				{"searchTerm": "Tengai Premium Package"}
+			],
+			"compilations": [
+				{"searchTerm": "Psikyo Shooting Collection Vol. 2 - Sengoku Ace & Sengoku Blade", "titlePosition": 2}
 			]
 		},
 		{
@@ -7191,10 +7705,24 @@
 			]
 		},
 		{
-			"group": "TOCA Race Driver 3 - The Ultimate Racing Simulator",
+			"group": "TOCA Race Driver 2 (Demo)",
+			"titles": [
+				{
+					"searchTerm": "TOCA Race Driver 2 (Demo)",
+					"localNames": {
+						"english": "TOCA Race Driver 2 & V8 Supercars Australia 2",
+						"french": "TOCA Race Driver 2",
+						"german": "DTM Race Driver 2",
+						"italian": "TOCA Race Driver 2",
+						"spanish": "TOCA Race Driver 2"
+						}
+				}
+			]
+		},
+		{
+			"group": "TOCA Race Driver 3",
 			"titles": [
 				{"searchTerm": "TOCA Race Driver 3"},
-				{"searchTerm": "TOCA Race Driver 3 - The Ultimate Racing Simulator"},
 				{"searchTerm": "V8 Supercars Australia 3"},
 				{"searchTerm": "DTM Race Driver 3", "priority": 2}
 			]
@@ -7233,6 +7761,7 @@
 			"group": "Tokyo Xtreme Racer - Drift 2",
 			"titles": [
 				{"searchTerm": "Kaido Racer 2"},
+				{"searchTerm": "Kaido Battle 2 - Chain Reaction"},
 				{"searchTerm": "Kaidou - Touge no Densetsu"},
 				{"searchTerm": "Tokyo Xtreme Racer - Drift 2"}
 			]
@@ -7303,6 +7832,15 @@
 			"titles": [
 				{"searchTerm": "Top Gun - Ace of the Sky"},
 				{"searchTerm": "Top Gun - Combat Zones"}
+			]
+		},
+		{
+			"group": "ToraCap! Daash!!",
+			"titles": [
+				{"searchTerm": "ToraCap! Daash!!"}
+			],
+			"supersets": [
+				{"searchTerm": "ToraCap! Daash!! (Deluxe Pack)"}
 			]
 		},
 		{
@@ -7476,6 +8014,7 @@
 			"group": "Victorious Boxers 2 - Fighting Spirit",
 			"titles": [
 				{"searchTerm": "Hajime no Ippo All Stars"},
+				{"searchTerm": "Shijag-ui Ilbo All Stars"},
 				{"searchTerm": "Victorious Boxers 2 - Fighting Spirit"}
 			]
 		},
@@ -7701,7 +8240,7 @@
 		{
 			"group": "Winning Eleven - Pro Evolution Soccer 2007",
 			"titles": [
-				{"searchTerm": "Pro Evolution Soccer 6"},
+				{"searchTerm": "PES 6 - Pro Evolution Soccer"},
 				{"searchTerm": "Winning Eleven - Pro Evolution Soccer 2007"}
 			]
 		},
@@ -7985,6 +8524,28 @@
 			]
 		},
 		{
+			"group": "Yakuza 2 (Disc 1)",
+			"titles": [
+				{"searchTerm": "Ryuu ga Gotoku 2 (Disc 1)"},
+				{"searchTerm": "Yonggwa Gachi 2 (Disc 1)"}
+			],
+			"supersets": [
+				{"searchTerm": "Ryuu ga Gotoku 2"},
+				{"searchTerm": "Yakuza 2"}
+			]
+		},
+		{
+			"group": "Yakuza 2 (Disc 2)",
+			"titles": [
+				{"searchTerm": "Ryuu ga Gotoku 2 (Disc 2)"},
+				{"searchTerm": "Yonggwa Gachi 2 (Disc 2)"}
+			],
+			"supersets": [
+				{"searchTerm": "Ryuu ga Gotoku 2"},
+				{"searchTerm": "Yakuza 2"}
+			]
+		},
+		{
 			"group": "Yakuza Fury",
 			"titles": [
 				{"searchTerm": "Simple 2000 Series Vol. 72 - The Ninkyou"},
@@ -8041,13 +8602,6 @@
 				{"searchTerm": "Yu-Gi-Oh! Duel Monsters GX - Tag Force Evolution"},
 				{"searchTerm": "Yu-Gi-Oh! GX - Tag Force Evolution"},
 				{"searchTerm": "Yu-Gi-Oh! GX - The Beginning of Destiny"}
-			]
-		},
-		{
-			"group": "Zapper - One Wicked Cricket",
-			"titles": [
-				{"searchTerm": "Zapper"},
-				{"searchTerm": "Zapper - One Wicked Cricket"}
 			]
 		},
 		{

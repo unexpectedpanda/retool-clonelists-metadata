@@ -1,15 +1,9 @@
 {
 	"description": {
 		"name": "Sega - Dreamcast (Redump)",
-		"lastUpdated": "19 April 2024",
+		"lastUpdated": "05 August 2025",
 		"minimumVersion": "2.00"
 	},
-
-	"mias": [
-		"Chicken Run (Japan) (Beta) (2000-08-01)",
-		"Dream Preview Vol. 1 (Japan)",
-		"Slave Zero (USA) (Rev A)"
-	],
 
 	"variants": [
 		{
@@ -25,7 +19,7 @@
 				{"searchTerm": "Aero Dancing i"}
 			],
 			"supersets": [
-				{"searchTerm": "Aero Dancing i - Jikai-saku made Matemasen"}
+				{"searchTerm": "Aero Dancing i - Jikai Saku made Matemasen"}
 			]
 		},
 		{
@@ -181,16 +175,9 @@
 		{
 			"group": "Disney-Pixar Toy Story 2 - Buzz Lightyear to the Rescue!",
 			"titles": [
-				{"searchTerm": "Disney-Pixar Toy Story 2 - Buzz l'Eclair a la Rescousse!"},
+				{"searchTerm": "Disney-Pixar Toy Story 2 - Buzz l'Eclair a la Rescousse !"},
 				{"searchTerm": "Disney-Pixar Toy Story 2 - Buzz Lightyear eilt zur Hilfe!"},
 				{"searchTerm": "Disney-Pixar Toy Story 2 - Buzz Lightyear to the Rescue!"}
-			]
-		},
-		{
-			"group": "Disney's 102 Dalmatians - Puppies to the Rescue",
-			"titles": [
-				{"searchTerm": "102 Dalmatians - Puppies to the Rescue"},
-				{"searchTerm": "Disney's 102 Dalmatians - Puppies to the Rescue"}
 			]
 		},
 		{
@@ -619,6 +606,15 @@
 			]
 		},
 		{
+			"group": "Samba de Amigo",
+			"titles": [
+				{"searchTerm": "Samba de Amigo"}
+			],
+			"supersets": [
+				{"searchTerm": "Samba de Amigo Ver. 2000"}
+			]
+		},
+		{
 			"group": "San Francisco Rush 2049",
 			"titles": [
 				{"searchTerm": "Rush 2049"},
@@ -684,7 +680,7 @@
 			"titles": [
 				{"searchTerm": "Shenmue (Disc 1)"},
 				{"searchTerm": "US Shenmue (Disc 1)"},
-				{"searchTerm": "Shenmue - Ichishou Yokosuka (Disc 1)", "priority": 2}
+				{"searchTerm": "Shenmue - Isshou Yokosuka (Disc 1)", "priority": 2}
 			]
 		},
 		{
@@ -692,7 +688,7 @@
 			"titles": [
 				{"searchTerm": "Shenmue (Disc 2)"},
 				{"searchTerm": "US Shenmue (Disc 2)"},
-				{"searchTerm": "Shenmue - Ichishou Yokosuka (Disc 2)", "priority": 2}
+				{"searchTerm": "Shenmue - Isshou Yokosuka (Disc 2)", "priority": 2}
 			]
 		},
 		{
@@ -700,7 +696,7 @@
 			"titles": [
 				{"searchTerm": "Shenmue (Disc 3)"},
 				{"searchTerm": "US Shenmue (Disc 3)"},
-				{"searchTerm": "Shenmue - Ichishou Yokosuka (Disc 3)", "priority": 2}
+				{"searchTerm": "Shenmue - Isshou Yokosuka (Disc 3)", "priority": 2}
 			]
 		},
 		{
@@ -708,7 +704,7 @@
 			"titles": [
 				{"searchTerm": "Shenmue (Shenmue Passport)"},
 				{"searchTerm": "US Shenmue (Shenmue Passport)"},
-				{"searchTerm": "Shenmue - Ichishou Yokosuka (Shenmue Passport)", "priority": 2}
+				{"searchTerm": "Shenmue - Isshou Yokosuka (Shenmue Passport)", "priority": 2}
 			]
 		},
 		{
@@ -723,13 +719,6 @@
 			"titles": [
 				{"searchTerm": "Eternal Arcadia (Disc 2)"},
 				{"searchTerm": "Skies of Arcadia (Disc 2)"}
-			]
-		},
-		{
-			"group": "Snappers - 09 Chairs",
-			"categories": ["Audio"],
-			"titles": [
-				{"searchTerm": "Snappers - 09 Chairs"}
 			]
 		},
 		{
@@ -942,17 +931,10 @@
 			]
 		},
 		{
-			"group": "Virtua Fighter History & VF4",
-			"categories": ["Video"],
-			"titles": [
-				{"searchTerm": "Virtua Fighter History & VF4"}
-			]
-		},
-		{
 			"group": "Virtua Striker 2",
 			"titles": [
 				{"searchTerm": "Virtua Striker 2"},
-				{"searchTerm": "Virtua Striker 2000.1", "nametype": "regionFree"}
+				{"searchTerm": "Virtua Striker 2 Ver. 2000.1"}
 			]
 		},
 		{

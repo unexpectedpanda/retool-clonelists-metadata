@@ -158,7 +158,7 @@
 	"Blackhole Assault (USA) (Alt)": {
 		"languages": ["En"]
 	},
-	"Bloodshot ~ Battle Frenzy (Europe) (En,Fr,De,Es)": {
+	"Bloodshot (Europe) (En,Fr,De,Es)": {
 		"languages": ["De", "En", "Es", "Fr"]
 	},
 	"Bouncers (USA)": {
@@ -208,8 +208,8 @@
 		"languages": ["Ja"],
 		"localName": "キャプテン翼"
 	},
-	"Championship Soccer '94 (USA)": {
-		"languages": ["En"]
+	"Championship Soccer '94 (USA) (En,Fr,De,It)": {
+		"languages": ["De", "En", "Fr", "It"]
 	},
 	"Chuck Rock (Europe)": {
 		"languages": ["En"]
@@ -331,8 +331,8 @@
 	"Dracula Unleashed (USA) (Disc 2)": {
 		"languages": ["En"]
 	},
-	"Dragon's Lair (Europe)": {
-		"languages": []
+	"Dragon's Lair (Europe) (En,Fr,De,It)": {
+		"languages": ["De", "En", "Fr", "It"]
 	},
 	"Dragon's Lair (Japan) (En,Ja,Fr,De,It)": {
 		"languages": ["De", "En", "Fr", "It", "Ja"],
@@ -344,11 +344,11 @@
 	"Dragon's Lair (USA) (Demo)": {
 		"languages": ["En"]
 	},
-	"Dune (Europe) (En,Fr,De,Es,It,Ar)": {
-		"languages": ["Ar", "De", "En", "Es", "Fr", "It"]
+	"Dune (Europe) (En,Fr,De,Es,It)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Dune (USA)": {
-		"languages": ["En"]
+	"Dune (USA) (En,Fr,De,Es,It)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Dungeon Explorer (Europe)": {
 		"languages": []
@@ -457,8 +457,8 @@
 		"languages": ["Ja"],
 		"localName": "Ｆ１サーカスＣＤ"
 	},
-	"FIFA International Soccer (USA)": {
-		"languages": ["En"]
+	"FIFA International Soccer (USA) (En,Fr,De,Es)": {
+		"languages": ["De", "En", "Es", "Fr"]
 	},
 	"FIFA International Soccer - Championship Edition (Europe) (Demo)": {
 		"languages": ["En"]
@@ -523,11 +523,11 @@
 	"Flashback - The Quest for Identity (USA)": {
 		"languages": ["En"]
 	},
-	"Flink (Europe)": {
-		"languages": ["En"]
+	"Flink (Europe) (En,Fr,De,Es,Nl)": {
+		"languages": ["De", "En", "Es", "Fr", "Nl"]
 	},
-	"Flink (USA)": {
-		"languages": ["En"]
+	"Flink (USA) (En,Fr,De,Es,Nl)": {
+		"languages": ["De", "En", "Es", "Fr", "Nl"]
 	},
 	"Formula One World Championship - Beyond the Limit (Europe)": {
 		"languages": []
@@ -586,6 +586,10 @@
 	},
 	"Heavy Nova (Japan)": {
 		"languages": ["Ja"],
+		"localName": "ヘビー・ノバ"
+	},
+	"Heavy Nova (Japan) (Beta) (1991-11-02)": {
+		"languages": [],
 		"localName": "ヘビー・ノバ"
 	},
 	"Heimdall (Japan)": {
@@ -688,7 +692,7 @@
 		"languages": []
 	},
 	"Kids on Site (USA)": {
-		"languages": []
+		"languages": ["En"]
 	},
 	"Lawnmower Man, The (Europe)": {
 		"languages": []
@@ -710,7 +714,7 @@
 		"languages": ["En"]
 	},
 	"Lethal Enforcers (USA) (Alt)": {
-		"languages": []
+		"languages": ["En"]
 	},
 	"Lethal Enforcers II - Gun Fighters (Europe)": {
 		"languages": ["En"]
@@ -733,6 +737,9 @@
 	},
 	"Links - The Challenge of Golf (USA) (RE)": {
 		"languages": ["En"]
+	},
+	"Loadstar - The Legend of Tully Bodine (USA) (Beta)": {
+		"languages": []
 	},
 	"Loadstar - The Legend of Tully Bodine (USA, Brazil)": {
 		"languages": ["En"]
@@ -1219,11 +1226,11 @@
 		"languages": ["Ja"],
 		"localName": "戦国伝承"
 	},
-	"Sensible Soccer (Europe)": {
-		"languages": []
-	},
 	"Sensible Soccer (Europe) (Demo)": {
 		"languages": ["En"]
+	},
+	"Sensible Soccer (Europe) (En,Fr,De,It)": {
+		"languages": ["De", "En", "Fr", "It"]
 	},
 	"Sewer Shark (Europe)": {
 		"languages": ["En"]
@@ -1260,16 +1267,16 @@
 	"Sherlock Holmes - Consulting Detective (USA)": {
 		"languages": ["En"]
 	},
-	"Sherlock Holmes - Consulting Detective Vol. II (Europe) (Disc 1)": {
+	"Sherlock Holmes - Consulting Detective - Vol. II (Europe) (Disc 1)": {
 		"languages": ["En"]
 	},
-	"Sherlock Holmes - Consulting Detective Vol. II (Europe) (Disc 2)": {
+	"Sherlock Holmes - Consulting Detective - Vol. II (Europe) (Disc 2)": {
 		"languages": ["En"]
 	},
-	"Sherlock Holmes - Consulting Detective Vol. II (USA) (Disc 1)": {
+	"Sherlock Holmes - Consulting Detective - Vol. II (USA) (Disc 1)": {
 		"languages": ["En"]
 	},
-	"Sherlock Holmes - Consulting Detective Vol. II (USA) (Disc 2)": {
+	"Sherlock Holmes - Consulting Detective - Vol. II (USA) (Disc 2)": {
 		"languages": ["En"]
 	},
 	"Shin Megami Tensei (Japan)": {
@@ -1432,7 +1439,10 @@
 	"Sonic CD (USA) (RE125)": {
 		"languages": ["En"]
 	},
-	"Sonic CD (USA) (RE125) (Alt)": {
+	"Sonic CD (USA) (RE125) (Alt 1)": {
+		"languages": ["En"]
+	},
+	"Sonic CD (USA) (RE125) (Alt 2)": {
 		"languages": ["En"]
 	},
 	"Sonic MegaMix (USA) (Unl)": {
@@ -1565,8 +1575,8 @@
 		"languages": ["Ja"],
 		"localName": "スイッチ"
 	},
-	"Syndicate (Europe)": {
-		"languages": []
+	"Syndicate (Europe) (En,Fr,De)": {
+		"languages": ["De", "En", "Fr"]
 	},
 	"Tenbu Mega CD Special (Japan)": {
 		"languages": ["Ja"],
@@ -1582,8 +1592,8 @@
 	"Terminator, The (USA)": {
 		"languages": ["En"]
 	},
-	"Theme Park (Europe)": {
-		"languages": ["En"]
+	"Theme Park (Europe) (En,Fr,De,Es)": {
+		"languages": ["De", "En", "Es", "Fr"]
 	},
 	"Third World War (USA)": {
 		"languages": ["En"]
@@ -1689,7 +1699,7 @@
 		"languages": ["Ja"],
 		"localName": "笑ゥせぇるすまん"
 	},
-	"What is X'Eye Multi Entertainment System (USA)": {
+	"What Is X'Eye Multi Entertainment System (USA)": {
 		"languages": ["En"]
 	},
 	"Wheel of Fortune (USA)": {
@@ -1741,11 +1751,11 @@
 	"WonderMega Collection (Japan) (Rev 2)": {
 		"languages": ["Ja"]
 	},
-	"World Cup USA '94 (Europe)": {
-		"languages": ["En"]
+	"World Cup USA '94 (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Nl", "Pt", "Sv"]
 	},
-	"World Cup USA '94 (USA)": {
-		"languages": []
+	"World Cup USA '94 (USA) (En,Fr,De,Es,It,Nl,Pt,Sv)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Nl", "Pt", "Sv"]
 	},
 	"Yumemi Mystery Mansion (Australia)": {
 		"languages": ["En"]

@@ -1,0 +1,56 @@
+{
+	"description": {
+		"name": "Atari - Atari 7800 (No-Intro)",
+		"lastUpdated": "11 August 2025",
+		"minimumVersion": "2.02"
+	},
+
+	"variants": [
+		{
+			"group": "1942",
+			"titles": [
+				{"searchTerm": "1942", "priority": 2},
+				{"searchTerm": "1942 (Extended)"},
+				{"searchTerm": "1942 (Small)", "priority": 3}
+			]
+		},
+		{
+			"group": "Atari 7800 Development Card",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Atari 7800 Development Card"}
+			]
+		},
+		{
+			"group": "Diagnostic Test Cartridge",
+			"categories": ["Applications"],
+			"titles": [
+				{"searchTerm": "Diagnostic Test Cartridge"}
+			]
+		},
+		{
+			"group": "Dragon's Cache",
+			"titles": [
+				{"searchTerm": "Dragon's Cache"},
+				{"searchTerm": "Dragon's Cache (BupSystem)"}
+			]
+		},
+		{
+			"group": "Pac-Man Collection",
+			"titles": [
+				{"searchTerm": "Pac-Man Collection", "priority": 4},
+				{"searchTerm": "Pac-Man Collection 40th Anniversary Edition"},
+				{"searchTerm": "Pac-Man Collection - 40th Anniversary Edition"},
+				{"searchTerm": "Pac-Man Collection - Remastered Edition (TIA)", "priority": 3},
+				{"searchTerm": "Pac-Man Collection - Ultimate Edition (Pokey)", "priority": 2}
+			]
+		},
+		{
+			"group": "Pete Rose Baseball",
+			"titles": [
+				{"searchTerm": "Baseball"},
+				{"searchTerm": "Pete Rose Baseball"}
+			]
+		}
+	]
+}

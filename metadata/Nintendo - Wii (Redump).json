@@ -159,8 +159,9 @@
 	"Activision Demo Action Pack (USA)": {
 		"languages": ["En"]
 	},
-	"Adibou et les Saisons Magiques ~ Addy Junior und die Verzauberte Natur (Europe) (Fr,De)": {
-		"languages": ["De", "Fr"]
+	"Adibou et les Saisons Magiques (Europe) (Fr,De)": {
+		"languages": ["De", "Fr"],
+		"localName": "Addy Junior und die Verzauberte Natur"
 	},
 	"Adventures of Tintin, The - The Game (USA) (En,Fr,Es,Pt)": {
 		"languages": ["En", "Es", "Fr", "Pt"]
@@ -472,6 +473,9 @@
 	"Attack of the Movies 3-D (USA)": {
 		"languages": ["En"]
 	},
+	"Auto Erase Disc (USA)": {
+		"languages": ["En"]
+	},
 	"Baby and Me (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
@@ -545,8 +549,8 @@
 	"Band Hero (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Band Hero (USA)": {
-		"languages": ["En"]
+	"Band Hero (USA) (En,Fr)": {
+		"languages": ["En", "Fr"]
 	},
 	"Baramui Klonoa - Door to Phantomile (Korea)": {
 		"languages": ["Ko"],
@@ -626,8 +630,9 @@
 		"languages": ["Ja"],
 		"localName": "バロック　ｆｏｒ　Ｗｉｉ"
 	},
-	"Barrio Sesamo - Preparados Listos Coco! El Videojuego ~ Sesamstraat - Klaar Voor de Start, Grover! De Game (Europe) (Es,Nl)": {
-		"languages": ["Es", "Nl"]
+	"Barrio Sesamo - Preparados Listos Coco! El Videojuego (Europe) (Es,Nl)": {
+		"languages": ["Es", "Nl"],
+		"localName": "Sesamstraat - Klaar Voor de Start, Grover! De Game"
 	},
 	"Baseball Blast! (USA)": {
 		"languages": ["En"]
@@ -1290,7 +1295,7 @@
 	"Cabela's North American Adventures (USA)": {
 		"languages": ["En"]
 	},
-	"Cabela's Outdoor Adventures 2010 (USA)": {
+	"Cabela's Outdoor Adventures (USA)": {
 		"languages": ["En"]
 	},
 	"Cabela's Survival - Shadows of Katmai (Europe) (En,Fr,De,Es,It)": {
@@ -1564,6 +1569,10 @@
 	"Cheggers Party Quiz (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
+	"Cheoeum Mannaneun Wii (Korea)": {
+		"languages": ["Ko"],
+		"localName": "처음　만나는　Ｗｉｉ"
+	},
 	"Cheongongui Gisa Rodea (Korea)": {
 		"languages": ["Ko"],
 		"localName": "천공의　기사　로데아"
@@ -1611,6 +1620,9 @@
 		"languages": ["Ja"],
 		"localName": "チョロＱＷｉｉ"
 	},
+	"Chronicles of Narnia, The - Prince Caspian (Europe)": {
+		"languages": ["En"]
+	},
 	"Chronicles of Narnia, The - Prince Caspian (Europe) (De,It)": {
 		"languages": ["De", "It"]
 	},
@@ -1619,9 +1631,6 @@
 	},
 	"Chronicles of Narnia, The - Prince Caspian (Europe) (Fr,Nl)": {
 		"languages": ["Fr", "Nl"]
-	},
-	"Chronicles of Narnia, The - Prince Caspian (UK)": {
-		"languages": ["En"]
 	},
 	"Chronicles of Narnia, The - Prince Caspian (USA)": {
 		"languages": ["En"]
@@ -1717,7 +1726,7 @@
 	"Cold Stone Creamery - Scoop It Up (USA) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
 	},
-	"Colin McRae - DiRT 2 (Europe) (En,Fr,De,Es,It)": {
+	"Colin McRae - Dirt 2 (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Combat of Giants - Dinosaurs Strike (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)": {
@@ -1932,8 +1941,8 @@
 	"DJ Hero 2 (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"DJ Hero 2 (USA) (En,Fr)": {
-		"languages": ["En", "Fr"]
+	"DJ Hero 2 (USA) (En,Fr,Es)": {
+		"languages": ["En", "Es", "Fr"]
 	},
 	"Daenantu Smash Brothers X (Korea)": {
 		"languages": ["Ko"],
@@ -2067,6 +2076,25 @@
 	"Dawn of Discovery (USA)": {
 		"languages": ["En"]
 	},
+	"De Blob (Europe) (En,Fr,De,Es,It,Nl)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
+	},
+	"De Blob (Scandinavia) (En,Sv,No,Da,Fi)": {
+		"languages": ["Da", "En", "Fi", "No", "Sv"]
+	},
+	"De Blob (USA) (En,Fr,Es)": {
+		"languages": ["En", "Es", "Fr"]
+	},
+	"De Blob - Color Revolution (Korea)": {
+		"languages": ["Ko"],
+		"localName": "더 블랍 - 컬러 레볼루션"
+	},
+	"De Blob 2 (Europe) (En,Fr,De,Es,It,Nl)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
+	},
+	"De Blob 2 (USA) (En,Fr)": {
+		"languages": ["En", "Fr"]
+	},
 	"Dead Rising - Chop Till You Drop (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
@@ -2120,6 +2148,10 @@
 	"Deca Sporta - Wii de Sports 10 Shumoku! (Japan)": {
 		"languages": ["Ja"],
 		"localName": "デカスポルタ　Ｗｉｉでスポーツ“１０”種目！"
+	},
+	"Deca Sporta - Wiiro Jeulgineun Sports 10 Jongmok! (Korea)": {
+		"languages": ["Ko"],
+		"localName": "데카스포르타 Wii로 즐기는 스포츠 '10'종목!"
 	},
 	"Deca Sporta - Wiiro Jeulgineun Sports 10 Jongmok! (Korea) (Rev 1)": {
 		"languages": ["Ko"],
@@ -2228,9 +2260,6 @@
 		"languages": [],
 		"localName": "デューイズアドベンチャー　水精デューイの大冒険！！"
 	},
-	"DiRT 2 (USA) (En,Fr,Es)": {
-		"languages": ["En", "Es", "Fr"]
-	},
 	"Diabolik - The Original Sin (Europe) (En,Fr,De,Es,It,Nl)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
 	},
@@ -2238,6 +2267,9 @@
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Dino Strike (USA) (En,Fr,Es)": {
+		"languages": ["En", "Es", "Fr"]
+	},
+	"Dirt 2 (USA) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
 	},
 	"Disaster - Day of Crisis (Europe) (En,Fr,De,Es,It)": {
@@ -2271,6 +2303,9 @@
 	},
 	"Disney Bolt (Scandinavia) (En,Sv,No,Da)": {
 		"languages": ["Da", "En", "No", "Sv"]
+	},
+	"Disney Bolt (USA) (En,Fr,Es)": {
+		"languages": ["En", "Es", "Fr"]
 	},
 	"Disney Channel - All Star Party (Europe) (En,Fr,De,Es,It,Nl)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
@@ -2459,6 +2494,9 @@
 	"Disney Sing It (Europe) (En,Fr,De,Es,It,Nl)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
 	},
+	"Disney Sing It (Russia) (En,Ru)": {
+		"languages": ["En", "Ru"]
+	},
 	"Disney Sing It (Scandinavia) (En,Sv,No,Da)": {
 		"languages": ["Da", "En", "No", "Sv"]
 	},
@@ -2490,15 +2528,6 @@
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
 	},
 	"Disney Sing It - Pop Hits (USA) (En,Fr,Es)": {
-		"languages": ["En", "Es", "Fr"]
-	},
-	"Disney TRON - Evolution - Battle Grids (Europe) (En,Fr,De,Es,It,Nl)": {
-		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
-	},
-	"Disney TRON - Evolution - Battle Grids (USA) (En,Fr,Es)": {
-		"languages": ["En", "Es", "Fr"]
-	},
-	"Disney TRON - Evolution - Battle Grids (USA) (En,Fr,Es) (Championship Edition)": {
 		"languages": ["En", "Es", "Fr"]
 	},
 	"Disney Tangled (Europe) (En,Fr,De,Es,It,Nl)": {
@@ -2544,6 +2573,15 @@
 	},
 	"Disney Think Fast - The Quiz Game (Europe) (Fr,Nl)": {
 		"languages": ["Fr", "Nl"]
+	},
+	"Disney Tron - Evolution - Battle Grids (Europe) (En,Fr,De,Es,It,Nl)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
+	},
+	"Disney Tron - Evolution - Battle Grids (USA) (En,Fr,Es)": {
+		"languages": ["En", "Es", "Fr"]
+	},
+	"Disney Tron - Evolution - Battle Grids (USA) (En,Fr,Es) (Championship Edition)": {
+		"languages": ["En", "Es", "Fr"]
 	},
 	"Disney Universe (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)": {
 		"languages": ["Da", "De", "En", "Es", "Fr", "It", "Nl", "No", "Sv"]
@@ -2891,7 +2929,7 @@
 	},
 	"Dragon Ball - Tenkaichi Daibouken (Japan)": {
 		"languages": ["Ja"],
-		"localName": "ドラゴン・ボール　～天下一大冒険～"
+		"localName": "ドラゴンボール　天下一大冒険"
 	},
 	"Dragon Ball Z - Budokai Tenkaichi 2 (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -3367,12 +3405,10 @@
 		"languages": ["En", "Fr"]
 	},
 	"FIFA 09 - All-Play (Europe) (En,Nl)": {
-		"languages": ["En", "Nl"],
-		"localName": "FIFA 09"
+		"languages": ["En", "Nl"]
 	},
 	"FIFA 09 - All-Play (Europe) (Es,It)": {
-		"languages": ["Es", "It"],
-		"localName": "FIFA 09"
+		"languages": ["Es", "It"]
 	},
 	"FIFA 09 - All-Play (Europe) (Fr,De)": {
 		"languages": ["De", "Fr"]
@@ -3440,8 +3476,7 @@
 		"languages": ["En", "Fr", "Nl"]
 	},
 	"FIFA 14 (Latin America) (En,Fr,Es)": {
-		"languages": ["En", "Es", "Fr"],
-		"localName": "FIFA 14 - Edición Legado"
+		"languages": ["En", "Es", "Fr"]
 	},
 	"FIFA 14 - Legacy Edition (Europe) (De,Es,It)": {
 		"languages": ["De", "Es", "It"]
@@ -3744,11 +3779,14 @@
 	"Fluch der Osterinsel, Der (Germany)": {
 		"languages": ["De"]
 	},
-	"Food Network - Cook or Be Cooked (USA)": {
+	"Food Network - Cook or Be Cooked! (USA)": {
 		"languages": ["En"]
 	},
-	"Food Network - Cook or Be Cooked (USA) (Beta) (2009-07-20)": {
+	"Food Network - Cook or Be Cooked! (USA) (Beta) (2009-07-20)": {
 		"languages": []
+	},
+	"Food Network - Cook or Be Cooked! (USA) (Demo)": {
+		"languages": ["En"]
 	},
 	"Ford Racing - Off Road (USA) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
@@ -3806,6 +3844,9 @@
 		"languages": []
 	},
 	"FreeLoader for Nintendo Wii (USA) (Unl)": {
+		"languages": []
+	},
+	"FreeLoader for Nintendo Wii (USA) (Unl) (Rev 1)": {
 		"languages": []
 	},
 	"Fritz Chess (Europe) (En,Fr,De,Es,It)": {
@@ -4220,8 +4261,8 @@
 	"Guitar Hero III - Legends of Rock (Europe) (En,Fr,De,Es,It) (Rev 1)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Guitar Hero III - Legends of Rock (Japan)": {
-		"languages": [],
+	"Guitar Hero III - Legends of Rock (Japan) (En,Ja)": {
+		"languages": ["En", "Ja"],
 		"localName": "ギターヒーロー３　レジェンド　オブ　ロック"
 	},
 	"Guitar Hero III - Legends of Rock (Korea)": {
@@ -4270,10 +4311,6 @@
 		"languages": ["Ja"],
 		"localName": "はじめの一歩　レボリューション"
 	},
-	"Hajimete no Wii (Asia)": {
-		"languages": ["Zh"],
-		"localName": "Wii 第一次接觸"
-	},
 	"Hajimete no Wii (Japan)": {
 		"languages": ["Ja"],
 		"localName": "はじめてのＷｉｉ"
@@ -4281,6 +4318,10 @@
 	"Hajimete no Wii (Japan) (Rev 1)": {
 		"languages": ["Ja"],
 		"localName": "はじめてのＷｉｉ"
+	},
+	"Hajimete no Wii (Taiwan)": {
+		"languages": ["Zh"],
+		"localName": "Wii 第一次接觸"
 	},
 	"Hamster Heroes (Europe) (En,Fr,De,Es,It,Nl)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
@@ -4372,7 +4413,7 @@
 		"languages": ["Ja"],
 		"localName": "ハリー・ポッターと不死鳥の騎士団"
 	},
-	"Harry Potterwa Honhyeor-wangja (Korea)": {
+	"Harry Potter-wa Honhyeol-Wangja (Korea)": {
 		"languages": ["Ko"],
 		"localName": "해리포터와 혼혈왕자"
 	},
@@ -4656,7 +4697,7 @@
 	"I Spy Spooky Mansion (USA)": {
 		"languages": ["En"]
 	},
-	"I'm a Celebrity...Get Me Out of Here! (Europe)": {
+	"I'm a Celebrity...Get Me Out of Here! (UK)": {
 		"languages": ["En"]
 	},
 	"Ice Age - Continental Drift - Arctic Games (USA)": {
@@ -5576,7 +5617,7 @@
 	},
 	"Lara Croft Tomb Raider - Anniversary (Japan)": {
 		"languages": ["Ja"],
-		"localName": "トゥームレイダー　アニバーサリー"
+		"localName": "トゥームレイダー：アニバーサリー"
 	},
 	"Lara Croft Tomb Raider - Anniversary (USA) (Beta) (2007-09-20)": {
 		"languages": []
@@ -5942,6 +5983,10 @@
 		"languages": ["En"]
 	},
 	"Machi e Ikou yo - Doubutsu no Mori (Japan) (Rev 1)": {
+		"languages": ["Ja"],
+		"localName": "街へいこうよ　どうぶつの森"
+	},
+	"Machi e Ikou yo - Doubutsu no Mori (Japan) (Rev 2)": {
 		"languages": ["Ja"],
 		"localName": "街へいこうよ　どうぶつの森"
 	},
@@ -7263,7 +7308,7 @@
 		"languages": ["Ko"],
 		"localName": "니드포스피드 언더커버"
 	},
-	"Need for Speed - Undercover (USA) (En,Fr,Es)": {
+	"Need for Speed - Undercover (USA, Canada) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
 	},
 	"Negima! Neo-Pactio Fight!! (Japan)": {
@@ -7349,10 +7394,6 @@
 	},
 	"NewU Fitness First Personal Trainer (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
-	},
-	"NiGHTS - Hoshi Furu Yoru no Monogatari (Japan)": {
-		"languages": [],
-		"localName": "ナイツ　～星降る夜の物語～"
 	},
 	"Nick Jr. Go Diego Go! Safari Rescue (Europe, Australia)": {
 		"languages": ["En"]
@@ -7570,7 +7611,7 @@
 	"Nickelodeon Victorious - Taking the Lead (USA) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
 	},
-	"Nickelodeon iCarly (Europe) (En,Fr,De,Es,It,Nl)": {
+	"Nickelodeon iCarly (Europe, Australia) (En,Fr,De,Es,It,Nl)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
 	},
 	"Nickelodeon iCarly (USA) (En,Fr)": {
@@ -7596,6 +7637,10 @@
 	},
 	"Night at the Museum 2 - The Video Game (Europe) (En,Fr,De)": {
 		"languages": ["De", "En", "Fr"]
+	},
+	"Nights - Hoshi Furu Yoru no Monogatari (Japan)": {
+		"languages": [],
+		"localName": "ナイツ　～星降る夜の物語～"
 	},
 	"Nights - Journey of Dreams (Europe, Australia) (En,Ja,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja"]
@@ -7710,13 +7755,13 @@
 		"languages": ["Ja"],
 		"localName": "朧村正"
 	},
-	"ObsCure - The Aftermath (USA) (Beta) (2008-01-22)": {
+	"Obscure - The Aftermath (USA) (Beta) (2008-01-22)": {
 		"languages": []
 	},
-	"ObsCure - The Aftermath (USA) (En,Fr,Es)": {
+	"Obscure - The Aftermath (USA) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
 	},
-	"ObsCure II (Europe) (En,Fr,De,Es,It)": {
+	"Obscure II (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Ocean Commander (USA)": {
@@ -8341,8 +8386,7 @@
 		"languages": ["En"]
 	},
 	"Princess Lillifee - The Big Fairy Party (Europe) (En,Fr,De)": {
-		"languages": ["De", "En", "Fr"],
-		"localName": "Prinzessin Lillifee - Die große Feenparty"
+		"languages": ["De", "En", "Fr"]
 	},
 	"Pro Golfer Saru (Japan)": {
 		"languages": ["Ja"],
@@ -8363,6 +8407,9 @@
 	},
 	"Project Runway (USA)": {
 		"languages": ["En"]
+	},
+	"Project Treasure Island Z (USA) (En,Ja) (Beta) (2007-05-01)": {
+		"languages": ["En", "Ja"]
 	},
 	"Project Zero 2 - Wii Edition (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -8983,6 +9030,12 @@
 	"Rygar - The Battle of Argus (USA) (Beta)": {
 		"languages": []
 	},
+	"SCORE International Baja 1000 - The Official Game (USA)": {
+		"languages": ["En"]
+	},
+	"SCORE International Baja 1000 - World Championship Off Road Racing (Europe)": {
+		"languages": ["En"]
+	},
 	"SD Gundam - GGeneration Wars (Japan)": {
 		"languages": ["Ja"],
 		"localName": "ＳＤガンダム　ジージェネレーション　ウォーズ"
@@ -9194,12 +9247,6 @@
 	},
 	"Scooby-Doo! and the Spooky Swamp (USA) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
-	},
-	"Score International Baja 1000 - The Official Game (USA)": {
-		"languages": ["En"]
-	},
-	"Score International Baja 1000 - World Championship Off Road Racing (Europe)": {
-		"languages": ["En"]
 	},
 	"Scrabble Interactive (Europe) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
@@ -9902,8 +9949,8 @@
 	"Spider-Man - Shattered Dimensions (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Spider-Man - Shattered Dimensions (USA)": {
-		"languages": ["En"]
+	"Spider-Man - Shattered Dimensions (USA) (En,Fr)": {
+		"languages": ["En", "Fr"]
 	},
 	"Spider-Man - Web of Shadows (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -10158,7 +10205,7 @@
 	"Super Monkey Ball - Banana Blitz (USA)": {
 		"languages": ["En"]
 	},
-	"Super Monkey Ball - Step & Roll (Europe) (En,Fr,De,Es,It)": {
+	"Super Monkey Ball - Step & Roll (Europe, Australia) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Super Monkey Ball - Step & Roll (USA)": {
@@ -10219,7 +10266,7 @@
 	"Super Smash Bros. Brawl (USA) (Rev 1)": {
 		"languages": ["En"]
 	},
-	"Super Smash Bros. Brawl (USA) (Rev 2)": {
+	"Super Smash Bros. Brawl (USA, Canada) (Rev 2)": {
 		"languages": ["En"]
 	},
 	"Super Sonic Racer (USA) (En,Fr,Es)": {
@@ -10429,8 +10476,9 @@
 	"Teenage Mutant Ninja Turtles - Smash-Up (USA) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Tele 7 Jeux - Mots Croises ~ Cruciverba per Wii (Europe) (Fr,It)": {
-		"languages": ["Fr", "It"]
+	"Tele 7 Jeux - Mots Croises (Europe) (Fr,It)": {
+		"languages": ["Fr", "It"],
+		"localName": "Cruciverba per Wii"
 	},
 	"Tele 7 Jeux - Mots Fleches (France)": {
 		"languages": ["Fr"]
@@ -10474,8 +10522,7 @@
 		"localName": "テトリスパーティープレミアム"
 	},
 	"Think - Logic Trainer (Europe) (En,De,Es)": {
-		"languages": ["De", "En", "Es"],
-		"localName": "Think - Sigue Entrenando Tu Cerebro - Mente Sana en Cuerpo Sano"
+		"languages": ["De", "En", "Es"]
 	},
 	"Think - Logik Trainer (Germany) (En,De)": {
 		"languages": ["De", "En"],
@@ -10511,8 +10558,9 @@
 	"Tierbabys - Mein kleiner Welpe (Germany)": {
 		"languages": ["De"]
 	},
-	"Tierliebe - Gross Geschrieben ~ Veterinario - Cuccioli in Pericolo (Europe) (De,It)": {
-		"languages": ["De", "It"]
+	"Tierliebe - Gross Geschrieben (Europe) (De,It)": {
+		"languages": ["De", "It"],
+		"localName": "Veterinario - Cuccioli in Pericolo"
 	},
 	"Tiger Woods PGA Tour 07 (Europe)": {
 		"languages": ["En"]
@@ -10772,11 +10820,11 @@
 	"Trauma Center - New Blood (Europe, Australia) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Trauma Center - New Blood (USA)": {
-		"languages": ["En"]
+	"Trauma Center - New Blood (USA) (En,Ja)": {
+		"languages": ["En", "Ja"]
 	},
-	"Trauma Center - New Blood (USA) (Beta) (2007-10-02)": {
-		"languages": []
+	"Trauma Center - New Blood (USA) (En,Ja) (Beta) (2007-10-02)": {
+		"languages": ["En", "Ja"]
 	},
 	"Trauma Center - Second Opinion (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -11110,9 +11158,6 @@
 	"Walk It Out! (USA) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
 	},
-	"Walt Disney Pictures Bolt (USA) (En,Fr,Es)": {
-		"languages": ["En", "Es", "Fr"]
-	},
 	"Walt Disney Pictures Presents Lewis to Mirai Dorobou - Wilbur no Kiken na Jikan Ryokou (Japan)": {
 		"languages": [],
 		"localName": "ルイスと未来泥棒　ウィルバーの危険な時間旅行"
@@ -11174,6 +11219,9 @@
 		"languages": ["En"]
 	},
 	"We Cheer (USA) (En,Fr,Es)": {
+		"languages": ["En", "Es", "Fr"]
+	},
+	"We Cheer (USA) (En,Fr,Es) (Rev 1)": {
 		"languages": ["En", "Es", "Fr"]
 	},
 	"We Cheer - Dancing Spirits! (Japan)": {
@@ -11241,7 +11289,7 @@
 	"We Sing Pop! (USA) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
 	},
-	"We Sing Robbie Williams (Europe) (En,Fr,De,Es,It)": {
+	"We Sing Robbie Williams (Europe, Australia) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"We Sing Rock! (Europe) (En,Fr,De,Es,It)": {
@@ -11314,9 +11362,6 @@
 	"Wicked Monsters Blast! (USA)": {
 		"languages": ["En"]
 	},
-	"Wii Auto Erase Disc (USA)": {
-		"languages": ["En"]
-	},
 	"Wii Back Up Disc Ver. 1.31 (USA)": {
 		"languages": ["En"]
 	},
@@ -11335,6 +11380,10 @@
 	},
 	"Wii Fit (Japan) (Rev 1)": {
 		"languages": [],
+		"localName": "Ｗｉｉフィット"
+	},
+	"Wii Fit (Japan) (Taikenban)": {
+		"languages": ["Ja"],
 		"localName": "Ｗｉｉフィット"
 	},
 	"Wii Fit (Korea)": {
@@ -11478,7 +11527,7 @@
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Wii Sports Resort (Japan) (Rev 1)": {
-		"languages": [],
+		"languages": ["Ja"],
 		"localName": "Ｗｉｉスポーツ　リゾート"
 	},
 	"Wii Sports Resort (Japan) (Rev 2)": {
@@ -11656,10 +11705,10 @@
 	"World Series of Poker - Tournament of Champions - 2007 Edition (USA)": {
 		"languages": ["En"]
 	},
-	"World Sports Party (Australia) (En,Fr,De,Es,It,Nl,Sv,No,Da)": {
+	"World Sports Party (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)": {
 		"languages": ["Da", "De", "En", "Es", "Fr", "It", "Nl", "No", "Sv"]
 	},
-	"World Sports Party (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)": {
+	"World Sports Party (Europe, Australia) (En,Fr,De,Es,It,Nl,Sv,No,Da)": {
 		"languages": ["Da", "De", "En", "Es", "Fr", "It", "Nl", "No", "Sv"]
 	},
 	"World of Golden Eggs, The - Nori Nori Rhythm-kei (Japan)": {
@@ -11881,25 +11930,6 @@
 	},
 	"Zumba Kids (USA)": {
 		"languages": ["En"]
-	},
-	"de Blob (Europe) (En,Fr,De,Es,It,Nl)": {
-		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
-	},
-	"de Blob (Scandinavia) (En,Sv,No,Da,Fi)": {
-		"languages": ["Da", "En", "Fi", "No", "Sv"]
-	},
-	"de Blob (USA) (En,Fr,Es)": {
-		"languages": ["En", "Es", "Fr"]
-	},
-	"de Blob - Color Revolution (Korea)": {
-		"languages": ["Ko"],
-		"localName": "더 블랍 - 컬러 레볼루션"
-	},
-	"de Blob 2 (Europe) (En,Fr,De,Es,It,Nl)": {
-		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
-	},
-	"de Blob 2 (USA) (En,Fr)": {
-		"languages": ["En", "Fr"]
 	},
 	"uDraw Studio (Europe) (En,Fr,De,Es,It,Nl,Pt)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl", "Pt"]

@@ -1,27 +1,9 @@
 {
 	"description": {
 		"name": "Philips - CD-i (Redump)",
-		"lastUpdated": "06 April 2024",
+		"lastUpdated": "05 August 2025",
 		"minimumVersion": "2.00"
 	},
-
-	"mias": [
-		"Caesars World of Gambling (Japan)",
-		"French Impressionists, The - France Inshouha (Japan)",
-		"James Brown - Non Stop Hit Machine (Japan)",
-		"Louis Armstrong - An American Songbook (Japan)",
-		"Nobelia (USA, Europe) (Unl)",
-		"Nuri e Asobi II - Paint School II (Japan)",
-		"Piano, The (Korea) (Disc 1)",
-		"Piano, The (Korea) (Disc 2)",
-		"Revolution in Color, A - Russia Kindai Kaiga no Reimei (Japan) (En,Ja,Fr,De,Es,It,Nl)",
-		"Rhythm Maker (Japan) (En,Ja)",
-		"Richard Scarry's Best Neighbourhood Disc Ever - Richard Scarry no Saikou ni Tanoshii Nakama-tachi (Japan)",
-		"Richard Scarry's Busiest Neighbourhood Disc Ever - Richard Scarry no Isogashii Nakama-tachi (Japan)",
-		"Sesame Street Kazu Asobi - A Visit to Sesame Street - Numbers (Japan)",
-		"Sesame Street Moji Asobi - A Visit to Sesame Street - Letters (Japan)",
-		"TR-I - No World Order (Japan)"
-	],
 
 	"variants": [
 		{
@@ -73,6 +55,7 @@
 			"group": "Beauty & the Beast",
 			"titles": [
 				{"searchTerm": "Beauty & the Beast"},
+				{"searchTerm": "Bella e La Bestia, La"},
 				{"searchTerm": "Belle et la Bete, La"},
 				{"searchTerm": "Schoene und das Tier, Die"}
 			]
@@ -289,6 +272,7 @@
 		{
 			"group": "How the Rhinoceros Got His Skin",
 			"titles": [
+				{"searchTerm": "Como Consiguio el Rinoceronte su Piel"},
 				{"searchTerm": "How the Rhinoceros Got His Skin"},
 				{"searchTerm": "Wie das Rhinozeros zu seiner Haut kam"}
 			]
@@ -332,6 +316,7 @@
 			"group": "Mad Dog II - The Lost Gold",
 			"titles": [
 				{"searchTerm": "Mad Dog 2 - Le Tresor Perdu"},
+				{"searchTerm": "Mad Dog II - El Oro Perdido"},
 				{"searchTerm": "Mad Dog II - The Lost Gold"}
 			]
 		},
@@ -470,6 +455,7 @@
 				{"searchTerm": "Richard Scarry's Allerbeste Buurt Disc!"},
 				{"searchTerm": "Richard Scarry's Best Neighborhood Disc Ever!"},
 				{"searchTerm": "Richard Scarry's Best Neighbourhood Disc Ever - Richard Scarry no Saikou ni Tanoshii Nakama-tachi"},
+				{"searchTerm": "Richard Scarry's wunderbarste Geschichten aus Schaffenau"},
 				{"searchTerm": "Ville Surprise de Richard Scarry 1, La"}
 			]
 		},
@@ -537,6 +523,7 @@
 			"group": "Story Machine - Star Dreams",
 			"titles": [
 				{"searchTerm": "Macchina delle Favole, La - Racconti Spaziali"},
+				{"searchTerm": "Maquina de Cuentos, La - Suenos de Estrellas"},
 				{"searchTerm": "Story Machine - Star Dreams"},
 				{"searchTerm": "Story Maschine - Galaxis"}
 			]
@@ -605,6 +592,7 @@
 		{
 			"group": "Tom - Magic Picture Show",
 			"titles": [
+				{"searchTerm": "Tom - Der Maximagier"},
 				{"searchTerm": "Tom - Il Dizionario Magico"},
 				{"searchTerm": "Tom's Magic Picture Show"},
 				{"searchTerm": "Tom - Magic Picture Show"}

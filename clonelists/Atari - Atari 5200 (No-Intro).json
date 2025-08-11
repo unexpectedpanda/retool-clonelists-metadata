@@ -1,11 +1,18 @@
 {
 	"description": {
-		"name": "Atari - 5200 (No-Intro)",
-		"lastUpdated": "26 December 2023",
+		"name": "Atari - Atari 5200 (No-Intro)",
+		"lastUpdated": "05 June 2025",
 		"minimumVersion": "2.02"
 	},
 
 	"variants": [
+		{
+			"group": "Asteroids",
+			"titles": [
+				{"searchTerm": "Asteroids", "priority": 2},
+				{"searchTerm": "Asteroids (Final)"}
+			]
+		},
 		{
 			"group": "Atari PAM - Pete's Test",
 			"categories": ["Applications"],
@@ -31,14 +38,7 @@
 			"group": "Rescue on Fractalus!",
 			"titles": [
 				{"searchTerm": "Rescue on Fractalus!"},
-				{"searchTerm": "Behind Jaggi Lines!", "priority": 2}
-			]
-		},
-		{
-			"group": "Super Pac-Man",
-			"titles": [
-				{"searchTerm": "Super Pac-Man"},
-				{"searchTerm": "Super Pacman", "priority": 2}
+				{"searchTerm": "Behind Jaggi Lines!"}
 			]
 		}
 	]

@@ -1,23 +1,57 @@
 {
 	"description": {
 		"name": "Arcade - Sega - RingEdge (Redump)",
-		"lastUpdated": "05 April 2024",
+		"lastUpdated": "03 August 2025",
 		"minimumVersion": "2.00"
 	},
 
-	"mias": [
-		"Border Break (Japan)",
-		"Border Break (No. 1) (Japan)",
-		"Border Break (No. 2) (Japan)",
-		"World Club Champion Football 2013-2014 (Japan) (Rev A)"
-	],
-
 	"variants": [
 		{
-			"group": "Hatsune Miku - Project Diva Arcade",
+			"group": "Border Break (No. 1)",
 			"titles": [
-				{"searchTerm": "Hatsune Miku - Project Diva Arcade"},
-				{"searchTerm": "Hatsune Miku - Project Diva Arcade (DVR-0012)"}
+				{"searchTerm": "Border Break (No. 1)"},
+				{"searchTerm": "Border Break", "priority": 2}
+			],
+			"supersets": [
+				{"searchTerm": "Border Break X Zero Plus (No. 1)"},
+				{"searchTerm": "Border Break X Zero (No. 1)", "priority": 2},
+				{"searchTerm": "Border Break Scramble (No. 1)", "priority": 3},
+				{"searchTerm": "Border Break Airburst", "priority": 4}
+			]
+		},
+		{
+			"group": "Border Break (No. 2)",
+			"titles": [
+				{"searchTerm": "Border Break (No. 2)"}
+			],
+			"supersets": [
+				{"searchTerm": "Border Break X Zero Plus (No. 2)"},
+				{"searchTerm": "Border Break X Zero (No. 2)", "priority": 2},
+				{"searchTerm": "Border Break Scramble (No. 2)", "priority": 3},
+				{"searchTerm": "Border Break Airburst", "priority": 4}
+			]
+		},
+		{
+			"group": "Hatsune Miku  Project Diva Arcade (No. 1)",
+			"titles": [
+				{"searchTerm": "Hatsune Miku - Project Diva Arcade (No. 1)"},
+				{"searchTerm": "Hatsune Miku - Project Diva Arcade", "priority": 2}
+			]
+		},
+		{
+			"group": "Initial D - Arcade Stage 6 AA",
+			"titles": [
+				{"searchTerm": "Initial D - Arcade Stage 6 AA"},
+				{"searchTerm": "Initial D - Arcade Stage 6 AA - Quanguo Duizhanban"}
+			]
+		},
+		{
+			"group": "Sega Network Taisen Mahjong MJ5 Evolution",
+			"titles": [
+				{"searchTerm": "Sega Network Taisen Mahjong MJ5 Evolution"}
+			],
+			"supersets": [
+				{"searchTerm": "Sega Network Taisen Mahjong MJ5 R Evolution"}
 			]
 		}
 	]

@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Sega - Saturn (Redump)",
-		"lastUpdated": "18 April 2024",
+		"lastUpdated": "05 August 2025",
 		"minimumVersion": "2.00"
 	},
 
@@ -706,13 +706,6 @@
 			],
 			"supersets": [
 				{"searchTerm": "Puyo Puyo Sun for SegaNet"}
-			]
-		},
-		{
-			"group": "Puzzle Bobble 2X (2M2)",
-			"titles": [
-				{"searchTerm": "Puzzle Bobble 2X (2M2)"},
-				{"searchTerm": "Puzzle Bobble 2X (2M1, 2MB1)", "priority": 2}
 			]
 		},
 		{

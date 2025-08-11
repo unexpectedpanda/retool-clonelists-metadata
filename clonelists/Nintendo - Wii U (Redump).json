@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Nintendo - Wii U (Redump)",
-		"lastUpdated": "18 April 2024",
+		"lastUpdated": "05 August 2025",
 		"minimumVersion": "2.00"
 	},
 	"variants": [
@@ -56,10 +56,12 @@
 			]
 		},
 		{
-			"group": "Dragon Quest X - All in One Package-",
+			"group": "Dragon Quest X - All in One Package",
 			"titles": [
-				{"searchTerm": "Dragon Quest X - All in One Package-"},
-				{"searchTerm": "Dragon Quest X - All in One Package", "priority": 2}
+				{"searchTerm": "Dragon Quest X - All in One Package"}
+			],
+			"supersets": [
+				{"searchTerm": "Dragon Quest X - All in One Package Version 1-Version 4"}
 			]
 		},
 		{
@@ -126,7 +128,7 @@
 			"group": "Legend of Zelda, The - The Wind Waker HD",
 			"titles": [
 				{"searchTerm": "Legend of Zelda, The - The Wind Waker HD"},
-				{"searchTerm": "Zelda no Densetsu - Kaze no Takuto HD"}
+				{"searchTerm": "Zelda no Densetsu - Kaze no Takt HD"}
 			]
 		},
 		{
@@ -190,13 +192,6 @@
 			"titles": [
 				{"searchTerm": "Monster Hunter 3 Ultimate"},
 				{"searchTerm": "Monster Hunter 3G - HD Ver."}
-			]
-		},
-		{
-			"group": "Need for Speed - Most Wanted U",
-			"titles": [
-				{"searchTerm": "Need for Speed - Most Wanted U"},
-				{"searchTerm": "Need for Speed - Most Wanted U - A Criterion Game"}
 			]
 		},
 		{

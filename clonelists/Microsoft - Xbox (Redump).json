@@ -1,23 +1,9 @@
 {
 	"description": {
 		"name": "Microsoft - Xbox (Redump)",
-		"lastUpdated": "05 April 2024",
+		"lastUpdated": "04 August 2025",
 		"minimumVersion": "2.00"
 	},
-
-	"mias": [
-		"Colin McRae Rally 04 (Asia)",
-		"Combat Elite - WWII Paratroopers (USA) (Beta)",
-		"Fatal Frame - Zero (Asia)",
-		"Halo 2 (Korea) (En,Ko)",
-		"LEGO Super Soccer Adventure (Europe) (Proto)",
-		"Ninja Gaiden Black (Japan) (En,Ja)",
-		"Official Xbox Live Disc, The (UK)",
-		"Official Xbox Playable Cheats, The (UK)",
-		"Painkiller - Hell Wars (USA) (Beta) (2005-10-18)",
-		"Shin Sangoku Musou 4 (Japan) (En,Ja)",
-		"Sphinx and the Cursed Mummy (Korea)"
-	],
 
 	"variants": [
 		{
@@ -40,6 +26,9 @@
 			"titles": [
 				{"searchTerm": "Amped 2"},
 				{"searchTerm": "Tenku 2"}
+			],
+			"compilations": [
+				{"searchTerm": "Top Spin & Amped 2", "titlePosition": 2}
 			]
 		},
 		{
@@ -210,6 +199,7 @@
 		{
 			"group": "Disney-Pixar Finding Nemo",
 			"titles": [
+				{"searchTerm": "Disney-Pixar A Procura de Nemo"},
 				{"searchTerm": "Disney-Pixar Finding Nemo"},
 				{"searchTerm": "Disney-Pixar Nemo-reul Chajaseo"}
 			]
@@ -381,7 +371,7 @@
 			"group": "Forza Motorsport",
 			"titles": [
 				{"searchTerm": "Forza Motorsport"},
-				{"searchTerm": "Forza Motorsport + Xbox Live Arcade"}
+				{"searchTerm": "Forza Motorsport & Xbox Live Arcade"}
 			]
 		},
 		{
@@ -473,7 +463,7 @@
 				{"searchTerm": "JSRF - Jet Set Radio Future"}
 			],
 			"compilations": [
-				{"searchTerm": "Sega GT 2002 + JSRF - Jet Set Radio Future", "titlePosition": 2}
+				{"searchTerm": "Sega GT 2002 & JSRF - Jet Set Radio Future", "titlePosition": 2}
 			]
 		},
 		{
@@ -638,7 +628,7 @@
 				{"searchTerm": "NCAA Football 2005"}
 			],
 			"compilations": [
-				{"searchTerm": "NCAA Football 2005 + Top Spin", "titlePosition": 1}
+				{"searchTerm": "NCAA Football 2005 & Top Spin", "titlePosition": 1}
 			]
 		},
 		{
@@ -651,17 +641,17 @@
 			]
 		},
 		{
-			"group": "Nickelodeon SpongeBob SquarePants - The Movie",
-			"titles": [
-				{"searchTerm": "Nickelodeon SpongeBob Schwammkopf - Der Film"},
-				{"searchTerm": "Nickelodeon SpongeBob SquarePants - The Movie"}
-			]
-		},
-		{
 			"group": "Nickelodeon Tak - The Great Juju Challenge",
 			"titles": [
 				{"searchTerm": "Nickelodeon Tak - Die grosse Juju-Jagd"},
 				{"searchTerm": "Nickelodeon Tak - The Great Juju Challenge"}
+			]
+		},
+		{
+			"group": "Nickelodeon The SpongeBob SquarePants Movie",
+			"titles": [
+				{"searchTerm": "Nickelodeon SpongeBob Schwammkopf - Der Film"},
+				{"searchTerm": "Nickelodeon The SpongeBob SquarePants Movie"}
 			]
 		},
 		{
@@ -729,7 +719,8 @@
 				{"searchTerm": "DTM Race Driver - Director's Cut"},
 				{"searchTerm": "Pro Race Driver"},
 				{"searchTerm": "TOCA Race Driver"},
-				{"searchTerm": "V8 Supercars Australia - Race Driver"}
+				{"searchTerm": "V8 Supercars Australia - Race Driver (Online Enabled)"},
+				{"searchTerm": "V8 Supercars Australia - Race Driver", "priority": 2}
 			]
 		},
 		{
@@ -788,7 +779,7 @@
 				{"searchTerm": "Sega GT 2002"}
 			],
 			"compilations": [
-				{"searchTerm": "Sega GT 2002 + JSRF - Jet Set Radio Future", "titlePosition": 1}
+				{"searchTerm": "Sega GT 2002 & JSRF - Jet Set Radio Future", "titlePosition": 1}
 			]
 		},
 		{
@@ -845,7 +836,7 @@
 				{"searchTerm": "Star Wars - The Clone Wars"}
 			],
 			"compilations": [
-				{"searchTerm": "Star Wars - The Clone Wars + Tetris Worlds", "titlePosition": 1}
+				{"searchTerm": "Star Wars - The Clone Wars & Tetris Worlds", "titlePosition": 1}
 			]
 		},
 		{
@@ -890,7 +881,7 @@
 				{"searchTerm": "Tetris Worlds", "priority": 2}
 			],
 			"compilations": [
-				{"searchTerm": "Star Wars - The Clone Wars + Tetris Worlds", "titlePosition": 2}
+				{"searchTerm": "Star Wars - The Clone Wars & Tetris Worlds", "titlePosition": 2}
 			]
 		},
 		{
@@ -929,7 +920,8 @@
 				{"searchTerm": "Top Spin"}
 			],
 			"compilations": [
-				{"searchTerm": "NCAA Football 2005 + Top Spin", "titlePosition": 2}
+				{"searchTerm": "NCAA Football 2005 & Top Spin", "titlePosition": 2},
+				{"searchTerm": "Top Spin & Amped 2", "titlePosition": 1}
 			]
 		},
 		{

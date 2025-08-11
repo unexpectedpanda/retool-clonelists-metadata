@@ -35,12 +35,6 @@
 			]
 		},
 		{
-			"group": "2003 Koudai Guaishou - Lanbaoshi",
-			"titles": [
-				{"searchTerm": "2003 Koudai Guaishou - Lanbaoshi", "localNames": {"chinese (traditional)": "２００３口袋怪獸-藍寶石"}}
-			]
-		},
-		{
 			"group": "2003 Hali Xiaozi IV",
 			"titles": [
 				{"searchTerm": "2003 Hali Xiaozi IV", "localNames": {"chinese (traditional)": "２００３哈利小子IV"}}
@@ -924,15 +918,7 @@
 		{
 			"group": "Micro Machines",
 			"titles": [
-				{
-					"searchTerm": "Micro Machines",
-					"filters": [
-						{
-							"conditions": {"matchString": "V3"},
-							"results": {"group": "Micro Machines V3"}
-						}
-					]
-				}
+				{"searchTerm": "Micro Machines"}
 			],
 			"compilations": [
 				{"searchTerm": "Micro Machines 1 and 2 - Twin Turbo"}
@@ -1109,6 +1095,13 @@
 			]
 		},
 		{
+			"group": "Pokemon Adventure",
+			"titles": [
+				{"searchTerm": "Pokemon Adventure"},
+				{"searchTerm": "Pokemon Gold Version 2", "priority": 2}
+			]
+		},
+		{
 			"group": "Pokemon - Crystal Version",
 			"titles": [
 				{"searchTerm": "Pocket Monsters - Crystal Version"},
@@ -1136,7 +1129,7 @@
 			"titles": [
 				{"searchTerm": "Pokemon - Sapphire Version"},
 				{"searchTerm": "Koudai Guaishou - Sheng Bianshi", "priority": 2},
-				{"searchTerm": "2003 Koudai Guaishou - Lanbaoshi", "priority": 3}
+				{"searchTerm": "2003 Koudai Guaishou - Lanbaoshi", "priority": 3, "localNames": {"chinese (traditional)": "２００３口袋怪獸-藍寶石"}}
 			]
 		},
 		{

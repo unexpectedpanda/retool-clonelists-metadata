@@ -90,11 +90,11 @@
 	"18 Wheeler - American Pro Trucker (USA) (Beta) (2001-11-12)": {
 		"languages": ["En"]
 	},
-	"2 Games in 1 - Bob L'eponge - Le Film + Tak 2 - Le Sceptre des Reves (France) (Disc 1) (Bob L'eponge - Le Film)": {
-		"languages": ["Fr"]
-	},
 	"2 Games in 1 - Bob L'eponge - Le Film + Tak 2 - Le Sceptre des Reves (France) (Disc 2) (Tak 2 - Le Sceptre des Reves)": {
 		"languages": ["Fr"]
+	},
+	"2 Games in 1 - Bob L'eponge - Le Film + Tak 2 - Le Sceptre des Reves (France) (Fr,Nl) (Disc 1) (Bob L'eponge - Le Film)": {
+		"languages": ["Fr", "Nl"]
 	},
 	"2 Games in 1 - Disney-Pixar Die Unglaublichen + Disney-Pixar Findet Nemo (Germany) (Disc 1)": {
 		"languages": ["De"]
@@ -160,7 +160,7 @@
 	"Ace Golf (Europe) (En,Fr)": {
 		"languages": ["En", "Fr"]
 	},
-	"Action Replay Max (Europe) (En,Fr,De,Es,It,Pt) (Unl)": {
+	"Action Replay Max (USA, Europe) (En,Fr,De,Es,It,Pt) (Unl)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Pt"]
 	},
 	"Action Replay Ultimate Cheats for Use with Enter the Matrix (UK) (Unl)": {
@@ -205,6 +205,9 @@
 	"Action Replay Ultimative Cheats Greatest Hits 2003 (Germany) (Unl)": {
 		"languages": ["De"]
 	},
+	"Action Replay for GameCube (Europe) (En,Fr,De,Es,It,Pt) (Unl) (v1.09)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Pt"]
+	},
 	"Action Replay for GameCube (Europe) (En,Fr,De,Es,It,Pt) (Unl) (v1.14b)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Pt"]
 	},
@@ -213,9 +216,6 @@
 	},
 	"Action Replay for GameCube (Europe) (Unl) (v1.0E)": {
 		"languages": ["En"]
-	},
-	"Action Replay for GameCube (USA) (En,Fr,De,Es,It,Pt) (Unl) (v1.08)": {
-		"languages": ["De", "En", "Es", "Fr", "It", "Pt"]
 	},
 	"Action Replay for GameCube (USA) (Unl) (v1.06)": {
 		"languages": ["En"]
@@ -226,6 +226,13 @@
 	"Action Replay for GameCube (USA) (Unl) (v1.20)": {
 		"languages": ["En"]
 	},
+	"Action Replay for GameCube (USA, Europe) (En,Fr,De,Es,It,Pt) (Unl) (v1.08)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Pt"]
+	},
+	"Advance Connector GC-you (Japan) (Unl)": {
+		"languages": ["Ja"],
+		"localName": "アドバンスコネクタ　（ＧＣ用）"
+	},
 	"Advance Game Port & Cheat Construction Kit (USA, Europe) (Unl)": {
 		"languages": ["En"]
 	},
@@ -233,6 +240,9 @@
 		"languages": ["En"]
 	},
 	"Advance Game Port (USA) (Unl) (Rev 1)": {
+		"languages": ["En"]
+	},
+	"Advance Game Port (USA) (Unl) (Rev 2)": {
 		"languages": ["En"]
 	},
 	"Aggressive Inline (Europe) (En,Fr,De,Es)": {
@@ -287,7 +297,7 @@
 	"Animal Crossing (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Animal Crossing (USA)": {
+	"Animal Crossing (USA, Canada)": {
 		"languages": ["En"]
 	},
 	"Animaniacs - The Great Edgar Hunt (Europe) (En,Fr,De,Es,It)": {
@@ -406,10 +416,10 @@
 		"languages": ["Ja"],
 		"localName": "バテン・カイトスⅡ　始まりの翼と神々の嗣子"
 	},
-	"Baten Kaitos Origins (USA) (Disc 1)": {
+	"Baten Kaitos Origins (USA, Canada) (Disc 1)": {
 		"languages": ["En"]
 	},
-	"Baten Kaitos Origins (USA) (Disc 2)": {
+	"Baten Kaitos Origins (USA, Canada) (Disc 2)": {
 		"languages": ["En"]
 	},
 	"Batman - Dark Tomorrow (Europe) (En,Fr,De,Es,It) (Rev 1)": {
@@ -446,7 +456,7 @@
 	"Battalion Wars (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Battalion Wars (USA)": {
+	"Battalion Wars (USA, Canada)": {
 		"languages": ["En"]
 	},
 	"Battle Houshin (Japan)": {
@@ -625,7 +635,7 @@
 	"Blowout (USA)": {
 		"languages": ["En"]
 	},
-	"Boboboubo Boubobo - Dasshutsu!! Hajike Royale (Japan)": {
+	"Bobobo-bo Bo-bobo - Dasshutsu!! Hajike Royale (Japan)": {
 		"languages": ["Ja"],
 		"localName": "ボボボーボ・ボーボボ　脱出！！　ハジケ・ロワイアル"
 	},
@@ -728,13 +738,13 @@
 	"Butt-Ugly Martians - Zoom or Doom! (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"CD Exclusif avec les Codes pour les Jeux Resident Evil et Resident Evil Zero (France) (Unl)": {
+	"CD avec les Codes Exclusifs et inedits pour le Jeu Metroid Prime (France) (Unl)": {
 		"languages": ["Fr"]
 	},
-	"CD avec les Codes Action Replay Exclusivement pour le Jeu The Legend of Zelda - The Wind Waker (France) (Unl)": {
+	"CD avec les codes Action Replay exclusivement pour le jeu The Legend of Zelda - The Wind Waker (France) (Unl)": {
 		"languages": ["Fr"]
 	},
-	"CD avec les Codes Exclusifs et Inedits pour le Jeu Metroid Prime (France) (Unl)": {
+	"CD exclusif avec les codes pour les jeux Resident Evil et Resident Evil Zero (France) (Unl)": {
 		"languages": ["Fr"]
 	},
 	"Cabela's Big Game Hunter 2005 Adventures (USA)": {
@@ -779,7 +789,7 @@
 	},
 	"Capcom vs. SNK 2 EO (Japan) (Rev 1)": {
 		"languages": ["Ja"],
-		"localName": "カプコン　バーサス　エス・エヌ・ケイ　２　ＥＯ"
+		"localName": "カプコン　バーサス　エス・エヌ・ケイ２　ＥＯ"
 	},
 	"Capcom vs. SNK 2 EO (Japan) (Tentou Taikenban)": {
 		"languages": ["Ja"],
@@ -1061,7 +1071,7 @@
 		"languages": ["Ja"],
 		"localName": "カスタムロボ　バトルレボリューション"
 	},
-	"Dabi Tsuku 3 - Derby-ba o Tsukurou! (Japan)": {
+	"Dabitsuku 3 - Derby-ba o Tsukurou! (Japan)": {
 		"languages": ["Ja"],
 		"localName": "ダビつく３　ダービー馬をつくろう！"
 	},
@@ -1373,7 +1383,7 @@
 	},
 	"Disney-Pixar Mr. Incredible - Kyouteki Underminer Toujou (Japan)": {
 		"languages": ["Ja"],
-		"localName": "Ｍｒ．　インクレディブル　強敵アンダーマイナー登場"
+		"localName": "Ｍｒ．インクレディブル　強敵アンダーマイナー登場"
 	},
 	"Disney-Pixar Nemo-reul Chajaseo (Korea)": {
 		"languages": ["Ko"],
@@ -1608,7 +1618,7 @@
 	},
 	"Duel Masters - Nettou! Battle Arena (Japan)": {
 		"languages": ["Ja"],
-		"localName": "デュエル・マスターズ　熱闘！　バトルアリーナ"
+		"localName": "デュエル・マスターズ　熱闘！バトルアリーナ"
 	},
 	"ESPN International Winter Sports (Europe) (En,Fr,De,It)": {
 		"languages": ["De", "En", "Fr", "It"]
@@ -1637,7 +1647,7 @@
 	},
 	"Eisei Meijin VI (Japan)": {
 		"languages": ["Ja"],
-		"localName": "永世名人ＶＩ"
+		"localName": "永世名人Ⅵ"
 	},
 	"Enter the Matrix (Europe) (En,Fr,De,Es,It) (Disc 1)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -1707,6 +1717,9 @@
 	"Evolution Worlds (USA)": {
 		"languages": ["En"]
 	},
+	"Evolution Worlds (USA) (Beta)": {
+		"languages": ["En"]
+	},
 	"F-Zero GX (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
@@ -1759,7 +1772,7 @@
 	},
 	"FIFA 2002 - Road to FIFA World Cup (Japan)": {
 		"languages": ["Ja"],
-		"localName": "ＦＩＦＡ　２００２　－　ロード　トゥ　ＦＩＦＡ　ワールドカップ"
+		"localName": "ＦＩＦＡ　２００２：ロード　トゥ　ＦＩＦＡ　ワールドカップ"
 	},
 	"FIFA 2003 - European Football (Japan)": {
 		"languages": ["Ja"],
@@ -1945,7 +1958,10 @@
 	"FreeLoader for GameCube (Europe) (Unl) (v1.04)": {
 		"languages": ["En"]
 	},
-	"FreeLoader for GameCube (Europe) (Unl) (v1.06B)": {
+	"FreeLoader for GameCube (Europe) (Unl) (v1.06B) (2003)": {
+		"languages": ["En"]
+	},
+	"FreeLoader for GameCube (Europe) (Unl) (v1.06B) (2004)": {
 		"languages": ["En"]
 	},
 	"FreeLoader for GameCube (USA, Europe) (Unl) (v1.06b)": {
@@ -1972,8 +1988,8 @@
 	"Freestyle Metal X (USA)": {
 		"languages": ["En"]
 	},
-	"Freestyle Street Soccer (USA)": {
-		"languages": ["En"]
+	"Freestyle Street Soccer (USA) (En,Es)": {
+		"languages": ["En", "Es"]
 	},
 	"Frogger (Japan)": {
 		"languages": ["Ja"],
@@ -2016,12 +2032,12 @@
 	"Gadget Racers (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Gakuen Toshi Vara Noir Roses (Japan)": {
+	"Gakuen Toshi Varanoir - Roses (Japan)": {
 		"languages": ["Ja"],
 		"localName": "学園都市ヴァラノワール　ローゼス"
 	},
 	"Galleon (USA) (Proto)": {
-		"languages": []
+		"languages": ["En"]
 	},
 	"Game Boy Player (Korea) (Rev 1)": {
 		"languages": ["En"],
@@ -2102,9 +2118,13 @@
 		"languages": ["Ja"],
 		"localName": "月刊任天堂店頭デモ　７月号"
 	},
-	"Gekkan Nintendo Tentou Demo 2002.7.10 (Japan)": {
+	"Gekkan Nintendo Tentou Demo 2002.7.10 Zoukan-gou (Japan)": {
 		"languages": ["Ja"],
 		"localName": "月刊任天堂店頭デモ　７月増刊号"
+	},
+	"Gekkan Nintendo Tentou Demo 2002.8.1 (Japan)": {
+		"languages": ["Ja"],
+		"localName": "月刊任天堂店頭デモ　８月号"
 	},
 	"Gekkan Nintendo Tentou Demo 2002.9.1 (Japan)": {
 		"languages": ["Ja"],
@@ -2355,6 +2375,12 @@
 	"GoldenEye - Agente Corrupto (Spain) (Disc 2)": {
 		"languages": ["Es"]
 	},
+	"GoldenEye - Au Service du Mal (France) (Disc 1)": {
+		"languages": ["Fr"]
+	},
+	"GoldenEye - Au Service du Mal (France) (Disc 2)": {
+		"languages": ["Fr"]
+	},
 	"GoldenEye - Dark Agent (Japan) (Disc 1)": {
 		"languages": ["Ja"],
 		"localName": "ゴールデンアイ　ダーク・エージェント"
@@ -2368,14 +2394,6 @@
 	},
 	"GoldenEye - Rogue Agent (Europe) (En,It,Nl,Sv) (Disc 2)": {
 		"languages": ["En", "It", "Nl", "Sv"]
-	},
-	"GoldenEye - Rogue Agent (France) (Disc 1)": {
-		"languages": ["Fr"],
-		"localName": "GoldenEye - Au Service Du Mal"
-	},
-	"GoldenEye - Rogue Agent (France) (Disc 2)": {
-		"languages": ["Fr"],
-		"localName": "GoldenEye - Au Service Du Mal"
 	},
 	"GoldenEye - Rogue Agent (Germany) (Disc 1)": {
 		"languages": ["De"]
@@ -2968,6 +2986,10 @@
 		"languages": ["Ja"],
 		"localName": "ＫＡＲＡＴ　（ＧＣ用）　プロアクションリプレイ　ＰＡＲ　（ＧＣ用）"
 	},
+	"Karat GC-you Pro Action Replay PAR GC-you (Japan) (Unl) (v1.1)": {
+		"languages": ["Ja"],
+		"localName": "ＫＡＲＡＴ　（ＧＣ用）　プロアクションリプレイ　ＰＡＲ　（ＧＣ用）"
+	},
 	"Karat GC-you Pro Action Replay PAR GC-you (Japan) (Unl) (v1.20A)": {
 		"languages": ["Ja"],
 		"localName": "ＫＡＲＡＴ　（ＧＣ用）　プロアクションリプレイ　ＰＡＲ　（ＧＣ用）"
@@ -3097,7 +3119,7 @@
 		"languages": ["En"]
 	},
 	"LEGO Super Soccer Adventure (Europe) (Proto)": {
-		"languages": []
+		"languages": ["En"]
 	},
 	"Lara Croft Tomb Raider - Legend (Europe)": {
 		"languages": ["En"]
@@ -3196,7 +3218,7 @@
 	},
 	"Lord of the Rings - Futatsu no Tou (Japan)": {
 		"languages": ["Ja"],
-		"localName": "ロード　オブ・ザ　リング　二つの塔"
+		"localName": "ロード・オブ・ザ・リング　二つの塔"
 	},
 	"Lord of the Rings - Nakatsu Kuni Daisanki (Japan) (Disc 1)": {
 		"languages": ["Ja"],
@@ -3259,7 +3281,7 @@
 	"Luigi's Mansion (Europe) (En,Fr,De,Es,It) (Rev 1)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Luigi's Mansion (USA)": {
+	"Luigi's Mansion (USA, Canada)": {
 		"languages": ["En"]
 	},
 	"Lupin III - Umi ni Kieta Hihou (Japan) (Disc 1)": {
@@ -3394,6 +3416,10 @@
 	"Mario Party 4 (USA) (Rev 1)": {
 		"languages": ["En"]
 	},
+	"Mario Party 4 Event-you Disc (Japan)": {
+		"languages": ["Ja"],
+		"localName": "マリオパーティ４　イベント用ディスク"
+	},
 	"Mario Party 5 (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
@@ -3493,10 +3519,13 @@
 	"Max Memory Power Saves - Volume 1 (USA) (Unl)": {
 		"languages": ["En"]
 	},
-	"MaxPlay (Europe) (Unl)": {
+	"Max Play (Europe) (Unl)": {
 		"languages": ["En"]
 	},
-	"MaxPlay (USA) (Unl)": {
+	"Max Play (Europe) (Unl) (GameCube + Wii)": {
+		"languages": ["En"]
+	},
+	"Max Play (USA) (Unl)": {
 		"languages": ["En"]
 	},
 	"Medabots Infinity (Europe) (En,Fr,De,Nl)": {
@@ -3591,6 +3620,9 @@
 		"languages": ["De", "En", "Fr"]
 	},
 	"Mega Man X - Command Mission (USA)": {
+		"languages": ["En"]
+	},
+	"Mega Man X - Command Mission (USA) (Beta) (2004-07-23)": {
 		"languages": ["En"]
 	},
 	"Mega Man X Collection (USA)": {
@@ -3708,7 +3740,7 @@
 	"Mission - Impossible - Operation Surma (USA)": {
 		"languages": ["En"]
 	},
-	"Momotarou Dentetsu 11 - Black Bombee Shutsugen! no Maki (Japan)": {
+	"Momotarou Dentetsu 11 - Black Bonby Shutsugen! no Maki (Japan)": {
 		"languages": ["Ja"],
 		"localName": "桃太郎電鉄１１　ブラックボンビー出現！の巻"
 	},
@@ -3825,6 +3857,9 @@
 	},
 	"NBA Live 2003 (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"NBA Live 2003 (France)": {
+		"languages": ["Fr"]
 	},
 	"NBA Live 2003 (USA)": {
 		"languages": ["En"]
@@ -4060,6 +4095,9 @@
 	"Need for Speed - Underground (Europe)": {
 		"languages": ["En"]
 	},
+	"Need for Speed - Underground (Europe) (Beta) (2003-09-10)": {
+		"languages": ["En"]
+	},
 	"Need for Speed - Underground (Europe) (PZHP)": {
 		"languages": ["En"]
 	},
@@ -4096,8 +4134,7 @@
 		"languages": ["En"]
 	},
 	"Neighbours from Hell (Europe) (En,Fr,De,Es,It)": {
-		"languages": ["De", "En", "Es", "Fr", "It"],
-		"localName": "Böse Nachbarn"
+		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Nick Jr. Dora the Explorer - Journey to the Purple Planet (Europe) (En,Fr)": {
 		"languages": ["En", "Fr"]
@@ -4126,7 +4163,7 @@
 	"Nickelodeon Bob L'eponge - La Creature du Crabe Croustillant (France)": {
 		"languages": ["Fr"]
 	},
-	"Nickelodeon Bob L'eponge - Silence on Tourne! (France)": {
+	"Nickelodeon Bob L'eponge - Silence on Tourne ! (France)": {
 		"languages": ["Fr"]
 	},
 	"Nickelodeon Jimmy Neutron - Boy Genius (Europe)": {
@@ -4204,15 +4241,6 @@
 	"Nickelodeon SpongeBob SquarePants - Revenge of the Flying Dutchman (USA)": {
 		"languages": ["En"]
 	},
-	"Nickelodeon SpongeBob SquarePants - The Movie (Europe)": {
-		"languages": ["En"]
-	},
-	"Nickelodeon SpongeBob SquarePants - The Movie (Europe) (Fr,Nl)": {
-		"languages": ["Fr", "Nl"]
-	},
-	"Nickelodeon SpongeBob SquarePants - The Movie (USA) (Rev 1)": {
-		"languages": ["En"]
-	},
 	"Nickelodeon SpongeBob SquarePants and Friends Unite! (Europe) (En,Fr,De,Nl)": {
 		"languages": ["De", "En", "Fr", "Nl"]
 	},
@@ -4240,13 +4268,22 @@
 	"Nickelodeon The Adventures of Jimmy Neutron - Boy Genius - Jet Fusion (USA)": {
 		"languages": ["En"]
 	},
+	"Nickelodeon The SpongeBob SquarePants Movie (Europe)": {
+		"languages": ["En"]
+	},
+	"Nickelodeon The SpongeBob SquarePants Movie (Europe) (Fr,Nl)": {
+		"languages": ["Fr", "Nl"]
+	},
+	"Nickelodeon The SpongeBob SquarePants Movie (USA) (Rev 1)": {
+		"languages": ["En"]
+	},
 	"Nicktoons - Battle for Volcano Island (USA)": {
 		"languages": ["En"]
 	},
 	"Nicktoons Unite! (USA)": {
 		"languages": ["En"]
 	},
-	"Nintendo GameCube Preview Disc - May 2003 (USA)": {
+	"Nintendo GameCube Preview Disc - May 2003 (USA, Canada)": {
 		"languages": ["En"]
 	},
 	"Nintendo GameCube Service Disc Version 1.0-03 (USA)": {
@@ -4276,7 +4313,7 @@
 	},
 	"Ohenro-San - Hosshin no Dojo (Awa Kuni) Hen (Japan)": {
 		"languages": ["Ja"],
-		"localName": "お遍路さん　発心の道場　（阿波国）　編"
+		"localName": "お遍路さん　発心の道場（阿波国）編"
 	},
 	"One Piece - Grand Battle! 3 (Japan)": {
 		"languages": ["Ja"],
@@ -4419,7 +4456,10 @@
 		"languages": ["Ja"],
 		"localName": "ファンタシースターオンライン　エピソード３　カードレボリューション　トライアルエディション"
 	},
-	"Pickles (USA) (Proto)": {
+	"Pickles (USA) (Proto 1)": {
+		"languages": ["En"]
+	},
+	"Pickles (USA) (Proto 2)": {
 		"languages": ["En"]
 	},
 	"Pikmin (Europe) (En,Fr,De,Es,It)": {
@@ -4554,7 +4594,7 @@
 		"languages": ["En"]
 	},
 	"Power Rangers - Dino Tonnerre (France)": {
-		"languages": ["En"]
+		"languages": ["Fr"]
 	},
 	"Powerpuff Girls, The - Relish Rampage - Pickled Edition (Europe) (En,Fr,De,Es)": {
 		"languages": ["De", "En", "Es", "Fr"]
@@ -4814,11 +4854,11 @@
 	},
 	"Rune II - Koruten no Kagi no Himitsu (Japan)": {
 		"languages": ["Ja"],
-		"localName": "ルーンＩＩ　コルテンの鍵の秘密"
+		"localName": "ルーンⅡ　コルテンの鍵の秘密"
 	},
 	"Rune II - Koruten no Kagi no Himitsu (Japan) (Taikenban)": {
 		"languages": ["Ja"],
-		"localName": "ルーンＩＩ　コルテンの鍵の秘密"
+		"localName": "ルーンⅡ　コルテンの鍵の秘密"
 	},
 	"SD Gundam - Gashapon Wars (Japan)": {
 		"languages": ["Ja"],
@@ -4826,7 +4866,11 @@
 	},
 	"SD Gundam - Gashapon Wars (Japan) (Taikenban)": {
 		"languages": ["Ja"],
-		"localName": "ＳＤガンダム　ガシャポンウォーズ　体験版"
+		"localName": "ＳＤガンダム　ガシャポンウォーズ"
+	},
+	"SD Media Launcher for GameCube & Wii (Japan) (Unl)": {
+		"languages": ["Ja"],
+		"localName": "ＳＤメディアランチャー　Ｗｉｉ用／ＧＣ用"
 	},
 	"SRS - Street Racing Syndicate (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -5085,10 +5129,10 @@
 	"Sims, The - Bustin' Out (USA)": {
 		"languages": ["En"]
 	},
-	"Skies of Arcadia Legends (Europe) (En,Fr,De,Es)": {
+	"Skies of Arcadia - Legends (Europe) (En,Fr,De,Es)": {
 		"languages": ["De", "En", "Es", "Fr"]
 	},
-	"Skies of Arcadia Legends (USA)": {
+	"Skies of Arcadia - Legends (USA)": {
 		"languages": ["En"]
 	},
 	"SmaBro DX Event-you Disc (Japan)": {
@@ -5116,7 +5160,7 @@
 	},
 	"Sonic Adventure DX (Japan) (En,Ja,Fr,De,Es)": {
 		"languages": ["De", "En", "Es", "Fr", "Ja"],
-		"localName": "ソニック　アドベンチャー　ＤＸ　デラックス"
+		"localName": "ソニックアドベンチャー　デラックス"
 	},
 	"Sonic Adventure DX - Director's Cut (Europe) (En,Ja,Fr,De,Es) (Rev 1)": {
 		"languages": ["De", "En", "Es", "Fr", "Ja"]
@@ -5351,7 +5395,7 @@
 	},
 	"Star Wars - Rogue Squadron II (Japan)": {
 		"languages": ["Ja"],
-		"localName": "スター・ウォーズ　ローグ　スコードロン　ＩＩ"
+		"localName": "スター・ウォーズ　ローグ　スコードロン　Ⅱ"
 	},
 	"Star Wars - Rogue Squadron II (Japan) (Jitsuen-you Sample)": {
 		"languages": ["Ja"],
@@ -5377,7 +5421,7 @@
 	},
 	"Star Wars - Rogue Squadron III (Japan)": {
 		"languages": ["Ja"],
-		"localName": "スター・ウォーズ　ローグ　スコードロン　ＩＩＩ"
+		"localName": "スター・ウォーズ　ローグ　スコードロンⅢ"
 	},
 	"Star Wars - Rogue Squadron III - Rebel Strike (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -5478,7 +5522,7 @@
 		"languages": ["En"],
 		"localName": "슈퍼 마리오 선샤인"
 	},
-	"Super Mario Sunshine (USA)": {
+	"Super Mario Sunshine (USA, Canada)": {
 		"languages": ["En"]
 	},
 	"Super Monkey Ball (Europe) (En,Fr,De,Es,It)": {
@@ -5651,7 +5695,25 @@
 	"Taz - Wanted (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
+	"Taz - Wanted (Europe) (En,Fr,De,Es,It) (Beta)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Taz - Wanted (Japan) (En,Fr,De,Es,It) (Beta 1)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Taz - Wanted (Japan) (En,Fr,De,Es,It) (Beta 2)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Taz - Wanted (Japan) (En,Fr,De,Es,It) (Beta 3)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
 	"Taz - Wanted (USA) (En,Fr,De,Es,It)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Taz - Wanted (USA) (En,Fr,De,Es,It) (Beta 1)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Taz - Wanted (USA) (En,Fr,De,Es,It) (Beta 2)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Teen Titans (France) (En,Fr)": {
@@ -5686,7 +5748,7 @@
 	},
 	"Tengai Makyou II - Manji Maru (Japan)": {
 		"languages": ["Ja"],
-		"localName": "天外魔境ＩＩ　ＭＡＮＪＩＭＡＲＵ"
+		"localName": "天外魔境Ⅱ　ＭＡＮＪＩＭＡＲＵ"
 	},
 	"Terminator 3 - The Redemption (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -6106,7 +6168,7 @@
 	},
 	"Viewtiful Joe 2 - Black Film no Nazo (Japan)": {
 		"languages": ["Ja"],
-		"localName": "ビューティフル　ジョー　２　ブラックフィルムの謎"
+		"localName": "ビューティフル　ジョー２　ブラックフィルムの謎"
 	},
 	"Viewtiful Joe Revival (Japan)": {
 		"languages": ["Ja"],
@@ -6158,7 +6220,7 @@
 	"WWE Day of Reckoning (USA) (Rev 1)": {
 		"languages": ["En"]
 	},
-	"WWE Day of Reckoning 2 (Europe)": {
+	"WWE Day of Reckoning 2 (Europe) (Rev 1)": {
 		"languages": ["En"]
 	},
 	"WWE Day of Reckoning 2 (USA)": {
@@ -6168,11 +6230,11 @@
 		"languages": ["En"]
 	},
 	"WWE WrestleMania X8 (Japan)": {
-		"languages": ["Ja"],
+		"languages": ["En"],
 		"localName": "ＷＷＥ　レッスルマニアＸ８"
 	},
 	"WWE WrestleMania X8 (Japan) (Taikenban)": {
-		"languages": [],
+		"languages": ["En"],
 		"localName": "ＷＷＥ　レッスルマニアＸ８"
 	},
 	"WWE WrestleMania X8 (USA)": {
@@ -6321,8 +6383,7 @@
 		"languages": ["En"]
 	},
 	"XGIII - Extreme G Racing (Europe) (En,Fr,De,Es)": {
-		"languages": ["De", "En", "Es", "Fr"],
-		"localName": "XGIII"
+		"languages": ["De", "En", "Es", "Fr"]
 	},
 	"XGIII - Extreme G Racing (Japan)": {
 		"languages": ["Ja"],
@@ -6348,6 +6409,10 @@
 	},
 	"Xeno Crisis (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt) (Unl)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Nl", "Pt"]
+	},
+	"Xeno Crisis (Japan) (En,Ja,Fr,De,Es,It,Nl,Pt) (Unl)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Nl", "Pt"],
+		"localName": "ゼノ・クライシス"
 	},
 	"Yu-Gi-Oh! Falsebound Kingdom - Kyokou ni Tozasareta Oukoku (Japan)": {
 		"languages": ["Ja"],
@@ -6383,7 +6448,7 @@
 		"languages": ["Ja"],
 		"localName": "ゼルダの伝説　４つの剣＋"
 	},
-	"Zelda no Densetsu - Kaze no Takuto (Japan)": {
+	"Zelda no Densetsu - Kaze no Takt (Japan)": {
 		"languages": ["Ja"],
 		"localName": "ゼルダの伝説　風のタクト"
 	},

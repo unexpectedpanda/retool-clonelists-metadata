@@ -7,6 +7,13 @@
 
 	"variants": [
 		{
+			"group": "Euphony II",
+			"titles": [
+				{"searchTerm": "Euphony II & Score"},
+				{"searchTerm": "Euphony II & MTR", "priority": 2}
+			]
+		},
+		{
 			"group": "FM Series Software Taikenban CD-ROM",
 			"categories": ["Applications", "Demos"],
 			"titles": [
