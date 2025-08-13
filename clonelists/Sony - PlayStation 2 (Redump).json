@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Sony - PlayStation 2 (Redump)",
-		"lastUpdated": "11 August 2025",
+		"lastUpdated": "14 August 2025",
 		"minimumVersion": "2.02"
 	},
 
@@ -997,15 +997,13 @@
 								"matchLanguages": ["De", "En", "Es", "Fr", "It"]
 							},
 							"results": {
-								"localNames": [
-									{
-										"english": "Carol Vorderman's Sudoku",
-										"french": "Professeur Sudoku",
-										"german": "Sudoku Coach, Der",
-										"italian": "Professor Sudoku",
-										"spanish": "Professor Sudoku"
-									}
-								]
+								"localNames": {
+									"english": "Carol Vorderman's Sudoku",
+									"french": "Professeur Sudoku",
+									"german": "Sudoku Coach, Der",
+									"italian": "Professor Sudoku",
+									"spanish": "Professor Sudoku"
+								}
 							}
 						}
 					]
@@ -3514,12 +3512,10 @@
 				},
 				{
 					"searchTerm": "Harry Potter and the Sorcerer's Stone",
-					"localNames": [
-						{
-							"english": "Harry Potter and the Sorcerer's Stone",
-							"spanish": "Harry Potter y la Piedra Filosofal"
-						}
-					]
+					"localNames": {
+						"english": "Harry Potter and the Sorcerer's Stone",
+						"spanish": "Harry Potter y la Piedra Filosofal"
+					}
 				},
 				{"searchTerm": "Harry Potter to Kenja no Ishi"}
 			]
