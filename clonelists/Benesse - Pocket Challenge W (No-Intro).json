@@ -1,106 +1,18 @@
 {
 	"description": {
 		"name": "Benesse - Pocket Challenge W (No-Intro)",
-		"lastUpdated": "03 December 2023",
+		"lastUpdated": "12 August 2025",
 		"minimumVersion": "2.00"
 	},
 
 	"variants": [
 		{
-			"group": "Shinkenzemi 'Chuugaku Kouza' - Chuu 2 Eigo",
-			"titles": [
-				{"searchTerm": "Shinkenzemi 'Chuugaku Kouza' - Chuu 2 Eigo (5BB212SS)"},
-				{"searchTerm": "Shinkenzemi 'Chuugaku Kouza' - Chuu 2 Eigo (5BB211NH)", "priority": 2}
-			]
-		},
-		{
-			"group": "Shinkenzemi Chuugaku Kouza - Chuu 1 Eigo",
-			"titles": [
-				{"searchTerm": "Shinkenzemi Chuugaku Kouza - Chuu 1 Eigo (7BB112SS)"},
-				{"searchTerm": "Shinkenzemi Chuugaku Kouza - Chuu 1 Eigo (7BB111NH)", "priority": 2},
-				{"searchTerm": "Shinkenzemi Chuugaku Kouza - Chuu 1 Eigo (0BB113NC)", "priority": 3},
-				{"searchTerm": "Shinkenzemi Chuugaku Kouza - Chuu 1 Eigo (0BB111NH)", "priority": 4}
-			]
-		},
-		{
-			"group": "Shinkenzemi Chuugaku Kouza - Chuu 2 Eigo",
-			"titles": [
-				{"searchTerm": "Shinkenzemi Chuugaku Kouza - Chuu 2 Eigo (7BB214TE)"},
-				{"searchTerm": "Shinkenzemi Chuugaku Kouza - Chuu 2 Eigo (7BB213NC)", "priority": 2},
-				{"searchTerm": "Shinkenzemi Chuugaku Kouza - Chuu 2 Eigo (7BB212SS)", "priority": 3},
-				{"searchTerm": "Shinkenzemi Chuugaku Kouza - Chuu 2 Eigo (7BB211NH)", "priority": 4}
-			]
-		},
-		{
-			"group": "Shinkenzemi Chuugaku Kouza - Chuu 3 Eigo",
-			"titles": [
-				{"searchTerm": "Shinkenzemi Chuugaku Kouza - Chuu 3 Eigo (7BB317CB)"},
-				{"searchTerm": "Shinkenzemi Chuugaku Kouza - Chuu 3 Eigo (7BB315OW)", "priority": 2},
-				{"searchTerm": "Shinkenzemi Chuugaku Kouza - Chuu 3 Eigo (0BB313NC - 7BB313NC)", "priority": 3},
-				{"searchTerm": "Shinkenzemi Chuugaku Kouza - Chuu 3 Eigo (7BB312SS)", "priority": 4},
-				{"searchTerm": "Shinkenzemi Chuugaku Kouza - Chuu 3 Eigo (7BB311NH)", "priority": 5}
-			]
-		},
-		{
-			"group": "Shinkenzemi Chuugaku Kouza - Chuugaku Chiri",
-			"titles": [
-				{"searchTerm": "Shinkenzemi Chuugaku Kouza - Chuugaku Chiri (9BD410)"},
-				{"searchTerm": "Shinkenzemi Chuugaku Kouza - Chuugaku Chiri (7BD410)", "priority": 2}
-			]
-		},
-		{
-			"group": "Shinkenzemi Chuugaku Kouza - Chuugaku Chiri - Rekishi Pack",
-			"titles": [
-				{"searchTerm": "Shinkenzemi Chuugaku Kouza - Chuugaku Chiri - Rekishi Pack (Chiri Soft - Rekishi Soft Kanzen Taiou Ban) (8BD400)"},
-				{"searchTerm": "Shinkenzemi Chuugaku Kouza - Chuugaku Chiri - Rekishi Pack (0BD401)", "priority": 2},
-				{"searchTerm": "Shinkenzemi Chuugaku Kouza - Chuugaku Chiri - Rekishi Pack (0BD400)", "priority": 3}
-			]
-		},
-		{
-			"group": "Shinkenzemi Chuugaku Kouza - Chuugaku Koumin",
-			"titles": [
-				{"searchTerm": "Shinkenzemi Chuugaku Kouza - Chuugaku Koumin (7BE310)"},
-				{"searchTerm": "Shinkenzemi Chuugaku Kouza - Chuugaku Koumin (0BE311)", "priority": 2}
-			]
-		},
-		{
 			"group": "Shinkenzemi Chuugaku Kouza - Chuugaku Rika Pack",
 			"titles": [
-				{"searchTerm": "Shinkenzemi Chuugaku Kouza - Chuugaku Rika Pack (1-bunya - Soft 2-bunya Soft Kanzen Taiou Ban) (8BF400)"},
-				{"searchTerm": "Shinkenzemi Chuugaku Kouza - Chuugaku Rika Pack (1BF400)", "priority": 2},
-				{"searchTerm": "Shinkenzemi Chuugaku Kouza - Chuugaku Rika (1-bunya) (7BF411)", "priority": 2},
-				{"searchTerm": "Shinkenzemi Chuugaku Kouza - Chuugaku Rika Pack (0BF400)", "priority": 3},
-				{"searchTerm": "Shinkenzemi Chuugaku Kouza - Chuugaku Rika (2-bunya) (7BF412)", "priority": 3}
-			]
-		},
-		{
-			"group": "Shinkenzemi Chuugaku Kouza - Koukou Juken - Ei - Sha - Ri",
-			"titles": [
-				{"searchTerm": "Shinkenzemi Chuugaku Kouza - Koukou Juken (Ei - Sha - Ri) (9BI711)"},
-				{"searchTerm": "Shinkenzemi Chuugaku Kouza - Koukou Juken (Ei - Sha - Ri) (7BI711)", "priority": 2},
-				{"searchTerm": "Shinkenzemi Chuugaku Kouza - Koukou Juken (Ei - Sha - Ri) (1BI711)", "priority": 3},
-				{"searchTerm": "Shinkenzemi Chuugaku Kouza - Koukou Juken (Ei - Sha - Ri) (0BI711)", "priority": 4}
-			]
-		},
-		{
-			"group": "Shinkenzemi Chuugaku Kouza - Koukou Juken - Koku - Suu",
-			"titles": [
-				{"searchTerm": "Shinkenzemi Chuugaku Kouza - Koukou Juken (Koku - Suu) (9BI712)"},
-				{"searchTerm": "Shinkenzemi Chuugaku Kouza - Koukou Juken (Koku - Suu) (7BI712)", "priority": 2}
-			]
-		},
-		{
-			"group": "Shinkenzemi Koukou Kouza - Juuyou Kobun Kouryaku",
-			"titles": [
-				{"searchTerm": "Shinkenzemi Koukou Kouza - Juuyou Kobun Kouryaku (8BKD01)"},
-				{"searchTerm": "Shinkenzemi Koukou Kouza - Juuyou Kobun Kouryaku (0BKD01)", "priority": 2}
-			]
-		},
-		{
-			"group": "Shinkenzemi Chuugaku Kouza - Chuugaku Rekishi",
-			"titles": [
-				{"searchTerm": "Shinkenzemi Chuugaku Kouza - Chuugaku Rekishi (7BC410)"},
-				{"searchTerm": "Shinkenzemi Chuugaku Kouza - Chuugaku Rekishi (0BC410)", "priority": 2}
+				{"searchTerm": "Shinkenzemi Chuugaku Kouza - Chuugaku Rika Pack (1-bunya - Soft 2-bunya Soft Kanzen Taiou Ban)"},
+				{"searchTerm": "Shinkenzemi Chuugaku Kouza - Chuugaku Rika Pack", "priority": 2},
+				{"searchTerm": "Shinkenzemi Chuugaku Kouza - Chuugaku Rika (1-bunya)", "priority": 2},
+				{"searchTerm": "Shinkenzemi Chuugaku Kouza - Chuugaku Rika (2-bunya)", "priority": 3}
 			]
 		}
 	]

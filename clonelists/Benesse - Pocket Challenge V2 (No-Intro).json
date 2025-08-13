@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Benesse - Pocket Challenge V2 (No-Intro)",
-		"lastUpdated": "03 December 2023",
+		"lastUpdated": "12 August 2025",
 		"minimumVersion": "2.00"
 	},
 
@@ -18,21 +18,17 @@
 		{
 			"group": "Chuu 1 English",
 			"titles": [
-				{"searchTerm": "Chuu 1 English (New Crown, Total English Taiou Ban) (4BB113)"},
-				{"searchTerm": "Chuu 1 English (New Horizon, Columbus21 Taiou Ban) (4BB111)", "priority": 2},
-				{"searchTerm": "Chuu 1 English (New Crown, Total English Taiou Ban) (3BB113)", "priority": 3},
-				{"searchTerm": "Chuu 1 English (New Horizon, Columbus21 Taiou Ban) (3BB111)", "priority": 4},
-				{"searchTerm": "Chuu 1 English (New Crown, Total English Taiou Ban) (2BB113)", "priority": 5},
-				{"searchTerm": "Chuu 1 English (Sunshine, One World Taiou Ban)", "priority": 6}
+				{"searchTerm": "Chuu 1 English (New Crown, Total English Taiou Ban)"},
+				{"searchTerm": "Chuu 1 English (New Horizon, Columbus21 Taiou Ban)", "priority": 2},
+				{"searchTerm": "Chuu 1 English (Sunshine, One World Taiou Ban)", "priority": 3}
 			]
 		},
 		{
 			"group": "Chuu 2 Ei Suu Koku Pack",
 			"titles": [
-				{"searchTerm": "Chuu 2 Ei Suu Koku Pack (New Crown, Total English Taiou Ban) (6FP203)"},
-				{"searchTerm": "Chuu 2 Ei Suu Koku Pack (New Crown, Total English Taiou Ban) (4BP203)", "priority": 2},
-				{"searchTerm": "Chuu 2 Ei Suu Koku Pack (Sunshine, One World Taiou Ban)", "priority": 3},
-				{"searchTerm": "Chuu 2 Ei Suu Koku Pack (New Horizon, Columbus21 Taiou Ban)", "priority": 4}
+				{"searchTerm": "Chuu 2 Ei Suu Koku Pack (New Crown, Total English Taiou Ban)"},
+				{"searchTerm": "Chuu 2 Ei Suu Koku Pack (Sunshine, One World Taiou Ban)", "priority": 2},
+				{"searchTerm": "Chuu 2 Ei Suu Koku Pack (New Horizon, Columbus21 Taiou Ban)", "priority": 3}
 			]
 		},
 		{
@@ -45,9 +41,8 @@
 		{
 			"group": "Chuu 3 Ei - Suu - Koumin Pack",
 			"titles": [
-				{"searchTerm": "Chuu 3 Ei - Suu - Koumin Pack (New Crown, Total English Taiou Ban) (6FP313)"},
-				{"searchTerm": "Chuu 3 Ei - Suu - Koumin Pack (New Crown, Total English Taiou Ban) (5FP303)", "priority": 2},
-				{"searchTerm": "Chuu 3 Ei - Suu - Koumin Pack (New Horizon, Columbus21 Taiou Ban)", "priority": 3}
+				{"searchTerm": "Chuu 3 Ei - Suu - Koumin Pack (New Crown, Total English Taiou Ban)"},
+				{"searchTerm": "Chuu 3 Ei - Suu - Koumin Pack (New Horizon, Columbus21 Taiou Ban)", "priority": 2}
 			]
 		},
 		{
@@ -58,62 +53,10 @@
 			]
 		},
 		{
-			"group": "Chuugaku Chiri",
-			"titles": [
-				{"searchTerm": "Chuugaku Chiri (4BD410)"},
-				{"searchTerm": "Chuugaku Chiri (3BD410)", "priority": 2}
-			]
-		},
-		{
 			"group": "Chuugaku Chiri - Rekishi Pack",
 			"titles": [
-				{"searchTerm": "Chuugaku Chiri - Rekishi Pack (Chiri Soft - Rekishi Soft Kanzen Taiou Ban) (6FD400)"},
-				{"searchTerm": "Chuugaku Chiri - Rekishi Pack (Chiri Soft - Rekishi Soft Kanzen Taiou Ban) (4BD400)", "priority": 2},
-				{"searchTerm": "Chuugaku Chiri - Rekishi Pack (Chiri Soft - Rekishi Soft Kanzen Taiou Ban) (2BD400)", "priority": 3},
-				{"searchTerm": "Chuugaku Chiri - Rekishi Pack (Rekishi Juuyou Yougo Jiten Shuuroku)", "priority": 4}
-			]
-		},
-		{
-			"group": "Chuugaku Rika (1-bunya)",
-			"titles": [
-				{"searchTerm": "Chuugaku Rika (1-bunya) (6FF421)"},
-				{"searchTerm": "Chuugaku Rika (1-bunya) (5FF411)", "priority": 2},
-				{"searchTerm": "Chuugaku Rika (1-bunya) (2BF411)", "priority": 3}
-			]
-		},
-		{
-			"group": "Chuugaku Rika (2-bunya)",
-			"titles": [
-				{"searchTerm": "Chuugaku Rika (2-bunya) (6FF422)"},
-				{"searchTerm": "Chuugaku Rika (2-bunya) (5FF412)", "priority": 2},
-				{"searchTerm": "Chuugaku Rika (2-bunya) (2BF412)", "priority": 3}
-			]
-		},
-		{
-			"group": "Chuugaku Rika Pack (1-bunya Soft - 2-bunya Soft Kanzen Taiou Ban)",
-			"titles": [
-				{"searchTerm": "Chuugaku Rika Pack (1-bunya Soft - 2-bunya Soft Kanzen Taiou Ban) (6FF420)"},
-				{"searchTerm": "Chuugaku Rika Pack (1-bunya Soft - 2-bunya Soft Kanzen Taiou Ban) (6FF401)", "priority": 2},
-				{"searchTerm": "Chuugaku Rika Pack (1-bunya Soft - 2-bunya Soft Kanzen Taiou Ban) (6FF400)", "priority": 3},
-				{"searchTerm": "Chuugaku Rika Pack (1-bunya Soft - 2-bunya Soft Kanzen Taiou Ban) (2BF400)", "priority": 4}
-			]
-		},
-		{
-			"group": "Jitsugi 4-kyouka (Gijutsu Katei, Hoken Taiiku, Ongaku, Bijutsu)",
-			"titles": [
-				{"searchTerm": "Jitsugi 4-kyouka (Gijutsu Katei, Hoken Taiiku, Ongaku, Bijutsu) (6FG410)"},
-				{"searchTerm": "Jitsugi 4-kyouka (Gijutsu Katei, Hoken Taiiku, Ongaku, Bijutsu) (6FG402)", "priority": 2},
-				{"searchTerm": "Jitsugi 4-kyouka (Gijutsu Katei, Hoken Taiiku, Ongaku, Bijutsu) (5FG410)", "priority": 3},
-				{"searchTerm": "Jitsugi 4-kyouka (Gijutsu Katei, Hoken Taiiku, Ongaku, Bijutsu) (3BG410)", "priority": 4},
-				{"searchTerm": "Jitsugi 4-kyouka (Gijutsu Katei, Hoken Taiiku, Ongaku, Bijutsu) (2BG410)", "priority": 5}
-			]
-		},
-		{
-			"group": "Koukou Juken (5-kyouka)",
-			"titles": [
-				{"searchTerm": "Koukou Juken (5-kyouka) (5FI710)"},
-				{"searchTerm": "Koukou Juken (5-kyouka) (4BI716)", "priority": 2},
-				{"searchTerm": "Koukou Juken (5-kyouka) (4BI710)", "priority": 3}
+				{"searchTerm": "Chuugaku Chiri - Rekishi Pack (Chiri Soft - Rekishi Soft Kanzen Taiou Ban)"},
+				{"searchTerm": "Chuugaku Chiri - Rekishi Pack (Rekishi Juuyou Yougo Jiten Shuuroku)", "priority": 2}
 			]
 		}
 	]
