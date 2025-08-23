@@ -3323,7 +3323,7 @@
 						},
 						{
 							"conditions": {
-								"matchregion": ["Korea"]
+								"matchRegions": ["Korea"]
 							},
 							"results": {
 								"localNames": {
@@ -3441,7 +3441,7 @@
 					"filters": [
 						{
 							"conditions": {
-								"matchLanguags": ["Da", "En", "No", "Sv"]
+								"matchLanguages": ["Da", "En", "No", "Sv"]
 							},
 							"results": {
 								"localNames": {
@@ -3454,11 +3454,11 @@
 						},
 						{
 							"conditions": {
-								"matchLanguags": ["De", "En", "Es", "Fr", "It", "Nl", "Pt"]
+								"matchLanguages": ["De", "En", "Es", "Fr", "It", "Nl", "Pt"]
 							},
 							"results": {
 								"localNames": {
-									"dutch": "Harry Potter ",
+									"dutch": "Harry Potter",
 									"english": "Harry Potter and the Prisoner of Azkaban",
 									"french": "Harry Potter et le Prisonnier d'Azkaban",
 									"german": "Harry Potter und der Gefangene von Askaban",
@@ -3486,9 +3486,11 @@
 								"matchLanguages": ["Cs", "En,", "Pl"]
 							},
 							"results": {
-								"czech": "Harry Potter a Kámen Mudrců",
-								"english": "Harry Potter and the Philosopher's Stone",
-								"polish": "Harry Potter i Kamień Filozoficzny"
+								"localNames": {
+									"czech": "Harry Potter a Kámen Mudrců",
+									"english": "Harry Potter and the Philosopher's Stone",
+									"polish": "Harry Potter i Kamień Filozoficzny"
+								}
 							}
 						},
 						{
@@ -3496,16 +3498,18 @@
 								"matchLanguages": ["Da", "De,", "En", "Es", "Fr", "It", "Nl", "No", "Pt", "Sv"]
 							},
 							"results": {
-								"danish": "Harry Potter og de Vises Sten",
-								"dutch": "Harry Potter en de Steen der Wijzen",
-								"english": "Harry Potter and the Philosopher's Stone",
-								"french": "Harry Potter a l'École des Sorciers",
-								"german": "Harry Potter un der Stein der Weisen",
-								"italian": "Harry Potter e la Pietra Filosofale",
-								"norwegian": "Harry Potter og de Vises Stein",
-								"portuguese": "Harry Potter e a Pedra Filosfal",
-								"spanish": "Harry Potter y la Piedra Filosofal",
-								"swedish": "Harry Potter och de Vises Sten"
+								"localNames": {
+									"danish": "Harry Potter og de Vises Sten",
+									"dutch": "Harry Potter en de Steen der Wijzen",
+									"english": "Harry Potter and the Philosopher's Stone",
+									"french": "Harry Potter a l'École des Sorciers",
+									"german": "Harry Potter un der Stein der Weisen",
+									"italian": "Harry Potter e la Pietra Filosofale",
+									"norwegian": "Harry Potter og de Vises Stein",
+									"portuguese": "Harry Potter e a Pedra Filosfal",
+									"spanish": "Harry Potter y la Piedra Filosofal",
+									"swedish": "Harry Potter och de Vises Sten"
+								}
 							}
 						}
 					]

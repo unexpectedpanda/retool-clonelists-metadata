@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "GCE - Vectrex (No-Intro)",
-		"lastUpdated": "26 December 2023",
+		"lastUpdated": "23 August 2025",
 		"minimumVersion": "2.02"
 	},
 
@@ -37,8 +37,9 @@
 		{
 			"group": "Star Trek - The Motion Picture",
 			"titles": [
-				{"searchTerm": "Star Ship"},
-				{"searchTerm": "Star Trek - The Motion Picture"}
+				{"searchTerm": "Star Ship (1983)"},
+				{"searchTerm": "Star Trek - The Motion Picture"},
+				{"searchTerm": "Star Ship (1982)", "priority": 2}
 			]
 		},
 		{

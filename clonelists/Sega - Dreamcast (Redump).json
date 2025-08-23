@@ -336,11 +336,11 @@
 					"searchTerm": "Illbleed",
 					"filters": [
 						{
-							"conditions": {"matchRegions": "Taiwan"},
+							"conditions": {"matchRegions": ["Taiwan"]},
 							"results": {"localNames": {"chinese (traditional)": "勇闖鬼界"}}
 						},
 						{
-							"conditions": {"matchRegions": "Japan"},
+							"conditions": {"matchRegions": ["Japan"]},
 							"results": {"localNames": {"japanese": "イルブリード"}}
 						}
 					]

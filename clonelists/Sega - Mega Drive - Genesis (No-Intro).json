@@ -1431,7 +1431,7 @@
 					"filters": [
 						{
 							"conditions": {"matchRegions": ["Japan", "USA"]},
-							"results": {"english": "Raiden Trad", "japanese": "雷電伝説"}
+							"results": {"localNames": {"english": "Raiden Trad", "japanese": "雷電伝説"}}
 						}
 					]
 				}
@@ -1823,7 +1823,7 @@
 					"searchTerm": "Streets of Rage",
 					"filters": [
 						{
-							"conditions": {"matchRegions": "World"},
+							"conditions": {"matchRegions": ["World"]},
 							"results": {"localNames": {"english": "Streets of Rage", "japanese": "ベアナックル 怒りの鉄拳"}}
 						}
 					]

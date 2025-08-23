@@ -82,7 +82,7 @@
 					"searchTerm": "Choplifter",
 					"filters": [
 						{
-							"conditions": {"matchRegions": "Taiwan"},
+							"conditions": {"matchRegions": ["Taiwan"]},
 							"results": {"localNames": {"chinese (traditional)": "阿帕契"}}
 						}
 					]

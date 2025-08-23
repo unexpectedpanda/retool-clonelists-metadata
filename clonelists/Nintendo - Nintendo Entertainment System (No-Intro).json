@@ -3891,7 +3891,9 @@
 		},
 		{
 			"group": "Puzzle",
-			"searchTerm": ["Puzzle"],
+			"titles": [
+				{"searchTerm": "Puzzle"}
+			],
 			"compilations": [
 				{"searchTerm": "Maxi 15"}
 			]
