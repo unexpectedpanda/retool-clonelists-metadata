@@ -2169,10 +2169,14 @@
 					"filters": [
 						{
 							"conditions": {
-								"matchString": "(GB)"
+								"matchString": ["(GB)"],
+								"matchRegions": ["Nowhere"]
 							},
 							"results": {
-								"group": "Tetris GameBoy"
+								"group": "Tetris GameBoy",
+								"twingleberry": {
+									"nothing": "nothing"
+								}
 							}
 						}
 					]
