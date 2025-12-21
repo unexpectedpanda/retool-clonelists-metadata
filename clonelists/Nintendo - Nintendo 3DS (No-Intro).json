@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Nintendo - Nintendo 3DS (No-Intro)",
-		"lastUpdated": "2025-11-17 22:33:09",
+		"lastUpdated": "2025-12-21 15:27:36",
 		"minimumVersion": "2.4.0"
 	},
 	"variants": [
@@ -1209,6 +1209,7 @@
 		},
 		{
 			"group": "Phonics Fun with Biff, Chip & Kipper Vol. 1",
+			"categories": ["Educational"],
 			"titles": [
 				{"searchTerm": "Kipper no Eigo Kyoushitsu - Floppys Phonics Vol. 1 - Kipper-Hen"},
 				{"searchTerm": "Phonics Fun with Biff, Chip & Kipper Vol. 1"}
@@ -1216,6 +1217,7 @@
 		},
 		{
 			"group": "Phonics Fun with Biff, Chip & Kipper Vol. 2",
+			"categories": ["Educational"],
 			"titles": [
 				{"searchTerm": "Kipper no Eigo Kyoushitsu - Floppys Phonics Vol. 2 - Biff-Hen"},
 				{"searchTerm": "Phonics Fun with Biff, Chip & Kipper Vol. 2"}
@@ -1223,6 +1225,7 @@
 		},
 		{
 			"group": "Phonics Fun with Biff, Chip & Kipper Vol. 3",
+			"categories": ["Educational"],
 			"titles": [
 				{"searchTerm": "Kipper no Eigo Kyoushitsu - Floppys Phonics Vol. 3 - Chip-Hen"},
 				{"searchTerm": "Phonics Fun with Biff, Chip & Kipper Vol. 3"}
@@ -1247,6 +1250,10 @@
 			"titles": [
 				{"searchTerm": "Pocket Monsters Moon"},
 				{"searchTerm": "Pokemon Moon"}
+			],
+			"supersets": [
+				{"searchTerm": "Pocket Monsters Ultra Moon"},
+				{"searchTerm": "Pokemon Ultra Moon"}
 			]
 		},
 		{
@@ -1280,6 +1287,10 @@
 			"titles": [
 				{"searchTerm": "Pocket Monsters Sun"},
 				{"searchTerm": "Pokemon Sun"}
+			],
+			"supersets": [
+				{"searchTerm": "Pocket Monsters Ultra Sun"},
+				{"searchTerm": "Pokemon Ultra Sun"}
 			]
 		},
 		{
@@ -1287,20 +1298,6 @@
 			"titles": [
 				{"searchTerm": "Pokemon Chou Fushigi no Dungeon"},
 				{"searchTerm": "Pokemon Super Mystery Dungeon"}
-			]
-		},
-		{
-			"group": "Pokemon Ultra Moon",
-			"titles": [
-				{"searchTerm": "Pocket Monsters Ultra Moon"},
-				{"searchTerm": "Pokemon Ultra Moon"}
-			]
-		},
-		{
-			"group": "Pokemon Ultra Sun",
-			"titles": [
-				{"searchTerm": "Pocket Monsters Ultra Sun"},
-				{"searchTerm": "Pokemon Ultra Sun"}
 			]
 		},
 		{
@@ -1382,9 +1379,11 @@
 			]
 		},
 		{
-			"group": "Puzzle & Dragons Z + Puzzle & Dragons Super Mario Bros. Edition",
+			"group": "Puzzle & Dragons - Super Mario Bros. Edition",
 			"titles": [
-				{"searchTerm": "Puzzle & Dragons - Super Mario Bros. Edition"},
+				{"searchTerm": "Puzzle & Dragons - Super Mario Bros. Edition"}
+			],
+			"compilations": [
 				{"searchTerm": "Puzzle & Dragons Z + Puzzle & Dragons Super Mario Bros. Edition"},
 				{"searchTerm": "Puzzle & Dragons Z - Puzzle & Dragons Super Mario Bros Edition"}
 			]

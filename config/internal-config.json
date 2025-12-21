@@ -7,7 +7,7 @@
 			"These are defaults that Retool requires, don't modify this file.",
 			"Check user-config.yaml for user-editable settings."
 		],
-		"lastUpdated": "17 November 2025",
+		"lastUpdated": "21 December 2025",
 		"minimumVersion": "2.4.0"
 	},
 
@@ -36,6 +36,7 @@
 		["(60 pin cart)", "string"],
 		["(72 pin cart)", "string"],
 		["(Covermount)", "string"],
+		["(DSiWare)", "string"],
 		["(eShop)", "string"],
 		["(GBA)", "string"],
 		["(GB)", "string"],
