@@ -1,4 +1,3 @@
-
 import datetime
 import hashlib
 import json
@@ -9,7 +8,6 @@ import textwrap
 import time
 import urllib.parse
 import urllib.request
-
 from typing import Any
 from urllib.error import HTTPError, URLError
 
@@ -266,31 +264,27 @@ def eprint(
 
     if wrap:
         if level == 'heading':
-            print(f'\n\n{Font.heading_bold}{"─"*95}{Font.end}', file=sys.stderr)  # noqa: T201
+            print(f'\n\n{Font.heading_bold}{"─"*95}{Font.end}', file=sys.stderr)
         if level == 'subheading':
-            print(f'\n{Font.subheading}{"─"*60}{Font.end}', file=sys.stderr)  # noqa: T201
-        print(  # noqa: T201
+            print(f'\n{Font.subheading}{"─"*60}{Font.end}', file=sys.stderr)
+        print(
             f'{new_line}{textwrap.TextWrapper(width=95, subsequent_indent=indent_str*indent, replace_whitespace=False, break_long_words=False, break_on_hyphens=False).fill(message)}',
             file=sys.stderr,
             **kwargs,
         )
         if level == 'heading':
-            print('\n')  # noqa: T201
+            print('\n')
     else:
-        print(message, file=sys.stderr, **kwargs)  # noqa: T201
+        print(message, file=sys.stderr, **kwargs)
 
 
 def get_datetime() -> datetime.datetime:
     """Gets the current datetime and time zone."""
-    return (
-        datetime.datetime.now(tz=datetime.timezone.utc)
-        .replace(tzinfo=datetime.timezone.utc)
-        .astimezone(tz=None)
-    )
+    return datetime.datetime.now(tz=datetime.UTC).replace(tzinfo=datetime.UTC).astimezone(tz=None)  # type: ignore
+
 
 def update_hash(file_list: list[str], relative_filepath: str) -> None:
-    """ Generates sha256 hashes for all files and stores them in hash.json """
-
+    """Generates sha256 hashes for all files and stores them in hash.json."""
     hash_file_contents: list[str] = []
 
     hash_file_contents.append('{\n')
@@ -302,23 +296,29 @@ def update_hash(file_list: list[str], relative_filepath: str) -> None:
                 hash_sha256.update(chunk)
 
         if file != file_list[-1]:
-            hash_file_contents.append(f'\t"{pathlib.Path(file).name}": "{hash_sha256.hexdigest()}",\n')
+            hash_file_contents.append(
+                f'\t"{pathlib.Path(file).name}": "{hash_sha256.hexdigest()}",\n'
+            )
         else:
-            hash_file_contents.append(f'\t"{pathlib.Path(file).name}": "{hash_sha256.hexdigest()}"\n')
+            hash_file_contents.append(
+                f'\t"{pathlib.Path(file).name}": "{hash_sha256.hexdigest()}"\n'
+            )
 
     hash_file_contents.append('}\n')
 
     validate_json(''.join(hash_file_contents), file)
 
-    with open (pathlib.Path(relative_filepath), 'w', newline='\n') as hash_file:
+    with open(pathlib.Path(relative_filepath), 'w', newline='\n') as hash_file:
         hash_file.writelines(''.join(hash_file_contents))
 
 
 def validate_json(jsonData: Any, file: str) -> bool:
-    """ Makes sure input JSON is valid """
+    """Makes sure input JSON is valid."""
     try:
         json.loads(jsonData)
     except ValueError:
-        print(f'\n* {Font.error}JSON is invalid in {file}, check the script is still operating as intended.{Font.end}')
+        print(
+            f'\n* {Font.error}JSON is invalid in {file}, check the script is still operating as intended.{Font.end}'
+        )
         sys.exit()
     return True

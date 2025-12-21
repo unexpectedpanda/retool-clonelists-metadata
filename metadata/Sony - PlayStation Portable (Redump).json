@@ -644,7 +644,7 @@
 	"Beaterator (USA)": {
 		"languages": ["En"]
 	},
-	"Beit Hell 2000 (Japan)": {
+	"Beit Hell 2000 (Asia)": {
 		"languages": ["Ja"],
 		"localName": "バイトヘル２０００"
 	},
@@ -1690,6 +1690,10 @@
 	"Crisis Core - Final Fantasy VII (Japan, Asia)": {
 		"languages": ["Ja"],
 		"localName": "クライシスコア　～ファイナルファンタジーⅦ～"
+	},
+	"Crisis Core - Final Fantasy VII (Korea) (En)": {
+		"languages": ["En"],
+		"localName": "크라이시스 코어 - 파이널 판타지 VII"
 	},
 	"Crisis Core - Final Fantasy VII (Spain)": {
 		"languages": ["Es"]
@@ -2829,10 +2833,12 @@
 		"localName": "アイシールド　２１　ポータブルエディション"
 	},
 	"F1 2009 (Europe) (En,Fr,De,Es,It)": {
-		"languages": ["De", "En", "Es", "Fr", "It"]
+		"languages": ["De", "En", "Es", "Fr", "It"],
+		"localName": "Formula 1 2009"
 	},
 	"F1 2009 (Japan)": {
-		"languages": ["Ja"]
+		"languages": ["Ja"],
+		"localName": "Ｆｏｒｍｕｌａ　１　２００９"
 	},
 	"F1 2009 (USA)": {
 		"languages": []
@@ -5191,7 +5197,7 @@
 	},
 	"Kenka Banchou 4 - Ichinen Sensou (Japan, Asia)": {
 		"languages": ["Ja"],
-		"localName": "喧嘩番長４～一年戦争～"
+		"localName": "喧嘩番長４ ～一年戦争～"
 	},
 	"Kenka Banchou 5 - Otoko no Rule (Japan) (v1.02)": {
 		"languages": ["Ja"],
@@ -5467,13 +5473,13 @@
 		"languages": ["Ja"],
 		"localName": "氷の墓標　一柳和、３度目の受難"
 	},
+	"Koro Koro!! Kollon (Japan)": {
+		"languages": ["Ja"],
+		"localName": "コロコロ！！ころん"
+	},
 	"Koro Koro!! Kollon (Korea)": {
 		"languages": ["Ja"],
 		"localName": "돌려돌려!! 코롱"
-	},
-	"Korokoro Kollon (Japan)": {
-		"languages": ["Ja"],
-		"localName": "コロコロ　ころん"
 	},
 	"Kotoba no Puzzle - Mojipittan Daijiten (Japan)": {
 		"languages": ["Ja"],
@@ -7041,7 +7047,7 @@
 		"languages": ["En"]
 	},
 	"NBA Live 07 (Asia)": {
-		"languages": [],
+		"languages": ["En"],
 		"localName": "勁爆美國職籃07"
 	},
 	"NBA Live 07 (Europe) (En,De,It)": {
@@ -8388,6 +8394,9 @@
 	"Pursuit Force - Extreme Justice (Europe) (En,Pl,Ru,Cs,Hu)": {
 		"languages": ["Cs", "En", "Hu", "Pl", "Ru"]
 	},
+	"Pursuit Force - Extreme Justice (Korea) (En,Fr,Es)": {
+		"languages": ["En", "Es", "Fr"]
+	},
 	"Pursuit Force - Extreme Justice (USA) (Demo)": {
 		"languages": ["En"]
 	},
@@ -8616,6 +8625,10 @@
 	},
 	"Resistance - Retribution (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Resistance - Retribution (Korea) (En,Ja,Fr,Es)": {
+		"languages": ["En", "Es", "Fr", "Ja"],
+		"localName": "레지스탕스 - 레트리뷰션"
 	},
 	"Resistance - Retribution (USA) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
@@ -11085,7 +11098,7 @@
 	},
 	"Uta no Prince-sama - Amazing Aria (Japan)": {
 		"languages": ["Ja"],
-		"localName": "うたの☆プリンスさまっ♪　−Ａｍａｚｉｎｇ　Ａｒｉａ−"
+		"localName": "うたの☆プリンスさまっ♪ −Ａｍａｚｉｎｇ　Ａｒｉａ−"
 	},
 	"Uta no Prince-sama - Debut (Japan)": {
 		"languages": ["Ja"],
@@ -11105,7 +11118,7 @@
 	},
 	"Uta no Prince-sama - Sweet Serenade (Japan)": {
 		"languages": ["Ja"],
-		"localName": "うたの☆プリンスさまっ♪　−Ｓｗｅｅｔ　Ｓｅｒｅｎａｄｅ−"
+		"localName": "うたの☆プリンスさまっ♪ −Ｓｗｅｅｔ Ｓｅｒｅｎａｄｅ−"
 	},
 	"Utawarerumono Portable (Japan, Asia)": {
 		"languages": ["Ja"],

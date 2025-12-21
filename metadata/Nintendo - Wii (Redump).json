@@ -2074,10 +2074,12 @@
 		"languages": ["En"]
 	},
 	"De Blob (Europe) (En,Fr,De,Es,It,Nl)": {
-		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
+		"languages": ["De", "En", "Es", "Fr", "It", "Nl"],
+		"localName": "de Blob"
 	},
 	"De Blob (Scandinavia) (En,Sv,No,Da,Fi)": {
-		"languages": ["Da", "En", "Fi", "No", "Sv"]
+		"languages": ["Da", "En", "Fi", "No", "Sv"],
+		"localName": "de Blob"
 	},
 	"De Blob (USA) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
@@ -2087,7 +2089,8 @@
 		"localName": "더 블랍 - 컬러 레볼루션"
 	},
 	"De Blob 2 (Europe) (En,Fr,De,Es,It,Nl)": {
-		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
+		"languages": ["De", "En", "Es", "Fr", "It", "Nl"],
+		"localName": "de Blob 2"
 	},
 	"De Blob 2 (USA) (En,Fr)": {
 		"languages": ["En", "Fr"]
@@ -3294,7 +3297,7 @@
 	"Enclave - Shadows of Twilight (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Endless Ocean (Europe) (En,Fr,De,Es,It)": {
+	"Endless Ocean (Europe, Australia) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Endless Ocean (USA) (En,Fr,Es)": {
@@ -3368,7 +3371,8 @@
 		"localName": "アイシールド２１　フィールド最強の戦士たち"
 	},
 	"F1 2009 (Europe) (En,Fr,De,Es,It)": {
-		"languages": ["De", "En", "Es", "Fr", "It"]
+		"languages": ["De", "En", "Es", "Fr", "It"],
+		"localName": "Formula 1 2009"
 	},
 	"F1 2009 (Japan)": {
 		"languages": []
@@ -3401,14 +3405,14 @@
 	"FIFA 09 - All-Play (Canada) (En,Fr)": {
 		"languages": ["En", "Fr"]
 	},
-	"FIFA 09 - All-Play (Europe) (En,Nl)": {
-		"languages": ["En", "Nl"]
-	},
 	"FIFA 09 - All-Play (Europe) (Es,It)": {
 		"languages": ["Es", "It"]
 	},
 	"FIFA 09 - All-Play (Europe) (Fr,De)": {
 		"languages": ["De", "Fr"]
+	},
+	"FIFA 09 - All-Play (Europe, Australia) (En,Nl)": {
+		"languages": ["En", "Nl"]
 	},
 	"FIFA 09 - All-Play (Japan)": {
 		"languages": [],
@@ -7416,7 +7420,7 @@
 	"Nickelodeon Avatar - The Legend of Aang (Europe) (En,Fr,De,Nl)": {
 		"languages": ["De", "En", "Fr", "Nl"]
 	},
-	"Nickelodeon Avatar - The Legend of Aang (Europe) (En,Fr,De,Nl) (Rev 1)": {
+	"Nickelodeon Avatar - The Legend of Aang (Europe, Australia) (En,Fr,De,Nl) (Rev 1)": {
 		"languages": ["De", "En", "Fr", "Nl"]
 	},
 	"Nickelodeon Avatar - The Legend of Aang - Into the Inferno (Europe) (En,De,Nl,Sv,No,Da,Fi)": {
@@ -7658,7 +7662,7 @@
 	"Ninja Captains (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Ninja Reflex (Europe) (En,Fr,De,Es,It)": {
+	"Ninja Reflex (Europe, Australia) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Ninja Reflex (Japan)": {
@@ -8166,7 +8170,7 @@
 	"Pikmin (USA) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
 	},
-	"Pikmin 2 (Europe) (En,Fr,De,Es,It)": {
+	"Pikmin 2 (Europe, Australia) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Pikmin 2 (Japan) (Rev 1)": {

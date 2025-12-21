@@ -1,10 +1,13 @@
 import os
 import pathlib
 import re
+from typing import TYPE_CHECKING, Any
 
-from lxml import etree
+from lxml import etree  # type: ignore
 from lxml import html as html_
-from typing import Any, Iterator
+
+if TYPE_CHECKING:
+    from collections.abc import Iterator
 
 
 class TitleData:
@@ -239,7 +242,6 @@ def get_logiqx_titles(
     Returns:
         set[TitleData]: A set of titles.
     """
-
     titles: set[TitleData] = set()
 
     def process_element(element: etree._Element) -> None:
@@ -292,7 +294,7 @@ def get_logiqx_titles(
 
                     # Add unrecognized children found in the element
                     unrecognized_children: list[etree._Element] = list(
-                        element.xpath(  # type: ignore
+                        element.xpath(
                             '*[not(self::category) '
                             'and not(self::description) '
                             'and not(self::disk) '

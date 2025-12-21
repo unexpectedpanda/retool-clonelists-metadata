@@ -14,6 +14,7 @@ debug.log
 
 # testing
 /coverage
+/requirements
 
 # production
 /build
@@ -25,6 +26,7 @@ debug.log
 .env.development.local
 .env.test.local
 .env.production.local
+retool_clone_list_metadata_helper.egg-info/
 
 npm-debug.log*
 yarn-debug.log*

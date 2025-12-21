@@ -5,9 +5,8 @@ import re
 import sys
 import zipfile
 
-from lxml import etree
+from lxml import etree  # type: ignore
 from lxml import html as html_
-
 from modules.parse_dat import TitleData, define_lxml_parser, get_logiqx_header, get_logiqx_titles
 from modules.utils import Font, download, eprint, update_hash, validate_json
 
@@ -22,13 +21,7 @@ def update_ra(download_location: str) -> None:
     format.
 
     Args:
-        config (Config): The Retool config object.
-
-        gui_input (UserInput): Used to determine whether the update is being run from the
-            GUI. If so, check if a custom download location has been set in
-            `user-config.yaml`.
-
-        no_exit (bool): Whether to exit the Retool process after the update has run.
+        download_location (str): The location of the RetroAchievements DAT files.
 
     Raises:
         ExitRetool: Silently exit if run from the GUI, so UI elements can re-enable.
@@ -213,7 +206,7 @@ def update_ra(download_location: str) -> None:
             # Modify the JSON
             json_file: str = json.dumps(
                 json.loads(
-                    f'{{\n\t"retroachievements":\n{json.dumps(sorted(retroachievements_titles, key=lambda d: d['name']))}\n\t}}'
+                    f'{{\n\t"retroachievements":\n{json.dumps(sorted(retroachievements_titles, key=lambda d: d["name"]))}\n\t}}'
                 ),
                 indent=4,
             )
@@ -222,7 +215,7 @@ def update_ra(download_location: str) -> None:
             with open(f'{local_path}/{system_name}.json', 'w', encoding='utf-8') as ra_file:
                 ra_file.write(f'{json_file}\n')
 
-            with open(f'{local_path}/{system_name}.json', 'r', encoding='utf-8') as ra_file:
+            with open(f'{local_path}/{system_name}.json', encoding='utf-8') as ra_file:
                 validate_json(ra_file.read(), f'{local_path}/{system_name}.json')
 
             # We need to duplicate JSON files where systems have been merged
@@ -246,14 +239,14 @@ def update_ra(download_location: str) -> None:
         eprint('• Writing system RetroAchievements files... done.', overwrite=True)
 
         # Update the hash.json file
-        eprint(f'• Writing RetroAchievements hash.json file...')
+        eprint('• Writing RetroAchievements hash.json file...')
 
-        files = list(str(x) for x in pathlib.Path('retroachievements').glob('*.json'))
+        files = [str(x) for x in pathlib.Path('retroachievements').glob('*.json')]
 
         update_hash(files, 'retroachievements/hash.json')
 
         eprint('• Writing RetroAchievements hash.json file... done.', overwrite=True)
 
+
 if __name__ == '__main__':
     main(sys.argv[1])
-

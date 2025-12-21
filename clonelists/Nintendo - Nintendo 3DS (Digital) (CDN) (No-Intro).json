@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Nintendo - Nintendo 3DS (Digital) (CDN) (No-Intro)",
-		"lastUpdated": "2025-11-23 10:45:32",
+		"lastUpdated": "2025-11-23 10:55:54",
 		"minimumVersion": "2.4.0"
 	},
 	"variants": [
@@ -1377,6 +1377,20 @@
 			"titles": [
 				{"searchTerm": "Magic Hammer"},
 				{"searchTerm": "Magic Hammer, The"}
+			]
+		},
+		{
+			"group": "Mario & Luigi - Bowser's Inside Story + Bowser Jr.'s Journey",
+			"titles": [
+				{"searchTerm": "Mario & Luigi - Bowser's Inside Story + Bowser Jr.'s Journey"},
+				{"searchTerm": "Mario & Luigi - RPG 3 DX"}
+			]
+		},
+		{
+			"group": "Mario & Luigi - Bowser's Inside Story + Bowser Jr.'s Journey (Update)",
+			"titles": [
+				{"searchTerm": "Mario & Luigi - Bowser's Inside Story + Bowser Jr.'s Journey (Update)"},
+				{"searchTerm": "Mario & Luigi - RPG 3 DX (Update)"}
 			]
 		},
 		{

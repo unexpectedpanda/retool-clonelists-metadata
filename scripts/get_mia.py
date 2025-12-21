@@ -4,7 +4,6 @@ import pathlib
 import re
 import sys
 import zipfile
-
 from typing import Any
 
 from modules.utils import Font, download, eprint, update_hash, validate_json
@@ -16,7 +15,6 @@ def main(download_location: str) -> None:
 
 def update_mia(download_location: str) -> None:
     """Downloads the latest MIA lists, and parses them into a usable format."""
-
     local_file: str = str(pathlib.Path('mias').joinpath('mia.zip'))
     local_path: str = f'{pathlib.Path(local_file).parent}'
 
@@ -136,7 +134,7 @@ def update_mia(download_location: str) -> None:
 
                 mia_file.writelines('\n\t]\n}\n')
 
-            with open(f'{local_path}/{system}.json', 'r', encoding='utf-8') as mia_file:
+            with open(f'{local_path}/{system}.json', encoding='utf-8') as mia_file:
                 validate_json(mia_file.read(), f'{local_path}/{system}.json')
 
         # Remove unneeded MIA files
@@ -158,13 +156,14 @@ def update_mia(download_location: str) -> None:
         eprint('• Writing system MIA files... done.', overwrite=True)
 
         # Update the hash.json file
-        eprint(f'• Writing MIA hash.json file...')
+        eprint('• Writing MIA hash.json file...')
 
-        files = list(str(x) for x in pathlib.Path('mias').glob('*.json'))
+        files = [str(x) for x in pathlib.Path('mias').glob('*.json')]
 
         update_hash(files, 'mias/hash.json')
 
         eprint('• Writing MIA hash.json file... done.', overwrite=True)
+
 
 if __name__ == '__main__':
     main(sys.argv[1])

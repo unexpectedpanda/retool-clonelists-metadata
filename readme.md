@@ -3,7 +3,7 @@
 for more information on what this means.
 
 This is the repository for [Retool's](https://unexpectedpanda.github.io/retool/) clone
-list and metadata files. It also hosts `config/internal-config.json`.
+lists and metadata files. It also hosts `config/internal-config.json`.
 
 ## Contributions
 
@@ -14,17 +14,19 @@ Contributions are welcome. Before submitting a pull request, make sure to read
 [Guidelines for pull requests](https://unexpectedpanda.github.io/retool/contribute-clone-lists-pull-request/)
 can be found in the same section.
 
-### Metadata files
-
-Metadata files are auto-generated from Redump and No-Intro databases, and shouldn't be
-manually updated.
-
-To make a change, don't submit a PR. Instead, report the issue upstream:
-
 ### MIA and RetroAchievements files
 
 MIA and RetroAchievements files are pulled from external servers on a weekly basis, and
 should not be manually updated. If the sources stop updating, then so will these files.
+
+### Metadata files
+
+Metadata files are auto-generated from the Redump and No-Intro databases, and shouldn't
+be manually updated. The metadata is regenerated whenever I have time to refresh it.
+
+If there's an error in the metadata and you're sure that the metadata in this
+repository isn't just out of date, don't submit a PR. Instead, report the issue
+upstream to the relevant group:
 
 #### No-Intro
 

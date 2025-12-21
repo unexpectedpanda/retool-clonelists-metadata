@@ -2,15 +2,113 @@
 name = "retool-clone-list-metadata-helper"
 description = "Validates, cleans, and gets Retool clone lists and metadata"
 version="1.1"
-requires-python = ">=3.10"
+requires-python = ">=3.13"
 dependencies = [
     "json-source-map>=1.0.5",
     "jsonpath-ng>=1.7.0",
     "jsonschema>=4.25.1",
     "lxml>=5.4.0",
     "natsort>=8.4.0",
+    "requests>=2.32.5",
 ]
+
+[tool.setuptools]
+py-modules = ["scripts"]
 
 # Use UV for dependency installation
 [tool.hatch.envs.default]
 installer = "uv"
+
+[[tool.hatch.envs.all.matrix]]
+python = ["3.13"]
+
+[tool.hatch.envs.default.scripts]
+all = [
+    "hatch run style:fix",
+    "hatch run types:check",
+    "hatch run lint:check",
+]
+
+# Hatch lint setup and scripts
+[tool.hatch.envs.lint]
+detached = true
+dependencies = [
+    "codespell",
+]
+
+[tool.hatch.envs.lint.scripts]
+spelling = 'codespell scripts *.* -L ue'
+check = ["spelling"]
+
+# Hatch style setup and scripts
+[tool.hatch.envs.style]
+type = "pip-compile" # requires the hatch-pip-compile dependency
+detached = true
+dependencies = [
+    "black",
+    "isort",
+    "ruff",
+]
+
+[tool.hatch.envs.style.scripts]
+check = [
+    "isort --check-only --diff scripts",
+    "black -q --check --diff scripts",
+    "lint",
+]
+lint = [
+    "ruff check scripts {args}"
+]
+
+fix = [
+    "lint --fix",
+    "format",
+]
+format = [
+    "isort -q scripts",
+    "black -q scripts",
+]
+
+# Hatch types setup and scripts
+[tool.hatch.envs.types]
+dependencies = [
+    "mypy>=1.8.0",
+]
+
+[tool.hatch.envs.types.scripts]
+check = [
+    "mypy --strict --install-types --non-interactive --python-version=3.10 scripts",
+]
+
+# Hatch tool configuration
+[tool.black]
+line-length = 100
+skip-string-normalization = true
+
+[tool.isort]
+profile = "black"
+line_length = 100
+
+[tool.mypy]
+warn_unreachable = true
+no_implicit_optional = true
+show_error_codes = true
+
+[tool.ruff]
+lint.select = [
+    "F", "W", "E", "UP", "YTT", "C4", "DTZ", "FA", "ISC", "PIE", "RSE", "TCH",
+    "B002", "B003", "B005", "B007", "B009", "B012", "B013", "B014", "B015", "B018", "B020", "B021", "B023", "B026", "B033", "B034", "B905",
+    "COM818",
+    "D200", "D201", "D202", "D204", "D207", "D208", "D209", "D210", "D211", "D213", "D214", "D300", "D301", "D400", "D402", "D403", "D405", "D412", "D414", "D415", "D416", "D417", "D419",
+    "G010",
+    "PERF101",
+    "PGH004", "PGH005",
+    "FLY002",
+    "PLC", "PLE", "PLR0124", "PLR0133", "PLR0206", "PLR0402", "PLR1722", "PLW0120", "PLW0127", "PLW0129", "PLW0131", "PLW0406", "PLW0602", "PLW0603", "PLW0711",
+    "RUF001", "RUF005", "RUF007", "RUF010", "RUF013", "RUF100", "RUF200",
+    "SIM101", "SIM107", "SIM201", "SIM202", "SIM208", "SIM210", "SIM211", "SIM300", "SIM401", "SIM910",
+]
+lint.ignore = ["E501", "E731"]
+
+[tool.ruff.lint.flake8-comprehensions]
+allow-dict-calls-with-keyword-arguments = true

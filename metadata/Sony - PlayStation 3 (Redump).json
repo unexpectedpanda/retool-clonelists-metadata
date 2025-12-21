@@ -289,7 +289,7 @@
 		"languages": [],
 		"localName": "アリス　マッドネス　リターンズ"
 	},
-	"Alice - Madness Returns (USA) (En,Fr,De,Es,It)": {
+	"Alice - Madness Returns (USA, Asia) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Alien - Isolation (Europe) (En,Fr,De,Es,It,Pl,Ru)": {
@@ -492,11 +492,11 @@
 	"Armored Core - For Answer (Europe) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
 	},
-	"Armored Core - For Answer (Japan)": {
+	"Armored Core - For Answer (Japan) (PlayStation 3 the Best)": {
 		"languages": ["Ja"],
 		"localName": "アーマード・コア　フォーアンサー"
 	},
-	"Armored Core - For Answer (Japan) (PlayStation 3 the Best)": {
+	"Armored Core - For Answer (Japan, Asia)": {
 		"languages": ["Ja"],
 		"localName": "アーマード・コア　フォーアンサー"
 	},
@@ -1026,6 +1026,10 @@
 	"Battlefield 3 (World) (En,Fr)": {
 		"languages": ["En", "Fr"]
 	},
+	"Battlefield 4 (Asia)": {
+		"languages": [],
+		"localName": "戰地風雲 4"
+	},
 	"Battlefield 4 (Europe) (En,Fr,De,Es,It,Pl,Ru)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Pl", "Ru"]
 	},
@@ -1250,7 +1254,7 @@
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja"],
 		"localName": "バイオハザード　ＨＤリマスター"
 	},
-	"Biohazard - Operation Raccoon City (Japan) (En,Ja,Fr,De,Es,It)": {
+	"Biohazard - Operation Raccoon City (Japan, Asia) (En,Ja,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja"],
 		"localName": "バイオハザード　オペレーション・ラクーンシティ"
 	},
@@ -1813,11 +1817,11 @@
 	"Call of Duty - Advanced Warfare (Europe, Asia) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Call of Duty - Advanced Warfare (Japan)": {
+	"Call of Duty - Advanced Warfare (Japan) (Fukikaeban)": {
 		"languages": [],
 		"localName": "コール　オブ　デューティ　アドバンスド・ウォーフェア"
 	},
-	"Call of Duty - Advanced Warfare (Japan) (Fukikaeban)": {
+	"Call of Duty - Advanced Warfare (Japan) (Jimakuban)": {
 		"languages": [],
 		"localName": "コール　オブ　デューティ　アドバンスド・ウォーフェア"
 	},
@@ -1874,7 +1878,7 @@
 	"Call of Duty - Black Ops II (Germany) (v02.00)": {
 		"languages": ["De"]
 	},
-	"Call of Duty - Black Ops II (Japan)": {
+	"Call of Duty - Black Ops II (Japan) (Fukikaeban)": {
 		"languages": [],
 		"localName": "コール　オブ　デューティ　ブラックオプスⅡ"
 	},
@@ -2661,7 +2665,8 @@
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"De Blob 2 (Europe) (En,Fr,De,Es,It)": {
-		"languages": ["De", "En", "Es", "Fr", "It"]
+		"languages": ["De", "En", "Es", "Fr", "It"],
+		"localName": "de Blob 2"
 	},
 	"De Blob 2 (USA) (En,Fr)": {
 		"languages": ["En", "Fr"]
@@ -2948,7 +2953,7 @@
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja"],
 		"localName": "デビル　メイ　クライ　４"
 	},
-	"Devil May Cry 4 (USA, Korea) (En,Ja,Fr,De,Es,It)": {
+	"Devil May Cry 4 (USA, Asia) (En,Ja,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja"]
 	},
 	"Diablo III (Europe) (En,Fr,De,Es,It)": {
@@ -3360,8 +3365,8 @@
 	"Disney-Pixar Up (Italy)": {
 		"languages": ["It"]
 	},
-	"Disney-Pixar Up (Netherlands)": {
-		"languages": []
+	"Disney-Pixar Up (Netherlands) (En,Fr,Nl)": {
+		"languages": ["En", "Fr", "Nl"]
 	},
 	"Disney-Pixar Up (Poland)": {
 		"languages": ["Pl"],
@@ -3782,7 +3787,7 @@
 	"Driver - San Francisco (UK)": {
 		"languages": ["En"]
 	},
-	"Driver - San Francisco (USA) (En,Fr,Es)": {
+	"Driver - San Francisco (USA, Asia) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
 	},
 	"Duck Dynasty (USA)": {
@@ -3835,7 +3840,7 @@
 	"Dynasty Warriors - Gundam 3 (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Dynasty Warriors - Gundam 3 (USA) (En,Fr,De,Es,It)": {
+	"Dynasty Warriors - Gundam 3 (USA, Asia) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Dynasty Warriors - Gundam Reborn (Europe)": {
@@ -4175,6 +4180,10 @@
 		"languages": [],
 		"localName": "エクストリーム・レーシング　ピュア"
 	},
+	"Eye of Judgment, The (Asia)": {
+		"languages": [],
+		"localName": "審判魔眼 機神之亂"
+	},
 	"Eye of Judgment, The (Europe) (En,Ja,Fr,De,Es,It,Zh)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Zh"]
 	},
@@ -4255,10 +4264,12 @@
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Ko", "Pl", "Pt", "Ru"]
 	},
 	"F1 2010 (Europe) (En,Fr,De,Es,It)": {
-		"languages": ["De", "En", "Es", "Fr", "It"]
+		"languages": ["De", "En", "Es", "Fr", "It"],
+		"localName": "Formula 1 2010"
 	},
 	"F1 2010 (Europe) (Pl,Ru)": {
-		"languages": ["Pl", "Ru"]
+		"languages": ["Pl", "Ru"],
+		"localName": "Formula 1 2010"
 	},
 	"F1 2010 (Japan)": {
 		"languages": []
@@ -4267,22 +4278,27 @@
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"F1 2011 (Europe, Asia) (En,Fr,De,Es,It)": {
-		"languages": ["De", "En", "Es", "Fr", "It"]
+		"languages": ["De", "En", "Es", "Fr", "It"],
+		"localName": "Formula 1 2011"
 	},
 	"F1 2011 (Japan)": {
-		"languages": []
+		"languages": [],
+		"localName": "Ｆｏｒｍｕｌａ　１　２０１１"
 	},
 	"F1 2011 (USA) (En,Fr,Es,Pt)": {
 		"languages": ["En", "Es", "Fr", "Pt"]
 	},
 	"F1 2012 (Europe) (Pl,Ru)": {
-		"languages": ["Pl", "Ru"]
+		"languages": ["Pl", "Ru"],
+		"localName": "Formula 1 2012"
 	},
 	"F1 2012 (Europe, Asia) (En,Fr,De,Es,It)": {
-		"languages": ["De", "En", "Es", "Fr", "It"]
+		"languages": ["De", "En", "Es", "Fr", "It"],
+		"localName": "Formula 1 2012"
 	},
 	"F1 2012 (Japan)": {
-		"languages": []
+		"languages": [],
+		"localName": "Ｆｏｒｍｕｌａ　１　２０１２"
 	},
 	"F1 2012 (USA) (En,Fr,Es,Pt)": {
 		"languages": ["En", "Es", "Fr", "Pt"]
@@ -4985,15 +5001,15 @@
 		"languages": ["Ja"],
 		"localName": "フロムソフトウェア　ＨＤビジュアル　プレビューディスク"
 	},
+	"Front Mission Evolved (Asia) (En,Fr,De,Es,It)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
 	"Front Mission Evolved (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Front Mission Evolved (Japan)": {
+	"Front Mission Evolved (Japan, Asia)": {
 		"languages": ["Ja"],
 		"localName": "フロントミッション　エボルヴ"
-	},
-	"Front Mission Evolved (Korea) (En,Fr,De,Es,It)": {
-		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Front Mission Evolved (USA) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -5017,7 +5033,7 @@
 		"languages": [],
 		"localName": "フレ！フレ！ボウリング"
 	},
-	"Furi Furi! Saru Get You (Japan)": {
+	"Furi Furi! Saru Get You (Japan, Asia)": {
 		"languages": [],
 		"localName": "フリフリ！　サルゲッチュ"
 	},
@@ -5715,6 +5731,10 @@
 	"Hatsune Miku - Project Diva F (USA)": {
 		"languages": ["En"]
 	},
+	"Hatsune Miku - Project Diva F 2nd (Asia)": {
+		"languages": ["Zh"],
+		"localName": "初音未來 －Project DIVA－ F 2nd"
+	},
 	"Hatsune Miku - Project Diva F 2nd (Europe)": {
 		"languages": ["En"]
 	},
@@ -5913,7 +5933,7 @@
 	"Hitman HD Trilogy (USA) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
 	},
-	"Hokuto Musou (Japan, Korea)": {
+	"Hokuto Musou (Japan, Asia)": {
 		"languages": ["Ja"],
 		"localName": "北斗無双"
 	},
@@ -6300,6 +6320,10 @@
 	"Jeopardy! (USA)": {
 		"languages": ["En"]
 	},
+	"Jikkyou Powerful Pro Yakyuu 2010 (Asia)": {
+		"languages": ["Ja"],
+		"localName": "実況パワフルプロ野球２０１０"
+	},
 	"Jikkyou Powerful Pro Yakyuu 2010 (Japan)": {
 		"languages": ["Ja"],
 		"localName": "実況パワフルプロ野球２０１０"
@@ -6592,6 +6616,10 @@
 	"Kidou Senshi Gundam - Extreme Vs. (Japan, Asia)": {
 		"languages": ["Ja"],
 		"localName": "機動戦士ガンダム エクストリームバーサス"
+	},
+	"Kidou Senshi Gundam - Extreme Vs. Full Boost (Asia)": {
+		"languages": [],
+		"localName": "機動戦士ガンダム エクストリームバーサス フルブースト"
 	},
 	"Kidou Senshi Gundam - Extreme Vs. Full Boost (Japan)": {
 		"languages": ["Ja"],
@@ -7132,6 +7160,9 @@
 	"LittleBigPlanet 3 (USA) (En,Fr)": {
 		"languages": ["En", "Fr"]
 	},
+	"LittleBigPlanet Karting (Asia) (En,Zh,Ko)": {
+		"languages": ["En", "Ko", "Zh"]
+	},
 	"LittleBigPlanet Karting (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru)": {
 		"languages": ["Da", "De", "En", "Es", "Fi", "Fr", "It", "Nl", "No", "Pl", "Pt", "Ru", "Sv"]
 	},
@@ -7323,6 +7354,9 @@
 		"languages": ["En"]
 	},
 	"MLB 15 - The Show (USA)": {
+		"languages": ["En"]
+	},
+	"MLB 2K13 (USA)": {
 		"languages": ["En"]
 	},
 	"MLB Bobblehead! (Japan)": {
@@ -7558,9 +7592,6 @@
 	"Major League Baseball 2K12 (USA)": {
 		"languages": ["En"]
 	},
-	"Major League Baseball 2K13 (USA)": {
-		"languages": ["En"]
-	},
 	"Major League Baseball 2K7 (Japan)": {
 		"languages": [],
 		"localName": "メジャーリーグベースボール　２Ｋ７"
@@ -7727,6 +7758,10 @@
 		"languages": [],
 		"localName": "メモーション"
 	},
+	"Medal of Honor (Asia)": {
+		"languages": [],
+		"localName": "榮譽勳章"
+	},
 	"Medal of Honor (Austria, Switzerland) (En,De)": {
 		"languages": ["De", "En"]
 	},
@@ -7758,6 +7793,9 @@
 	},
 	"Medal of Honor - Airborne (USA)": {
 		"languages": ["En"]
+	},
+	"Medal of Honor - Warfighter (Asia)": {
+		"languages": []
 	},
 	"Medal of Honor - Warfighter (Europe, Australia) (En,Fr,De,Es,It,Pl,Ru)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Pl", "Ru"]
@@ -8739,6 +8777,10 @@
 	"Naruto Shippuden - Ultimate Ninja Storm 3 (USA) (En,Fr,Es,Pt)": {
 		"languages": ["En", "Es", "Fr", "Pt"]
 	},
+	"Naruto Shippuden - Ultimate Ninja Storm 3 Full Burst (Asia) (En,Ja,Zh)": {
+		"languages": ["En", "Ja", "Zh"],
+		"localName": "火影忍者 疾風傳 終極風暴 3 Full Burst"
+	},
 	"Naruto Shippuden - Ultimate Ninja Storm 3 Full Burst (Europe) (En,Fr,De,Es,It,Ru)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ru"]
 	},
@@ -8913,6 +8955,10 @@
 	"Need for Speed - The Run (USA) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
 	},
+	"Need for Speed - Undercover (Asia)": {
+		"languages": [],
+		"localName": "極速快感 臥底風雲"
+	},
 	"Need for Speed - Undercover (Europe)": {
 		"languages": ["En"]
 	},
@@ -9012,6 +9058,10 @@
 	},
 	"Ninja Gaiden Sigma (USA) (En,Ja)": {
 		"languages": ["En", "Ja"]
+	},
+	"Ninja Gaiden Sigma 2 (Asia)": {
+		"languages": [],
+		"localName": "忍者外傳 Σ2"
 	},
 	"Ninja Gaiden Sigma 2 (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -9436,7 +9486,7 @@
 	"Orange Box, The (Germany) (En,De)": {
 		"languages": ["De", "En"]
 	},
-	"Orange Box, The (USA, Korea)": {
+	"Orange Box, The (USA, Asia)": {
 		"languages": ["En"]
 	},
 	"Order Up!! (Europe) (En,Fr,De,Es,It)": {
@@ -10369,6 +10419,10 @@
 	"Remember Me (World) (Beta) (2013-03-20)": {
 		"languages": []
 	},
+	"Renzhong zhi Long 0 - Shiyue de Changsuo (Asia)": {
+		"languages": [],
+		"localName": "人中之龍０ 誓約的場所"
+	},
 	"Resident Evil - Operation Raccoon City (Europe) (En,Fr,De,Es,It,Nl,Pl,Ru)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl", "Pl", "Ru"]
 	},
@@ -10812,6 +10866,9 @@
 	},
 	"SOCOM 4 - U.S. Navy SEALs (USA) (En,Fr,Es,Pt)": {
 		"languages": ["En", "Es", "Fr", "Pt"]
+	},
+	"SSX (Asia)": {
+		"languages": []
 	},
 	"SSX (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -11262,7 +11319,7 @@
 		"languages": ["Ja"],
 		"localName": "真　流行り神２"
 	},
-	"Shin Hokuto Musou (Japan)": {
+	"Shin Hokuto Musou (Japan, Asia)": {
 		"languages": ["Ja"],
 		"localName": "真・北斗無双"
 	},
@@ -11400,7 +11457,7 @@
 	},
 	"Shirokishi Monogatari - Inishie no Kodou (Japan)": {
 		"languages": ["Ja"],
-		"localName": "白騎士物語　－古の鼓動－"
+		"localName": "白騎士物語 ー古の鼓動ー"
 	},
 	"Shirokishi Monogatari - Inishie no Kodou - EX Edition (Japan)": {
 		"languages": [],
@@ -12285,6 +12342,9 @@
 	"Star Wars - The Force Unleashed II (USA) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
+	"Starhawk (Asia)": {
+		"languages": []
+	},
 	"Starhawk (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru)": {
 		"languages": ["Da", "De", "En", "Es", "Fi", "Fr", "It", "Nl", "No", "Pl", "Pt", "Ru", "Sv"]
 	},
@@ -12495,6 +12555,10 @@
 		"languages": [],
 		"localName": "涼宮ハルヒの追想"
 	},
+	"Sword Art Online - Lost Song (Asia)": {
+		"languages": ["Zh"],
+		"localName": "刀劍神域 －Lost Song－"
+	},
 	"Sword Art Online - Lost Song (Japan)": {
 		"languages": [],
 		"localName": "ソードアート・オンライン　－ロスト・ソングー"
@@ -12549,7 +12613,7 @@
 	},
 	"Tales of Graces f (Japan)": {
 		"languages": [],
-		"localName": "テイルズ　オブ　グレイセス　エフ"
+		"localName": "テイルズ オブ グレイセス エフ"
 	},
 	"Tales of Graces f (USA)": {
 		"languages": ["En"]
@@ -12948,7 +13012,7 @@
 	"Tom Clancy's H.A.W.X (Poland)": {
 		"languages": ["Pl"]
 	},
-	"Tom Clancy's H.A.W.X (USA) (En,Fr,De,Es,It)": {
+	"Tom Clancy's H.A.W.X (USA, Asia) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Tom Clancy's H.A.W.X. 2 (Europe) (En,Fr,De,Es,It,Pl)": {
@@ -13192,7 +13256,8 @@
 		"languages": ["Da", "De", "En", "Es", "Fr", "It", "Nl"]
 	},
 	"Tour de France, Le (Europe) (En,Fr,De,Es,It,Nl,Da)": {
-		"languages": ["Da", "De", "En", "Es", "Fr", "It", "Nl"]
+		"languages": ["Da", "De", "En", "Es", "Fr", "It", "Nl"],
+		"localName": "Le Tour de France 2011"
 	},
 	"Tour de France, Le - Season 2015 (Europe) (En,Fr,De,Es,It,Nl,Da)": {
 		"languages": ["Da", "De", "En", "Es", "Fr", "It", "Nl"]
@@ -14248,7 +14313,7 @@
 	},
 	"World Soccer Winning Eleven 2011 (Japan) (En,Ja)": {
 		"languages": ["En", "Ja"],
-		"localName": "ワールドサッカー　ウイニングイレブン　２０１１"
+		"localName": "ワールドサッカー ウイニングイレブン ２０１１"
 	},
 	"World Soccer Winning Eleven 2011 (Korea)": {
 		"languages": ["Ko"]
@@ -14278,7 +14343,7 @@
 	},
 	"World Soccer Winning Eleven 2014 (Japan)": {
 		"languages": ["Ja"],
-		"localName": "ワールドサッカーウイニングイレブン２０１４"
+		"localName": "ワールドサッカー ウイニングイレブン ２０１４"
 	},
 	"World Soccer Winning Eleven 2014 (Korea)": {
 		"languages": ["Ko"]

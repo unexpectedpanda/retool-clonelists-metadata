@@ -1,0 +1,48 @@
+name: Clone list validator
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+jobs:
+  review:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pull-requests: write # Required to post comments and reviews
+    steps:
+    - name: Git checkout
+      uses: actions/checkout@v2
+      with:
+        fetch-depth: '0'
+    - name: Set up git
+      # Set up the Git username and email
+      run: |
+        git config user.name "GitHub Actions Bot"
+        git config user.email "<>"
+    - name: Checkout clone lists repo
+      uses: actions/checkout@v4
+      with:
+        path: retool-clonelists-metadata
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        # Semantic version range syntax or exact version of a Python version
+        python-version: '3.14.0'
+        cache: 'pip' # caching pip global dependencies
+        # Optional - x64 or x86 architecture, defaults to x64
+        architecture: 'x64'
+    - name: Set up pip cache
+      if: runner.os == 'Linux'
+      uses: actions/cache@v4
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ hashFiles('pyproject.toml') }}
+        restore-keys: ${{ runner.os }}-pip-
+    - name: Install Hatch
+      run: pip install hatch
+    - name: Validate clone list
+      env:
+        PR_NUMBER: ${{ github.event.number }}
+        COMMIT_ID: ${{ github.event.pull_request.head.sha || github.sha }}
+        CLONELISTS_PAT: ${{secrets.CLONELISTS_PAT}}
+      run: |
+        hatch run python3 -u retool-clonelists-metadata/scripts/clone_list_validate.py
