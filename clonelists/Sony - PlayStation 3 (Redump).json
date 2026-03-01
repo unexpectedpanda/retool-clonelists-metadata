@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Sony - PlayStation 3 (Redump)",
-		"lastUpdated": "2026-01-26 10:09:07",
+		"lastUpdated": "2026-02-21 13:30:00",
 		"minimumVersion": "2.4.8"
 	},
 	"variants": [
@@ -1107,8 +1107,9 @@
 			]
 		},
 		{
-			"group": "FolksSoul - Ushinawareta Denshou",
+			"group": "Folklore",
 			"titles": [
+				{"searchTerm": "Folklore"},
 				{"searchTerm": "FolksSoul - Ilheobeorin Jeonseung"},
 				{"searchTerm": "FolksSoul - Ushinawareta Denshou"}
 			]
@@ -1253,7 +1254,8 @@
 			"group": "Hot Shots Golf - Out of Bounds",
 			"titles": [
 				{"searchTerm": "Everybody's Golf - World Tour"},
-				{"searchTerm": "Hot Shots Golf - Out of Bounds"}
+				{"searchTerm": "Hot Shots Golf - Out of Bounds"},
+				{"searchTerm": "Minna no Golf 5"}
 			]
 		},
 		{
@@ -2186,6 +2188,10 @@
 			"group": "Red Dead Redemption - Undead Nightmare",
 			"titles": [
 				{"searchTerm": "Red Dead Redemption - Undead Nightmare"}
+			],
+			"supersets": [
+				{"searchTerm": "Red Dead Redemption - Complete Edition"},
+				{"searchTerm": "Red Dead Redemption - Game of the Year Edition"}
 			]
 		},
 		{
@@ -3041,3 +3047,5 @@
 		}
 	]
 }
+
+
