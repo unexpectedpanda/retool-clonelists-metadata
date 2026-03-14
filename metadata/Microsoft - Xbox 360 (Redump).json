@@ -925,7 +925,7 @@
 		"languages": ["En", "Ja"],
 		"localName": "バイオショック　インフィニット"
 	},
-	"BioShock Infinite (USA, Europe) (En,Fr,De,Es,It,Pt)": {
+	"BioShock Infinite (World) (En,Fr,De,Es,It,Pt)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Pt"]
 	},
 	"BioShock Infinite - The Complete Edition - Bonus Content Disc (USA, Europe)": {
@@ -1040,6 +1040,18 @@
 	},
 	"Bloodbath (Europe)": {
 		"languages": []
+	},
+	"Blue Dragon (Asia) (En,Zh,Ko) (Disc 1)": {
+		"languages": ["En", "Ko", "Zh"],
+		"localName": "藍龍"
+	},
+	"Blue Dragon (Asia) (En,Zh,Ko) (Disc 2)": {
+		"languages": ["En", "Ko", "Zh"],
+		"localName": "藍龍"
+	},
+	"Blue Dragon (Asia) (En,Zh,Ko) (Disc 3)": {
+		"languages": ["En", "Ko", "Zh"],
+		"localName": "藍龍"
 	},
 	"Blue Dragon (Europe) (En,De,Es) (Disc 1)": {
 		"languages": ["De", "En", "Es"]
@@ -2951,6 +2963,9 @@
 		"languages": ["Ru"],
 		"localName": "Dragon Age - Начало"
 	},
+	"Dragon Age - Origins (France)": {
+		"languages": ["Fr"]
+	},
 	"Dragon Age - Origins (Germany)": {
 		"languages": ["De"]
 	},
@@ -3338,16 +3353,24 @@
 		"languages": ["En"]
 	},
 	"Elder Scrolls IV, The - Oblivion - 5th Anniversary Edition (Italy) (Disc 2)": {
-		"languages": ["It"]
+		"languages": ["It"],
+		"localName": "The Elder Scrolls IV - Oblivion - Edizione 5° Anniversario"
 	},
 	"Elder Scrolls IV, The - Oblivion - 5th Anniversary Edition (Spain) (Disc 2)": {
+		"languages": ["Es"],
+		"localName": "The Elder Scrolls IV - Oblivion - Edición 5º Aniversario"
+	},
+	"Elder Scrolls IV, The - Oblivion - Edicion Juego del Ano (Spain) (Disco 2)": {
 		"languages": ["Es"]
 	},
-	"Elder Scrolls IV, The - Oblivion - Edicion Juego del Ano (Spain) (Disc 2)": {
-		"languages": ["Es"]
-	},
-	"Elder Scrolls IV, The - Oblivion - Edition Jeu de L'Annee (France) (Disc 2)": {
+	"Elder Scrolls IV, The - Oblivion - Edition Jeu de L'Annee (France) (Disque 2)": {
 		"languages": ["Fr"]
+	},
+	"Elder Scrolls IV, The - Oblivion - Game of the Year Edition (Germany) (Disc 2)": {
+		"languages": ["De"]
+	},
+	"Elder Scrolls IV, The - Oblivion - Game of the Year Edition (Italy) (Disco 2)": {
+		"languages": ["It"]
 	},
 	"Elder Scrolls IV, The - Oblivion - Game of the Year Edition (Japan)": {
 		"languages": ["Ja"]
@@ -3360,12 +3383,6 @@
 	},
 	"Elder Scrolls IV, The - Oblivion - Jubilaeumsausgabe (Germany) (Disc 2)": {
 		"languages": ["De"]
-	},
-	"Elder Scrolls IV, The - Shivering Isles (Germany)": {
-		"languages": ["De"]
-	},
-	"Elder Scrolls IV, The - Shivering Isles (Italy)": {
-		"languages": ["It"]
 	},
 	"Elder Scrolls IV, The - Shivering Isles (USA)": {
 		"languages": ["En"]
@@ -4206,6 +4223,10 @@
 	"Fallout 3 - Extension de Jeu - The Pitt et Operation - Anchorage (France)": {
 		"languages": ["Fr"]
 	},
+	"Fallout 3 - Game Add-On Pack - Broken Steel and Point Lookout (Canada) (En,Fr)": {
+		"languages": ["En", "Fr"],
+		"localName": "Fallout 3 - Extension de Jeu - Broken Steel et Point Lookout"
+	},
 	"Fallout 3 - Game Add-On Pack - Broken Steel and Point Lookout (Germany)": {
 		"languages": ["De"]
 	},
@@ -4263,7 +4284,7 @@
 	"Family Games (USA) (Toys R Us)": {
 		"languages": ["En"]
 	},
-	"Family Guy - Back to the Multiverse (USA) (En,De,Es,It)": {
+	"Family Guy - Back to the Multiverse (USA, Europe) (En,De,Es,It)": {
 		"languages": ["De", "En", "Es", "It"]
 	},
 	"Fantastic Four - Rise of the Silver Surfer (Europe)": {
@@ -5245,7 +5266,7 @@
 	"Hitman - Absolution (Spain) (En,Es)": {
 		"languages": ["En", "Es"]
 	},
-	"Hitman - Absolution (USA) (Rev 1)": {
+	"Hitman - Absolution (USA, Europe) (Rev 1)": {
 		"languages": ["En"]
 	},
 	"Hitman - Absolution (World)": {
@@ -5644,6 +5665,9 @@
 	},
 	"Killer Is Dead (USA)": {
 		"languages": []
+	},
+	"Kinect Adventures (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru) (Rev 2)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Ko", "Nl", "Pl", "Pt", "Ru", "Zh"]
 	},
 	"Kinect Adventures! (Asia) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru) (Rev 2)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Ko", "Nl", "Pl", "Pt", "Ru", "Zh"],
@@ -6728,6 +6752,9 @@
 		"languages": ["En", "Ja"],
 		"localName": "マイケル・ジャクソン　ザ・エクスペリエンス"
 	},
+	"Michael Jackson - The Experience (Russia)": {
+		"languages": ["En"]
+	},
 	"Michael Jackson - The Experience (USA, Europe) (En,Fr,De,Es,It,Nl,Pl)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl", "Pl"]
 	},
@@ -7394,6 +7421,9 @@
 	"Need for Speed - Hot Pursuit (Europe) (En,Fr,De,Es,It,Nl)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
 	},
+	"Need for Speed - Hot Pursuit (Russia) (Pl,Ru)": {
+		"languages": ["Pl", "Ru"]
+	},
 	"Need for Speed - Hot Pursuit (USA) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
 	},
@@ -7943,6 +7973,10 @@
 	},
 	"Over G Fighters (USA, Europe) (En,Fr,De,Es)": {
 		"languages": ["De", "En", "Es", "Fr"]
+	},
+	"Overlord (Japan)": {
+		"languages": [],
+		"localName": "オーバーロード：魔王サマ復活の時"
 	},
 	"Overlord (USA, Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -9050,6 +9084,10 @@
 		"languages": ["It"],
 		"localName": "Scene It- Ciak! Si Gira! Nuovissime domande e curiosità sul mondo del cinema"
 	},
+	"Scene It Cinema en folie (France)": {
+		"languages": ["Fr"],
+		"localName": "Scene It- Cinéma en folie - Le jeu sur le cinéma"
+	},
 	"Scene It Estrellas en la Pantalla Gigante (Spain)": {
 		"languages": ["Es"]
 	},
@@ -9065,12 +9103,12 @@
 	"Scene It Lights, Camera, Action (USA)": {
 		"languages": ["En"]
 	},
-	"Scene It Lights, Camera, Action! (Italy)": {
-		"languages": ["It"],
-		"localName": "A Scene It- Luci, Camerazione! Il gioco a quiz sul cinema"
-	},
 	"Scene It Luces, Camara, Accion! (Spain)": {
 		"languages": ["Es"]
+	},
+	"Scene It Luci, Camera, Azione! (Italy)": {
+		"languages": ["It"],
+		"localName": "A Scene It- Luci, Camerazione! Il gioco a quiz sul cinema"
 	},
 	"Scene It Lumieres ! Action ! (France)": {
 		"languages": ["Fr"]
@@ -9408,11 +9446,11 @@
 	"Sleeping Dogs (Europe) (Es,It)": {
 		"languages": ["Es", "It"]
 	},
+	"Sleeping Dogs (Europe) (Pl,Ru)": {
+		"languages": ["Pl", "Ru"]
+	},
 	"Sleeping Dogs (Germany)": {
 		"languages": ["De"]
-	},
-	"Sleeping Dogs (Poland) (Pl,Ru)": {
-		"languages": ["Pl", "Ru"]
 	},
 	"Sleeping Dogs (USA) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
@@ -9743,6 +9781,9 @@
 	"Super Street Fighter IV - Arcade Edition (World)": {
 		"languages": []
 	},
+	"Superman Returns (Asia)": {
+		"languages": ["En"]
+	},
 	"Superman Returns (Europe)": {
 		"languages": ["En"]
 	},
@@ -10049,12 +10090,12 @@
 	"Tom Clancy's H.A.W.X (USA, Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
+	"Tom Clancy's H.A.W.X. 2 (Europe)": {
+		"languages": ["En"]
+	},
 	"Tom Clancy's H.A.W.X. 2 (Japan) (En,Ja)": {
 		"languages": ["En", "Ja"],
 		"localName": "ホークス２"
-	},
-	"Tom Clancy's H.A.W.X. 2 (UK)": {
-		"languages": ["En"]
 	},
 	"Tom Clancy's H.A.W.X. 2 (USA, Europe) (En,Fr,De,Es,It,Pl)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Pl"]
@@ -10155,6 +10196,9 @@
 	},
 	"Tomb Raider (USA, Europe) (En,Es,Nl,Pt)": {
 		"languages": ["En", "Es", "Nl", "Pt"]
+	},
+	"Tomb Raider (United Arab Emirates) (En,Ar)": {
+		"languages": ["Ar", "En"]
 	},
 	"Tomb Raider - Underworld (Japan) (En,Ja)": {
 		"languages": ["En", "Ja"],
@@ -10770,7 +10814,7 @@
 	"Where the Wild Things Are - The Videogame (USA, Europe)": {
 		"languages": []
 	},
-	"Who Wants to be a Millionaire - 2012 Edition (USA)": {
+	"Who Wants to Be a Millionaire - 2012 Edition (USA)": {
 		"languages": []
 	},
 	"Williams Pinball Classics (Europe)": {
@@ -10802,6 +10846,9 @@
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja", "Ko", "Zh"],
 		"localName": "ワイヤレス　コントローラー　ゲーム　パック"
 	},
+	"Wireless N Networking Adapter Installer Disc (USA)": {
+		"languages": []
+	},
 	"Wireless N Networking Adaptor Installer Disc (USA)": {
 		"languages": []
 	},
@@ -10830,6 +10877,9 @@
 	},
 	"Wolf Among Us, The - A Telltale Games Series (USA, Europe)": {
 		"languages": []
+	},
+	"Wolfenstein (France) (En,Fr,De,Es,It,Ru)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Ru"]
 	},
 	"Wolfenstein (Italy) (En,Fr,De,Es,It,Ru)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ru"]
@@ -10960,8 +11010,8 @@
 		"languages": ["Ja"],
 		"localName": "Ｘブレード"
 	},
-	"X-Blades (USA)": {
-		"languages": []
+	"X-Blades (USA, Europe) (En,Fr,Es)": {
+		"languages": ["En", "Es", "Fr"]
 	},
 	"X-Men - Destiny (USA, Europe) (En,De)": {
 		"languages": ["De", "En"]
@@ -10975,7 +11025,7 @@
 	"X-Men Origins - Wolverine - Uncaged Edition (USA, Europe) (En,Fr,Es,It)": {
 		"languages": ["En", "Es", "Fr", "It"]
 	},
-	"XCOM - Enemy Unknown (Poland) (Pl,Ru)": {
+	"XCOM - Enemy Unknown (Europe) (Pl,Ru)": {
 		"languages": ["Pl", "Ru"]
 	},
 	"XCOM - Enemy Unknown (USA, Europe) (En,Fr,De,Es,It,Ko)": {
@@ -11407,7 +11457,7 @@
 	"Xbox 360 Trial Disk (USA) (En,Es)": {
 		"languages": ["En", "Es"]
 	},
-	"Xbox 360 Wireless Racing Wheel Demo Disc (USA, Asia)": {
+	"Xbox 360 Wireless Racing Wheel Demo Disc (World)": {
 		"languages": []
 	},
 	"Xbox 360 Wireless Speed Wheel Software Disc (USA)": {

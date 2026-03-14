@@ -520,6 +520,10 @@
 	"Armored Core 4 (Europe) (En,Fr,It)": {
 		"languages": ["En", "Fr", "It"]
 	},
+	"Armored Core 4 (Japan) (The Best Collection)": {
+		"languages": [],
+		"localName": "アーマード・コア４"
+	},
 	"Armored Core 4 (Japan, Asia)": {
 		"languages": ["Ja"],
 		"localName": "アーマード・コア４"
@@ -1469,7 +1473,11 @@
 	"Bodycount (USA) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
 	},
-	"Boku no Natsuyasumi 3 - Kitaguni-hen - Chiisana Boku no Daisougen (Japan)": {
+	"Boku no Natsuyasumi 3 - Kitaguni-hen - Chiisana Boku no Daisougen (Japan) (v01.03)": {
+		"languages": ["Ja"],
+		"localName": "ぼくのなつやすみ３　北国篇　小さなボクの大草原"
+	},
+	"Boku no Natsuyasumi 3 - Kitaguni-hen - Chiisana Boku no Daisougen (Japan) (v02.00)": {
 		"languages": ["Ja"],
 		"localName": "ぼくのなつやすみ３　北国篇　小さなボクの大草原"
 	},
@@ -2848,6 +2856,10 @@
 		"languages": ["En", "Fr"],
 		"localName": "デフジャム・アイコン"
 	},
+	"Def Jam - Icon (Korea)": {
+		"languages": [],
+		"localName": "데프잼 아이콘"
+	},
 	"Def Jam - Icon (USA)": {
 		"languages": ["En"]
 	},
@@ -3487,10 +3499,6 @@
 		"languages": ["Ja"],
 		"localName": "ドラゴンエイジ：オリジンズ"
 	},
-	"Dragon Age - Origins (Poland)": {
-		"languages": ["Pl"],
-		"localName": "Dragon Age - Początek"
-	},
 	"Dragon Age - Origins (UK)": {
 		"languages": ["En"]
 	},
@@ -3509,6 +3517,9 @@
 	},
 	"Dragon Age - Origins - Ultimate Edition (USA) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Dragon Age - Poczatek (Poland)": {
+		"languages": ["Pl"]
 	},
 	"Dragon Age II (Europe) (En,Fr,De,Es,It,Pl,Ru)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Pl", "Ru"]
@@ -4145,7 +4156,7 @@
 		"languages": [],
 		"localName": "エウレカセブンＡＯ　－ユングフラウの花々たち－　ＧＡＭＥ＆ＯＶＡ　Ｈｙｂｒｉｄ　Ｄｉｓｃ"
 	},
-	"Everybody Dance (USA) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru)": {
+	"Everybody Dance (USA, Canada) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru)": {
 		"languages": ["Da", "De", "En", "Es", "Fi", "Fr", "It", "Nl", "No", "Pl", "Pt", "Ru", "Sv"]
 	},
 	"Everybody Dance 2 (Latin America) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru)": {
@@ -4431,6 +4442,9 @@
 	},
 	"FIFA 14 (Europe, Asia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Pl,Ru,Cs,Hu)": {
 		"languages": ["Cs", "Da", "De", "En", "Es", "Fr", "Hu", "It", "Nl", "No", "Pl", "Pt", "Ru", "Sv"]
+	},
+	"FIFA 14 (Latin America)": {
+		"languages": []
 	},
 	"FIFA 14 (USA) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
@@ -7239,6 +7253,10 @@
 	"Lord of the Rings, The - War in the North (Japan)": {
 		"languages": [],
 		"localName": "ウォー・イン・ザ・ノース：ロード・オブ・ザ・リング"
+	},
+	"Lord of the Rings, The - War in the North (Korea)": {
+		"languages": [],
+		"localName": "반지의 제왕 - 북부 전쟁"
 	},
 	"Lord of the Rings, The - War in the North (USA) (En,Fr,Pt)": {
 		"languages": ["En", "Fr", "Pt"]
@@ -13041,6 +13059,9 @@
 	"Tom Clancy's Ghost Recon Double Pack (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da)": {
 		"languages": ["Da", "De", "En", "Es", "Fr", "It", "Nl", "No", "Pt", "Sv"]
 	},
+	"Tom Clancy's H.A.W.X (Europe) (Demo)": {
+		"languages": []
+	},
 	"Tom Clancy's H.A.W.X (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
@@ -13686,6 +13707,10 @@
 	"Untold Legends - Dark Kingdom (Japan) (En,Ja)": {
 		"languages": ["En", "Ja"],
 		"localName": "アントールド・レジェンド　～ダーク・キングダム～"
+	},
+	"Untold Legends - Dark Kingdom (Korea)": {
+		"languages": [],
+		"localName": "언톨드 레전드 - 다크 킹덤"
 	},
 	"Untold Legends - Dark Kingdom (USA)": {
 		"languages": ["En"]

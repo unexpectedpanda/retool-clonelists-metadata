@@ -7,7 +7,7 @@
 			"These are defaults that Retool requires, don't modify this file.",
 			"Check user-config.yaml for user-editable settings."
 		],
-		"lastUpdated": "1 February 2026",
+		"lastUpdated": "14 March 2026",
 		"minimumVersion": "2.4.0"
 	},
 
@@ -374,6 +374,7 @@
 		["(Mega Man Legacy Collection)", "string"],
 		["(Mega Man X Legacy Collection)", "string"],
 		["(Mega Man iam8bit 30th Anniversary)", "string"],
+		["(Metal Gear Solid Collection)", "string"],
 		["(ModRetro Chromatic)", "string"],
 		["\\s?\\(Namco Anthology 1.*?\\)", "regex"],
 		["\\s?\\(Namco Anthology 2.*?\\)", "regex"],
@@ -413,6 +414,7 @@
 		["(The Cowabunga Collection)", "string"],
 		["(The Disney Afternoon Collection)", "string"],
 		["(The Retro Room)", "string"],
+		["(Zelda Collection)", "string"],
 		["\\s?\\(e-Reader(?: Edition)?\\)", "regex"]
 	],
 

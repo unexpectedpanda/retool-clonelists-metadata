@@ -9652,7 +9652,7 @@
 	"Euro Demo 22 (France)": {
 		"languages": ["Fr"]
 	},
-	"Euro Demo 23 (Europe)": {
+	"Euro Demo 23 (Europe, Australia)": {
 		"languages": ["En"]
 	},
 	"Euro Demo 23 (France)": {
@@ -9694,19 +9694,19 @@
 	"Euro Demo 29 (France)": {
 		"languages": ["Fr"]
 	},
-	"Euro Demo 30 (Europe)": {
+	"Euro Demo 30 (Europe, Australia)": {
 		"languages": ["En"]
 	},
 	"Euro Demo 30 (France)": {
 		"languages": ["Fr"]
 	},
-	"Euro Demo 31 (Europe)": {
+	"Euro Demo 31 (Europe, Australia)": {
 		"languages": ["En"]
 	},
 	"Euro Demo 31 (France)": {
 		"languages": ["Fr"]
 	},
-	"Euro Demo 32 (Europe)": {
+	"Euro Demo 32 (Europe, Australia)": {
 		"languages": ["En"]
 	},
 	"Euro Demo 32 (France)": {
@@ -9718,7 +9718,7 @@
 	"Euro Demo 33 (France)": {
 		"languages": ["Fr"]
 	},
-	"Euro Demo 34 (Europe)": {
+	"Euro Demo 34 (Europe, Australia)": {
 		"languages": ["En"]
 	},
 	"Euro Demo 34 (France)": {
@@ -9760,13 +9760,13 @@
 	"Euro Demo 40 (France)": {
 		"languages": ["Fr"]
 	},
-	"Euro Demo 41 (Europe)": {
+	"Euro Demo 41 (Europe, Australia)": {
 		"languages": ["En"]
 	},
 	"Euro Demo 41 (France)": {
 		"languages": ["Fr"]
 	},
-	"Euro Demo 42 (Europe)": {
+	"Euro Demo 42 (Europe, Australia)": {
 		"languages": ["En"]
 	},
 	"Euro Demo 42 (France)": {
@@ -9778,7 +9778,7 @@
 	"Euro Demo 43 (France)": {
 		"languages": ["Fr"]
 	},
-	"Euro Demo 44 (Europe)": {
+	"Euro Demo 44 (Europe, Australia)": {
 		"languages": ["En"]
 	},
 	"Euro Demo 44 (France)": {
@@ -9808,7 +9808,7 @@
 	"Euro Demo 48 (France)": {
 		"languages": ["Fr"]
 	},
-	"Euro Demo 49 (Europe)": {
+	"Euro Demo 49 (Europe, Australia)": {
 		"languages": ["En"]
 	},
 	"Euro Demo 49 (France)": {
@@ -9865,7 +9865,7 @@
 	"Euro Demo 59 (Europe)": {
 		"languages": ["En"]
 	},
-	"Euro Demo 60 (Europe)": {
+	"Euro Demo 60 (Europe, Australia)": {
 		"languages": ["En"]
 	},
 	"Euro Demo 61 (Europe)": {
@@ -9874,16 +9874,16 @@
 	"Euro Demo 61 (Europe) (EDC)": {
 		"languages": ["En"]
 	},
-	"Euro Demo 62 (Europe)": {
-		"languages": ["En"]
-	},
 	"Euro Demo 62 (Europe) (EDC)": {
 		"languages": ["En"]
 	},
-	"Euro Demo 63 (Europe)": {
+	"Euro Demo 62 (Europe, Australia)": {
 		"languages": ["En"]
 	},
-	"Euro Demo 64 (Europe)": {
+	"Euro Demo 63 (Europe, Australia)": {
+		"languages": ["En"]
+	},
+	"Euro Demo 64 (Europe, Australia)": {
 		"languages": ["En"]
 	},
 	"Euro Demo 65 (Europe)": {
@@ -9895,7 +9895,7 @@
 	"Euro Demo 67 (Europe)": {
 		"languages": ["En"]
 	},
-	"Euro Demo 68 (Europe)": {
+	"Euro Demo 68 (Europe, Australia)": {
 		"languages": ["En"]
 	},
 	"Euro Demo 69 (Europe)": {
@@ -9910,7 +9910,7 @@
 	"Euro Demo 72 (Europe)": {
 		"languages": ["En"]
 	},
-	"Euro Demo 73 (Europe)": {
+	"Euro Demo 73 (Europe, Australia)": {
 		"languages": ["En"]
 	},
 	"Euro Demo 74 (Europe)": {
@@ -20904,6 +20904,10 @@
 		"languages": ["Ja"],
 		"localName": "マイ・ホーム・ドリーム２　～庭つき一戸建てで、いこう！～"
 	},
+	"My Home Dream 2 - Niwatsuki Ikkodate de, Ikou! (Japan) (Taikenban)": {
+		"languages": ["Ja"],
+		"localName": "マイホームドリーム２　庭つき一戸建てで、いこう！"
+	},
 	"Myaon o Sagase (Japan)": {
 		"languages": ["Ja"],
 		"localName": "ミャオンをさがせ"
@@ -30825,7 +30829,7 @@
 	"Station 4 (Europe)": {
 		"languages": ["En"]
 	},
-	"Station 5 (Europe)": {
+	"Station 5 (Europe, Australia)": {
 		"languages": ["En"]
 	},
 	"Station 6 (Europe)": {
@@ -32756,6 +32760,9 @@
 	"Tekken (USA)": {
 		"languages": ["En"]
 	},
+	"Tekken 2 & Fade to Black & F1 & V-CD (Europe, Australia)": {
+		"languages": ["En"]
+	},
 	"Tekken 2 (Europe)": {
 		"languages": ["En"]
 	},
@@ -32774,9 +32781,6 @@
 		"languages": ["En"]
 	},
 	"Tekken 2 (USA) (Rev 1)": {
-		"languages": ["En"]
-	},
-	"Tekken 2 + Fade to Black + F1 + V-CD (Europe, Australia)": {
 		"languages": ["En"]
 	},
 	"Tekken 2 + Fade to Black + V-CD (France)": {

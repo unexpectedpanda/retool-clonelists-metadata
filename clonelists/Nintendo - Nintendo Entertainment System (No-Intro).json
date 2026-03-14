@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Nintendo - Nintendo Entertainment System (No-Intro)",
-		"lastUpdated": "2026-01-02 11:07:19",
+		"lastUpdated": "2026-03-14 17:49:19",
 		"minimumVersion": "2.4.8"
 	},
 	"variants": [
@@ -1476,6 +1476,13 @@
 			"titles": [
 				{"searchTerm": "Double Dragon II - The Revenge"},
 				{"searchTerm": "Sou Setsu Ryuu II - The Revenge"}
+			]
+		},
+		{
+			"group": "Double Dragon III - The Sacred Stones",
+			"titles": [
+				{"searchTerm": "Double Dragon III - The Rosetta Stone"},
+				{"searchTerm": "Double Dragon III - The Sacred Stones"}
 			]
 		},
 		{

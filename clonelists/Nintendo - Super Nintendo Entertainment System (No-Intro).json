@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Nintendo - Super Nintendo Entertainment System (No-Intro)",
-		"lastUpdated": "2026-01-10 14:23:34",
+		"lastUpdated": "2026-03-14 17:49:19",
 		"minimumVersion": "2.4.8"
 	},
 	"variants": [
@@ -2900,8 +2900,11 @@
 		{
 			"group": "Ultimate Fighter",
 			"titles": [
-				{"searchTerm": "Hiryuu no Ken S - Hyper Version"},
+				{"searchTerm": "Hiryuu no Ken S - Golden Fighter"},
 				{"searchTerm": "Ultimate Fighter"}
+			],
+			"supersets": [
+				{"searchTerm": "Hiryuu no Ken S - Hyper Version"}
 			]
 		},
 		{

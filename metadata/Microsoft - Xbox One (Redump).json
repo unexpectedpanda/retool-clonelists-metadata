@@ -147,6 +147,9 @@
 	"Assassin's Creed Origins (USA, Europe) (En,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Cs)": {
 		"languages": ["Cs", "De", "En", "Es", "Fr", "It", "Ko", "Nl", "Pl", "Pt", "Zh"]
 	},
+	"Assassin's Creed Syndicate (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Cs,Hu)": {
+		"languages": ["Cs", "Da", "De", "En", "Es", "Fi", "Fr", "Hu", "It", "Ko", "Nl", "No", "Pl", "Pt", "Sv", "Zh"]
+	},
 	"Assassin's Creed Syndicate (Japan, Europe) (En,Ja,Ru)": {
 		"languages": ["En", "Ja", "Ru"],
 		"localName": "アサシン　クリード　シンジケート"
@@ -1657,6 +1660,9 @@
 	"Lichdom - Battlemage (USA)": {
 		"languages": []
 	},
+	"Lies of P (USA)": {
+		"languages": []
+	},
 	"Life Is Strange (USA)": {
 		"languages": []
 	},
@@ -1999,6 +2005,10 @@
 	"Musou Orochi 2 Ultimate (Asia)": {
 		"languages": ["Zh"],
 		"localName": "無雙 Orochi 蛇魔 2 Ultimate"
+	},
+	"Musou Orochi 2 Ultimate (Japan)": {
+		"languages": [],
+		"localName": "無双ＯＲＯＣＨＩ　２　Ｕｌｔｉｍａｔｅ"
 	},
 	"Mutant Football League - Dynasty Edition (USA)": {
 		"languages": []
@@ -2928,6 +2938,9 @@
 	"Subnautica (USA)": {
 		"languages": []
 	},
+	"Subnautica - Below Zero (USA)": {
+		"languages": []
+	},
 	"Sudden Strike 4 - Complete Collection (USA)": {
 		"languages": []
 	},
@@ -3344,6 +3357,9 @@
 	"Witcher 3, The - Wild Hunt - Game of the Year Edition (Europe)": {
 		"languages": []
 	},
+	"Witcher 3, The - Wild Hunt - Game of the Year Edition (Europe) (En,Zh,Ko,Pl,Ru,Cs,Hu,Tr)": {
+		"languages": ["Cs", "En", "Hu", "Ko", "Pl", "Ru", "Tr", "Zh"]
+	},
 	"Witcher 3, The - Wild Hunt - Game of the Year Edition (Japan)": {
 		"languages": [],
 		"localName": "ウィッチャー３ ワイルドハント ゲームオブザイヤーエディション"
@@ -3402,6 +3418,9 @@
 	},
 	"World War Z - Aftermath (USA) (En,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ko", "Pl", "Pt", "Ru", "Zh"]
+	},
+	"World of Warships - Legends (USA)": {
+		"languages": []
 	},
 	"World to the West (USA)": {
 		"languages": []
@@ -3484,6 +3503,9 @@
 		"languages": []
 	},
 	"eFootball PES 2020 (Latin America)": {
+		"languages": []
+	},
+	"eFootball PES 2021 - Season Update (USA)": {
 		"languages": []
 	}
 }
