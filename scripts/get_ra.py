@@ -56,6 +56,8 @@ def update_ra(download_location: str) -> None:
                 if member.is_dir():
                     continue
 
+                print(f'Found file: {member.filename}')
+
                 if (
                     'Unofficial-RA-DATs-main/DATs/RetroAchievements (No Subfolders)/'
                     in member.filename
