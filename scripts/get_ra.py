@@ -59,7 +59,7 @@ def update_ra(download_location: str) -> None:
                 print(f'Found file: {member.filename}')
 
                 if (
-                    'Unofficial-RA-DATs-main/DATs/RetroAchievements (No Subfolders)/'
+                    'UGA_RA_DATs-main/DATs/RetroAchievements (No Subfolders)/'
                     in member.filename
                 ):
                     member.filename = re.sub('^RA - ', '', pathlib.Path(member.filename).name)
