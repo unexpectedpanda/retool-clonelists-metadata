@@ -11,14 +11,14 @@ jobs:
       # Give the default GITHUB_TOKEN write permission to commit and push the
       # added or changed files to the repository.
       contents: write
-    if: ${{ github.event.workflow_run.conclusion == 'success' }} || github.event_name == 'workflow_dispatch'
+    if: github.event.workflow_run.conclusion == 'success' || github.event_name == 'workflow_dispatch'
     steps:
       - name: Checkout current repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           path: retool-clonelists-metadata
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           # Semantic version range syntax or exact version of a Python version
           python-version: '3.12.3'
@@ -30,7 +30,7 @@ jobs:
           cd retool-clonelists-metadata
           python3 scripts/get_mia.py ${{secrets.MIA_URL}}
       - name: Push commit
-        uses: stefanzweifel/git-auto-commit-action@v5
+        uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: Updated MIA files
           repository: retool-clonelists-metadata

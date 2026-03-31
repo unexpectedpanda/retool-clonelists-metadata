@@ -306,7 +306,7 @@ def update_hash(file_list: list[str], relative_filepath: str) -> None:
 
     hash_file_contents.append('}\n')
 
-    validate_json(''.join(hash_file_contents), file)
+    validate_json(''.join(hash_file_contents), relative_filepath)
 
     with open(pathlib.Path(relative_filepath), 'w', newline='\n') as hash_file:
         hash_file.writelines(''.join(hash_file_contents))

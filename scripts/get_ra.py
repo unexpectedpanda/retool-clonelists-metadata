@@ -5,8 +5,7 @@ import re
 import sys
 import zipfile
 
-from lxml import etree  # type: ignore
-from lxml import html as html_
+from lxml import etree, html as html_ # type: ignore
 from modules.parse_dat import TitleData, define_lxml_parser, get_logiqx_header, get_logiqx_titles
 from modules.utils import Font, download, eprint, update_hash, validate_json
 
