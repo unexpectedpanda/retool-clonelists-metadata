@@ -1,8 +1,8 @@
 {
 	"description": {
 		"name": "Nintendo - GameCube (Redump)",
-		"lastUpdated": "2026-01-18 16:35:07",
-		"minimumVersion": "2.4.8"
+		"lastUpdated": "2026-07-25 11:59:07",
+		"minimumVersion": "2.4.9"
 	},
 	"variants": [
 		{
@@ -537,6 +537,13 @@
 			"titles": [
 				{"searchTerm": "FIFA 2002 - Road to FIFA World Cup"},
 				{"searchTerm": "FIFA Soccer 2002"}
+			]
+		},
+		{
+			"group": "FIFA 2002 - Road to FIFA World Cup Jitsuen-you Sample",
+			"categories": ["Promotional"],
+			"titles": [
+				{"searchTerm": "FIFA 2002 - Road to FIFA World Cup (Jitsuen-you Sample)"}
 			]
 		},
 		{
@@ -1080,7 +1087,7 @@
 		{
 			"group": "Nickelodeon The SpongeBob SquarePants Movie",
 			"titles": [
-				{"searchTerm": "2 Games in 1 - Bob L'eponge - Le Film + Tak 2 - Le Sceptre des Reves (Disc 1) (Bob L'eponge - Le Film)"},
+				{"searchTerm": "2 Games in 1 - Bob L'eponge - Le Film + Tak 2 - Le Sceptre des Reves (France) (Fr,Nl) (Disc 1) (Bob L'eponge - Le Film)"},
 				{"searchTerm": "2 Games in 1 - Nickelodeon SpongeBob Schwammkopf - Der Film + Nickelodeon SpongeBob Schwammkopf - Schlacht um Bikini Bottom (Disc 1)"},
 				{"searchTerm": "Nickelodeon The SpongeBob SquarePants Movie"},
 				{"searchTerm": "Nickelodeon SpongeBob Schwammkopf - Der Film", "priority": 2},
