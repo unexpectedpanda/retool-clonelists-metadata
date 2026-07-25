@@ -36,7 +36,6 @@ def update_mia(download_location: str) -> None:
 
         with zipfile.ZipFile(local_file) as zip_file:
             for member in zip_file.infolist():
-
                 if member.is_dir():
                     continue
 
@@ -140,7 +139,9 @@ def update_mia(download_location: str) -> None:
         # Remove unneeded MIA files
         all_mias = glob.glob(f'{local_path}/*.json')
         all_mias_paths = [pathlib.Path(x) for x in all_mias]
-        new_mias_paths = [pathlib.Path('mias').joinpath(f'{x}.json') for x in system_mias.keys()]
+        new_mias_paths = [
+            pathlib.Path('mias').joinpath(f'{x}.json') for x in system_mias.keys()
+        ]
 
         old_files = [x for x in all_mias_paths if x not in new_mias_paths]
 

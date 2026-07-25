@@ -7,13 +7,14 @@ import re
 import subprocess
 import sys
 import traceback
+from collections import defaultdict
 from time import gmtime, sleep, strftime
 from typing import Any
 
 import json_source_map  # type: ignore
 import jsonpath_ng  # type: ignore
-import jsonschema  # type: ignore
-import requests  # type: ignore
+import jsonschema
+import requests
 
 
 def add_comment(
@@ -79,13 +80,12 @@ def add_comment(
         if filepath in refined_comments:
             print('filepath is in refined_comments')
             for line in refined_comments[filepath]:
-                if (
-                    line == line_number
-                    or (line_number == 0 and line == 1)
-                ):
+                if line == line_number or (line_number == 0 and line == 1):
                     for body in refined_comments[filepath][line]:
                         if pr_comment == body:
-                            print('Looks like the body matches an existing comment on this line, not printing a new comment.')
+                            print(
+                                'Looks like the body matches an existing comment on this line, not printing a new comment.'
+                            )
                             return 201
 
     try:
@@ -103,7 +103,7 @@ def add_comment(
         # Catch checks for duplicate searchTerms or groups, which have to iterate through
         # multiple lines
         if dupe_check:
-            return comment_post.status_code  # type: ignore
+            return comment_post.status_code
 
         comment_post.raise_for_status()
     except requests.exceptions.Timeout:
@@ -189,18 +189,18 @@ def add_comment(
         print(e)
         sys.exit(1)
 
-    return comment_post.status_code  # type: ignore
+    return comment_post.status_code
 
 
 def get_comments(
-    personal_access_token: str | None, pr_number: int | None, timeout: int = 0
+    personal_access_token: str | None, pr_number: str | None, timeout: int = 0
 ) -> requests.models.Response:
     """
     Gets the comments from a GitHub PR.
 
     Args:
         personal_access_token (str | None): A GitHub personal access token.
-        pr_number (int | None): A PR number to operate on.
+        pr_number (str | None): A PR number to operate on.
         timeout (int): The position in `request_retry` in the `progressive_timeout` list
             to pull the timeout value from. Defaults to `0`.
 
@@ -320,17 +320,18 @@ def main() -> None:
     comments = get_comments(personal_access_token, pr_number)
 
     # Get the comments response down to something more manageable
-    existing_comments: list[str, Any] = json.loads(comments.content)
-    refined_comments: dict[str, str] = {}
+    existing_comments: list[Any] = json.loads(comments.content)
+    refined_comments: defaultdict[str, dict[int, list[str]]] = defaultdict(
+        lambda: defaultdict(list)
+    )
 
-    for comment in existing_comments:
-        if comment['path'] not in refined_comments:
-            refined_comments[comment['path']] = {}
+    if existing_comments:
+        for existing_comment in existing_comments:
+            path = existing_comment['path']
+            line = existing_comment['original_line']
+            body = existing_comment['body']
 
-        if comment['original_line'] not in refined_comments[comment['path']]:
-            refined_comments[comment['path']][comment['original_line']] = []
-
-        refined_comments[comment['path']][comment['original_line']].append(comment['body'])
+            refined_comments[path][line].append(body)
 
     print(json.dumps(refined_comments, indent=2))
     print('=========== END EXISTING COMMENTS ===========')
@@ -348,7 +349,8 @@ def main() -> None:
         if sys.platform.startswith('win'):
             files = (
                 subprocess.run(
-                    ['git', 'diff', 'HEAD~', 'HEAD', '--name-only'], stdout=subprocess.PIPE
+                    ['git', 'diff', 'HEAD~', 'HEAD', '--name-only'],
+                    stdout=subprocess.PIPE,
                 )
                 .stdout.decode('utf-8')
                 .split('\n')
@@ -356,7 +358,8 @@ def main() -> None:
         else:
             files = (
                 subprocess.run(
-                    ['git', 'diff', 'HEAD^', 'HEAD', '--name-only'], stdout=subprocess.PIPE
+                    ['git', 'diff', 'HEAD^', 'HEAD', '--name-only'],
+                    stdout=subprocess.PIPE,
                 )
                 .stdout.decode('utf-8')
                 .split('\n')
@@ -368,10 +371,10 @@ def main() -> None:
 
     for file in files:
         if 'hash.json' not in file:
-            print(f'\n\nValidating {file}\n{'-----------'}{'-'*len(file)}\n')
+            print(f'\n\nValidating {file}\n{'-----------'}{'-' * len(file)}\n')
 
             # Check for valid JSON
-            error_messages: dict[int, dict[str, Any]] = {}
+            error_messages: defaultdict[int, dict[str, Any]] = defaultdict(dict)
             clonelist: Any
             cloneliststr: str = ''
 
@@ -383,12 +386,6 @@ def main() -> None:
                     clone_list_file.seek(0)
                     cloneliststr = clone_list_file.read()
             except json.decoder.JSONDecodeError as e:
-                if e.lineno not in error_messages:
-                    error_messages[e.lineno] = {}
-
-                if 'comment' not in error_messages[e.lineno]:
-                    error_messages[e.lineno]['comment'] = ''
-
                 error_messages[e.lineno]['comment'] = (
                     '### :gear: Automated review comment\n\n'
                     f'Invalid JSON found on or before line ({e.lineno}). Fix the error to '
@@ -441,9 +438,7 @@ def main() -> None:
 
                 # If $ref is used in a schema, then we have to pull the appropriate parent
                 # $comment instead of the $comment in the $ref.
-                parent_comment_json_path = (
-                    f'{re.sub("\\[[0-9]+\\]", "", error.json_path).replace('.', "..")}["$comment"]'
-                )
+                parent_comment_json_path = f'{re.sub("\\[[0-9]+\\]", "", error.json_path).replace('.', "..")}["$comment"]'
 
                 if '$..variants..titles..filters..' in parent_comment_json_path:
                     parent_comment_json_path = parent_comment_json_path.replace(
@@ -466,18 +461,13 @@ def main() -> None:
                 source_map = json_source_map.calculate(cloneliststr)
                 error_line = source_map[error_path].value_start.line + 1
 
-                # Populate the error_messages dict
-                if error_line not in error_messages:
-                    error_messages[error_line] = {}
-
                 # Add comments for GitHub
-                if 'comment' not in error_messages[error_line]:
-                    error_messages[error_line]['comment'] = comment
-                else:
-                    if error_messages[error_line]['comment'] != comment:
-                        error_messages[error_line][
-                            'comment'
-                        ] = f'{error_messages[error_line]["comment"]}\n\n{comment}'
+                error_messages[error_line].setdefault('comment', comment)
+
+                if error_messages[error_line]['comment'] != comment:
+                    error_messages[error_line]['comment'] = (
+                        f'{error_messages[error_line]["comment"]}\n\n{comment}'
+                    )
 
                 # Pull languages out of the appropriate $ref if localNames is being
                 # queried
@@ -487,13 +477,17 @@ def main() -> None:
 
                     if local_names:
                         local_names_str = '`, `'.join(
-                            list([match.value for match in local_names_expr.find(schema)][0].keys())
+                            list(
+                                [match.value for match in local_names_expr.find(schema)][
+                                    0
+                                ].keys()
+                            )
                         )
 
                 if local_names_str:
-                    error_messages[error_line][
-                        'comment'
-                    ] = f'{error_messages[error_line]["comment"]}\n\nThe valid languages are as follows:\n\n`{local_names_str}`'
+                    error_messages[error_line]['comment'] = (
+                        f'{error_messages[error_line]["comment"]}\n\nThe valid languages are as follows:\n\n`{local_names_str}`'
+                    )
 
                 # Pull regions out of the appropriate $ref if matchRegions is being
                 # queried
@@ -509,15 +503,12 @@ def main() -> None:
                         region_names_str = '`, `'.join(regions[0])
 
                 if region_names_str:
-                    error_messages[error_line][
-                        'comment'
-                    ] = f'{error_messages[error_line]["comment"]}\n\nThe valid regions are as follows:\n\n`{region_names_str}`'
+                    error_messages[error_line]['comment'] = (
+                        f'{error_messages[error_line]["comment"]}\n\nThe valid regions are as follows:\n\n`{region_names_str}`'
+                    )
 
                 # Add the JSON schema error messages
-                if 'errors' not in error_messages[error_line]:
-                    error_messages[error_line]['errors'] = []
-
-                error_messages[error_line]['errors'].append(error.message)
+                error_messages[error_line].setdefault('errors', []).append(error.message)
 
             if error_messages:
                 print(error_messages)
