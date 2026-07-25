@@ -1,8 +1,8 @@
 {
 	"description": {
 		"name": "Sega - Saturn (Redump)",
-		"lastUpdated": "2026-01-18 17:34:33",
-		"minimumVersion": "2.4.8"
+		"lastUpdated": "2026-07-25 16:13:33",
+		"minimumVersion": "2.4.9"
 	},
 	"variants": [
 		{
@@ -39,6 +39,13 @@
 			"titles": [
 				{"searchTerm": "Baku Baku Animal - Sekai Shiiku Gakari Senshuken"},
 				{"searchTerm": "Baku Baku Animal - World Zookeeper Contest"}
+			]
+		},
+		{
+			"group": "Bakuretsu Hunter (Omake CD)",
+			"categories": ["Bonus Discs"],
+			"titles": [
+				{"searchTerm": "Bakuretsu Hunter (Omake CD)"}
 			]
 		},
 		{
@@ -316,6 +323,19 @@
 			]
 		},
 		{
+			"group": "Game-Ware",
+			"categories": ["Coverdiscs"],
+			"titles": [
+				{"searchTerm": "Game-Ware"},
+				{"searchTerm": "Game-Ware Vol. 2"},
+				{"searchTerm": "Game-Ware Vol. 3"},
+				{"searchTerm": "Game-Ware Vol. 4 (Disc A)"},
+				{"searchTerm": "Game-Ware Vol. 4 (Disc B)"},
+				{"searchTerm": "Game-Ware Vol. 5 (Disc A)"},
+				{"searchTerm": "Game-Ware Vol. 5 (Disc B)"}
+			]
+		},
+		{
 			"group": "Ginga Eiyuu Densetsu",
 			"titles": [
 				{"searchTerm": "Ginga Eiyuu Densetsu"}
@@ -514,6 +534,20 @@
 			"titles": [
 				{"searchTerm": "Blam! Machinehead"},
 				{"searchTerm": "Machine Head"}
+			]
+		},
+		{
+			"group": "Mahjong Doukyuusei Special",
+			"titles": [
+				{"searchTerm": "Mahjong Doukyuusei Special", "priority": 2},
+				{"searchTerm": "Mahjong Doukyuusei Special (Shokai Genteiban)"}
+			]
+		},
+		{
+			"group": "Mahjong Gakuensai",
+			"titles": [
+				{"searchTerm": "Mahjong Gakuensai", "priority": 2},
+				{"searchTerm": "Mahjong Gakuensai (Shokai Genteiban)"}
 			]
 		},
 		{
@@ -811,6 +845,13 @@
 			]
 		},
 		{
+			"group": "Saturn FMV Video Vault",
+			"categories": ["Multimedia", "Unlicensed"],
+			"titles": [
+				{"searchTerm": "Saturn FMV Video Vault"}
+			]
+		},
+		{
 			"group": "Sega Rally Championship",
 			"titles": [
 				{"searchTerm": "Sega Rally Championship"}
@@ -943,6 +984,13 @@
 			"titles": [
 				{"searchTerm": "Shin Theme Park"},
 				{"searchTerm": "Theme Park"}
+			]
+		},
+		{
+			"group": "Three Dirty Dwarves",
+			"titles": [
+				{"searchTerm": "Three Dirty Dwarves"},
+				{"searchTerm": "Three Dirty Dwarves (Lost & Found Volume 2)", "priority": 2}
 			]
 		},
 		{
