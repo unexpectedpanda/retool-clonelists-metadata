@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Sony - PlayStation 2 (Redump)",
-		"lastUpdated": "2026-01-18 17:34:33",
+		"lastUpdated": "2026-05-10 17:34:33",
 		"minimumVersion": "2.4.8"
 	},
 	"variants": [
@@ -391,7 +391,7 @@
 			"group": "Ar tonelico II - Melody of Metafalica",
 			"titles": [
 				{"searchTerm": "Ar tonelico II - Melody of Metafalica"},
-				{"searchTerm": "Ar tonelico II - Sekai ni Hibiku Shoujo-tachi no Metafalica"}
+				{"searchTerm": "Ar tonelico II - Sekai ni Hibiku Shoujotachi no Metafalica"}
 			]
 		},
 		{
@@ -586,6 +586,7 @@
 		{
 			"group": "Berserk - Millennium Falcon-hen - Seima Senki no Shou",
 			"titles": [
+				{"searchTerm": "Berserk - Cheonnyeonjegug-ui Mae Pyeon - Seongmajeongi-ui Jang"},
 				{"searchTerm": "Berserk - Millennium Falcon-hen - Seima Senki no Shou"},
 				{"searchTerm": "Berserk - Millennium Falcon-hen - Seima Senki no Shou (Branded Box - Rakuin no Hako)", "priority": 2}
 			]
@@ -1188,7 +1189,7 @@
 			"group": "Covert Command",
 			"titles": [
 				{"searchTerm": "Covert Command"},
-				{"searchTerm": "Simple 2000 Series Vol. 102 - The Hohei - Senjou no Inu-tachi"}
+				{"searchTerm": "Simple 2000 Series Vol. 102 - The Hohei - Senjou no Inutachi"}
 			]
 		},
 		{
@@ -2046,7 +2047,6 @@
 				{"searchTerm": "Dynasty Warriors 4"},
 				{"searchTerm": "Jin Samguk Mussang 3"},
 				{"searchTerm": "Shin Sangoku Musou 3 (Series Collection Joukan)"},
-				{"searchTerm": "Shin Sangoku Musou 3 - Empires (Premium Box)", "priority": 2},
 				{"searchTerm": "Shin Sangoku Musou 3", "priority": 3}
 			]
 		},
@@ -2055,7 +2055,8 @@
 			"titles": [
 				{"searchTerm": "Dynasty Warriors 4 - Empires"},
 				{"searchTerm": "Jin Samguk Mussang 3 - Empires"},
-				{"searchTerm": "Shin Sangoku Musou 3 - Empires"}
+				{"searchTerm": "Shin Sangoku Musou 3 - Empires"},
+				{"searchTerm": "Shin Sangoku Musou 3 - Empires (Premium Box)", "priority": 2}
 			]
 		},
 		{
@@ -4592,14 +4593,14 @@
 			"group": "Mana Khemia 2 - Fall of Alchemy",
 			"titles": [
 				{"searchTerm": "Mana Khemia 2 - Fall of Alchemy"},
-				{"searchTerm": "Mana-Khemia 2 - Ochita Gakuen to Renkinjutsushi-tachi"}
+				{"searchTerm": "Mana-Khemia 2 - Ochita Gakuen to Renkinjutsushitachi"}
 			]
 		},
 		{
 			"group": "Mana Khemia - Alchemists of Al-Revis",
 			"titles": [
 				{"searchTerm": "Mana Khemia - Alchemists of Al-Revis"},
-				{"searchTerm": "Mana-Khemia - Gakuen no Renkinjutsushi-tachi"}
+				{"searchTerm": "Mana-Khemia - Gakuen no Renkinjutsushitachi"}
 			]
 		},
 		{
@@ -6083,7 +6084,7 @@
 			"group": "Raw Danger",
 			"titles": [
 				{"searchTerm": "Raw Danger"},
-				{"searchTerm": "Zettai Zetsumei Toshi 2 - Itetsuita Kioku-tachi"}
+				{"searchTerm": "Zettai Zetsumei Toshi 2 - Itetsuita Kiokutachi"}
 			]
 		},
 		{
@@ -6133,15 +6134,15 @@
 		{
 			"group": "Reel Fishing III",
 			"titles": [
-				{"searchTerm": "Fish Eyes 3 - Kioku no Hahen-tachi"},
+				{"searchTerm": "Fish Eyes 3 - Kioku no Hahentachi"},
 				{"searchTerm": "Reel Fishing III"}
 			]
 		},
 		{
-			"group": "Remember11 - The Age of Infinity",
+			"group": "Remember 11 - The Age of Infinity",
 			"titles": [
-				{"searchTerm": "Remember11 - The Age of Infinity"},
-				{"searchTerm": "SuperLite 2000 Vol. 31 - Remember11 - The Age of Infinity", "priority": 2}
+				{"searchTerm": "Remember 11 - The Age of Infinity"},
+				{"searchTerm": "SuperLite 2000 Vol. 31 - Remember 11 - The Age of Infinity", "priority": 2}
 			]
 		},
 		{
@@ -6838,7 +6839,7 @@
 				{"searchTerm": "Simple 2000 Series Vol. 90 - The OneeChambara 2"}
 			],
 			"supersets": [
-				{"searchTerm": "Simple 2000 Series Vol. 101 - The OneeChampon - The Nee-chan 2 Tokubetsu-hen"},
+				{"searchTerm": "Simple 2000 Series Vol. 101 - The OneeChampon - The Neechan 2 Tokubetsu-hen"},
 				{"searchTerm": "Zombie Hunters 2"}
 			]
 		},
@@ -8515,6 +8516,15 @@
 			]
 		},
 		{
+			"group": "Yamasa Digi World 2 LCD Edition - Time Cross, Qlogos, Trigger Zone",
+			"titles": [
+				{"searchTerm": "Yamasa Digi World 2 LCD Edition - Time Cross, Qlogos, Trigger Zone"}
+			],
+			"supersets": [
+				{"searchTerm": "Yamasa Digi World 2 LCD Edition DX - Time Cross, Qlogos, Trigger Zone"}
+			]
+		},
+		{
 			"group": "Yamasa Digi World 4 - Penguin Paradise, Crazy Shaman R, Zakzak Senryoubako R, Destroyer XX, King Pulsar",
 			"titles": [
 				{"searchTerm": "Yamasa Digi World 4 - Penguin Paradise, Crazy Shaman R, Zakzak Senryoubako R, Destroyer XX, King Pulsar"}
@@ -8588,7 +8598,7 @@
 				{"searchTerm": "Zombie Zone"}
 			],
 			"supersets": [
-				{"searchTerm": "Simple 2000 Series Vol. 80 - The OneeChamploo - The Nee-chan Tokubetsu-hen"},
+				{"searchTerm": "Simple 2000 Series Vol. 80 - The OneeChamploo - The Neechan Tokubetsu-hen"},
 				{"searchTerm": "Zombie Zone - Other Side"}
 			]
 		},

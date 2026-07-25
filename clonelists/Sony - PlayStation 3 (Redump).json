@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Sony - PlayStation 3 (Redump)",
-		"lastUpdated": "2026-02-21 13:30:00",
+		"lastUpdated": "2026-05-10 13:30:00",
 		"minimumVersion": "2.4.8"
 	},
 	"variants": [
@@ -659,7 +659,8 @@
 			"group": "Dragon Age - Origins",
 			"titles": [
 				{"searchTerm": "Dragon Age - Nachalo"},
-				{"searchTerm": "Dragon Age - Origins"}
+				{"searchTerm": "Dragon Age - Origins"},
+				{"searchTerm": "Dragon Age - Poczatek"}
 			],
 			"supersets": [
 				{"searchTerm": "Dragon Age - Origins - Ultimate Edition"}
@@ -1486,6 +1487,7 @@
 			"group": "Legend of Heroes, The - Trails of Cold Steel",
 			"titles": [
 				{"searchTerm": "Eiyuu Densetsu - Sen no Kiseki"},
+				{"searchTerm": "Legend of Heroes, The - Seom-ui Gwejeok"},
 				{"searchTerm": "Legend of Heroes, The - Trails of Cold Steel"}
 			]
 		},
@@ -1493,6 +1495,7 @@
 			"group": "Legend of Heroes, The - Trails of Cold Steel II",
 			"titles": [
 				{"searchTerm": "Eiyuu Densetsu - Sen no Kiseki II"},
+				{"searchTerm": "Legend of Heroes, The - Seom-ui Gwejeok II"},
 				{"searchTerm": "Legend of Heroes, The - Trails of Cold Steel II"}
 			]
 		},
@@ -1858,7 +1861,7 @@
 		{
 			"group": "No More Heroes - Heroes' Paradise",
 			"titles": [
-				{"searchTerm": "No More Heroes - Eiyuu-tachi no Rakuen"},
+				{"searchTerm": "No More Heroes - Eiyuutachi no Rakuen"},
 				{"searchTerm": "No More Heroes - Heroes' Paradise"},
 				{"searchTerm": "No More Heroes - Red Zone Edition"}
 			]
@@ -2633,6 +2636,13 @@
 			]
 		},
 		{
+			"group": "Suzumiya Haruhi no Tsuisou",
+			"titles": [
+				{"searchTerm": "Suzumiya Haruhi no Tsuisou (Nagato Yuki no Otoshimono Box)"},
+				{"searchTerm": "Suzumiya Haruhi no Tsuisou", "priority": 2}
+			]
+		},
+		{
 			"group": "Tales of Graces f",
 			"titles": [
 				{"searchTerm": "Tales of Graces f"}
@@ -2691,13 +2701,6 @@
 			],
 			"compilations": [
 				{"searchTerm": "Fighting Edition"}
-			]
-		},
-		{
-			"group": "Test Drive Unlimited 2",
-			"titles": [
-				{"searchTerm": "Test Drive Unlimited 2"},
-				{"searchTerm": "Test Drive Unlimited 2 Plus Casino Online"}
 			]
 		},
 		{

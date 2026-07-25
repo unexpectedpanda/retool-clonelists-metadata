@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Sony - PlayStation Portable (Redump)",
-		"lastUpdated": "2026-01-02 11:07:20",
+		"lastUpdated": "2026-06-13 10:43:10",
 		"minimumVersion": "2.4.8"
 	},
 	"variants": [
@@ -641,13 +641,6 @@
 			]
 		},
 		{
-			"group": "Final Fantasy II - 20th Anniversary Edition",
-			"titles": [
-				{"searchTerm": "Final Fantasy II"},
-				{"searchTerm": "Final Fantasy II - 20th Anniversary Edition"}
-			]
-		},
-		{
 			"group": "Final Fantasy IV - The Complete Collection",
 			"titles": [
 				{"searchTerm": "Final Fantasy IV - The Complete Collection"},
@@ -901,9 +894,9 @@
 			]
 		},
 		{
-			"group": "Hatsune Miku - Project Diva 2nd (Okaidoku-ban)",
+			"group": "Hatsune Miku - Project Diva 2nd (Okaidokuban)",
 			"titles": [
-				{"searchTerm": "Hatsune Miku - Project Diva 2nd (Okaidoku-ban)"},
+				{"searchTerm": "Hatsune Miku - Project Diva 2nd (Okaidokuban)"},
 				{"searchTerm": "Hatsune Miku - Project Diva 2nd", "priority": 2}
 			]
 		},
@@ -939,13 +932,6 @@
 				{"searchTerm": "Everybody's Golf 2"},
 				{"searchTerm": "Hot Shots Golf - Open Tee 2"},
 				{"searchTerm": "Minna no Golf Portable 2"}
-			]
-		},
-		{
-			"group": "Minna no Golf-jou Vol. 1 (Disc 2)",
-			"titles": [
-				{"searchTerm": "Minna no Golf-jou Vol. 1 (Disc 2) (Doukonban)"},
-				{"searchTerm": "Minna no Golf-jou Vol. 1 (Disc 2)", "priority": 2}
 			]
 		},
 		{
@@ -1154,7 +1140,7 @@
 			"group": "Mana Khemia - Student Alliance",
 			"titles": [
 				{"searchTerm": "Mana Khemia - Student Alliance"},
-				{"searchTerm": "Mana-Khemia - Gakuen no Renkinjutsushi-tachi Portable +"}
+				{"searchTerm": "Mana-Khemia - Gakuen no Renkinjutsushitachi Portable +"}
 			]
 		},
 		{
@@ -1419,6 +1405,13 @@
 			],
 			"supersets": [
 				{"searchTerm": "Taito Legends Power-Up"}
+			]
+		},
+		{
+			"group": "Sims 2, The",
+			"titles": [
+				{"searchTerm": "Sims 2, The"},
+				{"searchTerm": "Sims 2, The - Dr. Dominic no Inbou"}
 			]
 		},
 		{

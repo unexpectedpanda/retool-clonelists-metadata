@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Sony - PlayStation 4 (Redump)",
-		"lastUpdated": "2026-01-26 10:09:07",
+		"lastUpdated": "2026-05-10 10:09:07",
 		"minimumVersion": "2.4.8"
 	},
 	"variants": [
@@ -638,6 +638,16 @@
 			]
 		},
 		{
+			"group": "Like a Dragon - Ishin!",
+			"titles": [
+				{"searchTerm": "Ryuu ga Gotoku - Ishin!"}
+			],
+			"supersets": [
+				{"searchTerm": "Like a Dragon - Ishin!"},
+				{"searchTerm": "Ryuu ga Gotoku - Ishin! Kiwami"}
+			]
+		},
+		{
 			"group": "Limbo",
 			"compilations": [
 				{"searchTerm": "Inside & Limbo"}
@@ -686,11 +696,22 @@
 			]
 		},
 		{
-			"group": "Metal Gear Solid V - The Definitive Experience",
+			"group": "Metal Gear Solid V - Ground Zeroes",
 			"titles": [
 				{"searchTerm": "Metal Gear Solid V - Ground Zeroes"}
 			],
 			"supersets": [
+				{"searchTerm": "Metal Gear Solid V - Ground Zeroes + The Phantom Pain"},
+				{"searchTerm": "Metal Gear Solid V - The Definitive Experience"}
+			]
+		},
+		{
+			"group": "Metal Gear Solid V - The Phantom Pain",
+			"titles": [
+				{"searchTerm": "Metal Gear Solid V - The Phantom Pain"}
+			],
+			"supersets": [
+				{"searchTerm": "Metal Gear Solid V - Ground Zeroes + The Phantom Pain"},
 				{"searchTerm": "Metal Gear Solid V - The Definitive Experience"}
 			]
 		},
@@ -861,6 +882,13 @@
 			]
 		},
 		{
+			"group": "Oninaki",
+			"titles": [
+				{"searchTerm": "Oni no Naku Kuni"},
+				{"searchTerm": "Oninaki"}
+			]
+		},
+		{
 			"group": "Ookami HD",
 			"titles": [
 				{"searchTerm": "Ookami - Zekkeiban"},
@@ -997,8 +1025,20 @@
 		{
 			"group": "Resident Evil 4",
 			"titles": [
-				{"searchTerm": "Biohazard 4"},
-				{"searchTerm": "Resident Evil 4"}
+				{"searchTerm": "Biohazard RE-4"},
+				{
+					"searchTerm": "Resident Evil 4",
+					"filters": [
+						{
+							"conditions": {
+								"matchRegions": ["USA", "Asia"]
+							},
+							"results": {
+								"group": "Biohazard 4"
+							}
+						}
+					]
+				}
 			]
 		},
 		{
@@ -1176,7 +1216,7 @@
 			"group": "Summon Night 6 - Lost Borders",
 			"titles": [
 				{"searchTerm": "Summon Night 6 - Lost Borders"},
-				{"searchTerm": "Summon Night 6 - Ushinawareta Kyoukai-tachi"}
+				{"searchTerm": "Summon Night 6 - Ushinawareta Kyoukaitachi"}
 			]
 		},
 		{
@@ -1315,6 +1355,24 @@
 			"titles": [
 				{"searchTerm": "Aoki Kakumei no Valkyria"},
 				{"searchTerm": "Valkyria Revolution"}
+			]
+		},
+		{
+			"group": "Walking Dead, The - A Telltale Games Series - The Complete First Season Plus 400 Days",
+			"titles": [
+				{"searchTerm": "Walking Dead, The - A Telltale Games Series - The Complete First Season Plus 400 Days"}
+			],
+			"supersets": [
+				{"searchTerm": "Walking Dead, The - The Telltale Definitive Series"}
+			]
+		},
+		{
+			"group": "Walking Dead, The - Season Two - A Telltale Games Series",
+			"titles": [
+				{"searchTerm": "Walking Dead, The - Season Two - A Telltale Games Series"}
+			],
+			"supersets": [
+				{"searchTerm": "Walking Dead, The - The Telltale Definitive Series"}
 			]
 		},
 		{
