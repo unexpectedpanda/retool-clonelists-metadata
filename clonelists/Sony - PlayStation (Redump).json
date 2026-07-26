@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Sony - PlayStation (Redump)",
-		"lastUpdated": "2026-01-18 16:35:08",
+		"lastUpdated": "2026-05-10 16:35:08",
 		"minimumVersion": "2.4.8"
 	},
 	"variants": [
@@ -2131,14 +2131,14 @@
 		{
 			"group": "Dragon Warrior VII (Disc 1)",
 			"titles": [
-				{"searchTerm": "Dragon Quest VII - Eden no Senshi-tachi (Disc 1)"},
+				{"searchTerm": "Dragon Quest VII - Eden no Senshitachi (Disc 1)"},
 				{"searchTerm": "Dragon Warrior VII (Disc 1)"}
 			]
 		},
 		{
 			"group": "Dragon Warrior VII (Disc 2)",
 			"titles": [
-				{"searchTerm": "Dragon Quest VII - Eden no Senshi-tachi (Disc 2)"},
+				{"searchTerm": "Dragon Quest VII - Eden no Senshitachi (Disc 2)"},
 				{"searchTerm": "Dragon Warrior VII (Disc 2)"}
 			]
 		},
@@ -2695,6 +2695,13 @@
 				{"searchTerm": "Eikou no Fairway - Virtual Golf Simulation"},
 				{"searchTerm": "Final Round, The"},
 				{"searchTerm": "Konami Open Golf"}
+			]
+		},
+		{
+			"group": "Fisher-Price Rescue Heroes - Molten Menace",
+			"titles": [
+				{"searchTerm": "Fisher-Price Rescue Heroes - Helden in Gefahr"},
+				{"searchTerm": "Fisher-Price Rescue Heroes - Molten Menace"}
 			]
 		},
 		{
@@ -3590,7 +3597,7 @@
 		{
 			"group": "Klonoa Beach Volleyball",
 			"titles": [
-				{"searchTerm": "Klonoa Beach Volley - Saikyou Team Kettei-sen!"},
+				{"searchTerm": "Klonoa Beach Volley - Saikyou Team Ketteisen!"},
 				{"searchTerm": "Klonoa Beach Volleyball"}
 			]
 		},
@@ -3895,7 +3902,7 @@
 			"group": "Magical Drop III (Disc 1) (Magical Drop III)",
 			"titles": [
 				{"searchTerm": "Magical Drop III (Disc 1) (Magical Drop III)"},
-				{"searchTerm": "Magical Drop III - Yokubari Tokudai-gou!"}
+				{"searchTerm": "Magical Drop III - Yokubari Tokudaigou!"}
 			]
 		},
 		{
@@ -3925,10 +3932,10 @@
 			]
 		},
 		{
-			"group": "Mahjong Uranai Fortuna - Tsuki no Megami-tachi",
+			"group": "Mahjong Uranai Fortuna - Tsuki no Megamitachi",
 			"titles": [
-				{"searchTerm": "Mahjong Uranai Fortuna - Tsuki no Megami-tachi"},
-				{"searchTerm": "SuperLite 1500 Series - Mahjong Uranai Fortuna - Tsuki no Megami-tachi", "priority": 2}
+				{"searchTerm": "Mahjong Uranai Fortuna - Tsuki no Megamitachi"},
+				{"searchTerm": "SuperLite 1500 Series - Mahjong Uranai Fortuna - Tsuki no Megamitachi", "priority": 2}
 			]
 		},
 		{
@@ -3985,7 +3992,7 @@
 		{
 			"group": "Master of Monsters - Disciples of Gaia",
 			"titles": [
-				{"searchTerm": "Master of Monsters - Akatsuki no Kenja-tachi"},
+				{"searchTerm": "Master of Monsters - Akatsuki no Kenjatachi"},
 				{"searchTerm": "Master of Monsters - Disciples of Gaia"}
 			]
 		},
@@ -5049,7 +5056,7 @@
 		{
 			"group": "Poy Poy",
 			"titles": [
-				{"searchTerm": "Poitters' Point"},
+				{"searchTerm": "Poitter's Point"},
 				{"searchTerm": "Poy Poy"}
 			]
 		},
@@ -5303,13 +5310,6 @@
 			"titles": [
 				{"searchTerm": "Jet Copter X"},
 				{"searchTerm": "Rescue Copter"}
-			]
-		},
-		{
-			"group": "Rescue Heroes - Molten Menace",
-			"titles": [
-				{"searchTerm": "Rescue Heroes - Helden in Gefahr"},
-				{"searchTerm": "Rescue Heroes - Molten Menace"}
 			]
 		},
 		{
@@ -5940,7 +5940,7 @@
 		{
 			"group": "Street Fighter Collection 2",
 			"titles": [
-				{"searchTerm": "Capcom Generation - Dai-5-shuu Kakutouka-tachi"},
+				{"searchTerm": "Capcom Generation - Dai-5-shuu Kakutoukatachi"},
 				{"searchTerm": "Street Fighter Collection 2"}
 			]
 		},
