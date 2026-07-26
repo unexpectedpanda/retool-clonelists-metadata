@@ -38,12 +38,10 @@ jobs:
         uses: astral-sh/setup-uv@v7
         with:
           enable-cache: true
-      - name: Install Hatch
-        run: uv tool install hatch
       - name: Validate clone list
         env:
           PR_NUMBER: ${{ steps.pr.outputs.number }}
           COMMIT_ID: ${{ steps.pr.outputs.sha }}
           CLONELISTS_PAT: ${{ secrets.CLONELISTS_PAT }}
         run: |
-          hatch run python -u scripts/clone_list_validate.py
+          uv run --python 3.14 scripts/clone_list_validate.py
