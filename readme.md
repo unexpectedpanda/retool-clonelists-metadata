@@ -1,4 +1,5 @@
-> [!IMPORTANT] Retool is no longer maintained.
+> [!IMPORTANT]
+> Retool is no longer maintained.
 > [Read the thread](https://github.com/unexpectedpanda/retool/issues/337) for more
 > information on what this means.
 
