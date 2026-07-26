@@ -97,7 +97,7 @@
             "sha1": "92f32bda82bde8623bf02d9d8e08cb596a040a7d"
         },
         {
-            "name": "Christmas NiGHTS into Dreams... (USA) (Demo)",
+            "name": "Christmas NiGHTS into Dreams... (USA)",
             "sha1": "3869b2b91629a40e59eb0a1e8739a63f1e8b2467"
         },
         {
@@ -109,7 +109,7 @@
             "sha1": "3a4dedf31aa6a3232d3b1762fa95716afadb7320"
         },
         {
-            "name": "Clockwork Knight Puzzle - Pengin War (Japan) (En,Ja) (Proto) (Beta)",
+            "name": "Clockwork Knight Puzzle - Pengin War (Japan) (En,Ja) (Beta)",
             "sha1": "d3f1600d145534f1eed722ccc083f04cfcf8caca"
         },
         {
@@ -129,7 +129,7 @@
             "sha1": "a1a8b4449168738e926711e027678b24b8ee8680"
         },
         {
-            "name": "Cubecat (RAHash Fix) (Aftermarket)",
+            "name": "Cubecat (Homebrew) (RAHash Fix)",
             "sha1": "e8aa97a18df783e344990411e8ae79c77493e55f"
         },
         {
@@ -138,9 +138,9 @@
         },
         {
             "name": "D (USA)",
-            "crc": "21368742",
-            "md5": "c6d2a0463575afe77e71aded5d8f4b46",
-            "sha1": "4d019062f88cf6763fe81b2587d59459a1d43761"
+            "crc": "A5319F9E",
+            "md5": "afa83bc6107e0887976c8bf68b6e66b4",
+            "sha1": "c6f9a1edfece9727a400fd0c9ca655bcd31c5225"
         },
         {
             "name": "Dark Savior (USA)",
@@ -175,20 +175,20 @@
             "sha1": "e104c2c98aa59574afe3dbf5bbf7b16a1ceef2d0"
         },
         {
-            "name": "Deep Fear (Europe) (Disc 1)",
-            "sha1": "e20537296367b6ee3b1c9cfbf4d71d3404314399"
+            "name": "Deep Fear (Europe)",
+            "crc": "AE2C3947",
+            "md5": "27946ed563522a01860c5efc6a4976e3",
+            "sha1": "d175b487c18cb5f3b7efd562c0cee6d6cc0d198e"
         },
         {
-            "name": "Deep Fear (Europe) (Disc 2)",
-            "sha1": "0ed6ba69bed5036f38c9ef0f1b683fc368edd489"
+            "name": "Deep Fear (USA)",
+            "crc": "A8C87D03",
+            "md5": "1ab617bbcea9f3b97bef20d05e2e3df0",
+            "sha1": "8187e1c3df7fa4a6402e28cf1e28b881bbe34ca6"
         },
         {
-            "name": "Deep Fear (USA) (Disc 1) (Unl)",
-            "sha1": "a1fd8d729ed351a5c7c8cf34ab36813859804644"
-        },
-        {
-            "name": "Deep Fear (USA) (Disc 2) (Unl)",
-            "sha1": "2f821cd694d68c2510716470c17d8a165b3cf357"
+            "name": "Delisoba Deluxe (Japan)",
+            "sha1": "6b75366d5f5694d07603e3334ab603c78b077c8d"
         },
         {
             "name": "Densetsu no Ogre Battle (Japan)",
@@ -240,9 +240,9 @@
         },
         {
             "name": "Dungeons & Dragons Collection (Japan)",
-            "crc": "66f21228",
-            "md5": "237a8917768ed0ddaababe4af7984bfe",
-            "sha1": "b7a260bcb36e99f146b0bb069d8920230091a994"
+            "crc": "BA463CBC",
+            "md5": "54db91c7311a7189189a70442f872914",
+            "sha1": "0e55a56fd16ace1ba231ee55a6999fcf4606214a"
         },
         {
             "name": "Earthworm Jim 2 (Japan) (2M)",
@@ -255,6 +255,12 @@
         {
             "name": "Elevator Action^2 - Returns (Japan)",
             "sha1": "1ae47a81dd34b72cf2d18eb10a3dd9c52e51ce65"
+        },
+        {
+            "name": "Enemy Zero (USA)",
+            "crc": "A51DF9C8",
+            "md5": "76cac2e739e60c5318faa6c0a5ab9a2d",
+            "sha1": "28f58a4bbb6e5067b6670fb57664aae1a6f661b8"
         },
         {
             "name": "Fighters Megamix (USA) (RE)",
@@ -297,6 +303,10 @@
             "sha1": "2b7fb1c845d14789882902dc700c7a5825739ec6"
         },
         {
+            "name": "Gouketsuji Ichizoku 3 - Groove on Fight (Japan)",
+            "sha1": "17a95bde919d18740ac58ce052294ceb5541fd9f"
+        },
+        {
             "name": "Guardian Force (Japan)",
             "sha1": "8731e25b26f8c2fbe60d283714a53c74d08d756b"
         },
@@ -319,6 +329,10 @@
         {
             "name": "House of the Dead, The (USA)",
             "sha1": "bacb7fd0cbb275a93cfb60b2e1175065bc62f0f0"
+        },
+        {
+            "name": "Hyper 3-D Pinball (USA)",
+            "sha1": "6fbaac6fe117297328215b3dc91121c1032dbe63"
         },
         {
             "name": "Hyper Duel (Japan)",
@@ -365,14 +379,18 @@
             "sha1": "7b2bec0ffece9c6c1471f8b6e2b885eae6f37b42"
         },
         {
+            "name": "Linkle Liver Story (Japan) (En) (v1.0) (Stardust Crusaders)",
+            "sha1": "c9fc7f0ce02cae29845b1f2d8181d0d045b26224"
+        },
+        {
             "name": "Lode Runner - The Legend Returns (Japan)",
             "sha1": "c7a051df6a72b928f326b5d2ce43e642d84c2ac7"
         },
         {
             "name": "Lunacy (USA)",
-            "crc": "41070fa9",
-            "md5": "76b289990d31fdcf11b0a0cda47f9abb",
-            "sha1": "7bd2bf8df6384aaf8c3fe5fc6bc148c1b8c17559"
+            "crc": "FBD8DE9A",
+            "md5": "2ac21ef0a748ac5b877d7db8cc42f0b8",
+            "sha1": "7d6e535c15d981de8338014bd1c28a1a3cc4b97b"
         },
         {
             "name": "Lunar - Silver Star Story (Japan)",
@@ -387,7 +405,7 @@
             "sha1": "9b439b3fad21e94c23752114fae92f0e3eb77f43"
         },
         {
-            "name": "Magic Knight Rayearth (USA) (Undub) (v1.0) (Rep Plus)",
+            "name": "Magic Knight Rayearth (USA) (Undub) (v1.0) (Rep_Plus_^-^)",
             "sha1": "c58d02a9c3ce9285c7b67656dd36f62d2395cef5"
         },
         {
@@ -440,9 +458,9 @@
         },
         {
             "name": "Mr. Bones (USA)",
-            "crc": "c867ae7e",
-            "md5": "883708b4394605d4bf9ee6c0a398d518",
-            "sha1": "4ee638067b3321488410cef71babfa0cf785ea5a"
+            "crc": "9470975C",
+            "md5": "5f4f69eb50357617e443d679a4be31b6",
+            "sha1": "384813641d0e6962ceeec79486601f30eb28f950"
         },
         {
             "name": "NiGHTS into Dreams... (USA, Brazil)",
@@ -461,7 +479,7 @@
             "sha1": "fb34f57f99947c61468e7af46203cae991559a7c"
         },
         {
-            "name": "Panzer Dragoon (USA) (1S)",
+            "name": "Panzer Dragoon (USA) (1S, 5A)",
             "sha1": "bd15080a29bdf30e8c25eb15390a2fd403695fca"
         },
         {
@@ -470,9 +488,9 @@
         },
         {
             "name": "Panzer Dragoon Saga (USA)",
-            "crc": "9f098577",
-            "md5": "1bae93b88bf5030f0cfe4ee23f8bf16d",
-            "sha1": "14a26cb02adc86963a10a7fa5633b1b95eebea13"
+            "crc": "E90E823B",
+            "md5": "fcfba57e215c9098848be0ecb12aa036",
+            "sha1": "9bd6006b1bbbec43ede194e682f933607714edd8"
         },
         {
             "name": "Pastel Muses (Japan)",
@@ -483,12 +501,12 @@
             "sha1": "51761d8993204189219590938a002684909798e9"
         },
         {
-            "name": "Princess Crown (Japan) (En) (v1.1b2) (eadmaster)",
-            "sha1": "9fb491913edf8582bb1665c2caf0d2c40b60cc50"
-        },
-        {
             "name": "Princess Crown (Japan) (Rev A) (11M)",
             "sha1": "ffd0f3be3ce6092727d4835dd63ad2d591156d28"
+        },
+        {
+            "name": "Princess Crown (Japan) (Rev A) (11M) (En) (v1.1b2) (eadmaster)",
+            "sha1": "146904399f5211405197fab8163ca79c6def1fb1"
         },
         {
             "name": "Private Idol Disc - Tokubetsu-hen - Cosplayers (Japan) (2M)",
@@ -555,6 +573,10 @@
             "sha1": "17b7e738ca0089378dcece3d4fab63e061dbed8a"
         },
         {
+            "name": "Rayman (USA) (R2)",
+            "sha1": "5dbfbe2942b9606a54bee22ba359608ea2f295f3"
+        },
+        {
             "name": "Resident Evil (USA)",
             "sha1": "0367b575e39434e53714617f338eb4a71d497988"
         },
@@ -563,10 +585,10 @@
             "sha1": "c9856991f12cf741dc95f826ba579012d1193b56"
         },
         {
-            "name": "Sakura Taisen (Japan) (6M)",
-            "crc": "453076ef",
-            "md5": "9ec07f5bab6f0261bcf6f94d17ffba2d",
-            "sha1": "28ae030658186960635fdf0dc185437b0cce7fcc"
+            "name": "Sakura Taisen (Japan)",
+            "crc": "7422FBB6",
+            "md5": "234c66713427d3905bbb4285a3f3adec",
+            "sha1": "b1423cd44171934bbd0f87bd497b600a93918ee5"
         },
         {
             "name": "Saturn Bomberman (USA) (1S)",
@@ -605,6 +627,10 @@
             "sha1": "bded1f505371c70c90fcf5192e143673a09f4bf5"
         },
         {
+            "name": "Sexy Parodius (Japan)",
+            "sha1": "557bf725981a303852dede80a46f73ab00b43798"
+        },
+        {
             "name": "Shanghai - Triple-Threat (USA)",
             "sha1": "1b812db56c46f78e2610e55090ff19cccd1e15c1"
         },
@@ -633,11 +659,11 @@
             "sha1": "ab42f5ef6f1528238ef615fa0adc1e9de43967e2"
         },
         {
-            "name": "Shining Force III - Scenario 2 (Japan) (En) (v22) (SF3TP)",
+            "name": "Shining Force III - Scenario 2 - Nerawareta Miko (Japan) (En) (v22) (SF3TP)",
             "sha1": "b0758e6bbb5b5c47615f82de868ce3cfda0e9fc5"
         },
         {
-            "name": "Shining Force III - Scenario 3 (Japan) (En) (v22) (SF3TP)",
+            "name": "Shining Force III - Scenario 3 - Hyouheki no Jashinguu (Japan) (En) (v22) (SF3TP)",
             "sha1": "ecaea8f1c59a928a1cc2fe38d2f9c8dc5099744f"
         },
         {
@@ -670,15 +696,15 @@
         },
         {
             "name": "Shoujo Kakumei Utena - Itsuka Kakumei Sareru Monogatari (Japan)",
-            "crc": "30111766",
-            "md5": "7ee406d63c1b743c0cfc75d71b106661",
-            "sha1": "63ae1b5857d4ecc8b253e5de9b651f341b6e339a"
+            "crc": "A4D6FC5B",
+            "md5": "8e65729d2eff552adc93864c89a779fb",
+            "sha1": "182de0326a3ece93b74ba652dcfbf8fcd2da16aa"
         },
         {
             "name": "Shoujo Kakumei Utena - Itsuka Kakumei Sareru Monogatari (Japan) (En) (v1.04) (In the Rose Garden)",
-            "crc": "e1fd7509",
-            "md5": "e30bfbada443dda779155c24f08bac9f",
-            "sha1": "e125d692f77fb83f26bc44a9076d14bb39271877"
+            "crc": "E50F5AAB",
+            "md5": "45f08aed5ca5e4852cf1dc9d871a7c80",
+            "sha1": "4a9a4e859dd08798123dd2db277185071d2a2e55"
         },
         {
             "name": "SimCity 2000 (USA)",
@@ -701,7 +727,7 @@
             "sha1": "7c4d40253ad4173d544d6058794f8fafd7934a49"
         },
         {
-            "name": "Sonic Z-Treme (NTSC) (XL2) (Demo) (Aftermarket)",
+            "name": "Sonic Z-Treme (NTSC) (Demo) (Aftermarket) (XL2)",
             "sha1": "1def42257e6bc6a996b68073a334a668203f3a1f"
         },
         {
@@ -711,6 +737,14 @@
         {
             "name": "Steep Slope Sliders (USA)",
             "sha1": "6cb35e762063afd73c8f697c0004a2a2c8e8e42b"
+        },
+        {
+            "name": "Street Fighter - The Movie (USA)",
+            "sha1": "926daecc41a574a84858fc258b8b762a318d9812"
+        },
+        {
+            "name": "Street Fighter Alpha 2 (USA)",
+            "sha1": "f734126eee4f4685c6a6ad1bb7320b3c744f711e"
         },
         {
             "name": "Super Puzzle Fighter II Turbo (USA)",
@@ -753,7 +787,7 @@
             "sha1": "0376d81af8d09f2f32e6baa75d228be552497c53"
         },
         {
-            "name": "Virtua Cop (USA) (5S, 6S)",
+            "name": "Virtua Cop (USA) (6S)",
             "sha1": "65ec56398657f7899914aa957a306bd0bd570499"
         },
         {
@@ -791,6 +825,10 @@
         {
             "name": "Worms (USA)",
             "sha1": "d8a0f027d5e43cebf2d14b5ad673577c84e87f8f"
+        },
+        {
+            "name": "X-Men - Children of the Atom (USA)",
+            "sha1": "ac65bf4a964a1393eef01ec28d0703ea57e6d23c"
         },
         {
             "name": "Yakyuuken Special, The - Kon'ya wa 12-kaisen!! (Japan) (1M)",
