@@ -194,11 +194,12 @@ def add_comment(
 
 ALLOWED_PREFIXES = ('clonelists/',)
 
+
 def filter_clone_list_files(diff_output: list[str]) -> list[str]:
     """Filters a git diff file list down to allow-listed clone list data files."""
-
     return [
-        f for f in diff_output
+        f
+        for f in diff_output
         if f.startswith(ALLOWED_PREFIXES) and f.endswith('.json') and 'hash.json' not in f
     ]
 

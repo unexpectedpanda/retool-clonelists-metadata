@@ -2,7 +2,9 @@ import glob
 import json
 import pathlib
 import re
+import shutil
 import sys
+import tempfile
 import zipfile
 
 from lxml import etree  # type: ignore
@@ -34,26 +36,28 @@ def update_ra(download_location: str) -> None:
     Returns:
         int: How many successful downloads there were.
     """
+    ra_dir = pathlib.Path('retroachievements')
+
     # Download all RetroAchievements details, and get them into a format that Retool
-    # understands
-    local_file: str = str(pathlib.Path('retroachievements').joinpath('ra.zip'))
-    local_path: str = f'{pathlib.Path(local_file).parent}'
+    # understands.
+    with tempfile.TemporaryDirectory() as tmp:
+        tmp_path = pathlib.Path(tmp)
+        local_file = tmp_path / 'ra.zip'
 
-    # Clear out the RetroAchievements folder
-    files = glob.glob(f'{local_path}/*.*')
+        eprint()
 
-    for file in files:
-        pathlib.Path(file).unlink()
+        failed: bool = False
+        failed = download((f'{download_location}', str(local_file)), True)
 
-    eprint()
+        if failed:
+            eprint(
+                '• Download failed, leaving existing RetroAchievements files untouched.',
+                level='error',
+            )
+            return
 
-    failed: bool = False
-    failed = download((f'{download_location}', local_file), True)
-
-    if not failed:
         eprint(
-            f'• Downloading {Font.b}{pathlib.Path(local_file).name}{Font.be}... done.',
-            overwrite=True,
+            f'• Downloading {Font.b}{local_file.name}{Font.be}... done.', overwrite=True
         )
 
         with zipfile.ZipFile(local_file) as zip_file:
@@ -68,13 +72,13 @@ def update_ra(download_location: str) -> None:
                     member.filename = re.sub(
                         '^RA - ', '', pathlib.Path(member.filename).name
                     )
-                    zip_file.extract(member, local_path)
+                    zip_file.extract(member, tmp_path)
 
-        pathlib.Path(local_file).unlink()
+        local_file.unlink()
 
-        # Write the RetroAchievements JSON files
+        # Write the RetroAchievements JSON files.
         eprint('• Writing system RetroAchievements files...')
-        files = glob.glob(f'{local_path}/*.dat')
+        files = glob.glob(f'{tmp_path}/*.dat')
         title_data: set[TitleData]
 
         for file in files:
@@ -222,16 +226,14 @@ def update_ra(download_location: str) -> None:
                 indent=4,
             )
 
-            # Write the file
-            with open(
-                f'{local_path}/{system_name}.json', 'w', encoding='utf-8'
-            ) as ra_file:
+            # Write the file.
+            with open(f'{tmp_path}/{system_name}.json', 'w', encoding='utf-8') as ra_file:
                 ra_file.write(f'{json_file}\n')
 
-            with open(f'{local_path}/{system_name}.json', encoding='utf-8') as ra_file:
-                validate_json(ra_file.read(), f'{local_path}/{system_name}.json')
+            with open(f'{tmp_path}/{system_name}.json', encoding='utf-8') as ra_file:
+                validate_json(ra_file.read(), f'{tmp_path}/{system_name}.json')
 
-            # We need to duplicate JSON files where systems have been merged
+            # We need to duplicate JSON files where systems have been merged.
             merged_systems: dict[str, str] = {
                 'Bandai - WonderSwan': 'Bandai - WonderSwan Color',
                 'Microsoft - MSX': 'Microsoft - MSX2',
@@ -241,26 +243,32 @@ def update_ra(download_location: str) -> None:
             for system, duplicate in merged_systems.items():
                 if system == system_name:
                     with open(
-                        f'{local_path}/{duplicate}.json', 'w', encoding='utf-8'
+                        f'{tmp_path}/{duplicate}.json', 'w', encoding='utf-8'
                     ) as ra_file:
                         ra_file.write(f'{json_file}\n')
 
-        # Remove the DAT files
-        files = glob.glob(f'{local_path}/*.dat')
+        # Remove the DAT files.
+        files = glob.glob(f'{tmp_path}/*.dat')
 
         for file in files:
             pathlib.Path(file).unlink()
 
         eprint('• Writing system RetroAchievements files... done.', overwrite=True)
 
-        # Update the hash.json file
+        # Update the hash.json file.
         eprint('• Writing RetroAchievements hash.json file...')
 
-        files = [str(x) for x in pathlib.Path('retroachievements').glob('*.json')]
+        files = [str(x) for x in tmp_path.glob('*.json')]
 
-        update_hash(files, 'retroachievements/hash.json')
+        update_hash(files, f'{tmp_path}/hash.json')
 
         eprint('• Writing RetroAchievements hash.json file... done.', overwrite=True)
+
+        for old_file in ra_dir.glob('*.*'):
+            old_file.unlink()
+
+        for new_file in tmp_path.glob('*.json'):
+            shutil.copy(new_file, ra_dir / new_file.name)
 
 
 if __name__ == '__main__':

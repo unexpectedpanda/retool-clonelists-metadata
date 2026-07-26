@@ -2,7 +2,9 @@ import glob
 import json
 import pathlib
 import re
+import shutil
 import sys
+import tempfile
 import zipfile
 from typing import Any
 
@@ -15,23 +17,24 @@ def main(download_location: str) -> None:
 
 def update_mia(download_location: str) -> None:
     """Downloads the latest MIA lists, and parses them into a usable format."""
-    local_file: str = str(pathlib.Path('mias').joinpath('mia.zip'))
-    local_path: str = f'{pathlib.Path(local_file).parent}'
+    mias_dir = pathlib.Path('mias')
 
-    # Clear out the MIAs folder
-    files = glob.glob(f'{local_path}/*.*')
+    with tempfile.TemporaryDirectory() as tmp:
+        tmp_path = pathlib.Path(tmp)
+        local_file = tmp_path / 'mia.zip'
 
-    for file in files:
-        pathlib.Path(file).unlink()
+        eprint()
+        failed: bool = False
+        failed = download((f'{download_location}', str(local_file)), True)
 
-    eprint()
-    failed: bool = False
-    failed = download((f'{download_location}', local_file), True)
+        if failed:
+            eprint(
+                '• Download failed, leaving existing MIA files untouched.', level='error'
+            )
+            return
 
-    if not failed:
         eprint(
-            f'• Downloading {Font.b}{pathlib.Path(local_file).name}{Font.be}... done.',
-            overwrite=True,
+            f'• Downloading {Font.b}{local_file.name}{Font.be}... done.', overwrite=True
         )
 
         with zipfile.ZipFile(local_file) as zip_file:
@@ -41,17 +44,17 @@ def update_mia(download_location: str) -> None:
 
                 member.filename = pathlib.Path(member.filename).name
 
-                zip_file.extract(member, local_path)
+                zip_file.extract(member, tmp_path)
 
-        pathlib.Path(local_file).unlink()
+        local_file.unlink()
 
-        # Set up the system MIAs
+        # Set up the system MIAs.
         system_mias: dict[str, list[dict[str, str]]] = {}
 
-        # Get Markdown into a format that's useful for Retool
-        md_files = glob.glob(f'{local_path}/*.md')
+        # Get Markdown into a format that's useful for Retool.
+        md_files = glob.glob(f'{tmp_path}/*.md')
 
-        # Get DAT file tags to remove
+        # Get DAT file tags to remove.
         dat_file_tags: list[str] = []
 
         try:
@@ -115,7 +118,7 @@ def update_mia(download_location: str) -> None:
 
         eprint('• Writing system MIA files...')
         for system, system_files in system_mias.items():
-            with open(f'{local_path}/{system}.json', 'w', encoding='utf-8') as mia_file:
+            with open(f'{tmp_path}/{system}.json', 'w', encoding='utf-8') as mia_file:
                 mia_file.writelines('{\n\t"mias": [')
 
                 for system_file in sorted(system_files, key=lambda x: x['name']):
@@ -133,37 +136,31 @@ def update_mia(download_location: str) -> None:
 
                 mia_file.writelines('\n\t]\n}\n')
 
-            with open(f'{local_path}/{system}.json', encoding='utf-8') as mia_file:
-                validate_json(mia_file.read(), f'{local_path}/{system}.json')
+            with open(f'{tmp_path}/{system}.json', encoding='utf-8') as mia_file:
+                validate_json(mia_file.read(), f'{tmp_path}/{system}.json')
 
-        # Remove unneeded MIA files
-        all_mias = glob.glob(f'{local_path}/*.json')
-        all_mias_paths = [pathlib.Path(x) for x in all_mias]
-        new_mias_paths = [
-            pathlib.Path('mias').joinpath(f'{x}.json') for x in system_mias.keys()
-        ]
-
-        old_files = [x for x in all_mias_paths if x not in new_mias_paths]
-
-        for old_file in old_files:
-            pathlib.Path(old_file).unlink()
-
-        # Remove the Markdown files
-        files = glob.glob(f'{local_path}/*.md')
+        # Remove the Markdown files.
+        files = glob.glob(f'{tmp_path}/*.md')
 
         for file in files:
             pathlib.Path(file).unlink()
 
         eprint('• Writing system MIA files... done.', overwrite=True)
 
-        # Update the hash.json file
+        # Update the hash.json file.
         eprint('• Writing MIA hash.json file...')
 
-        files = [str(x) for x in pathlib.Path('mias').glob('*.json')]
+        files = [str(x) for x in tmp_path.glob('*.json')]
 
-        update_hash(files, 'mias/hash.json')
+        update_hash(files, f'{tmp_path}/hash.json')
 
         eprint('• Writing MIA hash.json file... done.', overwrite=True)
+
+        for old_file in mias_dir.glob('*.*'):
+            old_file.unlink()
+
+        for new_file in tmp_path.glob('*.json'):
+            shutil.copy(new_file, mias_dir / new_file.name)
 
 
 if __name__ == '__main__':
