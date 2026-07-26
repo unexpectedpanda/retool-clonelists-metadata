@@ -1,6 +1,6 @@
-> [!IMPORTANT]
-> Retool is no longer maintained. [Read the thread](https://github.com/unexpectedpanda/retool/issues/337)
-for more information on what this means.
+> [!IMPORTANT] Retool is no longer maintained.
+> [Read the thread](https://github.com/unexpectedpanda/retool/issues/337) for more
+> information on what this means.
 
 This is the repository for [Retool's](https://unexpectedpanda.github.io/retool/) clone
 lists and metadata files. It also hosts `config/internal-config.json`.
@@ -21,12 +21,12 @@ should not be manually updated. If the sources stop updating, then so will these
 
 ### Metadata files
 
-Metadata files are auto-generated from the Redump and No-Intro databases, and shouldn't
-be manually updated. The metadata is regenerated whenever I have time to refresh it.
+Metadata files are auto-generated from the Redump and No-Intro databases, and shouldn't be
+manually updated. The metadata is regenerated whenever I have time to refresh it.
 
-If there's an error in the metadata and you're sure that the metadata in this
-repository isn't just out of date, don't submit a PR. Instead, report the issue
-upstream to the relevant group:
+If there's an error in the metadata and you're sure that the metadata in this repository
+isn't just out of date, don't submit a PR. Instead, report the issue upstream to the
+relevant group:
 
 #### No-Intro
 
@@ -42,5 +42,6 @@ upstream to the relevant group:
 
 #### Redump
 
-Go to Redump's [**Fixes & additions** forum](http://forum.redump.org/forum/15/fixes-additions/),
-and request the issue be fixed.
+Go to Redump's
+[**General discussion** forum](https://forum.redump.info/viewforum.php?f=10), and request
+the issue be fixed.
