@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Sony - PlayStation 2 (Redump)",
-		"lastUpdated": "2026-05-10 17:34:33",
+		"lastUpdated": "2026-07-26 12:00:33",
 		"minimumVersion": "2.4.8"
 	},
 	"variants": [
@@ -381,17 +381,17 @@
 			]
 		},
 		{
-			"group": "Ar tonelico - Melody of Elemia",
+			"group": "Ar Tonelico - Melody of Elemia",
 			"titles": [
-				{"searchTerm": "Ar tonelico - Melody of Elemia"},
-				{"searchTerm": "Ar tonelico - Sekai no Owari de Utai Tsuzukeru Shoujo"}
+				{"searchTerm": "Ar Tonelico - Melody of Elemia"},
+				{"searchTerm": "Ar Tonelico - Sekai no Owari de Utai Tsuzukeru Shoujo"}
 			]
 		},
 		{
-			"group": "Ar tonelico II - Melody of Metafalica",
+			"group": "Ar Tonelico II - Melody of Metafalica",
 			"titles": [
-				{"searchTerm": "Ar tonelico II - Melody of Metafalica"},
-				{"searchTerm": "Ar tonelico II - Sekai ni Hibiku Shoujotachi no Metafalica"}
+				{"searchTerm": "Ar Tonelico II - Melody of Metafalica"},
+				{"searchTerm": "Ar Tonelico II - Sekai ni Hibiku Shoujotachi no Metafalica"}
 			]
 		},
 		{
@@ -883,6 +883,7 @@
 		{
 			"group": "Buzz! The Hollywood Quiz",
 			"titles": [
+				{"searchTerm": "Big! Movie Quiz, The"},
 				{"searchTerm": "Buzz! Hollywood"},
 				{"searchTerm": "Buzz! Hollywood Leffavisa"},
 				{"searchTerm": "Buzz! Hollywood Quiz"},
@@ -906,6 +907,7 @@
 		{
 			"group": "Buzz! The Pop Quiz",
 			"titles": [
+				{"searchTerm": "Big! Pop Quiz, The"},
 				{"searchTerm": "Buzz! Pop Quiz"},
 				{"searchTerm": "Buzz! The Pop Quiz"}
 			]
@@ -3893,6 +3895,13 @@
 			]
 		},
 		{
+			"group": "Jak and Daxter Complete Trilogy",
+			"categories": ["Demos", "Promotional"],
+			"titles": [
+				{"searchTerm": "Jak and Daxter Complete Trilogy"}
+			]
+		},
+		{
 			"group": "Jak II",
 			"titles": [
 				{"searchTerm": "Jak II"},
@@ -4574,6 +4583,13 @@
 			]
 		},
 		{
+			"group": "Mai-Otome HiME - Otome Butoushi!!",
+			"titles": [
+				{"searchTerm": "Mai-Otome HiME - Otome Butoushi!!"},
+				{"searchTerm": "Mai-Otome HiME - Otome Butoushi!! (Limited Edition)", "priority": 2}
+			]
+		},
+		{
 			"group": "Major League Baseball 2K5",
 			"titles": [
 				{"searchTerm": "Major League Baseball 2K5"}
@@ -4593,14 +4609,16 @@
 			"group": "Mana Khemia 2 - Fall of Alchemy",
 			"titles": [
 				{"searchTerm": "Mana Khemia 2 - Fall of Alchemy"},
-				{"searchTerm": "Mana-Khemia 2 - Ochita Gakuen to Renkinjutsushitachi"}
+				{"searchTerm": "Mana-Khemia 2 - Ochita Gakuen to Renkinjutsushitachi"},
+				{"searchTerm": "Mana-Khemia 2 - Ochita Gakuen to Renkinjutsushitachi (Gust Best Price)", "priority": 2}
 			]
 		},
 		{
 			"group": "Mana Khemia - Alchemists of Al-Revis",
 			"titles": [
 				{"searchTerm": "Mana Khemia - Alchemists of Al-Revis"},
-				{"searchTerm": "Mana-Khemia - Gakuen no Renkinjutsushitachi"}
+				{"searchTerm": "Mana-Khemia - Gakuen no Renkinjutsushitachi"},
+				{"searchTerm": "Mana-Khemia - Gakuen no Renkinjutsushitachi (Gust Best Price)", "priority": 2}
 			]
 		},
 		{
@@ -4964,6 +4982,7 @@
 		{
 			"group": "Mister Mosquito",
 			"titles": [
+				{"searchTerm": "Ka"},
 				{"searchTerm": "Mister Mosquito"},
 				{"searchTerm": "Mr Moskeeto"}
 			]
@@ -5980,9 +5999,10 @@
 		{
 			"group": "Pucelle, La - Tactics",
 			"titles": [
+				{"searchTerm": "Pucelle, La"},
 				{"searchTerm": "Pucelle, La - Hikari no Seijo Densetsu"},
-				{"searchTerm": "Pucelle, La - Tactics"},
-				{"searchTerm": "Pucelle, La - Hikari no Seijo Densetsu - 2-shuume Hajimemashita.", "priority": 2}
+				{"searchTerm": "Pucelle, La - Hikari no Seijo Densetsu - 2-shuume Hajimemashita.", "priority": 2},
+				{"searchTerm": "Pucelle, La - Tactics"}
 			]
 		},
 		{
@@ -8574,6 +8594,20 @@
 				{"searchTerm": "Yu-Gi-Oh! Duel Monsters GX - Tag Force Evolution"},
 				{"searchTerm": "Yu-Gi-Oh! GX - Tag Force Evolution"},
 				{"searchTerm": "Yu-Gi-Oh! GX - The Beginning of Destiny"}
+			]
+		},
+		{
+			"group": "Zatch Bell! Mamodo Battles",
+			"titles": [
+				{"searchTerm": "Konjiki no Gashbell!! Yuujou Tag Battle 2"},
+				{"searchTerm": "Zatch Bell! Mamodo Battles"}
+			]
+		},
+		{
+			"group": "Zatch Bell! Mamodo Fury",
+			"titles": [
+				{"searchTerm": "Konjiki no Gashbell!! Gekitou! Saikyou no Mamonotachi"},
+				{"searchTerm": "Zatch Bell! Mamodo Fury"}
 			]
 		},
 		{
