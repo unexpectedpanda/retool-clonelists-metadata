@@ -90,7 +90,9 @@ def define_lxml_parser() -> etree.XMLParser:
     return parser
 
 
-def fast_lxml_iter(context: etree.iterparse, func: Any, *args: Any, **kwargs: Any) -> None:
+def fast_lxml_iter(
+    context: etree.iterparse, func: Any, *args: Any, **kwargs: Any
+) -> None:
     """
     Reads through XML without chewing up huge amounts of memory.
 
@@ -156,7 +158,12 @@ def get_logiqx_file_details(
     file_sha256: str = child.attrib.get('sha256', '')
 
     if digest_only:
-        file_details = {'crc': file_crc, 'md5': file_md5, 'sha1': file_sha1, 'sha256': file_sha256}
+        file_details = {
+            'crc': file_crc,
+            'md5': file_md5,
+            'sha1': file_sha1,
+            'sha256': file_sha256,
+        }
     else:
         file_details = {
             'name': file_name,
@@ -217,9 +224,11 @@ def get_logiqx_header(dat_file: pathlib.Path) -> list[str]:
                     regex_search_index_start.start() : regex_search_index_end.start()
                 ]
 
-            header = [line.replace('\r', '\n') for line in header_str.split('\n') if line != '\r'][
-                1:
-            ]
+            header = [
+                line.replace('\r', '\n')
+                for line in header_str.split('\n')
+                if line != '\r'
+            ][1:]
 
     return header
 
@@ -269,9 +278,13 @@ def get_logiqx_titles(
                     ]:
                         title.description = str(description_element[0])
 
-                    title.categories = {str(x.text) for x in element.iterchildren(tag='category')}
+                    title.categories = {
+                        str(x.text) for x in element.iterchildren(tag='category')
+                    }
 
-                    files: Iterator[etree._Element] = element.iterchildren(tag=('rom', 'disk'))
+                    files: Iterator[etree._Element] = element.iterchildren(
+                        tag=('rom', 'disk')
+                    )
                     file_type: str
 
                     if files:
@@ -281,7 +294,9 @@ def get_logiqx_titles(
                             if child.tag == 'disk':
                                 file_type = 'disk'
 
-                            file_details = get_logiqx_file_details(child, file_type, ra_digest_only)
+                            file_details = get_logiqx_file_details(
+                                child, file_type, ra_digest_only
+                            )
 
                             # Check for at least one digest in the file
                             if file_details['name'] and (
@@ -325,7 +340,9 @@ def get_logiqx_titles(
                         # Exclude CUE or GDI files, which can change digests if the
                         # file name changes
                         if not any(x in child.attrib['name'] for x in ('.cue', '.gdi')):
-                            file_details = get_logiqx_file_details(child, '', ra_digest_only)
+                            file_details = get_logiqx_file_details(
+                                child, '', ra_digest_only
+                            )
 
                     # Check for at least one digest in the file
                     if file_details:

@@ -5,8 +5,14 @@ import re
 import sys
 import zipfile
 
-from lxml import etree, html as html_ # type: ignore
-from modules.parse_dat import TitleData, define_lxml_parser, get_logiqx_header, get_logiqx_titles
+from lxml import etree  # type: ignore
+from lxml import html as html_
+from modules.parse_dat import (
+    TitleData,
+    define_lxml_parser,
+    get_logiqx_header,
+    get_logiqx_titles,
+)
 from modules.utils import Font, download, eprint, update_hash, validate_json
 
 
@@ -52,7 +58,6 @@ def update_ra(download_location: str) -> None:
 
         with zipfile.ZipFile(local_file) as zip_file:
             for member in zip_file.infolist():
-
                 if member.is_dir():
                     continue
 
@@ -60,7 +65,9 @@ def update_ra(download_location: str) -> None:
                     'UGA_RA_DATs-main/DATs/RetroAchievements (No Subfolders)/'
                     in member.filename
                 ):
-                    member.filename = re.sub('^RA - ', '', pathlib.Path(member.filename).name)
+                    member.filename = re.sub(
+                        '^RA - ', '', pathlib.Path(member.filename).name
+                    )
                     zip_file.extract(member, local_path)
 
         pathlib.Path(local_file).unlink()
@@ -84,7 +91,9 @@ def update_ra(download_location: str) -> None:
                 )
 
                 if element.tag == 'name':
-                    system_name: str = element.text if element.text is not None else 'Unknown'
+                    system_name: str = (
+                        element.text if element.text is not None else 'Unknown'
+                    )
                     break
 
             system_name = re.sub('^RA - ', '', system_name)
@@ -171,7 +180,8 @@ def update_ra(download_location: str) -> None:
                 title_digests: list[dict[str, str]] = [
                     digest
                     for digest in title.files
-                    if digest != {'crc': '', 'md5': '', 'sha1': '', 'sha256': ''} and digest != {}
+                    if digest != {'crc': '', 'md5': '', 'sha1': '', 'sha256': ''}
+                    and digest != {}
                 ]
 
                 for title_digest in title_digests:
@@ -193,7 +203,9 @@ def update_ra(download_location: str) -> None:
                             retroachievements_title: The RetroAchievements title.
                         """
                         if title_digest[digest_type]:
-                            retroachievements_title[digest_type] = title_digest[digest_type]
+                            retroachievements_title[digest_type] = title_digest[
+                                digest_type
+                            ]
 
                     populate_digests('crc')
                     populate_digests('md5')
@@ -211,7 +223,9 @@ def update_ra(download_location: str) -> None:
             )
 
             # Write the file
-            with open(f'{local_path}/{system_name}.json', 'w', encoding='utf-8') as ra_file:
+            with open(
+                f'{local_path}/{system_name}.json', 'w', encoding='utf-8'
+            ) as ra_file:
                 ra_file.write(f'{json_file}\n')
 
             with open(f'{local_path}/{system_name}.json', encoding='utf-8') as ra_file:
@@ -226,7 +240,9 @@ def update_ra(download_location: str) -> None:
 
             for system, duplicate in merged_systems.items():
                 if system == system_name:
-                    with open(f'{local_path}/{duplicate}.json', 'w', encoding='utf-8') as ra_file:
+                    with open(
+                        f'{local_path}/{duplicate}.json', 'w', encoding='utf-8'
+                    ) as ra_file:
                         ra_file.write(f'{json_file}\n')
 
         # Remove the DAT files
