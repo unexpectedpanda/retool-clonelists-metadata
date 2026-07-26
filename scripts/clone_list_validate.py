@@ -215,14 +215,12 @@ def get_comments(
         'X-GitHub-Api-Version': '2022-11-28',
     }
 
-    data: dict[str, int | str] = {}
-
     try:
         comments = requests.get(
             f'https://api.github.com/repos/unexpectedpanda/retool-clonelists-metadata/pulls/{pr_number}/comments',
             headers=headers,
-            json=data,
         )
+        comments.raise_for_status()
     except requests.exceptions.Timeout:
         request_retry(
             get_comments,
@@ -263,6 +261,10 @@ def get_comments(
                 personal_access_token=personal_access_token,
                 pr_number=pr_number,
             )
+        else:
+            print(f'Failed to get comments ({e.response.status_code}): {e}')
+            print(f'Response body: {e.response.text}')
+            sys.exit(1)
     except Exception as e:
         print(e)
         sys.exit(1)
@@ -320,7 +322,12 @@ def main() -> None:
     comments = get_comments(personal_access_token, pr_number)
 
     # Get the comments response down to something more manageable
-    existing_comments: list[Any] = json.loads(comments.content)
+    existing_comments: Any = json.loads(comments.content)
+
+    if not isinstance(existing_comments, list):
+        print(f'Unexpected response shape from GitHub: {existing_comments}')
+        sys.exit(1)
+
     refined_comments: defaultdict[str, dict[int, list[str]]] = defaultdict(
         lambda: defaultdict(list)
     )

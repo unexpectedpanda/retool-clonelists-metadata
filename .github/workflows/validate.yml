@@ -1,6 +1,6 @@
 name: Clone list validator
 on:
-  pull_request_target:
+  pull_request:
     types: [opened, synchronize, reopened]
   workflow_dispatch:
     inputs:
@@ -23,20 +23,16 @@ jobs:
       run: |
         git config user.name "GitHub Actions Bot"
         git config user.email "<>"
-    - name: Checkout clone lists repo
-      uses: actions/checkout@v7
-      with:
-        path: retool-clonelists-metadata
     - name: Install uv
-      uses: astral-sh/setup-uv@v7
+      uses: astral-sh/setup-uv@v9
       with:
         enable-cache: true
     - name: Install Hatch
       run: uv tool install hatch
     - name: Validate clone list
       env:
-        PR_NUMBER: ${{ github.event.number }}
+        PR_NUMBER: ${{ github.event.number || inputs.pr_number }}
         COMMIT_ID: ${{ github.event.pull_request.head.sha || github.sha }}
-        CLONELISTS_PAT: ${{secrets.CLONELISTS_PAT}}
+        CLONELISTS_PAT: ${{ secrets.CLONELISTS_PAT }}
       run: |
-        hatch run python3 -u retool-clonelists-metadata/scripts/clone_list_validate.py
+        hatch run python -u scripts/clone_list_validate.py
