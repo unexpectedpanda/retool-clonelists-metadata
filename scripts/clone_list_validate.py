@@ -101,7 +101,7 @@ def add_comment(
         print('=========== END COMMENT ===========')
 
         # Catch checks for duplicate searchTerms or groups, which have to iterate through
-        # multiple lines
+        # multiple lines.
         if dupe_check:
             return comment_post.status_code
 
@@ -142,7 +142,7 @@ def add_comment(
             # Most likely this error is caused by trying to post to an unchanged line.
             # Attach the comment to the file instead.
             if line_number == 0:
-                # Already attempted to comment on file
+                # Already attempted to comment on file.
                 print('Commenting on file failed.')
             else:
                 print('Attempting to comment on file...')
@@ -190,6 +190,26 @@ def add_comment(
         sys.exit(1)
 
     return comment_post.status_code
+
+
+ALLOWED_PREFIXES = ('clonelists/',)
+
+def filter_clone_list_files(diff_output: list[str]) -> list[str]:
+    """Filters a git diff file list down to allow-listed clone list data files."""
+
+    return [
+        f for f in diff_output
+        if f.startswith(ALLOWED_PREFIXES) and f.endswith('.json') and 'hash.json' not in f
+    ]
+
+
+def git_diff_names(*args: str) -> list[str]:
+    """Runs `git diff --name-only` with the given extra args and returns the result."""
+    return (
+        subprocess.run(['git', 'diff', '--name-only', *args], stdout=subprocess.PIPE)
+        .stdout.decode('utf-8')
+        .split('\n')
+    )
 
 
 def get_comments(
@@ -284,10 +304,10 @@ def request_retry(func: Any, **kwargs: Any) -> None:
     Returns:
         requests.models.Response: The response from the MobyGames API.
     """
-    # Progressively increase the timeout (in seconds) with each retry
+    # Progressively increase the timeout (in seconds) with each retry.
     progressive_timeout: list[int] = [0, 60, 300, -1]
 
-    # Set an empty response with a mock error code
+    # Set an empty response with a mock error code.
     response: requests.models.Response = requests.models.Response()
     response.status_code = 418
 
@@ -311,17 +331,17 @@ def request_retry(func: Any, **kwargs: Any) -> None:
 
 
 def main() -> None:
-    # Get the pull request number
+    # Get the pull request number.
     pr_number: str | None = os.getenv('PR_NUMBER')
     commit_id: str | None = os.getenv('COMMIT_ID')
     personal_access_token: str | None = os.getenv('CLONELISTS_PAT')
     response: int = 0
 
-    # Get existing comments
+    # Get existing comments.
     print('=========== START EXISTING COMMENTS ===========')
     comments = get_comments(personal_access_token, pr_number)
 
-    # Get the comments response down to something more manageable
+    # Get the comments response down to something more manageable.
     existing_comments: Any = json.loads(comments.content)
 
     if not isinstance(existing_comments, list):
@@ -343,36 +363,22 @@ def main() -> None:
     print(json.dumps(refined_comments, indent=2))
     print('=========== END EXISTING COMMENTS ===========')
 
-    # Get uncommitted Git changes
-    files = (
-        subprocess.run(['git', 'diff', '--name-only'], stdout=subprocess.PIPE)
-        .stdout.decode('utf-8')
-        .split('\n')
-    )
-    files = [x for x in files if 'clonelists' in x]
+    # Diff the main branch against the fetched PR data.
+    files: list[str] = []
 
-    if not files:
-        # Compare current commit and previous commit to get files that have changed
-        if sys.platform.startswith('win'):
-            files = (
-                subprocess.run(
-                    ['git', 'diff', 'HEAD~', 'HEAD', '--name-only'],
-                    stdout=subprocess.PIPE,
-                )
-                .stdout.decode('utf-8')
-                .split('\n')
-            )
-        else:
-            files = (
-                subprocess.run(
-                    ['git', 'diff', 'HEAD^', 'HEAD', '--name-only'],
-                    stdout=subprocess.PIPE,
-                )
-                .stdout.decode('utf-8')
-                .split('\n')
-            )
+    if os.getenv('GITHUB_ACTIONS') == 'true':
+        # CI: Securely diff and extract from the fetched PR ref.
+        files = filter_clone_list_files(git_diff_names('origin/main...pr-head'))
 
-    files = [x for x in files if 'clonelists' in x]
+        # Extract safe files from the PR into the trusted workspace.
+        for f in files:
+            subprocess.run(['git', 'checkout', 'pr-head', '--', f], check=True)
+    else:
+        # Local dev: Use uncommitted changes first, then fall back to whole local branch.
+        files = filter_clone_list_files(git_diff_names())
+
+        if not files:
+            files = filter_clone_list_files(git_diff_names('origin/main...HEAD'))
 
     test_succeeded: bool = True
 
@@ -452,7 +458,7 @@ def main() -> None:
                         '..variants..titles', ''
                     )
 
-                # Extract the comment value
+                # Extract the comment value.
                 jsonpath_expr = jsonpath_ng.parse(parent_comment_json_path)
                 parent_comments = [match.value for match in jsonpath_expr.find(schema)]
 
@@ -464,20 +470,24 @@ def main() -> None:
                 elif parent_comment:
                     comment = parent_comment
 
-                # Find the line in the JSON where the error took place
+                # Find the line in the JSON where the error took place.
                 source_map = json_source_map.calculate(cloneliststr)
                 error_line = source_map[error_path].value_start.line + 1
 
-                # Add comments for GitHub
-                error_messages[error_line].setdefault('comment', comment)
+                # Add comments for GitHub.
+                error_messages[error_line].setdefault('comment', '')
+                error_messages[error_line].setdefault('seen_comments', set())
 
-                if error_messages[error_line]['comment'] != comment:
-                    error_messages[error_line]['comment'] = (
-                        f'{error_messages[error_line]["comment"]}\n\n{comment}'
-                    )
+                if comment not in error_messages[error_line]['seen_comments']:
+                    error_messages[error_line]['seen_comments'].add(comment)
+
+                    if error_messages[error_line]['comment']:
+                        error_messages[error_line]['comment'] += f'\n\n{comment}'
+                    else:
+                        error_messages[error_line]['comment'] = comment
 
                 # Pull languages out of the appropriate $ref if localNames is being
-                # queried
+                # queried.
                 if 'localNames' in error.json_path:
                     local_names_expr = jsonpath_ng.parse('$..languages..properties')
                     local_names = [match.value for match in local_names_expr.find(schema)]
@@ -497,7 +507,7 @@ def main() -> None:
                     )
 
                 # Pull regions out of the appropriate $ref if matchRegions is being
-                # queried
+                # queried.
                 if (
                     'matchRegions' in error.json_path
                     or 'higherRegions' in error.json_path
@@ -514,7 +524,7 @@ def main() -> None:
                         f'{error_messages[error_line]["comment"]}\n\nThe valid regions are as follows:\n\n`{region_names_str}`'
                     )
 
-                # Add the JSON schema error messages
+                # Add the JSON schema error messages.
                 error_messages[error_line].setdefault('errors', []).append(error.message)
 
             if error_messages:
@@ -541,7 +551,7 @@ def main() -> None:
                         line_number=line_number,
                     )
 
-            # Check for duplicate titles.searchTerm values
+            # Check for duplicate titles.searchTerm values.
             jsonpath_expr = jsonpath_ng.parse('$..titles..searchTerm')
             titles_searchterms = [match.value for match in jsonpath_expr.find(clonelist)]
             seen: set[str] = set()
@@ -599,7 +609,7 @@ def main() -> None:
                     else:
                         break
 
-            # Check that groups aren't listed more than once
+            # Check that groups aren't listed more than once.
             jsonpath_expr = jsonpath_ng.parse('$..variants[*].group')
             groups = [match.value for match in jsonpath_expr.find(clonelist)]
 

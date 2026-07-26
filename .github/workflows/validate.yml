@@ -1,6 +1,6 @@
 name: Clone list validator
 on:
-  pull_request:
+  pull_request_target:
     types: [opened, synchronize, reopened]
   workflow_dispatch:
     inputs:
@@ -12,27 +12,38 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: read
-      pull-requests: write # Required to post comments and reviews
+      pull-requests: write
     steps:
-    - name: Git checkout
-      uses: actions/checkout@v7
-      with:
-        fetch-depth: '0'
-    - name: Set up git
-      # Set up the Git username and email
-      run: |
-        git config user.name "GitHub Actions Bot"
-        git config user.email "<>"
-    - name: Install uv
-      uses: astral-sh/setup-uv@v7
-      with:
-        enable-cache: true
-    - name: Install Hatch
-      run: uv tool install hatch
-    - name: Validate clone list
-      env:
-        PR_NUMBER: ${{ github.event.number || inputs.pr_number }}
-        COMMIT_ID: ${{ github.event.pull_request.head.sha || github.sha }}
-        CLONELISTS_PAT: ${{ secrets.CLONELISTS_PAT }}
-      run: |
-        hatch run python -u scripts/clone_list_validate.py
+      - name: Git checkout main
+        uses: actions/checkout@v7
+        with:
+          fetch-depth: '0'
+      - name: Resolve PR info
+        id: pr
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          PR_NUMBER="${{ github.event.number || inputs.pr_number }}"
+          HEAD_SHA=$(gh pr view "$PR_NUMBER" --repo "${{ github.repository }}" --json headRefOid -q .headRefOid)
+          echo "number=$PR_NUMBER" >> "$GITHUB_OUTPUT"
+          echo "sha=$HEAD_SHA" >> "$GITHUB_OUTPUT"
+      - name: Fetch PR head
+        run: git fetch origin pull/${{ steps.pr.outputs.number }}/head:pr-head
+      - name: Set up git
+        # Set up the Git username and email
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "<>"
+      - name: Install uv
+        uses: astral-sh/setup-uv@v8
+        with:
+          enable-cache: true
+      - name: Install Hatch
+        run: uv tool install hatch
+      - name: Validate clone list
+        env:
+          PR_NUMBER: ${{ steps.pr.outputs.number }}
+          COMMIT_ID: ${{ steps.pr.outputs.sha }}
+          CLONELISTS_PAT: ${{ secrets.CLONELISTS_PAT }}
+        run: |
+          hatch run python -u scripts/clone_list_validate.py
