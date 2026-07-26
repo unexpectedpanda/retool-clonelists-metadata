@@ -138,8 +138,7 @@
 		"languages": ["En", "Es", "Fr"]
 	},
 	"1945 I & II (Europe) (En,Fr,De,Es,It)": {
-		"languages": ["De", "En", "Es", "Fr", "It"],
-		"localName": "1945 I & II - The Arcade Games"
+		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"2000-2001 Winter Lineup (Japan)": {
 		"languages": ["Ja"],
@@ -464,9 +463,6 @@
 	"ATV Offroad Fury 4 (Europe) (En,Fr,De,Es,It,Pt,Pl,Ru,El)": {
 		"languages": ["De", "El", "En", "Es", "Fr", "It", "Pl", "Pt", "Ru"]
 	},
-	"ATV Offroad Fury 4 (USA)": {
-		"languages": ["En"]
-	},
 	"ATV Offroad Fury 4 (USA) (Demo 1)": {
 		"languages": ["En"]
 	},
@@ -479,7 +475,14 @@
 	"ATV Offroad Fury 4 (USA) (Layer 1) (Beta) (2006-10-02)": {
 		"languages": ["En"]
 	},
+	"ATV Offroad Fury 4 (USA, Canada)": {
+		"languages": ["En"]
+	},
 	"Aa Megami-sama (Japan)": {
+		"languages": ["Ja"],
+		"localName": "ああっ女神さまっ"
+	},
+	"Aa Megami-sama (Japan) (Shokai Gentei Seisanban)": {
 		"languages": ["Ja"],
 		"localName": "ああっ女神さまっ"
 	},
@@ -605,6 +608,9 @@
 	"Action Replay Max (USA) (Unl) (v3.10)": {
 		"languages": ["En"]
 	},
+	"Action Replay Max (USA) (Unl) (v3.30)": {
+		"languages": ["En"]
+	},
 	"Action Replay Max (USA) (Unl) (v3.34)": {
 		"languages": []
 	},
@@ -653,6 +659,9 @@
 	"Action Replay Ultimate Cheats for True Crime - Streets of LA (UK) (Unl)": {
 		"languages": []
 	},
+	"Action Replay Ultimate Cheats for Use with Driver 3 (UK)": {
+		"languages": ["En"]
+	},
 	"Action Replay Ultimate Cheats for Use with Final Fantasy X-2 (UK) (Unl)": {
 		"languages": ["En"]
 	},
@@ -668,7 +677,7 @@
 	"Action Replay Ultimate Cheats for Use with Lara Croft Tomb Raider - The Angel of Darkness (UK) (Unl)": {
 		"languages": []
 	},
-	"Action Replay Ultimate Cheats for Use with Medal Of Honor - Rising Sun (UK) (Unl)": {
+	"Action Replay Ultimate Cheats for Use with Medal of Honor - Rising Sun (UK) (Unl)": {
 		"languages": []
 	},
 	"Action Replay Ultimate Cheats for Use with Metal Gear Solid 3 - Snake Eater (UK) (Unl)": {
@@ -857,7 +866,11 @@
 	},
 	"After... Wasureenu Kizuna (Japan)": {
 		"languages": ["Ja"],
-		"localName": "Ａｆｔｅｒ．．．～　忘れえぬ絆～"
+		"localName": "Ａｆｔｅｒ…　～　忘れえぬ絆～"
+	},
+	"After... Wasureenu Kizuna (Japan) (Shokai Genteiban)": {
+		"languages": ["Ja"],
+		"localName": "Ａｆｔｅｒ…　～　忘れえぬ絆～"
 	},
 	"Agassi Tennis Generation (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -1383,11 +1396,11 @@
 	},
 	"Ao no mama de... (Japan)": {
 		"languages": ["Ja"],
-		"localName": "蒼のままで⋯⋯"
+		"localName": "蒼のままで……"
 	},
 	"Ao no mama de... (Japan) (Treasure Box)": {
 		"languages": ["Ja"],
-		"localName": "蒼のままで⋯⋯"
+		"localName": "蒼のままで……"
 	},
 	"Aoi Shiro (Japan)": {
 		"languages": ["Ja"],
@@ -1485,7 +1498,7 @@
 	"Aqua Teen Hunger Force - Zombie Ninja Pro-Am (Europe)": {
 		"languages": ["En"]
 	},
-	"Aqua Teen Hunger Force - Zombie Ninja Pro-Am (USA)": {
+	"Aqua Teen Hunger Force - Zombie Ninja Pro-Am (USA, Canada)": {
 		"languages": ["En"]
 	},
 	"Aquaqua (Japan)": {
@@ -1781,7 +1794,7 @@
 	},
 	"Armored Core 3 (Korea)": {
 		"languages": ["Ko"],
-		"localName": "아머드 코어　３"
+		"localName": "아머드 코어 3"
 	},
 	"Armored Core 3 (USA)": {
 		"languages": ["En"]
@@ -1792,7 +1805,7 @@
 	},
 	"Armored Core 3 - Silent Line (Korea)": {
 		"languages": ["Ko"],
-		"localName": "아머드 코어　３　사일런트 라인"
+		"localName": "아머드 코어 3 사일런트 라인"
 	},
 	"Army Men - Air Attack - Blade's Revenge (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -2712,7 +2725,8 @@
 		"localName": "バイオハザード４"
 	},
 	"Biohazard 4 (Korea)": {
-		"languages": ["En"]
+		"languages": ["En"],
+		"localName": "바이오하자드 4"
 	},
 	"Bionicle (Europe) (En,Fr,De,Es,It,Da)": {
 		"languages": ["Da", "De", "En", "Es", "Fr", "It"]
@@ -3058,8 +3072,7 @@
 		"languages": []
 	},
 	"Bonus Demo 10 (You) (Europe) (En,Fr,De,Es,It)": {
-		"languages": ["De", "En", "Es", "Fr", "It"],
-		"localName": "bonus demo 10 (you)"
+		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Bonus Demo 11 (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -3068,8 +3081,7 @@
 		"languages": []
 	},
 	"Bonus Demo 11m (Europe) (En,Fr,De,Es,It)": {
-		"languages": ["De", "En", "Es", "Fr", "It"],
-		"localName": "Bonus Demo 11 (Old)"
+		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Bonus Demo 12 (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -3078,8 +3090,7 @@
 		"languages": []
 	},
 	"Bonus Demo 12m (Europe) (En,Fr,De,Es,It)": {
-		"languages": ["De", "En", "Es", "Fr", "It"],
-		"localName": "Bonus Demo 12 (Old)"
+		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Bonus Demo 4 (Europe)": {
 		"languages": ["En"]
@@ -3150,7 +3161,7 @@
 		"languages": ["Ja"],
 		"localName": "バウンサー"
 	},
-	"Bouncer, The (USA) (En,Ja)": {
+	"Bouncer, The (USA, Canada) (En,Ja)": {
 		"languages": ["En", "Ja"]
 	},
 	"Bowling Xciting (Europe)": {
@@ -3449,10 +3460,10 @@
 		"languages": ["En"],
 		"localName": "번아웃3 테이크다운"
 	},
-	"Burnout 3 - Takedown (USA)": {
+	"Burnout 3 - Takedown (USA) (Demo)": {
 		"languages": ["En"]
 	},
-	"Burnout 3 - Takedown (USA) (Demo)": {
+	"Burnout 3 - Takedown (USA, Canada)": {
 		"languages": ["En"]
 	},
 	"Burnout Dominator (Asia)": {
@@ -3473,7 +3484,7 @@
 		"languages": ["En"],
 		"localName": "번아웃 도미네이터"
 	},
-	"Burnout Dominator (USA)": {
+	"Burnout Dominator (USA, Canada)": {
 		"languages": ["En"]
 	},
 	"Burnout Revenge (Asia)": {
@@ -3500,10 +3511,10 @@
 		"languages": ["Ko"],
 		"localName": "번아웃 리벤지"
 	},
-	"Burnout Revenge (USA)": {
+	"Burnout Revenge (USA) (Demo)": {
 		"languages": ["En"]
 	},
-	"Burnout Revenge (USA) (Demo)": {
+	"Burnout Revenge (USA, Canada)": {
 		"languages": ["En"]
 	},
 	"Busin - Wizardry Alternative (Japan)": {
@@ -3850,23 +3861,14 @@
 	"CART Fury - Championship Racing (USA)": {
 		"languages": ["En"]
 	},
-	"CD avec les Codes Exclusifs et inedits de Grand Theft Auto - Vice City (France) (Unl)": {
-		"languages": ["Fr"]
-	},
-	"CD avec les Codes Exclusifs et inedits de Harry Potter et la Chambre des Secrets (France) (Unl)": {
-		"languages": []
-	},
-	"CD avec les Codes Exclusifs et inedits de le Seigneur des Anneaux - Les Deux Tours (France) (Unl)": {
-		"languages": []
-	},
-	"CD avec les codes Action Replay exclusivement pour le Jeu Gran Turismo 4 (France) (Unl)": {
-		"languages": []
-	},
 	"CD avec les codes Action Replay exclusivement pour le jeu Driver 3 (France) (Unl)": {
 		"languages": ["Fr"]
 	},
 	"CD avec les codes Action Replay exclusivement pour le jeu Enter the Matrix (France) (Unl)": {
 		"languages": ["Fr"]
+	},
+	"CD avec les codes Action Replay exclusivement pour le jeu Gran Turismo 4 (France) (Unl)": {
+		"languages": []
 	},
 	"CD avec les codes Action Replay exclusivement pour le jeu Grand Theft Auto - San Andreas (France) (Unl)": {
 		"languages": []
@@ -3888,6 +3890,15 @@
 	},
 	"CD avec les codes exclusifs et inedits de Dragon Ball Z - Budokai (France) (Unl)": {
 		"languages": ["Fr"]
+	},
+	"CD avec les codes exclusifs et inedits de Grand Theft Auto - Vice City (France) (Unl)": {
+		"languages": ["Fr"]
+	},
+	"CD avec les codes exclusifs et inedits de Harry Potter et la Chambre des Secrets (France) (Unl)": {
+		"languages": []
+	},
+	"CD avec les codes exclusifs et inedits de le Seigneur des Anneaux - Les Deux Tours (France) (Unl)": {
+		"languages": []
 	},
 	"CID the Dummy (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -4020,7 +4031,7 @@
 		"languages": ["En", "Fr"],
 		"localName": "콜 오브 듀티 - 월드 앳 워　파이널 프론트"
 	},
-	"Call of Duty - World at War - Final Fronts (USA) (En,Fr)": {
+	"Call of Duty - World at War - Final Fronts (USA, Canada) (En,Fr)": {
 		"languages": ["En", "Fr"]
 	},
 	"Call of Duty 2 - Big Red One (Europe)": {
@@ -4318,10 +4329,10 @@
 	"Champions of Norrath (USA)": {
 		"languages": ["En"]
 	},
-	"Champions of Norrath - Realms of EverQuest (USA) (Demo)": {
+	"Champions of Norrath - Realms of EverQuest (USA) (Beta) (2003-10-29)": {
 		"languages": ["En"]
 	},
-	"Champions of Norrath - Realms of Everquest (USA) (Beta) (2003-10-29)": {
+	"Champions of Norrath - Realms of EverQuest (USA) (Demo)": {
 		"languages": ["En"]
 	},
 	"Championship Manager 2006 (Europe) (En,Fr,Es,It,Pt)": {
@@ -5122,7 +5133,7 @@
 	"Corvette (USA)": {
 		"languages": ["En"]
 	},
-	"Corvette Evolution GT (USA)": {
+	"Corvette Evolution GT (USA, Canada)": {
 		"languages": ["En"]
 	},
 	"Counter Terrorist Special Forces - Fire for Effect (Europe) (En,Fr,De,Es,It)": {
@@ -5426,6 +5437,10 @@
 		"languages": ["Ja"],
 		"localName": "カルドセプト　セカンド　エキスパンション"
 	},
+	"Culdcept II Expansion (Korea)": {
+		"languages": ["Ko"],
+		"localName": "컬드셉트 세컨드 익스팬션"
+	},
 	"Curious George (Asia)": {
 		"languages": ["En"]
 	},
@@ -5570,19 +5585,19 @@
 	},
 	"DESR-7000-DESR-5000 Sen'you - PSX Update Disc Ver. 1.10 (Japan)": {
 		"languages": ["Ja"],
-		"localName": "ＤＥＳＲ－７０００－ＤＥＳＲ－５０００専用　－＇ＰＳＸ－＇アップデートディスクＶｅｒ．１．１０"
+		"localName": "ＤＥＳＲ－７０００－ＤＥＳＲ－５０００専用　＇ＰＳＸ＇アップデートディスクＶｅｒ．１．１０"
 	},
 	"DESR-7000-DESR-5000 Sen'you - PSX Update Disc Ver. 1.20 (Japan)": {
 		"languages": ["Ja"],
-		"localName": "ＤＥＳＲ－７０００－ＤＥＳＲ－５０００専用　－＇ＰＳＸ－＇アップデートディスクＶｅｒ．１．２０"
+		"localName": "ＤＥＳＲ－７０００－ＤＥＳＲ－５０００専用　＇ＰＳＸ＇アップデートディスクＶｅｒ．１．２０"
 	},
 	"DESR-7000-DESR-5000-DESR-7100-DESR-5100 Sen'you - PSX Update Disc Ver. 1.31 (Japan)": {
 		"languages": ["Ja"],
-		"localName": "ＤＥＳＲ－７０００－ＤＥＳＲ－５０００－ＤＥＳＲ－７１００－ＤＥＳＲ－５１００専用　－＇ＰＳＸ－＇アップデートディスクＶｅｒ．１．３１"
+		"localName": "ＤＥＳＲ－７０００－ＤＥＳＲ－５０００－ＤＥＳＲ－７１００－ＤＥＳＲ－５１００専用　＇ＰＳＸ＇アップデートディスクＶｅｒ．１．３１"
 	},
 	"DESR-7500-DESR-5500-DESR-7700-DESR-5700 Sen'you - PSX Update Disc Ver. 2.11 (Japan)": {
 		"languages": ["Ja"],
-		"localName": "ＤＥＳＲ－７５００－ＤＥＳＲ－５５００－ＤＥＳＲ－７７００－ＤＥＳＲ－５７００専用　－＇ＰＳＸ－＇アップデートディスクＶｅｒ．２．１１"
+		"localName": "ＤＥＳＲ－７５００－ＤＥＳＲ－５５００－ＤＥＳＲ－７７００－ＤＥＳＲ－５７００専用　＇ＰＳＸ＇アップデートディスクＶｅｒ．２．１１"
 	},
 	"DICE - DNA Integrated Cybernetic Enterprises (USA)": {
 		"languages": ["En"]
@@ -5641,7 +5656,7 @@
 	"DT Racer (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"DT Racer (USA)": {
+	"DT Racer (USA, Canada)": {
 		"languages": ["En"]
 	},
 	"DTM Race Driver (Europe) (En,Fr,De) (v1.01)": {
@@ -5867,10 +5882,10 @@
 	"Dance Factory (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Dance Factory (USA)": {
+	"Dance Factory (USA) (Trade Demo)": {
 		"languages": ["En"]
 	},
-	"Dance Factory (USA) (Trade Demo)": {
+	"Dance Factory (USA, Canada)": {
 		"languages": ["En"]
 	},
 	"Dance Fest (Europe) (En,Fr,De,Es,It,Nl)": {
@@ -6359,11 +6374,11 @@
 	"Dengeki PlayStation D40 - Konami Fan Book (Japan)": {
 		"languages": ["Ja"]
 	},
-	"Dennou Senki - Virtual-On Marz (Japan)": {
+	"Dennou Senki - Virtual-On Marz (Japan) (Taikenban)": {
 		"languages": ["Ja"],
 		"localName": "電脳戦機バーチャロン　マーズ"
 	},
-	"Dennou Senki - Virtual-On Marz (Japan) (Taikenban)": {
+	"Dennou Senki - Virtual-On Marz (Japan, Korea)": {
 		"languages": ["Ja"],
 		"localName": "電脳戦機バーチャロン　マーズ"
 	},
@@ -6400,6 +6415,10 @@
 		"localName": "電車でＧＯ！　旅情編"
 	},
 	"Densha de Go! Shinkansen - San'you Shinkansen-hen (Japan) (Taikenban)": {
+		"languages": ["Ja"],
+		"localName": "電車でＧＯ！　新幹線　山陽新幹線編"
+	},
+	"Densha de Go! Shinkansen - San'you Shinkansen-hen (Japan) (v1.06)": {
 		"languages": ["Ja"],
 		"localName": "電車でＧＯ！　新幹線　山陽新幹線編"
 	},
@@ -7144,13 +7163,13 @@
 	"Disney-Pixar Cars - Mater-National Championship (Scandinavia) (En,Sv,No,Da)": {
 		"languages": ["Da", "En", "No", "Sv"]
 	},
-	"Disney-Pixar Cars - Mater-National Championship (USA)": {
+	"Disney-Pixar Cars - Mater-National Championship (USA, Canada)": {
 		"languages": ["En"]
 	},
 	"Disney-Pixar Cars - Race-O-Rama (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Disney-Pixar Cars - Race-O-Rama (USA)": {
+	"Disney-Pixar Cars - Race-O-Rama (USA, Canada)": {
 		"languages": []
 	},
 	"Disney-Pixar Die Monster AG - Schreckens-Insel (Germany)": {
@@ -7179,8 +7198,7 @@
 		"languages": ["En"]
 	},
 	"Disney-Pixar Gli Incredibili (Italy)": {
-		"languages": ["It"],
-		"localName": "Disney presenta un film Pixar - Gli Incredibili - Una -'normale-' famiglia di supereroi"
+		"languages": ["It"]
 	},
 	"Disney-Pixar Istoriya Igrushek - Bol'shoj Pobeg (Russia)": {
 		"languages": ["Ru"],
@@ -7905,14 +7923,14 @@
 	"DreamWorks & Aardman Flushed Away (USA) (Demo)": {
 		"languages": ["En"]
 	},
+	"DreamWorks Bee Movie Game (Canada) (En,Fr)": {
+		"languages": ["En", "Fr"]
+	},
 	"DreamWorks Bee Movie Game (Europe, Australia) (En,Fr,De,Es,It,Nl)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
 	},
 	"DreamWorks Bee Movie Game (USA)": {
 		"languages": ["En"]
-	},
-	"DreamWorks Bee Movie Game (USA, Canada) (En,Fr)": {
-		"languages": ["En", "Fr"]
 	},
 	"DreamWorks Kung Fu Panda (Europe) (De,Es)": {
 		"languages": ["De", "Es"]
@@ -8081,7 +8099,7 @@
 		"languages": ["En", "Ko"],
 		"localName": "드라이버 3"
 	},
-	"Driv3r (USA) (En,Fr,Es)": {
+	"Driv3r (USA, Canada) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
 	},
 	"Drive to Survive (USA)": {
@@ -8113,13 +8131,13 @@
 		"languages": ["En", "Ko"],
 		"localName": "드라이버 - 패럴렐 라인즈"
 	},
-	"Driver - Parallel Lines (USA)": {
-		"languages": []
-	},
 	"Driver - Parallel Lines (USA) (Demo)": {
 		"languages": []
 	},
 	"Driver - Parallel Lines (USA) (Limited Edition)": {
+		"languages": []
+	},
+	"Driver - Parallel Lines (USA, Canada)": {
 		"languages": []
 	},
 	"Driving Emotion Type-S (Europe) (En,Fr,De,Es,It)": {
@@ -9857,6 +9875,9 @@
 		"languages": ["Ja"],
 		"localName": "ファンタスティックフォーチュン　２　トリプルスター"
 	},
+	"Fantastic Four (USA) (Beta) (2003-08-29)": {
+		"languages": []
+	},
 	"Fantastic Four - Rise of the Silver Surfer (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
@@ -9893,8 +9914,11 @@
 	"Fast and the Furious, The (Europe)": {
 		"languages": ["En"]
 	},
-	"Fast and the Furious, The (USA)": {
+	"Fast and the Furious, The (USA) (v1.01)": {
 		"languages": ["En"]
+	},
+	"Fast and the Furious, The (USA) (v3.00)": {
+		"languages": []
 	},
 	"Fatal Frame (Asia)": {
 		"languages": ["En"]
@@ -10472,6 +10496,9 @@
 	"Forbidden Siren 2 (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
+	"Forbidden Siren 2 (Europe) (En,Fr,De,Es,It) (Demo)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
 	"Ford Bold Moves Street Racing (USA)": {
 		"languages": ["En"]
 	},
@@ -10481,7 +10508,7 @@
 	"Ford Mustang - The Legend Lives (USA)": {
 		"languages": ["En"]
 	},
-	"Ford Racing - Off Road (USA)": {
+	"Ford Racing - Off Road (USA, Canada)": {
 		"languages": ["En"]
 	},
 	"Ford Racing 2 (Europe) (En,Fr,De,Es,It)": {
@@ -11346,6 +11373,9 @@
 		"languages": []
 	},
 	"GamePro Action Disc Oct 2003 - Metal Gear Solid 3 (USA) (Unl)": {
+		"languages": []
+	},
+	"GameShark - GSLite (USA) (Unl)": {
 		"languages": []
 	},
 	"GameShark - Game Codes (USA) (Unl) (v5.5)": {
@@ -12293,13 +12323,13 @@
 		"languages": ["Zh"],
 		"localName": "跑车浪漫旅 4"
 	},
-	"Gran Turismo 4 (Europe) (BMW 1 Series Virtual Drive)": {
-		"languages": []
-	},
 	"Gran Turismo 4 (Europe) (Beta) (2005-01-18)": {
 		"languages": []
 	},
 	"Gran Turismo 4 (Europe) (En,Fr,De,Es,It) (BMW 1 Series Virtual Drive Dealership)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Gran Turismo 4 (Europe) (En,Fr,De,Es,It) (BMW 1 Series Virtual Drive)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Gran Turismo 4 (Europe, Australia) (En,Fr,De,Es,It)": {
@@ -12317,10 +12347,10 @@
 	"Gran Turismo 4 (USA) (Beta) (2006-06-06)": {
 		"languages": ["En"]
 	},
-	"Gran Turismo 4 (USA) (v1.01)": {
+	"Gran Turismo 4 (USA) (v2.00)": {
 		"languages": ["En"]
 	},
-	"Gran Turismo 4 (USA) (v2.00)": {
+	"Gran Turismo 4 (USA, Canada) (v1.01)": {
 		"languages": ["En"]
 	},
 	"Gran Turismo 4 - First Preview (Japan) (En,Ja) (Taikenban)": {
@@ -12446,7 +12476,10 @@
 	"Grand Theft Auto - San Andreas (USA) (v1.03)": {
 		"languages": ["En"]
 	},
-	"Grand Theft Auto - San Andreas (USA) (v3.00)": {
+	"Grand Theft Auto - San Andreas (USA) (v3.00) (Rev 1)": {
+		"languages": ["En"]
+	},
+	"Grand Theft Auto - San Andreas (USA, Canada) (v3.00)": {
 		"languages": ["En"]
 	},
 	"Grand Theft Auto - Vice City (Australia)": {
@@ -12478,10 +12511,10 @@
 	"Grand Theft Auto - Vice City (USA) (v2.01)": {
 		"languages": ["En"]
 	},
-	"Grand Theft Auto - Vice City (USA) (v3.00)": {
+	"Grand Theft Auto - Vice City (USA) (v4.00)": {
 		"languages": ["En"]
 	},
-	"Grand Theft Auto - Vice City (USA) (v4.00)": {
+	"Grand Theft Auto - Vice City (USA, Canada) (v3.00)": {
 		"languages": ["En"]
 	},
 	"Grand Theft Auto - Vice City Stories (Europe, Australia) (En,Fr,De,Es,It)": {
@@ -12514,7 +12547,7 @@
 		"languages": ["Ja"],
 		"localName": "グランド・セフト・オートⅢ"
 	},
-	"Grand Theft Auto III (USA)": {
+	"Grand Theft Auto III (USA, Canada)": {
 		"languages": ["En"]
 	},
 	"Grande quiz sul calcio italiano, Il (Italy)": {
@@ -15208,7 +15241,7 @@
 		"languages": ["De", "En", "Es", "Fr", "It"],
 		"localName": "Jak & Daxter - 구세계의 유산"
 	},
-	"Jak and Daxter - The Precursor Legacy (USA) (Cingular Wirel": {
+	"Jak and Daxter - The Precursor Legacy (USA) (Cingular Wireless Demo)": {
 		"languages": ["En"]
 	},
 	"Jak and Daxter - The Precursor Legacy (USA) (Demo)": {
@@ -15530,6 +15563,10 @@
 	"Jim Henson's Muppets Party Cruise (USA)": {
 		"languages": []
 	},
+	"Jin Hondura (Korea) (En,Fr,De,Es,It)": {
+		"languages": ["De", "En", "Es", "Fr", "It"],
+		"localName": "真魂斗羅"
+	},
 	"Jin Samguk Mussang (Korea)": {
 		"languages": ["Ko"],
 		"localName": "진・삼국무쌍"
@@ -15809,7 +15846,7 @@
 	"Juiced 2 - Hot Import Nights (Europe, Australia) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Juiced 2 - Hot Import Nights (USA)": {
+	"Juiced 2 - Hot Import Nights (USA, Canada)": {
 		"languages": ["En"]
 	},
 	"Jumanji (Australia)": {
@@ -16186,7 +16223,7 @@
 	"Kao the Kangaroo - Round 2 (USA)": {
 		"languages": []
 	},
-	"Kappa no Kai-kata - How to Breed Kappas (Japan)": {
+	"Kappa no Kaikata - How to Breed Kappas (Japan)": {
 		"languages": ["Ja"],
 		"localName": "カッパの飼い方　Ｈｏｗ　ｔｏ　ｂｒｅｅｄ　ｋａｐｐａｓ"
 	},
@@ -16916,6 +16953,10 @@
 		"languages": ["Ja"],
 		"localName": "ザ・キング・オブ・ファイターズ　２００３"
 	},
+	"King of Fighters 2003, The (Japan) (SNK Best Collection)": {
+		"languages": ["Ja"],
+		"localName": "ザ・キング・オブ・ファイターズ　２００３"
+	},
 	"King of Fighters 2003, The (Korea)": {
 		"languages": ["En"],
 		"localName": "더 킹 오브 파이터즈 2003"
@@ -17488,19 +17529,19 @@
 	},
 	"Kyou kara Maou! Hajimari no Tabi (Japan)": {
 		"languages": ["Ja"],
-		"localName": "今日からマ王！　はじマりの旅"
+		"localName": "今日から㋮王！　はじ㋮りの旅"
 	},
 	"Kyou kara Maou! Hajimari no Tabi (Japan) (Premium Box)": {
 		"languages": ["Ja"],
-		"localName": "今日からマ王！　はじマりの旅"
+		"localName": "今日から㋮王！　はじ㋮りの旅"
 	},
 	"Kyou kara Maou! Shin Makoku no Kyuujitsu (Japan)": {
 		"languages": ["Ja"],
-		"localName": "今日からマ王！　眞マ国の休日"
+		"localName": "今日から㋮王！　眞㋮国の休日"
 	},
 	"Kyou kara Maou! Shin Makoku no Kyuujitsu (Japan) (Limited Box)": {
 		"languages": ["Ja"],
-		"localName": "今日からマ王！　眞マ国の休日"
+		"localName": "今日から㋮王！　眞㋮国の休日"
 	},
 	"Kyoufu Shinbun Heisei-ban - Kaiki! Shinrei File (Japan)": {
 		"languages": ["Ja"],
@@ -17638,6 +17679,9 @@
 	"Langrisser III (Japan)": {
 		"languages": ["Ja"],
 		"localName": "ラングリッサーⅢ"
+	},
+	"Lara Croft Tomb Raider - Anniversary (Australia) (Beta) (2007-04-10)": {
+		"languages": ["En"]
 	},
 	"Lara Croft Tomb Raider - Anniversary (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -18375,7 +18419,7 @@
 	"MTV Pimp My Ride - Street Racing (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"MTV Pimp My Ride - Street Racing (USA)": {
+	"MTV Pimp My Ride - Street Racing (USA, Canada)": {
 		"languages": []
 	},
 	"MTX Mototrax (Europe)": {
@@ -19322,8 +19366,11 @@
 	"Max Drive (Europe) (Unl)": {
 		"languages": ["En"]
 	},
-	"Max Drive (USA) (Unl)": {
+	"Max Drive (USA) (Unl) (v1.33)": {
 		"languages": ["En"]
+	},
+	"Max Drive (USA) (Unl) (v1.36)": {
+		"languages": []
 	},
 	"Max Media Manager (USA) (Unl)": {
 		"languages": ["En"]
@@ -19760,6 +19807,9 @@
 	},
 	"Mercenaries 2 - Inferno di Fuoco (Italy)": {
 		"languages": ["It"]
+	},
+	"Mercenaries 2 - L'enfer des Favelas (Canada)": {
+		"languages": ["Fr"]
 	},
 	"Mercenaries 2 - L'enfer des Favelas (France)": {
 		"languages": ["Fr"]
@@ -20626,8 +20676,7 @@
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl", "Pt"]
 	},
 	"Moorhuhn Fun Kart 2008 (Europe) (En,Fr,De,It)": {
-		"languages": ["De", "En", "Fr", "It"],
-		"localName": "Crazy Chicken Fun Kart 2008"
+		"languages": ["De", "En", "Fr", "It"]
 	},
 	"Morita Shougi (Japan)": {
 		"languages": ["Ja"],
@@ -21948,6 +21997,10 @@
 		"languages": ["Ja"],
 		"localName": "なついろ　～星屑のメモリー～"
 	},
+	"Natsuiro - Hoshikuzu no Memory (Japan) (Shokai Genteiban)": {
+		"languages": ["Ja"],
+		"localName": "なついろ　～星屑のメモリー～"
+	},
 	"Natsuiro Komachi - Ichijitsu Senka (Japan) (Shokai Genteiban)": {
 		"languages": ["Ja"],
 		"localName": "夏色小町【一日千夏】"
@@ -22010,10 +22063,10 @@
 	"Need for Speed - Carbon (Russia)": {
 		"languages": ["Ru"]
 	},
-	"Need for Speed - Carbon (USA)": {
+	"Need for Speed - Carbon (USA) (Demo)": {
 		"languages": ["En"]
 	},
-	"Need for Speed - Carbon (USA) (Demo)": {
+	"Need for Speed - Carbon (USA, Canada)": {
 		"languages": ["En"]
 	},
 	"Need for Speed - Carbon - Collector's Edition (Asia)": {
@@ -22075,7 +22128,7 @@
 	"Need for Speed - Most Wanted (USA) (v1.01)": {
 		"languages": ["En"]
 	},
-	"Need for Speed - Most Wanted (USA) (v2.00)": {
+	"Need for Speed - Most Wanted (USA, Canada) (v2.00)": {
 		"languages": ["En"]
 	},
 	"Need for Speed - Most Wanted - Black Edition (Europe, Australia) (En,Fr,De)": {
@@ -22107,10 +22160,10 @@
 	"Need for Speed - ProStreet (Russia)": {
 		"languages": ["Ru"]
 	},
-	"Need for Speed - ProStreet (USA)": {
+	"Need for Speed - ProStreet (USA) (Beta) (2007-10-04)": {
 		"languages": ["En"]
 	},
-	"Need for Speed - ProStreet (USA) (Beta) (2007-10-04)": {
+	"Need for Speed - ProStreet (USA, Canada)": {
 		"languages": ["En"]
 	},
 	"Need for Speed - Undercover (Europe) (En,Nl,Pl,Ru,Cs,Hu)": {
@@ -22136,7 +22189,7 @@
 	"Need for Speed - Undercover (Scandinavia) (En,Sv,Da,Fi)": {
 		"languages": ["Da", "En", "Fi", "Sv"]
 	},
-	"Need for Speed - Undercover (USA) (En,Fr,Es)": {
+	"Need for Speed - Undercover (USA, Canada) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
 	},
 	"Need for Speed - Underground (Asia) (Demo)": {
@@ -22160,11 +22213,15 @@
 	"Need for Speed - Underground (Korea) (Cheheompan)": {
 		"languages": ["En"]
 	},
-	"Need for Speed - Underground (USA)": {
-		"languages": ["En"]
-	},
 	"Need for Speed - Underground (USA) (Demo)": {
 		"languages": ["En"]
+	},
+	"Need for Speed - Underground (USA, Canada)": {
+		"languages": ["En"]
+	},
+	"Need for Speed - Underground 2 (Asia)": {
+		"languages": [],
+		"localName": "極速快感 飆風再起 2"
 	},
 	"Need for Speed - Underground 2 (Europe) (Demo)": {
 		"languages": ["En"]
@@ -22187,10 +22244,10 @@
 		"languages": ["En", "Ko"],
 		"localName": "니드 포 스피드 - 언더그라운드 2"
 	},
-	"Need for Speed - Underground 2 (USA)": {
+	"Need for Speed - Underground 2 (USA) (Demo)": {
 		"languages": ["En"]
 	},
-	"Need for Speed - Underground 2 (USA) (Demo)": {
+	"Need for Speed - Underground 2 (USA, Canada)": {
 		"languages": ["En"]
 	},
 	"Need for Speed - Underground 2 - SHA_DO (Japan)": {
@@ -24703,16 +24760,13 @@
 		"languages": ["Es"]
 	},
 	"PS Mania 2.0 Spaccacodici - SOCOM II - U.S. Navy SEALs (Italy) (Unl)": {
-		"languages": [],
-		"localName": "Paragon Play 116"
+		"languages": []
 	},
 	"PS Mania 2.0 Spaccacodici - Soulcalibur II (Italy) (Unl)": {
-		"languages": [],
-		"localName": "Paragon Play 110"
+		"languages": []
 	},
 	"PS Mania 2.0 Spaccacodici - Spider-Man 2 (Italy) (Unl)": {
-		"languages": [],
-		"localName": "Paragon Play 119"
+		"languages": []
 	},
 	"PS2 Bonus Demo 03 (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -24722,6 +24776,9 @@
 	},
 	"PS2 Bonus Demo Jan 2002 (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"PS2 Flying Bulbs Disc DVD-D Ni Sou Ver 2.00 (UC-ban) (USA)": {
+		"languages": []
 	},
 	"PS2 Kiosk Q2-Q3 2004 - Summer 2004 (USA)": {
 		"languages": ["En"]
@@ -24734,9 +24791,12 @@
 	},
 	"PS2 Seizou Kensa DISC3 CD-ROM Ver. 5.40 (EU ban) (Europe)": {
 		"languages": [],
-		"localName": "-'ＰＳ２-'　製造検査　ＤＩＳＣ３　ＣＤ－ＲＯＭ　Ｖｅｒ．　５．４０　（ＥＵ版）"
+		"localName": "'ＰＳ２'　製造検査　ＤＩＳＣ３　ＣＤ－ＲＯＭ　Ｖｅｒ．　５．４０　（ＥＵ版）"
 	},
 	"PSi2 15 (Germany) (Unl)": {
+		"languages": []
+	},
+	"PSi2 15 (UK)": {
 		"languages": []
 	},
 	"PSi2 19 (UK) (Unl)": {
@@ -24883,7 +24943,11 @@
 		"languages": ["Ja"],
 		"localName": "パチパラ１３　～スーパー海とパチプロ風雲録～"
 	},
-	"Pachi Para 14 - Kaze to Kumo to Super Umi in Okinawa (Japan)": {
+	"Pachi Para 14 - Kaze to Kumo to Super Umi in Okinawa (Japan) (v1.02)": {
+		"languages": ["Ja"],
+		"localName": "パチパラ１４　～風と雲とスーパー海ＩＮ沖縄～"
+	},
+	"Pachi Para 14 - Kaze to Kumo to Super Umi in Okinawa (Japan) (v2.00)": {
 		"languages": ["Ja"],
 		"localName": "パチパラ１４　～風と雲とスーパー海ＩＮ沖縄～"
 	},
@@ -25321,7 +25385,7 @@
 	"Pinball Hall of Fame - The Gottlieb Collection (USA)": {
 		"languages": ["En"]
 	},
-	"Pinball Hall of Fame - The Williams Collection (USA)": {
+	"Pinball Hall of Fame - The Williams Collection (USA, Canada)": {
 		"languages": []
 	},
 	"Pink Pong (Europe)": {
@@ -25431,8 +25495,7 @@
 		"languages": []
 	},
 	"Play Cheats Vol. 03 (Europe) (Unl)": {
-		"languages": [],
-		"localName": "Paragon Play 101"
+		"languages": []
 	},
 	"Play Cheats Vol. 04 (UK) (Unl)": {
 		"languages": ["En"]
@@ -25596,7 +25659,13 @@
 	"PlayStation BB Navigator - Version 0.10 - Prerelease (Japan) (Disc 2) (NTT-BB)": {
 		"languages": ["Ja"]
 	},
+	"PlayStation BB Navigator - Version 0.10 - Prerelease (Japan) (Disc 2) (OCN)": {
+		"languages": ["Ja"]
+	},
 	"PlayStation BB Navigator - Version 0.10 - Prerelease (Japan) (Disc 2) (So-net)": {
+		"languages": ["Ja"]
+	},
+	"PlayStation BB Navigator - Version 0.10 - Prerelease (Japan) (Disc 2) (Yahoo! BB)": {
 		"languages": ["Ja"]
 	},
 	"PlayStation BB Navigator - Version 0.10 - Prerelease (Japan) (Disc 2) (isao.net)": {
@@ -26248,7 +26317,7 @@
 	},
 	"Prismix - PlayStation 2 Sen'you Music Visual Soft - Demo Disc Vol. 1 (Japan)": {
 		"languages": ["Ja"],
-		"localName": "ＰＲＩＳＭＩＸ　－＇プレイステーション２－＇専用　ミュージックビジュアルソフト　～Ｄｅｍｏ　Ｄｉｓｃ　Ｖｏｌ．１～"
+		"localName": "ＰＲＩＳＭＩＸ　＇プレイステーション２＇専用　ミュージックビジュアルソフト　～Ｄｅｍｏ　Ｄｉｓｃ　Ｖｏｌ．１～"
 	},
 	"Prisoner of War (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -26929,9 +26998,9 @@
 	"Raging Blades (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Raging Bless - Gouma Mokushiroku (Asia)": {
+	"Raging Bless - Gouma Mokushiroku (Japan, Asia)": {
 		"languages": ["Ja"],
-		"localName": "レイジング・ブレス　～降魔黙示録～"
+		"localName": "レイジングブレス　～降魔黙示録～"
 	},
 	"Raging Bless - Hangma Muksirok (Korea)": {
 		"languages": ["Ko"],
@@ -27411,15 +27480,15 @@
 		"languages": ["Ja"],
 		"localName": "零式艦上戦闘記　弐"
 	},
-	"Remember11 - The Age of Infinity (Japan)": {
+	"Remember 11 - The Age of Infinity (Japan)": {
 		"languages": ["Ja"],
 		"localName": "リメンバー　イレブン　ＴＨＥ　ＡＧＥ　ＯＦ　ＩＮＦＩＮＩＴＹ"
 	},
-	"Remember11 - The Age of Infinity (Japan) (Infinity Plus)": {
+	"Remember 11 - The Age of Infinity (Japan) (Infinity Plus)": {
 		"languages": ["Ja"],
 		"localName": "リメンバー　イレブン　ＴＨＥ　ＡＧＥ　ＯＦ　ＩＮＦＩＮＩＴＹ"
 	},
-	"Remember11 - The Age of Infinity (Japan) (Shokai Genteiban)": {
+	"Remember 11 - The Age of Infinity (Japan) (Shokai Genteiban)": {
 		"languages": ["Ja"],
 		"localName": "リメンバー　イレブン　ＴＨＥ　ＡＧＥ　ＯＦ　ＩＮＦＩＮＩＴＹ"
 	},
@@ -29254,6 +29323,9 @@
 	"Sega Bass Fishing Duel (USA)": {
 		"languages": ["En"]
 	},
+	"Sega Classics Collection (Europe) (Beta) (2005-06-29)": {
+		"languages": []
+	},
 	"Sega Classics Collection (Europe, Australia)": {
 		"languages": ["En"]
 	},
@@ -29819,10 +29891,6 @@
 	},
 	"Shin Contra (Japan)": {
 		"languages": ["Ja"],
-		"localName": "真魂斗羅"
-	},
-	"Shin Contra (Korea) (En,Fr,De,Es,It)": {
-		"languages": ["De", "En", "Es", "Fr", "It"],
 		"localName": "真魂斗羅"
 	},
 	"Shin Gouketsuji Ichizoku - Bonnou Kaihou (Japan)": {
@@ -31327,7 +31395,7 @@
 	"Sims 2, The - Castaway (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,El)": {
 		"languages": ["Da", "De", "El", "En", "Es", "Fi", "Fr", "It", "Nl", "No", "Pl", "Pt", "Sv"]
 	},
-	"Sims 2, The - Castaway (USA)": {
+	"Sims 2, The - Castaway (USA, Canada)": {
 		"languages": ["En"]
 	},
 	"Sims 2, The - Pets (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi,Pl) (v1.00)": {
@@ -31437,7 +31505,10 @@
 	"SingStar '90s (USA)": {
 		"languages": []
 	},
-	"SingStar (Europe) (Demo)": {
+	"SingStar (Europe) (Demo) (2004-02-22)": {
+		"languages": ["En"]
+	},
+	"SingStar (Europe) (Demo) (2004-04-16)": {
 		"languages": ["En"]
 	},
 	"SingStar (Europe, Australia)": {
@@ -32407,6 +32478,9 @@
 	"Sonic Riders - Zero Gravity (Europe, Australia) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
+	"Sonic Riders - Zero Gravity (USA) (Beta) (2007-09-01)": {
+		"languages": []
+	},
 	"Sonic Riders - Zero Gravity (USA) (En,Ja,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja"]
 	},
@@ -32443,7 +32517,7 @@
 	},
 	"Soshite Bokura wa, ... and He Said (Japan)": {
 		"languages": ["Ja"],
-		"localName": "そして僕らは、・・・ａｎｄ　ｈｅ　ｓａｉｄ"
+		"localName": "そして僕らは、…ａｎｄ　ｈｅ　ｓａｉｄ"
 	},
 	"Soshite Kono Sora ni Kirameku Kimi no Uta (Japan)": {
 		"languages": ["Ja"],
@@ -32640,11 +32714,11 @@
 		"languages": ["Ja"],
 		"localName": "スパルタン　古代ギリシャ英雄伝"
 	},
-	"Spartan - Total Warrior (Australia) (Demo)": {
-		"languages": ["En"]
-	},
 	"Spartan - Total Warrior (Europe) (En,Pl,Cs)": {
 		"languages": ["Cs", "En", "Pl"]
+	},
+	"Spartan - Total Warrior (Europe, Australia) (Demo)": {
+		"languages": ["En"]
 	},
 	"Spartan - Total Warrior (Europe, Australia) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -33374,7 +33448,7 @@
 	"Stolen (USA) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
 	},
-	"Strawberry Panic! (Japan)": {
+	"Strawberry Panic! (Japan) (Shokai Genteiban)": {
 		"languages": ["Ja"],
 		"localName": "ストロベリー・パニック！"
 	},
@@ -33396,7 +33470,7 @@
 	"Street Dance (Europe) (En,Fr,De,Es,It,Nl)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
 	},
-	"Street Fighter Alpha Anthology (Europe)": {
+	"Street Fighter Alpha Anthology (Europe, Australia)": {
 		"languages": ["En"]
 	},
 	"Street Fighter Alpha Anthology (USA)": {
@@ -33514,7 +33588,7 @@
 		"languages": ["Ja"],
 		"localName": "スタントマン★イグニッション"
 	},
-	"Stuntman - Ignition (USA)": {
+	"Stuntman - Ignition (USA, Canada)": {
 		"languages": ["En"]
 	},
 	"Sub Rebellion (Europe)": {
@@ -33572,7 +33646,7 @@
 		"languages": ["Ja"],
 		"localName": "すっごい！アルカナハート２"
 	},
-	"Sui Sui Sweet - Amai Koi no Mitsuke-kata (Japan)": {
+	"Sui Sui Sweet - Amai Koi no Mitsukekata (Japan)": {
 		"languages": ["Ja"],
 		"localName": "すいすいＳｗｅｅｔ　～あまい恋のみつけ方～"
 	},
@@ -33972,7 +34046,7 @@
 		"languages": ["Ja"],
 		"localName": "ＳｕｐｅｒＬｉｔｅ　２０００　ｖｏｌ．３０　吉野家"
 	},
-	"SuperLite 2000 Vol. 31 - Remember11 - The Age of Infinity (Japan)": {
+	"SuperLite 2000 Vol. 31 - Remember 11 - The Age of Infinity (Japan)": {
 		"languages": ["Ja"],
 		"localName": "ＳｕｐｅｒＬｉｔｅ　２０００　ｖｏｌ．３１　リメンバー　イレブン　－ｔｈｅ　ａｇｅ　ｏｆ　ｉｎｆｉｎｉｔｙ－"
 	},
@@ -34134,13 +34208,17 @@
 		"languages": ["Ja"],
 		"localName": "サーヴィランス　監視者"
 	},
-	"Suzuki Super-Bikes II - Riding Challenge (USA) (En,Fr,Es)": {
+	"Suwanggi - Project Altered Beast (Korea)": {
+		"languages": ["Ko"],
+		"localName": "수왕기 - Project Altered Beast"
+	},
+	"Suzuki Super-Bikes II - Riding Challenge (USA, Canada) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
 	},
 	"Suzuki TT Superbikes - Real Road Racing (USA)": {
 		"languages": ["En"]
 	},
-	"Suzuki TT Superbikes - Real Road Racing Championship (USA)": {
+	"Suzuki TT Superbikes - Real Road Racing Championship (USA, Canada)": {
 		"languages": []
 	},
 	"Suzumiya Haruhi no Tomadoi (Japan)": {
@@ -34524,6 +34602,10 @@
 	"Taito Legends (Germany)": {
 		"languages": ["De"]
 	},
+	"Taito Legends (Korea)": {
+		"languages": ["En"],
+		"localName": "타이토 레전드"
+	},
 	"Taito Legends (USA)": {
 		"languages": ["En"]
 	},
@@ -34672,16 +34754,13 @@
 		"localName": "魂響　～御霊送りの詩～"
 	},
 	"Tango - Game On Demo Disc 1 (Europe)": {
-		"languages": [],
-		"localName": "tango - demo 01"
+		"languages": []
 	},
 	"Tango - Game On Demo Disc 2 (Europe)": {
-		"languages": [],
-		"localName": "tango promo 2003 demo 2"
+		"languages": []
 	},
 	"Tango - Game On Demo Disc 3 (Europe)": {
-		"languages": [],
-		"localName": "tango promo 2003 demo 3"
+		"languages": []
 	},
 	"Tank Elite (Europe)": {
 		"languages": ["En"]
@@ -34947,7 +35026,7 @@
 	"Tekken's Nina Williams in - Death by Degrees (Europe, Australia) (En,Es)": {
 		"languages": ["En", "Es"]
 	},
-	"Tekkouki Mikazuki (Japan) (Taikenban)": {
+	"Tekkouki Mikazuki (Japan) (Trial Edition)": {
 		"languages": ["Ja"],
 		"localName": "鉄甲機ミカヅキ"
 	},
@@ -35220,12 +35299,12 @@
 	"Terminator 3 - Rebellion der Maschinen (Germany)": {
 		"languages": ["De"]
 	},
-	"Terminator 3 - Rise of the Machines (Asia)": {
-		"languages": ["Ja"],
-		"localName": "ターミネーター３　－Ｒｉｓｅ　Ｏｆ　Ｔｈｅ　Ｍａｃｈｉｎｅｓ－"
-	},
 	"Terminator 3 - Rise of the Machines (Europe)": {
 		"languages": ["En"]
+	},
+	"Terminator 3 - Rise of the Machines (Japan, Asia)": {
+		"languages": ["Ja"],
+		"localName": "ターミネーター３　－Ｒｉｓｅ　Ｏｆ　Ｔｈｅ　Ｍａｃｈｉｎｅｓ－"
 	},
 	"Terminator 3 - Rise of the Machines (USA)": {
 		"languages": []
@@ -35334,8 +35413,7 @@
 		"localName": "Ｔｈｉｓ　Ｉｓ　Ｆｏｏｔｂａｌｌ　サッカー世界戦記２００３"
 	},
 	"This Is Football 2002 (Europe) (En,Fr,De,Es,It,Nl)": {
-		"languages": ["De", "En", "Es", "Fr", "It", "Nl"],
-		"localName": "This Is Soccer 2002"
+		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
 	},
 	"This Is Football 2002 (Europe) (En,Fr,De,Es,It,Nl) (Demo)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
@@ -35392,6 +35470,9 @@
 		"languages": ["De", "Fr", "It", "Nl"]
 	},
 	"This Is Football 2005 (Scandinavia) (Sv,No,Da,Fi)": {
+		"languages": ["Da", "Fi", "No", "Sv"]
+	},
+	"This Is Football 2005 (Scandinavia) (Sv,No,Da,Fi) (Demo)": {
 		"languages": ["Da", "Fi", "No", "Sv"]
 	},
 	"This Is Soccer 2004 (Australia)": {
@@ -35783,10 +35864,10 @@
 	"Tokyo Xtreme Racer (Europe)": {
 		"languages": ["En"]
 	},
-	"Tokyo Xtreme Racer - Drift (USA)": {
+	"Tokyo Xtreme Racer - Drift (USA) (Beta) (2006-01-13)": {
 		"languages": ["En"]
 	},
-	"Tokyo Xtreme Racer - Drift (USA) (Beta) (2006-01-13)": {
+	"Tokyo Xtreme Racer - Drift (USA, Canada)": {
 		"languages": ["En"]
 	},
 	"Tokyo Xtreme Racer - Drift 2 (USA)": {
@@ -35795,7 +35876,7 @@
 	"Tokyo Xtreme Racer - Zero (USA)": {
 		"languages": ["En"]
 	},
-	"Tokyo Xtreme Racer 3 (USA)": {
+	"Tokyo Xtreme Racer 3 (USA, Canada)": {
 		"languages": ["En"]
 	},
 	"Tom Clancy's Ghost Recon (Europe) (Demo)": {
@@ -36238,10 +36319,9 @@
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Tour de France, Le - 1903-2003 - Centenary Edition (Europe) (En,Fr,De,Es,It)": {
-		"languages": ["De", "En", "Es", "Fr", "It"],
-		"localName": "Tour de France - Centenary Edition"
+		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Tourist Trophy (USA)": {
+	"Tourist Trophy (USA, Canada)": {
 		"languages": ["En"]
 	},
 	"Tourist Trophy - The Real Riding Simulator (Asia)": {
@@ -36475,9 +36555,9 @@
 		"languages": ["Ja"],
 		"localName": "トゥルーフォーチュン"
 	},
-	"True Love Story - Summer Days, and Yet ... (Japan)": {
+	"True Love Story - Summer Days, and Yet... (Japan)": {
 		"languages": ["Ja"],
-		"localName": "トゥルーラブストーリー Ｓｕｍｍｅｒ Ｄａｙｓ、 ａｎｄ ｙｅｔ．．．"
+		"localName": "トゥルーラブストーリー Ｓｕｍｍｅｒ Ｄａｙｓ、 ａｎｄ ｙｅｔ…　"
 	},
 	"True Love Story 3 (Japan)": {
 		"languages": ["Ja"],
@@ -36585,7 +36665,7 @@
 	"Twisted Metal - Black Online (USA) (Beta)": {
 		"languages": []
 	},
-	"Twisted Metal - Head-On - Extra Twisted Edition (USA)": {
+	"Twisted Metal - Head-On - Extra Twisted Edition (USA, Canada)": {
 		"languages": ["En"]
 	},
 	"Ty the Tasmanian Tiger (Europe) (En,Fr,De,Es,It)": {
@@ -36616,11 +36696,11 @@
 	},
 	"Typing Ren'ai Hakusho - Boys Be... (Japan)": {
 		"languages": ["Ja"],
-		"localName": "タイピング恋愛白書　ＢＯＹＳ　ＢＥ．．．"
+		"localName": "タイピング恋愛白書　ＢＯＹＳ　ＢＥ…"
 	},
 	"Typing Ren'ai Hakusho - Boys Be... (Japan) (Keyboard Set)": {
 		"languages": ["Ja"],
-		"localName": "タイピング恋愛白書　ＢＯＹＳ　ＢＥ．．．"
+		"localName": "タイピング恋愛白書　ＢＯＹＳ　ＢＥ…"
 	},
 	"Typing Shinken Shoubu - Musashi no Ken (Japan)": {
 		"languages": ["Ja"],
@@ -36971,6 +37051,10 @@
 		"languages": ["Ja"],
 		"localName": "うお　７つの水と伝説のヌシ"
 	},
+	"Uo - 7-tsu no Mizu to Densetsu no Nushi (Japan) (Taikenban)": {
+		"languages": ["Ja"],
+		"localName": "うお　７つの水と伝説のヌシ"
+	},
 	"Uragiri wa Boku no Namae o Shitteiru - Tasogare ni Ochita Inori (Japan)": {
 		"languages": ["Ja"],
 		"localName": "裏切りは僕の名前を知っている　黄昏に堕ちた祈り"
@@ -37081,10 +37165,10 @@
 	"V-Rally 3 (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"V-Rally 3 (Japan) (En,Ja,Fr,De,Es,It) (v1.02)": {
+	"V-Rally 3 (Japan) (En,Ja,Fr,De,Es,It) (v2.00)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja"]
 	},
-	"V-Rally 3 (Japan) (En,Ja,Fr,De,Es,It) (v2.00)": {
+	"V-Rally 3 (Japan, Asia) (En,Ja,Fr,De,Es,It) (v1.02)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja"]
 	},
 	"V-Rally 3 (USA)": {
@@ -37272,9 +37356,13 @@
 		"languages": ["Ja"],
 		"localName": "ビューティフル・ジョー２　　～ブラックフィルムの謎～"
 	},
-	"Viewtiful Joe 2 - Black Film no Nazo (Japan) (Tokubetsu Taikenban)": {
+	"Viewtiful Joe 2 - Black Film no Nazo (Japan) (Tokubetsu Taikenban) (2004-08-25)": {
 		"languages": ["Ja"],
-		"localName": "ビューティフル・ジョー２　　～ブラックフィルムの謎～"
+		"localName": "ビューティフル　ジョー２　ブラックフィルムの謎"
+	},
+	"Viewtiful Joe 2 - Black Film no Nazo (Japan) (Tokubetsu Taikenban) (2004-11-19)": {
+		"languages": ["Ja"],
+		"localName": "ビューティフル　ジョー２　ブラックフィルムの謎"
 	},
 	"Viorate no Atelier - Gramnad no Renkinjutsushi 2 (China)": {
 		"languages": ["Zh"],
@@ -37963,6 +38051,9 @@
 		"languages": ["Ja"],
 		"localName": "ワイルドアームズ　ザ　フォースデトネイター"
 	},
+	"Wild Arms - The 4th Detonator (Japan) (Tentou Senkou Taikenban)": {
+		"languages": ["Ja"]
+	},
 	"Wild Arms - The Vth Vanguard (Japan)": {
 		"languages": ["Ja"],
 		"localName": "ワイルドアームズ　ザ　フィフスヴァンガード"
@@ -37987,8 +38078,7 @@
 		"languages": ["En"]
 	},
 	"Wild Arms 5 (Europe) (En,Fr,It)": {
-		"languages": ["En", "Fr", "It"],
-		"localName": "Wild Arms 5 - 10th Anniversary Edition"
+		"languages": ["En", "Fr", "It"]
 	},
 	"Wild Arms 5 (USA)": {
 		"languages": ["En"]
@@ -38110,7 +38200,7 @@
 		"languages": ["Ja"],
 		"localName": "ウイニングポスト７　マキシマム２００６"
 	},
-	"Winning Post 7 Maximum 2007 (Japan) (v1.00)": {
+	"Winning Post 7 Maximum 2007 (Japan) (Premium Pack)": {
 		"languages": ["Ja"],
 		"localName": "ウイニングポスト７　マキシマム２００７"
 	},
@@ -38587,6 +38677,9 @@
 	"X-Games Winter SnoCross + ESPN International Winter Sports 2002 + Winter X Games Snowboarding 2002 (USA) (Demo)": {
 		"languages": ["En"]
 	},
+	"X-Mem - Logiciel d'Expansion de Memoire (France) (Unl)": {
+		"languages": []
+	},
 	"X-Men - Next Dimension (Europe)": {
 		"languages": ["En"]
 	},
@@ -38953,6 +39046,10 @@
 	"Yamasa Digi World 2 LCD Edition - Time Cross, Qlogos, Trigger Zone (Japan)": {
 		"languages": ["Ja"],
 		"localName": "山佐デジワールド２　ＬＣＤエディション"
+	},
+	"Yamasa Digi World 2 LCD Edition DX - Time Cross, Qlogos, Trigger Zone (Japan)": {
+		"languages": ["Ja"],
+		"localName": "山佐デジワールド２　ＬＣＤエディションＤＸ"
 	},
 	"Yamasa Digi World 3 - Time Park, King Pulsar, Cyber Dragon (Japan)": {
 		"languages": ["Ja"],
@@ -39344,15 +39441,15 @@
 	},
 	"Zettai Zetsumei Toshi 2 - Itetsuita Kioku-tachi (Japan)": {
 		"languages": ["Ja"],
-		"localName": "絶体絶命都市２　－凍てついた記憶たち－"
+		"localName": "絶体絶命都市２ ー凍てついた記憶たちー"
 	},
 	"Zettai Zetsumei Toshi 2 - Itetsuita Kioku-tachi (Japan) (Taikenban Type-A)": {
 		"languages": ["Ja"],
-		"localName": "絶体絶命都市２　－凍てついた記憶たち－"
+		"localName": "絶体絶命都市２ ー凍てついた記憶たちー"
 	},
 	"Zettai Zetsumei Toshi 2 - Itetsuita Kioku-tachi (Japan) (Taikenban Type-B)": {
 		"languages": ["Ja"],
-		"localName": "絶体絶命都市２　－凍てついた記憶たち－"
+		"localName": "絶体絶命都市２ ー凍てついた記憶たちー"
 	},
 	"Zhen Sanguo Wushuang 2 (China)": {
 		"languages": ["Zh"],

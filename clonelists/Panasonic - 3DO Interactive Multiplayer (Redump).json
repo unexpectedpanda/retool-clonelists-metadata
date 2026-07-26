@@ -1,8 +1,8 @@
 {
 	"description": {
 		"name": "Panasonic - 3DO Interactive Multiplayer (Redump)",
-		"lastUpdated": "2025-10-06 10:50:46",
-		"minimumVersion": "2.4.0"
+		"lastUpdated": "2026-01-18 16:35:08",
+		"minimumVersion": "2.4.8"
 	},
 	"variants": [
 		{
@@ -204,9 +204,9 @@
 			]
 		},
 		{
-			"group": "Out of this World (3DO Maniac Pack)",
+			"group": "Out of this World",
 			"titles": [
-				{"searchTerm": "Out of this World (3DO Maniac Pack)"},
+				{"searchTerm": "Another World"},
 				{"searchTerm": "Outer World"},
 				{"searchTerm": "Out of this World", "priority": 2}
 			]

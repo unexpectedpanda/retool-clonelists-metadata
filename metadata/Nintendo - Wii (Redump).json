@@ -2074,12 +2074,10 @@
 		"languages": ["En"]
 	},
 	"De Blob (Europe) (En,Fr,De,Es,It,Nl)": {
-		"languages": ["De", "En", "Es", "Fr", "It", "Nl"],
-		"localName": "de Blob"
+		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
 	},
 	"De Blob (Scandinavia) (En,Sv,No,Da,Fi)": {
-		"languages": ["Da", "En", "Fi", "No", "Sv"],
-		"localName": "de Blob"
+		"languages": ["Da", "En", "Fi", "No", "Sv"]
 	},
 	"De Blob (USA) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
@@ -2089,8 +2087,7 @@
 		"localName": "더 블랍 - 컬러 레볼루션"
 	},
 	"De Blob 2 (Europe) (En,Fr,De,Es,It,Nl)": {
-		"languages": ["De", "En", "Es", "Fr", "It", "Nl"],
-		"localName": "de Blob 2"
+		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
 	},
 	"De Blob 2 (USA) (En,Fr)": {
 		"languages": ["En", "Fr"]
@@ -3371,8 +3368,7 @@
 		"localName": "アイシールド２１　フィールド最強の戦士たち"
 	},
 	"F1 2009 (Europe) (En,Fr,De,Es,It)": {
-		"languages": ["De", "En", "Es", "Fr", "It"],
-		"localName": "Formula 1 2009"
+		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"F1 2009 (Japan)": {
 		"languages": []
@@ -6623,7 +6619,7 @@
 		"languages": ["Ja"],
 		"localName": "モノポリー"
 	},
-	"Monopoly (USA) (En,Fr,Es)": {
+	"Monopoly (USA, Canada) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
 	},
 	"Monopoly Collection (Europe) (En,Fr)": {
@@ -6942,7 +6938,7 @@
 	"MySims (USA) (Beta) (2007-07-29)": {
 		"languages": []
 	},
-	"MySims (USA) (En,Fr,Es)": {
+	"MySims (USA, Canada) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
 	},
 	"MySims Agents (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da)": {
@@ -7279,7 +7275,7 @@
 	"Need for Speed - ProStreet (USA) (Beta) (2007-10-03)": {
 		"languages": []
 	},
-	"Need for Speed - ProStreet (USA) (Rev 1)": {
+	"Need for Speed - ProStreet (USA, Canada) (Rev 1)": {
 		"languages": ["En"]
 	},
 	"Need for Speed - The Run (Europe) (En,Fr,De,Es,It,Nl)": {
@@ -9491,7 +9487,7 @@
 		"languages": ["Ja"],
 		"localName": "シムシティ　クリエイター"
 	},
-	"SimCity Creator (USA) (En,Fr,Es)": {
+	"SimCity Creator (USA, Canada) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
 	},
 	"SimCity Namanui Dosi (Korea)": {
@@ -9624,7 +9620,7 @@
 	"Ski-Doo Snowmobile Challenge (USA) (Beta)": {
 		"languages": []
 	},
-	"Ski-Doo Snowmobile Challenge (USA) (En,Fr)": {
+	"Ski-Doo Snowmobile Challenge (USA, Canada) (En,Fr)": {
 		"languages": ["En", "Fr"]
 	},
 	"Sky Crawlers - Innocent Aces (Japan)": {
@@ -9828,6 +9824,9 @@
 	},
 	"Sonic Riders - Zero Gravity (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Sonic Riders - Zero Gravity (USA) (Beta) (2007-10-16)": {
+		"languages": []
 	},
 	"Sonic Riders - Zero Gravity (USA) (En,Ja,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja"]

@@ -1,8 +1,8 @@
 {
 	"description": {
 		"name": "Microsoft - Xbox 360 (Redump)",
-		"lastUpdated": "2025-10-06 10:50:45",
-		"minimumVersion": "2.4.0"
+		"lastUpdated": "2026-01-18 16:35:07",
+		"minimumVersion": "2.4.8"
 	},
 	"variants": [
 		{
@@ -147,6 +147,13 @@
 			]
 		},
 		{
+			"group": "Bigs 2, The",
+			"titles": [
+				{"searchTerm": "Bigs 2 - Baseball, The"},
+				{"searchTerm": "Bigs 2, The"}
+			]
+		},
+		{
 			"group": "Bladestorm - The Hundred Years' War",
 			"titles": [
 				{"searchTerm": "Bladestorm - Hyakunen Sensou"},
@@ -229,7 +236,7 @@
 				{"searchTerm": "Call of Duty - Ghosts (Disc 1) (Disc de Juego)"},
 				{"searchTerm": "Call of Duty - Ghosts (Disc 1) (Disc di Gioco)"},
 				{"searchTerm": "Call of Duty - Ghosts (Disc 1) (Disc do Jogo)"},
-				{"searchTerm": "Call of Duty - Ghosts (Disc 1) (Dysk Z Gra)"},
+				{"searchTerm": "Call of Duty - Ghosts (Disc 1) (Disc Z Gra)"},
 				{"searchTerm": "Call of Duty - Ghosts (Disc 1) (Game Disc)"},
 				{"searchTerm": "Call of Duty - Ghosts (Disc 1) (Igrovoj)"},
 				{"searchTerm": "Call of Duty - Ghosts (Disc 1) (Spieldisc)"}
@@ -367,15 +374,9 @@
 			]
 		},
 		{
-			"group": "Def Jam - Rapstar",
-			"titles": [
-				{"searchTerm": "Def Jam - Rapstar"},
-				{"searchTerm": "Def Jam Rapstar"}
-			]
-		},
-		{
 			"group": "Deus Ex - Human Revolution",
 			"titles": [
+				{"searchTerm": "Deus Ex"},
 				{"searchTerm": "Deus Ex - Human Revolution"}
 			],
 			"supersets": [
@@ -498,7 +499,8 @@
 			"titles": [
 				{"searchTerm": "Dynasty Warriors 6"},
 				{"searchTerm": "Jin Samguk Mussang 5"},
-				{"searchTerm": "Shin Sangoku Musou 5"}
+				{"searchTerm": "Shin Sangoku Musou 5"},
+				{"searchTerm": "Zhen Sanguo Wushuang 5"}
 			]
 		},
 		{
@@ -512,7 +514,7 @@
 			"group": "Dynasty Warriors 8",
 			"titles": [
 				{"searchTerm": "Dynasty Warriors 8"},
-				{"searchTerm": "Shin Sangoku Musou 7"}
+				{"searchTerm": "Zhen Sanguo Wushuang 7"}
 			]
 		},
 		{
@@ -541,7 +543,8 @@
 			"titles": [
 				{"searchTerm": "Dynasty Warriors - Strikeforce"},
 				{"searchTerm": "Jin Samguk Mussang - Multi Raid Special"},
-				{"searchTerm": "Shin Sangoku Musou - Multi Raid Special"}
+				{"searchTerm": "Shin Sangoku Musou - Multi Raid Special"},
+				{"searchTerm": "Zhen Sanguo Wushuang - Multi Raid Special"}
 			]
 		},
 		{
@@ -616,17 +619,27 @@
 			"group": "Fable II",
 			"titles": [
 				{"searchTerm": "Fable II"}
-			],
-			"supersets": [
-				{"searchTerm": "Fable II - Game of the Year Edition"},
-				{"searchTerm": "Fable II - Gioco dell'Anno"}
 			]
 		},
 		{
-			"group": "Family Games (Demo)",
+			"group": "Fallout 3 - Game Add-On Pack - Broken Steel and Point Lookout",
 			"titles": [
-				{"searchTerm": "Family Games (Demo)"},
-				{"searchTerm": "Family Games (Toys R Us) (Demo)", "priority": 2}
+				{"searchTerm": "Fallout 3 - Game Add-On Pack - Broken Steel and Point Lookout"},
+				{"searchTerm": "Fallout 3 - Pack de Expansion del Juego - Broken Steel y Point Lookout"}
+			]
+		},
+		{
+			"group": "Fallout 3 - Game Add-On Pack - The Pitt and Operation - Anchorage",
+			"titles": [
+				{"searchTerm": "Fallout 3 - Game Add-On Pack - The Pitt and Operation - Anchorage"},
+				{"searchTerm": "Fallout 3 - Pack de Expansion del Juego - The Pitt y Operation - Anchorage"}
+			]
+		},
+		{
+			"group": "Family Games",
+			"titles": [
+				{"searchTerm": "Family Games"},
+				{"searchTerm": "Family Games (Toys R Us)", "priority": 2}
 			]
 		},
 		{
@@ -831,7 +844,6 @@
 			"group": "Godfather II, The",
 			"titles": [
 				{"searchTerm": "Godfather II, The"},
-				{"searchTerm": "Parrain 2, Le"},
 				{"searchTerm": "Pate II, Der"}
 			]
 		},
@@ -1036,15 +1048,16 @@
 				{"searchTerm": "Marvel - Ultimate Alliance"}
 			],
 			"supersets": [
-				{"searchTerm": "Marvel - Ultimate Alliance - Special Edition"}
+				{"searchTerm": "Marvel - Ultimate Alliance (Gold Edition)"}
 			]
 		},
 		{
 			"group": "Mass Effect (Bonus Content Disc)",
 			"titles": [
-				{"searchTerm": "Mass Effect (Bonus Content Disc)"},
+				{"searchTerm": "Mass Effect (Bonus Content Disc) (Limited Collector's Edition)"},
 				{"searchTerm": "Mass Effect (Bonus Disc)"},
-				{"searchTerm": "Mass Effect (Bonus DVD)"}
+				{"searchTerm": "Mass Effect (Bonus DVD)"},
+				{"searchTerm": "Mass Effect (Bonus Content Disc)", "priority": 2}
 			]
 		},
 		{

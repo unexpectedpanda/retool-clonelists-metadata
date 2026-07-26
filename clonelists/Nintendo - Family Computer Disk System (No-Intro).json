@@ -1,8 +1,8 @@
 {
 	"description": {
 		"name": "Nintendo - Family Computer Disk System (FDS) (No-Intro)",
-		"lastUpdated": "2025-10-06 10:50:45",
-		"minimumVersion": "2.4.0"
+		"lastUpdated": "2026-03-14 17:49:19",
+		"minimumVersion": "2.4.8"
 	},
 	"variants": [
 		{
@@ -69,10 +69,10 @@
 			]
 		},
 		{
-			"group": "Link no Bouken - The Legend of Zelda 2 (Collector's Edition)",
+			"group": "Link no Bouken - The Legend of Zelda 2",
 			"titles": [
-				{"searchTerm": "Link no Bouken - The Legend of Zelda 2 (Collector's Edition)"},
-				{"searchTerm": "Link no Bouken - The Legend of Zelda 2", "priority": 2}
+				{"searchTerm": "Link no Bouken - The Legend of Zelda 2"},
+				{"searchTerm": "Link no Bouken - The Legend of Zelda 2 (Collector's Edition)", "priority": 2}
 			]
 		},
 		{
@@ -216,6 +216,13 @@
 			]
 		},
 		{
+			"group": "Super Mario Bros. 2",
+			"titles": [
+				{"searchTerm": "Super Mario Bros. 2"},
+				{"searchTerm": "Super Mario Bros. 2 (Game & Watch - Super Mario Bros.)", "priority": 2}
+			]
+		},
+		{
 			"group": "Tonkachi Editor",
 			"categories": ["Applications"],
 			"titles": [
@@ -230,10 +237,10 @@
 			]
 		},
 		{
-			"group": "Zelda no Densetsu - The Hyrule Fantasy (Collector's Edition)",
+			"group": "Zelda no Densetsu - The Hyrule Fantasy",
 			"titles": [
-				{"searchTerm": "Zelda no Densetsu - The Hyrule Fantasy (Collector's Edition)"},
-				{"searchTerm": "Zelda no Densetsu - The Hyrule Fantasy", "priority": 2}
+				{"searchTerm": "Zelda no Densetsu - The Hyrule Fantasy"},
+				{"searchTerm": "Zelda no Densetsu - The Hyrule Fantasy (Collector's Edition)", "priority": 2}
 			]
 		}
 	]

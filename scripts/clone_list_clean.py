@@ -26,7 +26,8 @@ def main() -> None:
         if sys.platform.startswith('win'):
             files = (
                 subprocess.run(
-                    ['git', 'diff', 'HEAD~', 'HEAD', '--name-only'], stdout=subprocess.PIPE
+                    ['git', 'diff', 'HEAD~', 'HEAD', '--name-only'],
+                    stdout=subprocess.PIPE,
                 )
                 .stdout.decode('utf-8')
                 .split('\n')
@@ -34,7 +35,8 @@ def main() -> None:
         else:
             files = (
                 subprocess.run(
-                    ['git', 'diff', 'HEAD^', 'HEAD', '--name-only'], stdout=subprocess.PIPE
+                    ['git', 'diff', 'HEAD^', 'HEAD', '--name-only'],
+                    stdout=subprocess.PIPE,
                 )
                 .stdout.decode('utf-8')
                 .split('\n')
@@ -43,7 +45,7 @@ def main() -> None:
     files = [x for x in files if 'clonelists' in x]
 
     for file in files:
-        if file != 'hash.json':
+        if 'hash.json' not in file:
             with open(pathlib.Path(file), encoding='utf-8') as clone_list_file:
                 clonelist = json.load(clone_list_file)
 
@@ -132,24 +134,38 @@ def main() -> None:
                                     )
 
                                 if 'regionOrder' in filter['conditions']:
-                                    if 'higherRegions' in filter['conditions']['regionOrder']:
-                                        filter['conditions']['regionOrder']['higherRegions'] = (
-                                            sorted(
-                                                filter['conditions']['regionOrder']['higherRegions']
-                                            )
+                                    if (
+                                        'higherRegions'
+                                        in filter['conditions']['regionOrder']
+                                    ):
+                                        filter['conditions']['regionOrder'][
+                                            'higherRegions'
+                                        ] = sorted(
+                                            filter['conditions']['regionOrder'][
+                                                'higherRegions'
+                                            ]
                                         )
-                                    if 'lowerRegions' in filter['conditions']['regionOrder']:
-                                        filter['conditions']['regionOrder']['lowerRegions'] = (
-                                            sorted(
-                                                filter['conditions']['regionOrder']['lowerRegions']
-                                            )
+                                    if (
+                                        'lowerRegions'
+                                        in filter['conditions']['regionOrder']
+                                    ):
+                                        filter['conditions']['regionOrder'][
+                                            'lowerRegions'
+                                        ] = sorted(
+                                            filter['conditions']['regionOrder'][
+                                                'lowerRegions'
+                                            ]
                                         )
 
                                     filter['conditions']['regionOrder'] = dict(
-                                        sorted(filter['conditions']['regionOrder'].items())
+                                        sorted(
+                                            filter['conditions']['regionOrder'].items()
+                                        )
                                     )
 
-                                filter['conditions'] = dict(sorted(filter['conditions'].items()))
+                                filter['conditions'] = dict(
+                                    sorted(filter['conditions'].items())
+                                )
 
                             if 'results' in filter:
                                 if 'categories' in filter['results']:
@@ -157,7 +173,9 @@ def main() -> None:
                                         filter['results']['categories']
                                     )
 
-                                filter['results'] = dict(sorted(filter['results'].items()))
+                                filter['results'] = dict(
+                                    sorted(filter['results'].items())
+                                )
 
                             temp_list.append(dict(sorted(filter.items())))
 
@@ -175,21 +193,30 @@ def main() -> None:
                 if 'titles' in variant:
                     variant['titles'] = natsorted(
                         variant['titles'],
-                        key=lambda d: (d.get('priority', 0), d.get('searchTerm', '').lower()),
+                        key=lambda d: (
+                            d.get('priority', 0),
+                            d.get('searchTerm', '').lower(),
+                        ),
                     )
                     variant['titles'] = order_variant_keys(variant, 'titles')
 
                 if 'supersets' in variant:
                     variant['supersets'] = natsorted(
                         variant['supersets'],
-                        key=lambda d: (d.get('priority', 0), d.get('searchTerm', '').lower()),
+                        key=lambda d: (
+                            d.get('priority', 0),
+                            d.get('searchTerm', '').lower(),
+                        ),
                     )
                     variant['supersets'] = order_variant_keys(variant, 'supersets')
 
                 if 'compilations' in variant:
                     variant['compilations'] = natsorted(
                         variant['compilations'],
-                        key=lambda d: (d.get('priority', 0), d.get('searchTerm', '').lower()),
+                        key=lambda d: (
+                            d.get('priority', 0),
+                            d.get('searchTerm', '').lower(),
+                        ),
                     )
                     variant['compilations'] = order_variant_keys(variant, 'compilations')
 

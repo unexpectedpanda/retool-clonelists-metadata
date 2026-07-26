@@ -575,7 +575,7 @@
 		"languages": ["Ja"],
 		"localName": "バイオハザード０"
 	},
-	"Biohazard Zero - Trial Edition (Japan)": {
+	"Biohazard Zero - Trial Edition (Japan) (Jitsuen-you Sample)": {
 		"languages": ["Ja"],
 		"localName": "バイオハザード０　－ＴＲＩＡＬ　ＥＤＩＴＩＯＮ－"
 	},
@@ -741,10 +741,10 @@
 	"Butt-Ugly Martians - Zoom or Doom! (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"CD avec les Codes Exclusifs et inedits pour le Jeu Metroid Prime (France) (Unl)": {
+	"CD avec les codes Action Replay exclusivement pour le jeu The Legend of Zelda - The Wind Waker (France) (Unl)": {
 		"languages": ["Fr"]
 	},
-	"CD avec les codes Action Replay exclusivement pour le jeu The Legend of Zelda - The Wind Waker (France) (Unl)": {
+	"CD avec les codes exclusifs et inedits pour le jeu Metroid Prime (France) (Unl)": {
 		"languages": ["Fr"]
 	},
 	"CD exclusif avec les codes pour les jeux Resident Evil et Resident Evil Zero (France) (Unl)": {
@@ -849,7 +849,7 @@
 		"languages": ["Ja"],
 		"localName": "チャリンコヒーロー"
 	},
-	"Charlie and the Chocolate Factory (Europe) (En,Fr,Es,Nl)": {
+	"Charlie and the Chocolate Factory (Europe, Australia) (En,Fr,Es,Nl)": {
 		"languages": ["En", "Es", "Fr", "Nl"]
 	},
 	"Charlie and the Chocolate Factory (USA)": {
@@ -1775,7 +1775,11 @@
 	},
 	"FIFA 2002 - Road to FIFA World Cup (Japan) (En,Ja)": {
 		"languages": ["En", "Ja"],
-		"localName": "ＦＩＦＡ　２００２：ロード　トゥ　ＦＩＦＡ　ワールドカップ"
+		"localName": "ＦＩＦＡ　２００２　ロード・トゥ・ＦＩＦＡワールドカップ"
+	},
+	"FIFA 2002 - Road to FIFA World Cup (Japan) (Jitsuen-you Sample)": {
+		"languages": ["Ja"],
+		"localName": "ＦＩＦＡ　２００２　ロード・トゥ・ＦＩＦＡワールドカップ"
 	},
 	"FIFA 2003 - European Football (Japan)": {
 		"languages": ["Ja"],
@@ -2039,7 +2043,7 @@
 		"languages": ["Ja"],
 		"localName": "学園都市ヴァラノワール　ローゼス"
 	},
-	"Galleon (USA) (Proto)": {
+	"Galleon (USA) (Proto) (2002-06-19)": {
 		"languages": ["En"]
 	},
 	"Game Boy Player (Korea) (Rev 1)": {
@@ -2997,11 +3001,11 @@
 		"languages": ["Ja"],
 		"localName": "ＫＡＲＡＴ　（ＧＣ用）　プロアクションリプレイ　ＰＡＲ　（ＧＣ用）"
 	},
-	"Kelly Slater's Pro Surfer (Europe)": {
-		"languages": ["En"]
-	},
 	"Kelly Slater's Pro Surfer (Europe) (En,Fr,De)": {
 		"languages": ["De", "En", "Fr"]
+	},
+	"Kelly Slater's Pro Surfer (Europe, Australia)": {
+		"languages": ["En"]
 	},
 	"Kelly Slater's Pro Surfer (USA)": {
 		"languages": ["En"]
@@ -3370,7 +3374,7 @@
 		"languages": ["Ja"],
 		"localName": "マリオゴルフ　ファミリーツアー"
 	},
-	"Mario Golf - Toadstool Tour (Europe) (En,Fr,De,Es,It)": {
+	"Mario Golf - Toadstool Tour (Europe, Australia) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Mario Golf - Toadstool Tour (Korea)": {
@@ -3380,7 +3384,7 @@
 	"Mario Golf - Toadstool Tour (USA)": {
 		"languages": ["En"]
 	},
-	"Mario Kart - Double Dash!! (Europe) (En,Fr,De,Es,It)": {
+	"Mario Kart - Double Dash!! (Europe, Australia) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Mario Kart - Double Dash!! (Japan)": {
@@ -3427,7 +3431,7 @@
 		"languages": ["Ja"],
 		"localName": "マリオパーティ４　イベント用ディスク"
 	},
-	"Mario Party 5 (Europe) (En,Fr,De,Es,It)": {
+	"Mario Party 5 (Europe, Australia) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Mario Party 5 (Japan)": {
@@ -3805,6 +3809,10 @@
 		"languages": ["Ja"],
 		"localName": "ミスタードリラー　ドリルランド"
 	},
+	"Mr. Driller - Drill Land Event-you Disc (Japan)": {
+		"languages": ["Ja"],
+		"localName": "ミスタードリラー　ドリルランド　イベント用ディスク"
+	},
 	"Muppets - Party Cruise (USA)": {
 		"languages": ["En"]
 	},
@@ -4121,7 +4129,7 @@
 	"Need for Speed - Underground (USA)": {
 		"languages": ["En"]
 	},
-	"Need for Speed - Underground 2 (Europe)": {
+	"Need for Speed - Underground 2 (Europe, Australia)": {
 		"languages": ["En"]
 	},
 	"Need for Speed - Underground 2 (France)": {
@@ -4883,7 +4891,7 @@
 		"localName": "ＳＤメディアランチャー　Ｗｉｉ用／ＧＣ用"
 	},
 	"SD Media Launcher for GameCube & Wii (USA) (Unl)": {
-		"languages": []
+		"languages": ["En"]
 	},
 	"SRS - Street Racing Syndicate (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -5039,6 +5047,9 @@
 		"languages": ["En"]
 	},
 	"Shadow the Hedgehog (Europe) (En,Ja,Fr,De,Es,It)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Ja"]
+	},
+	"Shadow the Hedgehog (Europe) (En,Ja,Fr,De,Es,It) (Beta) (2005-09-22)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja"]
 	},
 	"Shadow the Hedgehog (Japan) (En,Ja,Fr,De,Es,It)": {
@@ -5442,9 +5453,6 @@
 	"Star Wars - Rogue Squadron III - Rebel Strike (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Star Wars - Rogue Squadron III - Rebel Strike (Europe) (En,Fr,De,Es,It) (Demo)": {
-		"languages": ["De", "En", "Es", "Fr", "It"]
-	},
 	"Star Wars - Rogue Squadron III - Rebel Strike (France) (En,Fr)": {
 		"languages": ["En", "Fr"]
 	},
@@ -5457,7 +5465,10 @@
 	"Star Wars - Rogue Squadron III - Rebel Strike (USA) (En,Fr,De,Es,It) (Rev 1)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Star Wars - Rogue Squadron III - Rebel Strike (USA) (Limited Edition Preview Disc)": {
+	"Star Wars - Rogue Squadron III - Rebel Strike - Limited Edition Preview Disc (Europe) (En,Fr,De,Es,It)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Star Wars - Rogue Squadron III - Rebel Strike - Limited Edition Preview Disc (USA)": {
 		"languages": ["En"]
 	},
 	"Star Wars - The Clone Wars (Europe)": {
@@ -5523,7 +5534,7 @@
 	"Super Mario Strikers (USA)": {
 		"languages": ["En"]
 	},
-	"Super Mario Sunshine (Europe) (En,Fr,De,Es,It)": {
+	"Super Mario Sunshine (Europe, Australia) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Super Mario Sunshine (Japan)": {
@@ -5583,7 +5594,7 @@
 		"languages": ["Ja"],
 		"localName": "スーパーロボット大戦ＧＣ"
 	},
-	"Super Smash Bros. Melee (Europe) (En,Fr,De,Es,It)": {
+	"Super Smash Bros. Melee (Europe, Australia) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Super Smash Bros. Melee (Korea) (En,Ja)": {
@@ -6150,11 +6161,11 @@
 	"Vexx (USA)": {
 		"languages": ["En"]
 	},
+	"Viewtiful Joe (Europe) (Demo)": {
+		"languages": ["En"]
+	},
 	"Viewtiful Joe (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
-	},
-	"Viewtiful Joe (Europe) (Promo)": {
-		"languages": ["En"]
 	},
 	"Viewtiful Joe (Japan)": {
 		"languages": ["Ja"],
@@ -6347,7 +6358,7 @@
 	"Worms Blast (USA) (En,Fr,Es)": {
 		"languages": ["En", "Es", "Fr"]
 	},
-	"Wreckless - The Yakuza Missions (Europe) (En,Fr,De)": {
+	"Wreckless - The Yakuza Missions (Europe, Australia) (En,Fr,De)": {
 		"languages": ["De", "En", "Fr"]
 	},
 	"Wreckless - The Yakuza Missions (USA)": {

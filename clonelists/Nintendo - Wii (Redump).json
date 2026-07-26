@@ -1,8 +1,8 @@
 {
 	"description": {
 		"name": "Nintendo - Wii (Redump)",
-		"lastUpdated": "2025-10-06 10:50:46",
-		"minimumVersion": "2.4.0"
+		"lastUpdated": "2026-01-18 16:35:07",
+		"minimumVersion": "2.4.8"
 	},
 	"variants": [
 		{
@@ -435,7 +435,7 @@
 			"group": "Chronicles of Narnia, The - Prince Caspian",
 			"titles": [
 				{"searchTerm": "Chronicles of Narnia, The - Prince Caspian"},
-				{"searchTerm": "Narnia Koku Monogatari - Dai-2 Shou - Caspian Ouji no Tsunobue"}
+				{"searchTerm": "Narnia Koku Monogatari - Dai-2-shou - Caspian Ouji no Tsunobue"}
 			]
 		},
 		{
@@ -477,8 +477,8 @@
 		{
 			"group": "Countdown - The Game",
 			"titles": [
-				{"searchTerm": "Chiffres & Des Lettres, Des - Le Jeu Officiel"},
-				{"searchTerm": "Countdown - The Game"}
+				{"searchTerm": "Countdown - The Game"},
+				{"searchTerm": "Des Chiffres & Des Lettres - Le Jeu Officiel"}
 			]
 		},
 		{
@@ -673,7 +673,7 @@
 		{
 			"group": "Disney-Pixar Cars 2",
 			"titles": [
-				{"searchTerm": "Disney - Pixar Arabalar 2"},
+				{"searchTerm": "Disney-Pixar Arabalar 2"},
 				{"searchTerm": "Disney-Pixar Cars 2"}
 			]
 		},
@@ -1337,7 +1337,7 @@
 			"supersets": [
 				{"searchTerm": "Just Dance 3 (Best Buy)"},
 				{"searchTerm": "Just Dance 3 (Special Edition)"},
-				{"searchTerm": "Just Dance 3 (Target Exclusive Edition)", "priority": 2}
+				{"searchTerm": "Just Dance 3 (Target)", "priority": 2}
 			]
 		},
 		{
@@ -2644,8 +2644,8 @@
 			"group": "Sin & Punishment - Star Successor",
 			"titles": [
 				{"searchTerm": "Sin & Punishment - Star Successor"},
-				{"searchTerm": "Sin and Punishment - Successor of the Skies"},
-				{"searchTerm": "Tsumi to Batsu - Sora no Koukeisha"}
+				{"searchTerm": "Sin and Punishment - Sora no Koukeisha"},
+				{"searchTerm": "Sin and Punishment - Successor of the Skies"}
 			]
 		},
 		{

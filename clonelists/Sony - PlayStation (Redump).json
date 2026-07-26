@@ -1,8 +1,8 @@
 {
 	"description": {
 		"name": "Sony - PlayStation (Redump)",
-		"lastUpdated": "2025-10-06 10:50:46",
-		"minimumVersion": "2.4.0"
+		"lastUpdated": "2026-05-10 16:35:08",
+		"minimumVersion": "2.4.8"
 	},
 	"variants": [
 		{
@@ -561,10 +561,10 @@
 			]
 		},
 		{
-			"group": "Beat-Em-Up Special (Demo)",
+			"group": "Beat-Em-Up Special",
 			"titles": [
-				{"searchTerm": "Beat-Em-Up Special (Demo)"},
-				{"searchTerm": "Beat-Em-Up Speziale (Demo)"}
+				{"searchTerm": "Beat-Em-Up Special"},
+				{"searchTerm": "Beat-Em-Up Speziale"}
 			]
 		},
 		{
@@ -845,6 +845,7 @@
 			"group": "Bust-A-Move 2 - Arcade Edition",
 			"titles": [
 				{"searchTerm": "Bust-A-Move 2 - Arcade Edition"},
+				{"searchTerm": "Bust-A-Move 2 - Arcade Edition (2 Games)"},
 				{"searchTerm": "Puzzle Bobble 2"}
 			]
 		},
@@ -860,6 +861,7 @@
 			"group": "Bust-A-Move '99",
 			"titles": [
 				{"searchTerm": "Bust-A-Move 3 DX"},
+				{"searchTerm": "Bust-A-Move 3 DX (2 Games)"},
 				{"searchTerm": "Bust-A-Move '99"},
 				{"searchTerm": "Puzzle Bobble 3DX"}
 			]
@@ -1161,10 +1163,10 @@
 			]
 		},
 		{
-			"group": "Codemasters Demo CD (Demo)",
+			"group": "Codemasters Demo CD",
 			"titles": [
-				{"searchTerm": "Codemasters Demo CD (Demo)"},
-				{"searchTerm": "Codemasters Demo Disk (Demo)"}
+				{"searchTerm": "Codemasters Demo CD"},
+				{"searchTerm": "Codemasters Demo Disk"}
 			]
 		},
 		{
@@ -1489,7 +1491,7 @@
 			"group": "Demo One",
 			"titles": [
 				{
-					"searchTerm": "Demo One (Demo)",
+					"searchTerm": "Demo One",
 					"filters": [
 						{
 							"conditions": {
@@ -2129,14 +2131,14 @@
 		{
 			"group": "Dragon Warrior VII (Disc 1)",
 			"titles": [
-				{"searchTerm": "Dragon Quest VII - Eden no Senshi-tachi (Disc 1)"},
+				{"searchTerm": "Dragon Quest VII - Eden no Senshitachi (Disc 1)"},
 				{"searchTerm": "Dragon Warrior VII (Disc 1)"}
 			]
 		},
 		{
 			"group": "Dragon Warrior VII (Disc 2)",
 			"titles": [
-				{"searchTerm": "Dragon Quest VII - Eden no Senshi-tachi (Disc 2)"},
+				{"searchTerm": "Dragon Quest VII - Eden no Senshitachi (Disc 2)"},
 				{"searchTerm": "Dragon Warrior VII (Disc 2)"}
 			]
 		},
@@ -2693,6 +2695,13 @@
 				{"searchTerm": "Eikou no Fairway - Virtual Golf Simulation"},
 				{"searchTerm": "Final Round, The"},
 				{"searchTerm": "Konami Open Golf"}
+			]
+		},
+		{
+			"group": "Fisher-Price Rescue Heroes - Molten Menace",
+			"titles": [
+				{"searchTerm": "Fisher-Price Rescue Heroes - Helden in Gefahr"},
+				{"searchTerm": "Fisher-Price Rescue Heroes - Molten Menace"}
 			]
 		},
 		{
@@ -3588,7 +3597,7 @@
 		{
 			"group": "Klonoa Beach Volleyball",
 			"titles": [
-				{"searchTerm": "Klonoa Beach Volley - Saikyou Team Kettei-sen!"},
+				{"searchTerm": "Klonoa Beach Volley - Saikyou Team Ketteisen!"},
 				{"searchTerm": "Klonoa Beach Volleyball"}
 			]
 		},
@@ -3893,7 +3902,7 @@
 			"group": "Magical Drop III (Disc 1) (Magical Drop III)",
 			"titles": [
 				{"searchTerm": "Magical Drop III (Disc 1) (Magical Drop III)"},
-				{"searchTerm": "Magical Drop III - Yokubari Tokudai-gou!"}
+				{"searchTerm": "Magical Drop III - Yokubari Tokudaigou!"}
 			]
 		},
 		{
@@ -3907,12 +3916,12 @@
 			"group": "Magical Tetris Challenge",
 			"titles": [
 				{"searchTerm": "Defi au Tetris Magique"},
-				{"searchTerm": "El Tetris Un Magico Desafio"},
 				{"searchTerm": "Magical Tetris Challenge"},
 				{"searchTerm": "Magical Tetris Challenge featuring Mickey"},
 				{"searchTerm": "Magische Tetris Uitdaging"},
 				{"searchTerm": "Sfida al Tetris Magico"},
-				{"searchTerm": "Tetris Magiska Utmaning"}
+				{"searchTerm": "Tetris Magiska Utmaning"},
+				{"searchTerm": "Tetris Un Magico Desafio, El"}
 			]
 		},
 		{
@@ -3923,10 +3932,10 @@
 			]
 		},
 		{
-			"group": "Mahjong Uranai Fortuna - Tsuki no Megami-tachi",
+			"group": "Mahjong Uranai Fortuna - Tsuki no Megamitachi",
 			"titles": [
-				{"searchTerm": "Mahjong Uranai Fortuna - Tsuki no Megami-tachi"},
-				{"searchTerm": "SuperLite 1500 Series - Mahjong Uranai Fortuna - Tsuki no Megami-tachi", "priority": 2}
+				{"searchTerm": "Mahjong Uranai Fortuna - Tsuki no Megamitachi"},
+				{"searchTerm": "SuperLite 1500 Series - Mahjong Uranai Fortuna - Tsuki no Megamitachi", "priority": 2}
 			]
 		},
 		{
@@ -3983,7 +3992,7 @@
 		{
 			"group": "Master of Monsters - Disciples of Gaia",
 			"titles": [
-				{"searchTerm": "Master of Monsters - Akatsuki no Kenja-tachi"},
+				{"searchTerm": "Master of Monsters - Akatsuki no Kenjatachi"},
 				{"searchTerm": "Master of Monsters - Disciples of Gaia"}
 			]
 		},
@@ -4768,13 +4777,6 @@
 			]
 		},
 		{
-			"group": "Pachi-Slot Aruze Oukoku 4",
-			"titles": [
-				{"searchTerm": "Pachi-Slot Aruze Oukoku 4"},
-				{"searchTerm": "Pachi-Slot Aruze Oukoku 4 (Deluxe Pack)", "priority": 2}
-			]
-		},
-		{
 			"group": "Pajama Sam - You Are What You Eat from Your Head to Your Feet",
 			"titles": [
 				{"searchTerm": "Pajama Sam - You Are What You Eat from Your Head to Your Feet"},
@@ -4855,17 +4857,15 @@
 		{
 			"group": "Persona 2 - Eternal Punishment",
 			"titles": [
-				{"searchTerm": "Persona 2 - Batsu - Eternal Punishment (Disc 1) (Deluxe Pack)"},
 				{"searchTerm": "Persona 2 - Eternal Punishment"},
-				{"searchTerm": "Persona 2 - Batsu - Eternal Punishment (Disc 1)", "priority": 2}
+				{"searchTerm": "Persona 2 - Batsu - Eternal Punishment (Disc 1)"}
 			]
 		},
 		{
 			"group": "Persona 2 - Eternal Punishment (Bonus Disc)",
 			"titles": [
-				{"searchTerm": "Persona 2 - Batsu - Eternal Punishment (Disc 2) (Sumaru TV Special Preview Disc) (Deluxe Pack)"},
 				{"searchTerm": "Persona 2 - Eternal Punishment (Bonus Disc)"},
-				{"searchTerm": "Persona 2 - Batsu - Eternal Punishment (Disc 2) (Sumaru TV Special Preview Disc)", "priority": 2}
+				{"searchTerm": "Persona 2 - Batsu - Eternal Punishment (Disc 2) (Sumaru TV Special Preview Disc)"}
 			]
 		},
 		{
@@ -5056,7 +5056,7 @@
 		{
 			"group": "Poy Poy",
 			"titles": [
-				{"searchTerm": "Poitters' Point"},
+				{"searchTerm": "Poitter's Point"},
 				{"searchTerm": "Poy Poy"}
 			]
 		},
@@ -5219,10 +5219,30 @@
 			]
 		},
 		{
-			"group": "Rayman Brain Games",
+			"group": "Rayman Junior - Level 1",
 			"titles": [
-				{"searchTerm": "Rayman Brain Games"},
 				{"searchTerm": "Rayman Junior - Level 1"}
+			],
+			"compilations": [
+				{"searchTerm": "Rayman Brain Games"}
+			]
+		},
+		{
+			"group": "Rayman Junior - Level 2",
+			"titles": [
+				{"searchTerm": "Rayman Junior - Level 2"}
+			],
+			"compilations": [
+				{"searchTerm": "Rayman Brain Games"}
+			]
+		},
+		{
+			"group": "Rayman Junior - Level 3",
+			"titles": [
+				{"searchTerm": "Rayman Junior - Level 3"}
+			],
+			"compilations": [
+				{"searchTerm": "Rayman Brain Games"}
 			]
 		},
 		{
@@ -5290,13 +5310,6 @@
 			"titles": [
 				{"searchTerm": "Jet Copter X"},
 				{"searchTerm": "Rescue Copter"}
-			]
-		},
-		{
-			"group": "Rescue Heroes - Molten Menace",
-			"titles": [
-				{"searchTerm": "Rescue Heroes - Helden in Gefahr"},
-				{"searchTerm": "Rescue Heroes - Molten Menace"}
 			]
 		},
 		{
@@ -5502,13 +5515,6 @@
 			"titles": [
 				{"searchTerm": "Saiyuki - Journey West"},
 				{"searchTerm": "Saiyuuki"}
-			]
-		},
-		{
-			"group": "Samurai Deeper Kyou",
-			"titles": [
-				{"searchTerm": "Samurai Deeper Kyo"},
-				{"searchTerm": "Samurai Deeper Kyou"}
 			]
 		},
 		{
@@ -5934,7 +5940,7 @@
 		{
 			"group": "Street Fighter Collection 2",
 			"titles": [
-				{"searchTerm": "Capcom Generation - Dai-5-shuu Kakutouka-tachi"},
+				{"searchTerm": "Capcom Generation - Dai-5-shuu Kakutoukatachi"},
 				{"searchTerm": "Street Fighter Collection 2"}
 			]
 		},
@@ -6987,20 +6993,6 @@
 			]
 		},
 		{
-			"group": "Valkyrie Profile (Disc 1) (Deluxe Pack)",
-			"titles": [
-				{"searchTerm": "Valkyrie Profile (Disc 1) (Deluxe Pack)"},
-				{"searchTerm": "Valkyrie Profile (Disc 1)", "priority": 2}
-			]
-		},
-		{
-			"group": "Valkyrie Profile (Disc 2) (Deluxe Pack)",
-			"titles": [
-				{"searchTerm": "Valkyrie Profile (Disc 2) (Deluxe Pack)"},
-				{"searchTerm": "Valkyrie Profile (Disc 2)", "priority": 2}
-			]
-		},
-		{
 			"group": "Vanark",
 			"titles": [
 				{"searchTerm": "Astro Trooper Vanark"},
@@ -7156,7 +7148,7 @@
 				{"searchTerm": "Millionen Show, Die"},
 				{"searchTerm": "Qui Veut Gagner des Millions"},
 				{"searchTerm": "Quiz$Millionaire"},
-				{"searchTerm": "Vem Vill Bli Miljonaer"},
+				{"searchTerm": "Vem vill bli Miljonaer"},
 				{"searchTerm": "Vil du bli millionaer"},
 				{"searchTerm": "Wer wird Millionaer"},
 				{"searchTerm": "Who Wants to Be a Millionaire"}

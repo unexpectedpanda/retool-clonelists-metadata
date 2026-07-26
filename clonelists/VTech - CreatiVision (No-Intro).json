@@ -1,8 +1,8 @@
 {
 	"description": {
 		"name": "VTech - CreatiVision (No-Intro)",
-		"lastUpdated": "2025-10-06 10:50:46",
-		"minimumVersion": "2.4.0"
+		"lastUpdated": "2026-01-17 22:06:01",
+		"minimumVersion": "2.4.8"
 	},
 	"variants": [
 		{
@@ -15,9 +15,12 @@
 		{
 			"group": "Tennis",
 			"titles": [
-				{"searchTerm": "Tennis (Wimbledon)"},
-				{"searchTerm": "Tennis (DSE)", "priority": 2},
-				{"searchTerm": "Tennis (Coca-Cola ~ Sprite)", "priority": 3}
+				{"searchTerm": "Tennis (Wimbledon) (8K)"},
+				{"searchTerm": "Tennis (Wimbledon) (6K)", "priority": 2},
+				{"searchTerm": "Tennis (DSE) (8K)", "priority": 3},
+				{"searchTerm": "Tennis (DSE) (6K)", "priority": 4},
+				{"searchTerm": "Tennis (DSE)", "priority": 5},
+				{"searchTerm": "Tennis (Coca-Cola ~ Sprite)", "priority": 6}
 			]
 		}
 	]

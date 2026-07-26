@@ -1,8 +1,8 @@
 {
 	"description": {
 		"name": "SNK NeoGeo Pocket Color (No-Intro)",
-		"lastUpdated": "2025-10-06 10:50:46",
-		"minimumVersion": "2.4.0"
+		"lastUpdated": "2026-01-17 22:06:00",
+		"minimumVersion": "2.4.8"
 	},
 	"variants": [
 		{
@@ -36,8 +36,9 @@
 		{
 			"group": "Evolution - Eternal Dungeons",
 			"titles": [
-				{"searchTerm": "Evolution - Eternal Dungeons"},
-				{"searchTerm": "Shinki Sekai Evolution - Hateshinai Dungeon"}
+				{"searchTerm": "Evolution - Eternal Dungeons (vA1)"},
+				{"searchTerm": "Shinki Sekai Evolution - Hateshinai Dungeon"},
+				{"searchTerm": "Evolution - Eternal Dungeons", "priority": 2}
 			]
 		},
 		{
@@ -52,6 +53,13 @@
 			"titles": [
 				{"searchTerm": "Oekaki Puzzle"},
 				{"searchTerm": "Picture Puzzle"}
+			]
+		},
+		{
+			"group": "Pocket Reversi",
+			"titles": [
+				{"searchTerm": "Pocket Reversi (vA1)"},
+				{"searchTerm": "Pocket Reversi", "priority": 2}
 			]
 		},
 		{

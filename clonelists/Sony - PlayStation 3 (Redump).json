@@ -1,8 +1,8 @@
 {
 	"description": {
 		"name": "Sony - PlayStation 3 (Redump)",
-		"lastUpdated": "2025-10-06 10:50:46",
-		"minimumVersion": "2.4.0"
+		"lastUpdated": "2026-05-10 13:30:00",
+		"minimumVersion": "2.4.8"
 	},
 	"variants": [
 		{
@@ -418,8 +418,7 @@
 				{"searchTerm": "Buzz! Il Quizzone Nazionale"},
 				{"searchTerm": "Buzz! Le Plus Malin des Francais"},
 				{"searchTerm": "Buzz! Polskie Lamiglowki"},
-				{"searchTerm": "Buzz! Que Sabes de tu Pais"},
-				{"searchTerm": "Buzz! Quem e o Genio Portugues"}
+				{"searchTerm": "Buzz! Que Sabes de tu Pais"}
 			]
 		},
 		{
@@ -631,7 +630,7 @@
 		{
 			"group": "Disney-Pixar Cars 2",
 			"titles": [
-				{"searchTerm": "Disney - Pixar Arabalar 2"},
+				{"searchTerm": "Disney-Pixar Arabalar 2"},
 				{"searchTerm": "Disney-Pixar Cars 2"}
 			]
 		},
@@ -660,7 +659,8 @@
 			"group": "Dragon Age - Origins",
 			"titles": [
 				{"searchTerm": "Dragon Age - Nachalo"},
-				{"searchTerm": "Dragon Age - Origins"}
+				{"searchTerm": "Dragon Age - Origins"},
+				{"searchTerm": "Dragon Age - Poczatek"}
 			],
 			"supersets": [
 				{"searchTerm": "Dragon Age - Origins - Ultimate Edition"}
@@ -1108,8 +1108,9 @@
 			]
 		},
 		{
-			"group": "FolksSoul - Ushinawareta Denshou",
+			"group": "Folklore",
 			"titles": [
+				{"searchTerm": "Folklore"},
 				{"searchTerm": "FolksSoul - Ilheobeorin Jeonseung"},
 				{"searchTerm": "FolksSoul - Ushinawareta Denshou"}
 			]
@@ -1174,8 +1175,7 @@
 				{"searchTerm": "Gran Turismo 5", "priority": 2}
 			],
 			"supersets": [
-				{"searchTerm": "Gran Turismo 5 - 2013 Edition"},
-				{"searchTerm": "Gran Turismo 5 - XL Edition", "priority": 2}
+				{"searchTerm": "Gran Turismo 5 - XL Edition"}
 			]
 		},
 		{
@@ -1255,7 +1255,8 @@
 			"group": "Hot Shots Golf - Out of Bounds",
 			"titles": [
 				{"searchTerm": "Everybody's Golf - World Tour"},
-				{"searchTerm": "Hot Shots Golf - Out of Bounds"}
+				{"searchTerm": "Hot Shots Golf - Out of Bounds"},
+				{"searchTerm": "Minna no Golf 5"}
 			]
 		},
 		{
@@ -1486,6 +1487,7 @@
 			"group": "Legend of Heroes, The - Trails of Cold Steel",
 			"titles": [
 				{"searchTerm": "Eiyuu Densetsu - Sen no Kiseki"},
+				{"searchTerm": "Legend of Heroes, The - Seom-ui Gwejeok"},
 				{"searchTerm": "Legend of Heroes, The - Trails of Cold Steel"}
 			]
 		},
@@ -1493,6 +1495,7 @@
 			"group": "Legend of Heroes, The - Trails of Cold Steel II",
 			"titles": [
 				{"searchTerm": "Eiyuu Densetsu - Sen no Kiseki II"},
+				{"searchTerm": "Legend of Heroes, The - Seom-ui Gwejeok II"},
 				{"searchTerm": "Legend of Heroes, The - Trails of Cold Steel II"}
 			]
 		},
@@ -1506,7 +1509,7 @@
 		{
 			"group": "LEGO Harry Potter - Years 1-4",
 			"titles": [
-				{"searchTerm": "LEGO Harry Potter - Dai-1 Shou - Dai-4 Shou"},
+				{"searchTerm": "LEGO Harry Potter - Dai-1-shou - Dai-4-shou"},
 				{"searchTerm": "LEGO Harry Potter - Years 1-4"}
 			]
 		},
@@ -1858,7 +1861,7 @@
 		{
 			"group": "No More Heroes - Heroes' Paradise",
 			"titles": [
-				{"searchTerm": "No More Heroes - Eiyuu-tachi no Rakuen"},
+				{"searchTerm": "No More Heroes - Eiyuutachi no Rakuen"},
 				{"searchTerm": "No More Heroes - Heroes' Paradise"},
 				{"searchTerm": "No More Heroes - Red Zone Edition"}
 			]
@@ -1929,7 +1932,6 @@
 		{
 			"group": "Persona 4 Arena Ultimax",
 			"titles": [
-				{"searchTerm": "Persona 4 - The Ultimax - Ultra Suplex Hold"},
 				{"searchTerm": "Persona 4 - The Ultimax Ultra Suplex Hold"},
 				{"searchTerm": "Persona 4 Arena Ultimax"}
 			]
@@ -2189,6 +2191,10 @@
 			"group": "Red Dead Redemption - Undead Nightmare",
 			"titles": [
 				{"searchTerm": "Red Dead Redemption - Undead Nightmare"}
+			],
+			"supersets": [
+				{"searchTerm": "Red Dead Redemption - Complete Edition"},
+				{"searchTerm": "Red Dead Redemption - Game of the Year Edition"}
 			]
 		},
 		{
@@ -2293,6 +2299,13 @@
 			"titles": [
 				{"searchTerm": "Rune Factory - Oceans"},
 				{"searchTerm": "Rune Factory - Tides of Destiny"}
+			]
+		},
+		{
+			"group": "Ryuu ga Gotoku 0 - Chikai no Basho",
+			"titles": [
+				{"searchTerm": "Renzhong zhi Long 0 - Shiyue de Changsuo"},
+				{"searchTerm": "Ryuu ga Gotoku 0 - Chikai no Basho"}
 			]
 		},
 		{
@@ -2623,6 +2636,13 @@
 			]
 		},
 		{
+			"group": "Suzumiya Haruhi no Tsuisou",
+			"titles": [
+				{"searchTerm": "Suzumiya Haruhi no Tsuisou (Nagato Yuki no Otoshimono Box)"},
+				{"searchTerm": "Suzumiya Haruhi no Tsuisou", "priority": 2}
+			]
+		},
+		{
 			"group": "Tales of Graces f",
 			"titles": [
 				{"searchTerm": "Tales of Graces f"}
@@ -2681,13 +2701,6 @@
 			],
 			"compilations": [
 				{"searchTerm": "Fighting Edition"}
-			]
-		},
-		{
-			"group": "Test Drive Unlimited 2",
-			"titles": [
-				{"searchTerm": "Test Drive Unlimited 2"},
-				{"searchTerm": "Test Drive Unlimited 2 Plus Casino Online"}
 			]
 		},
 		{
@@ -2984,6 +2997,13 @@
 			"titles": [
 				{"searchTerm": "Wizardry - Perfect Pack"},
 				{"searchTerm": "Wizardry - Twin Pack", "priority": 2}
+			]
+		},
+		{
+			"group": "X Factor, The",
+			"titles": [
+				{"searchTerm": "X Factor"},
+				{"searchTerm": "X Factor, The"}
 			]
 		},
 		{

@@ -1,8 +1,8 @@
 {
 	"description": {
 		"name": "Nintendo - Nintendo Entertainment System (No-Intro)",
-		"lastUpdated": "2025-10-06 10:50:46",
-		"minimumVersion": "2.4.0"
+		"lastUpdated": "2026-03-14 17:49:19",
+		"minimumVersion": "2.4.8"
 	},
 	"variants": [
 		{
@@ -20,11 +20,44 @@
 			]
 		},
 		{
+			"group": "42-in-1",
+			"titles": [
+				{
+					"searchTerm": "42-in-1",
+					"filters": [
+						{
+							"conditions": {
+								"matchString": "Aftermarket"
+							},
+							"results": {
+								"group": "42-in-1 aftermarket"
+							}
+						}
+					]
+				}
+			]
+		},
+		{
+			"group": "75 Bingo",
+			"titles": [
+				{"searchTerm": "75 Bingo"},
+				{"searchTerm": "75 Binguo"}
+			]
+		},
+		{
+			"group": "777 Lucky Bingo",
+			"titles": [
+				{"searchTerm": "777 Lucky Bingo"},
+				{"searchTerm": "777 Xingyun Lunpan"}
+			]
+		},
+		{
 			"group": "1943 - The Battle of Midway",
 			"titles": [
 				{"searchTerm": "1943"},
 				{"searchTerm": "1943 - The Battle of Midway"},
-				{"searchTerm": "1943 - The Battle of Valhalla"}
+				{"searchTerm": "1943 - The Battle of Valhalla"},
+				{"searchTerm": "1944"}
 			]
 		},
 		{
@@ -37,8 +70,8 @@
 		{
 			"group": "Action 53 Function 16 - Volume One",
 			"titles": [
-				{"searchTerm": "Action 53 Function 16 - Volume One (RC.2)"},
-				{"searchTerm": "Action 53 Function 16 - Volume One (RC.1)", "priority": 2}
+				{"searchTerm": "Action 53 Function 16 - Volume One (R.C.#2)"},
+				{"searchTerm": "Action 53 Function 16 - Volume One (R.C.#1)", "priority": 2}
 			]
 		},
 		{
@@ -101,7 +134,7 @@
 				{"searchTerm": "Adam & Eve"}
 			],
 			"compilations": [
-				{"searchTerm": "Asder - 20 in 1"},
+				{"searchTerm": "Asder - 20-in-1"},
 				{"searchTerm": "Caltron - 6 in 1"},
 				{"searchTerm": "HES 6-Pak - Real Player's Pak"}
 			]
@@ -127,7 +160,8 @@
 				{"searchTerm": "Adventure Island 3"},
 				{"searchTerm": "Adventure Island III"},
 				{"searchTerm": "Takahashi Meijin no Bouken-jima III"},
-				{"searchTerm": "Super Bros. 11 - Mario Adventures", "priority": 2}
+				{"searchTerm": "Super Bros. 11 - Mario Adventures", "priority": 2},
+				{"searchTerm": "Mewtwo no Pokemon II", "priority": 3}
 			]
 		},
 		{
@@ -137,14 +171,15 @@
 				{"searchTerm": "Adventure Island Part II, The"},
 				{"searchTerm": "Takahashi Meijin no Bouken-jima II"},
 				{"searchTerm": "Super Bros. 9", "priority": 2},
-				{"searchTerm": "Super Mario World 9", "priority": 3}
+				{"searchTerm": "Super Mario World 9 (Cheat)", "priority": 3},
+				{"searchTerm": "Super Mario World 9 (S-D9)", "priority": 4}
 			]
 		},
 		{
 			"group": "Adventures in the Magic Kingdeom",
 			"titles": [
 				{"searchTerm": "Adventures in the Magic Kingdom"},
-				{"searchTerm": "Disneyland Adventures (P-C5)", "priority": 2}
+				{"searchTerm": "Disneyland Adventures", "priority": 2}
 			]
 		},
 		{
@@ -215,11 +250,10 @@
 			"group": "Aladdin - Hummer Team",
 			"titles": [
 				{"searchTerm": "Aladdin (Hummer Team) (Pirate)", "nameType": "regionFree"},
-				{"searchTerm": "Aladdin (Pirate)", "nameType": "regionFree"},
-				{"searchTerm": "Aladdin (A-N7) (Pirate)", "nameType": "regionFree", "priority": 2},
-				{"searchTerm": "Aladdin (NT-622) (Pirate)", "nameType": "regionFree", "priority": 2},
-				{"searchTerm": "Aladdin 4 (1996) (Pirate)", "nameType": "regionFree", "priority": 4},
-				{"searchTerm": "Aladdin 4 (1995) (Pirate)", "nameType": "regionFree", "priority": 5},
+				{"searchTerm": "Aladdin (Hummer Team) (A-N7) (Pirate)", "nameType": "regionFree", "priority": 2},
+				{"searchTerm": "Aladdin (Hummer Team) (NT-622) (Pirate)", "nameType": "regionFree", "priority": 2},
+				{"searchTerm": "Aladdin 4 (Hummer Team) (1996) (Pirate)", "nameType": "regionFree", "priority": 4},
+				{"searchTerm": "Aladdin 4 (Hummer Team) (1995) (Pirate)", "nameType": "regionFree", "priority": 5},
 				{"searchTerm": "Aladdin II (Hummer Team) (Pirate)", "nameType": "regionFree", "priority": 6},
 				{"searchTerm": "Popeye II - Travels in Persia (Pirate)", "nameType": "regionFree", "priority": 7}
 			]
@@ -276,13 +310,6 @@
 					}
 				},
 				{"searchTerm": "Huimie Zhi Shen", "priority": 2}
-			]
-		},
-		{
-			"group": "Another World",
-			"titles": [
-				{"searchTerm": "Another World"},
-				{"searchTerm": "Another World (Glitchcore Version)", "priority": 2}
 			]
 		},
 		{
@@ -377,7 +404,7 @@
 				{"searchTerm": "Monstruo de los Globos, El"}
 			],
 			"compilations": [
-				{"searchTerm": "Asder - 20 in 1"},
+				{"searchTerm": "Asder - 20-in-1"},
 				{"searchTerm": "Caltron - 6 in 1"},
 				{"searchTerm": "HES 6-Pak - Real Player's Pak"}
 			]
@@ -386,8 +413,7 @@
 			"group": "Banana Prince",
 			"titles": [
 				{"searchTerm": "Banana Prince"},
-				{"searchTerm": "Bananan Ouji no Daibouken"},
-				{"searchTerm": "Bananan Ouji no Daibouken (S-P6)", "priority": 2}
+				{"searchTerm": "Bananan Ouji no Daibouken"}
 			]
 		},
 		{
@@ -395,17 +421,6 @@
 			"titles": [
 				{"searchTerm": "Bandit Kings of Ancient China"},
 				{"searchTerm": "Suikoden - Tenmei no Chikai"}
-			]
-		},
-		{
-			"group": "Bao Qingtian - Gedou Ban (Super Justice King)",
-			"titles": [
-				{
-					"searchTerm": "Bao Qingtian - Gedou Ban (Super Justice King)",
-					"localNames": {
-						"chinese (traditional)": "新包青天Ⅱ（武鬥篇）"
-					}
-				}
 			]
 		},
 		{
@@ -507,7 +522,8 @@
 			"group": "Battlecity",
 			"titles": [
 				{"searchTerm": "Battlecity"},
-				{"searchTerm": "Tank 1990", "priority": 2}
+				{"searchTerm": "Tank 1990", "priority": 2},
+				{"searchTerm": "Tank 1989", "priority": 3}
 			]
 		},
 		{
@@ -536,7 +552,7 @@
 		{
 			"group": "Benico",
 			"compilations": [
-				{"searchTerm": "Asder - 20 in 1"}
+				{"searchTerm": "Asder - 20-in-1"}
 			]
 		},
 		{
@@ -558,13 +574,6 @@
 			"titles": [
 				{"searchTerm": "Bill & Ted's Excellent Video Game Adventure"},
 				{"searchTerm": "Bill & Ted's Excellent Video Game Adventure (Retro Collection)", "priority": 2}
-			]
-		},
-		{
-			"group": "Bingo 75",
-			"titles": [
-				{"searchTerm": "Bingo 75"},
-				{"searchTerm": "BinGuo 75", "priority": 2}
 			]
 		},
 		{
@@ -654,13 +663,6 @@
 			]
 		},
 		{
-			"group": "BMX Simulator",
-			"titles": [
-				{"searchTerm": "BMX Simulator"},
-				{"searchTerm": "BMX Simulator (B-S2)", "priority": 2}
-			]
-		},
-		{
 			"group": "Bomberman II",
 			"titles": [
 				{"searchTerm": "Bomberman II"},
@@ -678,7 +680,7 @@
 			"group": "Boogerman",
 			"titles": [
 				{"searchTerm": "Boogerman"},
-				{"searchTerm": "Super Boogerman"}
+				{"searchTerm": "Super Boogerman 1997"}
 			]
 		},
 		{
@@ -702,7 +704,7 @@
 				{"searchTerm": "Brush Roller"}
 			],
 			"compilations": [
-				{"searchTerm": "Asder - 20 in 1"},
+				{"searchTerm": "Asder - 20-in-1"},
 				{"searchTerm": "Caltron - 6 in 1"},
 				{"searchTerm": "HES 6-Pak - Real Player's Pak"}
 			]
@@ -762,7 +764,8 @@
 			"group": "Capcom's Gold Medal Challenge '92",
 			"titles": [
 				{"searchTerm": "Capcom Barcelona '92"},
-				{"searchTerm": "Capcom's Gold Medal Challenge '92"}
+				{"searchTerm": "Capcom's Gold Medal Challenge '92"},
+				{"searchTerm": "Olympic"}
 			]
 		},
 		{
@@ -856,7 +859,7 @@
 			"titles": [
 				{"searchTerm": "Challenge of the Dragon"},
 				{
-					"searchTerm": "Shorin Musha - Chinese KungFu",
+					"searchTerm": "Chinese KungFu - Shaolin Warrior",
 					"localNames": {
 						"chinese (simplified)": "少林武者"
 					}
@@ -888,7 +891,8 @@
 			"titles": [
 				{"searchTerm": "Chaoji Da Fuweng"},
 				{"searchTerm": "Meiguo Fuhao", "priority": 2},
-				{"searchTerm": "Baiwan Fuweng", "priority": 3}
+				{"searchTerm": "Baiwan Fuweng", "priority": 3},
+				{"searchTerm": "Ju Bao Pen", "priority": 4}
 			]
 		},
 		{
@@ -973,9 +977,11 @@
 		{
 			"group": "Chip 'n Dale - Rescue Rangers",
 			"titles": [
-				{"searchTerm": "Chip & Dales (BA058)"},
+				{"searchTerm": "Chip & Dales"},
 				{"searchTerm": "Chip 'n Dale - Rescue Rangers"},
 				{"searchTerm": "Chip to Dale no Daisakusen"},
+				{"searchTerm": "Fighting of the Malilugi"},
+				{"searchTerm": "Grand Combat"},
 				{"searchTerm": "Super Mario & Sonic 2"}
 			]
 		},
@@ -983,8 +989,7 @@
 			"group": "Chip 'n Dale - Rescue Rangers 2",
 			"titles": [
 				{"searchTerm": "Chip 'n Dale - Rescue Rangers 2"},
-				{"searchTerm": "Chip to Dale no Daisakusen 2"},
-				{"searchTerm": "Chip to Dale no Daisakusen 2 (C-D2)", "priority": 2}
+				{"searchTerm": "Chip to Dale no Daisakusen 2"}
 			]
 		},
 		{
@@ -1068,15 +1073,6 @@
 			]
 		},
 		{
-			"group": "Cold & Starving",
-			"titles": [
-				{"searchTerm": "Cold & Starving (Update #20)"},
-				{"searchTerm": "Cold & Starving (Update #19)", "priority": 2},
-				{"searchTerm": "Cold & Starving (Update #18)", "priority": 3},
-				{"searchTerm": "Cold & Starving (Update #17)", "priority": 4}
-			]
-		},
-		{
 			"group": "Columbus - Ougon no Yoake",
 			"titles": [
 				{"searchTerm": "Columbus - Ougon no Yoake"},
@@ -1105,14 +1101,23 @@
 			"titles": [
 				{"searchTerm": "Contra"},
 				{"searchTerm": "Probotector"},
-				{"searchTerm": "Super Contra II", "priority": 2},
+				{"searchTerm": "Super Contra II (1994)", "priority": 2},
+				{"searchTerm": "Super Contra II", "priority": 3},
 				{
-					"searchTerm": "'93 Chaoji Hun (Contra '93)",
-					"priority": 3,
+					"searchTerm": "'93 Chaoji Hun",
+					"priority": 4,
 					"localNames": {
 						"chinese (simplified)": "＇９３　超级魂"
 					}
-				}
+				},
+				{
+					"searchTerm": "'93 Chaoji Hun (Spread Gun Cheat)",
+					"priority": 5,
+					"localNames": {
+						"chinese (simplified)": "＇９３　超级魂 （霰弹枪作弊）"
+					}
+				},
+				{"searchTerm": "Super Contra II (1993)", "priority": 6}
 			]
 		},
 		{
@@ -1123,19 +1128,12 @@
 			]
 		},
 		{
-			"group": "Contra Spirits",
-			"titles": [
-				{"searchTerm": "Contra Spirits (1996)"},
-				{"searchTerm": "Contra Spirits (1995)", "priority": 2}
-			]
-		},
-		{
 			"group": "Cosmos Cop",
 			"titles": [
 				{"searchTerm": "Cosmos Cop"}
 			],
 			"compilations": [
-				{"searchTerm": "Asder - 20 in 1"},
+				{"searchTerm": "Asder - 20-in-1"},
 				{"searchTerm": "Caltron - 6 in 1"},
 				{"searchTerm": "HES 6-Pak - Real Player's Pak"}
 			]
@@ -1208,10 +1206,10 @@
 			]
 		},
 		{
-			"group": "Da Fuweng II - Shanghai Daheng (Shanghai Tycoon)",
+			"group": "Da Fuweng II - Shanghai Daheng",
 			"titles": [
 				{
-					"searchTerm": "Da Fuweng II - Shanghai Daheng (Shanghai Tycoon)",
+					"searchTerm": "Da Fuweng II - Shanghai Daheng",
 					"localNames": {
 						"chinese (simplified)": "大富翁ＩＩ　－　上海大亨"
 					}
@@ -1222,7 +1220,8 @@
 			"group": "Da Hanghai VII",
 			"titles": [
 				{"searchTerm": "Da Hanghai VII"},
-				{"searchTerm": "Juezhan Taipingyang", "priority": 2}
+				{"searchTerm": "Jingdian Tiequan V", "priority": 2},
+				{"searchTerm": "Juezhan Taipingyang", "priority": 3}
 			]
 		},
 		{
@@ -1445,26 +1444,11 @@
 			"group": "Dou Zhi Pinpan - Wisdom Boy",
 			"titles": [
 				{
-					"searchTerm": "Dou Zhi Pinpan - Wisdom Boy (Gamtec)",
-					"localNames": {
-						"chinese (traditional)": "闘智拼盤"
-					}
-				},
-				{
-					"searchTerm": "Dou Zhi Pinpan - Wisdom Boy (Unknown)",
+					"searchTerm": "Dou Zhi Pinpan - Wisdom Boy",
 					"localNames": {
 						"chinese (traditional)": "闘智拼盤"
 					}
 				}
-			]
-		},
-		{
-			"group": "Double Action 53 - Volume 2",
-			"titles": [
-				{"searchTerm": "Double Action 53 - Volume 2"},
-				{"searchTerm": "Double Action 53 - Volume 2 (RC.4a)", "priority": 2},
-				{"searchTerm": "Double Action 53 - Volume 2 (RC.3)", "priority": 3},
-				{"searchTerm": "Double Action 53 - Volume 2 (RC.2)", "priority": 4}
 			]
 		},
 		{
@@ -1488,6 +1472,20 @@
 			]
 		},
 		{
+			"group": "Double Dragon II - The Revenge",
+			"titles": [
+				{"searchTerm": "Double Dragon II - The Revenge"},
+				{"searchTerm": "Sou Setsu Ryuu II - The Revenge"}
+			]
+		},
+		{
+			"group": "Double Dragon III - The Sacred Stones",
+			"titles": [
+				{"searchTerm": "Double Dragon III - The Rosetta Stone"},
+				{"searchTerm": "Double Dragon III - The Sacred Stones"}
+			]
+		},
+		{
 			"group": "Double Dribble",
 			"titles": [
 				{"searchTerm": "Double Dribble"},
@@ -1497,8 +1495,7 @@
 		{
 			"group": "Double Strike - Aerial Attack Force",
 			"titles": [
-				{"searchTerm": "Double Strike - Aerial Attack Force"},
-				{"searchTerm": "Shuang Ying"}
+				{"searchTerm": "Double Strike - Aerial Attack Force"}
 			],
 			"compilations": [
 				{"searchTerm": "Funblaster Pak"},
@@ -1536,7 +1533,7 @@
 			"group": "Dragon Ball Z - Gekitou Tenkaichi Budoukai",
 			"titles": [
 				{"searchTerm": "Dragon Ball Z - Gekitou Tenkaichi Budoukai (Datach)"},
-				{"searchTerm": "Dragon Ball Z - Gekitou Tenkaichi Budoukai (T-230)", "priority": 2}
+				{"searchTerm": "Dragon Ball Z - Gekitou Tenkaichi Budoukai", "priority": 2}
 			]
 		},
 		{
@@ -1550,7 +1547,8 @@
 						"chinese (simplified)": "七龙珠"
 					}
 				},
-				{"searchTerm": "Wukong Dou Ju", "priority": 3}
+				{"searchTerm": "Wukong Dou Ju", "priority": 3},
+				{"searchTerm": "Wukong Qianchuan", "priority": 4}
 			]
 		},
 		{
@@ -1559,10 +1557,17 @@
 				{"searchTerm": "Dragon Ball Z - Super Butouden 2"},
 				{"searchTerm": "Impartial Judge", "priority": 2},
 				{
-					"searchTerm": "Fengshenbang (Myth Struggle)",
+					"searchTerm": "Fengshenbang - Myth Struggle",
 					"priority": 3,
 					"localNames": {
-						"chinese (simplified)": "封神榜"
+						"chinese (simplified)": "封神榜ＭｙｔｈＳｔｒｕｇｇｌｅ"
+					}
+				},
+				{
+					"searchTerm": "Xin Bao Qingtian (Gedou Ban) - Super Justice King",
+					"priority": 4,
+					"localNames": {
+						"chinese (traditional)": "新包青天Ⅱ（武鬥篇）"
 					}
 				}
 			]
@@ -1571,10 +1576,9 @@
 			"group": "Dragon Ball Z Gaiden - Saiya Jin Zetsumetsu Keikaku",
 			"titles": [
 				{"searchTerm": "Dragon Ball Z Gaiden - Saiya Jin Zetsumetsu Keikaku"},
-				{"searchTerm": "Dragon Ball Z Gaiden - Saiya Jin Zetsumetsu Keikaku (YY0807)", "priority": 2},
-				{"searchTerm": "Qilongzhu Z Chuanshuo", "priority": 3},
-				{"searchTerm": "Qilongzhu Z Waizhuan - Saiya Ren Miejue Jihua", "priority": 4},
-				{"searchTerm": "Saiya Ren Miejue Jihua", "priority": 5}
+				{"searchTerm": "Qilongzhu Z Chuanshuo", "priority": 2},
+				{"searchTerm": "Qilongzhu Z Waizhuan - Saiya Ren Miejue Jihua", "priority": 3},
+				{"searchTerm": "Saiya Ren Miejue Jihua", "priority": 4}
 			]
 		},
 		{
@@ -1694,7 +1698,7 @@
 				{"searchTerm": "Dream Fighter"}
 			],
 			"compilations": [
-				{"searchTerm": "Asder - 20 in 1"},
+				{"searchTerm": "Asder - 20-in-1"},
 				{"searchTerm": "Caltron - 9 in 1", "priority": 2}
 			]
 		},
@@ -1724,13 +1728,6 @@
 				{"searchTerm": "DuckTales"},
 				{"searchTerm": "DuckTales III"},
 				{"searchTerm": "Wanpaku Duck Yume Bouken"}
-			]
-		},
-		{
-			"group": "DuckTales 2",
-			"titles": [
-				{"searchTerm": "DuckTales 2"},
-				{"searchTerm": "DuckTales 2 (D-T2)", "priority": 2}
 			]
 		},
 		{
@@ -1772,19 +1769,19 @@
 			]
 		},
 		{
+			"group": "Electric Dragon - Another World",
+			"titles": [
+				{"searchTerm": "Electric Dragon - Another World"},
+				{"searchTerm": "Electric Dragon - Another World (Glitchcore Version)", "priority": 2}
+			]
+		},
+		{
 			"group": "Eskimo Bob Starring Alfonzo",
 			"titles": [
 				{"searchTerm": "Eskimo Bob Starring Alfonzo"}
 			],
 			"supersets": [
 				{"searchTerm": "Eskimo Bob Starring Alfonzo - Deluxe Edition"}
-			]
-		},
-		{
-			"group": "F1 Race",
-			"titles": [
-				{"searchTerm": "F1 Race"},
-				{"searchTerm": "F-1 Race"}
 			]
 		},
 		{
@@ -1827,7 +1824,9 @@
 			"categories": ["Applications"],
 			"titles": [
 				{"searchTerm": "Family BASIC"},
-				{"searchTerm": "Playbox BASIC", "priority": 2}
+				{"searchTerm": "Jiating Diannao Jiaoxue Jianpan"},
+				{"searchTerm": "Playbox BASIC", "priority": 2},
+				{"searchTerm": "Tangguo Mao 2", "priority": 3}
 			]
 		},
 		{
@@ -1849,8 +1848,7 @@
 			"titles": [
 				{"searchTerm": "Fatal Fury 2"},
 				{"searchTerm": "Fatal Fury 2'", "priority": 2},
-				{"searchTerm": "Garou Densetsu 2", "priority": 3},
-				{"searchTerm": "Garou Densetsu 2 (Unknown)", "priority": 4}
+				{"searchTerm": "Garou Densetsu 2", "priority": 3}
 			]
 		},
 		{
@@ -1858,22 +1856,25 @@
 			"titles": [
 				{"searchTerm": "Felix the Cat (Hudson)"},
 				{"searchTerm": "Pokemon 2000", "priority": 2},
-				{"searchTerm": "Teletubbies 2000", "priority": 3}
+				{"searchTerm": "Teletubbies 2000", "priority": 3},
+				{"searchTerm": "Pikachu Y2K", "priority": 4},
+				{"searchTerm": "Pokemon - Yellow Version", "priority": 5},
+				{"searchTerm": "Pokemon 2000 (Charmander)", "priority": 6}
 			]
 		},
 		{
 			"group": "Fengshenbang (Simplified)",
 			"titles": [
 				{"searchTerm": "Fengshenbang (Simplified)"},
-				{"searchTerm": "Fengshenbang (Traditional)", "priority": 2},
 				{"searchTerm": "Fengshenbang", "priority": 3}
 			]
 		},
 		{
 			"group": "Fengyun - Traitor Legend",
 			"titles": [
-				{"searchTerm": "Fengyun - Traitor Legend (970100684)"},
-				{"searchTerm": "Fengyun - Traitor Legend (980334)", "priority": 2}
+				{"searchTerm": "Fengyun - Traitor Legend (970100684) (43-406 PCB)"},
+				{"searchTerm": "Fengyun - Traitor Legend (970100684) (FS005 PCB)", "priority": 2},
+				{"searchTerm": "Fengyun - Traitor Legend (980334)", "priority": 3}
 			]
 		},
 		{
@@ -1881,13 +1882,6 @@
 			"titles": [
 				{"searchTerm": "Ferrari"},
 				{"searchTerm": "Ferrari Grand Prix Challenge"}
-			]
-		},
-		{
-			"group": "Fester's Quest",
-			"titles": [
-				{"searchTerm": "Fester's Quest"},
-				{"searchTerm": "Addams Family, The - Uncle Fester's Quest", "priority": 2}
 			]
 		},
 		{
@@ -2007,6 +2001,13 @@
 			]
 		},
 		{
+			"group": "Firework Thrower Kantaro's 53 Stations of the Toukaido",
+			"titles": [
+				{"searchTerm": "Firework Thrower Kantaro's 53 Stations of the Toukaido"},
+				{"searchTerm": "Kanshakudama Nage Kantarou no Toukaidou Gojuusan Tsugi"}
+			]
+		},
+		{
 			"group": "Fisraduth - Castle of Tyramis",
 			"titles": [
 				{"searchTerm": "Fisraduth - Castle of Tyramis (Family BASIC)"},
@@ -2032,7 +2033,7 @@
 			"group": "Flea!",
 			"titles": [
 				{"searchTerm": "Flea!"},
-				{"searchTerm": "Flea! (Broke Studio)", "priority": 2}
+				{"searchTerm": "Flea! (Dreamcast)", "priority": 2}
 			]
 		},
 		{
@@ -2090,8 +2091,7 @@
 			"group": "G.I. Joe - The Atlantis Factor",
 			"titles": [
 				{"searchTerm": "G.I. Joe - The Atlantis Factor"},
-				{"searchTerm": "Super Contra 5"},
-				{"searchTerm": "G.I. Joe - A Real American Hero - The Atlantis Factor", "priority": 2}
+				{"searchTerm": "Super Contra 5"}
 			]
 		},
 		{
@@ -2114,6 +2114,13 @@
 			]
 		},
 		{
+			"group": "Galaxian",
+			"titles": [
+				{"searchTerm": "Galaxian"},
+				{"searchTerm": "Hoshizora Hi Zen Tsuyo Nori - Night Arrow"}
+			]
+		},
+		{
 			"group": "Ganbare Goemon Gaiden 2 - Tenka no Zaihou",
 			"titles": [
 				{"searchTerm": "Ganbare Goemon Gaiden 2 - Tenka no Zaihou"},
@@ -2125,9 +2132,8 @@
 			"titles": [
 				{"searchTerm": "Diveman"},
 				{"searchTerm": "Gardman"},
-				{"searchTerm": "Five Kids", "priority": 2},
-				{"searchTerm": "Monster Brother", "priority": 3},
-				{"searchTerm": "Wonder Rabbit", "priority": 4}
+				{"searchTerm": "Monster Brother", "priority": 2},
+				{"searchTerm": "Wonder Rabbit", "priority": 3}
 			]
 		},
 		{
@@ -2204,7 +2210,7 @@
 				{"searchTerm": "Go! Benny!"}
 			],
 			"compilations": [
-				{"searchTerm": "Asder - 20 in 1"},
+				{"searchTerm": "Asder - 20-in-1"},
 				{"searchTerm": "Caltron - 9 in 1", "priority": 2}
 			]
 		},
@@ -2261,13 +2267,6 @@
 			]
 		},
 		{
-			"group": "Graveyard Dude Demo",
-			"titles": [
-				{"searchTerm": "Graveyard Dude (Demo) (Enhanced)"},
-				{"searchTerm": "Graveyard Dude (Demo)", "priority": 2}
-			]
-		},
-		{
 			"group": "Gremlins 2 - The New Batch",
 			"titles": [
 				{"searchTerm": "Gremlin 2 - Shinshu Tanjou"},
@@ -2277,8 +2276,10 @@
 		{
 			"group": "Gruniozerca",
 			"titles": [
-				{"searchTerm": "Gruniozerca (NROM)"},
-				{"searchTerm": "Gruniozerca (UOROM)", "priority": 2}
+				{"searchTerm": "Gruniozerca"}
+			],
+			"compilations": [
+				{"searchTerm": "Gruniozerca Trilogy, The"}
 			]
 		},
 		{
@@ -2286,6 +2287,18 @@
 			"titles": [
 				{"searchTerm": "Gruniozerca 2"},
 				{"searchTerm": "Gruniozerca 2 - The Great Cavy Rescue!"}
+			],
+			"compilations": [
+				{"searchTerm": "Gruniozerca Trilogy, The"}
+			]
+		},
+		{
+			"group": "Gruniozerca 3 - The Great Cavy Clean-Up!",
+			"titles": [
+				{"searchTerm": "Gruniozerca 3 - The Great Cavy Clean-Up!"}
+			],
+			"compilations": [
+				{"searchTerm": "Gruniozerca Trilogy, The"}
 			]
 		},
 		{
@@ -2302,13 +2315,6 @@
 				{"searchTerm": "Guevara"},
 				{"searchTerm": "Cuba War", "priority": 2},
 				{"searchTerm": "Cuba Zhanshi Xi Hua", "priority": 3}
-			]
-		},
-		{
-			"group": "GunTner",
-			"titles": [
-				{"searchTerm": "GunTner"},
-				{"searchTerm": "GunTner (Magfest 2023)", "priority": 2}
 			]
 		},
 		{
@@ -2390,18 +2396,28 @@
 			]
 		},
 		{
+			"group": "Haunted - Halloween '86",
+			"titles": [
+				{"searchTerm": "Haunted - Halloween '86"}
+			],
+			"supersets": [
+				{"searchTerm": "Haunted - Halloween '86 (Remastered Onslaught Edition)"}
+			]
+		},
+		{
 			"group": "Hayauchi Super Igo",
 			"titles": [
 				{"searchTerm": "Hayauchi Super Igo"},
-				{"searchTerm": "Chaoyiliu Yan Shan Bei Weiqi", "priority": 2}
+				{"searchTerm": "Chaoyiliu Yan Shan Bei Weiqi", "priority": 2},
+				{"searchTerm": "Yan Shan Cup, The", "priority": 3}
 			]
 		},
 		{
 			"group": "Heavy Barrel",
 			"titles": [
 				{"searchTerm": "Heavy Barrel"},
-				{"searchTerm": "Chip Dale 2 (K1023)", "priority": 2},
-				{"searchTerm": "Chip & Dale 3 (C-D3)", "priority": 3}
+				{"searchTerm": "Chip Dale 2", "priority": 2},
+				{"searchTerm": "Chip & Dale 3", "priority": 3}
 			]
 		},
 		{
@@ -2414,7 +2430,7 @@
 		{
 			"group": "Hi-Lo Poker",
 			"compilations": [
-				{"searchTerm": "Asder - 20 in 1"}
+				{"searchTerm": "Asder - 20-in-1"}
 			]
 		},
 		{
@@ -2434,10 +2450,10 @@
 			]
 		},
 		{
-			"group": "House in the Cemetery, The",
+			"group": "Hot Dance 2000",
 			"titles": [
-				{"searchTerm": "House in the Cemetery, The"},
-				{"searchTerm": "House in the Cemetery, The (Broke Studio)"}
+				{"searchTerm": "Hot Dance 2000"},
+				{"searchTerm": "Tiaowu Tianshi"}
 			]
 		},
 		{
@@ -2490,13 +2506,6 @@
 			]
 		},
 		{
-			"group": "Indiana Jones and the Last Crusade (UBI Soft)",
-			"titles": [
-				{"searchTerm": "Indiana Jones and the Last Crusade"},
-				{"searchTerm": "Indiana Jones and the Last Crusade (UBI Soft)"}
-			]
-		},
-		{
 			"group": "Insector X",
 			"titles": [
 				{"searchTerm": "Insector X"},
@@ -2529,6 +2538,7 @@
 			"titles": [
 				{"searchTerm": "France 98"},
 				{"searchTerm": "J.League Winning Goal"},
+				{"searchTerm": "Wangpai - Zuqiu Youxi"},
 				{"searchTerm": "Winning Goal 5"}
 			]
 		},
@@ -2536,7 +2546,8 @@
 			"group": "Jackal",
 			"titles": [
 				{"searchTerm": "Jackal"},
-				{"searchTerm": "Final Command - Akai Yousai", "priority": 2}
+				{"searchTerm": "Final Command - Akai Yousai", "priority": 2},
+				{"searchTerm": "Forcity", "priority": 3}
 			]
 		},
 		{
@@ -2561,7 +2572,6 @@
 			"group": "James Bond Jr",
 			"titles": [
 				{"searchTerm": "James Bond Jr"},
-				{"searchTerm": "James Bond Jr (J-D1)", "priority": 2},
 				{"searchTerm": "John Smith - Special Agent", "priority": 3}
 			]
 		},
@@ -2595,7 +2605,7 @@
 			"group": "JJ",
 			"titles": [
 				{
-					"searchTerm": "JJ (Famicom 3D System)",
+					"searchTerm": "JJ",
 					"localNames": {
 						"japanese": "ＪＪ とびだせ大作戦パートⅡ"
 					}
@@ -2623,7 +2633,7 @@
 		{
 			"group": "JP Ronny",
 			"compilations": [
-				{"searchTerm": "Asder - 20 in 1"}
+				{"searchTerm": "Asder - 20-in-1"}
 			]
 		},
 		{
@@ -2643,6 +2653,7 @@
 		{
 			"group": "Kabuki - Quantum Fighter",
 			"titles": [
+				{"searchTerm": "Batman Versus Predator"},
 				{"searchTerm": "Jigoku Gokuraku Maru"},
 				{"searchTerm": "Kabuki - Quantum Fighter"}
 			]
@@ -2669,23 +2680,23 @@
 			]
 		},
 		{
-			"group": "Kart Racer '86",
-			"titles": [
-				{"searchTerm": "^Kart Racer '86 (?:(?!aa9d5fd).)*$", "nameType": "regex"},
-				{"searchTerm": "^Kart Racer '86.*aa9d5fd*", "nameType": "regex", "priority": 2}
-			]
-		},
-		{
 			"group": "Kazama Jun to Asama Yuuko no AV Dragon Mahjong",
 			"titles": [
-				{"searchTerm": "Kazama Jun to Asama Yuuko no AV Dragon Mahjong (Hacker International)"},
+				{"searchTerm": "Kazama Jun to Asama Yuuko no AV Dragon Mahjong"},
 				{"searchTerm": "Mahjong Block"}
 			]
 		},
 		{
 			"group": "Kentucky Derby",
 			"compilations": [
-				{"searchTerm": "Asder - 20 in 1"}
+				{"searchTerm": "Asder - 20-in-1"}
+			]
+		},
+		{
+			"group": "Kero Kero Keroppi no Daibouken 2 - Donuts Ike wa Oosawagi!!",
+			"titles": [
+				{"searchTerm": "Kero Kero Keroppi no Daibouken 2 - Donuts Ike wa Oosawagi!!"},
+				{"searchTerm": "Pokemon Green"}
 			]
 		},
 		{
@@ -2893,8 +2904,9 @@
 		{
 			"group": "Kunio-kun no Nekketsu Soccer League",
 			"titles": [
-				{"searchTerm": "Goal 3"},
-				{"searchTerm": "Kunio-kun no Nekketsu Soccer League"}
+				{"searchTerm": "Goal 3 (1996)"},
+				{"searchTerm": "Kunio-kun no Nekketsu Soccer League"},
+				{"searchTerm": "Goal 3", "priority": 2}
 			]
 		},
 		{
@@ -2944,13 +2956,6 @@
 			"titles": [
 				{"searchTerm": "Kage no Densetsu"},
 				{"searchTerm": "Legend of Kage, The"}
-			]
-		},
-		{
-			"group": "Legend of Weed N' Stiff, The",
-			"titles": [
-				{"searchTerm": "Legend of Weed N' Stiff, The (Super Deluxe Version)"},
-				{"searchTerm": "Legend of Weed N' Stiff, The", "priority": 2}
 			]
 		},
 		{
@@ -3028,7 +3033,7 @@
 			"titles": [
 				{"searchTerm": "Little Nemo - The Dream Master"},
 				{"searchTerm": "Pajama Hero - Nemo"},
-				{"searchTerm": "Dream Master, The (FK-8379)", "priority": 2}
+				{"searchTerm": "Dream Master, The", "priority": 2}
 			]
 		},
 		{
@@ -3062,14 +3067,6 @@
 				{"searchTerm": "livenes 2A03 (Program)"},
 				{"searchTerm": "livenes VRC6 (Program)", "priority": 2},
 				{"searchTerm": "livenes S5B (Program)", "priority": 3}
-			]
-		},
-		{
-			"group": "Lizard",
-			"titles": [
-				{"searchTerm": "^Lizard.*?\\([0-9]{19}\\)", "nameType": "regex"},
-				{"searchTerm": "Lizard"},
-				{"searchTerm": "Lizard (2011)"}
 			]
 		},
 		{
@@ -3147,6 +3144,13 @@
 			]
 		},
 		{
+			"group": "Madoola no Tsubasa",
+			"titles": [
+				{"searchTerm": "Madoola no Tsubasa"},
+				{"searchTerm": "Wing of Madoola, The (Red Art Games)"}
+			]
+		},
+		{
 			"group": "Mafat Conspiracy, The",
 			"titles": [
 				{"searchTerm": "Golgo 13 - Dainishou - Icarus no Nazo"},
@@ -3169,7 +3173,7 @@
 				{"searchTerm": "Magic Carpet 1001"}
 			],
 			"compilations": [
-				{"searchTerm": "Asder - 20 in 1"},
+				{"searchTerm": "Asder - 20-in-1"},
 				{"searchTerm": "Caltron - 6 in 1"},
 				{"searchTerm": "HES 6-Pak - Real Player's Pak"}
 			]
@@ -3266,7 +3270,8 @@
 				{"searchTerm": "Mario Bros."},
 				{"searchTerm": "Mario Bros. (PAL-MC-0, Classic Series)", "nameType": "regionFree"},
 				{"searchTerm": "Mario Bros. (PAL-MA-0)", "nameType": "regionFree", "priority": 2},
-				{"searchTerm": "Super Irmaos", "priority": 3}
+				{"searchTerm": "Super Irmaos", "priority": 3},
+				{"searchTerm": "Rambo Bros", "priority": 4}
 			]
 		},
 		{
@@ -3280,7 +3285,7 @@
 		{
 			"group": "Master Chu and the Drunkard Hu",
 			"titles": [
-				{"searchTerm": "Dao Shuai"},
+				{"searchTerm": "Dao Shuai - Master Chu"},
 				{"searchTerm": "Master Chu and the Drunkard Hu"}
 			],
 			"compilations": [
@@ -3300,7 +3305,7 @@
 				{"searchTerm": "Master Shooter"}
 			],
 			"compilations": [
-				{"searchTerm": "Asder - 20 in 1"}
+				{"searchTerm": "Asder - 20-in-1"}
 			]
 		},
 		{
@@ -3488,7 +3493,7 @@
 			"group": "Micro Machines",
 			"titles": [
 				{"searchTerm": "Micro Machines"},
-				{"searchTerm": "Micro Machines (Aladdin Compact Cartridge)", "priority": 2}
+				{"searchTerm": "Micro Machines (Aladdin Compact Cartridge, Plug-Thru)", "priority": 2}
 			]
 		},
 		{
@@ -3528,10 +3533,10 @@
 			]
 		},
 		{
-			"group": "Mischief Castle",
+			"group": "Minekart Madness",
 			"titles": [
-				{"searchTerm": "Mischief Castle"},
-				{"searchTerm": "Mischief Castle (Mapper 2)", "priority": 2}
+				{"searchTerm": "Minekart Madness (MMC1)"},
+				{"searchTerm": "Minekart Madness (Mapper 28)", "priority": 2}
 			]
 		},
 		{
@@ -3553,6 +3558,13 @@
 			]
 		},
 		{
+			"group": "Mitsume ga Tooru",
+			"titles": [
+				{"searchTerm": "Mitsume ga Tooru"},
+				{"searchTerm": "Three-Eyes Boy"}
+			]
+		},
+		{
 			"group": "Mofa Men Zhi Yingxiong Wudi",
 			"titles": [
 				{"searchTerm": "Mofa Men Zhi Yingxiong Wudi (980100295)"},
@@ -3571,7 +3583,7 @@
 			"titles": [
 				{"searchTerm": "Monster in My Pocket"},
 				{"searchTerm": "Batman Flash", "priority": 2},
-				{"searchTerm": "Monster in My Pocket (M-16)", "priority": 3}
+				{"searchTerm": "Monster in My Pocket (M-I6)", "priority": 3}
 			]
 		},
 		{
@@ -3617,10 +3629,10 @@
 		{
 			"group": "Mortal Kombat II Hummer",
 			"titles": [
-				{"searchTerm": "Mortal Kombat II (Hummer Team) (M-O9)"},
-				{"searchTerm": "Mortal Kombat II (Hummer Team)", "priority": 2},
-				{"searchTerm": "Mortal Kombat II (Hummer Team) (Blue Version)", "priority": 3},
-				{"searchTerm": "Mortal Kombat II Turbo", "priority": 4},
+				{"searchTerm": "Mortal Kombat II (M-O9)"},
+				{"searchTerm": "Mortal Kombat II", "priority": 2},
+				{"searchTerm": "Mortal Kombat II (Blue Version)", "priority": 3},
+				{"searchTerm": "Mortal Kombat 2-in-1", "priority": 4},
 				{"searchTerm": "Mortal Kombat III Turbo - 18 People", "priority": 5},
 				{"searchTerm": "Mortal Kombat III Turbo (MD102)", "priority": 6}
 			]
@@ -3660,14 +3672,7 @@
 			"group": "Moshen Fashi - Demogorgon Monk",
 			"titles": [
 				{
-					"searchTerm": "Moshen Fashi - Demogorgon Monk (TKROM)",
-					"localNames": {
-						"chinese (simplified)": "魔神法师"
-					}
-				},
-				{
 					"searchTerm": "Moshen Fashi - Demogorgon Monk",
-					"priority": 2,
 					"localNames": {
 						"chinese (simplified)": "魔神法师"
 					}
@@ -3685,14 +3690,7 @@
 			"group": "Moyu Yingxiong Chuan - Hero on Devil Lands",
 			"titles": [
 				{
-					"searchTerm": "Moyu Yingxiong Chuan - Hero on Devil Lands (TKROM)",
-					"localNames": {
-						"chinese (simplified)": "魔域英雄传"
-					}
-				},
-				{
 					"searchTerm": "Moyu Yingxiong Chuan - Hero on Devil Lands",
-					"priority": 2,
 					"localNames": {
 						"chinese (simplified)": "魔域英雄传"
 					}
@@ -3850,13 +3848,6 @@
 			]
 		},
 		{
-			"group": "Nix - The Paradox Relic",
-			"titles": [
-				{"searchTerm": "Nix - The Paradox Relic"},
-				{"searchTerm": "Nix - The Paradox Relic (NoFlash)", "priority": 2}
-			]
-		},
-		{
 			"group": "Nobunaga's Ambition",
 			"titles": [
 				{"searchTerm": "Nobunaga no Yabou - Zenkoku Ban"},
@@ -3879,6 +3870,14 @@
 			]
 		},
 		{
+			"group": "Old World",
+			"titles": [
+				{"searchTerm": "Old World"},
+				{"searchTerm": "Old World - Aftermath"},
+				{"searchTerm": "Old World - The Last Droid"}
+			]
+		},
+		{
 			"group": "Operation Secret Storm",
 			"titles": [
 				{"searchTerm": "Operation Secret Storm"}
@@ -3888,10 +3887,16 @@
 			]
 		},
 		{
+			"group": "Os Cavaleiros do Zodiaco",
+			"titles": [
+				{"searchTerm": "Os Cavaleiros do Zodiaco"},
+				{"searchTerm": "Os Cavaleiros do Zodiaco (Mapper 187)", "priority": 2}
+			]
+		},
+		{
 			"group": "Othello",
 			"titles": [
-				{"searchTerm": "Othello"},
-				{"searchTerm": "Othello (HES)"}
+				{"searchTerm": "Othello"}
 			],
 			"compilations": [
 				{"searchTerm": "Total Funpak"}
@@ -3993,6 +3998,13 @@
 			]
 		},
 		{
+			"group": "Pinball",
+			"titles": [
+				{"searchTerm": "Pinball"},
+				{"searchTerm": "Pinball - Mega Edition", "priority": 2}
+			]
+		},
+		{
 			"group": "Pipemania",
 			"titles": [
 				{"searchTerm": "Pipemania"}
@@ -4023,8 +4035,10 @@
 		{
 			"group": "PLOID",
 			"titles": [
-				{"searchTerm": "PLOID"},
-				{"searchTerm": "PLOID (vX)", "priority": 2}
+				{"searchTerm": "PLOID"}
+			],
+			"supersets": [
+				{"searchTerm": "PLOID (5th Anniversary Edition)"}
 			]
 		},
 		{
@@ -4068,6 +4082,20 @@
 			"titles": [
 				{"searchTerm": "Koudai Yaoguai - Leaf Green I"},
 				{"searchTerm": "Pokemon - Leaf Green"}
+			]
+		},
+		{
+			"group": "Pokemon - Leaf Green 2",
+			"titles": [
+				{"searchTerm": "Koudai Yaoguai - Leaf Green II"},
+				{"searchTerm": "Pokemon - Leaf Green 2"}
+			]
+		},
+		{
+			"group": "Pokemon - Leaf Green 3",
+			"titles": [
+				{"searchTerm": "Koudai Yaoguai - Leaf Green III"},
+				{"searchTerm": "Pokemon - Leaf Green 3"}
 			]
 		},
 		{
@@ -4124,13 +4152,6 @@
 			]
 		},
 		{
-			"group": "Popeye",
-			"titles": [
-				{"searchTerm": "Popeye"},
-				{"searchTerm": "Popeye (Unknown)", "priority": 2}
-			]
-		},
-		{
 			"group": "Popo Team",
 			"titles": [
 				{"searchTerm": "Popo Team"}
@@ -4145,7 +4166,7 @@
 				{"searchTerm": "Porter"}
 			],
 			"compilations": [
-				{"searchTerm": "Asder - 20 in 1"},
+				{"searchTerm": "Asder - 20-in-1"},
 				{"searchTerm": "Caltron - 6 in 1"},
 				{"searchTerm": "HES 6-Pak - Real Player's Pak"}
 			]
@@ -4188,13 +4209,6 @@
 			]
 		},
 		{
-			"group": "Pro Action Replay",
-			"categories": ["Applications"],
-			"titles": [
-				{"searchTerm": "Pro Action Replay"}
-			]
-		},
-		{
 			"group": "Pro Sport Hockey",
 			"titles": [
 				{"searchTerm": "Pro Sport Hockey"},
@@ -4218,14 +4232,6 @@
 			]
 		},
 		{
-			"group": "Project Blue (Demo)",
-			"titles": [
-				{"searchTerm": "Project Blue (Demo) (2019-10-22) (Kickstarter) (Aftermarket) (Unl)", "nameType": "regionFree"},
-				{"searchTerm": "Project Blue (Demo) (Recalbox)", "priority": 2},
-				{"searchTerm": "Project Blue (Demo)", "priority": 3}
-			]
-		},
-		{
 			"group": "Puzzle",
 			"titles": [
 				{"searchTerm": "Puzzle"}
@@ -4237,7 +4243,7 @@
 		{
 			"group": "Puzzler",
 			"compilations": [
-				{"searchTerm": "Asder - 20 in 1"}
+				{"searchTerm": "Asder - 20-in-1"}
 			]
 		},
 		{
@@ -4262,13 +4268,6 @@
 			"titles": [
 				{
 					"searchTerm": "Qi Wang - Chinese Chess",
-					"localNames": {
-						"chinese (traditional)": "棋王"
-					}
-				},
-				{
-					"searchTerm": "Qi Wang - Chinese Chess (Unknown)",
-					"priority": 2,
 					"localNames": {
 						"chinese (traditional)": "棋王"
 					}
@@ -4308,12 +4307,9 @@
 		{
 			"group": "Race-Car Guzzler",
 			"titles": [
-				{"searchTerm": "Race-Car Guzzler (Final Version) (UNROM 512)"},
-				{"searchTerm": "Race-Car Guzzler (Final Version) (UNROM)", "priority": 2},
-				{"searchTerm": "Race-Car Guzzler (UNROM)", "priority": 3},
-				{"searchTerm": "Race-Car Guzzler (NROM)", "priority": 4},
-				{"searchTerm": "Race-Car Guzzler (Preliminary Speed Version) (UNROM 512)", "priority": 5},
-				{"searchTerm": "Race-Car Guzzler (Preliminary Speed Version) (UNROM)", "priority": 6}
+				{"searchTerm": "Race-Car Guzzler (Final Version)"},
+				{"searchTerm": "Race-Car Guzzler", "priority": 2},
+				{"searchTerm": "Race-Car Guzzler (Preliminary Speed Version)", "priority": 3}
 			]
 		},
 		{
@@ -4449,8 +4445,10 @@
 		{
 			"group": "Rodland",
 			"titles": [
+				{"searchTerm": "Rod Land (512KiB)"},
 				{"searchTerm": "Rodland"},
-				{"searchTerm": "Yousei Monogatari - Rod Land"}
+				{"searchTerm": "Yousei Monogatari - Rod Land"},
+				{"searchTerm": "Rod Land (256KiB)", "priority": 2}
 			]
 		},
 		{
@@ -4466,7 +4464,7 @@
 				{"searchTerm": "ROM City Rampage"}
 			],
 			"supersets": [
-				{"searchTerm": "ROM City Rampage (DX)"}
+				{"searchTerm": "ROM City Rampage DX"}
 			]
 		},
 		{
@@ -4511,13 +4509,6 @@
 			"titles": [
 				{"searchTerm": "Sanada Juu Yuushi"},
 				{"searchTerm": "Zhentian Shi Yongshi", "priority": 2}
-			]
-		},
-		{
-			"group": "Sand Emperor Demo",
-			"titles": [
-				{"searchTerm": "Sand Emperor (Demo 5d9)"},
-				{"searchTerm": "Sand Emperor (Demo 5c)", "priority": 2}
 			]
 		},
 		{
@@ -4594,8 +4585,8 @@
 		{
 			"group": "Sanguozhi - Xiongba Tianxia",
 			"titles": [
-				{"searchTerm": "Sanguozhi - Xiongba Tianxia (980100026)"},
-				{"searchTerm": "Sanguozhi - Xiongba Tianxia (980337)", "priority": 2}
+				{"searchTerm": "Sanguozhi - Xiongba Tianxia (Fighting for Supremacy) (980100026)"},
+				{"searchTerm": "Sanguozhi - Xiongba Tianxia (Fighting for Supremacy) (980337)", "priority": 2}
 			]
 		},
 		{
@@ -4605,7 +4596,8 @@
 				{"searchTerm": "Erzhan Zhi Jingdian Zhanyi", "priority": 2},
 				{"searchTerm": "Sanguozhi - Zhi Qian Jun Po", "priority": 3},
 				{"searchTerm": "Sanguozhi II Dai", "priority": 4},
-				{"searchTerm": "Wujian Dao Fengyun", "priority": 5}
+				{"searchTerm": "Wujian Dao Fengyun", "priority": 5},
+				{"searchTerm": "Sanguo Fengyun", "priority": 6}
 			]
 		},
 		{
@@ -4640,19 +4632,28 @@
 			"titles": [
 				{"searchTerm": "Satomi Hakkenden"},
 				{
-					"searchTerm": "Ba Bao Qizhu (EverQuest)",
+					"searchTerm": "EverQuest - Ba Bao Qizhu",
 					"priority": 2,
 					"localNames": {
 						"chinese (simplified)": "八宝奇珠　－　Ｅｖｅｒｑｕｅｓｔ"
 					}
 				},
 				{
-					"searchTerm": "Wujin de Renwu (EverQuest)",
+					"searchTerm": "EverQuest - Wujin de Renwu",
 					"priority": 3,
 					"localNames": {
 						"chinese (simplified)": "无尽的任务　－　Ｅｖｅｒｑｕｅｓｔ"
 					}
 				}
+			]
+		},
+		{
+			"group": "SaturdayMan",
+			"titles": [
+				{"searchTerm": "SaturdayMan (Standard Edition)"}
+			],
+			"supersets": [
+				{"searchTerm": "SaturdayMan (Collector Edition)"}
 			]
 		},
 		{
@@ -4672,7 +4673,7 @@
 			"titles": [
 				{"searchTerm": "SD Gundam - Gachapon Senshi 4 - NewType Story"},
 				{
-					"searchTerm": "Dai-4-ji Jiqiren Daizhan (Robot War IV)",
+					"searchTerm": "Dai-4-ji Jiqiren Daizhan - Robot War IV",
 					"priority": 2,
 					"localNames": {
 						"chinese (simplified)": "第四次机器人大战"
@@ -4767,7 +4768,15 @@
 			"group": "Shatterhand",
 			"titles": [
 				{"searchTerm": "Shatterhand"},
-				{"searchTerm": "Tokkyuu Shirei Solbrain"}
+				{"searchTerm": "Tokkyuu Shirei Solbrain"},
+				{"searchTerm": "Super Rescue RoboCop 3", "priority": 2}
+			]
+		},
+		{
+			"group": "Shen Mo Dalu",
+			"titles": [
+				{"searchTerm": "Shen Mo Dalu"},
+				{"searchTerm": "Linghun Feng Mo Lu", "priority": 2}
 			]
 		},
 		{
@@ -4775,6 +4784,14 @@
 			"titles": [
 				{"searchTerm": "Sheng Doushi Xingshi - Tianma Zhi Huanxiang"},
 				{"searchTerm": "Sheng Doushi Xingshi - Shikong Doushi", "priority": 2}
+			]
+		},
+		{
+			"group": "Sheng Huo Lie Zhuan",
+			"titles": [
+				{"searchTerm": "Sheng Huo Lie Zhuan"},
+				{"searchTerm": "Shenghuo Shao Xia", "priority": 2},
+				{"searchTerm": "Xiake Chuanqi", "priority": 3}
 			]
 		},
 		{
@@ -4794,14 +4811,6 @@
 					}
 				},
 				{"searchTerm": "Jingwei Tianhai", "priority": 3}
-			]
-		},
-		{
-			"group": "Shenghuo Liezhuan",
-			"titles": [
-				{"searchTerm": "Shenghuo Liezhuan"},
-				{"searchTerm": "Shenghuo Shao Xia", "priority": 2},
-				{"searchTerm": "Xiake Chuanqi", "priority": 3}
 			]
 		},
 		{
@@ -4931,7 +4940,7 @@
 				{"searchTerm": "Skate Boy"}
 			],
 			"compilations": [
-				{"searchTerm": "Asder - 20 in 1"},
+				{"searchTerm": "Asder - 20-in-1"},
 				{"searchTerm": "Caltron - 9 in 1", "priority": 2}
 			]
 		},
@@ -4940,6 +4949,13 @@
 			"titles": [
 				{"searchTerm": "Sky Destroyer"},
 				{"searchTerm": "Sky Invader"}
+			]
+		},
+		{
+			"group": "Slow Mole Jr.",
+			"titles": [
+				{"searchTerm": "Slow Mole Jr. (Extra Controller)"},
+				{"searchTerm": "Slow Mole Jr.", "priority": 2}
 			]
 		},
 		{
@@ -4954,14 +4970,6 @@
 			"titles": [
 				{"searchTerm": "Snow Bros."},
 				{"searchTerm": "Snow Brothers"}
-			]
-		},
-		{
-			"group": "Solar Wars",
-			"titles": [
-				{"searchTerm": "Solar Wars"},
-				{"searchTerm": "Solar Wars (CNROM)", "priority": 2},
-				{"searchTerm": "Solar Wars (UNROM)", "priority": 3}
 			]
 		},
 		{
@@ -5006,19 +5014,21 @@
 			]
 		},
 		{
-			"group": "South Park",
+			"group": "Space Mutants",
 			"titles": [
-				{"searchTerm": "South Park (UNROM 512)"},
-				{"searchTerm": "South Park (UNROM)", "priority": 2}
+				{"searchTerm": "Space Mutants"},
+				{"searchTerm": "Space Mutants (DG)"},
+				{"searchTerm": "Space Mutants (DK) (Retro Achievements)"},
+				{"searchTerm": "Space Mutants (JK)"}
 			]
 		},
 		{
-			"group": "Space Mutants",
+			"group": "Space Raft",
 			"titles": [
-				{"searchTerm": "Space Mutants (Extendo Uncut Edition)"},
-				{"searchTerm": "Space Mutants (DG) (Retro Achievements Version)", "priority": 2},
-				{"searchTerm": "Space Mutants (DG)", "priority": 3},
-				{"searchTerm": "Space Mutants (JK)", "priority": 4}
+				{"searchTerm": "Space Raft"}
+			],
+			"supersets": [
+				{"searchTerm": "Space Raft Deluxe"}
 			]
 		},
 		{
@@ -5029,11 +5039,18 @@
 			]
 		},
 		{
+			"group": "Spiritual Guardian - Shock",
+			"titles": [
+				{"searchTerm": "Lingjie Hufa - Shock"},
+				{"searchTerm": "Spiritual Guardian - Shock"},
+				{"searchTerm": "Youling Xingdong - Shock", "priority": 2}
+			]
+		},
+		{
 			"group": "Spook-o'-tron",
 			"titles": [
-				{"searchTerm": "Spook-o'-tron (2023)"},
-				{"searchTerm": "Spook-o'-tron (2022)", "priority": 2},
-				{"searchTerm": "Spook-o'-tron (Backer Edition)", "priority": 3}
+				{"searchTerm": "Spook-o'-tron"},
+				{"searchTerm": "Spook-o'-tron (Backer Edition)", "priority": 2}
 			]
 		},
 		{
@@ -5095,21 +5112,6 @@
 			]
 		},
 		{
-			"group": "Storied Sword, The - Demo",
-			"titles": [
-				{"searchTerm": "Storied Sword, The (Demo) (GTROM)"},
-				{"searchTerm": "Storied Sword, The (Demo) (UNROM 512)", "priority": 2},
-				{"searchTerm": "Storied Sword, The (Demo) (2023-05-27-2) (GTROM)", "priority": 3},
-				{"searchTerm": "Storied Sword, The (Demo) (2023-05-27-2) (UNROM 512)", "priority": 4},
-				{"searchTerm": "Storied Sword, The (Demo) (2023-05-27-1) (GTROM)", "priority": 5},
-				{"searchTerm": "Storied Sword, The (Demo) (2023-05-27-1) (UNROM 512)", "priority": 6},
-				{"searchTerm": "Storied Sword, The (Demo) (2023-05-08-2) (GTROM)", "priority": 7},
-				{"searchTerm": "Storied Sword, The (Demo) (2023-05-08-2) (UNROM 512)", "priority": 8},
-				{"searchTerm": "Storied Sword, The (Demo) (2023-05-08-1) (GTROM)", "priority": 9},
-				{"searchTerm": "Storied Sword, The (Demo) (2023-05-08-1) (UNROM 512)", "priority": 10}
-			]
-		},
-		{
 			"group": "Street Cop",
 			"titles": [
 				{"searchTerm": "Family Trainer 6 - Manhattan Police"},
@@ -5124,15 +5126,17 @@
 			]
 		},
 		{
-			"group": "Street Fighter II - The World Warrior",
+			"group": "Street Fighter II",
 			"titles": [
-				{"searchTerm": "Street Fighter II - The World Warrior"},
-				{"searchTerm": "Street Fighter II - The World Warrior (Invincibility)", "priority": 2},
+				{"searchTerm": "Street Fighter II"},
+				{"searchTerm": "Street Fighter II (Invincibility)", "priority": 2},
 				{"searchTerm": "City Fighter IV", "priority": 3},
 				{"searchTerm": "Mario Fighter III", "priority": 4},
 				{"searchTerm": "Super Fighter II'", "priority": 5},
 				{"searchTerm": "Master Fighter II", "priority": 6},
-				{"searchTerm": "Master Fighter III", "priority": 7}
+				{"searchTerm": "Master Fighter II (MRCM)", "priority": 7},
+				{"searchTerm": "Master Fighter II (Invincibility)", "priority": 8},
+				{"searchTerm": "Master Fighter III", "priority": 8}
 			]
 		},
 		{
@@ -5143,7 +5147,7 @@
 				{"searchTerm": "Fight Street VI (16 People)", "priority": 3},
 				{"searchTerm": "Fight Street VI (8 People)", "priority": 4},
 				{"searchTerm": "Street Fighter VI (16 People)", "priority": 5},
-				{"searchTerm": "Street Fighter VI - 12 Peoples", "priority": 6},
+				{"searchTerm": "Street Fighter VI (12 People)", "priority": 6},
 				{"searchTerm": "Street Blaster IV - Pro 10", "priority": 7},
 				{"searchTerm": "Street Blaster V - Turbo 20", "priority": 8},
 				{"searchTerm": "Street Blaster V - Turbo 20 (Unknown)", "priority": 9},
@@ -5190,16 +5194,9 @@
 			]
 		},
 		{
-			"group": "Sunset Land",
+			"group": "Super Aladdin (Super Game)",
 			"titles": [
-				{"searchTerm": "Sunset Land (Demo)"},
-				{"searchTerm": "Sunset World (Demo)"}
-			]
-		},
-		{
-			"group": "Super Aladdin",
-			"titles": [
-				{"searchTerm": "Super Aladdin"},
+				{"searchTerm": "Super Aladdin (Super Game)"},
 				{"searchTerm": "Aladdin (Super Game)", "priority": 2},
 				{"searchTerm": "Aladdin (Super Game) (A-N8)", "priority": 3}
 			]
@@ -5212,7 +5209,8 @@
 				{"searchTerm": "Super Contra"},
 				{"searchTerm": "Super Contra 3-in-1", "priority": 2},
 				{"searchTerm": "Super Contra DS", "priority": 3},
-				{"searchTerm": "Super Fighter", "priority": 4}
+				{"searchTerm": "Super Fighter", "priority": 4},
+				{"searchTerm": "Kai Kamo II - Darkwing Duck 2", "priority": 5}
 			]
 		},
 		{
@@ -5227,12 +5225,11 @@
 			"group": "Super Fighter III",
 			"titles": [
 				{"searchTerm": "Super Fighter III"},
-				{"searchTerm": "Super Fighter III (Unknown)", "priority": 2},
-				{"searchTerm": "Super Fighter III (Unknown) (FC-28 5027)", "priority": 3},
-				{"searchTerm": "Mari Street Fighter III", "priority": 5},
-				{"searchTerm": "Street Fighter III (18 Fighter)", "priority": 6},
-				{"searchTerm": "Street Fighter III (9 Fighter)", "priority": 7},
-				{"searchTerm": "Fighter V", "priority": 8}
+				{"searchTerm": "Super Fighter III (FC-28 5027)", "priority": 2},
+				{"searchTerm": "Mari Street Fighter III Turbo", "priority": 3},
+				{"searchTerm": "Street Fighter III (18 Fighters)", "priority": 4},
+				{"searchTerm": "Street Fighter III (9 Fighters)", "priority": 5},
+				{"searchTerm": "Fighter V", "priority": 6}
 			]
 		},
 		{
@@ -5249,14 +5246,6 @@
 			]
 		},
 		{
-			"group": "Super Homebrew War",
-			"titles": [
-				{"searchTerm": "Super Homebrew War"},
-				{"searchTerm": "Super Homebrew War (BNROM)", "priority": 2},
-				{"searchTerm": "Super Homebrew War (GTROM)", "priority": 3}
-			]
-		},
-		{
 			"group": "Super Lion King",
 			"titles": [
 				{"searchTerm": "Super Lion King (Super Game)"},
@@ -5269,7 +5258,9 @@
 				{"searchTerm": "Super Mario Bros."},
 				{"searchTerm": "Super Mario Bros. - 25th Anniversary"},
 				{"searchTerm": "Super Mario Bros. 4", "priority": 2},
-				{"searchTerm": "Super Mario", "priority": 3}
+				{"searchTerm": "Super Mario", "priority": 3},
+				{"searchTerm": "Super Kid", "priority": 4},
+				{"searchTerm": "Super Simpson IV", "priority": 5}
 			],
 			"compilations": [
 				{"searchTerm": "Super Mario Bros. + Duck Hunt"},
@@ -5303,12 +5294,12 @@
 			"titles": [
 				{"searchTerm": "Super Mario Bros. 2 (TONY-I PCB)"},
 				{"searchTerm": "Super Mario Bros. 2j", "priority": 2},
-				{"searchTerm": "Super Mario Bros. 2 (Whirlwind Manu) (LF36) (Pirate)", "nameType": "regionFree", "priority": 3},
+				{"searchTerm": "Super Mario Bros. 2 (Whirlwind Manu) (Pirate)", "nameType": "regionFree", "priority": 3},
 				{"searchTerm": "Super Mario Bros. 2 (YUNG-08 PCB)", "priority": 4},
-				{"searchTerm": "Super Mario Bros. 2 (761214 PCB) (N-32)", "priority": 5},
+				{"searchTerm": "Super Mario Bros. 2 (761214 PCB)", "priority": 5},
 				{"searchTerm": "Super Mario Bros. 2 (09-034A PCB)", "priority": 6},
 				{"searchTerm": "Super Mario Bros. 2 (YS-612 PCB)", "priority": 7},
-				{"searchTerm": "Super Mario Bros. II+ (Hey Sung)", "priority": 8},
+				{"searchTerm": "Super Mario Bros. II+", "priority": 8},
 				{"searchTerm": "1988 Jinpai Mali", "priority": 9}
 			]
 		},
@@ -5317,8 +5308,10 @@
 			"titles": [
 				{"searchTerm": "Super Mario Bros. 3"},
 				{"searchTerm": "Super Mario Bros. 3 (Unknown) (047)", "priority": 2},
-				{"searchTerm": "S. M. Bros. 1988 (ASN 0097)", "priority": 3},
-				{"searchTerm": "Super Mario Sister", "priority": 4}
+				{"searchTerm": "S. M. Bros. 1988", "priority": 3},
+				{"searchTerm": "Super Mario Sister", "priority": 4},
+				{"searchTerm": "Super Chaoji Sandai", "priority": 5},
+				{"searchTerm": "Super Mario Bros. 3 (NCN-21)", "priority": 6}
 			]
 		},
 		{
@@ -5362,9 +5355,11 @@
 		{
 			"group": "Super Tilt Bro.",
 			"titles": [
-				{"searchTerm": "Super Tilt Bro\\. .*\\(NESDev.*", "nameType": "regex"},
-				{"searchTerm": "Super Tilt Bro\\. .*\\(.*beta", "nameType": "regex", "priority": 2},
-				{"searchTerm": "Super Tilt Bro\\. .*\\(.*alpha", "nameType": "regex", "priority": 3}
+				{"searchTerm": "Super Tilt Bro."},
+				{"searchTerm": "Super Tilt Bro. (Rainbow)", "priority": 2},
+				{"searchTerm": "Super Tilt Bro\\. .*\\(NESDev.*", "nameType": "regex", "priority": 2},
+				{"searchTerm": "Super Tilt Bro\\. .*\\(.*beta", "nameType": "regex", "priority": 3},
+				{"searchTerm": "Super Tilt Bro\\. .*\\(.*alpha", "nameType": "regex", "priority": 4}
 			]
 		},
 		{
@@ -5406,20 +5401,13 @@
 			]
 		},
 		{
-			"group": "Tailgate Party",
-			"titles": [
-				{"searchTerm": "Tailgate Party (UNROM 512)"},
-				{"searchTerm": "Tailgate Party (GTROM)", "priority": 2}
-			]
-		},
-		{
 			"group": "Tank",
 			"titles": [
 				{"searchTerm": "Tank"},
 				{"searchTerm": "Tanque"}
 			],
 			"compilations": [
-				{"searchTerm": "Asder - 20 in 1"},
+				{"searchTerm": "Asder - 20-in-1"},
 				{"searchTerm": "Caltron - 9 in 1", "priority": 2}
 			]
 		},
@@ -5427,8 +5415,7 @@
 			"group": "Tank Fengyun - King Tank",
 			"titles": [
 				{"searchTerm": "Tank Fengyun - King Tank"},
-				{"searchTerm": "Super City Tank", "priority": 2},
-				{"searchTerm": "Super City Tank (Infinite Lives)", "priority": 3}
+				{"searchTerm": "Super City Tank", "priority": 2}
 			]
 		},
 		{
@@ -5436,7 +5423,7 @@
 			"titles": [
 				{"searchTerm": "Double Dragon IV"},
 				{"searchTerm": "Target - Renegade"},
-				{"searchTerm": "Double Dragon V - The Shadow Falls (D-N3)", "priority": 2}
+				{"searchTerm": "Double Dragon V - The Shadow Falls", "priority": 2}
 			]
 		},
 		{
@@ -5461,7 +5448,8 @@
 			"titles": [
 				{"searchTerm": "Tecmo NBA Basketball (NES-BK)"},
 				{"searchTerm": "Tecmo NBA Basketball (NES-N7)", "priority": 2},
-				{"searchTerm": "Tecmo NBA Basketball", "priority": 3}
+				{"searchTerm": "Tecmo NBA Basketball", "priority": 3},
+				{"searchTerm": "Tecmo NBA Basketball (DH-64)", "priority": 4}
 			]
 		},
 		{
@@ -5488,7 +5476,8 @@
 							}
 						}
 					]
-				}
+				},
+				{"searchTerm": "Turtle Ninja II", "priority": 2}
 			]
 		},
 		{
@@ -5513,11 +5502,22 @@
 			]
 		},
 		{
+			"group": "Tekken 2",
+			"titles": [
+				{"searchTerm": "Tekken 2"},
+				{"searchTerm": "Tekken 3", "priority": 2},
+				{"searchTerm": "Tekken 6", "priority": 3},
+				{"searchTerm": "Tekken 8", "priority": 4},
+				{"searchTerm": "Tekken Tag Tournament", "priority": 5}
+			]
+		},
+		{
 			"group": "Tenchi o Kurau II - Shokatsu Koumei Den",
 			"titles": [
 				{"searchTerm": "Tenchi o Kurau II - Shokatsu Koumei Den"},
 				{"searchTerm": "Tunshi Tiandi - Sanguo Waizhuan", "priority": 2},
-				{"searchTerm": "Tunshi Tiandi - Sanguo Waizhuan (Xianfeng)", "priority": 3}
+				{"searchTerm": "Tunshi Tiandi - Sanguo Waizhuan (Xianfeng)", "priority": 3},
+				{"searchTerm": "Tunshi Tiandi III", "priority": 4}
 			]
 		},
 		{
@@ -5602,9 +5602,10 @@
 			"titles": [
 				{"searchTerm": "Super Bros. 6"},
 				{"searchTerm": "Tiny Toon Adventures"},
-				{"searchTerm": "Felix vs Jerry (F-Y2)", "priority": 2},
+				{"searchTerm": "Felix vs Jerry", "priority": 2},
 				{"searchTerm": "Domkey Kong", "priority": 3},
-				{"searchTerm": "Super Mario 6 (S-M6)", "priority": 4}
+				{"searchTerm": "Super Mario 6", "priority": 4},
+				{"searchTerm": "Pikachu", "priority": 5}
 			]
 		},
 		{
@@ -5613,7 +5614,8 @@
 				{"searchTerm": "Tiny Toon Adventures 2 - Montana Land e Youkoso"},
 				{"searchTerm": "Tiny Toon Adventures 2 - Trouble in Wackyland"},
 				{"searchTerm": "Mario Bros 14", "priority": 2},
-				{"searchTerm": "Tiny Toon 2 (LEE05040)", "priority": 3}
+				{"searchTerm": "Tiny Toon 2", "priority": 3},
+				{"searchTerm": "Tiny Toon 3", "priority": 4}
 			]
 		},
 		{
@@ -5669,7 +5671,7 @@
 		{
 			"group": "Top Hunter",
 			"compilations": [
-				{"searchTerm": "Asder - 20 in 1"}
+				{"searchTerm": "Asder - 20-in-1"}
 			]
 		},
 		{
@@ -5694,11 +5696,12 @@
 			]
 		},
 		{
-			"group": "Tower of Radia",
+			"group": "Tower of Radia, The",
 			"titles": [
 				{"searchTerm": "Radia Senki - Reimei Hen"},
-				{"searchTerm": "Tower of Radia"},
-				{"searchTerm": "Radia Zhan Ji (Long Yu Tianxia)", "priority": 2}
+				{"searchTerm": "Tower of Radia, The"},
+				{"searchTerm": "Radia Zhan Ji", "priority": 2},
+				{"searchTerm": "Long Yu Tianxia", "priority": 3}
 			]
 		},
 		{
@@ -5743,13 +5746,6 @@
 			]
 		},
 		{
-			"group": "Turtle Paint - Volume 1",
-			"titles": [
-				{"searchTerm": "Turtle Paint - Volume 1 (UNROM 512)"},
-				{"searchTerm": "Turtle Paint - Volume 1 (UOROM)", "priority": 2}
-			]
-		},
-		{
 			"group": "Twin Cobra",
 			"titles": [
 				{"searchTerm": "Kyuukyoku Tiger"},
@@ -5760,8 +5756,8 @@
 		{
 			"group": "Twin Dragons",
 			"titles": [
-				{"searchTerm": "Twin Dragons"},
-				{"searchTerm": "Twin Dragons (Broke Studio)", "priority": 2}
+				{"searchTerm": "Twin Dragons (Limited Edition)"},
+				{"searchTerm": "Twin Dragons", "priority": 2}
 			]
 		},
 		{
@@ -5773,6 +5769,14 @@
 						{
 							"conditions": {
 								"matchRegions": ["Asia"]
+							},
+							"results": {
+								"group": "Double Strike - Aerial Attack Force"
+							}
+						},
+						{
+							"conditions": {
+								"matchRegions": ["Taiwan"]
 							},
 							"results": {
 								"group": "Double Strike - Aerial Attack Force"
@@ -5815,7 +5819,8 @@
 			"titles": [
 				{"searchTerm": "Taito Basketball"},
 				{"searchTerm": "Ultimate Basketball"},
-				{"searchTerm": "NBA '98", "priority": 2}
+				{"searchTerm": "NBA '98", "priority": 2},
+				{"searchTerm": "Toita Basketball", "priority": 3}
 			]
 		},
 		{
@@ -5853,8 +5858,9 @@
 				{"searchTerm": "Vector Run"}
 			],
 			"supersets": [
-				{"searchTerm": "Vector Run - The Remake"},
-				{"searchTerm": "Vector Run - The Trilogy", "priority": 2}
+				{"searchTerm": "Vector Run Collection"},
+				{"searchTerm": "Vector Run - The Remake", "priority": 2},
+				{"searchTerm": "Vector Run - The Trilogy", "priority": 3}
 			]
 		},
 		{
@@ -5863,8 +5869,9 @@
 				{"searchTerm": "Vector Run 2 - The Breakout"}
 			],
 			"supersets": [
-				{"searchTerm": "Vector Run - The Remake"},
-				{"searchTerm": "Vector Run - The Trilogy", "priority": 2}
+				{"searchTerm": "Vector Run Collection"},
+				{"searchTerm": "Vector Run - The Remake", "priority": 2},
+				{"searchTerm": "Vector Run - The Trilogy", "priority": 3}
 			]
 		},
 		{
@@ -5906,7 +5913,8 @@
 				{"searchTerm": "Wacky Races"},
 				{"searchTerm": "Harry Story", "priority": 2},
 				{"searchTerm": "Monster Inc.", "priority": 3},
-				{"searchTerm": "Lion King, The (Chiki-Chiki Dog)", "priority": 4}
+				{"searchTerm": "Lion King, The (Chiki-Chiki Dog)", "priority": 4},
+				{"searchTerm": "Pokemon Blue", "priority": 5}
 			]
 		},
 		{
@@ -5921,13 +5929,6 @@
 			"titles": [
 				{"searchTerm": "War Game (Family Basic)"},
 				{"searchTerm": "War Game (BG2) (Family Basic)", "priority": 2}
-			]
-		},
-		{
-			"group": "War on Wheels",
-			"titles": [
-				{"searchTerm": "War on Wheels (1991)"},
-				{"searchTerm": "War on Wheels (1990)", "priority": 2}
 			]
 		},
 		{
@@ -5957,6 +5958,13 @@
 				{"searchTerm": "Saiyuuki World 2 - Tenjoukai no Majin"},
 				{"searchTerm": "Whomp 'Em"},
 				{"searchTerm": "Super Brother Mario 13", "priority": 2}
+			]
+		},
+		{
+			"group": "Willow",
+			"titles": [
+				{"searchTerm": "Willow"},
+				{"searchTerm": "Willow Chuanqi"}
 			]
 		},
 		{
@@ -6062,13 +6070,6 @@
 			]
 		},
 		{
-			"group": "Xiake Qing - Jingke Ci Qinwang",
-			"titles": [
-				{"searchTerm": "Xiake Qing - Jingke Ci Qinwang (TKROM)"},
-				{"searchTerm": "Xiake Qing - Jingke Ci Qinwang", "priority": 2}
-			]
-		},
-		{
 			"group": "Xiang Shuai Chuanqi",
 			"titles": [
 				{"searchTerm": "Xiang Shuai Chuanqi"},
@@ -6081,7 +6082,7 @@
 			"titles": [
 				{"searchTerm": "Xiao Mali (Nei-Hu)"},
 				{"searchTerm": "Xiao Mali", "priority": 2},
-				{"searchTerm": "Xiao Mali (Unknown)", "priority": 3},
+				{"searchTerm": "Xiao Mali (1996)", "priority": 3},
 				{"searchTerm": "Bingo", "priority": 4}
 			]
 		},
@@ -6173,7 +6174,7 @@
 		{
 			"group": "Yeah Yeah Beebiss II",
 			"titles": [
-				{"searchTerm": "Yeah Yeah Beebiss II (Haoran and Li Jing)"},
+				{"searchTerm": "Yeah Yeah Beebiss II"},
 				{"searchTerm": "Yeah Yeah Beebiss II (Colin and David)", "priority": 2},
 				{"searchTerm": "Yeah Yeah Beebiss II (RGT)", "priority": 3},
 				{"searchTerm": "Yeah Yeah Beebiss II (RIGGS)", "priority": 4}
@@ -6246,6 +6247,13 @@
 			]
 		},
 		{
+			"group": "You Are Error",
+			"titles": [
+				{"searchTerm": "You Are Error (Special Edition)"},
+				{"searchTerm": "You Are Error", "priority": 2}
+			]
+		},
+		{
 			"group": "Yu Yu Hakusho Final - Makai Saikyou Retsuden",
 			"titles": [
 				{"searchTerm": "Yu Yu Hakusho Final - Makai Saikyou Retsuden"},
@@ -6312,7 +6320,7 @@
 			"titles": [
 				{"searchTerm": "Abarenbou Tengu"},
 				{"searchTerm": "Zombie Nation"},
-				{"searchTerm": "Samurai Zombie Nation (LEE08072)", "priority": 2}
+				{"searchTerm": "Samurai Zombie Nation", "priority": 2}
 			]
 		},
 		{

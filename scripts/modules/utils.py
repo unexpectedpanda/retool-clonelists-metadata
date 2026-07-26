@@ -264,11 +264,11 @@ def eprint(
 
     if wrap:
         if level == 'heading':
-            print(f'\n\n{Font.heading_bold}{"─"*95}{Font.end}', file=sys.stderr)
+            print(f'\n\n{Font.heading_bold}{"─" * 95}{Font.end}', file=sys.stderr)
         if level == 'subheading':
-            print(f'\n{Font.subheading}{"─"*60}{Font.end}', file=sys.stderr)
+            print(f'\n{Font.subheading}{"─" * 60}{Font.end}', file=sys.stderr)
         print(
-            f'{new_line}{textwrap.TextWrapper(width=95, subsequent_indent=indent_str*indent, replace_whitespace=False, break_long_words=False, break_on_hyphens=False).fill(message)}',
+            f'{new_line}{textwrap.TextWrapper(width=95, subsequent_indent=indent_str * indent, replace_whitespace=False, break_long_words=False, break_on_hyphens=False).fill(message)}',
             file=sys.stderr,
             **kwargs,
         )
@@ -280,7 +280,11 @@ def eprint(
 
 def get_datetime() -> datetime.datetime:
     """Gets the current datetime and time zone."""
-    return datetime.datetime.now(tz=datetime.UTC).replace(tzinfo=datetime.UTC).astimezone(tz=None)  # type: ignore
+    return (
+        datetime.datetime.now(tz=datetime.UTC)  # type: ignore
+        .replace(tzinfo=datetime.UTC)  # type: ignore
+        .astimezone(tz=None)
+    )
 
 
 def update_hash(file_list: list[str], relative_filepath: str) -> None:
@@ -306,7 +310,7 @@ def update_hash(file_list: list[str], relative_filepath: str) -> None:
 
     hash_file_contents.append('}\n')
 
-    validate_json(''.join(hash_file_contents), file)
+    validate_json(''.join(hash_file_contents), relative_filepath)
 
     with open(pathlib.Path(relative_filepath), 'w', newline='\n') as hash_file:
         hash_file.writelines(''.join(hash_file_contents))

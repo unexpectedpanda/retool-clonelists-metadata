@@ -1,8 +1,8 @@
 {
 	"description": {
 		"name": "Apple - Macintosh (Redump)",
-		"lastUpdated": "2025-10-06 10:50:45",
-		"minimumVersion": "2.4.0"
+		"lastUpdated": "2026-01-18 16:35:07",
+		"minimumVersion": "2.4.8"
 	},
 	"variants": [
 		{
@@ -36,6 +36,34 @@
 						"japanese": "アレックスワールド"
 					}
 				}
+			]
+		},
+		{
+			"group": "Atlantis - Das sagenhafte Abenteuer (Disc 1)",
+			"titles": [
+				{"searchTerm": "Atlantis - Das sagenhafte Abenteuer (Disc 1)"},
+				{"searchTerm": "Atlantis - Det foersvunna riket (Disc 1)"}
+			]
+		},
+		{
+			"group": "Atlantis - Das sagenhafte Abenteuer (Disc 2)",
+			"titles": [
+				{"searchTerm": "Atlantis - Das sagenhafte Abenteuer (Disc 2)"},
+				{"searchTerm": "Atlantis - Det foersvunna riket (Disc 2)"}
+			]
+		},
+		{
+			"group": "Atlantis - Das sagenhafte Abenteuer (Disc 3)",
+			"titles": [
+				{"searchTerm": "Atlantis - Das sagenhafte Abenteuer (Disc 3)"},
+				{"searchTerm": "Atlantis - Det foersvunna riket (Disc 3)"}
+			]
+		},
+		{
+			"group": "Atlantis - Das sagenhafte Abenteuer (Disc 4)",
+			"titles": [
+				{"searchTerm": "Atlantis - Das sagenhafte Abenteuer (Disc 4)"},
+				{"searchTerm": "Atlantis - Det foersvunna riket (Disc 4)"}
 			]
 		},
 		{
@@ -85,6 +113,33 @@
 			]
 		},
 		{
+			"group": "Fly! (Disc 1)",
+			"titles": [
+				{"searchTerm": "Fly! (Disc 1)"}
+			],
+			"supersets": [
+				{"searchTerm": "Fly! 2k (Disc 1) (Program Install)"}
+			]
+		},
+		{
+			"group": "Fly! (Disc 2)",
+			"titles": [
+				{"searchTerm": "Fly! (Disc 2)"}
+			],
+			"supersets": [
+				{"searchTerm": "Fly! 2k (Disc 2) (Satellite Scenery)"}
+			]
+		},
+		{
+			"group": "Fly! (Disc 3)",
+			"titles": [
+				{"searchTerm": "Fly! (Disc 3)"}
+			],
+			"supersets": [
+				{"searchTerm": "Fly! 2k (Disc 3) (Sectional Charts)"}
+			]
+		},
+		{
 			"group": "Harry Potter and the Chamber of Secrets",
 			"titles": [
 				{"searchTerm": "Harry Potter and the Chamber of Secrets"},
@@ -117,6 +172,15 @@
 			"titles": [
 				{"searchTerm": "In Memoriam (MAC - Install)"},
 				{"searchTerm": "In Memoriam (Mac Install)"}
+			]
+		},
+		{
+			"group": "Jack Nicklaus 4",
+			"titles": [
+				{"searchTerm": "Jack Nicklaus 4"}
+			],
+			"compilations": [
+				{"searchTerm": "Mac FunPack (Disc 2)"}
 			]
 		},
 		{
@@ -185,6 +249,13 @@
 			"titles": [
 				{"searchTerm": "Myst (Kinen Kakaku-ban)"},
 				{"searchTerm": "Myst", "priority": 2}
+			]
+		},
+		{
+			"group": "Nautilus - Intro",
+			"titles": [
+				{"searchTerm": "Nautilus - Intro"},
+				{"searchTerm": "Nautilus - Intro (Demo)"}
 			]
 		},
 		{

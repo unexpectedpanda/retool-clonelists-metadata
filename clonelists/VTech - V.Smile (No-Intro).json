@@ -1,14 +1,25 @@
 {
 	"description": {
 		"name": "VTech - V.Smile (No-Intro)",
-		"lastUpdated": "2025-10-06 10:50:46",
-		"minimumVersion": "2.4.0"
+		"lastUpdated": "2026-01-17 22:06:01",
+		"minimumVersion": "2.4.8"
 	},
 	"variants": [
+		{
+			"group": "Action Mania",
+			"titles": [
+				{"searchTerm": "Action Mania"},
+				{"searchTerm": "Sport Games"},
+				{"searchTerm": "Sporti'Folies"},
+				{"searchTerm": "Sportskanone"},
+				{"searchTerm": "Yingyu Yundongyuan"}
+			]
+		},
 		{
 			"group": "Adventures of Little Red Riding Hood, The",
 			"titles": [
 				{"searchTerm": "Adventures of Little Red Riding Hood, The"},
+				{"searchTerm": "Aventures du Petit Chaperon Rouge, Les"},
 				{"searchTerm": "Entdecke die Welt von Rotkaeppchen"}
 			]
 		},
@@ -23,11 +34,18 @@
 			]
 		},
 		{
-			"group": "Backyardigans - Viking Voyage",
+			"group": "Baby Einstein - World of Discoveries",
 			"titles": [
-				{"searchTerm": "Backyardigans - Viking Voyage"},
-				{"searchTerm": "Backyardigans, The - Viking Voyage"},
-				{"searchTerm": "Melodilous, Les - Les explorateurs vikings"}
+				{"searchTerm": "Baby Einstein - Un monde de decouvertes"},
+				{"searchTerm": "Baby Einstein - World of Discoveries"}
+			]
+		},
+		{
+			"group": "Backyardigans, The - Viking Voyage",
+			"titles": [
+				{"searchTerm": "Backyardigans, The - Viking Voyage (2008)"},
+				{"searchTerm": "Melodilous, Les - Les explorateurs vikings"},
+				{"searchTerm": "Backyardigans, The - Viking Voyage (2006)", "priority": 2}
 			]
 		},
 		{
@@ -38,17 +56,32 @@
 			]
 		},
 		{
+			"group": "Batman - Gotham City Rescue",
+			"titles": [
+				{"searchTerm": "Batman - De redding van Gotham City"},
+				{"searchTerm": "Batman - Gotham City Rescue"},
+				{"searchTerm": "Batman - Panique a Gotham City"},
+				{"searchTerm": "Batman - Rescate en Gotham City"},
+				{"searchTerm": "Batman - Rettung von Gotham City"},
+				{"searchTerm": "Bianfuxia - Zhengjiu Chengshi"}
+			]
+		},
+		{
 			"group": "Bob the Builder - Bob's Busy Day",
 			"titles": [
-				{"searchTerm": "Bob der Baumeister - Bobs spannender Arbeitstag"},
+				{"searchTerm": "Bob le Bricoleur - Les p'tits chantiers de Bob"},
 				{"searchTerm": "Bob the Builder - Bob's Busy Day"},
+				{"searchTerm": "Bob y sus Amigos - Un Dia De Trabajo"},
 				{"searchTerm": "Byggare Bob - Bobs stressiga dag"},
-				{"searchTerm": "Byggemand Bob - Bobs travle dag"}
+				{"searchTerm": "Byggemand Bob - Bobs travle dag"},
+				{"searchTerm": "Bob der Baumeister - Bobs spannender Arbeitstag (2005)", "priority": 2},
+				{"searchTerm": "Bob der Baumeister - Bobs spannender Arbeitstag (2008)", "priority": 2}
 			]
 		},
 		{
 			"group": "Care Bears - A Lesson in Caring",
 			"titles": [
+				{"searchTerm": "Bisounous, Les - Le monde merveilleux des Bisounours"},
 				{"searchTerm": "Care Bears - A Lesson in Caring"},
 				{"searchTerm": "Osos Amorosos - Una Leccion de Amor"}
 			]
@@ -58,99 +91,229 @@
 			"titles": [
 				{"searchTerm": "Bilar - Koer ikapp i Kylarkoeping"},
 				{"searchTerm": "Biler - Raes i Kolerkildekobing"},
-				{"searchTerm": "Cars"},
-				{"searchTerm": "Cars - Quatre roues"},
+				{"searchTerm": "Cars - Acelera el Motor en Radiador Springs"},
+				{"searchTerm": "Cars - Quatre roues (2009)"},
 				{"searchTerm": "Cars - Rev It Up in Radiator Springs"},
-				{"searchTerm": "Cars - Vollgas in Radiator Springs"}
+				{"searchTerm": "Cars - Vollgas in Radiator Springs"},
+				{"searchTerm": "Cars - Quatre roues (2006)", "priority": 2},
+				{"searchTerm": "Cars - Quatre roues", "priority": 3}
 			]
 		},
 		{
-			"group": "Cinderella - Cinderella's Magic Wishes",
+			"group": "Cranium - Partyland Park - A Carnival of Play-and-Learn Fun",
 			"titles": [
-				{"searchTerm": "Cendrillon - Le reve enchante de Cendrillon"},
-				{"searchTerm": "Cenerentola - I desideri magici di Cenerentola"},
-				{"searchTerm": "Cinderella - Askepots magiske onsker"},
-				{"searchTerm": "Cinderella - Askungens magiska oenskningar"},
-				{"searchTerm": "Cinderella - Cinderella's Magic Wishes"},
-				{"searchTerm": "Cinderella - Lernen im Maerchenland"}
+				{"searchTerm": "Cranium - Freizeit Park - Ein Jahrmarkt Voller Spiel-Und Lernspass"},
+				{"searchTerm": "Cranium - Le parc d'attractions"},
+				{"searchTerm": "Cranium - Parque de Atracciones de Cranium"},
+				{"searchTerm": "Cranium - Partyland Park - A Carnival of Play-and-Learn Fun"}
+			]
+		},
+		{
+			"group": "Day on the Farm, A",
+			"titles": [
+				{"searchTerm": "Day on the Farm, A"},
+				{"searchTerm": "Mein erster Bauernhof"},
+				{"searchTerm": "Un Dia en la Granja"},
+				{"searchTerm": "Un jour a la ferme"}
+			]
+		},
+		{
+			"group": "Discovery with Baby Mickey & Friends",
+			"titles": [
+				{"searchTerm": "Decouvertes de Mickey et ses amis, Les"},
+				{"searchTerm": "Discovery with Baby Mickey & Friends"}
+			]
+		},
+		{
+			"group": "Disney Baby - Pooh's Hundred Acre Wood Adventure",
+			"titles": [
+				{"searchTerm": "Disney Baby - Nalle Puhs aeventyr i Sjumilaskogen"},
+				{"searchTerm": "Disney Baby - Pooh's Hundred Acre Wood Adventure"}
 			]
 		},
 		{
 			"group": "Disney Fairies - TinkerBell",
 			"titles": [
-				{"searchTerm": "Disney Fairies - TinkerBell"},
-				{"searchTerm": "Tingeling"},
-				{"searchTerm": "TinkerBell"}
+				{"searchTerm": "Disney Fairies - Campanilla"},
+				{"searchTerm": "Disney Fairies - La Fee Clochette"},
+				{"searchTerm": "Disney Fairies - Tingeling"},
+				{"searchTerm": "Disney Fairies - TinkerBell"}
+			]
+		},
+		{
+			"group": "Disney Mickey Mouse Clubhouse",
+			"titles": [
+				{"searchTerm": "Disney La Casa de Mickey Mouse"},
+				{"searchTerm": "Disney La Maison de Mickey"},
+				{"searchTerm": "Disney Mickey Mouse Clubhouse"},
+				{"searchTerm": "Disney Micky Maus Wunderhaus"}
+			]
+		},
+		{
+			"group": "Disney Princess - Cinderella - Cinderella's Magic Wishes",
+			"titles": [
+				{"searchTerm": "Disney Princesas - Cenicienta, La - Los suenos magicos de Cenicienta (2008)"},
+				{"searchTerm": "Disney Princess - Assepoester - De wonderwereld van Assepoester (2010)"},
+				{"searchTerm": "Disney Princess - Cinderella - Askepots magiske onsker (2006)"},
+				{"searchTerm": "Disney Princess - Cinderella - Askungens magiska oenskningar (2006)"},
+				{"searchTerm": "Disney Princess - Cinderella - Cinderella's Magic Wishes (2007)"},
+				{"searchTerm": "Disney Princess - Cinderella - Lernen im Maerchenland (2010)"},
+				{"searchTerm": "Disney Princesses - Cendrillon - Le reve enchante de Cendrillon (2010)"},
+				{"searchTerm": "Disney Principesse - Cenerentola - I desideri magici di Cenerentola (2006)"},
+				{"searchTerm": "Disney Princesas - Cenicienta, La - Los suenos magicos de Cenicienta (2007)", "priority": 2},
+				{"searchTerm": "Disney Princess - Assepoester - De wonderwereld van Assepoester (2007)", "priority": 2},
+				{"searchTerm": "Disney Princess - Cinderella - Cinderella's Magic Wishes (2005)", "priority": 2},
+				{"searchTerm": "Disney Princess - Cinderella - Lernen im Maerchenland (2008)", "priority": 2},
+				{"searchTerm": "Disney Princesses - Cendrillon - Le reve enchante de Cendrillon (2008)", "priority": 2},
+				{"searchTerm": "Disney Princesas - Cenicienta, La - Los suenos magicos de Cenicienta (2005)", "priority": 3},
+				{"searchTerm": "Disney Princess - Assepoester - De wonderwereld van Assepoester (2005)", "priority": 3},
+				{"searchTerm": "Disney Princess - Cinderella - Lernen im Maerchenland (2007)", "priority": 3},
+				{"searchTerm": "Disney Princesses - Cendrillon - Le reve enchante de Cendrillon (2007)", "priority": 3},
+				{"searchTerm": "Disney Princess - Cinderella - Lernen im Maerchenland (2005)", "priority": 4},
+				{"searchTerm": "Disney Princesses - Cendrillon - Le reve enchante de Cendrillon (2005)", "priority": 4}
 			]
 		},
 		{
 			"group": "Disney's Aladdin - Aladdin's Wonders of the World",
 			"titles": [
-				{"searchTerm": "Aladdin - Aladdins Welt der Wunder"},
-				{"searchTerm": "Aladdin - El Maravilloso Mundo de Aladdin"},
-				{"searchTerm": "Aladdin - Il magico mondo di Aladdin"},
+				{"searchTerm": "Disney Aladdin - El Maravilloso Mundo de Aladdin"},
+				{"searchTerm": "Disney Aladdin - Il magico mondo di Aladdin"},
 				{"searchTerm": "Disney Aladdin - Wonders of the World"},
-				{"searchTerm": "Disney's Aladdin - Aladdin's Wonders of the World"}
+				{"searchTerm": "Disney's Aladdin - Aladdin's Wonders of the World"},
+				{"searchTerm": "Disney's Aladdin - De wonderwereld van Aladdin"},
+				{"searchTerm": "Disney's Aladdin - Les fabuleuses aventures d'Aladdin"},
+				{"searchTerm": "Disneys Aladdin - Aladdins Welt der Wunder"}
+			]
+		},
+		{
+			"group": "Disney's Mickey Mouse - Mickey's Magical Adventure",
+			"titles": [
+				{"searchTerm": "Disney Mickey - La Aventura Magica de Mickey"},
+				{"searchTerm": "Disney Mickey Mouse - De wonderwereld van Micke"},
+				{"searchTerm": "Disney Topolino - Le Magiche Avventure di Topolino"},
+				{"searchTerm": "Disney's Mickey Mouse - Mickey's Magical Adventure"},
+				{"searchTerm": "Disney's Micky - Mickys magisches Abenteuer"},
+				{"searchTerm": "Disney's Musse Pigg - Musses magiska aeventyr"}
 			]
 		},
 		{
 			"group": "Disney's The Lion King - Simba's Big Adventure",
 			"titles": [
-				{"searchTerm": "Disney's The Lion King - Simba's Big Adventure"},
-				{"searchTerm": "Lejonkungen - Simbas stora aeventyr"},
-				{"searchTerm": "Lion King, The - Simba's Big Adventure"},
-				{"searchTerm": "Lovernes Konge - Simbas store eventyr"},
-				{"searchTerm": "Re Leone, Il - La Grande Avventura di Simba"},
-				{"searchTerm": "Roi Lion, Le - Simba decouvre la jungle"}
+				{"searchTerm": "Disney Der Koenig der Loewen - Simbas grosses Abenteuer"},
+				{"searchTerm": "Disney El Rey Leon - La Gran Aventura de Simba"},
+				{"searchTerm": "Disney Il Re Leone - La Grande Avventura di Simba"},
+				{"searchTerm": "Disney Le Roi Lion - Simba decouvre la jungle"},
+				{"searchTerm": "Disney Lejonkungen - Simbas stora aeventyr"},
+				{"searchTerm": "Disney Lovernes Konge - Simbas store eventyr"},
+				{"searchTerm": "Disney's The Lion King - Simba's Big Adventure (2004)"},
+				{"searchTerm": "Disney's The Lion King - Simba's Big Adventure", "priority": 2}
 			]
 		},
 		{
 			"group": "Disney's The Little Mermaid - Ariel's Majestic Journey",
 			"titles": [
-				{"searchTerm": "Arielle die Meerjungfrau - Arielles aufregendes Abenteuer"},
-				{"searchTerm": "Den lilla sjoejungfrun - Ariels majestaetiska resa!"},
-				{"searchTerm": "Den lille havfrue - Ariels majestaetiske rejse!"},
+				{"searchTerm": "Disney Den lille havfrue - Ariels majestaetiske rejse!"},
+				{"searchTerm": "Disney La Petite Sirene - Ariel devient une princesse"},
+				{"searchTerm": "Disney La Sirenetta - Ariel e la Crociera Magica"},
+				{"searchTerm": "Disney La Sirenita - El Viaje Fantastico de Ariel"},
 				{"searchTerm": "Disney's The Little Mermaid - Ariel's Majestic Journey"},
-				{"searchTerm": "Little Mermaid, The - Ariel's Majestic Journey"},
-				{"searchTerm": "Petite Sirene, La - Ariel devient une princesse"},
-				{"searchTerm": "Sirenetta, La - Ariel e la Crociera Magica"},
-				{"searchTerm": "Sirenita, La - El Viaje Fantastico de Ariel"}
+				{"searchTerm": "Disneys Arielle die Meerjungfrau - Arielles aufregendes Abenteuer"},
+				{"searchTerm": "Disneys Den lilla sjoejungfrun - Ariels majestaetiska resa!"}
+			]
+		},
+		{
+			"group": "Disney's Winnie the Pooh - The Honey Hunt",
+			"titles": [
+				{"searchTerm": "Disney Mes Amis Tigrou et Winnie - La chasse au miel de Winnie"},
+				{"searchTerm": "Disney My Friends Tigger & Pooh - Die Honigjagd"},
+				{"searchTerm": "Disney My Friends Tigger and Pooh - En Busca de la Miel"},
+				{"searchTerm": "Disney Nalle Puh - Honungsjakten"},
+				{"searchTerm": "Disney Peter Plys - Honningjagten"},
+				{"searchTerm": "Disney Winnie the Pooh - E la caccia al miele"},
+				{"searchTerm": "Disney's Winnie de Poeh - De wonderwereld van Poeh"},
+				{"searchTerm": "Disney's Winnie the Pooh - The Honey Hunt"},
+				{"searchTerm": "Disney Winnie l'Ourson - La Chasse au miel de Winnie", "priority": 2},
+				{"searchTerm": "Disney Winnie Puuh - Die Honigjagd", "priority": 2},
+				{"searchTerm": "Winnie the Pooh - En busca de la miel", "priority": 2}
+			]
+		},
+		{
+			"group": "Disney-Pixar Finding Nemo - Nemo's Ocean Discoveries",
+			"titles": [
+				{"searchTerm": "Disney-Pixar A Procura de Nemo - Nemo A Descoberta do Oceano"},
+				{"searchTerm": "Disney-Pixar Buscando a Nemo - Los Descubrimientos de Nemo"},
+				{"searchTerm": "Disney-Pixar Findet Nemo - Nemos Unterwasserabenteuer"},
+				{"searchTerm": "Disney-Pixar Finding Nemo - De wonderwereld van Nemo"},
+				{"searchTerm": "Disney-Pixar Finding Nemo - Nemo's Ocean Discoveries"},
+				{"searchTerm": "Disney-Pixar Le Monde de Nemo - Nemo a la decouverte de l'ocean"}
+			]
+		},
+		{
+			"group": "Disney-Pixar Ratatouille - Remy's New Recipes",
+			"titles": [
+				{"searchTerm": "Disney-Pixar Ratatouille - Las recetas del Remy"},
+				{"searchTerm": "Disney-Pixar Ratatouille - Le nuove Ricette di Remy"},
+				{"searchTerm": "Disney-Pixar Ratatouille - Les nouvelles recettes de Remy"},
+				{"searchTerm": "Disney-Pixar Ratatouille - Remy's New Recipes"},
+				{"searchTerm": "Disney-Pixar Ratatouille - Remy's Nieuwe Recepten"},
+				{"searchTerm": "Disney-Pixar Ratatouille - Remys neue Rezepte"}
+			]
+		},
+		{
+			"group": "Disney-Pixar Toy Story 2 - Operation - Rescue Woody!",
+			"titles": [
+				{"searchTerm": "Disney-Pixar Toy Story 2 - Buzz a la rescousse !"},
+				{"searchTerm": "Disney-Pixar Toy Story 2 - El Rescate De Woody"},
+				{"searchTerm": "Disney-Pixar Toy Story 2 - Operation - Raedda Woody!"},
+				{"searchTerm": "Disney-Pixar Toy Story 2 - Operation - Rescue Woody!"},
+				{"searchTerm": "Disney-Pixar Toy Story 2 - Operazione - Salvataggio di Woody!"},
+				{"searchTerm": "Disney-Pixar Toy Story 2 - Woodys spannende Rettung"}
+			]
+		},
+		{
+			"group": "Disney-Pixar Up",
+			"titles": [
+				{"searchTerm": "Disney-Pixar La-Haut"},
+				{"searchTerm": "Disney-Pixar Oben"},
+				{"searchTerm": "Disney-Pixar Up"}
 			]
 		},
 		{
 			"group": "Dora the Explorer - Dora's Fix-It Adventure",
 			"titles": [
+				{"searchTerm": "Dora - Dora's Reparatie Avontuur"},
+				{"searchTerm": "Dora - Dora's Reparatie Avontuur!"},
 				{"searchTerm": "Dora - Doras Reparatur-Abenteuer"},
-				{"searchTerm": "Dora l'exploratrice - Les aventures de Dora Apprentie Mecano"},
-				{"searchTerm": "Dora the Explorer - Dora's Fix-It Adventure"},
-				{"searchTerm": "Dora's Fix-it Adventure"}
+				{"searchTerm": "Dora l'Exploratrice - Les aventures de Dora Apprentie Mecano (2005)"},
+				{"searchTerm": "Dora La Exploradora - La Aventura Arregla-Todo de Dora"},
+				{"searchTerm": "Dora the Explorer - Dora's Fix-It Adventure (2008)"},
+				{"searchTerm": "Dora l'Exploratrice - Les aventures de Dora Apprentie Mecano", "priority": 2},
+				{"searchTerm": "Dora the Explorer - Dora's Fix-It Adventure (2007)", "priority": 2},
+				{"searchTerm": "Dora the Explorer - Dora's Fix-It Adventure (2005)", "priority": 3},
+				{"searchTerm": "Dora the Explorer - Dora's Fix-it Adventure", "priority": 4}
 			]
 		},
 		{
-			"group": "Finding Nemo - Nemo's Ocean Discoveries",
+			"group": "Go Diego Go! - Save the Animal Families!",
 			"titles": [
-				{"searchTerm": "Finding Nemo - De wonderwereld van Nemo"},
-				{"searchTerm": "Finding Nemo - Nemo's Ocean Discoveries"}
-			]
-		},
-		{
-			"group": "Football Club",
-			"titles": [
-				{"searchTerm": "Football Club"},
-				{"searchTerm": "Fussball Schule"}
+				{"searchTerm": "Go Diego ! - A la rescousse des animaux !"},
+				{"searchTerm": "Go Diego Go! - Save the Animal Families!"}
 			]
 		},
 		{
 			"group": "Handy Manny",
 			"titles": [
 				{"searchTerm": "Handy Manny"},
+				{"searchTerm": "Manny et ses outils"},
 				{"searchTerm": "Meister Manny's Werkzeugkiste"}
 			]
 		},
 		{
 			"group": "Kung Fu Panda - Path of the Panda",
 			"titles": [
+				{"searchTerm": "Kung Fu Panda - Aventura en el Valle de la Paz"},
 				{"searchTerm": "Kung Fu Panda - Der Weg des Panda"},
+				{"searchTerm": "Kung Fu Panda - La mission de Po"},
 				{"searchTerm": "Kung Fu Panda - Path of the Panda"}
 			]
 		},
@@ -158,47 +321,82 @@
 			"group": "Learnin' Wheels",
 			"titles": [
 				{"searchTerm": "Apprenti' pilote"},
+				{"searchTerm": "Conduccion Divertida"},
 				{"searchTerm": "Freds Zahlen Rallye"},
-				{"searchTerm": "Learnin' Wheels"}
+				{"searchTerm": "Learnin' Wheels"},
+				{"searchTerm": "Mission Pilote"},
+				{"searchTerm": "Flitzers Schlaue Stadtetour", "priority": 2}
+			]
+		},
+		{
+			"group": "Lil' Bratz - Dressed-Up - Friends, Fashion and Fun",
+			"titles": [
+				{"searchTerm": "Lil' Bratz - Au Top de la Mode - Complices, Cools et Class'"},
+				{"searchTerm": "Lil' Bratz - Dressed-Up - Friends, Fashion and Fun"},
+				{"searchTerm": "Lil' Bratz - Estrellas De La Moda - Amigos, Moda y Diversion"}
+			]
+		},
+		{
+			"group": "Little Einsteins",
+			"titles": [
+				{"searchTerm": "Kleine Einsteins"},
+				{"searchTerm": "Little Einsteins"},
+				{"searchTerm": "Petits Einsteins, Les - Le bal du soulier de verre"}
 			]
 		},
 		{
 			"group": "Mein erster Hund",
 			"titles": [
+				{"searchTerm": "Dakota y su mascota"},
 				{"searchTerm": "Mein erster Hund"},
-				{"searchTerm": "Min hundvalp"}
+				{"searchTerm": "Mijn Puppy!"},
+				{"searchTerm": "Min hundvalp"},
+				{"searchTerm": "Mon Toutou tout fou !"}
 			]
 		},
 		{
-			"group": "Mickey Mouse - Mickey's Magical Adventure",
+			"group": "Meine kleinen Tierfreunde",
 			"titles": [
-				{"searchTerm": "Mickey Mouse - Mickey's Magical Adventure"},
-				{"searchTerm": "Micky - Mickys magisches Abenteuer"},
-				{"searchTerm": "Musse Pigg - Musses magiska aeventyr"},
-				{"searchTerm": "Topolino - Le Magiche Avventure di Topolino"}
+				{"searchTerm": "Dierenhuis"},
+				{"searchTerm": "Meine kleinen Tierfreunde"}
 			]
 		},
 		{
-			"group": "Mickey Mouse Clubhouse",
+			"group": "Monsters vs. ALiens",
 			"titles": [
-				{"searchTerm": "Mickey Mouse Clubhouse"},
-				{"searchTerm": "Micky Maus Wunderhaus"}
+				{"searchTerm": "Monsters vs. Aliens"},
+				{"searchTerm": "Monstres contre Aliens"}
+			]
+		},
+		{
+			"group": "Ni Hao Kai Lan - Happy Chinese New Year!",
+			"titles": [
+				{"searchTerm": "Ni Hao Kai Lan - Happy Chinese New Year!"},
+				{"searchTerm": "Ni Hao Kai Lan - Joyeux nouvel an chinois !"}
+			]
+		},
+		{
+			"group": "Noah's Ark - Animal Adventures",
+			"titles": [
+				{"searchTerm": "Arche de Noe, L' - L'aventure des animaux"},
+				{"searchTerm": "Noah's Ark - Animal Adventures"}
 			]
 		},
 		{
 			"group": "Noddy - Detective for a Day",
 			"titles": [
 				{"searchTerm": "Noddy - Detective for a Day"},
+				{"searchTerm": "Noddy - Detective Por um Dia"},
 				{"searchTerm": "Noddy - Detektiv fuer einen Tag"},
 				{"searchTerm": "Oui-Oui - Detective d'un jour"}
 			]
 		},
 		{
-			"group": "Ratatouille - Remy's New Recipes",
+			"group": "Princess and the Frog, The - Tiana's Big Dream",
 			"titles": [
-				{"searchTerm": "Ratatouille - Le nuove Ricette di Remy"},
-				{"searchTerm": "Ratatouille - Remy's New Recipes"},
-				{"searchTerm": "Ratatouille - Remys neue Rezepte"}
+				{"searchTerm": "Disney Kuss den Frosch - Tianas grosser Traum"},
+				{"searchTerm": "Princess and the Frog, The - Tiana's Big Dream"},
+				{"searchTerm": "Princesse Et La Grenouille, La - Le grand reve de Tiana"}
 			]
 		},
 		{
@@ -207,24 +405,29 @@
 				{"searchTerm": "Scooby-Doo - Panique a Funland"},
 				{"searchTerm": "Scooby-Doo! - Avventura a Funland"},
 				{"searchTerm": "Scooby-Doo! - Funland Frenzy"},
+				{"searchTerm": "Scooby-Doo! - Griezelen in het Pretpark"},
 				{"searchTerm": "Scooby-Doo! - Im Lernpark"},
 				{"searchTerm": "Scooby-Doo! - Sjov i forlystelsesparken"},
-				{"searchTerm": "Scooby-Doo! - Tivoli-tokerier"}
+				{"searchTerm": "Scooby-Doo! - Tivoli-tokerier"},
+				{"searchTerm": "Scooby-Doo!! - Misterio en el parque"}
 			]
 		},
 		{
 			"group": "Sesame Street - Bert & Ernie's Imagination Adventure",
 			"titles": [
-				{"searchTerm": "Ernies & Berts Fantastisches Abenteuer"},
-				{"searchTerm": "Sesame Street - Bert & Ernie's Imagination Adventure"}
+				{"searchTerm": "5, Rue Sesame - Les aventures imaginaires d'Ernest et Bart"},
+				{"searchTerm": "Barrio Sesamo - El Mundo Fantastico de Epi y Blas"},
+				{"searchTerm": "Sesame Street - Bert & Ernie's Imagination Adventure"},
+				{"searchTerm": "Sesamstrasse - Ernies & Berts Fantastisches Abenteuer"}
 			]
 		},
 		{
 			"group": "Sesame Street - Elmo's World - Elmo's Big Discoveries",
 			"titles": [
-				{"searchTerm": "Elmos grosses Abenteuer"},
-				{"searchTerm": "Grandes decouvertes d'Elmo, Les"},
-				{"searchTerm": "Sesame Street - Elmo's World - Elmo's Big Discoveries"}
+				{"searchTerm": "5, Rue Sesame - Le Monde d'Elmo - Les grandes decouvertes d'Elmo"},
+				{"searchTerm": "Barrio Sesamo - El Mundo de Elmo - Grandes descubrimientos de Elmo"},
+				{"searchTerm": "Sesame Street - Elmo's World - Elmo's Big Discoveries"},
+				{"searchTerm": "Sesamstrasse - Elmos Welt - Elmos grosses Abenteuer"}
 			]
 		},
 		{
@@ -232,15 +435,33 @@
 			"titles": [
 				{"searchTerm": "Shrek - Die Geschichte des Drachen"},
 				{"searchTerm": "Shrek - Dragon's Tale"},
+				{"searchTerm": "Shrek - El Cuento de la Dragona"},
 				{"searchTerm": "Shrek - Het verhaal van draakje"},
 				{"searchTerm": "Shrek - Le rhume de Dragonne"}
+			]
+		},
+		{
+			"group": "Shrek Forever After",
+			"titles": [
+				{"searchTerm": "Fur immer Shrek"},
+				{"searchTerm": "Shrek 4 - Il etait une fin"},
+				{"searchTerm": "Shrek Forever After"}
 			]
 		},
 		{
 			"group": "Shrek the Third - Arthur's School Day Adventure",
 			"titles": [
 				{"searchTerm": "Shrek de Derde - Arthurs Schooldag Avontuur"},
+				{"searchTerm": "Shrek der Dritte - Ein Spannender Schultag"},
+				{"searchTerm": "Shrek Le Troisieme - L'aventure d'Arthur"},
 				{"searchTerm": "Shrek the Third - Arthur's School Day Adventure"}
+			]
+		},
+		{
+			"group": "Snow Park Challenge",
+			"titles": [
+				{"searchTerm": "Snow Park Challenge"},
+				{"searchTerm": "Wintersport"}
 			]
 		},
 		{
@@ -248,31 +469,54 @@
 			"titles": [
 				{"searchTerm": "Spider-Man & Freunde - Wettkampf im Space-Labor"},
 				{"searchTerm": "Spider-Man & Friends - Doc Ock's Challenge"},
-				{"searchTerm": "Spider-Man & Friends - La Sfida del Dottor Ock"}
+				{"searchTerm": "Spider-Man & Friends - La Sfida del Dottor Ock"},
+				{"searchTerm": "Spider-Man & ses amis - Le Defi du Docteur Ock"},
+				{"searchTerm": "Spider-Man y Amigos - La Aventura Del Doctor Octopus"}
 			]
 		},
 		{
 			"group": "Spider-Man & Friends - Secret Missions",
 			"titles": [
+				{"searchTerm": "Spider-Man & Freunde - Geheime Missionen"},
 				{"searchTerm": "Spider-Man & Friends - Missioni Segrete"},
 				{"searchTerm": "Spider-Man & Friends - Secret Missions"},
-				{"searchTerm": "Spider-Man & ses amis - Missions secretes"}
+				{"searchTerm": "Spider-Man & ses amis - Missions secretes (2009)"},
+				{"searchTerm": "Spider-Man en Vrienden - Geheime Missies (2008)"},
+				{"searchTerm": "Spider-Man y Amigos - Misiones Secretas (2008)"},
+				{"searchTerm": "Spider-Man & ses amis - Missions secretes (2007)", "priority": 2},
+				{"searchTerm": "Spider-Man en Vrienden - Geheime Missies (2005)", "priority": 2},
+				{"searchTerm": "Spider-Man y Amigos - Misiones Secretas (2005)", "priority": 2},
+				{"searchTerm": "Spider-Man & ses amis - Missions secretes (2005)", "priority": 3},
+				{"searchTerm": "Spider-Man & ses amis - Missions secretes (2004)", "priority": 4},
+				{"searchTerm": "Spider-Man & ses amis - Missions secretes", "priority": 5}
 			]
 		},
 		{
 			"group": "Spongebob Squarepants - A Day in the Life of a Sponge",
 			"titles": [
+				{"searchTerm": "Bob Esponja - Un dia en la vida de una esponja"},
+				{"searchTerm": "Bob L'eponge - Une journee dans la vie d'une eponge"},
 				{"searchTerm": "Spongebob - Un giorno da Spugna"},
 				{"searchTerm": "Spongebob Schwammkopf - Der Tag des Schwamms"},
-				{"searchTerm": "Spongebob Squarepants - A Day in the Life of a Sponge"}
+				{"searchTerm": "Spongebob Squarepants - A Day in the Life of a Sponge"},
+				{"searchTerm": "SpongeBob SquarePants - Een Dag uit het Leven van een Spons"}
 			]
 		},
 		{
 			"group": "Superman - The Greatest Hero",
 			"titles": [
 				{"searchTerm": "Superman - A la rescousse !"},
+				{"searchTerm": "Superman - De Grootste Held"},
 				{"searchTerm": "Superman - Der Superheld"},
 				{"searchTerm": "Superman - The Greatest Hero"}
+			]
+		},
+		{
+			"group": "Teletubbies - Time for Teletubbies",
+			"titles": [
+				{"searchTerm": "Teletubbies - C'est l'heure des Teletubbies"},
+				{"searchTerm": "Teletubbies - Es la hora de los Teletubbies!"},
+				{"searchTerm": "Teletubbies - Time for Teletubbies"}
 			]
 		},
 		{
@@ -285,48 +529,69 @@
 			]
 		},
 		{
-			"group": "Toy Story 2 - Operation - Rescue Woody!",
-			"titles": [
-				{"searchTerm": "Toy Story 2 - Operation - Raedda Woody!"},
-				{"searchTerm": "Toy Story 2 - Operation - Rescue Woody!"},
-				{"searchTerm": "Toy Story 2 - Operazione - Salvataggio di Woody"},
-				{"searchTerm": "Toy Story 2 - Woodys spannende Rettung"}
-			]
-		},
-		{
-			"group": "Up",
-			"titles": [
-				{"searchTerm": "Oben"},
-				{"searchTerm": "Up"}
-			]
-		},
-		{
 			"group": "V.Smile - Art Studio",
 			"titles": [
-				{"searchTerm": "V.Smile - Art Studio"},
-				{"searchTerm": "V.Smile - Tecknarstudio"},
-				{"searchTerm": "V.Smile - Zeichenatelier"}
+				{"searchTerm": "V.Smile - Art Studio (V.Smile Art Studio)"},
+				{"searchTerm": "V.Smile - Estudio De Arte (V.Smile Art Studio)"},
+				{"searchTerm": "V.Smile - Studio de dessin (V.Smile Art Studio)"},
+				{"searchTerm": "V.Smile - Tecknarstudio (V.Smile Art Studio)"},
+				{"searchTerm": "V.Smile - Zeichenatelier (V.Smile Art Studio)"}
 			]
 		},
 		{
-			"group": "Winnie the Pooh - The Honey Hunt",
+			"group": "V.Smile - Jammin' Gym Class (Jammin' Gym Class Exercise Mat)",
 			"titles": [
-				{"searchTerm": "My Friends Tigger & Pooh - Die Honigjagd"},
-				{"searchTerm": "Nalle Puh - Honungsjakten"},
-				{"searchTerm": "Peter Plys - Honningjagten"},
-				{"searchTerm": "Winnie l'Ourson - La Chasse au miel de Winnie"},
-				{"searchTerm": "Winnie Puuh - Die Honigjagd"},
-				{"searchTerm": "Winnie the Pooh - The Honey Hunt"},
-				{"searchTerm": "Winnie the Pooh e la caccia al miele"}
+				{"searchTerm": "Gimnasio Interactivo V.Smile (Jammin' Gym Class Exercise Mat)"},
+				{"searchTerm": "V.Smile - Defi Gym (Jammin' Gym Class Exercise Mat)"},
+				{"searchTerm": "V.Smile - Jammin' Gym Class (Jammin' Gym Class Exercise Mat)"}
+			]
+		},
+		{
+			"group": "V.Smile - PC Pal Island (Smart Keyboard)",
+			"titles": [
+				{"searchTerm": "Mein erster Mausklick (Smart Keyboard)"},
+				{"searchTerm": "Mes premiers clics (Smart Keyboard)"},
+				{"searchTerm": "V.Smile - PC (Smart Keyboard)"},
+				{"searchTerm": "V.Smile - PC Pal Island (Smart Keyboard)"}
+			]
+		},
+		{
+			"group": "V.Smile - Smart Keyboard (Smart Keyboard)",
+			"titles": [
+				{"searchTerm": "Teclado Interactivo V.Smile (Smart Keyboard)"},
+				{"searchTerm": "V.Smile - Clavier Tip Tap (Smart Keyboard)"},
+				{"searchTerm": "V.Smile - Schreibspass (Smart Keyboard)"},
+				{"searchTerm": "V.Smile - Smart Keyboard (Smart Keyboard)"}
+			]
+		},
+		{
+			"group": "V.Smile - Soccer Challenge",
+			"titles": [
+				{"searchTerm": "Campeonato de Futbol V.Smile"},
+				{"searchTerm": "Football Challenge"},
+				{"searchTerm": "Football Club"},
+				{"searchTerm": "Fussball Meisterschaft"},
+				{"searchTerm": "Fussball Schule"},
+				{"searchTerm": "Soccer Challenge"},
+				{"searchTerm": "V.Smile - Soccer Challenge"}
+			]
+		},
+		{
+			"group": "Wild Waves",
+			"titles": [
+				{"searchTerm": "Dolphis Wasser-abenteuer"},
+				{"searchTerm": "Martin le Dauphin"},
+				{"searchTerm": "Wild Waves"}
 			]
 		},
 		{
 			"group": "Zayzoo - An Earth Adventure",
 			"titles": [
 				{"searchTerm": "Zayzoo - An Earth Adventure"},
-				{"searchTerm": "Zayzoo My Alien Classmate"},
+				{"searchTerm": "Zayzoo - Mi Amiga del Espacio"},
 				{"searchTerm": "Zayzoos Lernall"},
-				{"searchTerm": "Zezou - Notre ami venu d'ailleurs"}
+				{"searchTerm": "Zezou - Notre ami venu d'ailleurs"},
+				{"searchTerm": "Zayzoo - My Alien Classmate", "priority": 2}
 			]
 		}
 	]

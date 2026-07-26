@@ -1,51 +1,15 @@
 {
 	"description": {
 		"name": "Non-Redump - Sony - PlayStation Portable (No-Intro)",
-		"lastUpdated": "2025-10-06 10:50:46",
-		"minimumVersion": "2.4.0"
+		"lastUpdated": "2026-01-10 14:23:34",
+		"minimumVersion": "2.4.8"
 	},
 	"variants": [
-		{
-			"group": "Bubble Bobble - Evolution",
-			"titles": [
-				{"searchTerm": "Bubble Bobble - Evolution"},
-				{"searchTerm": "Bubble Bobble - Magical Tower Daisakusen!!"}
-			]
-		},
 		{
 			"group": "Cars",
 			"titles": [
 				{"searchTerm": "Bilar"},
-				{"searchTerm": "Biler"},
 				{"searchTerm": "Cars"}
-			]
-		},
-		{
-			"group": "Coded Arms - Contagion",
-			"titles": [
-				{"searchTerm": "Coded Arms - Contagion"},
-				{"searchTerm": "Coded Gun - Contagion"}
-			]
-		},
-		{
-			"group": "Con - Gamble Fight, The",
-			"titles": [
-				{"searchTerm": "Con - Gamble Fight, The"},
-				{"searchTerm": "Gamble Con Fight"}
-			]
-		},
-		{
-			"group": "Crash Tag Team Racing",
-			"titles": [
-				{"searchTerm": "Crash Bandicoot - Gacchanko World"},
-				{"searchTerm": "Crash Tag Team Racing"}
-			]
-		},
-		{
-			"group": "Crimsongem Saga",
-			"titles": [
-				{"searchTerm": "Crimsongem Saga"},
-				{"searchTerm": "Garnet Chronicle - Kouki no Maseki"}
 			]
 		},
 		{
@@ -56,38 +20,9 @@
 			]
 		},
 		{
-			"group": "Dead Head Fred",
-			"titles": [
-				{"searchTerm": "Dead Head Fred"},
-				{"searchTerm": "Dead Head Fred - Kubinashi Tantei no Akumu"}
-			]
-		},
-		{
-			"group": "FIFA 10",
-			"titles": [
-				{"searchTerm": "FIFA 10"},
-				{"searchTerm": "FIFA 10 - World Class Soccer"}
-			]
-		},
-		{
-			"group": "FIFA 11",
-			"titles": [
-				{"searchTerm": "FIFA 11 (Platinum Edition)"},
-				{"searchTerm": "FIFA 11 - World Class Soccer"}
-			]
-		},
-		{
-			"group": "FIFA 14",
-			"titles": [
-				{"searchTerm": "FIFA 14"},
-				{"searchTerm": "FIFA 14 - World Class Soccer"}
-			]
-		},
-		{
 			"group": "FIFA Soccer 13",
 			"titles": [
 				{"searchTerm": "FIFA 13"},
-				{"searchTerm": "FIFA 13 - World Class Soccer"},
 				{"searchTerm": "FIFA Soccer 13"}
 			]
 		},
@@ -106,45 +41,10 @@
 			]
 		},
 		{
-			"group": "Koukaku Kidoutai - Stand Alone Complex",
-			"titles": [
-				{"searchTerm": "Koukaku Kidoutai - Stand Alone Complex"},
-				{"searchTerm": "Koukaku Kidoutai - Stand Alone Complex - Kariudo no Ryouiki"}
-			]
-		},
-		{
 			"group": "Lost Regnum - Makutsu no Koutei",
 			"titles": [
 				{"searchTerm": "Lost Regnum - Makutsu no Koutei"},
 				{"searchTerm": "Lost Regnum - The Emperor of Theives"}
-			]
-		},
-		{
-			"group": "Moeru Mahjong - Moejong",
-			"titles": [
-				{"searchTerm": "Moeru Mahjong - Moejong (Premium Box)"},
-				{"searchTerm": "Moeru Mahjong - Moejong", "priority": 2}
-			]
-		},
-		{
-			"group": "MotorStorm - Arctic Edge",
-			"titles": [
-				{"searchTerm": "MotorStorm - Arctic Edge"},
-				{"searchTerm": "MotorStorm - Raging Ice"}
-			]
-		},
-		{
-			"group": "Pursuit Force",
-			"titles": [
-				{"searchTerm": "Pursuit Force"},
-				{"searchTerm": "Pursuit Force - Daitsuiseki"}
-			]
-		},
-		{
-			"group": "Ratatouille",
-			"titles": [
-				{"searchTerm": "Ratatooee"},
-				{"searchTerm": "Ratatouille"}
 			]
 		},
 		{
@@ -155,20 +55,6 @@
 			]
 		},
 		{
-			"group": "Resistance - Retribution",
-			"titles": [
-				{"searchTerm": "Resistance - Houfuku no Toki"},
-				{"searchTerm": "Resistance - Retribution"}
-			]
-		},
-		{
-			"group": "Sega Rally Revo",
-			"titles": [
-				{"searchTerm": "Sega Rally"},
-				{"searchTerm": "Sega Rally Revo"}
-			]
-		},
-		{
 			"group": "Sims 2, The",
 			"titles": [
 				{"searchTerm": "Sims 2, The"},
@@ -176,24 +62,10 @@
 			]
 		},
 		{
-			"group": "Strikers 1945 Plus Portable",
-			"titles": [
-				{"searchTerm": "Strikers 1945 Plus"},
-				{"searchTerm": "Strikers 1945 Plus Portable"}
-			]
-		},
-		{
 			"group": "TalkMan EURO - TalkMan Europa Gengo Ban",
 			"titles": [
 				{"searchTerm": "TalkMan Euro"},
 				{"searchTerm": "TalkMan EURO - TalkMan Europa Gengo Ban"}
-			]
-		},
-		{
-			"group": "Up",
-			"titles": [
-				{"searchTerm": "Psila Ston Ourano"},
-				{"searchTerm": "Up"}
 			]
 		},
 		{

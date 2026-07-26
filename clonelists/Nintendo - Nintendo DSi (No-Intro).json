@@ -1,8 +1,8 @@
 {
 	"description": {
 		"name": "Nintendo - Nintendo DSi (No-Intro)",
-		"lastUpdated": "2025-10-06 10:50:46",
-		"minimumVersion": "2.4.0"
+		"lastUpdated": "2026-01-02 11:07:19",
+		"minimumVersion": "2.4.8"
 	},
 	"variants": [
 		{
@@ -20,17 +20,17 @@
 			]
 		},
 		{
-			"group": "Nintendo DSi XL Demo Video",
+			"group": "Nintendo DSi XL Demo Video (Demo)",
 			"categories": ["Demos", "Videos"],
 			"titles": [
-				{"searchTerm": "Nintendo DSi XL Demo Video"}
+				{"searchTerm": "Nintendo DSi XL Demo Video (Demo)"}
 			]
 		},
 		{
-			"group": "Nintendo DSi XL Demo Video Volume 2",
+			"group": "Nintendo DSi XL Demo Video Volume 2 (Demo)",
 			"categories": ["Demos", "Videos"],
 			"titles": [
-				{"searchTerm": "Nintendo DSi XL Demo Video Volume 2"}
+				{"searchTerm": "Nintendo DSi XL Demo Video Volume 2 (Demo)"}
 			]
 		},
 		{
@@ -41,12 +41,235 @@
 			]
 		},
 		{
-			"group": "TWL EVA",
+			"group": "TWL EVA. FINAL",
 			"titles": [
-				{"searchTerm": "TWL EVA. (Ver3.1) (Program)"},
-				{"searchTerm": "TWL EVA. (Ver3.0) (Program)", "priority": 2},
-				{"searchTerm": "TWL EVA. (Ver2.1) (Program)", "priority": 3},
-				{"searchTerm": "TWL EVA. (Ver1.0) (Program)", "priority": 4}
+				{"searchTerm": "TWL EVA. FINAL (Ver3.1) (Program)"},
+				{"searchTerm": "TWL EVA. FINAL (Ver3.0) (Program)", "priority": 2},
+				{"searchTerm": "TWL EVA. AGING (Ver1.0) (Program)", "priority": 3},
+				{"searchTerm": "TWL EVA. DEV AGING (Ver1.0) (Program)", "priority": 4}
+			]
+		},
+		{
+			"group": "TWL EVA. IMPORT",
+			"titles": [
+				{
+					"searchTerm": "TWL EVA. IMPORT EUR (Ver1.3) (Program)",
+					"priority": 2,
+					"filters": [
+						{
+							"conditions": {
+								"regionOrder": {
+									"higherRegions": ["Europe"],
+									"lowerRegions": ["Japan", "USA"]
+								}
+							},
+							"results": {
+								"priority": 1
+							}
+						}
+					]
+				},
+				{
+					"searchTerm": "TWL EVA. IMPORT JPN (Ver1.5) (Program)",
+					"priority": 2,
+					"filters": [
+						{
+							"conditions": {
+								"regionOrder": {
+									"higherRegions": ["Japan"],
+									"lowerRegions": ["Europe", "USA"]
+								}
+							},
+							"results": {
+								"priority": 1
+							}
+						}
+					]
+				},
+				{
+					"searchTerm": "TWL EVA. IMPORT USA (Ver1.3) (Program)",
+					"priority": 2,
+					"filters": [
+						{
+							"conditions": {
+								"regionOrder": {
+									"higherRegions": ["USA"],
+									"lowerRegions": ["Europe", "Japan"]
+								}
+							},
+							"results": {
+								"priority": 1
+							}
+						}
+					]
+				},
+				{"searchTerm": "TWL EVA. IMPORT USA_B (Ver1.0) (Program)", "priority": 2}
+			]
+		},
+		{
+			"group": "TWL EVA. NCHECK",
+			"titles": [
+				{"searchTerm": "TWL EVA. NCHECK USA (Ver1.2) (Program)"},
+				{
+					"searchTerm": "TWL EVA. NCHECK ASI (Ver1.0) (Program)",
+					"priority": 2,
+					"filters": [
+						{
+							"conditions": {
+								"regionOrder": {
+									"higherRegions": ["Asia"],
+									"lowerRegions": ["Europe", "Japan", "Korea", "USA"]
+								}
+							},
+							"results": {
+								"priority": 1
+							}
+						}
+					]
+				},
+				{
+					"searchTerm": "TWL EVA. NCHECK EUR (Ver1.0) (Program)",
+					"priority": 2,
+					"filters": [
+						{
+							"conditions": {
+								"regionOrder": {
+									"higherRegions": ["Europe"],
+									"lowerRegions": ["Asia", "Japan", "Korea", "USA"]
+								}
+							},
+							"results": {
+								"priority": 1
+							}
+						}
+					]
+				},
+				{
+					"searchTerm": "TWL EVA. NCHECK JPN (Ver1.6) (Program)",
+					"priority": 2,
+					"filters": [
+						{
+							"conditions": {
+								"regionOrder": {
+									"higherRegions": ["Japan"],
+									"lowerRegions": ["Asia", "Europe", "Korea", "USA"]
+								}
+							},
+							"results": {
+								"priority": 1
+							}
+						}
+					]
+				},
+				{
+					"searchTerm": "TWL EVA. NCHECK KOR (Ver1.0) (Program)",
+					"priority": 2,
+					"filters": [
+						{
+							"conditions": {
+								"regionOrder": {
+									"higherRegions": ["Korea"],
+									"lowerRegions": ["Asia", "Europe", "Japan", "USA"]
+								}
+							},
+							"results": {
+								"priority": 1
+							}
+						}
+					]
+				},
+				{
+					"searchTerm": "TWL EVA. NCHECK USA (Ver1.3) (Program)",
+					"priority": 2,
+					"filters": [
+						{
+							"conditions": {
+								"regionOrder": {
+									"higherRegions": ["USA"],
+									"lowerRegions": ["Asia", "Europe", "Japan", "Korea"]
+								}
+							},
+							"results": {
+								"priority": 1
+							}
+						}
+					]
+				}
+			]
+		},
+		{
+			"group": "TWL EVA. TP_CAL",
+			"titles": [
+				{"searchTerm": "TWL EVA. TP_CAL (Ver2.1) (Program)"},
+				{"searchTerm": "TWL EVA. TP_CAL (Ver2.0) (Program)", "priority": 2}
+			]
+		},
+		{
+			"group": "TWL EVA. UTL IMPORT",
+			"titles": [
+				{"searchTerm": "TWL EVA. UTL IMPORT EUR (Ver1.0) (Program)", "priority": 2},
+				{"searchTerm": "TWL EVA. UTL IMPORT EUR (Ver1.1) (Program)", "priority": 2},
+				{"searchTerm": "TWL EVA. UTL IMPORT EUR (Ver1.2) (Program)", "priority": 2},
+				{
+					"searchTerm": "TWL EVA. UTL IMPORT EUR (Ver1.4) (Program)",
+					"priority": 2,
+					"filters": [
+						{
+							"conditions": {
+								"regionOrder": {
+									"higherRegions": ["Europe"],
+									"lowerRegions": ["Japan", "USA"]
+								}
+							},
+							"results": {
+								"priority": 1
+							}
+						}
+					]
+				},
+				{
+					"searchTerm": "TWL EVA. UTL IMPORT JPN (Ver1.1) (Program)",
+					"priority": 2,
+					"filters": [
+						{
+							"conditions": {
+								"regionOrder": {
+									"higherRegions": ["Japan"],
+									"lowerRegions": ["Europe", "USA"]
+								}
+							},
+							"results": {
+								"priority": 1
+							}
+						}
+					]
+				},
+				{"searchTerm": "TWL EVA. UTL IMPORT JPN_A (Ver1.0) (Program)", "priority": 2},
+				{"searchTerm": "TWL EVA. UTL IMPORT USA (Ver1.0) (Program)", "priority": 2},
+				{
+					"searchTerm": "TWL EVA. UTL IMPORT USA (Ver1.1) (Program)",
+					"priority": 2,
+					"filters": [
+						{
+							"conditions": {
+								"regionOrder": {
+									"higherRegions": ["USA"],
+									"lowerRegions": ["Europe", "Japan"]
+								}
+							},
+							"results": {
+								"priority": 1
+							}
+						}
+					]
+				}
+			]
+		},
+		{
+			"group": "TWL EVA. WRITE SDMC-LNC",
+			"titles": [
+				{"searchTerm": "TWL EVA. WRITE SDMC-LNC (Ver1.1) (Program)"},
+				{"searchTerm": "TWL EVA. WRITE SDMC-LNC (Ver1.0) (Program)", "priority": 2}
 			]
 		}
 	]

@@ -1268,6 +1268,7 @@
 			"group": "LEGO Ninjago - Shadow of Ronin",
 			"titles": [
 				{"searchTerm": "LEGO Ninjago - L'ombre de Ronin"},
+				{"searchTerm": "LEGO Ninjago - L'ombre de Ronin"},
 				{"searchTerm": "LEGO Ninjago - La Sombra de Ronin"},
 				{"searchTerm": "LEGO Ninjago - Ronin no Kage"},
 				{"searchTerm": "LEGO Ninjago - Schatten des Ronin"},
@@ -1363,6 +1364,22 @@
 			"titles": [
 				{"searchTerm": "Mario & Sonic at London Olympic"},
 				{"searchTerm": "Mario & Sonic at the London 2012 Olympic Games"}
+				{"searchTerm": "Mario & Luigi - Paper Jam Bros."},
+				{"searchTerm": "Mario & Luigi - RPG Paper Mario Mix"}
+			]
+		},
+		{
+			"group": "Mario & Luigi - Superstar Saga + Bowser's Minions",
+			"titles": [
+				{"searchTerm": "Mario & Luigi - RPG1 DX"},
+				{"searchTerm": "Mario & Luigi - Superstar Saga + Bowser's Minions"}
+			]
+		},
+		{
+			"group": "Mario & Sonic at the London 2012 Olympic Games",
+			"titles": [
+				{"searchTerm": "Mario & Sonic at London Olympic"},
+				{"searchTerm": "Mario & Sonic at the London 2012 Olympic Games"}
 			]
 		},
 		{
@@ -1370,6 +1387,13 @@
 			"categories": ["Applications"],
 			"titles": [
 				{"searchTerm": "Mario & Sonic at the London 2012 Olympic Games - Virtual Card Album"}
+			]
+		},
+		{
+			"group": "Mario & Sonic at the Rio 2016 Olympic Games",
+			"titles": [
+				{"searchTerm": "Mario & Sonic at Rio Olympic"},
+				{"searchTerm": "Mario & Sonic at the Rio 2016 Olympic Games"}
 			]
 		},
 		{
@@ -1445,6 +1469,13 @@
 			]
 		},
 		{
+			"group": "Moco Moco Friends",
+			"titles": [
+				{"searchTerm": "Minarai Majo to Moko Moko Friends"},
+				{"searchTerm": "Moco Moco Friends"}
+			]
+		},
+		{
 			"group": "Monster Combine TD",
 			"titles": [
 				{"searchTerm": "Custom Monsters"},
@@ -1456,6 +1487,13 @@
 			"titles": [
 				{"searchTerm": "Monster High - 13 Wishes"},
 				{"searchTerm": "Monster High - 13 Wuensche"}
+			]
+		},
+		{
+			"group": "Monster Hunter 3 Ultimate",
+			"titles": [
+				{"searchTerm": "Monster Hunter 3 Ultimate"},
+				{"searchTerm": "Monster Hunter 3G"}
 			]
 		},
 		{
@@ -1554,6 +1592,13 @@
 			]
 		},
 		{
+			"group": "Naruto Powerful Shippuden (Demo)",
+			"titles": [
+				{"searchTerm": "Naruto Powerful Shippuden (Demo)"},
+				{"searchTerm": "Naruto SD Powerful Shippuuden (Demo)"}
+			]
+		},
+		{
 			"group": "New Super Mario Bros. 2",
 			"titles": [
 				{"searchTerm": "New Super Mario Bros. 2"}
@@ -1630,10 +1675,49 @@
 			]
 		},
 		{
+			"group": "Nintendo presents - New Style Boutique 3 - Styling Star",
+			"titles": [
+				{"searchTerm": "Girls Mode 4 Star - Stylist"},
+				{"searchTerm": "Nintendo presents - New Style Boutique 3 - Styling Star"}
+			]
+		},
+		{
 			"group": "Nintendo Video",
 			"categories": ["Applications"],
 			"titles": [
 				{"searchTerm": "Nintendo Video"}
+			]
+		},
+		{
+			"group": "Nintendogs + Cats - French Bulldog & New Friends",
+			"titles": [
+				{"searchTerm": "Nintendogs + Cats - French Bulldog & New Friends"},
+				{
+					"searchTerm": "Nintendogs + Cats - Peurenchi Bul & New Chingudeul",
+					"localNames": {
+						"korean": "Ｎｉｎｔｅｎｄｏｇｓ　＋　Ｃａｔｓ　프렌치　불　＆　ＮＥＷ친구들"
+					}
+				}
+			]
+		},
+		{
+			"group": "Nintendogs + Cats - Golden Retriever & New Friends",
+			"titles": [
+				{"searchTerm": "Nintendogs + Cats - Golden Retriever & New Friends"},
+				{"searchTerm": "Nintendogs + Cats - Shiba & New Friends"},
+				{
+					"searchTerm": "Nintendogs + Cats - Siba Inu & New Chingudeul",
+					"localNames": {
+						"korean": "Ｎｉｎｔｅｎｄｏｇｓ　＋　Ｃａｔｓ　시바　이누　＆　ＮＥＷ친구들"
+					}
+				}
+			]
+		},
+		{
+			"group": "Nintendogs + Cats - Toy Poodle & New Friends",
+			"titles": [
+				{"searchTerm": "Nintendogs + Cats - Pudeul & New Chingudeul"},
+				{"searchTerm": "Nintendogs + Cats - Toy Poodle & New Friends"}
 			]
 		},
 		{
@@ -1697,6 +1781,27 @@
 			]
 		},
 		{
+			"group": "Pac-Man and the Ghostly Adventures",
+			"titles": [
+				{"searchTerm": "Pac-Man and the Ghostly Adventures"},
+				{"searchTerm": "Pac-World"}
+			]
+		},
+		{
+			"group": "Pac-Man and the Ghostly Adventures 2",
+			"titles": [
+				{"searchTerm": "Pac-Man and the Ghostly Adventures 2"},
+				{"searchTerm": "Pac-World 2"}
+			]
+		},
+		{
+			"group": "Paper Mario - Sticker Star",
+			"titles": [
+				{"searchTerm": "Paper Mario - Sticker Star"},
+				{"searchTerm": "Paper Mario - Super Seal"}
+			]
+		},
+		{
 			"group": "Paws & Claws - Pampered Pets Resort 3D",
 			"titles": [
 				{"searchTerm": "Paws & Claws - Pampered Pets Resort 3D"},
@@ -1718,9 +1823,24 @@
 			]
 		},
 		{
+			"group": "Petz Beach",
+			"titles": [
+				{"searchTerm": "Oshare de Kawaii Koinu to Asobo! Umi-hen"},
+				{"searchTerm": "Petz Beach"}
+			]
+		},
+		{
+			"group": "Petz Countryside",
+			"titles": [
+				{"searchTerm": "Oshare de Kawaii Koinu to Asobo! - Machi-hen"},
+				{"searchTerm": "Petz Countryside"}
+			]
+		},
+		{
 			"group": "Phonics Fun with Biff, Chip & Kipper Vol. 1",
 			"categories": ["Educational"],
 			"titles": [
+				{"searchTerm": "Kipper Eigo Class Floppy's Phonics Vol. 1 Kipper Hen"},
 				{"searchTerm": "Kipper Eigo Class Floppy's Phonics Vol. 1 Kipper Hen"},
 				{"searchTerm": "Phonics Fun with Biff, Chip & Kipper Vol. 1"}
 			]
@@ -1730,6 +1850,7 @@
 			"categories": ["Educational"],
 			"titles": [
 				{"searchTerm": "Kipper no Eigo Kyoushitsu - Floppy's Phonics 1 - Kipper-hen (Update)"},
+				{"searchTerm": "Kipper no Eigo Kyoushitsu - Floppy's Phonics 1 - Kipper-hen (Update)"},
 				{"searchTerm": "Phonics Fun with Biff, Chip & Kipper Vol. 1 (Update)"}
 			]
 		},
@@ -1737,6 +1858,7 @@
 			"group": "Phonics Fun with Biff, Chip & Kipper Vol. 2",
 			"categories": ["Educational"],
 			"titles": [
+				{"searchTerm": "Kipper Eigo Class Floppy's Phonics Vol. 2 Bif Hen"},
 				{"searchTerm": "Kipper Eigo Class Floppy's Phonics Vol. 2 Bif Hen"},
 				{"searchTerm": "Phonics Fun with Biff, Chip & Kipper Vol. 2"}
 			]
@@ -1746,6 +1868,7 @@
 			"categories": ["Educational"],
 			"titles": [
 				{"searchTerm": "Kipper no Eigo Kyoushitsu - Floppy's Phonics 2 - Bifu-hen (Update)"},
+				{"searchTerm": "Kipper no Eigo Kyoushitsu - Floppy's Phonics 2 - Bifu-hen (Update)"},
 				{"searchTerm": "Phonics Fun with Biff, Chip & Kipper Vol. 2 (Update)"}
 			]
 		},
@@ -1754,6 +1877,7 @@
 			"categories": ["Educational"],
 			"titles": [
 				{"searchTerm": "Kipper Eigo Class Floppy's Phonics Vol. 3 Chip Hen"},
+				{"searchTerm": "Kipper Eigo Class Floppy's Phonics Vol. 3 Chip Hen"},
 				{"searchTerm": "Phonics Fun with Biff, Chip & Kipper Vol. 3"}
 			]
 		},
@@ -1761,6 +1885,7 @@
 			"group": "Phonics Fun with Biff, Chip & Kipper Vol. 3 (Update)",
 			"categories": ["Educational"],
 			"titles": [
+				{"searchTerm": "Kipper no Eigo Kyoushitsu - Floppy's Phonics 3 - Chip-hen (Update)"},
 				{"searchTerm": "Kipper no Eigo Kyoushitsu - Floppy's Phonics 3 - Chip-hen (Update)"},
 				{"searchTerm": "Phonics Fun with Biff, Chip & Kipper Vol. 3 (Update)"}
 			]
@@ -1793,6 +1918,13 @@
 			"titles": [
 				{"searchTerm": "Pic-A-Pix Color (DLC)"},
 				{"searchTerm": "Pic-A-Pix Colour (DLC)"}
+			]
+		},
+		{
+			"group": "Picross 3D - Round 2",
+			"titles": [
+				{"searchTerm": "Katachi Shinhakken! Rittai Picross 2"},
+				{"searchTerm": "Picross 3D - Round 2"}
 			]
 		},
 		{
@@ -1844,6 +1976,15 @@
 			"categories": ["Applications"],
 			"titles": [
 				{"searchTerm": "Pokemon Bank (Update)"}
+			]
+		},
+		{
+			"group": "Pokemon Gold",
+			"titles": [
+				{"searchTerm": "Pocket Monster Gin"},
+				{"searchTerm": "Pokemon Gold (English Version)"},
+				{"searchTerm": "Pokemon Gold Korean"},
+				{"searchTerm": "Pokemon Goldene Edition"}
 			]
 		},
 		{
@@ -1965,6 +2106,65 @@
 			]
 		},
 		{
+			"group": "Pokemon Super Mystery Dungeon",
+			"titles": [
+				{"searchTerm": "Pokemon Chou Fushigi no Dungeon"},
+				{"searchTerm": "Pokemon Super Mystery Dungeon"}
+			]
+		},
+		{
+			"group": "Pokemon Super Mystery Dungeon (Update)",
+			"titles": [
+				{"searchTerm": "Pokemon Chou Fushigi no Dungeon (Update)"},
+				{"searchTerm": "Pokemon Super Mystery Dungeon (Update)"}
+			]
+		},
+		{
+			"group": "Pokemon Yellow",
+			"titles": [
+				{"searchTerm": "Pokemon Gelbe Edition"},
+				{"searchTerm": "Pokemon Yellow (English Version)"}
+			]
+		},
+		{
+			"group": "Pro Evolution Soccer 2013 3D",
+			"titles": [
+				{"searchTerm": "Pro Evolution Soccer 2013 3D"},
+				{"searchTerm": "World Soccer Winning Eleven 2013"}
+			]
+		},
+		{
+			"group": "Professor Layton and the Azran Legacy",
+			"titles": [
+				{"searchTerm": "Layton Kyouju to Chou Bunmei A no Isan"},
+				{"searchTerm": "Profesor Layton y el Legado de los Ashalanti, El"},
+				{"searchTerm": "Professeur Layton et l'Heritage des Aslantes"},
+				{"searchTerm": "Professor Layton and the Azran Legacy"},
+				{"searchTerm": "Professor Layton e l'Eredita' degli Aslant, Il"},
+				{"searchTerm": "Professor Layton en de Erfenis van de Azran"},
+				{"searchTerm": "Professor Layton und das Vermaechtnis von Aslant"}
+			]
+		},
+		{
+			"group": "Professor Layton and the Miracle Mask",
+			"titles": [
+				{"searchTerm": "Layton Kyouju to Kiseki no Kamen Plus"},
+				{"searchTerm": "Profesor Layton y la Mascara de los Prodigios, El"},
+				{"searchTerm": "Professeur Layton et le Masque des Miracles"},
+				{"searchTerm": "Professor Layton and the Miracle Mask"},
+				{"searchTerm": "Professor Layton e la Maschera dei Miracoli, Il"},
+				{"searchTerm": "Professor Layton en het Masker der Wonderen"},
+				{"searchTerm": "Professor Layton und die Maske der Wunder"}
+			]
+		},
+		{
+			"group": "Professor Layton vs. Phoenix Wright - Ace Attorney",
+			"titles": [
+				{"searchTerm": "Layton Kyouju vs Gyakuten Saiban"},
+				{"searchTerm": "Professor Layton vs. Phoenix Wright - Ace Attorney"}
+			]
+		},
+		{
 			"group": "Project X Zone 2",
 			"titles": [
 				{"searchTerm": "Project X Zone 2"},
@@ -1981,6 +2181,7 @@
 		{
 			"group": "Project X Zone 2 (Update)",
 			"titles": [
+				{"searchTerm": "Project Cross Zone 2 (Update)"},
 				{"searchTerm": "Project Cross Zone 2 (Update)"},
 				{"searchTerm": "Project X Zone 2 (Update)"},
 				{"searchTerm": "Project X Zone 2 - Brave New World (Update)"}
@@ -2046,9 +2247,32 @@
 			]
 		},
 		{
+			"group": "Reel Fishing Paradise 3D",
+			"titles": [
+				{"searchTerm": "Fish Eyes 3D"},
+				{"searchTerm": "Reel Fishing Paradise 3D"}
+			]
+		},
+		{
+			"group": "Resident Evil - The Mercenaries 3D",
+			"titles": [
+				{"searchTerm": "Biohazard - The Mercenaries 3D"},
+				{"searchTerm": "Resident Evil - The Mercenaries 3D"}
+			]
+		},
+		{
 			"group": "Rhythm Heaven Megamix",
 			"titles": [
 				{"searchTerm": "Rhythm Heaven Megamix"},
+				{"searchTerm": "Rhythm Paradise Megamix"},
+				{"searchTerm": "Rhythm Tengoku - The Best+"}
+			]
+		},
+		{
+			"group": "Rhythm Thief & the Emperor's Treasure",
+			"titles": [
+				{"searchTerm": "Rhythm Kaitou R - Koutei Napoleon no Isan"},
+				{"searchTerm": "Rhythm Thief & the Emperor's Treasure"}
 				{"searchTerm": "Rhythm Paradise Megamix"},
 				{"searchTerm": "Rhythm Tengoku - The Best+"}
 			]
@@ -2065,6 +2289,27 @@
 			"titles": [
 				{"searchTerm": "Riding Stables 3D"},
 				{"searchTerm": "Riding Stables 3D - Rivals in the Saddle"}
+			]
+		},
+		{
+			"group": "River City - Tokyo Rumble",
+			"titles": [
+				{"searchTerm": "Nekketsu Kouha Kunio-Kun SP - Ranto Kyosokyoku"},
+				{"searchTerm": "River City - Tokyo Rumble"}
+			]
+		},
+		{
+			"group": "RPG Maker Fes",
+			"titles": [
+				{"searchTerm": "RPG Maker Fes"},
+				{"searchTerm": "RPG Tkool Fes"}
+			]
+		},
+		{
+			"group": "RPG Maker Fes Player",
+			"titles": [
+				{"searchTerm": "RPG Maker Fes Player"},
+				{"searchTerm": "RPG Tkool Fes Player"}
 			]
 		},
 		{
@@ -2114,6 +2359,62 @@
 			"titles": [
 				{"searchTerm": "Hana Samurai - Art of the Sword"},
 				{"searchTerm": "Sakura Samurai - Art of the Sword"}
+			]
+		},
+		{
+			"group": "Samurai Warriors - Chronicles 3",
+			"titles": [
+				{"searchTerm": "Samurai Warriors - Chronicles 3"},
+				{"searchTerm": "Sengoku Musou Chronicle 3"}
+			]
+		},
+		{
+			"group": "Samurai Warriors - Chronicles 3 (DLC)",
+			"titles": [
+				{"searchTerm": "Samurai Warriors - Chronicles 3 (DLC)"},
+				{"searchTerm": "Sengoku Musou Chronicle 3 (DLC)"}
+			]
+		},
+		{
+			"group": "Samurai Warriors - Chronicles 3 (Update)",
+			"titles": [
+				{"searchTerm": "Samurai Warriors - Chronicles 3 (Update)"},
+				{"searchTerm": "Sengoku Musou Chronicle 3 (Update)"}
+			]
+		},
+		{
+			"group": "SEGA 3D Classics Collection",
+			"titles": [
+				{"searchTerm": "SEGA 3D Classics Collection"},
+				{"searchTerm": "SEGA 3D Fukkoku Archives 2"}
+			]
+		},
+		{
+			"group": "Senran Kagura 2 - Deep Crimson",
+			"titles": [
+				{"searchTerm": "Senran Kagura 2 - Deep Crimson"},
+				{"searchTerm": "Senran Kagura 2 - Shinku"}
+			]
+		},
+		{
+			"group": "Senran Kagura 2 - Deep Crimson (DLC)",
+			"titles": [
+				{"searchTerm": "Senran Kagura 2 - Deep Crimson (DLC)"},
+				{"searchTerm": "Senran Kagura 2 - Shinku (DLC)"}
+			]
+		},
+		{
+			"group": "Senran Kagura Burst",
+			"titles": [
+				{"searchTerm": "Senran Kagura Burst"},
+				{"searchTerm": "Senran Kagura Burst - Gurren Girls"}
+			]
+		},
+		{
+			"group": "Shantae and the Pirate's Curse",
+			"titles": [
+				{"searchTerm": "Shantae - Kaizoku no Noroi"},
+				{"searchTerm": "Shantae and the Pirate's Curse"}
 			]
 		},
 		{
@@ -2294,6 +2595,62 @@
 			]
 		},
 		{
+			"group": "Shin Megami Tensei - Devil Summoner - Soul Hackers",
+			"titles": [
+				{"searchTerm": "Devil Summoner - Soul Hackers"},
+				{"searchTerm": "Shin Megami Tensei - Devil Summoner - Soul Hackers"}
+			]
+		},
+		{
+			"group": "Shin Megami Tensei - Devil Survivor 2 - Record Breaker",
+			"titles": [
+				{"searchTerm": "Devil Survivor 2 - Break Record"},
+				{"searchTerm": "Shin Megami Tensei - Devil Survivor 2 - Record Breaker"}
+			]
+		},
+		{
+			"group": "Shin Megami Tensei - Devil Survivor 2 - Record Breaker (DLC)",
+			"titles": [
+				{"searchTerm": "Devil Survivor 2 - Break Record (DLC)"},
+				{"searchTerm": "Shin Megami Tensei - Devil Survivor 2 - Record Breaker (DLC)"}
+			]
+		},
+		{
+			"group": "Shin Megami Tensei - Devil Survivor 2 - Record Breaker (Update)",
+			"titles": [
+				{"searchTerm": "Devil Survivor 2 - Break Record (Update)"},
+				{"searchTerm": "Shin Megami Tensei - Devil Survivor 2 - Record Breaker (Update)"}
+			]
+		},
+		{
+			"group": "Shin Megami Tensei - Devil Survivor Overclocked",
+			"titles": [
+				{"searchTerm": "Devil Survivor - Overclock"},
+				{"searchTerm": "Shin Megami Tensei - Devil Survivor Overclocked"}
+			]
+		},
+		{
+			"group": "Shin Megami Tensei - Strange Journey Redux",
+			"titles": [
+				{"searchTerm": "Shin Megami Tensei - Deep Strange Journey"},
+				{"searchTerm": "Shin Megami Tensei - Strange Journey Redux"}
+			]
+		},
+		{
+			"group": "Shin Megami Tensei - Strange Journey Redux (DLC)",
+			"titles": [
+				{"searchTerm": "Shin Megami Tensei - Deep Strange Journey (DLC)"},
+				{"searchTerm": "Shin Megami Tensei - Strange Journey Redux (DLC)"}
+			]
+		},
+		{
+			"group": "Shin Megami Tensei IV - Apocalypse",
+			"titles": [
+				{"searchTerm": "Shin Megami Tensei IV - Apocalypse"},
+				{"searchTerm": "Shin Megami Tensei IV - Final"}
+			]
+		},
+		{
 			"group": "Skater Cat",
 			"titles": [
 				{"searchTerm": "Peakvox Mew Mew Train"},
@@ -2336,6 +2693,27 @@
 			"titles": [
 				{"searchTerm": "Football Up Online"},
 				{"searchTerm": "Soccer Up Online"}
+			]
+		},
+		{
+			"group": "Sonic Boom - Fire & Ice",
+			"titles": [
+				{"searchTerm": "Sonic Boom - Fire & Ice"},
+				{"searchTerm": "Sonic Toon - Fire & Ice"}
+			]
+		},
+		{
+			"group": "Sonic Boom - Shattered Crystal",
+			"titles": [
+				{"searchTerm": "Sonic Boom - Shattered Crystal"},
+				{"searchTerm": "Sonic Toon - Island Adventure"}
+			]
+		},
+		{
+			"group": "Sonic Generations",
+			"titles": [
+				{"searchTerm": "Sonic Generations"},
+				{"searchTerm": "Sonic Generations - Ao no Bouken"}
 			]
 		},
 		{
@@ -2420,6 +2798,27 @@
 			]
 		},
 		{
+			"group": "Story of Seasons",
+			"titles": [
+				{"searchTerm": "Bokujou Monogatari - Tsunagaru Shintenchi"},
+				{"searchTerm": "Story of Seasons"}
+			]
+		},
+		{
+			"group": "Story of Seasons - Trio of Towns",
+			"titles": [
+				{"searchTerm": "Bokujou Monogatari - 3-tsu no Sato no Taisetsu na Tomodachi"},
+				{"searchTerm": "Story of Seasons - Trio of Towns"}
+			]
+		},
+		{
+			"group": "Story of Seasons - Trio of Towns (Update)",
+			"titles": [
+				{"searchTerm": "Bokujou Monogatari - 3-tsu no Sato no Taisetsu na Tomodachi (Update)"},
+				{"searchTerm": "Story of Seasons - Trio of Towns (Update)"}
+			]
+		},
+		{
 			"group": "Streetpass Mii Plaza (DLC)",
 			"categories": ["Applications"],
 			"titles": [
@@ -2453,6 +2852,7 @@
 			"group": "Style Savvy - Fashion Forward",
 			"titles": [
 				{"searchTerm": "Girls Mode 3 - Kirakira-Code"},
+				{"searchTerm": "Girls Mode 3 - Kirakira-Code"},
 				{"searchTerm": "Nintendo Presents - New Style Boutique 2"},
 				{"searchTerm": "Style Savvy - Fashion Forward"}
 			]
@@ -2462,6 +2862,13 @@
 			"titles": [
 				{"searchTerm": "New Style Boutique 2 (DLC)"},
 				{"searchTerm": "Style Savvy - Fashion Forward (DLC)"}
+			]
+		},
+		{
+			"group": "Style Savvy - Fashion Forward (Update)",
+			"titles": [
+				{"searchTerm": "Girls Mode 3 - Kirakira Code (Update)"},
+				{"searchTerm": "New Style Boutique 2 - Fashion Forward (Update)"}
 			]
 		},
 		{
@@ -2484,12 +2891,16 @@
 				{"searchTerm": "Nintendo presents New Style Boutique"},
 				{"searchTerm": "Style Savvy - Trendsetters"},
 				{"searchTerm": "Wagamama Fashion - Girls Mode - Yokubari Sengen! Tokimeki Up!"}
+				{"searchTerm": "Style Savvy - Trendsetters"},
+				{"searchTerm": "Wagamama Fashion - Girls Mode - Yokubari Sengen! Tokimeki Up!"}
 			]
 		},
 		{
 			"group": "Style Savvy - Trendsetters (Update)",
 			"titles": [
 				{"searchTerm": "Nintendo presents New Style Boutique (Update)"},
+				{"searchTerm": "Style Savvy - Trendsetters (Update)"},
+				{"searchTerm": "Wagamama Fashion - Girls Mode Yokubari Sengen! (Update)"}
 				{"searchTerm": "Style Savvy - Trendsetters (Update)"},
 				{"searchTerm": "Wagamama Fashion - Girls Mode Yokubari Sengen! (Update)"}
 			]
@@ -2505,6 +2916,7 @@
 			"group": "Super Smash Bros. for Nintendo 3DS (DLC)",
 			"titles": [
 				{"searchTerm": "Dairantou Smash Bros. for Nintendo 3DS (DLC)"},
+				{"searchTerm": "Dairantou Smash Bros. for Nintendo 3DS (DLC)"},
 				{"searchTerm": "Dairantou Smash Brothers for Nintendo 3DS (DLC)"},
 				{"searchTerm": "Super Smash Bros. for Nintendo 3DS (DLC)"}
 			]
@@ -2514,6 +2926,13 @@
 			"titles": [
 				{"searchTerm": "Dairantou Smash Brothers for Nintendo 3DS (Update)"},
 				{"searchTerm": "Super Smash Bros. for Nintendo 3DS (Update)"}
+			]
+		},
+		{
+			"group": "Sushi Striker - The Way of Sushido",
+			"titles": [
+				{"searchTerm": "Chou Kaiten Sushi Striker - The Way of Sushido"},
+				{"searchTerm": "Sushi Striker - The Way of Sushido"}
 			]
 		},
 		{
@@ -2621,6 +3040,13 @@
 			]
 		},
 		{
+			"group": "TOEIC Test - Chousoku Training",
+			"categories": ["Educational"],
+			"titles": [
+				{"searchTerm": "TOEIC Test - Chousoku Training"}
+			]
+		},
+		{
 			"group": "Toki Tori 3D",
 			"titles": [
 				{"searchTerm": "Toki Tori"},
@@ -2678,6 +3104,13 @@
 			]
 		},
 		{
+			"group": "Ultimate NES Remix",
+			"titles": [
+				{"searchTerm": "Famicom Limix Best Choice"},
+				{"searchTerm": "Ultimate NES Remix"}
+			]
+		},
+		{
 			"group": "Van Helsing Sniper Zx100",
 			"titles": [
 				{"searchTerm": "Vampire Sniper"},
@@ -2689,6 +3122,13 @@
 			"titles": [
 				{"searchTerm": "Wario Land 4"},
 				{"searchTerm": "Wario Land Advance - Youki no Otakara"}
+			]
+		},
+		{
+			"group": "WarioWare - Snapped!",
+			"titles": [
+				{"searchTerm": "Jjigeora Made in Wario"},
+				{"searchTerm": "WarioWare - Snapped!"}
 			]
 		},
 		{

@@ -1,8 +1,8 @@
 {
 	"description": {
 		"name": "Sega - Master System - Mark III (No-Intro)",
-		"lastUpdated": "2025-10-06 10:50:46",
-		"minimumVersion": "2.4.0"
+		"lastUpdated": "2026-01-10 14:23:34",
+		"minimumVersion": "2.4.8"
 	},
 	"variants": [
 		{
@@ -113,6 +113,13 @@
 			"titles": [
 				{"searchTerm": "Dinosaur Dooley, The"},
 				{"searchTerm": "Agigongnyong Dooly", "priority": 2}
+			]
+		},
+		{
+			"group": "E-SWAT",
+			"titles": [
+				{"searchTerm": "E-SWAT"},
+				{"searchTerm": "Pili Zhan Jing"}
 			]
 		},
 		{
@@ -235,6 +242,22 @@
 			"compilations": [
 				{"searchTerm": "Hang On & Safari Hunt", "titlePosition": 1},
 				{"searchTerm": "Hang On & Astro Warrior", "priority": 2, "titlePosition": 1}
+			]
+		},
+		{
+			"group": "Impetus",
+			"titles": [
+				{"searchTerm": "Impetus"}
+			],
+			"supersets": [
+				{"searchTerm": "Impetus+"}
+			]
+		},
+		{
+			"group": "Iron Man",
+			"titles": [
+				{"searchTerm": "Iron Man"},
+				{"searchTerm": "Iron Man (Other Control)", "priority": 2}
 			]
 		},
 		{
@@ -403,8 +426,7 @@
 			"titles": [
 				{"searchTerm": "Ashura"},
 				{"searchTerm": "Rambo - First Blood Part II"},
-				{"searchTerm": "Secret Command"},
-				{"searchTerm": "Shangwei Mingling"}
+				{"searchTerm": "Secret Command"}
 			]
 		},
 		{
@@ -412,6 +434,13 @@
 			"titles": [
 				{"searchTerm": "American Baseball"},
 				{"searchTerm": "Reggie Jackson Baseball"}
+			]
+		},
+		{
+			"group": "River Strike",
+			"titles": [
+				{"searchTerm": "River Strike"},
+				{"searchTerm": "River Strike - Tyrian Edition"}
 			]
 		},
 		{
@@ -438,8 +467,8 @@
 		{
 			"group": "Sky Jaguar",
 			"titles": [
-				{"searchTerm": "Sky Jaguar"},
-				{"searchTerm": "Sky Jaguar (Clover)", "priority": 2}
+				{"searchTerm": "Sky Jaguar (Samsung)"},
+				{"searchTerm": "Sky Jaguar (HiCom)", "priority": 2}
 			]
 		},
 		{
@@ -506,6 +535,15 @@
 			]
 		},
 		{
+			"group": "Tower of Sorrow",
+			"titles": [
+				{"searchTerm": "Tower of Sorrow (Easy)"},
+				{"searchTerm": "Tower of Sorrow (Easy) (Color Blind)", "priority": 2},
+				{"searchTerm": "Tower of Sorrow (Hard)", "priority": 3},
+				{"searchTerm": "Tower of Sorrow (Hard) (Color Blind)", "priority": 4}
+			]
+		},
+		{
 			"group": "TransBot",
 			"titles": [
 				{"searchTerm": "Astro Flash"},
@@ -529,7 +567,7 @@
 		{
 			"group": "Wonder Boy III - The Dragon's Trap",
 			"titles": [
-				{"searchTerm": "Turma da Monica em O Resgate"},
+				{"searchTerm": "Turma da Monica em - O Resgate"},
 				{"searchTerm": "Wonder Boy III - The Dragon's Trap"}
 			]
 		},

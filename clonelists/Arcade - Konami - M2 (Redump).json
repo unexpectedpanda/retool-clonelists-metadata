@@ -1,15 +1,16 @@
 {
 	"description": {
 		"name": "Arcade - Konami - M2 (Redump)",
-		"lastUpdated": "2025-10-06 10:50:45",
-		"minimumVersion": "2.4.0"
+		"lastUpdated": "2026-01-18 16:35:07",
+		"minimumVersion": "2.4.8"
 	},
 	"variants": [
 		{
 			"group": "Battle Tryst",
 			"titles": [
 				{"searchTerm": "Battle Tryst (JAC)"},
-				{"searchTerm": "Battle Tryst (JAA)", "priority": 2}
+				{"searchTerm": "Battle Tryst (JAA)", "priority": 2},
+				{"searchTerm": "Battle Tryst (AAA)", "priority": 3}
 			]
 		},
 		{

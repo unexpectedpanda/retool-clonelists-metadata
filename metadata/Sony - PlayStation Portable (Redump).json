@@ -244,8 +244,8 @@
 	"After Burner - Black Falcon (Europe) (En,Fr,De,Es,It) (ULES-00785)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"After Burner - Black Falcon (USA) (En,Fr,Es,It,Nl)": {
-		"languages": ["En", "Es", "Fr", "It", "Nl"]
+	"After Burner - Black Falcon (USA) (En,Fr,De,Es,It)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Agarest Senki Mariage (Japan)": {
 		"languages": ["Ja"],
@@ -543,8 +543,8 @@
 	"Astro Boy - The Video Game (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Astro Boy - The Video Game (USA) (En,Fr,Es,It,Nl)": {
-		"languages": ["En", "Es", "Fr", "It", "Nl"]
+	"Astro Boy - The Video Game (USA) (En,Fr,De,Es,It)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Atari Classics Evolved (USA)": {
 		"languages": ["En"]
@@ -575,6 +575,10 @@
 	},
 	"B-Boy (USA)": {
 		"languages": []
+	},
+	"Baito Hell 2000 (Japan, Asia)": {
+		"languages": ["Ja"],
+		"localName": "バイトヘル２０００"
 	},
 	"Baka to Test to Shoukanjuu Portable (Japan)": {
 		"languages": ["Ja"],
@@ -608,7 +612,7 @@
 	},
 	"Bamboo Blade - Sorekara no Chousen (Japan)": {
 		"languages": ["Ja"],
-		"localName": "バンブーブレード　～－＇それから－＇の挑戦～"
+		"localName": "バンブーブレード　～＇それから＇の挑戦～"
 	},
 	"Bara no Ki ni - Bara no Hanasaku (Japan)": {
 		"languages": ["Ja"],
@@ -643,10 +647,6 @@
 	},
 	"Beaterator (USA)": {
 		"languages": ["En"]
-	},
-	"Beit Hell 2000 (Asia)": {
-		"languages": ["Ja"],
-		"localName": "バイトヘル２０００"
 	},
 	"Ben 10 - Alien Force (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
@@ -708,7 +708,7 @@
 	},
 	"Black Rock Shooter - The Game (Japan)": {
 		"languages": ["Ja"],
-		"localName": "ブラック★ロック　シューター　ＴＨＥ　ＧＡＭＥ"
+		"localName": "ブラック★ロック シューター ＴＨＥ ＧＡＭＥ"
 	},
 	"Black Wolves Saga - Last Hope (Japan)": {
 		"languages": ["Ja"],
@@ -821,6 +821,10 @@
 	"Blitz - Overtime (USA)": {
 		"languages": ["En"]
 	},
+	"Blokus Club Portable with Bumpy Trot (Japan)": {
+		"languages": ["Ja"],
+		"localName": "ブロックス倶楽部ポータブル　ｗｉｔｈ　バンピートロット"
+	},
 	"Blokus Club Portable with Bumpy Trot (Japan) (Taikenban)": {
 		"languages": ["Ja"],
 		"localName": "ブロックス倶楽部ポータブル ｗｉｔｈ バンピートロット"
@@ -857,9 +861,17 @@
 		"languages": ["Ja"],
 		"localName": "ぼくのなつやすみポータブル２　ナゾナゾ姉妹と沈没船の秘密"
 	},
-	"Boku no Watashi no Katamari Damacy (Japan)": {
+	"Boku no Watashi no Katamari Damacy (Japan, Asia)": {
 		"languages": ["Ja"],
 		"localName": "僕の私の塊魂"
+	},
+	"Boku wa Koukuu Kanseikan - Airport Hero Haneda (Japan)": {
+		"languages": ["Ja"],
+		"localName": "ぼくは航空管制官　エアポートヒーロー　羽田"
+	},
+	"Boku wa Koukuu Kanseikan - Airport Hero Kankuu (Japan)": {
+		"languages": ["Ja"],
+		"localName": "ぼくは航空管制官　エアポートヒーロー　関空"
 	},
 	"Boku wa Koukuu Kanseikan - Airport Hero Naha (Japan)": {
 		"languages": ["Ja"],
@@ -1599,7 +1611,7 @@
 	"Crash - Mind over Mutant (USA) (En,Fr)": {
 		"languages": ["En", "Fr"]
 	},
-	"Crash Bandicoot - Gacchanko World (Japan)": {
+	"Crash Bandicoot - Gatchanko World (Japan)": {
 		"languages": ["Ja"],
 		"localName": "クラッシュ・バンディクー　がっちゃんこワールド"
 	},
@@ -1658,7 +1670,7 @@
 	},
 	"Cream Stew mo Minagara Iroiro Gochagocha Ittemasu Kedo... Warai no Tamago L Size - Ohitorisama Nankai Demo (Japan)": {
 		"languages": ["Ja"],
-		"localName": "くりぃむしちゅーも観ながらいろいろゴチャゴチャ言ってますけど・・・　笑いのタマゴＬサイズ　（おひとり様何回でも）"
+		"localName": "くりぃむしちゅーも観ながらいろいろゴチャゴチャ言ってますけど…　笑いのタマゴＬサイズ　（おひとり様何回でも）"
 	},
 	"Criminal Girls (Japan)": {
 		"languages": ["Ja"],
@@ -2401,7 +2413,7 @@
 	},
 	"Dora-Slot - Shuyaku wa Zenigata (Japan)": {
 		"languages": ["Ja"],
-		"localName": "ドラスロット　主役は銭形"
+		"localName": "ドラスロット 主役は銭形"
 	},
 	"Dot Hack Link (Japan)": {
 		"languages": ["Ja"],
@@ -2720,7 +2732,7 @@
 	},
 	"Enkeltbillet (Japan)": {
 		"languages": ["Ja"],
-		"localName": "Ｅｎｋｅｌｔｂｉｌｌｅｔ　（エンケルトビレット）　限定版"
+		"localName": "エンケルトビレット"
 	},
 	"Entraineur 2006, L' - Championship Manager (France)": {
 		"languages": ["Fr"]
@@ -2796,7 +2808,7 @@
 	"Exit (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
-	"Exit (Japan)": {
+	"Exit (Japan, Asia)": {
 		"languages": ["Ja"],
 		"localName": "イグジット"
 	},
@@ -2833,12 +2845,10 @@
 		"localName": "アイシールド　２１　ポータブルエディション"
 	},
 	"F1 2009 (Europe) (En,Fr,De,Es,It)": {
-		"languages": ["De", "En", "Es", "Fr", "It"],
-		"localName": "Formula 1 2009"
+		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"F1 2009 (Japan)": {
-		"languages": ["Ja"],
-		"localName": "Ｆｏｒｍｕｌａ　１　２００９"
+		"languages": ["Ja"]
 	},
 	"F1 2009 (USA)": {
 		"languages": []
@@ -3401,6 +3411,9 @@
 	},
 	"FlatOut - Head On (Germany)": {
 		"languages": ["De"]
+	},
+	"FlatOut - Head On (Korea)": {
+		"languages": ["En"]
 	},
 	"FlatOut - Head On (USA)": {
 		"languages": ["En"]
@@ -4340,7 +4353,7 @@
 		"languages": ["Ja"],
 		"localName": "初音ミク　－Ｐｒｏｊｅｃｔ　ＤＩＶＡ－　２ｎｄ"
 	},
-	"Hatsune Miku - Project Diva 2nd (Japan) (Okaidoku-ban)": {
+	"Hatsune Miku - Project Diva 2nd (Japan) (Okaidokuban)": {
 		"languages": ["Ja"],
 		"localName": "初音ミク　－Ｐｒｏｊｅｃｔ　ＤＩＶＡ－　２ｎｄ　＃"
 	},
@@ -5180,7 +5193,7 @@
 		"languages": ["Ja"],
 		"localName": "剣と魔法と学園モノ。３"
 	},
-	"Ken to Mahou to Gakuen Mono. Final - Shinnyuusei wa Ohime-sama! (Japan)": {
+	"Ken to Mahou to Gakuen Mono. Final - Shinnyuusei wa Ohimesama! (Japan)": {
 		"languages": ["Ja"],
 		"localName": "剣と魔法と学園モノ。Ｆｉｎａｌ　～新入生はお姫様！～"
 	},
@@ -5390,6 +5403,10 @@
 	},
 	"Kingdom of Paradise (USA) (Beta) (2005-10-10)": {
 		"languages": ["En"]
+	},
+	"Kinnikuman - Muscle Generations (Japan)": {
+		"languages": ["Ja"],
+		"localName": "キン肉マン　マッスルジェネレーションズ"
 	},
 	"Kirameki School Life SP - The Wonder Years (Japan)": {
 		"languages": ["Ja"],
@@ -6171,7 +6188,7 @@
 	},
 	"Maru Goukaku Shikaku Dasshu! Care Manager Shiken Portable (Japan)": {
 		"languages": ["Ja"],
-		"localName": "マル合格　資格奪取！　ケアマネジャー試験　ポータブル"
+		"localName": "マル合格資格奪取！　ケアマネジャー試験　ＰＯＲＴＡＢＬＥ"
 	},
 	"Maru Goukaku Shikaku Dasshu! Chuushou Kigyou Shindanshi Shiken 2 Portable (Japan)": {
 		"languages": ["Ja"],
@@ -6188,6 +6205,10 @@
 	"Maru Goukaku Shikaku Dasshu! Ouyou Jouhou Gijutsusha Shiken Portable (Japan)": {
 		"languages": ["Ja"],
 		"localName": "マル合格資格奪取！　応用情報技術者試験　ポータブル"
+	},
+	"Maru Goukaku Shikaku Dasshu! Sharoushi Shiken Portable (Japan)": {
+		"languages": ["Ja"],
+		"localName": "マル合格資格奪取！　社労士試験　ＰＯＲＴＡＢＬＥ"
 	},
 	"Maru Goukaku Shikaku Dasshu! Shouken Gaimuin Shiken Portable (Japan)": {
 		"languages": ["Ja"],
@@ -6657,7 +6678,7 @@
 		"languages": ["Ja"],
 		"localName": "みんなの指圧　痛みも疲れもスッキリ～！"
 	},
-	"Minna no Tennis Portable (Japan)": {
+	"Minna no Tennis Portable (Japan, Asia)": {
 		"languages": ["Ja"],
 		"localName": "みんなのテニス　ポータブル"
 	},
@@ -6672,6 +6693,10 @@
 	"Misshitsu no Sacrifice (Japan)": {
 		"languages": ["Ja"],
 		"localName": "密室のサクリファイス"
+	},
+	"Missing Parts the Tantei Stories Complete (Japan)": {
+		"languages": ["Ja"],
+		"localName": "ＭＩＳＳＩＮＧＰＡＲＴＳ　ｔｈｅ　ＴＡＮＴＥＩ　ｓｔｏｒｉｅｓ　Ｃｏｍｐｌｅｔｅ"
 	},
 	"Mite Kiite Nou de Kanjite Crossword Tengoku (Japan)": {
 		"languages": ["Ja"],
@@ -8207,6 +8232,10 @@
 	"Pocket Racers (USA)": {
 		"languages": ["En"]
 	},
+	"Ponkotsu Roman Daikatsugeki Bumpy Trot - Vehicle Battle Tournament (Japan)": {
+		"languages": ["Ja"],
+		"localName": "ポンコツ浪漫大活劇バンピートロット　ビークルバトルトーナメント"
+	},
 	"Pop'n Music Portable (Japan)": {
 		"languages": ["Ja"],
 		"localName": "ポップンミュージック　ポータブル"
@@ -8373,6 +8402,9 @@
 		"localName": "펌프 잇 업 - 제로 포터블"
 	},
 	"Pursuit Force (Europe) (En,Fr,De,Es,It)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
+	"Pursuit Force (Europe) (En,Fr,De,Es,It) (Beta) (2005-08-22)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Pursuit Force (Europe) (En,Fr,De,Es,It) (Demo)": {
@@ -8583,7 +8615,7 @@
 		"languages": ["Ja"],
 		"localName": "零・超兄貴"
 	},
-	"Remember11 - The Age of Infinity (Japan)": {
+	"Remember 11 - The Age of Infinity (Japan)": {
 		"languages": ["Ja"],
 		"localName": "リメンバー　イレブン　ＴＨＥ　ＡＧＥ　ＯＦ　ＩＮＦＩＮＩＴＹ"
 	},
@@ -9624,6 +9656,10 @@
 	"Sims 2, The - Castaway (USA) (En,Fr,De,Es,It,Nl,Pt)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl", "Pt"]
 	},
+	"Sims 2, The - Dr. Dominic no Inbou (Japan)": {
+		"languages": ["Ja"],
+		"localName": "ザ・シムズ２　Ｄｒ．ドミニクの陰謀"
+	},
 	"Sims 2, The - Pet Wan Nyan Life (Japan)": {
 		"languages": ["Ja"],
 		"localName": "ザ・シムズ２　ペット　ワンニャンライフ"
@@ -9745,6 +9781,10 @@
 	"Sorayume Portable (Japan)": {
 		"languages": ["Ja"],
 		"localName": "ソラユメ　ｐｏｒｔａｂｌｅ"
+	},
+	"Soreyuke! Burunyanman Portable - Torimodose! Ai to Seigi to Kibou no Tsunyakan (Japan)": {
+		"languages": ["Ja"],
+		"localName": "それゆけ！ぶるにゃんマン　Ｐｏｒｔａｂｌｅ　～とりもどせ！あいとせいぎときぼうのつにゃ缶～"
 	},
 	"Soukoku no Kusabi - Hiiro no Kakera 3 - Ashita e no Tobira (Japan)": {
 		"languages": ["Ja"],
@@ -10398,6 +10438,9 @@
 		"languages": ["Ja"],
 		"localName": "テイルズ　オブ　ザ　ワールド　レディアント　マイソロジー３"
 	},
+	"TalkMan (Europe) (En,Ja,Fr,De,Es,It) (Beta) (2006-03-13)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Ja"]
+	},
 	"TalkMan (Europe, Australia) (En,Ja,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja"]
 	},
@@ -10413,11 +10456,11 @@
 		"languages": ["En", "Ja", "Ko", "Zh"],
 		"localName": "토크맨"
 	},
-	"TalkMan Euro! TalkMan Europa Gengo Ban (Japan) (En,Ja,Fr,De,Es,It) (Microphone Doukonban)": {
+	"TalkMan Euro! TalkMan Europa Gengo Ban (Japan) (En,Ja,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja"],
 		"localName": "ＴａｌｋＭａｎ　ＥＵＲＯ！　トークマン　ヨーロッパ言語版"
 	},
-	"TalkMan Euro! TalkMan Europa Gengo-ban (Japan) (En,Ja,Fr,De,Es,It)": {
+	"TalkMan Euro! TalkMan Europa Gengo Ban (Japan) (En,Ja,Fr,De,Es,It) (Microphone Doukonban)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Ja"],
 		"localName": "ＴａｌｋＭａｎ　ＥＵＲＯ！　トークマン　ヨーロッパ言語版"
 	},
@@ -10425,13 +10468,17 @@
 		"languages": ["Ja"],
 		"localName": "トークマン・トラベル　韓国／台湾／中国（上海）／編"
 	},
-	"TalkMan-shiki - Shabelingual Eikaiwa (Japan) (Microphone Doukonban)": {
-		"languages": ["Ja"],
-		"localName": "ＴａｌｋＭａｎ式　しゃべリンガル　英会話"
+	"TalkMan Yeongeohoehwa Sudajaeng English (Korea)": {
+		"languages": ["Ko"],
+		"localName": "ＴＡＬＫＭＡＮ 영어회화 수다쟁이 잉글리쉬"
 	},
 	"TalkMan-shiki Shabelingual Eikaiwa (Japan)": {
 		"languages": ["Ja"],
 		"localName": "ＴａｌｋＭａｎ式　しゃべリンガル英会話"
+	},
+	"TalkMan-shiki Shabelingual Eikaiwa (Japan) (Microphone Doukonban)": {
+		"languages": ["Ja"],
+		"localName": "ＴａｌｋＭａｎ式　しゃべリンガル　英会話"
 	},
 	"TalkMan-shiki Shabelingual Eikaiwa for Kids! (Japan)": {
 		"languages": ["Ja"],
@@ -10440,10 +10487,6 @@
 	"TalkMan-shiki Shabelingual Eikaiwa for Kids! (Japan) (En,Ja) (Microphone Doukonban)": {
 		"languages": ["En", "Ja"],
 		"localName": "ＴａｌｋＭａｎ式　しゃべリンガル英会話　ｆｏｒ　Ｋｉｄｓ！"
-	},
-	"Talkman Yeongeohoehwa Sudajaeng English (Korea)": {
-		"languages": ["Ko"],
-		"localName": "ＴＡＬＫＭＡＮ 영어회화 수다쟁이 잉글리쉬"
 	},
 	"Tantei Jinguuji Saburou - Hai to Diamond (Japan)": {
 		"languages": ["Ja"],
@@ -10871,7 +10914,7 @@
 		"languages": ["Ja"],
 		"localName": "討鬼伝"
 	},
-	"Toukiden Kiwami (Japan)": {
+	"Toukiden - Kiwami (Japan)": {
 		"languages": ["Ja"],
 		"localName": "討鬼伝　極"
 	},
@@ -11543,7 +11586,7 @@
 	},
 	"Wipeout Pure (Korea)": {
 		"languages": ["En"],
-		"localName": "WipEout Pure"
+		"localName": "와이프아웃 퓨어"
 	},
 	"Wipeout Pure (USA) (En,Fr,Es) (v1.04)": {
 		"languages": ["En", "Es", "Fr"]
@@ -11669,6 +11712,9 @@
 	"World Tour Soccer (Europe) (En,Fr,De,Es,It)": {
 		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
+	"World Tour Soccer (Europe) (En,Fr,De,Es,It) (Beta) (2005-01-20)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
+	},
 	"World Tour Soccer (USA) (En,Fr,De,Es)": {
 		"languages": ["De", "En", "Es", "Fr"]
 	},
@@ -11781,6 +11827,10 @@
 	"Yarudora Portable - Sampaguita (Asia)": {
 		"languages": ["Zh"],
 		"localName": "互動式動畫AVG - 茉莉花"
+	},
+	"Yarudora Portable - Sampaguita (Japan)": {
+		"languages": ["Ja"],
+		"localName": "やるドラ　ポータブル　サンパギータ"
 	},
 	"Yarudora Portable - Yukiwari no Hana (Japan)": {
 		"languages": ["Ja"],

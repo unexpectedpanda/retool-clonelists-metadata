@@ -1,0 +1,484 @@
+{
+	"description": {
+		"name": "Microsoft - Xbox One (Redump)",
+		"lastUpdated": "2026-01-18 16:35:07",
+		"minimumVersion": "2.4.8"
+	},
+	"variants": [
+		{
+			"group": "Bladestorm - Nightmare",
+			"titles": [
+				{"searchTerm": "Bladestorm - Hyakunen Sensou & Nightmare"},
+				{"searchTerm": "Bladestorm - Nightmare"}
+			]
+		},
+		{
+			"group": "BlazBlue - Chrono Phantasma Extend",
+			"titles": [
+				{"searchTerm": "BlazBlue - Chrono Phantasma Extend"},
+				{"searchTerm": "BlazBlue - Chronophantasma Extend"}
+			]
+		},
+		{
+			"group": "Call of Duty - Modern Warfare",
+			"titles": [
+				{"searchTerm": "Call of Duty - Modern Warfare"}
+			],
+			"supersets": [
+				{"searchTerm": "Call of Duty - Modern Warfare Remastered"}
+			]
+		},
+		{
+			"group": "Crew, The",
+			"titles": [
+				{"searchTerm": "Crew, The"}
+			],
+			"supersets": [
+				{"searchTerm": "Crew, The - Ultimate Edition"}
+			]
+		},
+		{
+			"group": "Dark Souls III",
+			"titles": [
+				{"searchTerm": "Dark Souls III"}
+			],
+			"supersets": [
+				{"searchTerm": "Dark Souls III - The Fire Fades Edition"}
+			]
+		},
+		{
+			"group": "Diablo III - Reaper of Souls - Ultimate Evil Edition",
+			"titles": [
+				{"searchTerm": "Diablo III - Reaper of Souls - Ultimate Evil Edition"}
+			],
+			"supersets": [
+				{"searchTerm": "Diablo III - Eternal Collection"}
+			]
+		},
+		{
+			"group": "Disney Infinity 2.0 Edition",
+			"titles": [
+				{"searchTerm": "Disney Infinity 2.0 - Play Without Limits"},
+				{"searchTerm": "Disney Infinity 2.0 Edition"}
+			]
+		},
+		{
+			"group": "Dying Light",
+			"titles": [
+				{"searchTerm": "Dying Light"}
+			],
+			"supersets": [
+				{"searchTerm": "Dying Light - Anniversary Edition"}
+			]
+		},
+		{
+			"group": "Dying Light - The Following",
+			"titles": [
+				{"searchTerm": "Dying Light - The Following - Enhanced Edition"}
+			],
+			"supersets": [
+				{"searchTerm": "Dying Light - Anniversary Edition"}
+			]
+		},
+		{
+			"group": "Dynasty Warriors 8 - Empires",
+			"titles": [
+				{"searchTerm": "Dynasty Warriors 8 - Empires"},
+				{"searchTerm": "Shin Sangoku Musou 7 - Empires"},
+				{"searchTerm": "Zhen Sanguo Wushuang 7 - Empires"}
+			]
+		},
+		{
+			"group": "Escapists 2, The",
+			"titles": [
+				{"searchTerm": "Escapists 2, The"}
+			],
+			"compilations": [
+				{"searchTerm": "Escapists + The Escapists 2, The"}
+			]
+		},
+		{
+			"group": "Evil Within 2, The",
+			"titles": [
+				{"searchTerm": "Evil Within 2, The"},
+				{"searchTerm": "Psycho Break 2"}
+			]
+		},
+		{
+			"group": "Evil Within, The",
+			"titles": [
+				{"searchTerm": "Evil Within, The"},
+				{"searchTerm": "Psycho Break"}
+			]
+		},
+		{
+			"group": "Final Fantasy Type-0 HD",
+			"titles": [
+				{"searchTerm": "Final Fantasy Reishiki HD"},
+				{"searchTerm": "Final Fantasy Type-0 HD"}
+			]
+		},
+		{
+			"group": "Forza Motorsport 5",
+			"titles": [
+				{"searchTerm": "Forza Motorsport 5"}
+			],
+			"supersets": [
+				{"searchTerm": "Forza Motorsport 5 - Racing Game of the Year"}
+			]
+		},
+		{
+			"group": "Friday the 13th - The Game",
+			"titles": [
+				{"searchTerm": "Friday the 13th - The Game"}
+			],
+			"supersets": [
+				{"searchTerm": "Friday the 13th - The Game - Ultimate Slasher Edition"}
+			]
+		},
+		{
+			"group": "Killer Instinct - Definitive Edition",
+			"titles": [
+				{"searchTerm": "Killer Instinct - Combo Breaker Pack"},
+				{"searchTerm": "Killer Instinct - Definitive Edition"}
+			]
+		},
+		{
+			"group": "Kingdom Come - Deliverance",
+			"titles": [
+				{"searchTerm": "Kingdom Come - Deliverance"}
+			],
+			"supersets": [
+				{"searchTerm": "Kingdom Come - Deliverance - Royal Edition"}
+			]
+		},
+		{
+			"group": "Maneater",
+			"titles": [
+				{"searchTerm": "Maneater"}
+			],
+			"supersets": [
+				{"searchTerm": "Maneater - Apex Edition"}
+			]
+		},
+		{
+			"group": "Metal Gear Solid V - Ground Zeroes",
+			"titles": [
+				{"searchTerm": "Metal Gear Solid V - Ground Zeroes"}
+			],
+			"supersets": [
+				{"searchTerm": "Metal Gear Solid V - The Definitive Experience"}
+			]
+		},
+		{
+			"group": "Metal Gear Solid V - The Phantom Pain",
+			"titles": [
+				{"searchTerm": "Metal Gear Solid V - The Phantom Pain"}
+			],
+			"supersets": [
+				{"searchTerm": "Metal Gear Solid V - The Definitive Experience"}
+			]
+		},
+		{
+			"group": "Middle-Earth - Shadow of Mordor",
+			"titles": [
+				{"searchTerm": "Middle-Earth - Shadow of Mordor"}
+			],
+			"supersets": [
+				{"searchTerm": "Middle-Earth - Shadow of Mordor - Game of the Year Edition"}
+			]
+		},
+		{
+			"group": "Middle-Earth - Shadow of War",
+			"titles": [
+				{"searchTerm": "Middle-Earth - Shadow of War"}
+			],
+			"supersets": [
+				{"searchTerm": "Middle-Earth - Shadow of War - Definitive Edition (Disc 1)"}
+			]
+		},
+		{
+			"group": "Minecraft - Story Mode - A Telltale Games Series - Season One",
+			"titles": [
+				{"searchTerm": "Minecraft - Story Mode - A Telltale Games Series - Season Pass Disc"}
+			],
+			"supersets": [
+				{"searchTerm": "Minecraft - Story Mode - A Telltale Games Series - The Complete Adventure"}
+			]
+		},
+		{
+			"group": "Minecraft - Xbox One Edition",
+			"titles": [
+				{"searchTerm": "Minecraft - Xbox One Edition"},
+				{"searchTerm": "Minecraft - Xbox One Edition (Includes Favorites Pack)"}
+			]
+		},
+		{
+			"group": "Mortal Kombat 11",
+			"titles": [
+				{"searchTerm": "Mortal Kombat 11"}
+			],
+			"supersets": [
+				{"searchTerm": "Mortal Kombat 11 Ultimate (Play Disc)"},
+				{"searchTerm": "Mortal Kombat 11 - Aftermath Kollection (Play Disc)", "priority": 2}
+			]
+		},
+		{
+			"group": "Mortal Kombat 11 Data Discs",
+			"titles": [
+				{"searchTerm": "Mortal Kombat 11 - Aftermath Kollection (Data Disc)"}
+			],
+			"supersets": [
+				{"searchTerm": "Mortal Kombat 11 Ultimate (Data Disc)"}
+			]
+		},
+		{
+			"group": "Murdered - Soul Suspect",
+			"titles": [
+				{"searchTerm": "Murdered - Soul Suspect"},
+				{"searchTerm": "Murdered - Tamashii no Yobu Koe"}
+			]
+		},
+		{
+			"group": "MX vs ATV All Out",
+			"titles": [
+				{"searchTerm": "MX vs ATV All Out"}
+			],
+			"supersets": [
+				{"searchTerm": "MX vs ATV All Out - Anniversary Edition"}
+			]
+		},
+		{
+			"group": "Naruto Shippuden - Ultimate Ninja Storm 4",
+			"titles": [
+				{"searchTerm": "Naruto Shippuden - Ultimate Ninja Storm 4"}
+			],
+			"supersets": [
+				{"searchTerm": "Naruto Shippuden - Ultimate Ninja Storm 4 - Road to Boruto"}
+			]
+		},
+		{
+			"group": "Payday 2",
+			"titles": [
+				{"searchTerm": "Payday 2 - Crimewave Edition"}
+			],
+			"supersets": [
+				{"searchTerm": "Payday 2 - The Big Score"}
+			]
+		},
+		{
+			"group": "PES 2015 - Pro Evolution Soccer",
+			"titles": [
+				{"searchTerm": "PES 2015 - Pro Evolution Soccer"},
+				{"searchTerm": "World Soccer Winning Eleven 2015"}
+			]
+		},
+		{
+			"group": "PGA Tour 2K23",
+			"titles": [
+				{"searchTerm": "PGA Tour 2K23 (Xbox Series X Hybrid)"},
+				{"searchTerm": "PGA Tour 2K23", "priority": 2}
+			]
+		},
+		{
+			"group": "Port Royale 4",
+			"titles": [
+				{"searchTerm": "Port Royale 4"}
+			],
+			"supersets": [
+				{"searchTerm": "Port Royale 4 - Extended Edition"}
+			]
+		},
+		{
+			"group": "Power Rangers - Battle for the Grid",
+			"titles": [
+				{"searchTerm": "Power Rangers - Battle for the Grid (Collector's Edition)"}
+			],
+			"supersets": [
+				{"searchTerm": "Power Rangers - Battle for the Grid (Super Edition)"}
+			]
+		},
+		{
+			"group": "Project Cars",
+			"titles": [
+				{"searchTerm": "Project Cars"}
+			],
+			"supersets": [
+				{"searchTerm": "Project Cars - Game of the Year Edition"}
+			]
+		},
+		{
+			"group": "Railway Empire",
+			"titles": [
+				{"searchTerm": "Railway Empire"}
+			],
+			"supersets": [
+				{"searchTerm": "Railway Empire - Complete Collection"}
+			]
+		},
+		{
+			"group": "ReCore",
+			"titles": [
+				{"searchTerm": "ReCore"}
+			],
+			"supersets": [
+				{"searchTerm": "ReCore - Definitive Edition"}
+			]
+		},
+		{
+			"group": "Resident Evil 7 - Biohazard",
+			"titles": [
+				{"searchTerm": "Biohazard 7 - Resident Evil - Grotesque Ver."},
+				{"searchTerm": "Resident Evil 7 - Biohazard"}
+			]
+		},
+		{
+			"group": "Resident Evil - Origins Collection",
+			"titles": [
+				{"searchTerm": "Biohazard - Origins Collection"},
+				{"searchTerm": "Resident Evil - Origins Collection"}
+			],
+			"supersets": [
+				{"searchTerm": "Resident Evil 7 - Biohazard - Gold Edition"}
+			]
+		},
+		{
+			"group": "Saints Row IV",
+			"titles": [
+				{"searchTerm": "Saints Row - SRIV Re-Elected & Gat out of Hell"},
+				{"searchTerm": "Saints Row IV - Re-Elected & Gat Out of Hell"}
+			]
+		},
+		{
+			"group": "Shadow of the Tomb Raider",
+			"titles": [
+				{"searchTerm": "Shadow of the Tomb Raider"}
+			],
+			"supersets": [
+				{"searchTerm": "Shadow of the Tomb Raider - Definitive Edition"}
+			]
+		},
+		{
+			"group": "Sims 4, The",
+			"titles": [
+				{"searchTerm": "Sims 4, The"}
+			],
+			"supersets": [
+				{"searchTerm": "Sims 4 Bundle, The - The Sims 4 & The Sims 4 - Cats & Dogs"}
+			]
+		},
+		{
+			"group": "Sudden Strike 4",
+			"titles": [
+				{"searchTerm": "Sudden Strike 4 - European Battlefields Edition"}
+			],
+			"supersets": [
+				{"searchTerm": "Sudden Strike 4 - Complete Collection"}
+			]
+		},
+		{
+			"group": "Tennis World Tour",
+			"titles": [
+				{"searchTerm": "Tennis World Tour"}
+			],
+			"supersets": [
+				{"searchTerm": "Tennis World Tour - Roland-Garros Edition"}
+			]
+		},
+		{
+			"group": "TheHunter - Call of the Wild",
+			"titles": [
+				{"searchTerm": "TheHunter - Call of the Wild"}
+			],
+			"supersets": [
+				{"searchTerm": "TheHunter - Call of the Wild - 2019 Edition"}
+			]
+		},
+		{
+			"group": "Trine 4 - The Nightmare Prince",
+			"titles": [
+				{"searchTerm": "Trine 4 - The Nightmare Prince"}
+			],
+			"supersets": [
+				{"searchTerm": "Trine - Ultimate Collection"}
+			]
+		},
+		{
+			"group": "Walking Dead, The - Season Two - A Telltale Games Series",
+			"titles": [
+				{"searchTerm": "Walking Dead, The - Season Two - A Telltale Games Series"}
+			],
+			"supersets": [
+				{"searchTerm": "Walking Dead, The - The Telltale Definitive Series"}
+			]
+		},
+		{
+			"group": "Walking Dead, The - The Telltale Series - A New Frontier",
+			"titles": [
+				{"searchTerm": "Walking Dead, The - The Telltale Series - A New Frontier"}
+			],
+			"supersets": [
+				{"searchTerm": "Walking Dead, The - The Telltale Definitive Series"}
+			]
+		},
+		{
+			"group": "Walking Dead, The - The Telltale Series - The Final Season",
+			"titles": [
+				{"searchTerm": "Walking Dead, The - The Telltale Series - The Final Season"}
+			],
+			"supersets": [
+				{"searchTerm": "Walking Dead, The - The Telltale Definitive Series"}
+			]
+		},
+		{
+			"group": "Warriors Orochi 3 Ultimate",
+			"titles": [
+				{"searchTerm": "Musou Orochi 2 Ultimate"},
+				{"searchTerm": "Warriors Orochi 3 Ultimate"}
+			]
+		},
+		{
+			"group": "Warriors Orochi 4",
+			"titles": [
+				{"searchTerm": "Warriors Orochi 4"}
+			],
+			"supersets": [
+				{"searchTerm": "Warriors Orochi 4 Ultimate"}
+			]
+		},
+		{
+			"group": "Watch_Dogs",
+			"titles": [
+				{"searchTerm": "Watch Dogs"},
+				{"searchTerm": "Watch_Dogs"},
+				{"searchTerm": "Watch_Dogs - Polnoe izdanie"}
+			]
+		},
+		{
+			"group": "Watch_Dogs 2",
+			"titles": [
+				{"searchTerm": "Watch Dogs 2"},
+				{"searchTerm": "Watch_Dogs 2"}
+			]
+		},
+		{
+			"group": "Witcher 3, The - Wild Hunt",
+			"titles": [
+				{"searchTerm": "Witcher 3, The - Wild Hunt"}
+			],
+			"supersets": [
+				{"searchTerm": "Witcher 3, The - Wild Hunt - Complete Edition"},
+				{"searchTerm": "Witcher 3, The - Wild Hunt - Game of the Year Edition"}
+			]
+		},
+		{
+			"group": "Zoo Tycoon",
+			"titles": [
+				{"searchTerm": "Zoo Tycoon"}
+			],
+			"supersets": [
+				{"searchTerm": "Zoo Tycoon - Ultimate Animal Collection"}
+			]
+		}
+	]
+}

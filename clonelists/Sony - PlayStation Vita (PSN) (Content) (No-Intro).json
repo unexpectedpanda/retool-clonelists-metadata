@@ -1,8 +1,8 @@
 {
 	"description": {
 		"name": "Sony - PlayStation Vita (PSN) (Content) (No-Intro)",
-		"lastUpdated": "2025-10-06 10:50:46",
-		"minimumVersion": "2.4.0"
+		"lastUpdated": "2026-01-17 22:06:01",
+		"minimumVersion": "2.4.8"
 	},
 	"variants": [
 		{
@@ -102,6 +102,13 @@
 			"titles": [
 				{"searchTerm": "Ar Nosurge Plus - Ode to an Unborn Star"},
 				{"searchTerm": "Ar Nosurge Plus - Umareizuru Hoshi e Inoru Uta"}
+			]
+		},
+		{
+			"group": "Army Corps of Hell",
+			"titles": [
+				{"searchTerm": "Army Corps of Hell"},
+				{"searchTerm": "Jigoku no Gundan - Army Corps of Hell"}
 			]
 		},
 		{
@@ -254,7 +261,7 @@
 			"group": "Certain Magical Virtual-On, A",
 			"titles": [
 				{"searchTerm": "Certain Magical Virtual-On, A"},
-				{"searchTerm": "Dennou Senki - Virtual On x Toaru Majutsu no Kinsho Mokuroku - Toaru Majutsu no Dennou Senki"}
+				{"searchTerm": "Toaru Majutsu no Virtual-On"}
 			]
 		},
 		{
@@ -385,10 +392,10 @@
 			]
 		},
 		{
-			"group": "Danganronpa Veethree - Killing Harmony",
+			"group": "Danganronpa V3 - Killing Harmony",
 			"titles": [
-				{"searchTerm": "Danganronpa - Killing Harmony"},
-				{"searchTerm": "New Danganronpa - Minna no Koroshiai Shingakki"}
+				{"searchTerm": "Danganronpa V3 - Killing Harmony"},
+				{"searchTerm": "New Danganronpa V3 - Minna no Koroshiai Shingakki"}
 			]
 		},
 		{
@@ -536,15 +543,22 @@
 				{"searchTerm": "Dynasty Warriors 8 - Empires"},
 				{"searchTerm": "Dynasty Warriors 8 - Empires - Free Alliances Version"},
 				{"searchTerm": "Shin Sangoku Musou 7 - Empires"},
-				{"searchTerm": "Shin Sangoku Musou 7 - Empires - Free Alliances Version"},
-				{"searchTerm": "Shin Sangoku Musou 7 Empires"}
+				{"searchTerm": "Shin Sangoku Musou 7 - Empires - Free Alliances Version"}
 			]
 		},
 		{
 			"group": "Dynasty Warriors 8 - Xtreme Legends Complete Edition",
 			"titles": [
+				{"searchTerm": "Dynasty Warriors 8 - Xtreme Legends - Complete Edition"},
 				{"searchTerm": "Dynasty Warriors 8 - Xtreme Legends Complete Edition"},
 				{"searchTerm": "Shin Sangoku Musou 7 with Moushouden"}
+			]
+		},
+		{
+			"group": "Dynasty Warriors Next",
+			"titles": [
+				{"searchTerm": "Dynasty Warriors Next"},
+				{"searchTerm": "Shin Sangoku Musou Next"}
 			]
 		},
 		{
@@ -746,6 +760,475 @@
 			]
 		},
 		{
+			"group": "Hot Shots Golf - World Invitational - Ball - Beginner's - Level 4 (DLC)",
+			"titles": [
+				{"searchTerm": "Everybody's Golf 6 - Beginner's Ball Lv4 (DLC)"},
+				{"searchTerm": "Everybody's Golf - Ball Beginner's Level 4 (DLC)"},
+				{"searchTerm": "Hot Shots Golf - World Invitational - Ball - Beginner's - Level 4 (DLC)"},
+				{"searchTerm": "Minna no Golf 6 - Beginner's Ball Lv4 (DLC)"}
+			]
+		},
+		{
+			"group": "Hot Shots Golf - World Invitational - Ball - Beginner's - Level 5 (DLC)",
+			"titles": [
+				{"searchTerm": "Everybody's Golf 6 - Beginner's Ball Lv5 (DLC)"},
+				{"searchTerm": "Everybody's Golf - Ball Beginner's Level 5 (DLC)"},
+				{"searchTerm": "Hot Shots Golf - World Invitational - Ball - Beginner's - Level 5 (DLC)"},
+				{"searchTerm": "Minna no Golf 6 - Beginner's Ball Lv5 (DLC)"}
+			]
+		},
+		{
+			"group": "Hot Shots Golf - World Invitational - Ball - Beginner's - Level 6 (DLC)",
+			"titles": [
+				{"searchTerm": "Everybody's Golf 6 - Beginner's Ball Lv6 (DLC)"},
+				{"searchTerm": "Everybody's Golf - Ball Beginner's Level 6 (DLC)"},
+				{"searchTerm": "Hot Shots Golf - World Invitational - Ball - Beginner's - Level 6 (DLC)"},
+				{"searchTerm": "Minna no Golf 6 - Beginner's Ball Lv6 (DLC)"}
+			]
+		},
+		{
+			"group": "Hot Shots Golf - World Invitational - Ball - Big Air - Level 4 (DLC)",
+			"titles": [
+				{"searchTerm": "Everybody's Golf 6 - Big Air Ball Lv4 (DLC)"},
+				{"searchTerm": "Everybody's Golf - Ball Big Air Level 4 (DLC)"},
+				{"searchTerm": "Hot Shots Golf - World Invitational - Ball - Big Air - Level 4 (DLC)"},
+				{"searchTerm": "Minna no Golf 6 - Big Air Ball Lv4 (DLC)"}
+			]
+		},
+		{
+			"group": "Hot Shots Golf - World Invitational - Ball - Big Air - Level 5 (DLC)",
+			"titles": [
+				{"searchTerm": "Everybody's Golf 6 - Big Air Ball Lv5 (DLC)"},
+				{"searchTerm": "Everybody's Golf - Ball Big Air Level 5 (DLC)"},
+				{"searchTerm": "Hot Shots Golf - World Invitational - Ball - Big Air - Level 5 (DLC)"},
+				{"searchTerm": "Minna no Golf 6 - Big Air Ball Lv5 (DLC)"}
+			]
+		},
+		{
+			"group": "Hot Shots Golf - World Invitational - Ball - Big Air - Level 6 (DLC)",
+			"titles": [
+				{"searchTerm": "Everybody's Golf 6 - Big Air Ball Lv6 (DLC)"},
+				{"searchTerm": "Everybody's Golf - Ball Big Air Level 6 (DLC)"},
+				{"searchTerm": "Hot Shots Golf - World Invitational - Ball - Big Air - Level 6 (DLC)"},
+				{"searchTerm": "Minna no Golf 6 - Big Air Ball Lv6 (DLC)"}
+			]
+		},
+		{
+			"group": "Hot Shots Golf - World Invitational - Ball - Infinity - Level 4 (DLC)",
+			"titles": [
+				{"searchTerm": "Everybody's Golf 6 - Infinity Ball Lv4 (DLC)"},
+				{"searchTerm": "Everybody's Golf - Ball Infinity Level 4 (DLC)"},
+				{"searchTerm": "Hot Shots Golf - World Invitational - Ball - Infinity - Level 4 (DLC)"},
+				{"searchTerm": "Minna no Golf 6 - Infinity Ball Lv4 (DLC)"}
+			]
+		},
+		{
+			"group": "Hot Shots Golf - World Invitational - Ball - Infinity - Level 5 (DLC)",
+			"titles": [
+				{"searchTerm": "Everybody's Golf 6 - Infinity Ball Lv5 (DLC)"},
+				{"searchTerm": "Everybody's Golf - Ball Infinity Level 5 (DLC)"},
+				{"searchTerm": "Hot Shots Golf - World Invitational - Ball - Infinity - Level 5 (DLC)"},
+				{"searchTerm": "Minna no Golf 6 - Infinity Ball Lv5 (DLC)"}
+			]
+		},
+		{
+			"group": "Hot Shots Golf - World Invitational - Ball - Infinity - Level 6 (DLC)",
+			"titles": [
+				{"searchTerm": "Everybody's Golf 6 - Infinity Ball Lv6 (DLC)"},
+				{"searchTerm": "Everybody's Golf - Ball Infinity Level 6 (DLC)"},
+				{"searchTerm": "Hot Shots Golf - World Invitational - Ball - Infinity - Level 6 (DLC)"},
+				{"searchTerm": "Minna no Golf 6 - Infinity Ball Lv6 (DLC)"}
+			]
+		},
+		{
+			"group": "Hot Shots Golf - World Invitational - Ball - Pin Hole - Level 4 (DLC)",
+			"titles": [
+				{"searchTerm": "Everybody's Golf 6 - Pin Hole Ball Lv4 (DLC)"},
+				{"searchTerm": "Everybody's Golf - Ball Pin Hole Level 4 (DLC)"},
+				{"searchTerm": "Hot Shots Golf - World Invitational - Ball - Pin Hole - Level 4 (DLC)"},
+				{"searchTerm": "Minna no Golf 6 - Pin Hole Ball Lv4 (DLC)"}
+			]
+		},
+		{
+			"group": "Hot Shots Golf - World Invitational - Ball - Pin Hole - Level 5 (DLC)",
+			"titles": [
+				{"searchTerm": "Everybody's Golf 6 - Pin Hole Ball Lv5 (DLC)"},
+				{"searchTerm": "Everybody's Golf - Ball Pin Hole Level 5 (DLC)"},
+				{"searchTerm": "Hot Shots Golf - World Invitational - Ball - Pin Hole - Level 5 (DLC)"},
+				{"searchTerm": "Minna no Golf 6 - Pin Hole Ball Lv5 (DLC)"}
+			]
+		},
+		{
+			"group": "Hot Shots Golf - World Invitational - Ball - Pin Hole - Level 6 (DLC)",
+			"titles": [
+				{"searchTerm": "Everybody's Golf 6 - Pin Hole Ball Lv6 (DLC)"},
+				{"searchTerm": "Everybody's Golf - Ball Pin Hole Level 6 (DLC)"},
+				{"searchTerm": "Hot Shots Golf - World Invitational - Ball - Pin Hole - Level 6 (DLC)"},
+				{"searchTerm": "Minna no Golf 6 - Pin Hole Ball Lv6 (DLC)"}
+			]
+		},
+		{
+			"group": "Hot Shots Golf - World Invitational - Ball - Straight - Level 4 (DLC)",
+			"titles": [
+				{"searchTerm": "Everybody's Golf 6 - Straight Ball Lv4 (DLC)"},
+				{"searchTerm": "Everybody's Golf - Ball Straight Level 4 (DLC)"},
+				{"searchTerm": "Hot Shots Golf - World Invitational - Ball - Straight - Level 4 (DLC)"},
+				{"searchTerm": "Minna no Golf 6 - Straight Ball Lv4 (DLC)"}
+			]
+		},
+		{
+			"group": "Hot Shots Golf - World Invitational - Ball - Straight - Level 5 (DLC)",
+			"titles": [
+				{"searchTerm": "Everybody's Golf 6 - Straight Ball Lv5 (DLC)"},
+				{"searchTerm": "Everybody's Golf - Ball Straight Level 5 (DLC)"},
+				{"searchTerm": "Hot Shots Golf - World Invitational - Ball - Straight - Level 5 (DLC)"},
+				{"searchTerm": "Minna no Golf 6 - Straight Ball Lv5 (DLC)"}
+			]
+		},
+		{
+			"group": "Hot Shots Golf - World Invitational - Ball - Straight - Level 6 (DLC)",
+			"titles": [
+				{"searchTerm": "Everybody's Golf 6 - Straight Ball Lv6 (DLC)"},
+				{"searchTerm": "Everybody's Golf - Ball Straight Level 6 (DLC)"},
+				{"searchTerm": "Hot Shots Golf - World Invitational - Ball - Straight - Level 6 (DLC)"},
+				{"searchTerm": "Minna no Golf 6 - Straight Ball Lv6 (DLC)"}
+			]
+		},
+		{
+			"group": "Hot Shots Golf - World Invitational - Ball - Turbo Spin - Level 4 (DLC)",
+			"titles": [
+				{"searchTerm": "Everybody's Golf 6 - Turbo Spin Ball Lv4 (DLC)"},
+				{"searchTerm": "Everybody's Golf - Ball Turbo Spin Level 4 (DLC)"},
+				{"searchTerm": "Hot Shots Golf - World Invitational - Ball - Turbo Spin - Level 4 (DLC)"},
+				{"searchTerm": "Minna no Golf 6 - Turbo Spin Ball Lv4 (DLC)"}
+			]
+		},
+		{
+			"group": "Hot Shots Golf - World Invitational - Ball - Turbo Spin - Level 5 (DLC)",
+			"titles": [
+				{"searchTerm": "Everybody's Golf 6 - Turbo Spin Ball Lv5 (DLC)"},
+				{"searchTerm": "Everybody's Golf - Ball Turbo Spin Level 5 (DLC)"},
+				{"searchTerm": "Hot Shots Golf - World Invitational - Ball - Turbo Spin - Level 5 (DLC)"},
+				{"searchTerm": "Minna no Golf 6 - Turbo Spin Ball Lv5 (DLC)"}
+			]
+		},
+		{
+			"group": "Hot Shots Golf - World Invitational - Ball - Turbo Spin - Level 6 (DLC)",
+			"titles": [
+				{"searchTerm": "Everybody's Golf 6 - Turbo Spin Ball Lv6 (DLC)"},
+				{"searchTerm": "Everybody's Golf - Ball Turbo Spin Level 6 (DLC)"},
+				{"searchTerm": "Hot Shots Golf - World Invitational - Ball - Turbo Spin - Level 6 (DLC)"},
+				{"searchTerm": "Minna no Golf 6 - Turbo Spin Ball Lv6 (DLC)"}
+			]
+		},
+		{
+			"group": "Hot Shots Golf - World Invitational - Club - Beginner's - Level 4 (DLC)",
+			"titles": [
+				{"searchTerm": "Everybody's Golf 6 - Beginner's Club Lv4 (DLC)"},
+				{"searchTerm": "Everybody's Golf - Club Beginner's Level 4 (DLC)"},
+				{"searchTerm": "Hot Shots Golf - World Invitational - Club - Beginner's - Level 4 (DLC)"},
+				{"searchTerm": "Minna no Golf 6 - Beginner's Club Lv4 (DLC)"}
+			]
+		},
+		{
+			"group": "Hot Shots Golf - World Invitational - Club - Beginner's - Level 5 (DLC)",
+			"titles": [
+				{"searchTerm": "Everybody's Golf 6 - Beginner's Club Lv5 (DLC)"},
+				{"searchTerm": "Everybody's Golf - Club Beginner's Level 5 (DLC)"},
+				{"searchTerm": "Hot Shots Golf - World Invitational - Club - Beginner's - Level 5 (DLC)"},
+				{"searchTerm": "Minna no Golf 6 - Beginner's Club Lv5 (DLC)"}
+			]
+		},
+		{
+			"group": "Hot Shots Golf - World Invitational - Club - Beginner's - Level 6 (DLC)",
+			"titles": [
+				{"searchTerm": "Everybody's Golf 6 - Beginner's Club Lv6 (DLC)"},
+				{"searchTerm": "Everybody's Golf - Club Beginner's Level 6 (DLC)"},
+				{"searchTerm": "Hot Shots Golf - World Invitational - Club - Beginner's - Level 6 (DLC)"},
+				{"searchTerm": "Minna no Golf 6 - Beginner's Club Lv6 (DLC)"}
+			]
+		},
+		{
+			"group": "Hot Shots Golf - World Invitational - Club - Big Air - Level 4 (DLC)",
+			"titles": [
+				{"searchTerm": "Everybody's Golf 6 - Big Air Club Lv4 (DLC)"},
+				{"searchTerm": "Everybody's Golf - Club Big Air Level 4 (DLC)"},
+				{"searchTerm": "Hot Shots Golf - World Invitational - Club - Big Air - Level 4 (DLC)"},
+				{"searchTerm": "Minna no Golf 6 - Big Air Club Lv4 (DLC)"}
+			]
+		},
+		{
+			"group": "Hot Shots Golf - World Invitational - Club - Big Air - Level 5 (DLC)",
+			"titles": [
+				{"searchTerm": "Everybody's Golf 6 - Big Air Club Lv5 (DLC)"},
+				{"searchTerm": "Everybody's Golf - Club Big Air Level 5 (DLC)"},
+				{"searchTerm": "Hot Shots Golf - World Invitational - Club - Big Air - Level 5 (DLC)"},
+				{"searchTerm": "Minna no Golf 6 - Big Air Club Lv5 (DLC)"}
+			]
+		},
+		{
+			"group": "Hot Shots Golf - World Invitational - Club - Big Air - Level 6 (DLC)",
+			"titles": [
+				{"searchTerm": "Everybody's Golf 6 - Big Air Club Lv6 (DLC)"},
+				{"searchTerm": "Everybody's Golf - Club Big Air Level 6 (DLC)"},
+				{"searchTerm": "Hot Shots Golf - World Invitational - Club - Big Air - Level 6 (DLC)"},
+				{"searchTerm": "Minna no Golf 6 - Big Air Club Lv6 (DLC)"}
+			]
+		},
+		{
+			"group": "Hot Shots Golf - World Invitational - Club - Big Magnum - Level 4 (DLC)",
+			"titles": [
+				{"searchTerm": "Everybody's Golf 6 - Big Magnum Club Lv4 (DLC)"},
+				{"searchTerm": "Everybody's Golf - Club Big Magnum Level 4 (DLC)"},
+				{"searchTerm": "Hot Shots Golf - World Invitational - Club - Big Magnum - Level 4 (DLC)"},
+				{"searchTerm": "Minna no Golf 6 - Big Magnum Club Lv4 (DLC)"}
+			]
+		},
+		{
+			"group": "Hot Shots Golf - World Invitational - Club - Big Magnum - Level 5 (DLC)",
+			"titles": [
+				{"searchTerm": "Everybody's Golf 6 - Big Magnum Club Lv5 (DLC)"},
+				{"searchTerm": "Everybody's Golf - Club Big Magnum Level 5 (DLC)"},
+				{"searchTerm": "Hot Shots Golf - World Invitational - Club - Big Magnum - Level 5 (DLC)"},
+				{"searchTerm": "Minna no Golf 6 - Big Magnum Club Lv5 (DLC)"}
+			]
+		},
+		{
+			"group": "Hot Shots Golf - World Invitational - Club - Big Magnum - Level 6 (DLC)",
+			"titles": [
+				{"searchTerm": "Everybody's Golf 6 - Big Magnum Club Lv6 (DLC)"},
+				{"searchTerm": "Everybody's Golf - Club Big Magnum Level 6 (DLC)"},
+				{"searchTerm": "Hot Shots Golf - World Invitational - Club - Big Magnum - Level 6 (DLC)"},
+				{"searchTerm": "Minna no Golf 6 - Big Magnum Club Lv6 (DLC)"}
+			]
+		},
+		{
+			"group": "Hot Shots Golf - World Invitational - Club - Grass Cutter - Level 4 (DLC)",
+			"titles": [
+				{"searchTerm": "Everybody's Golf 6 - Grass Cutter Club Lv4 (DLC)"},
+				{"searchTerm": "Everybody's Golf - Club Grass Cutter Level 4 (DLC)"},
+				{"searchTerm": "Hot Shots Golf - World Invitational - Club - Grass Cutter - Level 4 (DLC)"},
+				{"searchTerm": "Minna no Golf 6 - Grass Cutter Club Lv4 (DLC)"}
+			]
+		},
+		{
+			"group": "Hot Shots Golf - World Invitational - Club - Grass Cutter - Level 5 (DLC)",
+			"titles": [
+				{"searchTerm": "Everybody's Golf 6 - Grass Cutter Club Lv5 (DLC)"},
+				{"searchTerm": "Everybody's Golf - Club Grass Cutter Level 5 (DLC)"},
+				{"searchTerm": "Hot Shots Golf - World Invitational - Club - Grass Cutter - Level 5 (DLC)"},
+				{"searchTerm": "Minna no Golf 6 - Grass Cutter Club Lv5 (DLC)"}
+			]
+		},
+		{
+			"group": "Hot Shots Golf - World Invitational - Club - Grass Cutter - Level 6 (DLC)",
+			"titles": [
+				{"searchTerm": "Everybody's Golf 6 - Grass Cutter Club Lv6 (DLC)"},
+				{"searchTerm": "Everybody's Golf - Club Grass Cutter Level 6 (DLC)"},
+				{"searchTerm": "Hot Shots Golf - World Invitational - Club - Grass Cutter - Level 6 (DLC)"},
+				{"searchTerm": "Minna no Golf 6 - Grass Cutter Club Lv6 (DLC)"}
+			]
+		},
+		{
+			"group": "Hot Shots Golf - World Invitational - Club - Infinity - Level 4 (DLC)",
+			"titles": [
+				{"searchTerm": "Everybody's Golf 6 - Infinity Club Lv4 (DLC)"},
+				{"searchTerm": "Everybody's Golf - Club Infinity Level 4 (DLC)"},
+				{"searchTerm": "Hot Shots Golf - World Invitational - Club - Infinity - Level 4 (DLC)"},
+				{"searchTerm": "Minna no Golf 6 - Infinity Club Lv4 (DLC)"}
+			]
+		},
+		{
+			"group": "Hot Shots Golf - World Invitational - Club - Infinity - Level 5 (DLC)",
+			"titles": [
+				{"searchTerm": "Everybody's Golf 6 - Infinity Club Lv5 (DLC)"},
+				{"searchTerm": "Everybody's Golf - Club Infinity Level 5 (DLC)"},
+				{"searchTerm": "Hot Shots Golf - World Invitational - Club - Infinity - Level 5 (DLC)"},
+				{"searchTerm": "Minna no Golf 6 - Infinity Club Lv5 (DLC)"}
+			]
+		},
+		{
+			"group": "Hot Shots Golf - World Invitational - Club - Infinity - Level 6 (DLC)",
+			"titles": [
+				{"searchTerm": "Everybody's Golf 6 - Infinity Club Lv6 (DLC)"},
+				{"searchTerm": "Everybody's Golf - Club Infinity Level 6 (DLC)"},
+				{"searchTerm": "Hot Shots Golf - World Invitational - Club - Infinity - Level 6 (DLC)"},
+				{"searchTerm": "Minna no Golf 6 - Infinity Club Lv6 (DLC)"}
+			]
+		},
+		{
+			"group": "Hot Shots Golf - World Invitational - Club - Pin Hole - Level 4 (DLC)",
+			"titles": [
+				{"searchTerm": "Everybody's Golf 6 - Pin Hole Club Lv4 (DLC)"},
+				{"searchTerm": "Everybody's Golf - Club Pin Hole Level 4 (DLC)"},
+				{"searchTerm": "Hot Shots Golf - World Invitational - Club - Pin Hole - Level 4 (DLC)"},
+				{"searchTerm": "Minna no Golf 6 - Pin Hole Club Lv4 (DLC)"}
+			]
+		},
+		{
+			"group": "Hot Shots Golf - World Invitational - Club - Pin Hole - Level 5 (DLC)",
+			"titles": [
+				{"searchTerm": "Everybody's Golf 6 - Pin Hole Club Lv5 (DLC)"},
+				{"searchTerm": "Everybody's Golf - Club Pin Hole Level 5 (DLC)"},
+				{"searchTerm": "Hot Shots Golf - World Invitational - Club - Pin Hole - Level 5 (DLC)"},
+				{"searchTerm": "Minna no Golf 6 - Pin Hole Club Lv5 (DLC)"}
+			]
+		},
+		{
+			"group": "Hot Shots Golf - World Invitational - Club - Pin Hole - Level 6 (DLC)",
+			"titles": [
+				{"searchTerm": "Everybody's Golf 6 - Pin Hole Club Lv6 (DLC)"},
+				{"searchTerm": "Everybody's Golf - Club Pin Hole Level 6 (DLC)"},
+				{"searchTerm": "Hot Shots Golf - World Invitational - Club - Pin Hole - Level 6 (DLC)"},
+				{"searchTerm": "Minna no Golf 6 - Pin Hole Club Lv6 (DLC)"}
+			]
+		},
+		{
+			"group": "Hot Shots Golf - World Invitational - Club - Sand Viper - Level 4 (DLC)",
+			"titles": [
+				{"searchTerm": "Everybody's Golf 6 - Sand Viper Club Lv4 (DLC)"},
+				{"searchTerm": "Everybody's Golf - Club Sand Viper Level 4 (DLC)"},
+				{"searchTerm": "Hot Shots Golf - World Invitational - Club - Sand Viper - Level 4 (DLC)"},
+				{"searchTerm": "Minna no Golf 6 - Sand Viper Club Lv4 (DLC)"}
+			]
+		},
+		{
+			"group": "Hot Shots Golf - World Invitational - Club - Turbo Spin - Level 4 (DLC)",
+			"titles": [
+				{"searchTerm": "Everybody's Golf 6 - Turbo Spin Club Lv4 (DLC)"},
+				{"searchTerm": "Everybody's Golf - Club Turbo Spin Level 4 (DLC)"},
+				{"searchTerm": "Hot Shots Golf - World Invitational - Club - Turbo Spin - Level 4 (DLC)"},
+				{"searchTerm": "Minna no Golf 6 - Turbo Spin Club Lv4 (DLC)"}
+			]
+		},
+		{
+			"group": "Hot Shots Golf - World Invitational - Club - Turbo Spin - Level 5 (DLC)",
+			"titles": [
+				{"searchTerm": "Everybody's Golf 6 - Turbo Spin Club Lv5 (DLC)"},
+				{"searchTerm": "Everybody's Golf - Club Turbo Spin Level 5 (DLC)"},
+				{"searchTerm": "Hot Shots Golf - World Invitational - Club - Turbo Spin - Level 5 (DLC)"},
+				{"searchTerm": "Minna no Golf 6 - Turbo Spin Club Lv5 (DLC)"}
+			]
+		},
+		{
+			"group": "Hot Shots Golf - World Invitational - Club - Turbo Spin - Level 6 (DLC)",
+			"titles": [
+				{"searchTerm": "Everybody's Golf 6 - Turbo Spin Club Lv6 (DLC)"},
+				{"searchTerm": "Everybody's Golf - Club Turbo Spin Level 6 (DLC)"},
+				{"searchTerm": "Hot Shots Golf - World Invitational - Club - Turbo Spin - Level 6 (DLC)"},
+				{"searchTerm": "Minna no Golf 6 - Turbo Spin Club Lv6 (DLC)"}
+			]
+		},
+		{
+			"group": "Hot Shots Golf - World Invitational - Costume - Kuro (DLC)",
+			"titles": [
+				{"searchTerm": "Everybody's Golf 6 - Kuro Costume (DLC)"},
+				{"searchTerm": "Everybody's Golf - Kuro Costume (DLC)"},
+				{"searchTerm": "Hot Shots Golf - World Invitational - Costume - Kuro (DLC)"},
+				{"searchTerm": "Minna no Golf 6 - Kuro Cosplay (DLC)"}
+			]
+		},
+		{
+			"group": "Hot Shots Golf - World Invitational - Costume - Toro (DLC)",
+			"titles": [
+				{"searchTerm": "Everybody's Golf 6 - Toro Costume (DLC)"},
+				{"searchTerm": "Everybody's Golf - Toro Costume (DLC)"},
+				{"searchTerm": "Hot Shots Golf - World Invitational - Costume - Toro (DLC)"},
+				{"searchTerm": "Minna no Golf 6 - Toro Cosplay (DLC)"}
+			]
+		},
+		{
+			"group": "Hot Shots Golf - World Invitational - New Character Erika - 1 of 2 (DLC)",
+			"titles": [
+				{"searchTerm": "Everybody's Golf 6 - National Golf 6 Erika Use Right (DLC)"},
+				{"searchTerm": "Everybody's Golf - Erika (DLC)"},
+				{"searchTerm": "Hot Shots Golf - World Invitational - New Character Erika - 1 of 2 (DLC)"}
+			]
+		},
+		{
+			"group": "Hot Shots Golf - World Invitational - New Character Erika - 2 of 2 (DLC)",
+			"titles": [
+				{"searchTerm": "Everybody's Golf 6 - Everybody's Golf 6 Erika's Transformation Suit Usage Rights (DLC)"},
+				{"searchTerm": "Everybody's Golf - Erika Costume (DLC)"},
+				{"searchTerm": "Hot Shots Golf - World Invitational - New Character Erika - 2 of 2 (DLC)"}
+			]
+		},
+		{
+			"group": "Hot Shots Golf - World Invitational - New Character Gloria - 1 of 2 (DLC)",
+			"titles": [
+				{"searchTerm": "Everybody's Golf 6 - Everybody's Golf 6 Gloria Usage Rights (DLC)"},
+				{"searchTerm": "Everybody's Golf - Gloria (DLC)"},
+				{"searchTerm": "Hot Shots Golf - World Invitational - New Character Gloria - 1 of 2 (DLC)"}
+			]
+		},
+		{
+			"group": "Hot Shots Golf - World Invitational - New Character Gloria - 2 of 2 (DLC)",
+			"titles": [
+				{"searchTerm": "Everybody's Golf 6 - Everybody's Golf 6 Gloria's Transformation Suit Usage Rights (DLC)"},
+				{"searchTerm": "Everybody's Golf - Gloria Costume (DLC)"},
+				{"searchTerm": "Hot Shots Golf - World Invitational - New Character Gloria - 2 of 2 (DLC)"}
+			]
+		},
+		{
+			"group": "Hot Shots Golf - World Invitational - New Character Kat (DLC)",
+			"titles": [
+				{"searchTerm": "Everybody's Golf 6 - Kat Playable Character (DLC)"},
+				{"searchTerm": "Everybody's Golf - Kat (DLC)"},
+				{"searchTerm": "Hot Shots Golf - World Invitational - New Character Kat (DLC)"}
+			]
+		},
+		{
+			"group": "Hot Shots Golf - World Invitational - New Mar Cielo Course (DLC)",
+			"titles": [
+				{"searchTerm": "Everybody's Golf 6 - Mar Cielo Golf Course (DLC)"},
+				{"searchTerm": "Everybody's Golf - Mar Cielo (DLC)"},
+				{"searchTerm": "Hot Shots Golf - World Invitational - New Mar Cielo Course (DLC)"}
+			]
+		},
+		{
+			"group": "Hot Shots Golf - World Invitational - New Mt. Sakura Course (DLC)",
+			"titles": [
+				{"searchTerm": "Everybody's Golf 6 - Mt. Sakura Country Club (DLC)"},
+				{"searchTerm": "Everybody's Golf - Mt. Sakura Country Club (DLC)"},
+				{"searchTerm": "Hot Shots Golf - World Invitational - New Mt. Sakura Course (DLC)"}
+			]
+		},
+		{
+			"group": "Hot Shots Golf - World Invitational - Northern Fox Course (DLC)",
+			"titles": [
+				{"searchTerm": "Everybody's Golf 6 - Northern Fox Country Club (DLC)"},
+				{"searchTerm": "Everybody's Golf - Northern Fox (DLC)"},
+				{"searchTerm": "Hot Shots Golf - World Invitational - Northern Fox Course (DLC)"},
+				{"searchTerm": "Minna no Golf 6 - Northern Fox (DLC)"}
+			]
+		},
+		{
+			"group": "Hot Shots Golf - World Invitational - Playable Character - Kuro (DLC)",
+			"titles": [
+				{"searchTerm": "Everybody's Golf 6 - Kuro Playable Character (DLC)"},
+				{"searchTerm": "Everybody's Golf - Kuro (DLC)"},
+				{"searchTerm": "Hot Shots Golf - World Invitational - Playable Character - Kuro (DLC)"},
+				{"searchTerm": "Minna no Golf 6 - Kuro (DLC)"}
+			]
+		},
+		{
+			"group": "Hot Shots Golf - World Invitational - Playable Character - Toro (DLC)",
+			"titles": [
+				{"searchTerm": "Everybody's Golf 6 - Toro Playable Character (DLC)"},
+				{"searchTerm": "Everybody's Golf - Toro (DLC)"},
+				{"searchTerm": "Hot Shots Golf - World Invitational - Playable Character - Toro (DLC)"},
+				{"searchTerm": "Minna no Golf 6 - Toro (DLC)"}
+			]
+		},
+		{
+			"group": "Hot Shots Golf - World Invitational - PS Vita Kat Costume (DLC)",
+			"titles": [
+				{"searchTerm": "Everybody's Golf 6 - Kat Costume (DLC)"},
+				{"searchTerm": "Everybody's Golf - Kat Costume (DLC)"},
+				{"searchTerm": "Hot Shots Golf - World Invitational - PS Vita Kat Costume (DLC)"}
+			]
+		},
+		{
 			"group": "House in Fata Morgana, The",
 			"titles": [
 				{"searchTerm": "Fata Morgana no Kan - Collected Edition"},
@@ -793,6 +1276,15 @@
 			"titles": [
 				{"searchTerm": "Invizimals - Collectible Card Game - Hidden Challenges"},
 				{"searchTerm": "Invizimals - Hidden Challenges"}
+			]
+		},
+		{
+			"group": "J-Stars Victory Vs",
+			"titles": [
+				{"searchTerm": "J-Stars Victory Vs"}
+			],
+			"supersets": [
+				{"searchTerm": "J-Stars Victory Vs+"}
 			]
 		},
 		{
@@ -899,6 +1391,13 @@
 			]
 		},
 		{
+			"group": "LEGO Star Wars - The Force Awakens",
+			"titles": [
+				{"searchTerm": "LEGO Star Wars - Force no Kakusei"},
+				{"searchTerm": "LEGO Star Wars - The Force Awakens"}
+			]
+		},
+		{
 			"group": "Live from PlayStation",
 			"categories": ["Applications"],
 			"titles": [
@@ -924,13 +1423,6 @@
 			"titles": [
 				{"searchTerm": "Longest Five Minutes, The"},
 				{"searchTerm": "Sekai Ichi Nagai 5-fun Kan"}
-			]
-		},
-		{
-			"group": "Magical Beat",
-			"titles": [
-				{"searchTerm": "Magical Beat"},
-				{"searchTerm": "Magical Beat - Beat de Tsunaku Ochimo no Puzzle"}
 			]
 		},
 		{
@@ -1123,6 +1615,20 @@
 				{"searchTerm": "Hako! Open Me - Digest Version"},
 				{"searchTerm": "Open Me!"},
 				{"searchTerm": "Open Me! Digest Ver."}
+			]
+		},
+		{
+			"group": "Operation Abyss - New Tokyo Legacy",
+			"titles": [
+				{"searchTerm": "Operation Abyss - New Tokyo Legacy"},
+				{"searchTerm": "Tokyo Shinseiroku - Operation Abyss"}
+			]
+		},
+		{
+			"group": "Operation Babel - New Tokyo Legacy",
+			"titles": [
+				{"searchTerm": "Operation Babel - New Tokyo Legacy"},
+				{"searchTerm": "Tokyo Shinseiroku - Operation Babel"}
 			]
 		},
 		{
@@ -1372,13 +1878,6 @@
 			]
 		},
 		{
-			"group": "Senran Kagura Shinovi Versus",
-			"titles": [
-				{"searchTerm": "Senran Kagura Shinovi Versus"},
-				{"searchTerm": "Senran Kagura Shinovi Versus - Shoujotachi no Shoumei"}
-			]
-		},
-		{
 			"group": "Shiren the Wanderer",
 			"titles": [
 				{"searchTerm": "Shiren the Wanderer"},
@@ -1590,6 +2089,7 @@
 		{
 			"group": "Trillion - God of Destruction",
 			"titles": [
+				{"searchTerm": "Magai Sin Trillion - God of Destruction"},
 				{"searchTerm": "Makaigami Trillion"},
 				{"searchTerm": "Makaishin Trillion"},
 				{"searchTerm": "Trillion - God of Destruction"}
@@ -1652,6 +2152,13 @@
 			]
 		},
 		{
+			"group": "Uncharted - Golden Abyss - Treasure Map Pack (DLC)",
+			"titles": [
+				{"searchTerm": "Uncharted - Chizu no Bouken no Hajimari - Treasure Map (DLC)"},
+				{"searchTerm": "Uncharted - Golden Abyss - Treasure Map Pack (DLC)"}
+			]
+		},
+		{
 			"group": "Utawarerumono - Mask of Deception",
 			"titles": [
 				{"searchTerm": "Utawarerumono - Itsuwari no Kamen"},
@@ -1679,13 +2186,6 @@
 			],
 			"supersets": [
 				{"searchTerm": "Valhalla Knights 3 Gold"}
-			]
-		},
-		{
-			"group": "Valkyria Revolution",
-			"titles": [
-				{"searchTerm": "Valkyria - Azure Revolution"},
-				{"searchTerm": "Valkyria Revolution"}
 			]
 		},
 		{

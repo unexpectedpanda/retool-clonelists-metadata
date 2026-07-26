@@ -1,8 +1,8 @@
 {
 	"description": {
 		"name": "Sega - Dreamcast (Redump)",
-		"lastUpdated": "2025-10-06 10:50:46",
-		"minimumVersion": "2.4.0"
+		"lastUpdated": "2026-01-18 16:35:08",
+		"minimumVersion": "2.4.8"
 	},
 	"variants": [
 		{
@@ -150,17 +150,17 @@
 			]
 		},
 		{
-			"group": "Debug Indie Sampler 1 (Demo)",
+			"group": "Debug Indie Sampler 1",
 			"categories": ["Demos", "Games"],
 			"titles": [
-				{"searchTerm": "Debug Indie Sampler 1 (Demo)"}
+				{"searchTerm": "Debug Indie Sampler 1"}
 			]
 		},
 		{
-			"group": "Debug Indie Sampler 2 (Demo)",
+			"group": "Debug Indie Sampler 2",
 			"categories": ["Demos", "Games"],
 			"titles": [
-				{"searchTerm": "Debug Indie Sampler 2 (Demo)"}
+				{"searchTerm": "Debug Indie Sampler 2"}
 			]
 		},
 		{
@@ -184,13 +184,6 @@
 				{"searchTerm": "Disney-Pixar Toy Story 2 - Buzz l'Eclair a la Rescousse !"},
 				{"searchTerm": "Disney-Pixar Toy Story 2 - Buzz Lightyear eilt zur Hilfe!"},
 				{"searchTerm": "Disney-Pixar Toy Story 2 - Buzz Lightyear to the Rescue!"}
-			]
-		},
-		{
-			"group": "dps - Heartbreak Diary",
-			"categories": ["Audio"],
-			"titles": [
-				{"searchTerm": "dps - Heartbreak Diary"}
 			]
 		},
 		{
@@ -296,7 +289,7 @@
 			"group": "Frame Gride - Test Operation Disc",
 			"titles": [
 				{
-					"searchTerm": "Frame Gride - Test Operation Disc (Demo)",
+					"searchTerm": "Frame Gride - Test Operation Disc",
 					"localNames": {
 						"japanese": "フレームグライド）　～体験版～"
 					}
@@ -619,10 +612,10 @@
 			]
 		},
 		{
-			"group": "Rippin' Riders",
+			"group": "Rippin' Riders Snowboarding",
 			"titles": [
 				{"searchTerm": "Cool Boarders Burrrn!"},
-				{"searchTerm": "Rippin' Riders"},
+				{"searchTerm": "Rippin' Riders Snowboarding"},
 				{"searchTerm": "Snow Surfers"}
 			]
 		},

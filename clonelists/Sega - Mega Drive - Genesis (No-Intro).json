@@ -1,8 +1,8 @@
 {
 	"description": {
 		"name": "Sega - Mega Drive - Genesis (No-Intro)",
-		"lastUpdated": "2025-10-06 10:50:46",
-		"minimumVersion": "2.4.0"
+		"lastUpdated": "2026-01-11 06:52:46",
+		"minimumVersion": "2.4.8"
 	},
 	"variants": [
 		{
@@ -22,6 +22,13 @@
 			],
 			"compilations": [
 				{"searchTerm": "Game no Kanzume Otokuyou"}
+			]
+		},
+		{
+			"group": "Abyssal Infants",
+			"titles": [
+				{"searchTerm": "Abyssal Infants"},
+				{"searchTerm": "Abyssal Infants (4MB Jam)"}
 			]
 		},
 		{
@@ -125,7 +132,7 @@
 		{
 			"group": "AlterEgo",
 			"titles": [
-				{"searchTerm": "AlterEgo"}
+				{"searchTerm": "AlterEgo - Dreamwalker"}
 			],
 			"supersets": [
 				{"searchTerm": "AlterEgo - Remastered"}
@@ -153,13 +160,6 @@
 			]
 		},
 		{
-			"group": "Astebros",
-			"titles": [
-				{"searchTerm": "Astebros (PixelHeart)"},
-				{"searchTerm": "Astebros (neofid-studios.com)", "priority": 2}
-			]
-		},
-		{
 			"group": "Atomic Runner",
 			"titles": [
 				{"searchTerm": "Atomic Runner"},
@@ -174,17 +174,17 @@
 			]
 		},
 		{
-			"group": "Awesome Possum... ...Kicks Dr. Machino's Butt",
+			"group": "Awesome Possum Kicks Dr. Machino's Butt!",
 			"titles": [
 				{"searchTerm": "Awesome Possum"},
-				{"searchTerm": "Awesome Possum... ...Kicks Dr. Machino's Butt"},
-				{"searchTerm": "Awesome Possum Kicks Dr Machino's Butt!", "priority": 2}
+				{"searchTerm": "Awesome Possum Kicks Dr. Machino's Butt"},
+				{"searchTerm": "Awesome Possum Kicks Dr. Machino's Butt!", "priority": 2}
 			]
 		},
 		{
 			"group": "Aworg",
 			"titles": [
-				{"searchTerm": "Aworg"}
+				{"searchTerm": "Aworg - Hero in the Sky"}
 			],
 			"compilations": [
 				{"searchTerm": "Game no Kanzume Otokuyou"}
@@ -205,10 +205,36 @@
 			]
 		},
 		{
+			"group": "Ballz 3D - The Battle of the Ballz",
+			"titles": [
+				{"searchTerm": "Ballz 3D - Fighting at its Ballziest"},
+				{"searchTerm": "Ballz 3D - The Battle of the Ballz"}
+			]
+		},
+		{
+			"group": "Barbarian (F.L. ports)",
+			"titles": [
+				{"searchTerm": "Barbarian (F.L.) (Amiga 500)"},
+				{"searchTerm": "Barbarian (F.L.) (Atari ST)", "priority": 2},
+				{"searchTerm": "Barbarian (F.L.) (Amstrad CPC)", "priority": 3},
+				{"searchTerm": "Death Sword (Apple II)", "priority": 4},
+				{"searchTerm": "Barbarian (F.L.) (Commodore 64)", "priority": 5},
+				{"searchTerm": "Barbarian (F.L.) (ZX Spectrum)", "priority": 6},
+				{"searchTerm": "Death Sword (PC)", "priority": 7}
+			]
+		},
+		{
 			"group": "Batman - The Video Game",
 			"titles": [
 				{"searchTerm": "Batman"},
 				{"searchTerm": "Batman - The Video Game"}
+			]
+		},
+		{
+			"group": "Battle Frenzy",
+			"titles": [
+				{"searchTerm": "Battle Frenzy"},
+				{"searchTerm": "Bloodshot"}
 			]
 		},
 		{
@@ -310,6 +336,17 @@
 			]
 		},
 		{
+			"group": "Bug's Life, A - Chong Chong Weiji",
+			"titles": [
+				{
+					"searchTerm": "Bug's Life, A - Chong Chong Weiji",
+					"localNames": {
+						"chinese (traditional)": "蟲蟲危機"
+					}
+				}
+			]
+		},
+		{
 			"group": "Bulls versus Blazers and the NBA Playoffs",
 			"titles": [
 				{"searchTerm": "Bulls versus Blazers and the NBA Playoffs"},
@@ -351,13 +388,6 @@
 			]
 		},
 		{
-			"group": "Cave Story - Doukutsu Monogatari",
-			"titles": [
-				{"searchTerm": "Cave Story - Doukutsu Monogatari"},
-				{"searchTerm": "Cave Story - Doukutsu Monogatari.*\\(SNAPSHOT.*?\\).*", "nameType": "regex", "priority": 2}
-			]
-		},
-		{
 			"group": "Championship Bowling",
 			"titles": [
 				{"searchTerm": "Boogie Woogie Bowling"},
@@ -376,17 +406,6 @@
 			"titles": [
 				{"searchTerm": "Chi Chi's Pro Challenge Golf"},
 				{"searchTerm": "Top Pro Golf 2"}
-			]
-		},
-		{
-			"group": "Chong Chong Weiji - A Bug's Life",
-			"titles": [
-				{
-					"searchTerm": "Chong Chong Weiji - A Bug's Life",
-					"localNames": {
-						"chinese (traditional)": "蟲蟲危機"
-					}
-				}
 			]
 		},
 		{
@@ -475,15 +494,8 @@
 		{
 			"group": "Dahna - Megami Tanjou",
 			"titles": [
-				{"searchTerm": "Dahna"},
+				{"searchTerm": "Daana"},
 				{"searchTerm": "Dahna - Megami Tanjou"}
-			]
-		},
-		{
-			"group": "Darius - Extra Version",
-			"titles": [
-				{"searchTerm": "Darius - Extra Version"},
-				{"searchTerm": "Darius - Extra Version (Strictly Limited)"}
 			]
 		},
 		{
@@ -547,7 +559,7 @@
 		{
 			"group": "Dr. Robotnik's Mean Bean Machine",
 			"titles": [
-				{"searchTerm": "Dong Gu Ri Te Chi Jak Jeon"},
+				{"searchTerm": "Dongguri Techi Jakjeon"},
 				{"searchTerm": "Dr. Robotnik's Mean Bean Machine"}
 			],
 			"compilations": [
@@ -603,7 +615,7 @@
 			"titles": [
 				{"searchTerm": "Exile"},
 				{"searchTerm": "Exile - Toki no Hazama he"},
-				{"searchTerm": "Shikong Yi Bian", "priority": 2}
+				{"searchTerm": "Shikong Yibian", "priority": 2}
 			]
 		},
 		{
@@ -611,7 +623,6 @@
 			"titles": [
 				{"searchTerm": "F-22 Interceptor"},
 				{"searchTerm": "F-22 Interceptor - Advanced Tactical Fighter"},
-				{"searchTerm": "F-22 Interceptor - Advanced Tactical Fighter (F-205)"},
 				{"searchTerm": "F-22 Interceptor - Advanced Tactical Fighter (F-202)", "priority": 2}
 			]
 		},
@@ -719,6 +730,13 @@
 				{"searchTerm": "Classic Collection"},
 				{"searchTerm": "Game no Kanzume Otokuyou"},
 				{"searchTerm": "Sega Top Five"}
+			]
+		},
+		{
+			"group": "Flintstones, The",
+			"titles": [
+				{"searchTerm": "Flintstones, The"},
+				{"searchTerm": "Flintstones, The (Taito)"}
 			]
 		},
 		{
@@ -970,13 +988,6 @@
 			]
 		},
 		{
-			"group": "John Madden Football '93",
-			"titles": [
-				{"searchTerm": "John Madden Football '93 (EA Sports)"},
-				{"searchTerm": "John Madden Football '93 (EASN)", "priority": 2}
-			]
-		},
-		{
 			"group": "Jordan vs Bird",
 			"titles": [
 				{"searchTerm": "Jordan vs Bird"},
@@ -1002,6 +1013,14 @@
 			"titles": [
 				{"searchTerm": "Ka-Ge-Ki"},
 				{"searchTerm": "Ka-Ge-Ki - Fists of Steel"}
+			]
+		},
+		{
+			"group": "Kick Off 3 - European Challenge",
+			"titles": [
+				{"searchTerm": "Kick Off 3 - European Challenge"},
+				{"searchTerm": "Kick Off 3 - European Challenge (Players)"},
+				{"searchTerm": "Kick Off 3 - European Challenge (Menu)", "priority": 2}
 			]
 		},
 		{
@@ -1077,17 +1096,17 @@
 			]
 		},
 		{
+			"group": "Lion King III, The",
+			"titles": [
+				{"searchTerm": "Lion King 3, The"},
+				{"searchTerm": "Lion King III, The"}
+			]
+		},
+		{
 			"group": "Lord Monarch - Tokoton Sentou Densetsu",
 			"titles": [
 				{"searchTerm": "Lord Monarch - Tokoton Sentou Densetsu"},
 				{"searchTerm": "Mengnake Huangzu - Zuizhong Zhandou Chuanshuo", "priority": 2}
-			]
-		},
-		{
-			"group": "Mad Stalker - Full Metal Forth",
-			"titles": [
-				{"searchTerm": "Mad Stalker - Full Metal Forth"},
-				{"searchTerm": "Mad Stalker - Full Metal Forth (Strictly Limited)"}
 			]
 		},
 		{
@@ -1098,17 +1117,17 @@
 			]
 		},
 		{
-			"group": "Magic Girl - Featuring Ling Ling the Little Witch",
+			"group": "Magic Girl",
 			"titles": [
-				{"searchTerm": "Magic Girl - Featuring Ling Ling the Little Witch"},
+				{"searchTerm": "Magic Girl"},
 				{"searchTerm": "Xiao Monu - Magic Girl"}
 			]
 		},
 		{
-			"group": "Majiang Emo Ta - Devilish Mahjong Tower",
+			"group": "Mahjong Emo Ta - Devilish Mahjong Tower",
 			"titles": [
 				{
-					"searchTerm": "Majiang Emo Ta - Devilish Mahjong Tower",
+					"searchTerm": "Mahjong Emo Ta - Devilish Mahjong Tower",
 					"localNames": {
 						"chinese (traditional)": "麻将恶魔塔"
 					}
@@ -1209,6 +1228,13 @@
 			]
 		},
 		{
+			"group": "Mike Ditka Power Football",
+			"titles": [
+				{"searchTerm": "Mike Ditka Power Football"},
+				{"searchTerm": "Power Football"}
+			]
+		},
+		{
 			"group": "Miniplanets",
 			"titles": [
 				{"searchTerm": "Miniplanets"}
@@ -1221,7 +1247,7 @@
 			"group": "MUSHA - Metallic Uniframe Super Hybrid Armor",
 			"titles": [
 				{"searchTerm": "MUSHA - Metallic Uniframe Super Hybrid Armor"},
-				{"searchTerm": "Musha Aleste - Full Metal Fighter Ellinor"}
+				{"searchTerm": "Musha Aleste"}
 			]
 		},
 		{
@@ -1238,6 +1264,13 @@
 			"titles": [
 				{"searchTerm": "Maou Renjishi"},
 				{"searchTerm": "Mystical Fighter"}
+			]
+		},
+		{
+			"group": "NBA Live 95",
+			"titles": [
+				{"searchTerm": "NBA Live 95"},
+				{"searchTerm": "NBA Live Nong-gu 95"}
 			]
 		},
 		{
@@ -1281,7 +1314,7 @@
 			"group": "NHL '94",
 			"titles": [
 				{"searchTerm": "NHL '94"},
-				{"searchTerm": "NHL '94 (Re-release)", "priority": 2}
+				{"searchTerm": "NHL '94 (NHL 06)", "priority": 2}
 			]
 		},
 		{
@@ -1292,13 +1325,6 @@
 			],
 			"compilations": [
 				{"searchTerm": "EA Sports Double Header"}
-			]
-		},
-		{
-			"group": "NHLPA Hockey 93",
-			"titles": [
-				{"searchTerm": "NHLPA Hockey 93 (EA Sports)"},
-				{"searchTerm": "NHLPA Hockey 93 (EASN)", "priority": 2}
 			]
 		},
 		{
@@ -1393,14 +1419,6 @@
 			]
 		},
 		{
-			"group": "PGA Tour Golf (PGA09)",
-			"titles": [
-				{"searchTerm": "PGA Tour Golf"},
-				{"searchTerm": "PGA Tour Golf (PGA09)"},
-				{"searchTerm": "PGA Tour Golf (PGA07)", "priority": 2}
-			]
-		},
-		{
 			"group": "Phantasy Star II",
 			"titles": [
 				{"searchTerm": "Phantasy Star II"},
@@ -1432,10 +1450,10 @@
 			]
 		},
 		{
-			"group": "Pikachu (Pocket Monsters)",
+			"group": "Pikachu - Pocket Monster",
 			"titles": [
 				{
-					"searchTerm": "Pikachu (Pocket Monsters)",
+					"searchTerm": "Pikachu - Pocket Monster",
 					"localNames": {
 						"chinese (traditional)": "比卡超"
 					}
@@ -1443,10 +1461,10 @@
 			]
 		},
 		{
-			"group": "Pikachu II (Pocket Monsters II)",
+			"group": "Pikachu II - Pocket Monster II",
 			"titles": [
 				{
-					"searchTerm": "Pikachu II (Pocket Monsters II)",
+					"searchTerm": "Pikachu II - Pocket Monster II",
 					"localNames": {
 						"chinese (traditional)": "皮卡丘　Ⅱ"
 					}
@@ -1465,6 +1483,20 @@
 			"titles": [
 				{"searchTerm": "Pro Action Replay 2 (Program)"},
 				{"searchTerm": "Pro Action Replay (Program)", "priority": 2}
+			]
+		},
+		{
+			"group": "Professor Bell's House of Fortune",
+			"titles": [
+				{"searchTerm": "Bell Sensei no Uranai-kan"},
+				{"searchTerm": "Professor Bell's House of Fortune"}
+			]
+		},
+		{
+			"group": "Professor Bell's House of Fortune 2",
+			"titles": [
+				{"searchTerm": "Bell Sensei no Uranai-kan 2"},
+				{"searchTerm": "Professor Bell's House of Fortune 2"}
 			]
 		},
 		{
@@ -1580,14 +1612,6 @@
 			]
 		},
 		{
-			"group": "Road Rash II (RR206)",
-			"titles": [
-				{"searchTerm": "Road Rash II"},
-				{"searchTerm": "Road Rash II (RR206)"},
-				{"searchTerm": "Road Rash II (RR205)", "priority": 2}
-			]
-		},
-		{
 			"group": "Robot Battler",
 			"titles": [
 				{"searchTerm": "Robot Battler"}
@@ -1601,13 +1625,6 @@
 			"titles": [
 				{"searchTerm": "Rock 'n' Roll Racing"},
 				{"searchTerm": "Rock n' Roll Racing"}
-			]
-		},
-		{
-			"group": "Rocket Panda (Demo)",
-			"titles": [
-				{"searchTerm": "Rocket Panda (Demo)"},
-				{"searchTerm": "Rocket Panda (Demo) (Megacat)", "priority": 2}
 			]
 		},
 		{
@@ -1713,17 +1730,17 @@
 			]
 		},
 		{
-			"group": "Ship (Visitor)",
-			"titles": [
-				{"searchTerm": "Ship (Visitor)"},
-				{"searchTerm": "Ship (GEMS 2.5)", "priority": 2}
-			]
-		},
-		{
 			"group": "Shove It! ...The Warehouse Game",
 			"titles": [
 				{"searchTerm": "Shijou Saidai no Soukoban"},
 				{"searchTerm": "Shove It! ...The Warehouse Game"}
+			]
+		},
+		{
+			"group": "Slap Fight",
+			"titles": [
+				{"searchTerm": "Power Wing"},
+				{"searchTerm": "Slap Fight MD"}
 			]
 		},
 		{
@@ -1887,13 +1904,6 @@
 			]
 		},
 		{
-			"group": "Star Trek - The Next Generation - Echoes from the Past",
-			"titles": [
-				{"searchTerm": "Star Trek - The Next Generation"},
-				{"searchTerm": "Star Trek - The Next Generation - Echoes from the Past"}
-			]
-		},
-		{
 			"group": "Steel Empire",
 			"titles": [
 				{"searchTerm": "Empire of Steel"},
@@ -1916,6 +1926,7 @@
 		{
 			"group": "Streets of Rage",
 			"titles": [
+				{"searchTerm": "Gedou Tiequan"},
 				{
 					"searchTerm": "Streets of Rage",
 					"filters": [
@@ -2103,7 +2114,7 @@
 			"titles": [
 				{"searchTerm": "Tanglewood"},
 				{"searchTerm": "Tanglewood (Windows)", "priority": 2},
-				{"searchTerm": "Tanglewood (GOG, Itch)", "priority": 3}
+				{"searchTerm": "Tanglewood (GOG, Itch.io)", "priority": 3}
 			]
 		},
 		{
@@ -2180,14 +2191,6 @@
 			]
 		},
 		{
-			"group": "Tinhead (Spectrum HoloByte)",
-			"titles": [
-				{"searchTerm": "Tinhead"},
-				{"searchTerm": "Tinhead (Spectrum HoloByte)"},
-				{"searchTerm": "Tinhead (Ballistic)", "priority": 2}
-			]
-		},
-		{
 			"group": "Tiny Toon Adventures - Buster's Hidden Treasure",
 			"titles": [
 				{"searchTerm": "Tiny Toon Adventures"},
@@ -2218,7 +2221,7 @@
 		{
 			"group": "Tom and Jerry - Frantic Antics!",
 			"titles": [
-				{"searchTerm": "Tom and Jerry - Frantic Antics"},
+				{"searchTerm": "Tom and Jerry"},
 				{"searchTerm": "Tom and Jerry - Frantic Antics!"}
 			]
 		},
@@ -2234,7 +2237,7 @@
 			"titles": [
 				{"searchTerm": "Top Fighter 2000 MK VIII"},
 				{
-					"searchTerm": "Top Fighter 2005",
+					"searchTerm": "Top Fighter 2005 - Gedou Wang",
 					"localNames": {
 						"chinese (traditional)": "Ｔｏｐ　Ｆｉｇｈｔｅｒ　２００５－格鬥王"
 					}
@@ -2274,7 +2277,7 @@
 			"group": "Tunshi Tiandi III - Sanguo Waizhuan",
 			"titles": [
 				{
-					"searchTerm": "Tunshi Tiandi III - Sanguo Waizhuan (Chinese Fighter)",
+					"searchTerm": "Tunshi Tiandi III - Sanguo Waizhuan - Chinese Fighter",
 					"localNames": {
 						"chinese (traditional)": "吞食天地　Ⅲ　－　三国外传"
 					}
@@ -2368,6 +2371,13 @@
 			"titles": [
 				{"searchTerm": "Vixen 357"},
 				{"searchTerm": "Teshu Budui 357", "priority": 2}
+			]
+		},
+		{
+			"group": "VS Puyo Puyo Sun",
+			"titles": [
+				{"searchTerm": "Futari de Puyo Puyo Sun"},
+				{"searchTerm": "VS Puyo Puyo Sun"}
 			]
 		},
 		{
@@ -2517,6 +2527,7 @@
 		{
 			"group": "World Trophy Soccer",
 			"titles": [
+				{"searchTerm": "European Club Football"},
 				{"searchTerm": "European Club Soccer"},
 				{"searchTerm": "J. League Champion Soccer"},
 				{"searchTerm": "World Trophy Soccer"}
@@ -2583,6 +2594,7 @@
 			"group": "Zool - Ninja of the 'Nth' Dimension",
 			"titles": [
 				{"searchTerm": "Zool - Ninja of the 'Nth' Dimension"},
+				{"searchTerm": "Zool Redimensioned"},
 				{"searchTerm": "Zool", "priority": 2}
 			]
 		}

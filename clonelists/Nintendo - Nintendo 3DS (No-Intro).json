@@ -1210,6 +1210,7 @@
 		{
 			"group": "Phonics Fun with Biff, Chip & Kipper Vol. 1",
 			"categories": ["Educational"],
+			"categories": ["Educational"],
 			"titles": [
 				{"searchTerm": "Kipper no Eigo Kyoushitsu - Floppys Phonics Vol. 1 - Kipper-Hen"},
 				{"searchTerm": "Phonics Fun with Biff, Chip & Kipper Vol. 1"}
@@ -1218,6 +1219,7 @@
 		{
 			"group": "Phonics Fun with Biff, Chip & Kipper Vol. 2",
 			"categories": ["Educational"],
+			"categories": ["Educational"],
 			"titles": [
 				{"searchTerm": "Kipper no Eigo Kyoushitsu - Floppys Phonics Vol. 2 - Biff-Hen"},
 				{"searchTerm": "Phonics Fun with Biff, Chip & Kipper Vol. 2"}
@@ -1225,6 +1227,7 @@
 		},
 		{
 			"group": "Phonics Fun with Biff, Chip & Kipper Vol. 3",
+			"categories": ["Educational"],
 			"categories": ["Educational"],
 			"titles": [
 				{"searchTerm": "Kipper no Eigo Kyoushitsu - Floppys Phonics Vol. 3 - Chip-Hen"},
@@ -1250,6 +1253,10 @@
 			"titles": [
 				{"searchTerm": "Pocket Monsters Moon"},
 				{"searchTerm": "Pokemon Moon"}
+			],
+			"supersets": [
+				{"searchTerm": "Pocket Monsters Ultra Moon"},
+				{"searchTerm": "Pokemon Ultra Moon"}
 			],
 			"supersets": [
 				{"searchTerm": "Pocket Monsters Ultra Moon"},
@@ -1287,6 +1294,10 @@
 			"titles": [
 				{"searchTerm": "Pocket Monsters Sun"},
 				{"searchTerm": "Pokemon Sun"}
+			],
+			"supersets": [
+				{"searchTerm": "Pocket Monsters Ultra Sun"},
+				{"searchTerm": "Pokemon Ultra Sun"}
 			],
 			"supersets": [
 				{"searchTerm": "Pocket Monsters Ultra Sun"},
@@ -1380,7 +1391,11 @@
 		},
 		{
 			"group": "Puzzle & Dragons - Super Mario Bros. Edition",
+			"group": "Puzzle & Dragons - Super Mario Bros. Edition",
 			"titles": [
+				{"searchTerm": "Puzzle & Dragons - Super Mario Bros. Edition"}
+			],
+			"compilations": [
 				{"searchTerm": "Puzzle & Dragons - Super Mario Bros. Edition"}
 			],
 			"compilations": [

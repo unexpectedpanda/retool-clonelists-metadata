@@ -1,8 +1,8 @@
 {
 	"description": {
 		"name": "Nintendo - Super Nintendo Entertainment System (No-Intro)",
-		"lastUpdated": "2025-10-06 10:50:46",
-		"minimumVersion": "2.4.0"
+		"lastUpdated": "2026-03-14 17:49:19",
+		"minimumVersion": "2.4.8"
 	},
 	"variants": [
 		{
@@ -78,6 +78,15 @@
 			]
 		},
 		{
+			"group": "Alien Cat 2",
+			"titles": [
+				{"searchTerm": "Alien Cat 2"}
+			],
+			"supersets": [
+				{"searchTerm": "Alien Cat 2 - Enhanced Edition"}
+			]
+		},
+		{
 			"group": "Alien vs Predator",
 			"titles": [
 				{"searchTerm": "Alien vs Predator"},
@@ -85,9 +94,9 @@
 			]
 		},
 		{
-			"group": "Angelique (Premium Box)",
+			"group": "Angelique - Premium Box",
 			"titles": [
-				{"searchTerm": "Angelique (Premium Box)"},
+				{"searchTerm": "Angelique - Premium Box"},
 				{"searchTerm": "Angelique - Voice Fantasy", "priority": 2},
 				{"searchTerm": "Angelique", "priority": 3}
 			]
@@ -346,13 +355,6 @@
 			]
 		},
 		{
-			"group": "Cassette Kensaki - NUS-you S Cassette",
-			"categories": ["Applications"],
-			"titles": [
-				{"searchTerm": "Cassette Kensaki - NUS-you S Cassette"}
-			]
-		},
-		{
 			"group": "Castlevania - Dracula X",
 			"titles": [
 				{"searchTerm": "Akumajou Dracula XX"},
@@ -389,6 +391,13 @@
 			],
 			"supersets": [
 				{"searchTerm": "Classic Kong Complete"}
+			]
+		},
+		{
+			"group": "Clay Fighter",
+			"titles": [
+				{"searchTerm": "Clay Fighter"},
+				{"searchTerm": "ClayFighter"}
 			]
 		},
 		{
@@ -444,6 +453,13 @@
 			"titles": [
 				{"searchTerm": "D-Force"},
 				{"searchTerm": "Dimension-Force"}
+			]
+		},
+		{
+			"group": "David Crane's Amazing Tennis",
+			"titles": [
+				{"searchTerm": "Amazing Tennis"},
+				{"searchTerm": "David Crane's Amazing Tennis"}
 			]
 		},
 		{
@@ -737,6 +753,13 @@
 			]
 		},
 		{
+			"group": "Frank Thomas Big Hurt Baseball",
+			"titles": [
+				{"searchTerm": "Frank Thomas Big Hurt"},
+				{"searchTerm": "Frank Thomas Big Hurt Baseball"}
+			]
+		},
+		{
 			"group": "From TV Animation Slam Dunk - Yonkyou Gekitotsu!!",
 			"titles": [
 				{"searchTerm": "From TV Animation Slam Dunk - Yonkyou Gekitotsu!!"},
@@ -767,7 +790,6 @@
 		{
 			"group": "Garry Kitchen's Super Battletank - War in the Gulf",
 			"titles": [
-				{"searchTerm": "Garry Kitchen's Super Battletank"},
 				{"searchTerm": "Garry Kitchen's Super Battletank - War in the Gulf"},
 				{"searchTerm": "Super Battletank"}
 			]
@@ -784,13 +806,6 @@
 			"titles": [
 				{"searchTerm": "Genghis Khan II - Clan of the Gray Wolf"},
 				{"searchTerm": "Super Aoki Ookami to Shiroki Mejika - Genchou Hishi"}
-			]
-		},
-		{
-			"group": "George Foreman's KO Boxing",
-			"titles": [
-				{"searchTerm": "George Foreman's KO Boxing"},
-				{"searchTerm": "George Foreman's KO Boxing (Doritos Promo)", "priority": 2}
 			]
 		},
 		{
@@ -830,13 +845,6 @@
 			]
 		},
 		{
-			"group": "GunForce",
-			"titles": [
-				{"searchTerm": "GunForce"},
-				{"searchTerm": "GunForce - Battle Fire Engulfed Terror Island"}
-			]
-		},
-		{
 			"group": "Hagane - The Final Conflict",
 			"titles": [
 				{"searchTerm": "Hagane"},
@@ -851,9 +859,9 @@
 			]
 		},
 		{
-			"group": "Hammer Lock Wrestling",
+			"group": "Hammerlock Wrestling",
 			"titles": [
-				{"searchTerm": "Hammer Lock Wrestling"},
+				{"searchTerm": "Hammerlock Wrestling"},
 				{"searchTerm": "Tenryuu Genichirou no Pro Wres Revolution"}
 			]
 		},
@@ -1237,6 +1245,7 @@
 		{
 			"group": "Looney Tunes B-Ball",
 			"titles": [
+				{"searchTerm": "Looney Tunes - Hoop It Up!"},
 				{"searchTerm": "Looney Tunes B-Ball"},
 				{"searchTerm": "Looney Tunes Basketball"}
 			]
@@ -1280,8 +1289,8 @@
 		{
 			"group": "Madden NFL '94",
 			"titles": [
-				{"searchTerm": "Madden NFL '94"},
-				{"searchTerm": "NFL Pro Football '94"}
+				{"searchTerm": "John Madden NFL Pro Football '94"},
+				{"searchTerm": "Madden NFL '94"}
 			]
 		},
 		{
@@ -1289,7 +1298,7 @@
 			"titles": [
 				{"searchTerm": "Magical Drop 2"},
 				{"searchTerm": "Magical Drop II"},
-				{"searchTerm": "Magical Drop 2 (Bunka Housou Special Version)", "priority": 2}
+				{"searchTerm": "Magical Drop 2 - Bunka Housou Special Version", "priority": 2}
 			]
 		},
 		{
@@ -1415,13 +1424,6 @@
 			]
 		},
 		{
-			"group": "Metal Jack",
-			"titles": [
-				{"searchTerm": "Kikou Keisatsu Metal Jack"},
-				{"searchTerm": "Metal Jack"}
-			]
-		},
-		{
 			"group": "Metal Marines",
 			"titles": [
 				{"searchTerm": "Metal Marines"},
@@ -1433,6 +1435,13 @@
 			"titles": [
 				{"searchTerm": "Mickey Mania"},
 				{"searchTerm": "Mickey Mania - The Timeless Adventures of Mickey Mouse"}
+			]
+		},
+		{
+			"group": "Mickey's Ultimate Challenge",
+			"titles": [
+				{"searchTerm": "Mickey's Jigsaw Puzzles"},
+				{"searchTerm": "Mickey's Ultimate Challenge"}
 			]
 		},
 		{
@@ -1505,8 +1514,10 @@
 		{
 			"group": "NBA Jam",
 			"titles": [
-				{"searchTerm": "NBA Jam"},
-				{"searchTerm": "NBA Jam XXXX", "priority": 2}
+				{"searchTerm": "NBA Jam"}
+			],
+			"supersets": [
+				{"searchTerm": "NBA Jam - Tournament Edition"}
 			]
 		},
 		{
@@ -1606,6 +1617,13 @@
 				{"searchTerm": "Ninjawarriors"},
 				{"searchTerm": "Ninjawarriors - The New Generation"},
 				{"searchTerm": "Ninjawarriors Again, The"}
+			]
+		},
+		{
+			"group": "Nintendo Campus Challenge 1992",
+			"titles": [
+				{"searchTerm": "Nintendo Campus Challenge 1992"},
+				{"searchTerm": "Nintendo Challenge"}
 			]
 		},
 		{
@@ -1746,7 +1764,7 @@
 			"group": "Pink Goes to Hollywood",
 			"titles": [
 				{"searchTerm": "Pink Goes to Hollywood"},
-				{"searchTerm": "Pink Panther"}
+				{"searchTerm": "Pink Panther, The"}
 			]
 		},
 		{
@@ -1785,6 +1803,14 @@
 			]
 		},
 		{
+			"group": "Porky Pig's Haunted Holiday",
+			"titles": [
+				{"searchTerm": "Porky Pig's Haunted Holiday"},
+				{"searchTerm": "Porky Pig's Haunted Holiday (Introes)"},
+				{"searchTerm": "Porky Pig's Haunted Holiday (Subgames)"}
+			]
+		},
+		{
 			"group": "Power Instinct",
 			"titles": [
 				{"searchTerm": "Gouketsuji Ichizoku"},
@@ -1820,14 +1846,6 @@
 			]
 		},
 		{
-			"group": "Pro Action Replay",
-			"categories": ["Applications"],
-			"titles": [
-				{"searchTerm": "Pro Action Replay"},
-				{"searchTerm": "Pro Action Replay (27c256)"}
-			]
-		},
-		{
 			"group": "Pro Action Replay MK2",
 			"categories": ["Applications"],
 			"titles": [
@@ -1846,13 +1864,6 @@
 			"titles": [
 				{"searchTerm": "Pro Sport Hockey"},
 				{"searchTerm": "USA Ice Hockey"}
-			]
-		},
-		{
-			"group": "Qwak",
-			"titles": [
-				{"searchTerm": "Qwak"},
-				{"searchTerm": "Qwak (No sound)", "priority": 2}
 			]
 		},
 		{
@@ -1924,10 +1935,10 @@
 		{
 			"group": "River City Girls Zero",
 			"titles": [
-				{"searchTerm": "River City Girls Zero (RCG Translation, Switch)"},
+				{"searchTerm": "River City Girls Zero (RCG Translation)"},
 				{"searchTerm": "Shin Nekketsu Kouha - Kunio-tachi no Banka"},
 				{"searchTerm": "River City Girls Zero", "priority": 2},
-				{"searchTerm": "River City Girls Zero (Original Translation, Switch)", "priority": 2}
+				{"searchTerm": "River City Girls Zero (Original Translation)", "priority": 2}
 			]
 		},
 		{
@@ -2000,7 +2011,7 @@
 			"group": "SA1 Demonstration Program",
 			"categories": ["Applications", "Demos"],
 			"titles": [
-				{"searchTerm": "SA1 Demonstration Program"}
+				{"searchTerm": "SA1 Demonstration Program (Tech Demo)"}
 			]
 		},
 		{
@@ -2044,6 +2055,13 @@
 			"titles": [
 				{"searchTerm": "Shien - The Blade Chaser"},
 				{"searchTerm": "Shien's Revenge"}
+			]
+		},
+		{
+			"group": "Shockman Zero",
+			"titles": [
+				{"searchTerm": "Kaizou Choujin Shubibinman Zero"},
+				{"searchTerm": "Shockman Zero"}
 			]
 		},
 		{
@@ -2194,7 +2212,7 @@
 			"group": "Star Fox",
 			"titles": [
 				{"searchTerm": "Star Fox"},
-				{"searchTerm": "Star Glider"},
+				{"searchTerm": "Star Glider (Demo)"},
 				{"searchTerm": "Starwing"},
 				{"searchTerm": "Starwing - Competition", "priority": 2},
 				{"searchTerm": "Super Star Fox Weekend", "priority": 3}
@@ -2226,13 +2244,6 @@
 			"titles": [
 				{"searchTerm": "Street Fighter Alpha 2"},
 				{"searchTerm": "Street Fighter Zero 2"}
-			]
-		},
-		{
-			"group": "Street Sports - Street Hockey '95",
-			"titles": [
-				{"searchTerm": "Street Sports - Street Hockey '95"},
-				{"searchTerm": "Street Hockey '95", "priority": 2}
 			]
 		},
 		{
@@ -2339,7 +2350,7 @@
 			"group": "Super Bomberman 5",
 			"titles": [
 				{"searchTerm": "Super Bomberman 5"},
-				{"searchTerm": "Super Bomberman 5 (Caravan Event Ban)", "priority": 2}
+				{"searchTerm": "Super Bomberman 5 - Caravan Event Ban", "priority": 2}
 			]
 		},
 		{
@@ -2379,17 +2390,17 @@
 			]
 		},
 		{
-			"group": "Super Donkey",
-			"titles": [
-				{"searchTerm": "Super Donkey"},
-				{"searchTerm": "Super Donkey (Zelda no Densetsu - Kamigami no Triforce leftover data)"}
-			]
-		},
-		{
 			"group": "Super Double Dragon",
 			"titles": [
 				{"searchTerm": "Return of Double Dragon"},
 				{"searchTerm": "Super Double Dragon"}
+			]
+		},
+		{
+			"group": "Super Drift Out",
+			"titles": [
+				{"searchTerm": "Super Drift Out"},
+				{"searchTerm": "Super Drift Out - World Rally Championships"}
 			]
 		},
 		{
@@ -2417,15 +2428,15 @@
 			"group": "Super Formation Soccer 95 - della Serie A",
 			"titles": [
 				{"searchTerm": "Super Formation Soccer 95 - della Serie A"},
-				{"searchTerm": "Super Formation Soccer 95 - della Serie A (UCC Xaqua Version)", "priority": 2}
+				{"searchTerm": "Super Formation Soccer 95 - della Serie A - UCC Xaqua Version", "priority": 2}
 			]
 		},
 		{
 			"group": "Super Formation Soccer II",
 			"titles": [
+				{"searchTerm": "Copa Libertadores 3"},
 				{"searchTerm": "Super Formation Soccer II"},
-				{"searchTerm": "Copa Libertadores 3", "priority": 2},
-				{"searchTerm": "Descentralizado 1993", "priority": 3}
+				{"searchTerm": "Descentralizado 1993", "priority": 2}
 			]
 		},
 		{
@@ -2459,7 +2470,7 @@
 		{
 			"group": "Super Godzilla",
 			"titles": [
-				{"searchTerm": "Chou Gojira - Super Godzilla"},
+				{"searchTerm": "Chou Gojira"},
 				{"searchTerm": "Super Godzilla"}
 			]
 		},
@@ -2650,13 +2661,6 @@
 			]
 		},
 		{
-			"group": "Super Turrican 2 Special Edition",
-			"titles": [
-				{"searchTerm": "Super Turrican 2 Special Edition"},
-				{"searchTerm": "Super Turrican 2", "priority": 2}
-			]
-		},
-		{
 			"group": "Super Turrican Collection",
 			"titles": [
 				{"searchTerm": "Super Turrican Collection"},
@@ -2705,7 +2709,7 @@
 			"group": "Tengai Makyou Zero",
 			"titles": [
 				{"searchTerm": "Tengai Makyou Zero"},
-				{"searchTerm": "Tengai Makyou Zero (Shounen Jump no Shou)", "priority": 2}
+				{"searchTerm": "Tengai Makyou Zero - Shounen Jump no Shou", "priority": 2}
 			]
 		},
 		{
@@ -2727,13 +2731,6 @@
 			"titles": [
 				{"searchTerm": "Panel de Pon"},
 				{"searchTerm": "Tetris Attack"}
-			]
-		},
-		{
-			"group": "Timeslip",
-			"titles": [
-				{"searchTerm": "Timeslip"},
-				{"searchTerm": "Time Slip", "priority": 2}
 			]
 		},
 		{
@@ -2903,8 +2900,11 @@
 		{
 			"group": "Ultimate Fighter",
 			"titles": [
-				{"searchTerm": "Hiryuu no Ken S - Hyper Version"},
+				{"searchTerm": "Hiryuu no Ken S - Golden Fighter"},
 				{"searchTerm": "Ultimate Fighter"}
+			],
+			"supersets": [
+				{"searchTerm": "Hiryuu no Ken S - Hyper Version"}
 			]
 		},
 		{
@@ -2943,6 +2943,13 @@
 			]
 		},
 		{
+			"group": "Vortex",
+			"titles": [
+				{"searchTerm": "Vortex"},
+				{"searchTerm": "Vortex - The FX Robot Battle"}
+			]
+		},
+		{
 			"group": "We're Back! - A Dinosaur's Story",
 			"titles": [
 				{"searchTerm": "We're Back! - A Dinosaur's Story"},
@@ -2957,10 +2964,10 @@
 			]
 		},
 		{
-			"group": "Wild Snake",
+			"group": "Wildsnake",
 			"titles": [
 				{"searchTerm": "Super Snakey"},
-				{"searchTerm": "Wild Snake"}
+				{"searchTerm": "Wildsnake"}
 			]
 		},
 		{
@@ -3103,6 +3110,7 @@
 		{
 			"group": "Zombies Ate My Neighbors",
 			"titles": [
+				{"searchTerm": "Monsters"},
 				{"searchTerm": "Zombies"},
 				{"searchTerm": "Zombies Ate My Neighbors"}
 			]

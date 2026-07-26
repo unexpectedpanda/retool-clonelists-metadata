@@ -45,10 +45,6 @@
             "sha1": "40b7fc321bd666df82f6ad70b792231d414979d6"
         },
         {
-            "name": "Bomberman Online (Subset - Multi)",
-            "sha1": "05cafea6b6b321743f605911e8cac984ab7f1b1b"
-        },
-        {
             "name": "Bomberman Online (USA)",
             "sha1": "53a111392d3cde24e435edc01c5f73204fdad026"
         },
@@ -185,6 +181,10 @@
             "sha1": "f7caf06e263578d78a435152dc2d9d1cc3322a5f"
         },
         {
+            "name": "Garou - Mark of the Wolves (Japan)",
+            "sha1": "b7c5b34925870f2a171e8a65cd028a9428af37b5"
+        },
+        {
             "name": "Gauntlet Legends (USA)",
             "sha1": "946edea9196f8acf3938a819712b98e1d29abd24"
         },
@@ -299,6 +299,10 @@
             "sha1": "e4912aa9bed208a7858c6418e4241370fa11a1d3"
         },
         {
+            "name": "NFL 2K (USA)",
+            "sha1": "1eb25540877657ce5f124451d2cd9f484cd22d66"
+        },
+        {
             "name": "Nakoruru - Ano Hito kara no Okurimono (Japan) (En) (v1.2) (Derek Pascarella)",
             "sha1": "b5b81a1c9fcafe3f34f4fa038249419fa359c853"
         },
@@ -353,10 +357,6 @@
         {
             "name": "Project Justice (USA)",
             "sha1": "a8033087e56d92474696fb617ab20c4315762e4f"
-        },
-        {
-            "name": "Puyo Puyo Da! (Subset - Full Chain)",
-            "sha1": "31e7ec959206fc62064e529ff6303c32ae10c4d1"
         },
         {
             "name": "Puyo Puyo Da! Featuring Ellena System (Japan)",
@@ -521,10 +521,10 @@
             "sha1": "e64dd878be1096d95c221ce06db13faceb1be8db"
         },
         {
-            "name": "Shenmue (Subset - Notebook Challenge)",
-            "crc": "1f7886d1",
-            "md5": "db031b2acfbf9bf3395debdd06c45b00",
-            "sha1": "0616a022259989f973597b07936ab59625bc6e37"
+            "name": "Shenmue (Specialty Subset - Notebook Challenge)",
+            "crc": "511ec3a1",
+            "md5": "572fc48e6e04a9708d5daec4a848016e",
+            "sha1": "6e89758236e9a692461ac313f713b963ed87bb0b"
         },
         {
             "name": "Shin Seiki Evangelion - Typing E Keikaku (Japan)",
@@ -553,8 +553,8 @@
         {
             "name": "Skies of Arcadia (Europe) (Ru) (v6.0) (Vector)",
             "crc": "b07ea2b0",
-            "md5": "db0787179cf68f5861a6a573b13f5316065e952a",
-            "sha1": "6886becb2fe0dfeeb92aa47378c9239b"
+            "md5": "6886becb2fe0dfeeb92aa47378c9239b",
+            "sha1": "db0787179cf68f5861a6a573b13f5316065e952a"
         },
         {
             "name": "Sonic Adventure (Subset - Chao Garden)",
@@ -617,6 +617,10 @@
             "sha1": "e3e219c5707bc599cb5d0ae646e56a2f2fbed88b"
         },
         {
+            "name": "South Park Rally (Europe) (En,Fr,De,Es)",
+            "sha1": "2bbc24ba97dd9398bc37e623ab0b8008aed8b41a"
+        },
+        {
             "name": "Space Channel 5 (Europe) (En,Fr,De,Es)",
             "sha1": "cca06a1940d3626d86f05d9d57f063f9c3ab2edc"
         },
@@ -635,10 +639,6 @@
         {
             "name": "Street Fighter Alpha 3 (USA)",
             "sha1": "971004d528d49a55cf6d27562c0c64fc82be446f"
-        },
-        {
-            "name": "Street Fighter III - 3rd Strike (Subset - Master Street Fighter)",
-            "sha1": "0dbe6ec7337d1e413c2c1bb15c09ec41956c7a1a"
         },
         {
             "name": "Street Fighter III - 3rd Strike (USA)",
@@ -731,6 +731,10 @@
         {
             "name": "Who Wants to Be a Millionaire (Europe)",
             "sha1": "baa41b5616109b15f388734f105b18c586e5a1ef"
+        },
+        {
+            "name": "Wolflame (USA, Japan) (Aftermarket)",
+            "sha1": "96aa0751e81ec5ecb0cced7b2fc4ffdd8d124fb2"
         }
     ]
 }

@@ -1,8 +1,8 @@
 {
 	"description": {
 		"name": "Sega - Mega CD & Sega CD (Redump)",
-		"lastUpdated": "2025-10-06 10:50:46",
-		"minimumVersion": "2.4.0"
+		"lastUpdated": "2026-01-18 16:35:08",
+		"minimumVersion": "2.4.8"
 	},
 	"variants": [
 		{
@@ -287,13 +287,6 @@
 				{"searchTerm": "Beast II"},
 				{"searchTerm": "Shadow of the Beast II"},
 				{"searchTerm": "Shadow of the Beast II - Juushin no Jubaku"}
-			]
-		},
-		{
-			"group": "Silpheed (Demo)",
-			"titles": [
-				{"searchTerm": "Silpheed (Demo) (Fixed Dump)"},
-				{"searchTerm": "Silpheed (Demo)", "priority": 2}
 			]
 		},
 		{

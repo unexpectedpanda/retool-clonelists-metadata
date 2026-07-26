@@ -1,10 +1,86 @@
 {
 	"description": {
 		"name": "Sony - PlayStation Vita (PSN) (Content) (No-Intro)",
-		"lastUpdated": "2025-10-06 10:50:46",
-		"minimumVersion": "2.4.0"
+		"lastUpdated": "2026-01-18 06:55:05",
+		"minimumVersion": "2.4.8"
 	},
 	"variants": [
+		{
+			"group": "A Certain Magical Virtual-On",
+			"titles": [
+				{"searchTerm": "A Certain Magical Virtual-On"},
+				{"searchTerm": "Toaru Majutsu no Virtual-On"}
+			]
+		},
+		{
+			"group": "Atelier Firis - The Alchemist and the Mysterious Journey",
+			"titles": [
+				{"searchTerm": "Atelier Firis - The Alchemist and the Mysterious Journey"},
+				{"searchTerm": "Atelier Firis Fushigi na Tabi no Renkinjutsushi"}
+			]
+		},
+		{
+			"group": "Bard's Gold",
+			"titles": [
+				{"searchTerm": "Bard's Gold"}
+			],
+			"supersets": [
+				{"searchTerm": "Bard's Gold Complete Edition"}
+			]
+		},
+		{
+			"group": "Deka Mori Senran Kagura",
+			"titles": [
+				{"searchTerm": "Deka Mori Senran Kagura"},
+				{"searchTerm": "Dekamori Senran Kagura"}
+			]
+		},
+		{
+			"group": "Digimon Story Cyber Sleuth - Hacker's Memory - TV Anime Sound Edition",
+			"titles": [
+				{"searchTerm": "Digimon Story Cyber Sleuth - Hacker's Memory - Digimon 20th Anniversary Edition"},
+				{"searchTerm": "Digimon Story Cyber Sleuth - Hacker's Memory - TV Anime Sound Edition", "priority": 2}
+			]
+		},
+		{
+			"group": "Disney Infinity - 2.0 Edition - Marvel Super Heroes",
+			"titles": [
+				{"searchTerm": "Disney Infinity 2.0"},
+				{"searchTerm": "Disney Infinity - 2.0 Edition - Marvel Super Heroes"}
+			]
+		},
+		{
+			"group": "FIFA 13",
+			"titles": [
+				{"searchTerm": "FIFA 13"},
+				{"searchTerm": "FIFA 13 - World Class Soccer"},
+				{"searchTerm": "FIFA Soccer 13"}
+			]
+		},
+		{
+			"group": "FIFA 14",
+			"titles": [
+				{"searchTerm": "FIFA 14"},
+				{"searchTerm": "FIFA 14 - World Class Soccer"}
+			]
+		},
+		{
+			"group": "FIFA Football",
+			"titles": [
+				{"searchTerm": "FIFA Football"},
+				{"searchTerm": "FIFA Soccer"},
+				{"searchTerm": "FIFA World Class Soccer"}
+			]
+		},
+		{
+			"group": "Jikkyou Powerful Pro Yakyuu 2012",
+			"titles": [
+				{"searchTerm": "Jikkyou Powerful Pro Yakyuu 2012"}
+			],
+			"supersets": [
+				{"searchTerm": "Jikkyou Powerful Pro Yakyuu 2012 Ketteiban"}
+			]
+		},
 		{
 			"group": "LEGO Movie Videogame, The",
 			"titles": [
@@ -26,6 +102,41 @@
 			]
 		},
 		{
+			"group": "Mobile Suit Gundam - Extreme VS-Force",
+			"titles": [
+				{"searchTerm": "Mobile Suit Gundam - Extreme VS-Force"},
+				{"searchTerm": "Mobile Suit Gundam Extreme VS-Force"}
+			]
+		},
+		{
+			"group": "One Piece - Burning Blood",
+			"titles": [
+				{"searchTerm": "One Piece - Burning Blood"}
+			],
+			"supersets": [
+				{"searchTerm": "One Piece - Burning Blood (Anison Sound Edition)"}
+			]
+		},
+		{
+			"group": "Root Letter",
+			"titles": [
+				{"searchTerm": "Root Letter"}
+			],
+			"supersets": [
+				{"searchTerm": "Root Letter - Last Answer"}
+			]
+		},
+		{
+			"group": "Sly 3 - Honor Among Thieves",
+			"titles": [
+				{"searchTerm": "Sly 3 - Honor Among Thieves", "priority": 2}
+			],
+			"compilations": [
+				{"searchTerm": "Sly Collection, The"},
+				{"searchTerm": "Sly Cooper Collection"}
+			]
+		},
+		{
 			"group": "Stranger of Sword City",
 			"titles": [
 				{
@@ -43,6 +154,16 @@
 						}
 					]
 				}
+			]
+		},
+		{
+			"group": "Winning Post 8",
+			"titles": [
+				{"searchTerm": "Winning Post 8 2018"},
+				{"searchTerm": "Winning Post 8 2017", "priority": 2},
+				{"searchTerm": "Winning Post 8 2016", "priority": 3},
+				{"searchTerm": "Winning Post 8 2015", "priority": 4},
+				{"searchTerm": "Winning Post 8", "priority": 5}
 			]
 		}
 	]

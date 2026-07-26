@@ -1,0 +1,24 @@
+{
+	"description": {
+		"name": "Arcade - Sega - Lindbergh (Redump)",
+		"lastUpdated": "2026-01-18 16:35:07",
+		"minimumVersion": "2.4.8"
+	},
+	"variants": [
+		{
+			"group": "Hummer - Extreme Edition",
+			"titles": [
+				{"searchTerm": "Hummer - Extreme Edition [STD] (Lindbergh Yellow)"},
+				{"searchTerm": "Hummer - Extreme Edition [MDX] (Lindbergh Yellow)", "priority": 2}
+			]
+		},
+		{
+			"group": "Initial D - Arcade Stage 5",
+			"titles": [
+				{"searchTerm": "Initial D - Arcade Stage 5 (Lindbergh Yellow)"},
+				{"searchTerm": "Initial D - Arcade Stage 5 (DVP-0084) (Lindbergh Yellow)", "priority": 2},
+				{"searchTerm": "Initial D - Arcade Stage 5 (DVP-0075) (Lindbergh Yellow)", "priority": 3}
+			]
+		}
+	]
+}

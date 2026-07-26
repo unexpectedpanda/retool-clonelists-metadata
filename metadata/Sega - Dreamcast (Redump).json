@@ -198,11 +198,11 @@
 		"languages": ["Ja"],
 		"localName": "あつまれ！ぐるぐる温泉"
 	},
-	"Atsumare! Guru Guru Onsen (Japan) (Demo 1)": {
+	"Atsumare! Guru Guru Onsen (Japan) (Taikenban 1)": {
 		"languages": ["Ja"],
 		"localName": "あつまれ！ぐるぐる温泉"
 	},
-	"Atsumare! Guru Guru Onsen (Japan) (Demo 2)": {
+	"Atsumare! Guru Guru Onsen (Japan) (Taikenban 2)": {
 		"languages": ["Ja"],
 		"localName": "あつまれ！ぐるぐる温泉"
 	},
@@ -523,9 +523,9 @@
 		"languages": ["Ja"],
 		"localName": "ショコラ　～ｍａｉｄ　ｃａｆｅ　“ｃｕｒｉｏ”～"
 	},
-	"Chocolat - Maid Cafe Curio (Japan) (Demo)": {
+	"Chocolat - Maid Cafe Curio (Japan) (Taikenban)": {
 		"languages": ["Ja"],
-		"localName": "ショコラ　－ｍａｉｄ　ｃａｆｅ　“ｃｕｒｉｏ”－"
+		"localName": "ショコラ　ｍａｉｄ　ｃａｆｅ　“ｃｕｒｉｏ”"
 	},
 	"Chou Hatsumei Boy Kanipan - Bousou Robot no Nazo! (Japan)": {
 		"languages": ["Ja"],
@@ -630,8 +630,8 @@
 		"languages": ["En"],
 		"localName": "コズミックスマッシュ"
 	},
-	"Crazy Taxi (Europe)": {
-		"languages": ["En"]
+	"Crazy Taxi (Europe) (En,Ja)": {
+		"languages": ["En", "Ja"]
 	},
 	"Crazy Taxi (Japan)": {
 		"languages": ["Ja"],
@@ -1408,6 +1408,9 @@
 		"languages": ["Ja"],
 		"localName": "エリュシオン　～永遠のサンクチュアリ～"
 	},
+	"Equalizer Xtreme (France) (Unl)": {
+		"languages": ["Fr"]
+	},
 	"Erde - Nezu no Ki no Shita de (Japan)": {
 		"languages": ["Ja"],
 		"localName": "Ｅｒｄｅ　～ネズの樹の下で～"
@@ -1500,7 +1503,7 @@
 		"languages": ["En"]
 	},
 	"Evolution 2 - Far Off Promise (Europe)": {
-		"languages": []
+		"languages": ["En"]
 	},
 	"Evolution 2 - Far Off Promise (USA)": {
 		"languages": ["En"]
@@ -1757,6 +1760,9 @@
 		"localName": "ジャイアントグラム２０００　全日本プロレス３栄光の勇者達"
 	},
 	"Giant Killers (Europe) (Beta) (2001-01-09)": {
+		"languages": ["En"]
+	},
+	"Giant Killers (Europe) (Beta) (2001-01-31)": {
 		"languages": ["En"]
 	},
 	"GigaWing (Europe)": {
@@ -2051,7 +2057,7 @@
 	"Hydro Thunder (USA) (Rev 1)": {
 		"languages": ["En"]
 	},
-	"Idol Janshi o Tsukucchaou (Japan)": {
+	"Idol Janshi o Tsukutchaou (Japan)": {
 		"languages": ["Ja"],
 		"localName": "アイドル雀士をつくっちゃおう♡"
 	},
@@ -3176,8 +3182,8 @@
 	"Planet DC Cheats Volume 2 (UK) (Unl)": {
 		"languages": ["En"]
 	},
-	"Planet Ring (Europe) (En,Fr,De,Es)": {
-		"languages": ["De", "En", "Es", "Fr"]
+	"Planet Ring (Europe) (En,Fr,De,Es,It)": {
+		"languages": ["De", "En", "Es", "Fr", "It"]
 	},
 	"Plasma Sword - Nightmare of Bilstein (Europe)": {
 		"languages": ["En"]
@@ -3514,7 +3520,7 @@
 		"localName": "ロードス島戦記　邪神降臨"
 	},
 	"Record of Lodoss War - The Advent of Cardice (Japan) (Taikenban)": {
-		"languages": [],
+		"languages": ["Ja"],
 		"localName": "ロードス島戦記　邪神降臨"
 	},
 	"Red Dog - Superior Firepower (Europe) (En,Fr,De,Es)": {
@@ -3624,7 +3630,7 @@
 	"Ring, The - Terror's Realm (USA)": {
 		"languages": ["En"]
 	},
-	"Rippin' Riders (USA)": {
+	"Rippin' Riders Snowboarding (USA)": {
 		"languages": ["En"]
 	},
 	"Roadsters (Europe) (En,Fr,De,Es,It,Nl)": {
@@ -3656,9 +3662,6 @@
 	"Rune Jade (Japan)": {
 		"languages": ["Ja"],
 		"localName": "ルーンジェイド"
-	},
-	"Rush 2049 (Europe) (En,De,Es,It,Nl,Fi) (Beta) (2000-08-07)": {
-		"languages": ["De", "En", "Es", "Fi", "It", "Nl"]
 	},
 	"Rush Rush Rally Racing (Europe) (Unl)": {
 		"languages": ["En"]
@@ -3700,6 +3703,10 @@
 		"localName": "さくらももこ劇場　コジコジ"
 	},
 	"Sakura Taisen (Japan) (Disc 1)": {
+		"languages": ["Ja"],
+		"localName": "サクラ大戦"
+	},
+	"Sakura Taisen (Japan) (Disc 1) (Rev A)": {
 		"languages": ["Ja"],
 		"localName": "サクラ大戦"
 	},
@@ -3813,6 +3820,9 @@
 		"languages": ["Ja"]
 	},
 	"San Francisco Rush 2049 (Europe) (En,Fr,De,Es,It,Nl)": {
+		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
+	},
+	"San Francisco Rush 2049 (Europe) (En,Fr,De,Es,It,Nl) (Beta) (2000-08-07)": {
 		"languages": ["De", "En", "Es", "Fr", "It", "Nl"]
 	},
 	"San Francisco Rush 2049 (USA) (En,Fr,De,Es,It,Nl)": {
@@ -4191,8 +4201,8 @@
 	"Snow Surfers (Europe)": {
 		"languages": ["En"]
 	},
-	"Soldier of Fortune (Europe)": {
-		"languages": ["En"]
+	"Soldier of Fortune (Europe) (En,Fr,De)": {
+		"languages": ["De", "En", "Fr"]
 	},
 	"Soldier of Fortune (USA)": {
 		"languages": ["En"]
@@ -4204,11 +4214,11 @@
 		"languages": ["Ja"],
 		"localName": "ソニック　アドベンチャー"
 	},
-	"Sonic Adventure (USA)": {
-		"languages": []
-	},
 	"Sonic Adventure (USA) (Demo)": {
 		"languages": ["En"]
+	},
+	"Sonic Adventure (USA) (En,Ja,Fr,De,Es)": {
+		"languages": ["De", "En", "Es", "Fr", "Ja"]
 	},
 	"Sonic Adventure (USA) (En,Ja,Fr,De,Es) (Rev A)": {
 		"languages": ["De", "En", "Es", "Fr", "Ja"]
@@ -4382,8 +4392,8 @@
 		"localName": "スターグラディエイター２　～ナイトメアオブビルシュタイン～"
 	},
 	"Star Gladiator 2 - Nightmare of Bilstein (Japan) (Tentou Taikenban)": {
-		"languages": ["Ja"],
-		"localName": "スターグラディエイター２　～ナイトメアオブビルシュタイン～"
+		"languages": ["En"],
+		"localName": "スターグラディエイター２　ナイトメア　オブ　ビルシュタイン"
 	},
 	"Star Wars - Demolition (Europe)": {
 		"languages": ["En"]
@@ -4557,7 +4567,7 @@
 		"localName": "スーパーストリートファイターⅡＸ　フォー　マッチング　サービス"
 	},
 	"Surf Rocket Racers (Europe)": {
-		"languages": []
+		"languages": ["En"]
 	},
 	"Surf Rocket Racers (USA)": {
 		"languages": ["En"]
@@ -4695,7 +4705,7 @@
 		"languages": ["En"]
 	},
 	"Tokyo Highway Challenge 2 (Europe)": {
-		"languages": []
+		"languages": ["En"]
 	},
 	"Tokyo Xtreme Racer (USA)": {
 		"languages": ["En"]
@@ -5012,8 +5022,8 @@
 	"Virtua Tennis - Sega Professional Tennis (Europe) (En,Fr,De,Es) (Beta) (2000-07-14)": {
 		"languages": ["De", "En", "Es", "Fr"]
 	},
-	"Virtua Tennis 2 - Sega Professional Tennis (Europe) (En,Fr,De,Es)": {
-		"languages": ["De", "En", "Es", "Fr"]
+	"Virtua Tennis 2 - Sega Professional Tennis (Europe) (En,Ja,Fr,De,Es)": {
+		"languages": ["De", "En", "Es", "Fr", "Ja"]
 	},
 	"Visual Park (Japan)": {
 		"languages": ["Ja"],
@@ -5172,7 +5182,7 @@
 	},
 	"Yoshia no Oka de Nekoronde... (Japan)": {
 		"languages": ["Ja"],
-		"localName": "吉亜の丘で寝ころんで・・・"
+		"localName": "吉亜の丘で寝ころんで…"
 	},
 	"Yu Suzuki Game Works Vol. 1 (Japan)": {
 		"languages": ["Ja"],
@@ -5195,7 +5205,7 @@
 		"localName": "夢のつばさ　Ｆａｔｅ　ｏｆ　Ｈｅａｒｔ"
 	},
 	"Yuukyuu Gensoukyoku 3 - Perpetual Blue (Japan)": {
-		"languages": [],
+		"languages": ["Ja"],
 		"localName": "悠久幻想曲３　パーペチュアルブルー"
 	},
 	"Zero Gunner 2 (Japan)": {

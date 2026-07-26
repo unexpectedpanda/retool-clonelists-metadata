@@ -1,8 +1,8 @@
 {
 	"description": {
 		"name": "Sony - PlayStation Portable (Redump)",
-		"lastUpdated": "2025-10-06 10:50:46",
-		"minimumVersion": "2.4.0"
+		"lastUpdated": "2026-06-13 10:43:10",
+		"minimumVersion": "2.4.8"
 	},
 	"variants": [
 		{
@@ -54,7 +54,7 @@
 			"titles": [
 				{"searchTerm": "Ape Escape"},
 				{"searchTerm": "Ape Escape - On the Loose"},
-				{"searchTerm": "Piposarugetchu P"},
+				{"searchTerm": "Piposaru Get You P!"},
 				{"searchTerm": "Saru! Get You! P!"}
 			]
 		},
@@ -64,7 +64,7 @@
 				{"searchTerm": "Ape Academy"},
 				{"searchTerm": "Ape Escape Academy"},
 				{"searchTerm": "Piposaru Academia - Dossari! Saruge Daizenshuu"},
-				{"searchTerm": "Piposaru Academia - Sagomungchi Neungryeokpyeongga Wanjeonjeongbog"}
+				{"searchTerm": "Piposaru Academia - Sagomungchi Neungryeokpyeongga Wanjeonjeongbok"}
 			]
 		},
 		{
@@ -275,7 +275,7 @@
 		{
 			"group": "Crash Tag Team Racing",
 			"titles": [
-				{"searchTerm": "Crash Bandicoot - Gacchanko World"},
+				{"searchTerm": "Crash Bandicoot - Gatchanko World"},
 				{"searchTerm": "Crash Tag Team Racing"}
 			]
 		},
@@ -367,10 +367,17 @@
 			]
 		},
 		{
+			"group": "Aedis Eclipse - Generation of Chaos",
+			"titles": [
+				{"searchTerm": "Aedis Eclipse - Generation of Chaos"},
+				{"searchTerm": "Edith Memories - Sincheon Magye GOC V"}
+			]
+		},
+		{
 			"group": "Disney-Pixar Ratatouille",
 			"titles": [
-				{"searchTerm": "Disney - Pixar Ratatouille"},
-				{"searchTerm": "Disney - Pixar Rottatouille"},
+				{"searchTerm": "Disney-Pixar Ratatouille"},
+				{"searchTerm": "Disney-Pixar Rottatouille"},
 				{"searchTerm": "Disney-Pixar Ratatouille"},
 				{"searchTerm": "Disney-Pixar Ratatui"}
 			]
@@ -385,7 +392,6 @@
 		{
 			"group": "Disney-Pixar Up",
 			"titles": [
-				{"searchTerm": "Disney - Pixar Up"},
 				{"searchTerm": "Disney-Pixar Oben"},
 				{"searchTerm": "Disney-Pixar Psila ston Ourano"},
 				{"searchTerm": "Disney-Pixar Up"},
@@ -486,7 +492,8 @@
 			"group": "Dynasty Warriors - Strikeforce",
 			"titles": [
 				{"searchTerm": "Dynasty Warriors - Strikeforce"},
-				{"searchTerm": "Shin Sangoku Musou - Multi Raid"}
+				{"searchTerm": "Shin Sangoku Musou - Multi Raid"},
+				{"searchTerm": "Jin Samguk Mussang - Multi Raid"}
 			]
 		},
 		{
@@ -544,7 +551,7 @@
 			"group": "F1 Grand Prix",
 			"titles": [
 				{"searchTerm": "F1 Grand Prix"},
-				{"searchTerm": "Formula 1 - F1 05 Portable"}
+				{"searchTerm": "Formula One 2005 Portable"}
 			]
 		},
 		{
@@ -552,7 +559,8 @@
 			"titles": [
 				{"searchTerm": "FIFA 14"},
 				{"searchTerm": "FIFA 14 - Edicion Legado"},
-				{"searchTerm": "FIFA 14 - Legacy Edition"}
+				{"searchTerm": "FIFA 14 - Legacy Edition"},
+				{"searchTerm": "FIFA 14 - World Class Soccer"}
 			]
 		},
 		{
@@ -580,21 +588,24 @@
 			"group": "FIFA Soccer 09",
 			"titles": [
 				{"searchTerm": "FIFA 09"},
-				{"searchTerm": "FIFA Soccer 09"}
+				{"searchTerm": "FIFA Soccer 09"},
+				{"searchTerm": "FIFA 09 - World Class Soccer"}
 			]
 		},
 		{
 			"group": "FIFA Soccer 10",
 			"titles": [
 				{"searchTerm": "FIFA 10"},
-				{"searchTerm": "FIFA Soccer 10"}
+				{"searchTerm": "FIFA Soccer 10"},
+				{"searchTerm": "FIFA 10 - World Class Soccer"}
 			]
 		},
 		{
 			"group": "FIFA Soccer 11",
 			"titles": [
 				{"searchTerm": "FIFA 11"},
-				{"searchTerm": "FIFA Soccer 11"}
+				{"searchTerm": "FIFA Soccer 11"},
+				{"searchTerm": "FIFA 11 - World Class Soccer"}
 			]
 		},
 		{
@@ -609,7 +620,8 @@
 			"group": "FIFA Soccer 13",
 			"titles": [
 				{"searchTerm": "FIFA 13"},
-				{"searchTerm": "FIFA Soccer 13"}
+				{"searchTerm": "FIFA Soccer 13"},
+				{"searchTerm": "FIFA 13 - World Class Soccer"}
 			]
 		},
 		{
@@ -626,13 +638,6 @@
 			"titles": [
 				{"searchTerm": "Final Fantasy"},
 				{"searchTerm": "Final Fantasy - 20th Anniversary Edition"}
-			]
-		},
-		{
-			"group": "Final Fantasy II - 20th Anniversary Edition",
-			"titles": [
-				{"searchTerm": "Final Fantasy II"},
-				{"searchTerm": "Final Fantasy II - 20th Anniversary Edition"}
 			]
 		},
 		{
@@ -667,8 +672,33 @@
 		{
 			"group": "Formula One 06",
 			"titles": [
-				{"searchTerm": "F1 06 Portable"},
+				{"searchTerm": "Formula One 2006 Portable"},
 				{"searchTerm": "Formula One 06"}
+			]
+		},
+		{
+			"group": "Heart no Kuni no Alice - Wonderful Wonder World (Disc 1)",
+			"titles": [
+				{"searchTerm": "Heart no Kuni no Alice - Wonderful Wonder World (Disc 1)"}
+			],
+			"supersets": [
+				{"searchTerm": "Heart no Kuni no Alice - Anniversary Ver - Wonderful Wonder World"}
+			]
+		},
+		{
+			"group": "Heart no Kuni no Alice - Wonderful Wonder World (Disc 2)",
+			"titles": [
+				{"searchTerm": "Heart no Kuni no Alice - Wonderful Wonder World (Disc 2)"}
+			],
+			"supersets": [
+				{"searchTerm": "Heart no Kuni no Alice - Anniversary Ver - Wonderful Wonder World"}
+			]
+		},
+		{
+			"group": "Frantix",
+			"titles": [
+				{"searchTerm": "Frantix"},
+				{"searchTerm": "Frantix - Kirakira Nazotoki Daibouken"}
 			]
 		},
 		{
@@ -677,7 +707,7 @@
 				{"searchTerm": "Frontier Gate"}
 			],
 			"supersets": [
-				{"searchTerm": "Frontier Gate Boost +"}
+				{"searchTerm": "Frontier Gate Boost+"}
 			]
 		},
 		{
@@ -743,6 +773,13 @@
 			]
 		},
 		{
+			"group": "Ghost in the Shell - Stand Alone Complex",
+			"titles": [
+				{"searchTerm": "Ghost in the Shell - Stand Alone Complex"},
+				{"searchTerm": "Koukaku Kidoutai - Stand Alone Complex - Kariudo no Ryouiki"}
+			]
+		},
+		{
 			"group": "God of War - Ghost of Sparta",
 			"titles": [
 				{"searchTerm": "God of War - Ghost of Sparta"},
@@ -757,6 +794,13 @@
 				{"searchTerm": "Padrino, El"},
 				{"searchTerm": "Padrino, Il"},
 				{"searchTerm": "Pate, Der"}
+			]
+		},
+		{
+			"group": "WWE SmackDown vs. Raw 2006",
+			"titles": [
+				{"searchTerm": "Exciting Pro Wrestling 7 - SmackDown! vs. RAW 2006"},
+				{"searchTerm": "WWE SmackDown vs. Raw 2006"}
 			]
 		},
 		{
@@ -850,10 +894,19 @@
 			]
 		},
 		{
-			"group": "Hatsune Miku - Project Diva 2nd (Okaidoku-ban)",
+			"group": "Hatsune Miku - Project Diva 2nd (Okaidokuban)",
 			"titles": [
-				{"searchTerm": "Hatsune Miku - Project Diva 2nd (Okaidoku-ban)"},
+				{"searchTerm": "Hatsune Miku - Project Diva 2nd (Okaidokuban)"},
 				{"searchTerm": "Hatsune Miku - Project Diva 2nd", "priority": 2}
+			]
+		},
+		{
+			"group": "Mahjong Haou Portable - Dankyuu Battle",
+			"titles": [
+				{"searchTerm": "Mahjong Haou Portable - Dankyuu Battle"}
+			],
+			"supersets": [
+				{"searchTerm": "Mahjong Haou Portable - Dankyuu Battle Special"}
 			]
 		},
 		{
@@ -887,6 +940,20 @@
 				{"searchTerm": "Everybody's Tennis"},
 				{"searchTerm": "Hot Shots Tennis - Get a Grip"},
 				{"searchTerm": "Minna no Tennis Portable"}
+			]
+		},
+		{
+			"group": "ModNation Racers",
+			"titles": [
+				{"searchTerm": "ModNation Racers"},
+				{"searchTerm": "ModNation - Mugen no Kart Oukoku Portable"}
+			]
+		},
+		{
+			"group": "Rainbow Islands Evolution",
+			"titles": [
+				{"searchTerm": "Rainbow Islands Evolution"},
+				{"searchTerm": "New Rainbow Island - Hurdy Gurdy Daibouken!!"}
 			]
 		},
 		{
@@ -960,12 +1027,41 @@
 			]
 		},
 		{
+			"group": "Con, The",
+			"titles": [
+				{"searchTerm": "Con, The"},
+				{"searchTerm": "Con, The - Gamble Fight"}
+			]
+		},
+		{
+			"group": "Coded Arms - Contagion",
+			"titles": [
+				{"searchTerm": "Coded Arms - Contagion"},
+				{"searchTerm": "Coded Gun - Contagion"}
+			]
+		},
+		{
 			"group": "Kingdom of Paradise",
 			"titles": [
 				{"searchTerm": "Key of Heaven"},
 				{"searchTerm": "Kingdom of Paradise"},
 				{"searchTerm": "Tenchi no Mon"},
+				{"searchTerm": "Cheonjiui Mun"},
 				{"searchTerm": "Tiandi Zhi Men"}
+			]
+		},
+		{
+			"group": "Bust-A-Move - Deluxe",
+			"titles": [
+				{"searchTerm": "Bust-A-Move - Deluxe"},
+				{"searchTerm": "Ultra Puzzle Bobble Pocket"}
+			]
+		},
+		{
+			"group": "Tenchi no Mon 2 - Busouden",
+			"titles": [
+				{"searchTerm": "Tenchi no Mon 2 - Busouden"},
+				{"searchTerm": "Cheonjiui Mun 2 - Mussangjeon"}
 			]
 		},
 		{
@@ -1044,7 +1140,7 @@
 			"group": "Mana Khemia - Student Alliance",
 			"titles": [
 				{"searchTerm": "Mana Khemia - Student Alliance"},
-				{"searchTerm": "Mana-Khemia - Gakuen no Renkinjutsushi-tachi Portable +"}
+				{"searchTerm": "Mana-Khemia - Gakuen no Renkinjutsushitachi Portable +"}
 			]
 		},
 		{
@@ -1211,17 +1307,17 @@
 			]
 		},
 		{
-			"group": "Oh's Talk English (Disc 1)",
+			"group": "Oh Seoktae-ui Malhaneun Yeongeo (Disc 1)",
 			"categories": ["Educational"],
 			"titles": [
-				{"searchTerm": "Oh's Talk English (Disc 1)"}
+				{"searchTerm": "Oh Seoktae-ui Malhaneun Yeongeo (Disc 1)"}
 			]
 		},
 		{
-			"group": "Oh's Talk English (Disc 2)",
+			"group": "Oh Seoktae-ui Malhaneun Yeongeo (Disc 2)",
 			"categories": ["Educational"],
 			"titles": [
-				{"searchTerm": "Oh's Talk English (Disc 2)"}
+				{"searchTerm": "Oh Seoktae-ui Malhaneun Yeongeo (Disc 2)"}
 			]
 		},
 		{
@@ -1303,6 +1399,29 @@
 			]
 		},
 		{
+			"group": "Taito Memories Pocket",
+			"titles": [
+				{"searchTerm": "Taito Memories Pocket"}
+			],
+			"supersets": [
+				{"searchTerm": "Taito Legends Power-Up"}
+			]
+		},
+		{
+			"group": "Sims 2, The",
+			"titles": [
+				{"searchTerm": "Sims 2, The"},
+				{"searchTerm": "Sims 2, The - Dr. Dominic no Inbou"}
+			]
+		},
+		{
+			"group": "Sims 2, The - Pets",
+			"titles": [
+				{"searchTerm": "Sims 2, The - Pets"},
+				{"searchTerm": "Sims 2, The - Pet Wan Nyan Life"}
+			]
+		},
+		{
 			"group": "Petz - Hamsterz Bunch",
 			"titles": [
 				{"searchTerm": "Petz - Hamsterz Bunch"},
@@ -1357,7 +1476,7 @@
 			"group": "PixelJunk Monsters - Deluxe",
 			"titles": [
 				{"searchTerm": "PixelJunk Monsters - Deluxe"},
-				{"searchTerm": "PixelJunk Monsters UMD Limited Edition"}
+				{"searchTerm": "PixelJunk Monsters - UMD Limited Edition"}
 			]
 		},
 		{
@@ -1405,6 +1524,13 @@
 			]
 		},
 		{
+			"group": "SSX on Tour",
+			"titles": [
+				{"searchTerm": "SSX on Tour"},
+				{"searchTerm": "SSX on Tour Portable"}
+			]
+		},
+		{
 			"group": "Prinny - Can I Really Be the Hero",
 			"titles": [
 				{"searchTerm": "Prinny - Can I Really Be the Hero"},
@@ -1445,7 +1571,8 @@
 			"titles": [
 				{"searchTerm": "Mawaskes - Based on Carton-kun"},
 				{"searchTerm": "Mawaskes Puzzle"},
-				{"searchTerm": "Puzzle Guzzle"}
+				{"searchTerm": "Puzzle Guzzle"},
+				{"searchTerm": "Mawaskes"}
 			]
 		},
 		{
@@ -1640,13 +1767,6 @@
 			]
 		},
 		{
-			"group": "SOCOM - U.S. Navy SEALs - Fireteam Bravo 2",
-			"titles": [
-				{"searchTerm": "SOCOM - U.S. Navy SEALs - Fireteam Bravo 2"},
-				{"searchTerm": "SOCOM - U.S. Navy SEALs - Fireteam Bravo 2 (Press Disc)", "priority": 2}
-			]
-		},
-		{
 			"group": "SOCOM - U.S. Navy SEALs - Fireteam Bravo 3",
 			"titles": [
 				{"searchTerm": "SOCOM - U.S. Navy SEALs - Fireteam Bravo 3"},
@@ -1683,10 +1803,10 @@
 			]
 		},
 		{
-			"group": "Stealth feat. WipEout Pure Stealth Edition (Demo)",
+			"group": "Stealth feat. WipEout Pure Stealth Edition",
 			"titles": [
-				{"searchTerm": "Furtif + WipEout Pure (Demo)"},
-				{"searchTerm": "Stealth feat. WipEout Pure Stealth Edition (Demo)"}
+				{"searchTerm": "Furtif + WipEout Pure"},
+				{"searchTerm": "Stealth feat. WipEout Pure Stealth Edition"}
 			]
 		},
 		{
@@ -1756,18 +1876,10 @@
 			]
 		},
 		{
-			"group": "TalkMan Euro! TalkMan Europa Gengo-ban",
-			"titles": [
-				{"searchTerm": "TalkMan Euro! TalkMan Europa Gengo ban"},
-				{"searchTerm": "TalkMan Euro! TalkMan Europa Gengo-ban"}
-			]
-		},
-		{
 			"group": "TalkMan-shiki Shabelingual Eikaiwa",
 			"categories": ["Educational"],
 			"titles": [
 				{"searchTerm": "Talkman Yeongeohoehwa Sudajaeng English"},
-				{"searchTerm": "TalkMan-shiki - Shabelingual Eikaiwa"},
 				{"searchTerm": "TalkMan-shiki Shabelingual Eikaiwa"}
 			]
 		},
@@ -1868,7 +1980,8 @@
 			"group": "Warriors of the Lost Empire",
 			"titles": [
 				{"searchTerm": "Lost Regnum - Makutsu no Koutei"},
-				{"searchTerm": "Warriors of the Lost Empire"}
+				{"searchTerm": "Warriors of the Lost Empire"},
+				{"searchTerm": "Lost Regnum - Pyeheo-ui Hwangje"}
 			]
 		},
 		{
@@ -1918,13 +2031,6 @@
 			]
 		},
 		{
-			"group": "Win-TOEIC Beginners' LC",
-			"categories": ["Educational"],
-			"titles": [
-				{"searchTerm": "Win-TOEIC Beginners' LC"}
-			]
-		},
-		{
 			"group": "World Tour Soccer 06",
 			"titles": [
 				{"searchTerm": "World Tour Soccer 2"},
@@ -1942,7 +2048,7 @@
 		{
 			"group": "WTF - Work Time Fun",
 			"titles": [
-				{"searchTerm": "Beit Hell 2000"},
+				{"searchTerm": "Baito Hell 2000"},
 				{"searchTerm": "WTF - Work Time Fun"}
 			]
 		},
