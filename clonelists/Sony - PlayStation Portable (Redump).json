@@ -34,6 +34,13 @@
 			]
 		},
 		{
+			"group": "Aedis Eclipse - Generation of Chaos",
+			"titles": [
+				{"searchTerm": "Aedis Eclipse - Generation of Chaos"},
+				{"searchTerm": "Edith Memories - Sincheon Magye GOC V"}
+			]
+		},
+		{
 			"group": "Akiba's Trip",
 			"titles": [
 				{"searchTerm": "Akiba's Trip"}
@@ -161,7 +168,8 @@
 			"group": "Bust-A-Move - Deluxe",
 			"titles": [
 				{"searchTerm": "Bust-A-Move - Deluxe"},
-				{"searchTerm": "Bust-A-Move Ghost"}
+				{"searchTerm": "Bust-A-Move Ghost"},
+				{"searchTerm": "Ultra Puzzle Bobble Pocket"}
 			]
 		},
 		{
@@ -255,6 +263,13 @@
 			"titles": [
 				{"searchTerm": "Coded Arms"},
 				{"searchTerm": "Coded Gun"}
+			]
+		},
+		{
+			"group": "Coded Arms - Contagion",
+			"titles": [
+				{"searchTerm": "Coded Arms - Contagion"},
+				{"searchTerm": "Coded Gun - Contagion"}
 			]
 		},
 		{
@@ -371,13 +386,6 @@
 				{"searchTerm": "Disgaea Portable"},
 				{"searchTerm": "Makai Senki Disgaea Portable - Tsuushin Taisen Hajimemashita."},
 				{"searchTerm": "Makai Senki Disgaea Portable", "priority": 2}
-			]
-		},
-		{
-			"group": "Aedis Eclipse - Generation of Chaos",
-			"titles": [
-				{"searchTerm": "Aedis Eclipse - Generation of Chaos"},
-				{"searchTerm": "Edith Memories - Sincheon Magye GOC V"}
 			]
 		},
 		{
@@ -721,6 +729,13 @@
 			]
 		},
 		{
+			"group": "Ghost in the Shell - Stand Alone Complex",
+			"titles": [
+				{"searchTerm": "Ghost in the Shell - Stand Alone Complex"},
+				{"searchTerm": "Koukaku Kidoutai - Stand Alone Complex - Kariudo no Ryouiki"}
+			]
+		},
+		{
 			"group": "Gladiator Begins",
 			"titles": [
 				{"searchTerm": "Gladiator Begins"},
@@ -762,13 +777,6 @@
 			]
 		},
 		{
-			"group": "Ghost in the Shell - Stand Alone Complex",
-			"titles": [
-				{"searchTerm": "Ghost in the Shell - Stand Alone Complex"},
-				{"searchTerm": "Koukaku Kidoutai - Stand Alone Complex - Kariudo no Ryouiki"}
-			]
-		},
-		{
 			"group": "God of War - Ghost of Sparta",
 			"titles": [
 				{"searchTerm": "God of War - Ghost of Sparta"},
@@ -783,13 +791,6 @@
 				{"searchTerm": "Padrino, El"},
 				{"searchTerm": "Padrino, Il"},
 				{"searchTerm": "Pate, Der"}
-			]
-		},
-		{
-			"group": "WWE SmackDown vs. Raw 2006",
-			"titles": [
-				{"searchTerm": "Exciting Pro Wrestling 7 - SmackDown! vs. RAW 2006"},
-				{"searchTerm": "WWE SmackDown vs. Raw 2006"}
 			]
 		},
 		{
@@ -847,6 +848,13 @@
 			]
 		},
 		{
+			"group": "Hakuoki - Warriors of the Shinsengumi",
+			"titles": [
+				{"searchTerm": "Hakuoki - Warriors of the Shinsengumi"},
+				{"searchTerm": "Hakuouki - Bakumatsu Musouroku"}
+			]
+		},
+		{
 			"group": "Half-Minute Hero",
 			"titles": [
 				{"searchTerm": "Half-Minute Hero"},
@@ -876,24 +884,6 @@
 			]
 		},
 		{
-			"group": "Heart no Kuni no Alice - Wonderful Wonder World (Disc 1)",
-			"titles": [
-				{"searchTerm": "Heart no Kuni no Alice - Wonderful Wonder World (Disc 1)"}
-			],
-			"supersets": [
-				{"searchTerm": "Heart no Kuni no Alice - Anniversary Ver - Wonderful Wonder World"}
-			]
-		},
-		{
-			"group": "Heart no Kuni no Alice - Wonderful Wonder World (Disc 2)",
-			"titles": [
-				{"searchTerm": "Heart no Kuni no Alice - Wonderful Wonder World (Disc 2)"}
-			],
-			"supersets": [
-				{"searchTerm": "Heart no Kuni no Alice - Anniversary Ver - Wonderful Wonder World"}
-			]
-		},
-		{
 			"group": "Harvest Moon - Boy & Girl",
 			"titles": [
 				{"searchTerm": "Bokujou Monogatari - Harvest Moon - Boy & Girl"},
@@ -915,12 +905,21 @@
 			]
 		},
 		{
-			"group": "Mahjong Haou Portable - Dankyuu Battle",
+			"group": "Heart no Kuni no Alice - Wonderful Wonder World (Disc 1)",
 			"titles": [
-				{"searchTerm": "Mahjong Haou Portable - Dankyuu Battle"}
+				{"searchTerm": "Heart no Kuni no Alice - Wonderful Wonder World (Disc 1)"}
 			],
 			"supersets": [
-				{"searchTerm": "Mahjong Haou Portable - Dankyuu Battle Special"}
+				{"searchTerm": "Heart no Kuni no Alice - Anniversary Ver - Wonderful Wonder World"}
+			]
+		},
+		{
+			"group": "Heart no Kuni no Alice - Wonderful Wonder World (Disc 2)",
+			"titles": [
+				{"searchTerm": "Heart no Kuni no Alice - Wonderful Wonder World (Disc 2)"}
+			],
+			"supersets": [
+				{"searchTerm": "Heart no Kuni no Alice - Anniversary Ver - Wonderful Wonder World"}
 			]
 		},
 		{
@@ -954,20 +953,6 @@
 				{"searchTerm": "Everybody's Tennis"},
 				{"searchTerm": "Hot Shots Tennis - Get a Grip"},
 				{"searchTerm": "Minna no Tennis Portable"}
-			]
-		},
-		{
-			"group": "ModNation Racers",
-			"titles": [
-				{"searchTerm": "ModNation Racers"},
-				{"searchTerm": "ModNation - Mugen no Kart Oukoku Portable"}
-			]
-		},
-		{
-			"group": "Rainbow Islands Evolution",
-			"titles": [
-				{"searchTerm": "Rainbow Islands Evolution"},
-				{"searchTerm": "New Rainbow Island - Hurdy Gurdy Daibouken!!"}
 			]
 		},
 		{
@@ -1041,20 +1026,6 @@
 			]
 		},
 		{
-			"group": "Con, The",
-			"titles": [
-				{"searchTerm": "Con, The"},
-				{"searchTerm": "Con, The - Gamble Fight"}
-			]
-		},
-		{
-			"group": "Coded Arms - Contagion",
-			"titles": [
-				{"searchTerm": "Coded Arms - Contagion"},
-				{"searchTerm": "Coded Gun - Contagion"}
-			]
-		},
-		{
 			"group": "Kingdom of Paradise",
 			"titles": [
 				{"searchTerm": "Key of Heaven"},
@@ -1062,13 +1033,6 @@
 				{"searchTerm": "Tenchi no Mon"},
 				{"searchTerm": "Cheonjiui Mun"},
 				{"searchTerm": "Tiandi Zhi Men"}
-			]
-		},
-		{
-			"group": "Bust-A-Move - Deluxe",
-			"titles": [
-				{"searchTerm": "Bust-A-Move - Deluxe"},
-				{"searchTerm": "Ultra Puzzle Bobble Pocket"}
 			]
 		},
 		{
@@ -1148,6 +1112,15 @@
 			"titles": [
 				{"searchTerm": "Lunar - Harmony of Silver Star"},
 				{"searchTerm": "Lunar - Silver Star Harmony"}
+			]
+		},
+		{
+			"group": "Mahjong Haou Portable - Dankyuu Battle",
+			"titles": [
+				{"searchTerm": "Mahjong Haou Portable - Dankyuu Battle"}
+			],
+			"supersets": [
+				{"searchTerm": "Mahjong Haou Portable - Dankyuu Battle Special"}
 			]
 		},
 		{
@@ -1235,6 +1208,13 @@
 			"categories": ["Applications"],
 			"titles": [
 				{"searchTerm": "Minna no Navi (Disc 2)"}
+			]
+		},
+		{
+			"group": "ModNation Racers",
+			"titles": [
+				{"searchTerm": "ModNation Racers"},
+				{"searchTerm": "ModNation - Mugen no Kart Oukoku Portable"}
 			]
 		},
 		{
@@ -1413,29 +1393,6 @@
 			]
 		},
 		{
-			"group": "Taito Memories Pocket",
-			"titles": [
-				{"searchTerm": "Taito Memories Pocket"}
-			],
-			"supersets": [
-				{"searchTerm": "Taito Legends Power-Up"}
-			]
-		},
-		{
-			"group": "Sims 2, The",
-			"titles": [
-				{"searchTerm": "Sims 2, The"},
-				{"searchTerm": "Sims 2, The - Dr. Dominic no Inbou"}
-			]
-		},
-		{
-			"group": "Sims 2, The - Pets",
-			"titles": [
-				{"searchTerm": "Sims 2, The - Pets"},
-				{"searchTerm": "Sims 2, The - Pet Wan Nyan Life"}
-			]
-		},
-		{
 			"group": "Petz - Hamsterz Bunch",
 			"titles": [
 				{"searchTerm": "Petz - Hamsterz Bunch"},
@@ -1538,13 +1495,6 @@
 			]
 		},
 		{
-			"group": "SSX on Tour",
-			"titles": [
-				{"searchTerm": "SSX on Tour"},
-				{"searchTerm": "SSX on Tour Portable"}
-			]
-		},
-		{
 			"group": "Prinny - Can I Really Be the Hero",
 			"titles": [
 				{"searchTerm": "Prinny - Can I Really Be the Hero"},
@@ -1608,6 +1558,13 @@
 			"titles": [
 				{"searchTerm": "Ragnarok - Hikari to Yami no Koujo"},
 				{"searchTerm": "Ragnarok Tactics"}
+			]
+		},
+		{
+			"group": "Rainbow Islands Evolution",
+			"titles": [
+				{"searchTerm": "Rainbow Islands Evolution"},
+				{"searchTerm": "New Rainbow Island - Hurdy Gurdy Daibouken!!"}
 			]
 		},
 		{
@@ -1774,6 +1731,20 @@
 			]
 		},
 		{
+			"group": "Sims 2, The",
+			"titles": [
+				{"searchTerm": "Sims 2, The"},
+				{"searchTerm": "Sims 2, The - Dr. Dominic no Inbou"}
+			]
+		},
+		{
+			"group": "Sims 2, The - Pets",
+			"titles": [
+				{"searchTerm": "Sims 2, The - Pets"},
+				{"searchTerm": "Sims 2, The - Pet Wan Nyan Life"}
+			]
+		},
+		{
 			"group": "Smart Bomb",
 			"titles": [
 				{"searchTerm": "Baku-No"},
@@ -1814,6 +1785,13 @@
 			"titles": [
 				{"searchTerm": "Split-Second"},
 				{"searchTerm": "Split-Second - Velocity"}
+			]
+		},
+		{
+			"group": "SSX on Tour",
+			"titles": [
+				{"searchTerm": "SSX on Tour"},
+				{"searchTerm": "SSX on Tour Portable"}
 			]
 		},
 		{
@@ -1870,6 +1848,15 @@
 			"titles": [
 				{"searchTerm": "Tactics Ogre - Let Us Cling Together"},
 				{"searchTerm": "Tactics Ogre - Unmei no Wa"}
+			]
+		},
+		{
+			"group": "Taito Memories Pocket",
+			"titles": [
+				{"searchTerm": "Taito Memories Pocket"}
+			],
+			"supersets": [
+				{"searchTerm": "Taito Legends Power-Up"}
 			]
 		},
 		{
@@ -2064,6 +2051,13 @@
 			"titles": [
 				{"searchTerm": "Baito Hell 2000"},
 				{"searchTerm": "WTF - Work Time Fun"}
+			]
+		},
+		{
+			"group": "WWE SmackDown vs. Raw 2006",
+			"titles": [
+				{"searchTerm": "Exciting Pro Wrestling 7 - SmackDown! vs. RAW 2006"},
+				{"searchTerm": "WWE SmackDown vs. Raw 2006"}
 			]
 		},
 		{
