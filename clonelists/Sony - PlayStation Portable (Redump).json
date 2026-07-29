@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Sony - PlayStation Portable (Redump)",
-		"lastUpdated": "2026-07-28 16:43:10",
+		"lastUpdated": "2026-07-29 14:53:10",
 		"minimumVersion": "2.4.8"
 	},
 	"variants": [
@@ -1203,6 +1203,13 @@
 			]
 		},
 		{
+			"group": "Mimana - IYAR Chronicle",
+			"titles": [
+				{"searchTerm": "Mimana - IYAR Chronicle"},
+				{"searchTerm": "Mimana Iyar Chronicle"}
+			]
+		},
+		{
 			"group": "Mind Quiz",
 			"titles": [
 				{"searchTerm": "Brain Trainer Portable 2"},
@@ -1214,6 +1221,48 @@
 			"categories": ["Applications"],
 			"titles": [
 				{"searchTerm": "Minna no Chizu 3 (Disc 2)"}
+			]
+		},
+		{
+			"group": "Minna no Golf-jou Vol. 1 (Disc 1)",
+			"titles": [
+				{"searchTerm": "Minna no Golf-jou Vol. 1 (Disc 1) (Doukonban)"},
+				{"searchTerm": "Minna no Golf-jou Vol. 1 (Disc 1)", "priority": 2}
+			]
+		},
+		{
+			"group": "Minna no Golf-jou Vol. 1 (Disc 2)",
+			"titles": [
+				{"searchTerm": "Minna no Golf-jou Vol. 1 (Disc 2) (Doukonban)"},
+				{"searchTerm": "Minna no Golf-jou Vol. 1 (Disc 2)", "priority": 2}
+			]
+		},
+		{
+			"group": "Minna no Golf-jou Vol. 2 (Disc 1)",
+			"titles": [
+				{"searchTerm": "Minna no Golf-jou Vol. 2 (Disc 1) (Doukonban)"},
+				{"searchTerm": "Minna no Golf-jou Vol. 2 (Disc 1)", "priority": 2}
+			]
+		},
+		{
+			"group": "Minna no Golf-jou Vol. 2 (Disc 2)",
+			"titles": [
+				{"searchTerm": "Minna no Golf-jou Vol. 2 (Disc 2) (Doukonban)"},
+				{"searchTerm": "Minna no Golf-jou Vol. 2 (Disc 2)", "priority": 2}
+			]
+		},
+		{
+			"group": "Minna no Golf-jou Vol. 3 (Disc 1)",
+			"titles": [
+				{"searchTerm": "Minna no Golf-jou Vol. 3 (Disc 1) (Doukonban)"},
+				{"searchTerm": "Minna no Golf-jou Vol. 3 (Disc 1)", "priority": 2}
+			]
+		},
+		{
+			"group": "Minna no Golf-jou Vol. 3 (Disc 2)",
+			"titles": [
+				{"searchTerm": "Minna no Golf-jou Vol. 3 (Disc 2) (Doukonban)"},
+				{"searchTerm": "Minna no Golf-jou Vol. 3 (Disc 2)", "priority": 2}
 			]
 		},
 		{
@@ -1720,6 +1769,13 @@
 			]
 		},
 		{
+			"group": "Shin Sangoku Musou - Multi Raid 2",
+			"titles": [
+				{"searchTerm": "Shin Sangoku Musou - Multi Raid 2"},
+				{"searchTerm": "Zhen Sanguo Wushuang - Multi Raid 2"}
+			]
+		},
+		{
 			"group": "Shin Seiki Evangelion 2 - Tsukurareshi Sekai - Another Cases",
 			"titles": [
 				{"searchTerm": "Shin Seiki Evangelion 2 - Tsukurareshi Sekai - Another Cases (10-shuunen Kinen Memorial Box)"},
@@ -1776,6 +1832,13 @@
 			"titles": [
 				{"searchTerm": "SOCOM - U.S. Navy SEALs - Fireteam Bravo 3"},
 				{"searchTerm": "SOCOM - U.S. Navy SEALs Portable"}
+			]
+		},
+		{
+			"group": "Sony Computer Science Kenkyuusho Mogi Kenichirou Hakase Kanshuu - Nou ni Kaikan Aha Taiken!",
+			"titles": [
+				{"searchTerm": "Sony Computer Science Kenkyuusho Mogi Kenichirou Hakase Kanshuu - Nou ni Kaikan Aha Taiken! (v2.01)"},
+				{"searchTerm": "Sony Computer Science Kenkyuusho Mogi Kenichirou Hakushi Kanshuu - Nou ni Kaikan Aha Taiken (v1.00)", "priority": 2}
 			]
 		},
 		{
