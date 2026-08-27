@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Sony - PlayStation 2 (Redump)",
-		"lastUpdated": "2026-08-27 12:58:33",
+		"lastUpdated": "2026-08-27 13:11:33",
 		"minimumVersion": "2.4.8"
 	},
 	"variants": [
@@ -8422,6 +8422,14 @@
 			]
 		},
 		{
+			"group": "WWE SmackDown! Here Comes the Pain",
+			"titles": [
+				{"searchTerm": "Exciting Pro Wres 5", "priority": 2},
+				{"searchTerm": "Exciting Pro Wres 5 (Shokai Genteiban)"},
+				{"searchTerm": "WWE SmackDown! Here Comes the Pain"}
+			]
+		},
+		{
 			"group": "WWE SmackDown! Shut Your Mouth",
 			"titles": [
 				{"searchTerm": "Exciting Pro Wres 4"},
@@ -8440,6 +8448,14 @@
 			"titles": [
 				{"searchTerm": "Exciting Pro Wres 7 - WWE SmackDown! vs. Raw 2006"},
 				{"searchTerm": "WWE SmackDown! vs. Raw 2006"}
+			]
+		},
+		{
+			"group": "WWF SmackDown! Just Bring It",
+			"titles": [
+				{"searchTerm": "Exciting Pro Wres 3", "priority": 2},
+				{"searchTerm": "Exciting Pro Wres 3 (Genteiban)"},
+				{"searchTerm": "WWF SmackDown! Just Bring It"}
 			]
 		},
 		{
