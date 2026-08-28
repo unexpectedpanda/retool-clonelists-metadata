@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Sony - PlayStation 2 (Redump)",
-		"lastUpdated": "2026-08-27 13:11:33",
+		"lastUpdated": "2026-08-28 09:45:33",
 		"minimumVersion": "2.4.8"
 	},
 	"variants": [
@@ -5871,6 +5871,7 @@
 		{
 			"group": "Pop Star Academy",
 			"titles": [
+				{"searchTerm": "Fame Academy"},
 				{"searchTerm": "Pop Star Academy"},
 				{"searchTerm": "Star Academy"}
 			]
