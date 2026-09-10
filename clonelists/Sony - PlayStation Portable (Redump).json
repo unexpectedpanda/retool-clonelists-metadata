@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Sony - PlayStation Portable (Redump)",
-		"lastUpdated": "2026-06-13 10:43:10",
+		"lastUpdated": "2026-07-29 14:53:10",
 		"minimumVersion": "2.4.8"
 	},
 	"variants": [
@@ -31,6 +31,13 @@
 			"titles": [
 				{"searchTerm": "Adventures to Go!"},
 				{"searchTerm": "Chuumon Shiyouze! Oretachi no Sekai"}
+			]
+		},
+		{
+			"group": "Aedis Eclipse - Generation of Chaos",
+			"titles": [
+				{"searchTerm": "Aedis Eclipse - Generation of Chaos"},
+				{"searchTerm": "Edith Memories - Sincheon Magye GOC V"}
 			]
 		},
 		{
@@ -116,6 +123,13 @@
 			]
 		},
 		{
+			"group": "Blokus Portable - Steambot Championship",
+			"titles": [
+				{"searchTerm": "Blokus Club Portable with Bumpy Trot"},
+				{"searchTerm": "Blokus Portable - Steambot Championship"}
+			]
+		},
+		{
 			"group": "Bomberman",
 			"titles": [
 				{"searchTerm": "Bomberman"},
@@ -154,7 +168,8 @@
 			"group": "Bust-A-Move - Deluxe",
 			"titles": [
 				{"searchTerm": "Bust-A-Move - Deluxe"},
-				{"searchTerm": "Bust-A-Move Ghost"}
+				{"searchTerm": "Bust-A-Move Ghost"},
+				{"searchTerm": "Ultra Puzzle Bobble Pocket"}
 			]
 		},
 		{
@@ -248,6 +263,13 @@
 			"titles": [
 				{"searchTerm": "Coded Arms"},
 				{"searchTerm": "Coded Gun"}
+			]
+		},
+		{
+			"group": "Coded Arms - Contagion",
+			"titles": [
+				{"searchTerm": "Coded Arms - Contagion"},
+				{"searchTerm": "Coded Gun - Contagion"}
 			]
 		},
 		{
@@ -367,18 +389,10 @@
 			]
 		},
 		{
-			"group": "Aedis Eclipse - Generation of Chaos",
-			"titles": [
-				{"searchTerm": "Aedis Eclipse - Generation of Chaos"},
-				{"searchTerm": "Edith Memories - Sincheon Magye GOC V"}
-			]
-		},
-		{
 			"group": "Disney-Pixar Ratatouille",
 			"titles": [
 				{"searchTerm": "Disney-Pixar Ratatouille"},
 				{"searchTerm": "Disney-Pixar Rottatouille"},
-				{"searchTerm": "Disney-Pixar Ratatouille"},
 				{"searchTerm": "Disney-Pixar Ratatui"}
 			]
 		},
@@ -677,24 +691,6 @@
 			]
 		},
 		{
-			"group": "Heart no Kuni no Alice - Wonderful Wonder World (Disc 1)",
-			"titles": [
-				{"searchTerm": "Heart no Kuni no Alice - Wonderful Wonder World (Disc 1)"}
-			],
-			"supersets": [
-				{"searchTerm": "Heart no Kuni no Alice - Anniversary Ver - Wonderful Wonder World"}
-			]
-		},
-		{
-			"group": "Heart no Kuni no Alice - Wonderful Wonder World (Disc 2)",
-			"titles": [
-				{"searchTerm": "Heart no Kuni no Alice - Wonderful Wonder World (Disc 2)"}
-			],
-			"supersets": [
-				{"searchTerm": "Heart no Kuni no Alice - Anniversary Ver - Wonderful Wonder World"}
-			]
-		},
-		{
 			"group": "Frantix",
 			"titles": [
 				{"searchTerm": "Frantix"},
@@ -729,6 +725,13 @@
 			"titles": [
 				{"searchTerm": "Generation of Chaos"},
 				{"searchTerm": "Sincheon Magye - GOC IV - Another Side"}
+			]
+		},
+		{
+			"group": "Ghost in the Shell - Stand Alone Complex",
+			"titles": [
+				{"searchTerm": "Ghost in the Shell - Stand Alone Complex"},
+				{"searchTerm": "Koukaku Kidoutai - Stand Alone Complex - Kariudo no Ryouiki"}
 			]
 		},
 		{
@@ -773,13 +776,6 @@
 			]
 		},
 		{
-			"group": "Ghost in the Shell - Stand Alone Complex",
-			"titles": [
-				{"searchTerm": "Ghost in the Shell - Stand Alone Complex"},
-				{"searchTerm": "Koukaku Kidoutai - Stand Alone Complex - Kariudo no Ryouiki"}
-			]
-		},
-		{
 			"group": "God of War - Ghost of Sparta",
 			"titles": [
 				{"searchTerm": "God of War - Ghost of Sparta"},
@@ -794,13 +790,6 @@
 				{"searchTerm": "Padrino, El"},
 				{"searchTerm": "Padrino, Il"},
 				{"searchTerm": "Pate, Der"}
-			]
-		},
-		{
-			"group": "WWE SmackDown vs. Raw 2006",
-			"titles": [
-				{"searchTerm": "Exciting Pro Wrestling 7 - SmackDown! vs. RAW 2006"},
-				{"searchTerm": "WWE SmackDown vs. Raw 2006"}
 			]
 		},
 		{
@@ -835,6 +824,13 @@
 			]
 		},
 		{
+			"group": "Gunpey",
+			"titles": [
+				{"searchTerm": "Gunpey"},
+				{"searchTerm": "Gunpey-R"}
+			]
+		},
+		{
 			"group": "Gurumin - A Monstrous Adventure",
 			"titles": [
 				{"searchTerm": "Gurumin"},
@@ -848,6 +844,13 @@
 			"titles": [
 				{"searchTerm": "Hakuoki - Demon of the Fleeting Blossom"},
 				{"searchTerm": "Hakuouki Portable"}
+			]
+		},
+		{
+			"group": "Hakuoki - Warriors of the Shinsengumi",
+			"titles": [
+				{"searchTerm": "Hakuoki - Warriors of the Shinsengumi"},
+				{"searchTerm": "Hakuouki - Bakumatsu Musouroku"}
 			]
 		},
 		{
@@ -901,12 +904,21 @@
 			]
 		},
 		{
-			"group": "Mahjong Haou Portable - Dankyuu Battle",
+			"group": "Heart no Kuni no Alice - Wonderful Wonder World (Disc 1)",
 			"titles": [
-				{"searchTerm": "Mahjong Haou Portable - Dankyuu Battle"}
+				{"searchTerm": "Heart no Kuni no Alice - Wonderful Wonder World (Disc 1)"}
 			],
 			"supersets": [
-				{"searchTerm": "Mahjong Haou Portable - Dankyuu Battle Special"}
+				{"searchTerm": "Heart no Kuni no Alice - Anniversary Ver - Wonderful Wonder World"}
+			]
+		},
+		{
+			"group": "Heart no Kuni no Alice - Wonderful Wonder World (Disc 2)",
+			"titles": [
+				{"searchTerm": "Heart no Kuni no Alice - Wonderful Wonder World (Disc 2)"}
+			],
+			"supersets": [
+				{"searchTerm": "Heart no Kuni no Alice - Anniversary Ver - Wonderful Wonder World"}
 			]
 		},
 		{
@@ -940,20 +952,6 @@
 				{"searchTerm": "Everybody's Tennis"},
 				{"searchTerm": "Hot Shots Tennis - Get a Grip"},
 				{"searchTerm": "Minna no Tennis Portable"}
-			]
-		},
-		{
-			"group": "ModNation Racers",
-			"titles": [
-				{"searchTerm": "ModNation Racers"},
-				{"searchTerm": "ModNation - Mugen no Kart Oukoku Portable"}
-			]
-		},
-		{
-			"group": "Rainbow Islands Evolution",
-			"titles": [
-				{"searchTerm": "Rainbow Islands Evolution"},
-				{"searchTerm": "New Rainbow Island - Hurdy Gurdy Daibouken!!"}
 			]
 		},
 		{
@@ -1006,6 +1004,20 @@
 			]
 		},
 		{
+			"group": "Joo and Ryu - TOEIC LC (Korea) (Disc 1)",
+			"categories": ["Educational"],
+			"titles": [
+				{"searchTerm": "Joo and Ryu - TOEIC LC (Korea) (Disc 1)"}
+			]
+		},
+		{
+			"group": "Joo and Ryu - TOEIC LC (Korea) (Disc 2)",
+			"categories": ["Educational"],
+			"titles": [
+				{"searchTerm": "Joo and Ryu - TOEIC LC (Korea) (Disc 2)"}
+			]
+		},
+		{
 			"group": "Kazook",
 			"titles": [
 				{"searchTerm": "Kazook"},
@@ -1027,20 +1039,6 @@
 			]
 		},
 		{
-			"group": "Con, The",
-			"titles": [
-				{"searchTerm": "Con, The"},
-				{"searchTerm": "Con, The - Gamble Fight"}
-			]
-		},
-		{
-			"group": "Coded Arms - Contagion",
-			"titles": [
-				{"searchTerm": "Coded Arms - Contagion"},
-				{"searchTerm": "Coded Gun - Contagion"}
-			]
-		},
-		{
 			"group": "Kingdom of Paradise",
 			"titles": [
 				{"searchTerm": "Key of Heaven"},
@@ -1048,13 +1046,6 @@
 				{"searchTerm": "Tenchi no Mon"},
 				{"searchTerm": "Cheonjiui Mun"},
 				{"searchTerm": "Tiandi Zhi Men"}
-			]
-		},
-		{
-			"group": "Bust-A-Move - Deluxe",
-			"titles": [
-				{"searchTerm": "Bust-A-Move - Deluxe"},
-				{"searchTerm": "Ultra Puzzle Bobble Pocket"}
 			]
 		},
 		{
@@ -1137,6 +1128,15 @@
 			]
 		},
 		{
+			"group": "Mahjong Haou Portable - Dankyuu Battle",
+			"titles": [
+				{"searchTerm": "Mahjong Haou Portable - Dankyuu Battle"}
+			],
+			"supersets": [
+				{"searchTerm": "Mahjong Haou Portable - Dankyuu Battle Special"}
+			]
+		},
+		{
 			"group": "Mana Khemia - Student Alliance",
 			"titles": [
 				{"searchTerm": "Mana Khemia - Student Alliance"},
@@ -1203,10 +1203,66 @@
 			]
 		},
 		{
+			"group": "Mimana - IYAR Chronicle",
+			"titles": [
+				{"searchTerm": "Mimana - IYAR Chronicle"},
+				{"searchTerm": "Mimana Iyar Chronicle"}
+			]
+		},
+		{
+			"group": "Mind Quiz",
+			"titles": [
+				{"searchTerm": "Brain Trainer Portable 2"},
+				{"searchTerm": "Mind Quiz - Exercise Your Brain"}
+			]
+		},
+		{
 			"group": "Minna no Chizu 3 (Disc 2)",
 			"categories": ["Applications"],
 			"titles": [
 				{"searchTerm": "Minna no Chizu 3 (Disc 2)"}
+			]
+		},
+		{
+			"group": "Minna no Golf-jou Vol. 1 (Disc 1)",
+			"titles": [
+				{"searchTerm": "Minna no Golf-jou Vol. 1 (Disc 1) (Doukonban)"},
+				{"searchTerm": "Minna no Golf-jou Vol. 1 (Disc 1)", "priority": 2}
+			]
+		},
+		{
+			"group": "Minna no Golf-jou Vol. 1 (Disc 2)",
+			"titles": [
+				{"searchTerm": "Minna no Golf-jou Vol. 1 (Disc 2) (Doukonban)"},
+				{"searchTerm": "Minna no Golf-jou Vol. 1 (Disc 2)", "priority": 2}
+			]
+		},
+		{
+			"group": "Minna no Golf-jou Vol. 2 (Disc 1)",
+			"titles": [
+				{"searchTerm": "Minna no Golf-jou Vol. 2 (Disc 1) (Doukonban)"},
+				{"searchTerm": "Minna no Golf-jou Vol. 2 (Disc 1)", "priority": 2}
+			]
+		},
+		{
+			"group": "Minna no Golf-jou Vol. 2 (Disc 2)",
+			"titles": [
+				{"searchTerm": "Minna no Golf-jou Vol. 2 (Disc 2) (Doukonban)"},
+				{"searchTerm": "Minna no Golf-jou Vol. 2 (Disc 2)", "priority": 2}
+			]
+		},
+		{
+			"group": "Minna no Golf-jou Vol. 3 (Disc 1)",
+			"titles": [
+				{"searchTerm": "Minna no Golf-jou Vol. 3 (Disc 1) (Doukonban)"},
+				{"searchTerm": "Minna no Golf-jou Vol. 3 (Disc 1)", "priority": 2}
+			]
+		},
+		{
+			"group": "Minna no Golf-jou Vol. 3 (Disc 2)",
+			"titles": [
+				{"searchTerm": "Minna no Golf-jou Vol. 3 (Disc 2) (Doukonban)"},
+				{"searchTerm": "Minna no Golf-jou Vol. 3 (Disc 2)", "priority": 2}
 			]
 		},
 		{
@@ -1221,6 +1277,13 @@
 			"categories": ["Applications"],
 			"titles": [
 				{"searchTerm": "Minna no Navi (Disc 2)"}
+			]
+		},
+		{
+			"group": "ModNation Racers",
+			"titles": [
+				{"searchTerm": "ModNation Racers"},
+				{"searchTerm": "ModNation - Mugen no Kart Oukoku Portable"}
 			]
 		},
 		{
@@ -1399,29 +1462,6 @@
 			]
 		},
 		{
-			"group": "Taito Memories Pocket",
-			"titles": [
-				{"searchTerm": "Taito Memories Pocket"}
-			],
-			"supersets": [
-				{"searchTerm": "Taito Legends Power-Up"}
-			]
-		},
-		{
-			"group": "Sims 2, The",
-			"titles": [
-				{"searchTerm": "Sims 2, The"},
-				{"searchTerm": "Sims 2, The - Dr. Dominic no Inbou"}
-			]
-		},
-		{
-			"group": "Sims 2, The - Pets",
-			"titles": [
-				{"searchTerm": "Sims 2, The - Pets"},
-				{"searchTerm": "Sims 2, The - Pet Wan Nyan Life"}
-			]
-		},
-		{
 			"group": "Petz - Hamsterz Bunch",
 			"titles": [
 				{"searchTerm": "Petz - Hamsterz Bunch"},
@@ -1524,13 +1564,6 @@
 			]
 		},
 		{
-			"group": "SSX on Tour",
-			"titles": [
-				{"searchTerm": "SSX on Tour"},
-				{"searchTerm": "SSX on Tour Portable"}
-			]
-		},
-		{
 			"group": "Prinny - Can I Really Be the Hero",
 			"titles": [
 				{"searchTerm": "Prinny - Can I Really Be the Hero"},
@@ -1594,6 +1627,13 @@
 			"titles": [
 				{"searchTerm": "Ragnarok - Hikari to Yami no Koujo"},
 				{"searchTerm": "Ragnarok Tactics"}
+			]
+		},
+		{
+			"group": "Rainbow Islands Evolution",
+			"titles": [
+				{"searchTerm": "Rainbow Islands Evolution"},
+				{"searchTerm": "New Rainbow Island - Hurdy Gurdy Daibouken!!"}
 			]
 		},
 		{
@@ -1729,6 +1769,13 @@
 			]
 		},
 		{
+			"group": "Shin Sangoku Musou - Multi Raid 2",
+			"titles": [
+				{"searchTerm": "Shin Sangoku Musou - Multi Raid 2"},
+				{"searchTerm": "Zhen Sanguo Wushuang - Multi Raid 2"}
+			]
+		},
+		{
 			"group": "Shin Seiki Evangelion 2 - Tsukurareshi Sekai - Another Cases",
 			"titles": [
 				{"searchTerm": "Shin Seiki Evangelion 2 - Tsukurareshi Sekai - Another Cases (10-shuunen Kinen Memorial Box)"},
@@ -1760,6 +1807,20 @@
 			]
 		},
 		{
+			"group": "Sims 2, The",
+			"titles": [
+				{"searchTerm": "Sims 2, The"},
+				{"searchTerm": "Sims 2, The - Dr. Dominic no Inbou"}
+			]
+		},
+		{
+			"group": "Sims 2, The - Pets",
+			"titles": [
+				{"searchTerm": "Sims 2, The - Pets"},
+				{"searchTerm": "Sims 2, The - Pet Wan Nyan Life"}
+			]
+		},
+		{
 			"group": "Smart Bomb",
 			"titles": [
 				{"searchTerm": "Baku-No"},
@@ -1771,6 +1832,13 @@
 			"titles": [
 				{"searchTerm": "SOCOM - U.S. Navy SEALs - Fireteam Bravo 3"},
 				{"searchTerm": "SOCOM - U.S. Navy SEALs Portable"}
+			]
+		},
+		{
+			"group": "Sony Computer Science Kenkyuusho Mogi Kenichirou Hakase Kanshuu - Nou ni Kaikan Aha Taiken!",
+			"titles": [
+				{"searchTerm": "Sony Computer Science Kenkyuusho Mogi Kenichirou Hakase Kanshuu - Nou ni Kaikan Aha Taiken! (v2.01)"},
+				{"searchTerm": "Sony Computer Science Kenkyuusho Mogi Kenichirou Hakushi Kanshuu - Nou ni Kaikan Aha Taiken (v1.00)", "priority": 2}
 			]
 		},
 		{
@@ -1800,6 +1868,13 @@
 			"titles": [
 				{"searchTerm": "Split-Second"},
 				{"searchTerm": "Split-Second - Velocity"}
+			]
+		},
+		{
+			"group": "SSX on Tour",
+			"titles": [
+				{"searchTerm": "SSX on Tour"},
+				{"searchTerm": "SSX on Tour Portable"}
 			]
 		},
 		{
@@ -1856,6 +1931,15 @@
 			"titles": [
 				{"searchTerm": "Tactics Ogre - Let Us Cling Together"},
 				{"searchTerm": "Tactics Ogre - Unmei no Wa"}
+			]
+		},
+		{
+			"group": "Taito Memories Pocket",
+			"titles": [
+				{"searchTerm": "Taito Memories Pocket"}
+			],
+			"supersets": [
+				{"searchTerm": "Taito Legends Power-Up"}
 			]
 		},
 		{
@@ -2050,6 +2134,13 @@
 			"titles": [
 				{"searchTerm": "Baito Hell 2000"},
 				{"searchTerm": "WTF - Work Time Fun"}
+			]
+		},
+		{
+			"group": "WWE SmackDown vs. Raw 2006",
+			"titles": [
+				{"searchTerm": "Exciting Pro Wrestling 7 - SmackDown! vs. RAW 2006"},
+				{"searchTerm": "WWE SmackDown vs. Raw 2006"}
 			]
 		},
 		{
