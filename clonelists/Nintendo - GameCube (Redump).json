@@ -1,7 +1,7 @@
 {
 	"description": {
 		"name": "Nintendo - GameCube (Redump)",
-		"lastUpdated": "2026-01-18 16:35:07",
+		"lastUpdated": "2026-07-26 11:59:07",
 		"minimumVersion": "2.4.8"
 	},
 	"variants": [
@@ -537,6 +537,13 @@
 			"titles": [
 				{"searchTerm": "FIFA 2002 - Road to FIFA World Cup"},
 				{"searchTerm": "FIFA Soccer 2002"}
+			]
+		},
+		{
+			"group": "FIFA 2002 - Road to FIFA World Cup Jitsuen-you Sample",
+			"categories": ["Demos"],
+			"titles": [
+				{"searchTerm": "FIFA 2002 - Road to FIFA World Cup (Jitsuen-you Sample)"}
 			]
 		},
 		{
