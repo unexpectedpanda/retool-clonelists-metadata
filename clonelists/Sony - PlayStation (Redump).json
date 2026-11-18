@@ -1,8 +1,8 @@
 {
 	"description": {
 		"name": "Sony - PlayStation (Redump)",
-		"lastUpdated": "2026-05-10 16:35:08",
-		"minimumVersion": "2.4.8"
+		"lastUpdated": "2026-07-26 11:51:08",
+		"minimumVersion": "2.4.9"
 	},
 	"variants": [
 		{
@@ -948,6 +948,13 @@
 			]
 		},
 		{
+			"group": "Catherine Catherine - Enfants Terrible - Visual Disc",
+			"categories": ["Video"],
+			"titles": [
+				{"searchTerm": "Catherine Catherine - Enfants Terrible - Visual Disc"}
+			]
+		},
+		{
 			"group": "Championship Motocross featuring Ricky Carmichael",
 			"titles": [
 				{"searchTerm": "Championship Motocross featuring Ricky Carmichael"},
@@ -1471,6 +1478,13 @@
 			"titles": [
 				{"searchTerm": "Deception III - Dark Delusion"},
 				{"searchTerm": "Soumatou"}
+			]
+		},
+		{
+			"group": "Deep, The - Ushinawareta Shinkai",
+			"titles": [
+				{"searchTerm": "Deep, The - Ushinawareta Shinkai (Japan)"},
+				{"searchTerm": "Deep, The - Ushinawareta Shinkai (Global Game Selection 2000)", "priority": 2}
 			]
 		},
 		{
@@ -2700,8 +2714,8 @@
 		{
 			"group": "Fisher-Price Rescue Heroes - Molten Menace",
 			"titles": [
-				{"searchTerm": "Fisher-Price Rescue Heroes - Helden in Gefahr"},
-				{"searchTerm": "Fisher-Price Rescue Heroes - Molten Menace"}
+				{"searchTerm": "Fisher-Price Rescue Heroes - Molten Menace"},
+				{"searchTerm": "Fisher-Price Rescue Heroes - Helden in Gefahr"}
 			]
 		},
 		{
@@ -5013,6 +5027,13 @@
 			]
 		},
 		{
+			"group": "Pop n' Pop",
+			"titles": [
+				{"searchTerm": "Pop n' Pop"},
+				{"searchTerm": "Pop'n Pop"}
+			]
+		},
+		{
 			"group": "Popstar Maker",
 			"titles": [
 				{"searchTerm": "Newcomer - Be a Popstar"},
@@ -7018,6 +7039,13 @@
 			"titles": [
 				{"searchTerm": "Epica Stella"},
 				{"searchTerm": "Vanguard Bandits"}
+			]
+		},
+		{
+			"group": "Vantan Dennoh Intelligence College V-Disc - Vantan Gakkou Annai CD-ROM",
+			 "categories": ["Educational", "Promotional"],
+			"titles": [
+				{"searchTerm": "Vantan Dennoh Intelligence College V-Disc - Vantan Gakkou Annai CD-ROM (Japan)"}
 			]
 		},
 		{
